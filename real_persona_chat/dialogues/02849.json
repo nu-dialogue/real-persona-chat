@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2849,
+    "interlocutors": [
+        "DN",
+        "DG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-24T14:28:23.713000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DG",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-24T14:28:29.052000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "休日は何をして過ごされますか？",
+            "timestamp": "2022-08-24T14:28:44.928000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DG",
+            "text": "ドライブや買い物、たまにライブにいきます",
+            "timestamp": "2022-08-24T14:29:01.961000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "お車に乗って出かけるのがお好きなんでしょうか？",
+            "timestamp": "2022-08-24T14:29:18.742000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DG",
+            "text": "はい、自分でも乗るのが好きです",
+            "timestamp": "2022-08-24T14:29:30.445000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "ドライブはどんなところにお出かけになるのですか？",
+            "timestamp": "2022-08-24T14:29:42.582000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DG",
+            "text": "近所じゃなくて少し走ったところのモールとかにいきます。",
+            "timestamp": "2022-08-24T14:30:00.921000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "それはいいですね。お住まいの周辺にたくさんモールはありますか？",
+            "timestamp": "2022-08-24T14:30:26.863000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DG",
+            "text": "神奈川なので各所になんとかモールとか多い方だと思います！",
+            "timestamp": "2022-08-24T14:30:46.629000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "神奈川県なんですね！いいところですね。最近ときどき横浜まで行くことがあります。",
+            "timestamp": "2022-08-24T14:31:11.301000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DG",
+            "text": "そうなのですか！都心に出るより運転も楽で私もよく行きますー",
+            "timestamp": "2022-08-24T14:31:33.484000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。息子が日吉に住んでいますが歩行者用の道路が狭いと感じます。",
+            "timestamp": "2022-08-24T14:31:58.754000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DG",
+            "text": "あー、確かにその辺の整備は観光地ばっかりかもしれません",
+            "timestamp": "2022-08-24T14:32:20.439000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。横浜は私の住んでいるところと少しモールの名前も違うものが多いなと思いました。",
+            "timestamp": "2022-08-24T14:32:58.706000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DG",
+            "text": "なるほど！同じ系列だとポイントカードで駐車場が何時間か無料なのでそこ重視しちゃいます",
+            "timestamp": "2022-08-24T14:33:33.527000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "おお！そうなんですね。こちらは名古屋ですが、モールの駐車場はほぼ無料です。",
+            "timestamp": "2022-08-24T14:33:57.332000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DG",
+            "text": "えー羨ましいです！名古屋、今年いきました。一泊だけ。",
+            "timestamp": "2022-08-24T14:34:15.319000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "愛知県は車社会だから駐車場は恵まれているのかもしれません。",
+            "timestamp": "2022-08-24T14:34:43.456000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DG",
+            "text": "なるほど、トヨタもありますもんね。駅前がとっても栄えていて驚きました",
+            "timestamp": "2022-08-24T14:35:06.898000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "同じような町が多いのですが。どちらにお出かけになられたのですか？",
+            "timestamp": "2022-08-24T14:35:27.273000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DG",
+            "text": "名古屋駅の近くのホテルにとまりましたー",
+            "timestamp": "2022-08-24T14:35:40.916000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "都心は関東ほど多くないので、ホテル探しは楽かもしれません。",
+            "timestamp": "2022-08-24T14:36:26.122000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DG",
+            "text": "たまたま取れたホテルがお手頃なのに作りがしっかりしていて感激しました",
+            "timestamp": "2022-08-24T14:36:50.730000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか？どんなホテルだったのでしょう。",
+            "timestamp": "2022-08-24T14:37:09.935000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DG",
+            "text": "観光ホテル？みたいな名称で、最近減ってきたお上品な老舗ってかんじでした",
+            "timestamp": "2022-08-24T14:37:38.534000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "それは、伏見にある老舗のホテルですね。結婚式なんかもやっています。",
+            "timestamp": "2022-08-24T14:38:15.395000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DG",
+            "text": "そうなのですね！お留守番の代わりにルームサービスでモーニングを食べた幸せステイでした",
+            "timestamp": "2022-08-24T14:38:45.713000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "それはリッチな過ごし方ですよね。私もホテルに泊まってみたい。",
+            "timestamp": "2022-08-24T14:39:12.747000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DG",
+            "text": "たまにはそういう一人贅沢もいいかもしれませんー",
+            "timestamp": "2022-08-24T14:39:30.110000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

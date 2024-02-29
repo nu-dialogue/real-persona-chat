@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6113,
+    "interlocutors": [
+        "GH",
+        "EN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GH",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-02T19:44:53.487000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EN",
+            "text": "こんばんわ！",
+            "timestamp": "2022-10-02T19:45:00.793000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GH",
+            "text": "好きな季節はいつですか？",
+            "timestamp": "2022-10-02T19:45:11.765000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EN",
+            "text": "冬ですね！",
+            "timestamp": "2022-10-02T19:45:15.708000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GH",
+            "text": "理由は？",
+            "timestamp": "2022-10-02T19:45:22.016000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EN",
+            "text": "雪国育ちだからです！",
+            "timestamp": "2022-10-02T19:45:32.602000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GH",
+            "text": "あーそうなんですね！冬寒そうです",
+            "timestamp": "2022-10-02T19:45:43.905000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EN",
+            "text": "雪が好きなんですよね。運転は怖いのですが。",
+            "timestamp": "2022-10-02T19:45:54.965000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GH",
+            "text": "いいですね！雪とは無縁に生きてきたので、うらやましいです",
+            "timestamp": "2022-10-02T19:46:13.897000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EN",
+            "text": "そうなんですか！あまり降られない地域にお住まいですか？",
+            "timestamp": "2022-10-02T19:46:31.317000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GH",
+            "text": "そうです。京都なんですが降らないですね",
+            "timestamp": "2022-10-02T19:46:41.773000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EN",
+            "text": "そうなんですかー！京都だと日本海側は降りますかね？",
+            "timestamp": "2022-10-02T19:47:03.236000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GH",
+            "text": "あーたしかに。南部なので降らないです",
+            "timestamp": "2022-10-02T19:47:13.736000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EN",
+            "text": "大阪寄りなんですかね？",
+            "timestamp": "2022-10-02T19:47:31.688000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GH",
+            "text": "そうですね！大阪近いです",
+            "timestamp": "2022-10-02T19:47:39.922000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EN",
+            "text": "便利なところにお住まいですね！うらやましい。",
+            "timestamp": "2022-10-02T19:47:47.605000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GH",
+            "text": "やっぱり梅田に行けるというのは便利です、たしかに",
+            "timestamp": "2022-10-02T19:48:05.826000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EN",
+            "text": "私も兵庫県南部ですが、梅田までは30分以上はかかっちゃいますね。",
+            "timestamp": "2022-10-02T19:48:27.159000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GH",
+            "text": "わたしもそれぐらいはかかります！でも遠方の人に比べたら近いなあと",
+            "timestamp": "2022-10-02T19:48:46.305000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EN",
+            "text": "良いですね！しかも私は駅までバスなんです。田舎ですね。",
+            "timestamp": "2022-10-02T19:49:05.730000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GH",
+            "text": "あーなるほど、わたしも自転車です。歩くのは遠くて",
+            "timestamp": "2022-10-02T19:49:21.114000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EN",
+            "text": "自転車良いですね！駐輪場とかあるんですかー？駅に。",
+            "timestamp": "2022-10-02T19:49:39.718000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GH",
+            "text": "あります！借りているのですけど",
+            "timestamp": "2022-10-02T19:49:48.544000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EN",
+            "text": "月極ですか？",
+            "timestamp": "2022-10-02T19:49:57.238000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GH",
+            "text": "そうです！",
+            "timestamp": "2022-10-02T19:50:02.683000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EN",
+            "text": "いくらくらいですかー？",
+            "timestamp": "2022-10-02T19:50:07.820000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GH",
+            "text": "2300円とかですね",
+            "timestamp": "2022-10-02T19:50:14.952000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EN",
+            "text": "え！安い！私の最寄り、その倍します。",
+            "timestamp": "2022-10-02T19:50:28.745000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GH",
+            "text": "え！それは大変ですね",
+            "timestamp": "2022-10-02T19:50:39.854000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EN",
+            "text": "場所によるんですねー。",
+            "timestamp": "2022-10-02T19:50:44.976000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EN",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

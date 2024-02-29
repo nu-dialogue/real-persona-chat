@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2661,
+    "interlocutors": [
+        "BF",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-24T08:59:22.146000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-24T08:59:32.969000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "今日も暑くなりそうですねー。",
+            "timestamp": "2022-08-24T08:59:40.796000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "そうですね！まだまだ暑い日が続きそうです。",
+            "timestamp": "2022-08-24T08:59:52.435000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "今日はお出かけの予定はありますか？",
+            "timestamp": "2022-08-24T09:00:05.970000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "今日は多分一日家にいると思います。ちょっと買い物に行くかも",
+            "timestamp": "2022-08-24T09:00:27.832000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "暑いですからね！家にいるのが一番ですよね。",
+            "timestamp": "2022-08-24T09:00:43.246000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "そうなんですよね。暑い時間帯は外に出る気がしません",
+            "timestamp": "2022-08-24T09:01:06.265000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "私は今日ちょうど暑い時間帯に外出しなきゃいけないんですよ。",
+            "timestamp": "2022-08-24T09:01:27.470000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "あ！そうなんですか。どんなご用事ですか？",
+            "timestamp": "2022-08-24T09:01:43.139000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "子どもの習い事の送り迎えです。",
+            "timestamp": "2022-08-24T09:01:55.746000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "ああ。なるほど。習い事はどんなものをやっていますか？",
+            "timestamp": "2022-08-24T09:02:20.384000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "学習塾に行っています。夏期講習ってやつですね。",
+            "timestamp": "2022-08-24T09:02:39.113000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "夏休みですからね。そういえば去年はうちも夏期講習に行っていました。",
+            "timestamp": "2022-08-24T09:03:00.073000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "そうなんですね。こんな時、車の免許があれば！っていつも思います。",
+            "timestamp": "2022-08-24T09:03:22.669000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "夏は特に自動車がないと厳しいですよね。",
+            "timestamp": "2022-08-24T09:03:47.056000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "そうなんです。なんで若い時取らなかったんだろうって。",
+            "timestamp": "2022-08-24T09:04:07.942000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "大人になると、なかなか教習所に通う時間がないですよね。",
+            "timestamp": "2022-08-24T09:04:33.586000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "はい。時間もだし、頭の方も追い付けなさそう。",
+            "timestamp": "2022-08-24T09:05:03.003000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "私も、今試験を受けろと言われたら難しいかも。。",
+            "timestamp": "2022-08-24T09:05:30.971000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "ですよね！免許はお持ちですか？",
+            "timestamp": "2022-08-24T09:05:47.192000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "はい！田舎に住んでいるので、自動車がないと生活できないのです。",
+            "timestamp": "2022-08-24T09:06:07.357000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "なるほど！じゃあ、かなり運転はされてるんですね。",
+            "timestamp": "2022-08-24T09:06:59.850000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "そうですね。免許は若い時に取ったので、かなり運転歴は長いですね。",
+            "timestamp": "2022-08-24T09:07:22.368000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "羨ましいです！私もスイスイ車を乗り回してみたい！",
+            "timestamp": "2022-08-24T09:07:51.865000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "今からでもチャレンジできますよ！自動車乗れるとほんと便利です。",
+            "timestamp": "2022-08-24T09:08:29.920000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "まだ間に合いますかね？チャレンジしてみようかな。",
+            "timestamp": "2022-08-24T09:08:54.874000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "ぜひぜひ！私の母は、子育て中に取ったと言っていたので、なんとかなるかも",
+            "timestamp": "2022-08-24T09:09:39.040000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "なんと！なんだか勇気が湧いてきました。今日はありがとうございました！",
+            "timestamp": "2022-08-24T09:10:00.603000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-24T09:10:09.965000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

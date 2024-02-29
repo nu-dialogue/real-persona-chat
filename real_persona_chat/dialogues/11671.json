@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11671,
+    "interlocutors": [
+        "CB",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-24T22:15:47.905000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-24T22:15:57.358000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "朝ごはんは食べますか？",
+            "timestamp": "2022-08-24T22:16:12.516000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "食べる日食べない日があります。",
+            "timestamp": "2022-08-24T22:16:30.293000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "ご飯派ですか？パン派ですか",
+            "timestamp": "2022-08-24T22:16:49.425000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "圧倒的にご飯です。あなたは？",
+            "timestamp": "2022-08-24T22:17:02.704000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "私もごはんです",
+            "timestamp": "2022-08-24T22:17:25.327000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "ごはん卵焼き納豆とかが多いですね。",
+            "timestamp": "2022-08-24T22:17:51.247000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "卵焼きはあまいやつですか？",
+            "timestamp": "2022-08-24T22:17:57.872000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "自分で作るのですが、特にこだわっていません。甘いほうがおいしいですかね？",
+            "timestamp": "2022-08-24T22:18:30.972000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "昔はあまいの嫌いだったんですが、今はほんのり甘いのが好きです",
+            "timestamp": "2022-08-24T22:18:44.592000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "味付けで砂糖を少し入れるってことですよね。",
+            "timestamp": "2022-08-24T22:19:08.930000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "そうですね。みりん多めってこともあります",
+            "timestamp": "2022-08-24T22:19:21.330000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "あーなるほど。今度やってみます。",
+            "timestamp": "2022-08-24T22:19:34.312000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "だしはしっかりいれますか？",
+            "timestamp": "2022-08-24T22:19:44.488000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "だしはいれないと食べれないです！",
+            "timestamp": "2022-08-24T22:20:06.620000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね。出汁は必須なんですね。私はいれないときもあるので",
+            "timestamp": "2022-08-24T22:20:21.399000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "だし巻き卵ですね。居酒屋でもよく頼みます。",
+            "timestamp": "2022-08-24T22:20:50.832000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "居酒屋の出し巻き卵おいしいです。あんな風につくれたらいいんですが",
+            "timestamp": "2022-08-24T22:21:07.968000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "間違いないです。何かコツとかあるのかなぁ。",
+            "timestamp": "2022-08-24T22:21:28.632000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "そうですね。いろいろためしたことがないので",
+            "timestamp": "2022-08-24T22:21:51.176000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "私もあまりですね。朝は忙しいですし。",
+            "timestamp": "2022-08-24T22:22:18.133000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "朝は簡単にすませたくて、目玉やきが多いです。",
+            "timestamp": "2022-08-24T22:22:28.347000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "目玉焼きもします。ソースか醤油かどちらですか？",
+            "timestamp": "2022-08-24T22:22:53.749000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "しょうゆです",
+            "timestamp": "2022-08-24T22:23:06.920000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "私も醤油が好きです。",
+            "timestamp": "2022-08-24T22:23:27.938000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "あ、塩とブラックペッパーも好きです。",
+            "timestamp": "2022-08-24T22:23:43.187000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "あ、塩忘れていました。ブラックペッパーも合いそうですね。",
+            "timestamp": "2022-08-24T22:24:08.920000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "飽きたときにはいいです",
+            "timestamp": "2022-08-24T22:24:27.946000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "そういうところで味付けをかえないとですよね。",
+            "timestamp": "2022-08-24T22:24:45.603000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

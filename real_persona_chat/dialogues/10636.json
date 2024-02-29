@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10636,
+    "interlocutors": [
+        "DC",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DC",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T12:47:03.671000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T12:47:12.781000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DC",
+            "text": "今日は、そちらのお天気はいかがですか？",
+            "timestamp": "2022-09-01T12:47:28.650000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "曇り時々雨って感じです",
+            "timestamp": "2022-09-01T12:47:48.581000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DC",
+            "text": "なんだか、急に秋めいてきましたよね。",
+            "timestamp": "2022-09-01T12:48:05.751000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "ですよね。夏は去ったか",
+            "timestamp": "2022-09-01T12:48:17.240000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DC",
+            "text": "季節の中で、いつが一番好きですか？",
+            "timestamp": "2022-09-01T12:48:33.582000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "私は春が好きです",
+            "timestamp": "2022-09-01T12:48:38.989000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DC",
+            "text": "おお！いいですね！理由とかありますか？",
+            "timestamp": "2022-09-01T12:49:02.527000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "程よい暖かさと桜が好きでして",
+            "timestamp": "2022-09-01T12:49:17.253000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DC",
+            "text": "そうですよねー！よく、花粉症の人は春が嫌いと言いますが、桜はきれいです！",
+            "timestamp": "2022-09-01T12:49:48.102000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "あっ、確かに花粉症は嫌です",
+            "timestamp": "2022-09-01T12:50:05.926000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DC",
+            "text": "あれ、花粉症でいらっしゃいますか？",
+            "timestamp": "2022-09-01T12:50:27.250000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "ですね。毎年薬をもらっています",
+            "timestamp": "2022-09-01T12:50:34.272000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DC",
+            "text": "ありゃ、それは結構酷めのアレルギーみたいですね。",
+            "timestamp": "2022-09-01T12:50:55.091000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "3ヶ月は飲みますね",
+            "timestamp": "2022-09-01T12:51:13.437000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DC",
+            "text": "私、軽めの花粉症なのですが、薬飲むとすぐ眠くなっちゃって。",
+            "timestamp": "2022-09-01T12:51:41.896000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "薬局の市販薬ですか",
+            "timestamp": "2022-09-01T12:51:59.748000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DC",
+            "text": "そうなんです！もしかして、病院のものの方がいいんでしょうか？",
+            "timestamp": "2022-09-01T12:52:21.615000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "病院に行くのがおすすめです。よく効きます",
+            "timestamp": "2022-09-01T12:52:37.830000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DC",
+            "text": "へええ、そうなんですね、知らなかった！他に、花粉症対策とかしていますか？",
+            "timestamp": "2022-09-01T12:53:08.611000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "薬だけです。",
+            "timestamp": "2022-09-01T12:53:15.359000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DC",
+            "text": "でも、その薬が効くから、桜を存分に楽しめていらっしゃるんでしょうね。",
+            "timestamp": "2022-09-01T12:53:44.859000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "そうですね助かります。あと今はマスク効果ありですかね",
+            "timestamp": "2022-09-01T12:54:09.022000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DC",
+            "text": "あ！そうかも！コロナのマスクは結構いろんなものに効果がありますよね。ちょっと苦しいけど。",
+            "timestamp": "2022-09-01T12:54:37.387000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "暑い時は厳しいけど花粉にはいいですよね",
+            "timestamp": "2022-09-01T12:54:59.190000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DC",
+            "text": "できれば、また来年はマスクをちょっと緩めてお花見ができるようになるといいですね。",
+            "timestamp": "2022-09-01T12:55:36.256000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "マスクがなくなるのが待ち遠しいです",
+            "timestamp": "2022-09-01T12:55:49.989000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DC",
+            "text": "桜見ながら、お酒でも！来年に期待しましょう！",
+            "timestamp": "2022-09-01T12:56:33.334000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "期待値上がってます！",
+            "timestamp": "2022-09-01T12:56:40.925000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10542,
+    "interlocutors": [
+        "DT",
+        "CC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DT",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T10:14:45.839000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CC",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-14T10:14:51.855000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DT",
+            "text": "今日のお昼は何を食べる予定ですか？",
+            "timestamp": "2022-08-14T10:15:09.484000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CC",
+            "text": "えー何かな。まだ決めてないです。あなたは？",
+            "timestamp": "2022-08-14T10:15:23.871000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DT",
+            "text": "私も決めてないですが納豆ご飯になりそうです。",
+            "timestamp": "2022-08-14T10:15:47.306000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CC",
+            "text": "納豆ご飯いいですね！",
+            "timestamp": "2022-08-14T10:16:04.825000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DT",
+            "text": "簡単に済ませれるのでいいやーって。",
+            "timestamp": "2022-08-14T10:16:25.205000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CC",
+            "text": "いつも買っていた納豆についているお醤油の味が、最近変わったような気がしてちょっと残念です。",
+            "timestamp": "2022-08-14T10:17:02.416000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DT",
+            "text": "どう変わったんですか？",
+            "timestamp": "2022-08-14T10:17:19.833000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CC",
+            "text": "なんかしょっぱくなったような。",
+            "timestamp": "2022-08-14T10:17:29.337000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DT",
+            "text": "付属のお醤油変わるものなんですね。私はむしろしょっぱい方が好みです。",
+            "timestamp": "2022-08-14T10:18:12.112000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CC",
+            "text": "前はもうちょっと出汁っぽい味がしてたような気がするんですが。。。",
+            "timestamp": "2022-08-14T10:18:43.301000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DT",
+            "text": "なるほどー、それは残念ですね。",
+            "timestamp": "2022-08-14T10:19:15.930000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CC",
+            "text": "そうなんです。お子様はまだ納豆は食べないですか？",
+            "timestamp": "2022-08-14T10:19:42.465000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DT",
+            "text": "食べないですね。離乳食始めたばかりで色々食べてくれなくて困ってます。",
+            "timestamp": "2022-08-14T10:20:19.602000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CC",
+            "text": "離乳食でも食べる、食べないあるんですか？",
+            "timestamp": "2022-08-14T10:20:49.342000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DT",
+            "text": "ありますよ。緑のお野菜とかマズそうです。あからさまに嫌な顔されます。",
+            "timestamp": "2022-08-14T10:21:38.537000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CC",
+            "text": "へー。離乳食ってどうやって味付けするんですか？",
+            "timestamp": "2022-08-14T10:22:28.556000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DT",
+            "text": "まだ味付けしないです。したとしても出汁程度で風味を加えるくらいで。お粥をに出汁加えるとかそんな程度。",
+            "timestamp": "2022-08-14T10:24:08.857000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CC",
+            "text": "なるほどー。そうすると素材の味がダイレクトに伝わるんですね。",
+            "timestamp": "2022-08-14T10:24:19.422000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DT",
+            "text": "そうなんです。だから余計ダメなんだと思います。",
+            "timestamp": "2022-08-14T10:24:40.462000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CC",
+            "text": "何が好きそうですか？",
+            "timestamp": "2022-08-14T10:25:06.991000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DT",
+            "text": "カボチャとかコーンのペーストですね。甘いものが好きみたいです。",
+            "timestamp": "2022-08-14T10:25:36.763000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CC",
+            "text": "あ、それはおいしそうですね。",
+            "timestamp": "2022-08-14T10:25:54.674000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DT",
+            "text": "はい。ベビーフードのお湯で溶かすものなんですが大人が食べても美味しいです。",
+            "timestamp": "2022-08-14T10:27:00.330000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CC",
+            "text": "そしたらピーマンとかはやっぱり苦手なんでしょうね。",
+            "timestamp": "2022-08-14T10:27:23.612000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DT",
+            "text": "でしょうね。恐る恐るこちらもあげる感じです。",
+            "timestamp": "2022-08-14T10:27:53.858000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CC",
+            "text": "そうなんですね。いつか食べられるようになるといいですね。",
+            "timestamp": "2022-08-14T10:28:22.124000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DT",
+            "text": "はい。好き嫌い激しくならないで欲しいなあ。",
+            "timestamp": "2022-08-14T10:29:11.142000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CC",
+            "text": "お話ありがとうございます。勉強になりました！",
+            "timestamp": "2022-08-14T10:29:26.756000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

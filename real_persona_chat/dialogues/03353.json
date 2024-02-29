@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3353,
+    "interlocutors": [
+        "CV",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CV",
+            "text": "こんばんは！よろしくお願いいたします。",
+            "timestamp": "2022-08-29T22:30:52.487000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんばんは！よろしくお願いいたします。",
+            "timestamp": "2022-08-29T22:31:13.199000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CV",
+            "text": "映画やドラマ、漫画などでおすすめはありますか？",
+            "timestamp": "2022-08-29T22:31:18.086000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "結構見るのですが、タイトルを覚えていないという。すみません！",
+            "timestamp": "2022-08-29T22:31:54.906000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CV",
+            "text": "いえいえ！映画とドラマだと、よく観るのはどちらですか？",
+            "timestamp": "2022-08-29T22:32:19.019000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "映画です。",
+            "timestamp": "2022-08-29T22:32:50.551000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CV",
+            "text": "映画ですか。私は映画はあんまりで、地上波のドラマを結構みる派です",
+            "timestamp": "2022-08-29T22:33:16.594000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "最近めっきり地上波を見なくなってしまいました。最近どんなドラマをみてますか？",
+            "timestamp": "2022-08-29T22:34:36.627000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CV",
+            "text": "そういう方多いですよね。今期はイマイチなので、落ち着くところは大河ドラマですね",
+            "timestamp": "2022-08-29T22:35:04.936000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "大河ドラマいいですね！違うかもですが、今小栗旬くんが出てますかね？",
+            "timestamp": "2022-08-29T22:35:37.049000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CV",
+            "text": "合ってます！小栗くんが主役で、脚本は三谷幸喜さんです",
+            "timestamp": "2022-08-29T22:35:56.768000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "よかったです！宣伝で見たのかもしれません。面白いですか？",
+            "timestamp": "2022-08-29T22:36:42.029000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CV",
+            "text": "面白いですよ！鎌倉時代を扱うのも結構珍しいし、三谷幸喜はさすがです",
+            "timestamp": "2022-08-29T22:37:08.574000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "鎌倉時代は北条家でしたか？三谷さまは高い評価のお方ですよね。",
+            "timestamp": "2022-08-29T22:37:52.744000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CV",
+            "text": "そうです、北条氏と源氏の、鎌倉幕府のお話です。三谷さんはファン多いですね！",
+            "timestamp": "2022-08-29T22:38:25.957000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "合ってた。よかったです。面白そうですね。興味がわいてきました。",
+            "timestamp": "2022-08-29T22:39:11.687000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CV",
+            "text": "これからクライマックスに入っていくので、ぜひ観てみてくださいーー",
+            "timestamp": "2022-08-29T22:39:32.843000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "観てみます！",
+            "timestamp": "2022-08-29T22:40:17.443000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CV",
+            "text": "ぜひに！映画は、洋画と邦画どちら派ですか？",
+            "timestamp": "2022-08-29T22:40:33.938000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "洋画が多いかもしれません。数年前まではよく観てました。CSIとかご存じでしょうか？",
+            "timestamp": "2022-08-29T22:41:53.548000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CV",
+            "text": "CSI、、、すみません存じ上げず。どういう系のお話ですか？",
+            "timestamp": "2022-08-29T22:42:21.012000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "かえってすみません！アメリカの科学捜査班が難事件を解決していくストーリーです。",
+            "timestamp": "2022-08-29T22:43:53.111000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CV",
+            "text": "科学捜査！好きな感じのお話です！日本のドラマでいうと、科捜研の女ですねー",
+            "timestamp": "2022-08-29T22:44:28.813000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "そんな感じです！ニューヨークシリーズがあるのですが恋愛あり涙ありで面白かったです。",
+            "timestamp": "2022-08-29T22:45:29.003000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CV",
+            "text": "面白そうです！今、どこかの動画サイトで観られるのかしら、、、",
+            "timestamp": "2022-08-29T22:45:52.157000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "よかったです！うーん。話題を振っておいて、分かりません。ごめんなさい！",
+            "timestamp": "2022-08-29T22:46:27.097000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CV",
+            "text": "いえ！今検索したら、Huluで観られるみたいです！",
+            "timestamp": "2022-08-29T22:46:43.969000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね！最近は便利になりましたね。",
+            "timestamp": "2022-08-29T22:47:31.726000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CV",
+            "text": "インターネット万歳ですね！今度、観てみます！情報ありがとうございます",
+            "timestamp": "2022-08-29T22:47:57.039000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "とんでもないです！こちらこそありがとうございます！",
+            "timestamp": "2022-08-29T22:48:11.588000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

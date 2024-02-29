@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12221,
+    "interlocutors": [
+        "EF",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EF",
+            "text": "こんにちは！よろしくお願いいたします！",
+            "timestamp": "2022-09-06T13:32:21.112000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！こちらこそよろしくお願いします！",
+            "timestamp": "2022-09-06T13:32:32.683000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EF",
+            "text": "最近は天気が不安定で大変ですねー。",
+            "timestamp": "2022-09-06T13:32:46.953000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "そうですね！こちらは今日台風の影響が強いらしいです。",
+            "timestamp": "2022-09-06T13:33:03.526000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EF",
+            "text": "こちらも曇っていて少し嫌な風が吹いています。",
+            "timestamp": "2022-09-06T13:33:30.407000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "こちらもです。低気圧に弱いので、朝起きるのにかなり苦労しました。",
+            "timestamp": "2022-09-06T13:33:49.327000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EF",
+            "text": "すっごく分かります朝大変ですよねー。それ以外に被害はありませんか？大丈夫ですか？",
+            "timestamp": "2022-09-06T13:34:22.271000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "頭が痛いとか常に眠いとかですかね。そちらはそういうのはないですか？",
+            "timestamp": "2022-09-06T13:34:51.024000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EF",
+            "text": "頭痛持ちの方はこういう日本当に大変ですよね。こっちは台風からも遠いみたいで大丈夫です！",
+            "timestamp": "2022-09-06T13:35:28.017000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "大変です。そうなんですか！ちなみにどの辺に住んでるんですか？",
+            "timestamp": "2022-09-06T13:35:53.964000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EF",
+            "text": "東北の方です！そちらは？",
+            "timestamp": "2022-09-06T13:36:10.331000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "おお！私は愛知県なので場所は全然違いますね！",
+            "timestamp": "2022-09-06T13:36:37.169000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EF",
+            "text": "愛知ですか！良いですねいつか行ってみたいです",
+            "timestamp": "2022-09-06T13:37:08.132000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "愛知といえば名古屋だと思うんですけど、正直観光するところはあまりないです。",
+            "timestamp": "2022-09-06T13:37:32.101000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EF",
+            "text": "あららそうなんですか？観光地のイメージが強いです。",
+            "timestamp": "2022-09-06T13:38:03.632000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！例えばなんか思いつきます？",
+            "timestamp": "2022-09-06T13:38:21.077000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EF",
+            "text": "お城とかありますよね？",
+            "timestamp": "2022-09-06T13:38:38.420000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "名古屋城と犬山城とかですかね。たしかにあの辺は城下町が発展してます。",
+            "timestamp": "2022-09-06T13:39:06.752000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EF",
+            "text": "そのイメージがすごく強いですね、お城というかしゃちほこのイメージかもですが",
+            "timestamp": "2022-09-06T13:39:32.681000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "金シャチですね！あれはきれいですよ。",
+            "timestamp": "2022-09-06T13:39:49.721000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EF",
+            "text": "やっぱりきれいなんですね！1回は生で見てみたいなーって思っているんです。",
+            "timestamp": "2022-09-06T13:40:14.545000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "ぜひお越しください！一番栄えている名古屋駅にはたくさんビルがあって、買い物ができます。",
+            "timestamp": "2022-09-06T13:41:07.656000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EF",
+            "text": "おー！それは魅力的ですね！食べ物もおいしいイメージがありますし",
+            "timestamp": "2022-09-06T13:41:37.169000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "みそが有名ですからね！味噌カツはおすすめです！",
+            "timestamp": "2022-09-06T13:42:03.917000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EF",
+            "text": "味噌カツすっごく惹かれます！丼にして食べたいですねー。",
+            "timestamp": "2022-09-06T13:42:39.539000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "味噌カツどんですね！かなりおいしいです。ちなみにそちらは何が有名ですか？",
+            "timestamp": "2022-09-06T13:43:09.608000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EF",
+            "text": "こっちは牛タンが有名ですねー。お高くてあまり食べられませんがおいしいです！",
+            "timestamp": "2022-09-06T13:43:42.307000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "牛タン！たしかに有名だと聞いたことがあります！分厚いやつですかね？",
+            "timestamp": "2022-09-06T13:44:02.659000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EF",
+            "text": "そうです分厚いやつです！厚さに見合わず柔らかいんですよー。",
+            "timestamp": "2022-09-06T13:44:28.621000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "ぜひ食べに行きたいです！",
+            "timestamp": "2022-09-06T13:44:43.237000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

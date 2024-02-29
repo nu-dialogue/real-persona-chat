@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6957,
+    "interlocutors": [
+        "HU",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HU",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-09T17:11:44.861000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-09T17:11:51.797000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HU",
+            "text": "最近涼しくなりましたが、季節はいつが好きですか？",
+            "timestamp": "2022-10-09T17:12:03"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "秋が一番好きです！",
+            "timestamp": "2022-10-09T17:12:10.632000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HU",
+            "text": "私もです！どのあたりが魅力ですか？",
+            "timestamp": "2022-10-09T17:12:24.537000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "食べ物が美味しいのと、気温がちょうどいいかなと。",
+            "timestamp": "2022-10-09T17:12:35.993000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HU",
+            "text": "わかります。春と比べて秋の方がなんとなく過ごしやすい気がします。",
+            "timestamp": "2022-10-09T17:12:55.409000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "あと春は花粉症がひどくて。",
+            "timestamp": "2022-10-09T17:13:04.052000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HU",
+            "text": "それは大変ですね。",
+            "timestamp": "2022-10-09T17:13:16.988000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "もう体の水全部抜きたいくらい鼻水出ます。",
+            "timestamp": "2022-10-09T17:13:32.693000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HU",
+            "text": "そんなにですか。周りもひどい人が多いので、同情します。",
+            "timestamp": "2022-10-09T17:13:52.167000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "あなたは花粉症はないですか？",
+            "timestamp": "2022-10-09T17:14:03.119000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HU",
+            "text": "はい、おかげさまで大丈夫です。",
+            "timestamp": "2022-10-09T17:14:20.009000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "めっちゃ羨ましいです！",
+            "timestamp": "2022-10-09T17:14:25.502000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HU",
+            "text": "これは本当に良かったと思います。",
+            "timestamp": "2022-10-09T17:14:43.687000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "アレルギーとかもないですか？",
+            "timestamp": "2022-10-09T17:15:03.402000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HU",
+            "text": "ちょっとだけハウスダストに反応しますが、一時的です。",
+            "timestamp": "2022-10-09T17:15:25.914000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "私は蕎麦アレルギーもあるので大変です。",
+            "timestamp": "2022-10-09T17:15:44.715000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HU",
+            "text": "なんと！外食とか怖いですよね。",
+            "timestamp": "2022-10-09T17:16:01.623000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "知らないうちに食べちゃって病院送りになったこともあります。",
+            "timestamp": "2022-10-09T17:16:23.806000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HU",
+            "text": "知人もそうだったらしいです。恐ろしいですね。",
+            "timestamp": "2022-10-09T17:16:42.033000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "蕎麦は特に命に関わるらしいです。",
+            "timestamp": "2022-10-09T17:16:57.293000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HU",
+            "text": "その人も、呼吸ができなくなったと聞きました。",
+            "timestamp": "2022-10-09T17:17:12.950000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "私と一緒だ！",
+            "timestamp": "2022-10-09T17:17:25.802000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HU",
+            "text": "やっぱり。ずっと気をつけなくてはならないのは大変そうですね。",
+            "timestamp": "2022-10-09T17:17:47.580000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "とりあえずそれ以来、外食では疑わしいときは必ず聞くようにしています。",
+            "timestamp": "2022-10-09T17:18:08.193000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HU",
+            "text": "大事ですよね。よく洗ってもやばいこともあるとか聞きます。",
+            "timestamp": "2022-10-09T17:18:34.216000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "完治すればとても楽に暮らせるんですが。",
+            "timestamp": "2022-10-09T17:19:01.803000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HU",
+            "text": "治る薬とかあればいいですね。",
+            "timestamp": "2022-10-09T17:19:20.919000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "本当にそう思います！",
+            "timestamp": "2022-10-09T17:19:29.355000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

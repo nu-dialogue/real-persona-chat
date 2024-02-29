@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1000,
+    "interlocutors": [
+        "AH",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T15:26:38.120000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:26:43.018000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "災害に備えていたりはしますか？",
+            "timestamp": "2022-08-11T15:26:54.311000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "一応水とか非常食は備蓄してます。",
+            "timestamp": "2022-08-11T15:27:07.256000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "やっぱりご飯がないと生きていけないですからね。",
+            "timestamp": "2022-08-11T15:27:24.950000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "食料は大事ですね。",
+            "timestamp": "2022-08-11T15:27:34.847000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "はい、それがないと元気でないですし！！",
+            "timestamp": "2022-08-11T15:27:53.673000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "ですよね、何か備蓄されてますか？",
+            "timestamp": "2022-08-11T15:28:08.706000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "うちも缶詰と水くらいです。",
+            "timestamp": "2022-08-11T15:28:20.577000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "備蓄におすすめの缶詰とかあります？",
+            "timestamp": "2022-08-11T15:28:35.034000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "日持ちするやつとかじゃないですかね。味はわからないので。",
+            "timestamp": "2022-08-11T15:28:55.671000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "なるほど、最近パンの缶詰を見つけて備蓄してます。",
+            "timestamp": "2022-08-11T15:29:18.446000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "パンの缶詰もあるのですね！",
+            "timestamp": "2022-08-11T15:29:28.716000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "あります！備蓄用に作られてるので長持ちしますよ。",
+            "timestamp": "2022-08-11T15:29:40.916000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "そういえば、地域の備蓄庫のそんなものがあったかも。",
+            "timestamp": "2022-08-11T15:29:59.831000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "味も美味しかったです、気になって一個食べてみました。",
+            "timestamp": "2022-08-11T15:30:17.533000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "味もいいなんて最高じゃないですか！",
+            "timestamp": "2022-08-11T15:30:25.318000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "ですね。災害時でも美味しいものが食べられそうです。",
+            "timestamp": "2022-08-11T15:30:40.689000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "少し前に鯖缶がブームみたいになっていましたね。",
+            "timestamp": "2022-08-11T15:30:53.207000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "確かに。ダイエットにいいと聞きました。",
+            "timestamp": "2022-08-11T15:31:09.296000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "栄養も豊富とか言われていた気がします。",
+            "timestamp": "2022-08-11T15:31:19.023000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "栄養も高いですね。",
+            "timestamp": "2022-08-11T15:31:32.583000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "缶詰ってかなり種類ありますよね。",
+            "timestamp": "2022-08-11T15:31:45.514000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "ありますね。最近は高級缶詰もありますよね。",
+            "timestamp": "2022-08-11T15:31:57.750000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "高級缶詰、なんかすごい美味しそうなものが入っていそうです。",
+            "timestamp": "2022-08-11T15:32:09.146000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "カキのオイルづけとかそのままおつまみにできそうな感じでした",
+            "timestamp": "2022-08-11T15:32:34.196000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "日常でも食べたいくらい美味しそうです。",
+            "timestamp": "2022-08-11T15:32:57.726000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "おつまみ用のシリーズもでてましたよ。",
+            "timestamp": "2022-08-11T15:33:14.364000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "おつまみ缶詰、ぜひ調べてみます！",
+            "timestamp": "2022-08-11T15:33:23.268000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "確か缶つまという名前でした。",
+            "timestamp": "2022-08-11T15:33:34.023000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

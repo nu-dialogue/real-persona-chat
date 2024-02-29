@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 296,
+    "interlocutors": [
+        "AN",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-08T08:57:14.305000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "おはようございます！宜しくお願いします。",
+            "timestamp": "2022-08-08T08:57:24.467000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "はい、よろしくお願いします。こちらは今日は快晴ですよ！",
+            "timestamp": "2022-08-08T08:57:40.815000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "こちらもカンカン照りです。残暑がきつすぎる。",
+            "timestamp": "2022-08-08T08:57:56.663000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "ですよね。もう毎日暑すぎますよね。",
+            "timestamp": "2022-08-08T08:58:11.148000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "はいー。こんなにクーラーつけたままにしたことないです。",
+            "timestamp": "2022-08-08T08:58:36.316000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "クーラーつけたままにしないと、熱中症になっちゃいそうですもんね。",
+            "timestamp": "2022-08-08T08:58:47.455000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "朝から汗かいちゃいました。",
+            "timestamp": "2022-08-08T08:58:59.449000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "5分お外に出るくらいで、汗噴出してきますよね。",
+            "timestamp": "2022-08-08T08:59:20.768000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "はい。発汗がいいことだけ確認できます。今年焼けましたか？",
+            "timestamp": "2022-08-08T08:59:45.287000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "はい、じわじわと焼けています。特にレジャーに出かけた訳ではないんですが。",
+            "timestamp": "2022-08-08T09:00:09.583000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "海とか行く予定ないですか？",
+            "timestamp": "2022-08-08T09:00:22.761000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "川遊びに行く予定はありますよ。あなたは？",
+            "timestamp": "2022-08-08T09:00:41.579000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "うちは琵琶湖に行く予定です。夫の実家の近くなので。",
+            "timestamp": "2022-08-08T09:00:59.213000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "琵琶湖ですか、いいですね。",
+            "timestamp": "2022-08-08T09:01:15.936000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "行かれたことありますか？滋賀県。",
+            "timestamp": "2022-08-08T09:01:25.232000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "はい。わたし関西に住んでいるので、たまに行きます！",
+            "timestamp": "2022-08-08T09:01:39.544000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。湖はべたつかないので好きです。川も！",
+            "timestamp": "2022-08-08T09:02:20.620000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "海は潮でべたべたになりますよね。琵琶湖で水遊びってしたことないんです。",
+            "timestamp": "2022-08-08T09:02:45.358000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "なんか、一応、湖の上でできるアクティビティあるみたいです。",
+            "timestamp": "2022-08-08T09:03:07.407000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "バナナボートとかできるって見たことあります。",
+            "timestamp": "2022-08-08T09:03:23.655000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "そうです。あと、何か大きいボールに入って遊ぶやつとか。",
+            "timestamp": "2022-08-08T09:03:43.911000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "あれですね！なんて名称かわからないですが、イメージはできます！",
+            "timestamp": "2022-08-08T09:04:02.279000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "なんか流行ってましたよね？やたらテレビでやってた。",
+            "timestamp": "2022-08-08T09:04:19.993000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "一時期よくテレビで流れていましたね。最近はちょっと見なくなりましたけど。",
+            "timestamp": "2022-08-08T09:04:42.129000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "ですね。近いから行くけど、遠かったらわざわざ行かないかも。",
+            "timestamp": "2022-08-08T09:04:59.081000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "確かにそうですね。久々に琵琶湖行ってみようかなー。",
+            "timestamp": "2022-08-08T09:05:32.791000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "行ってみて下さい！おしゃれなカフェも増えてるみたいです。",
+            "timestamp": "2022-08-08T09:05:47.571000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "いいですね。素敵な情報教えて下さってありがとうございます！",
+            "timestamp": "2022-08-08T09:06:08.787000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "いえいえ。ではまた。",
+            "timestamp": "2022-08-08T09:06:16.282000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "はい、また。",
+            "timestamp": "2022-08-08T09:06:31.421000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

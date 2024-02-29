@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2329,
+    "interlocutors": [
+        "DF",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-21T15:27:38.122000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-21T15:27:44.864000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DF",
+            "text": "明日からはお仕事ですか？",
+            "timestamp": "2022-08-21T15:27:57.222000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "通常はそうなんですが、明日はお休みします。",
+            "timestamp": "2022-08-21T15:28:28.578000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DF",
+            "text": "お！そうなのですね！有休ですか？",
+            "timestamp": "2022-08-21T15:28:50.615000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "フリーランスみたいな感じなので、有休はないのですが、そんな感じです！友人と会います！",
+            "timestamp": "2022-08-21T15:29:31.646000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DF",
+            "text": "そうなのですね！いいですね！どこか行かれるのですか？",
+            "timestamp": "2022-08-21T15:29:54.299000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "地方にいる友人が飛行機に乗るまでの間に会うって感じなので、ランチを楽しもうかなと思ってます。",
+            "timestamp": "2022-08-21T15:30:21.198000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DF",
+            "text": "ランチいいですね！何系に行くのか決まってますか？",
+            "timestamp": "2022-08-21T15:31:01.297000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "カフェからのイタリアンに行こうかなと思ってます。",
+            "timestamp": "2022-08-21T15:31:16.377000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DF",
+            "text": "わー！そのハシゴ、いいですね！",
+            "timestamp": "2022-08-21T15:31:36.461000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "いい感じですよね！集合の時点では、時間の関係でお店がまだあまり開いてなくて。",
+            "timestamp": "2022-08-21T15:32:07.469000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DF",
+            "text": "なるほどなるほど。都心部とか特にですが、お店開く時間遅いですよね、、",
+            "timestamp": "2022-08-21T15:32:33.519000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "そうなんですよ。あなたは明日からお仕事ですか？",
+            "timestamp": "2022-08-21T15:32:45.631000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DF",
+            "text": "私は明日から仕事ですー。",
+            "timestamp": "2022-08-21T15:33:26.959000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "始業は何時ですか？",
+            "timestamp": "2022-08-21T15:33:41.942000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DF",
+            "text": "フレックスなので特に決まってはいないです。在宅が長かったので久しぶりに電車乗ります、、",
+            "timestamp": "2022-08-21T15:34:23.080000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "フレックスいいですね！自分で調整できますね。",
+            "timestamp": "2022-08-21T15:34:45.431000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DF",
+            "text": "そうですね、結構自由です。ラッシュの時間は避けたいと思います、、",
+            "timestamp": "2022-08-21T15:35:21.232000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "そうですね！久しぶりの電車で満員だったらそれだけで疲れますもんね。",
+            "timestamp": "2022-08-21T15:35:53.719000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DF",
+            "text": "ほんと、暑いですし、通勤だけで疲れてしまいます、、",
+            "timestamp": "2022-08-21T15:36:11.878000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "出社するときは何時ぐらいに始めることが多いのですか？",
+            "timestamp": "2022-08-21T15:36:40.192000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DF",
+            "text": "結局時間が決まっている会社と同じで、9時とかが多いですよー。",
+            "timestamp": "2022-08-21T15:37:24.177000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね、、。それだと行きも帰りも人が多そうですね、、。",
+            "timestamp": "2022-08-21T15:37:54.558000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DF",
+            "text": "そうですね。外との会議などがあると結局そうなってしまいます。",
+            "timestamp": "2022-08-21T15:38:15.924000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "確かに！外部の方と時間合わせるとそうなりますね！あまり無理はなさらないように！",
+            "timestamp": "2022-08-21T15:38:52.526000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DF",
+            "text": "ありがとうございます！あなたも明日のお休み、ご友人と楽しんでくださいね！",
+            "timestamp": "2022-08-21T15:39:18.033000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "そうですね。リアルで久々に会えるので、楽しみます！",
+            "timestamp": "2022-08-21T15:39:38.181000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DF",
+            "text": "久々に会えるのは嬉しいですね！ではでは、今日はお話ありがとうございました！",
+            "timestamp": "2022-08-21T15:40:10.080000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-21T15:40:20.639000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12354,
+    "interlocutors": [
+        "FL",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-08T14:25:38.113000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-09-08T14:25:45.385000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FL",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-09-08T14:25:54.211000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "趣味は旅行です",
+            "timestamp": "2022-09-08T14:26:00.957000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FL",
+            "text": "最近どこ行きました？",
+            "timestamp": "2022-09-08T14:26:13.216000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "6月に四国に行きました",
+            "timestamp": "2022-09-08T14:26:22.083000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FL",
+            "text": "四国良いですね。全部行ったんですか？",
+            "timestamp": "2022-09-08T14:26:38.508000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "徳島は通過しただけですが、それ以外は行きました",
+            "timestamp": "2022-09-08T14:26:49.606000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FL",
+            "text": "なるほど。徳島ってうずしおくらいしかないですよね。",
+            "timestamp": "2022-09-08T14:27:07.676000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "それくらいしか知らないです",
+            "timestamp": "2022-09-08T14:27:18.829000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FL",
+            "text": "どこ観光したんですか？",
+            "timestamp": "2022-09-08T14:27:31.072000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "一番印象に残ってるのは四万十川ですね。綺麗すぎました",
+            "timestamp": "2022-09-08T14:27:52.291000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FL",
+            "text": "おお！どこでしたっけ。",
+            "timestamp": "2022-09-08T14:28:07.230000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "高知です！",
+            "timestamp": "2022-09-08T14:28:15.701000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FL",
+            "text": "あ！そうだった。いったことないぁ。",
+            "timestamp": "2022-09-08T14:28:32.031000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "四万十川は橋がいっぱいかかってて、テンション上がって対岸まで何度も行きました",
+            "timestamp": "2022-09-08T14:29:01.743000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FL",
+            "text": "あはは。坂本龍馬の出身でしたっけ。",
+            "timestamp": "2022-09-08T14:29:17.110000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "そうですね。詳しくないですが",
+            "timestamp": "2022-09-08T14:29:37.471000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FL",
+            "text": "像とかたしかあったはずです。",
+            "timestamp": "2022-09-08T14:29:59.140000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "そうなんですね。四国行ったことありますか？",
+            "timestamp": "2022-09-08T14:30:10.065000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FL",
+            "text": "ありますよ。香川とか。",
+            "timestamp": "2022-09-08T14:30:19.838000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "うどん美味しいですよね",
+            "timestamp": "2022-09-08T14:30:36.586000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FL",
+            "text": "そうです！うどんの麵から作りました。",
+            "timestamp": "2022-09-08T14:30:59.469000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "そんなところあったんですね！食べる専でした",
+            "timestamp": "2022-09-08T14:31:14.891000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FL",
+            "text": "うどん学校みたいなのがあるんです！足でこねて。",
+            "timestamp": "2022-09-08T14:31:35.908000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "ええすごい、それも足で！踏んでってことですか？",
+            "timestamp": "2022-09-08T14:31:50.499000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FL",
+            "text": "そうです。音楽に合わせて。",
+            "timestamp": "2022-09-08T14:32:04.392000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "楽しそう。自分で作ったの食べれるのは最高ですね",
+            "timestamp": "2022-09-08T14:32:37.782000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FL",
+            "text": "めちゃくちゃおいしかったです。",
+            "timestamp": "2022-09-08T14:32:33.698000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "やってみたいです",
+            "timestamp": "2022-09-08T14:32:43.433000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

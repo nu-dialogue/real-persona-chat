@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12580,
+    "interlocutors": [
+        "FH",
+        "FQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FH",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-11T00:12:31.354000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-11T00:12:37.703000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FH",
+            "text": "おすすめのアプリ、何かありますか？",
+            "timestamp": "2022-09-11T00:12:51.666000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FQ",
+            "text": "ONEっていうアプリがあるんですが、お小遣い稼ぎ的な。",
+            "timestamp": "2022-09-11T00:13:39.247000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FH",
+            "text": "初耳です。稼げますか？",
+            "timestamp": "2022-09-11T00:13:56.517000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FQ",
+            "text": "少額ですけどね、ちまちまアンケートに答えるみたいな。その中でレシート撮影して貯めるのがあって。",
+            "timestamp": "2022-09-11T00:15:03.967000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FH",
+            "text": "レシートを撮影？",
+            "timestamp": "2022-09-11T00:15:18.034000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FQ",
+            "text": "はい、買い物したレシートをスマホで撮影すると、その画像を買い取ってくれるんです。基本１円ですが。",
+            "timestamp": "2022-09-11T00:16:01.478000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FH",
+            "text": "画像を買い取ってくれるって、なんか斬新ですね。",
+            "timestamp": "2022-09-11T00:16:16.971000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FQ",
+            "text": "そうなんです、１日５枚までなんですが、たまに２円とか１０円で買い取られたりして。",
+            "timestamp": "2022-09-11T00:16:53.813000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FH",
+            "text": "その、たまにの基準知りたいですよね。なんの違いなんだろう。",
+            "timestamp": "2022-09-11T00:17:12.308000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FQ",
+            "text": "ランダムなんでしょうけど、何度か出たことあります。",
+            "timestamp": "2022-09-11T00:17:31.102000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FH",
+            "text": "ランダムだとしたら、出たら嬉しいですね。",
+            "timestamp": "2022-09-11T00:17:44.610000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FQ",
+            "text": "何度かほかのアンケート答えたりのポイントもありますが、１年で２０００円超えましたよ！",
+            "timestamp": "2022-09-11T00:18:23.067000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FH",
+            "text": "１年で２０００円超えるって、なかなかいい小遣い稼ぎですよね。",
+            "timestamp": "2022-09-11T00:18:44.912000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FQ",
+            "text": "そのまま捨てるレシートですが、チリツモですね！",
+            "timestamp": "2022-09-11T00:19:16.218000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FH",
+            "text": "家計管理アプリとかでもレシート撮影ありますが、どうせなら、チリツモのお金になってほしいですね。",
+            "timestamp": "2022-09-11T00:20:09.852000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FQ",
+            "text": "ですよね。まだ換金してませんが、ギフト券に交換したり、口座振り込みもできるようです。",
+            "timestamp": "2022-09-11T00:20:52.919000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FH",
+            "text": "交換する場所が広いのありがたいですね。楽しみですね、換金。",
+            "timestamp": "2022-09-11T00:21:24.908000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FQ",
+            "text": "面白いのが、間違って同じレシート登録すると、ちゃんとマイナスされるんですよ。",
+            "timestamp": "2022-09-11T00:22:08.108000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FH",
+            "text": "えっ、誰かチェックしているってことですかね。",
+            "timestamp": "2022-09-11T00:22:33.978000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FQ",
+            "text": "自動みたいですね、すぐ反応してるようなので。すごいなー。",
+            "timestamp": "2022-09-11T00:22:56.192000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FH",
+            "text": "へー、今の技術って、すごいんですね。",
+            "timestamp": "2022-09-11T00:23:13.447000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FQ",
+            "text": "一度それやった時、１０円で買い取られたやつだったのでショックでしたー。",
+            "timestamp": "2022-09-11T00:23:51.011000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FH",
+            "text": "せっかくの１０円が！",
+            "timestamp": "2022-09-11T00:23:58.896000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FQ",
+            "text": "新しいレシートでやり直しても１円。ま、そうですよねー。",
+            "timestamp": "2022-09-11T00:24:21.958000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FH",
+            "text": "切なすぎる。悔しいですね。",
+            "timestamp": "2022-09-11T00:24:32.750000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FQ",
+            "text": "懲りずに頑張ります！よかったらぜひ！",
+            "timestamp": "2022-09-11T00:24:49.779000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FH",
+            "text": "いいですね、私もやってみようかな。いい情報をありがとうございました！",
+            "timestamp": "2022-09-11T00:25:08.024000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FQ",
+            "text": "一緒に頑張りましょうねー！",
+            "timestamp": "2022-09-11T00:25:21.913000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 130,
+    "interlocutors": [
+        "AA",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-09T07:29:46.094000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-09T07:30:12.710000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "情報ってどこからいつも仕入れいますか？",
+            "timestamp": "2022-08-09T07:30:14.251000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "Google, youtube, Twitter",
+            "timestamp": "2022-08-09T07:30:17.752000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "ああ、なるほど。グーグルですか？",
+            "timestamp": "2022-08-09T07:30:26.654000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "まずはググれっていう基本",
+            "timestamp": "2022-08-09T07:30:38.132000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "そういうことですか。",
+            "timestamp": "2022-08-09T07:30:49.700000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "ちょっと深くというか、ユーザー目線で知りたいなって時はTwittter",
+            "timestamp": "2022-08-09T07:31:12.497000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "ユーザー目線。なるほど。そういう感じで調べるんですね。",
+            "timestamp": "2022-08-09T07:31:33.438000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "私情報にかんしては自論があるのです",
+            "timestamp": "2022-08-09T07:31:52.467000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "ほうほう、聞きたいです",
+            "timestamp": "2022-08-09T07:32:01.964000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "待っていてくる情報は、広告宣伝、要するに、金払えって情報",
+            "timestamp": "2022-08-09T07:32:18.894000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "ああ、、、",
+            "timestamp": "2022-08-09T07:32:29.746000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "情報をクレクレって行動するだけでは並、カス情報つかんで終わり",
+            "timestamp": "2022-08-09T07:32:58.075000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "凄い身に覚えがあります、、、",
+            "timestamp": "2022-08-09T07:33:09.077000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "良質な情報が欲しければ、まずは発信",
+            "timestamp": "2022-08-09T07:33:20.995000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "ということは、されていらっしゃるんですね",
+            "timestamp": "2022-08-09T07:33:31.650000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "はい、ガチでやっているものに関しては、まず発信が重要だと思ってます",
+            "timestamp": "2022-08-09T07:33:54.025000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "なるほど、発信することで情報がつかみやすいという、、",
+            "timestamp": "2022-08-09T07:34:16.709000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "まず与える、そうすると自ずから道ができる",
+            "timestamp": "2022-08-09T07:34:32.857000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "与えよさすれば与えられんということですか",
+            "timestamp": "2022-08-09T07:34:53.724000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "まさしくそれです。Twitterはその点いいですよ。すぐに実現できるから。",
+            "timestamp": "2022-08-09T07:35:14.846000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "たしかに140字でいつでもどこでもすぐにっていう点では優れていますね",
+            "timestamp": "2022-08-09T07:35:42.560000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "それっぽい名前のアカウントにして、関連の内容つぶやいて、いいねくれたらフォロバ",
+            "timestamp": "2022-08-09T07:35:58.755000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "ちゃんとフォロバしてるんですね。そこから根を広げていく",
+            "timestamp": "2022-08-09T07:36:29.542000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "はい、３か月も与える側つづければ、それなりにカッコつきますよ",
+            "timestamp": "2022-08-09T07:36:47.067000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "勉強になります。ツイッターは基本ROM専なので",
+            "timestamp": "2022-08-09T07:37:15.337000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "ツイッターこそ、発信してなんぼなような",
+            "timestamp": "2022-08-09T07:37:26.297000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "その通りですね。",
+            "timestamp": "2022-08-09T07:37:41.337000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "炎上するほどの名がある人はまあまた違う悩みがあるのでしょうが",
+            "timestamp": "2022-08-09T07:38:00.853000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1011,
+    "interlocutors": [
+        "AH",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:58:46.141000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:58:54.551000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "お昼ご飯はもう済ませましたか？",
+            "timestamp": "2022-08-11T16:58:58.710000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "お昼は久しぶりにお菓子で済ませてしまいました。",
+            "timestamp": "2022-08-11T16:59:18.967000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "お菓子というと、ケーキとかクッキーとかでしょうか。",
+            "timestamp": "2022-08-11T16:59:28.399000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "ポテチですね。",
+            "timestamp": "2022-08-11T16:59:40.366000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "ポテチ美味しいですよね。私もよく食べます。",
+            "timestamp": "2022-08-11T16:59:49.411000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "何味が好きですか？",
+            "timestamp": "2022-08-11T17:00:01.065000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "私は薄塩が一番です。",
+            "timestamp": "2022-08-11T17:00:11.342000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "うすしお私も好きです。",
+            "timestamp": "2022-08-11T17:00:38.276000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "シンプルだけど、一番美味しい気がします！",
+            "timestamp": "2022-08-11T17:00:49.866000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "のり塩も好きですが、のりだらけになるのが気になります。",
+            "timestamp": "2022-08-11T17:01:22.325000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "確かに、海苔が残っちゃいます。",
+            "timestamp": "2022-08-11T17:01:40.394000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "ですよね。お箸で食べる人もいるみたいですが、使いますか？",
+            "timestamp": "2022-08-11T17:02:09.043000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "私は手で食べます！",
+            "timestamp": "2022-08-11T17:02:14.927000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "私もです。お箸わざわざ使うのも面倒ですし。",
+            "timestamp": "2022-08-11T17:02:50.572000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "手で食べた方が美味しい気がします。",
+            "timestamp": "2022-08-11T17:03:04.822000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "お箸だと、ポテチ食べてる感じがしないですよね。",
+            "timestamp": "2022-08-11T17:03:41.547000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "はい、ご飯を食べている気分になってしまいます。",
+            "timestamp": "2022-08-11T17:03:52.718000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "良かったです、同じで安心しました",
+            "timestamp": "2022-08-11T17:04:19.639000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "ご飯といえば、ポテチを使ったオムレツを妹が作っていました。",
+            "timestamp": "2022-08-11T17:04:46.413000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "ポテチを中身に入れるのですか？",
+            "timestamp": "2022-08-11T17:05:06.799000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "ポテチの袋の中に卵とか具材を入れて、それをお湯で温めるとかだった気がします。",
+            "timestamp": "2022-08-11T17:05:20.248000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "簡単にできそうですね！",
+            "timestamp": "2022-08-11T17:05:38.530000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "結構量が多かったです。",
+            "timestamp": "2022-08-11T17:05:49.340000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "食べ応えもありますね！",
+            "timestamp": "2022-08-11T17:06:01.247000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "はい、それだけでお腹いっぱいになってしまいました。",
+            "timestamp": "2022-08-11T17:06:14.359000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "ポテチと卵以外にも何か入れるんですか？",
+            "timestamp": "2022-08-11T17:06:43.992000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "ベーコンとかも入っていました！",
+            "timestamp": "2022-08-11T17:06:54.223000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "作るの楽しそうです！今度やってみます。",
+            "timestamp": "2022-08-11T17:07:16.821000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

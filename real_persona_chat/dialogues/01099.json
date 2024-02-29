@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1099,
+    "interlocutors": [
+        "CQ",
+        "BU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-12T13:57:56.150000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BU",
+            "text": "こんにちは。お願いいたします。",
+            "timestamp": "2022-08-12T13:58:12.299000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "アニメは見ますか？",
+            "timestamp": "2022-08-12T13:58:28.383000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BU",
+            "text": "アニメ見ますよ。<CQ>さんは？",
+            "timestamp": "2022-08-12T13:58:36.207000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "よく見ますね",
+            "timestamp": "2022-08-12T13:58:46.251000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BU",
+            "text": "最近のおすすめはありますか？",
+            "timestamp": "2022-08-12T13:58:58.254000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "リコリスリコイルですね",
+            "timestamp": "2022-08-12T13:59:05.410000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BU",
+            "text": "初めて聞きました。何系のアニメですか？",
+            "timestamp": "2022-08-12T13:59:24.700000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "孤児の女の子を育てあげ、女子高校生となった時期に、日常の犯罪を未然に防ぐ組織で活動させる話です",
+            "timestamp": "2022-08-12T14:00:29.184000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BU",
+            "text": "面白そうですね。今度チェックしてみます！",
+            "timestamp": "2022-08-12T14:01:02.464000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "今季で一番の人気作品だと思います。",
+            "timestamp": "2022-08-12T14:01:24.419000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BU",
+            "text": "リアルタイムでやってるんですか？",
+            "timestamp": "2022-08-12T14:01:49.287000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "はい、明日の夜第７話が放送されます23:30～です",
+            "timestamp": "2022-08-12T14:02:15.642000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BU",
+            "text": "あら、深夜タイムではないのですね。",
+            "timestamp": "2022-08-12T14:02:45.806000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "内容かなり良いのでぜひ",
+            "timestamp": "2022-08-12T14:03:07.801000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BU",
+            "text": "１話から観たいですね。",
+            "timestamp": "2022-08-12T14:03:42.173000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "netflixとかで見れるかと思います",
+            "timestamp": "2022-08-12T14:04:01.294000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BU",
+            "text": "Netflixですか。あとで確認してみます。サブスクなにか登録されてますか？？",
+            "timestamp": "2022-08-12T14:04:31.731000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "自分は登録してないですね、Abemaで週一で追ってます",
+            "timestamp": "2022-08-12T14:05:07.331000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BU",
+            "text": "Abemaもアニメ見れますよね。月額でなにか契約してるものはありますか？？",
+            "timestamp": "2022-08-12T14:05:33.129000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "契約はしてないですね、リアルタイムで放送中のもので手一杯です",
+            "timestamp": "2022-08-12T14:06:13.380000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BU",
+            "text": "また、観たくならないですか？？",
+            "timestamp": "2022-08-12T14:06:25.585000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "何度も見る派ではないので、一度で満足します",
+            "timestamp": "2022-08-12T14:06:57.826000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BU",
+            "text": "いいですね。うちは何回も観たいタイプなので、そういうのをたくさん契約してます。",
+            "timestamp": "2022-08-12T14:07:31.957000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、そちらはおすすめありますか？",
+            "timestamp": "2022-08-12T14:07:49.969000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BU",
+            "text": "おすすめのアニメですか？",
+            "timestamp": "2022-08-12T14:08:00.188000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "はい。",
+            "timestamp": "2022-08-12T14:08:13.236000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BU",
+            "text": "ありきたりですけど、進撃の巨人です。",
+            "timestamp": "2022-08-12T14:08:48.940000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "次の話が気になる作品ですよね、大好きです",
+            "timestamp": "2022-08-12T14:09:48.968000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BU",
+            "text": "そうですね。またアニメやるので、楽しみです。ありがとうございました。",
+            "timestamp": "2022-08-12T14:10:13.274000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 222,
+    "interlocutors": [
+        "AN",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T09:10:48.437000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T09:11:27.748000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "今日は何かご予定はあるのでしょうか？",
+            "timestamp": "2022-08-11T09:11:42.283000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "いいえ、今日は週末の予定を考えようかと思っています。",
+            "timestamp": "2022-08-11T09:12:04.222000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "そうなのですね。週末はどこかにお出かけとかですか？",
+            "timestamp": "2022-08-11T09:12:23.495000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "今のところ予定無いんですよね、あなたは週末予定ありますか？",
+            "timestamp": "2022-08-11T09:13:01.151000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "わたしは子供を連れてプールにでも行こうかと計画しています。",
+            "timestamp": "2022-08-11T09:13:19.662000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "いいですね、最近プールは全然行ってないです。",
+            "timestamp": "2022-08-11T09:13:45.936000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "私自身がプールに入るのも数年ぶりなんですよ。",
+            "timestamp": "2022-08-11T09:14:15.140000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "たしかに、水着もタンスの奥底に埋まってると思います。",
+            "timestamp": "2022-08-11T09:14:41.954000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "コロナが流行ってプール自体が営業していないところも多かったですしね。",
+            "timestamp": "2022-08-11T09:15:09.314000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "そうですね、今年は制限厳しくないので少し混雑してるかもですね。",
+            "timestamp": "2022-08-11T09:15:35.587000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "確かに混雑しているのかも！気を付けていってきます！",
+            "timestamp": "2022-08-11T09:15:59.092000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "当日の天候は大丈夫そうですか？",
+            "timestamp": "2022-08-11T09:16:16.832000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "きちんと確認していませんでした。室内プールもあるので、何とかなるかな？",
+            "timestamp": "2022-08-11T09:16:42.187000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "それはいいですね、私関東なのですが週末台風が来るそうです。",
+            "timestamp": "2022-08-11T09:17:02.755000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "あら、台風発生していたのですね！知らなかった！",
+            "timestamp": "2022-08-11T09:17:22.721000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "なんか急に出てきました、そこまで激しい台風ではないみたいなのですが。",
+            "timestamp": "2022-08-11T09:17:58.167000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "そうなんですか。今年はあまり台風上陸していないですね。",
+            "timestamp": "2022-08-11T09:18:12.128000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "たしかに、梅雨もすぐ終わりましたしね。",
+            "timestamp": "2022-08-11T09:18:26.901000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "その割にはおかしな雨の降り方をすることが多かったですよね。",
+            "timestamp": "2022-08-11T09:18:48.643000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "梅雨終わった後豪雨がすごいですね、梅雨とは何だったのかって感じです。",
+            "timestamp": "2022-08-11T09:19:14.257000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "本当に。ゲリラ豪雨とかには遭遇されてますか？",
+            "timestamp": "2022-08-11T09:19:43.180000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "私は大丈夫です、雨が凄いときはたまたま家にいることばかりです。",
+            "timestamp": "2022-08-11T09:20:10.708000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "それはラッキーですね。わたしはこの夏1度ゲリラ豪雨に遭遇しました。",
+            "timestamp": "2022-08-11T09:20:37.053000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "道路とかも浸水するので、靴もビショビショになるみたいですね。大丈夫でした？",
+            "timestamp": "2022-08-11T09:21:11.817000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "もう全身ずぶぬれになりましたー！",
+            "timestamp": "2022-08-11T09:21:26.508000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "じめじめしてるし体感やばそうですね、天気予報はやはり確認しておこうと思いました。",
+            "timestamp": "2022-08-11T09:22:15.114000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "そうですね。わたしも週末の天気予報きちんと確認してみます。では！",
+            "timestamp": "2022-08-11T09:22:40.581000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-11T09:22:50.573000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

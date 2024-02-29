@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12729,
+    "interlocutors": [
+        "CS",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-19T00:24:28.111000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-19T00:24:37.738000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "最近悩みがあるんです。",
+            "timestamp": "2022-09-19T00:24:49.606000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "どうしたんですか？",
+            "timestamp": "2022-09-19T00:25:02.539000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "肌荒れがひどくて。",
+            "timestamp": "2022-09-19T00:25:18.576000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "皮膚科にはいきました？",
+            "timestamp": "2022-09-19T00:25:30.555000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "ニキビとかじゃないんですよ、なので行っていいのかわからなくて",
+            "timestamp": "2022-09-19T00:25:56.690000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "どんな感じで荒れてるんですか？",
+            "timestamp": "2022-09-19T00:26:08.824000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "皮膚が赤かったり、ところどころブツブツしてたり、毛穴が目立ってたり。",
+            "timestamp": "2022-09-19T00:26:40.063000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "いろいろ併発しちゃってるんですね",
+            "timestamp": "2022-09-19T00:26:51.574000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "そうなんです。何から手を付けていいのか。",
+            "timestamp": "2022-09-19T00:27:21.130000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "僕、高校の時ニキビで悩んでたんですけど、美容皮膚科がよかったですよ",
+            "timestamp": "2022-09-19T00:27:59.597000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "美容皮膚科かぁ。レーザー治療とかになるんですかね？",
+            "timestamp": "2022-09-19T00:28:23.475000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "内服薬とかも処方してくれますよ。",
+            "timestamp": "2022-09-19T00:28:45.257000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。",
+            "timestamp": "2022-09-19T00:28:52.416000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "保険じゃなくなるので高いですが。一般皮膚科と併設してる美容皮膚科が一番いいと思います",
+            "timestamp": "2022-09-19T00:29:28.019000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "なるほど。近所にあるといいんですが。",
+            "timestamp": "2022-09-19T00:29:47.103000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "ちょっと遠くても、いい医者を探したほうがいいですよ。",
+            "timestamp": "2022-09-19T00:30:04.540000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "経験則ですか？",
+            "timestamp": "2022-09-19T00:30:13.083000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "ですね、適当に診察する人もいると思うので。",
+            "timestamp": "2022-09-19T00:30:34.683000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "ちょっと探してみますね。",
+            "timestamp": "2022-09-19T00:30:54.474000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "急にひどくなったならアレルギーの可能性もあるかもしれないです",
+            "timestamp": "2022-09-19T00:31:16.301000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "荒れてるの顔だけなので、アレルギーではないんじゃないかなーと思ってます",
+            "timestamp": "2022-09-19T00:31:38.463000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "じゃあストレスですかね。あとは紫外線の影響とか？",
+            "timestamp": "2022-09-19T00:32:10.627000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "それはあるかもしれないです",
+            "timestamp": "2022-09-19T00:32:22.426000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "ビタミンＣとるといいと思いますよ",
+            "timestamp": "2022-09-19T00:32:35.960000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "ビタミンＣか、サプリでも大丈夫ですかね？",
+            "timestamp": "2022-09-19T00:33:16.352000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "大丈夫だと思います。",
+            "timestamp": "2022-09-19T00:33:25.565000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "飲んでみます。ありがとうございます。",
+            "timestamp": "2022-09-19T00:33:35.575000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "どういたしまして",
+            "timestamp": "2022-09-19T00:33:42.443000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 615,
+    "interlocutors": [
+        "AQ",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-09T20:57:23.122000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-09T20:57:29.472000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AQ",
+            "text": "家は持ち家ですか？",
+            "timestamp": "2022-08-09T20:57:36.864000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "実家ですね。親の家です。",
+            "timestamp": "2022-08-09T20:57:50.941000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AQ",
+            "text": "おーそうなんですね！オール電化ではないです？",
+            "timestamp": "2022-08-09T20:58:00.623000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "オールじゃなかったような。オール電化興味あるんですか？",
+            "timestamp": "2022-08-09T20:58:12.743000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AQ",
+            "text": "そうですか。わが家はオール電化なんですよ。",
+            "timestamp": "2022-08-09T20:58:24.635000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "へえ！使い勝手どうですか？",
+            "timestamp": "2022-08-09T20:58:34.207000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AQ",
+            "text": "もう10年以上経過するんですけど。",
+            "timestamp": "2022-08-09T20:58:43.180000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。",
+            "timestamp": "2022-08-09T20:58:49.165000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AQ",
+            "text": "めちゃくちゃ壊れます。",
+            "timestamp": "2022-08-09T20:58:57.323000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "え！？",
+            "timestamp": "2022-08-09T20:59:03.236000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AQ",
+            "text": "今日はなんとエコキュートっていうお湯をつくる機器にエラーが出ていました。",
+            "timestamp": "2022-08-09T20:59:26.062000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "給湯器ですよね。あれ、今品薄じゃなかったでしたっけ？",
+            "timestamp": "2022-08-09T20:59:42.724000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AQ",
+            "text": "そうなんですか？ヤバイな。",
+            "timestamp": "2022-08-09T20:59:51.466000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "うち、今年の春に交換したんですが、半年待ちでした。",
+            "timestamp": "2022-08-09T21:00:10.218000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AQ",
+            "text": "うわー大変だ。今お湯が作れない状態なんですよ。",
+            "timestamp": "2022-08-09T21:00:21.442000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "それは大変。修理はお願いしました？",
+            "timestamp": "2022-08-09T21:00:33.252000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AQ",
+            "text": "さっき気付いたところなんです。まだですね。",
+            "timestamp": "2022-08-09T21:00:42.676000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "あらら。でも、冬じゃなくてよかったかもですね。",
+            "timestamp": "2022-08-09T21:00:56.343000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。シャワー水になっちゃいますよ。",
+            "timestamp": "2022-08-09T21:01:05.114000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "今なら、ギリギリいけるかも！？",
+            "timestamp": "2022-08-09T21:01:15.313000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AQ",
+            "text": "あはは。気合で入りましょうかね。",
+            "timestamp": "2022-08-09T21:01:22.098000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "いざという時は。もしくは銭湯が近くにあれば！",
+            "timestamp": "2022-08-09T21:01:39.253000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。ネットで見たらリセットを試みるって書いてありました。",
+            "timestamp": "2022-08-09T21:01:53.475000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "ああ、そういうエラーもありますよね。地震の後とか。自動停止するって。",
+            "timestamp": "2022-08-09T21:02:13.816000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AQ",
+            "text": "うんうん。なので明日の朝やってみようと思います。",
+            "timestamp": "2022-08-09T21:02:24.525000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "何事もないといいですね。",
+            "timestamp": "2022-08-09T21:02:33.346000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AQ",
+            "text": "ドキドキですね。",
+            "timestamp": "2022-08-09T21:02:36.858000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "無事を祈っております！",
+            "timestamp": "2022-08-09T21:02:44.711000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AQ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

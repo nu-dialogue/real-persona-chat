@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8151,
+    "interlocutors": [
+        "AA",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-05T06:58:53.462000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます。よろしくお願いします。",
+            "timestamp": "2022-08-05T06:59:43.630000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "朝早起きは得意ですか？",
+            "timestamp": "2022-08-05T06:59:57.479000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "本当はとっても苦手ですが、必要な時は頑張ります。<AA>さんはお得意ですか？",
+            "timestamp": "2022-08-05T07:00:21.714000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "私もすごく苦手です。だから今日もアラーム沢山かけました。",
+            "timestamp": "2022-08-05T07:00:42.070000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "同じです！絶対失敗できないと思ってアラームいっぱいかけました。",
+            "timestamp": "2022-08-05T07:01:01.338000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "分かります、寝る前とかドキドキします。",
+            "timestamp": "2022-08-05T07:01:15.168000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "起きなきゃいけないと思うと遅刻する夢を見たりします。",
+            "timestamp": "2022-08-05T07:01:35.494000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "わかります！今日、不安だったのか5時に起きました。",
+            "timestamp": "2022-08-05T07:01:55.400000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "5時！早いですね。私は6時でした。",
+            "timestamp": "2022-08-05T07:02:32.785000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "いえ、でもそのあとまた寝直しました。",
+            "timestamp": "2022-08-05T07:02:36.824000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "二度寝で間に合うのが素晴らしいです！",
+            "timestamp": "2022-08-05T07:02:52.959000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "とは言いつつそのあともアラームの嵐でしたよ",
+            "timestamp": "2022-08-05T07:03:08.049000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "私はアラームがあると思うともう1回鳴るまで、と思いがちです。",
+            "timestamp": "2022-08-05T07:03:34.308000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "ですよね、やっぱり寝たいですよね！",
+            "timestamp": "2022-08-05T07:03:46.969000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "そうなんですよね。基本的に眠れない時がない体質なので、用事がなかったら寝坊すると思います。",
+            "timestamp": "2022-08-05T07:04:15.238000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "分かります、眠るの得意です。ずっと寝ていられる",
+            "timestamp": "2022-08-05T07:04:48.542000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "同じです！落ちるまでもすごい早いです。",
+            "timestamp": "2022-08-05T07:05:03.878000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "分かります！気が付いたら朝みたいな。",
+            "timestamp": "2022-08-05T07:05:15.353000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "びっくりしますよね、気づいたら周りが明るくなっててゾッとします。",
+            "timestamp": "2022-08-05T07:05:40.114000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "いやあ本当に。まだでしょっていつ思いつつ起きますね",
+            "timestamp": "2022-08-05T07:05:57.870000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "寝起きに何かする習慣ありますか？",
+            "timestamp": "2022-08-05T07:06:32.140000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "エーなんでしょう。あ、絶対に二度寝することです",
+            "timestamp": "2022-08-05T07:07:09.005000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "素敵です！！許される状況なら二度寝最高ですよね。",
+            "timestamp": "2022-08-05T07:07:41.610000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "多分、１回で起きるのが嫌なんですよ。なので、起きなきゃいけ何時間よりも早くアラームかけて、一回目を覚ましてからまた寝直します。",
+            "timestamp": "2022-08-05T07:08:30.676000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "スマホとか便利になると、目覚まし1回で起きなくなっちゃいますよね。",
+            "timestamp": "2022-08-05T07:09:17.151000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "そうですよね。何かありますか？習慣とか？",
+            "timestamp": "2022-08-05T07:09:27.706000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "無理やり起きて、とりあえずお湯沸かして、寝ぼけながらコーヒー飲んだりします。",
+            "timestamp": "2022-08-05T07:09:53.771000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "わあ、すごい。目がさえそう",
+            "timestamp": "2022-08-05T07:10:08.589000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "ちょっとガソリン入れる感覚かもです。お話ありがとうございました！",
+            "timestamp": "2022-08-05T07:10:29.982000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

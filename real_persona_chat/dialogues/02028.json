@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2028,
+    "interlocutors": [
+        "DG",
+        "BX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "はじめましてー",
+            "timestamp": "2022-08-18T12:54:31.799000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BX",
+            "text": "はじめましてー！",
+            "timestamp": "2022-08-18T12:54:38.802000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "最近、文字を書く機会が減ったのですが書かれますか？",
+            "timestamp": "2022-08-18T12:54:55.967000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BX",
+            "text": "あまり書かなくなりましたね！",
+            "timestamp": "2022-08-18T12:55:06.676000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "ですよね。ぱっと漢字が出なくて恥ずかしくなります",
+            "timestamp": "2022-08-18T12:55:24.539000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BX",
+            "text": "読めるんですが、書けないって感じです。",
+            "timestamp": "2022-08-18T12:55:42.510000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "一番難しいサイトウが書けなくてへこみました",
+            "timestamp": "2022-08-18T12:55:46.645000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BX",
+            "text": "さいの字は難しいほうがありますね。書けるかな？",
+            "timestamp": "2022-08-18T12:55:59.513000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "見れば、あーとなったんですが、代筆するときに固まりました",
+            "timestamp": "2022-08-18T12:56:23.031000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BX",
+            "text": "代筆するのは何かお仕事とかですか？",
+            "timestamp": "2022-08-18T12:56:38.314000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "あ、いえただの書類みたいなのを手伝ってたんですが。横で見られていて冷や汗でしたー",
+            "timestamp": "2022-08-18T12:57:02.372000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BX",
+            "text": "アハハ。あまり見られたくないですね。",
+            "timestamp": "2022-08-18T12:57:11.907000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "ですね。お手紙とかももらったりすること減ったなとおもいます",
+            "timestamp": "2022-08-18T12:57:31.228000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BX",
+            "text": "そうですね、季節のあいさつくらいしか送らないですよね。",
+            "timestamp": "2022-08-18T12:57:46.915000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "ですね。お礼とかご挨拶さえあまりなくなったので、ボールペン字でも習おうかと考えます",
+            "timestamp": "2022-08-18T12:58:24.347000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BX",
+            "text": "私実は左利きなのでああいうのあまり縁がありません。",
+            "timestamp": "2022-08-18T12:58:37.141000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "そうなんですね！左利きだと専用のものとかが多そうです",
+            "timestamp": "2022-08-18T12:58:59.521000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BX",
+            "text": "そうですね、なので無理して右を使うこともあります。",
+            "timestamp": "2022-08-18T12:59:10.534000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "なるほど、確かに友人が両方使えるようにしたといってました",
+            "timestamp": "2022-08-18T12:59:33.439000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BX",
+            "text": "私は鉛筆だけはどうしても左ですね。",
+            "timestamp": "2022-08-18T12:59:48.571000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "私は楽器をたまに触るんですが右利きものばっかりだなと感じたことはあります",
+            "timestamp": "2022-08-18T13:00:24.766000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BX",
+            "text": "どんな楽器をされるんですか？",
+            "timestamp": "2022-08-18T13:00:33.941000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "学生のときにベースをやっていてたまに遊んでます",
+            "timestamp": "2022-08-18T13:00:48.360000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BX",
+            "text": "かっこいいです！私も少しだけギターを触ります。",
+            "timestamp": "2022-08-18T13:01:00.877000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "ギターできるほうが憧れます。ベースひとりだと寂しいです！",
+            "timestamp": "2022-08-18T13:01:22.690000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BX",
+            "text": "確かにベースはだれかとやらないとメインの旋律がさみしいかもしれませんね。",
+            "timestamp": "2022-08-18T13:01:42.201000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "です。ほぼ音源かけてコピーばっかりになっちゃいますね。",
+            "timestamp": "2022-08-18T13:02:01.621000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BX",
+            "text": "なるほど、とはいえ実は私は本当に触る程度でそのレベルにも達してない気がします。",
+            "timestamp": "2022-08-18T13:02:26.807000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "いやいや、ギターできればベースも簡単とききますよ！",
+            "timestamp": "2022-08-18T13:02:46.430000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BX",
+            "text": "そうだといいんですが、まぁ楽しいのでオーケーと言う事で！",
+            "timestamp": "2022-08-18T13:03:01.007000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

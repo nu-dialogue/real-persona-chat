@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13946,
+    "interlocutors": [
+        "HQ",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T19:55:15.143000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T19:55:21.797000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "今日は寒いですね",
+            "timestamp": "2022-10-06T19:55:44.894000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "そうですね、急に冷え込みましたね",
+            "timestamp": "2022-10-06T19:55:56.659000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "私の住む地方は数日前まで30度超えてましたよ",
+            "timestamp": "2022-10-06T19:56:32.402000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "こちらもそんな感じでした。",
+            "timestamp": "2022-10-06T19:56:44.317000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "これだけ寒暖差が激しいと体調崩しそうですよね",
+            "timestamp": "2022-10-06T19:57:03.776000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "風邪ひきそうですね",
+            "timestamp": "2022-10-06T19:57:29.135000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "そうですよね",
+            "timestamp": "2022-10-06T19:57:35.302000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "結構風邪ひきやすいですか？",
+            "timestamp": "2022-10-06T19:57:47.374000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "私はそんなに頻繁には体調崩さないです",
+            "timestamp": "2022-10-06T19:58:05.758000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "体が丈夫なんですね",
+            "timestamp": "2022-10-06T19:58:16.412000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "あなたはどうですか？",
+            "timestamp": "2022-10-06T19:58:28.150000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "僕は結構虚弱体質です",
+            "timestamp": "2022-10-06T19:58:45.266000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "そうなんですか、じゃあ気を付けないとですね",
+            "timestamp": "2022-10-06T19:59:12.448000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "そうですね、今発熱したらバイトできなくなりますし",
+            "timestamp": "2022-10-06T19:59:37.769000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "収入なくなるのは厳しいですね",
+            "timestamp": "2022-10-06T20:00:11.240000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "そうなんです",
+            "timestamp": "2022-10-06T20:00:19.112000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "有給はないんですか？",
+            "timestamp": "2022-10-06T20:00:27.818000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "大学の傍らのバイトなので有給はないと思います",
+            "timestamp": "2022-10-06T20:00:47.363000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "大学生なんですね",
+            "timestamp": "2022-10-06T20:00:57.062000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "はい。社会人だったら有給で休めていいですよね",
+            "timestamp": "2022-10-06T20:01:23.784000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "会社によってはコロナ休暇があるみたいです",
+            "timestamp": "2022-10-06T20:01:39.243000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "有給とは違うんですか？",
+            "timestamp": "2022-10-06T20:01:52.777000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "本来の有給とは別の有給ですね",
+            "timestamp": "2022-10-06T20:02:15.971000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "いいですね",
+            "timestamp": "2022-10-06T20:02:31.930000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "超ホワイト企業ですよね",
+            "timestamp": "2022-10-06T20:02:42.583000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "そうですよね",
+            "timestamp": "2022-10-06T20:02:51.878000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "なかなかないと思います",
+            "timestamp": "2022-10-06T20:02:59.287000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "そういう会社で働きたいです",
+            "timestamp": "2022-10-06T20:03:11.882000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

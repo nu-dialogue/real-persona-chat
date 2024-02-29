@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13120,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T10:49:40.914000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんにちはー",
+            "timestamp": "2022-09-17T10:49:50.665000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-17T10:49:57.477000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "はい、よろしくお願いします",
+            "timestamp": "2022-09-17T10:50:07.619000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんはペット飼ってますか？",
+            "timestamp": "2022-09-17T10:50:29.369000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "今は飼ってないですね、昔は亀を飼ってました",
+            "timestamp": "2022-09-17T10:50:52.547000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "亀ですか、大きい亀ですか？",
+            "timestamp": "2022-09-17T10:51:11.616000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "縁日で買った小さい亀です。",
+            "timestamp": "2022-09-17T10:51:31.726000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "あー、昔は縁日で亀売ってましたね",
+            "timestamp": "2022-09-17T10:51:51.548000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "掃除で水槽ごと外に出してたんですけど、気づいたらいなくなってました…",
+            "timestamp": "2022-09-17T10:52:27.206000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "え！逃げちゃったんですか？",
+            "timestamp": "2022-09-17T10:52:43.986000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "脱走できる感じの水槽じゃなかったので、多分カラスにさらわれたんだと思います。",
+            "timestamp": "2022-09-17T10:53:20.383000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "そんなことあるんですね、トラウマですね・・・",
+            "timestamp": "2022-09-17T10:53:39.389000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "そうですね…なので亀はもう飼えないです",
+            "timestamp": "2022-09-17T10:54:07.201000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "魚とかはどうですか？",
+            "timestamp": "2022-09-17T10:54:23.320000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "魚も水替えとかで排水溝に流しちゃいそうです",
+            "timestamp": "2022-09-17T10:55:30.754000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "なるほどー…",
+            "timestamp": "2022-09-17T10:55:42.478000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "<CS>さんは何のペット飼っているんですか？",
+            "timestamp": "2022-09-17T10:56:10.141000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "私は猫を飼ってます",
+            "timestamp": "2022-09-17T10:56:26.858000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "へー、オスですか？メスですか？",
+            "timestamp": "2022-09-17T10:56:41.339000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "オスです！噛み癖がひどくて困ってます",
+            "timestamp": "2022-09-17T10:56:55.291000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "嚙むんですか！いたそうですね",
+            "timestamp": "2022-09-17T10:57:07.327000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "歯がかゆいのかもしれないですが、おもちゃあげても私の手を嚙みますね",
+            "timestamp": "2022-09-17T10:57:40.102000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "手がすきなんでしょうか",
+            "timestamp": "2022-09-17T10:57:51.695000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "うーん、そうなのかなぁ",
+            "timestamp": "2022-09-17T10:58:01.654000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "霧吹きでしつける動画を見たことがあるんですが、それはどうですか？",
+            "timestamp": "2022-09-17T10:58:30.163000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "水がそんなに嫌いじゃないみたいで、あんまり効果ないんですよね",
+            "timestamp": "2022-09-17T10:58:49.528000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "そうなんですか、なんとか直るといいんですが",
+            "timestamp": "2022-09-17T10:59:08.903000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございます。なんとかしつけます",
+            "timestamp": "2022-09-17T10:59:20.616000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "頑張ってください",
+            "timestamp": "2022-09-17T10:59:27.994000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

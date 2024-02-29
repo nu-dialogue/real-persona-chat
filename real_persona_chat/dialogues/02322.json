@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2322,
+    "interlocutors": [
+        "BS",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "本日はよろしくお願いします。",
+            "timestamp": "2022-08-21T13:40:32.293000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-21T13:40:45.766000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "お昼ご飯は焼豚玉子飯もどきを作って食べました。",
+            "timestamp": "2022-08-21T13:41:07.774000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "焼豚玉子飯はじめて聞きました！どのような感じなのですか？",
+            "timestamp": "2022-08-21T13:41:46.069000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "今治のB級グルメみたいで、本来はご飯の上に焼き豚と目玉焼きを乗せて、甘めのタレをかけたものです。",
+            "timestamp": "2022-08-21T13:42:39.690000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "少し調べてみました！今治名物なのですね！お料理レパートリー豊富ですね！",
+            "timestamp": "2022-08-21T13:43:14.117000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "そうなんです！いえ、食いしん坊でして、、。四国は行ったことありますか？",
+            "timestamp": "2022-08-21T13:43:40.687000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "四国は行ったことないんですよ！あなたはありますか？",
+            "timestamp": "2022-08-21T13:44:01.538000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "一度だけ友人たちと行ったことあります！",
+            "timestamp": "2022-08-21T13:44:28.128000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "そうなのですね！四国は何県に行かれたのですか？",
+            "timestamp": "2022-08-21T13:44:48.223000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "高知以外は行きました。後、広島も一緒に。",
+            "timestamp": "2022-08-21T13:45:24.036000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "なるほど、色々行かれたのですね！広島は修学旅行で行きました。",
+            "timestamp": "2022-08-21T13:45:52.164000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "お、そうなんですね！いつの修学旅行ですか？小学校？",
+            "timestamp": "2022-08-21T13:46:27.936000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "中学校の修学旅行でした！",
+            "timestamp": "2022-08-21T13:46:41.959000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！広島は見るものも食べるものも多いから修学旅行向けですね。",
+            "timestamp": "2022-08-21T13:47:06.189000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "そうですね、原爆ドームとか行って勉強しました。広島焼き美味しかったです。",
+            "timestamp": "2022-08-21T13:47:37.821000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "鉄板ですよね。広島焼きってどんなものですか？",
+            "timestamp": "2022-08-21T13:47:54.432000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "広島のお好み焼きで、キャベツや焼きそばを重ね焼きする感じですかね。",
+            "timestamp": "2022-08-21T13:48:31.845000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "あ、お好み焼きのことでしたか！食べ応えあって、美味しいですよね。",
+            "timestamp": "2022-08-21T13:49:01.383000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "そうですね！本場で食べられて良かったです！あなたは修学旅行どこ行きましたか？",
+            "timestamp": "2022-08-21T13:49:29.608000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "中学校の時は大阪・京都・奈良に行きました！",
+            "timestamp": "2022-08-21T13:49:49.576000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "京都・奈良も修学旅行の定番ですよね！",
+            "timestamp": "2022-08-21T13:50:16.178000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "そうですよね！懐かしいです。",
+            "timestamp": "2022-08-21T13:50:39.106000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "そうですね！大人になってから旅行すると、また違ったりしますよね。",
+            "timestamp": "2022-08-21T13:51:01.686000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "そうですね！もし温泉と千と千尋がお好きなら、愛媛旅行オススメです。",
+            "timestamp": "2022-08-21T13:52:13.498000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "愛媛旅行ですか！どんなところに行くといいですか？",
+            "timestamp": "2022-08-21T13:52:34.502000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "油屋のモデルの道後温泉があるところが町並みもご飯も美味しいので、いいと思います！",
+            "timestamp": "2022-08-21T13:53:09.521000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "なるほど！また旅行先候補が増えました！",
+            "timestamp": "2022-08-21T13:53:28.407000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "ぜひ行ってみてください！",
+            "timestamp": "2022-08-21T13:53:47.512000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "はい、いろいろ調べてみたいと思います！",
+            "timestamp": "2022-08-21T13:54:03.154000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

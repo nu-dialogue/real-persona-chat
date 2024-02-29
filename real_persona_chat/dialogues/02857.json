@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2857,
+    "interlocutors": [
+        "BL",
+        "EM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-24T13:44:36.142000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EM",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-24T13:44:42.268000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "新しく始めてみたいことはありますか？",
+            "timestamp": "2022-08-24T13:45:33.524000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EM",
+            "text": "そうですね。パソコンを新しくしたいのですが、自分で組んでみたいですね。",
+            "timestamp": "2022-08-24T13:45:51.958000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "自作ですね。パーツは今はネットでも買えるのでしょうか。",
+            "timestamp": "2022-08-24T13:46:19.878000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EM",
+            "text": "そう思います。今は大型のマザーボードで邪魔なので小さくしたいんです。",
+            "timestamp": "2022-08-24T13:46:34.094000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "小さくてスペックも良ければ最高ですね",
+            "timestamp": "2022-08-24T13:47:03.054000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EM",
+            "text": "はい。今使っている物のパーツを使って組むのが理想です。",
+            "timestamp": "2022-08-24T13:47:19.608000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "今のパソコンを分解するのですか？",
+            "timestamp": "2022-08-24T13:47:47.778000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EM",
+            "text": "したいですね。パーツ自体はそこそこのスペックなので。",
+            "timestamp": "2022-08-24T13:48:04.865000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "それは楽しみですね。",
+            "timestamp": "2022-08-24T13:48:24.963000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EM",
+            "text": "はい。なのでも少し勉強して出来るようになりたいです。あなたは何かありますか？",
+            "timestamp": "2022-08-24T13:48:44.119000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "私は文章や話すのがもっとうまくなりたいなと思います。",
+            "timestamp": "2022-08-24T13:49:27.756000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EM",
+            "text": "なるほど、それは何かで勉強したいと言う事でしょうか？",
+            "timestamp": "2022-08-24T13:49:38.379000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "仕事しながら身に付けていければと思ってますね。",
+            "timestamp": "2022-08-24T13:50:26.230000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EM",
+            "text": "そうですね。実践が一番の練習な感じがいたします。",
+            "timestamp": "2022-08-24T13:50:40.427000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "そのために実践を継続したいですね。",
+            "timestamp": "2022-08-24T13:51:27.506000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EM",
+            "text": "わかります。私は先ほどのこと以外だと溶接を勉強してみたいですね。",
+            "timestamp": "2022-08-24T13:51:53.760000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "どんなものを作りたいですか？",
+            "timestamp": "2022-08-24T13:52:24.259000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EM",
+            "text": "バイクが趣味なのですが、いっそバイクを作ってみたいです。",
+            "timestamp": "2022-08-24T13:52:36.732000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "それは大掛かりな作業ですね！",
+            "timestamp": "2022-08-24T13:52:56.028000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EM",
+            "text": "はい。全体ではなくフレームだけでも良いのですが、なかなか難しいです。",
+            "timestamp": "2022-08-24T13:53:08.884000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "大掛かりだし、細かい部分を気にして作らないとですよね。",
+            "timestamp": "2022-08-24T13:54:11.067000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EM",
+            "text": "もちろんそうですね。命を預けることになりますから。",
+            "timestamp": "2022-08-24T13:54:22.772000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "フレームを作ったら、重量な部分だけ、バイク屋さんで買えるのですか？",
+            "timestamp": "2022-08-24T13:55:20.452000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EM",
+            "text": "あるいは持っているバイクから積み替える感じになります。",
+            "timestamp": "2022-08-24T13:55:33.745000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "なるほど。その間、バイクに乗れなくても不自由ではないのですか？",
+            "timestamp": "2022-08-24T13:56:18.866000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EM",
+            "text": "出来れば積み替えの作業は一日で終わらせたいですね。",
+            "timestamp": "2022-08-24T13:56:39.873000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "そうですよね。朝早くから始めたほうが良さそうかもですね",
+            "timestamp": "2022-08-24T13:57:34.619000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EM",
+            "text": "はい。そんな日が来るのが楽しみです。",
+            "timestamp": "2022-08-24T13:57:45.352000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

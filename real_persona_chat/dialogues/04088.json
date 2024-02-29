@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4088,
+    "interlocutors": [
+        "EV",
+        "FL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-06T20:16:10.300000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FL",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-06T20:16:18.833000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "趣味などあれば教えていただきたいです",
+            "timestamp": "2022-09-06T20:16:24.560000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FL",
+            "text": "趣味というか、最近銭湯にはまっています。",
+            "timestamp": "2022-09-06T20:16:54.049000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "温泉ですか。近所ですか？",
+            "timestamp": "2022-09-06T20:17:29.435000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FL",
+            "text": "近所の銭湯によく行きます！",
+            "timestamp": "2022-09-06T20:17:22.175000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "なるほど、近所には銭湯がないもので",
+            "timestamp": "2022-09-06T20:17:40.444000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FL",
+            "text": "それは残念です。サウナが気持ちいんですよね。",
+            "timestamp": "2022-09-06T20:17:54.845000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "最近ととのうのが流行っているようですね",
+            "timestamp": "2022-09-06T20:18:10.568000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FL",
+            "text": "流行ってますね。サウナと水風呂を三回往復します。",
+            "timestamp": "2022-09-06T20:18:36.816000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "サウナから水風呂はやはり気持ちいいものですか？",
+            "timestamp": "2022-09-06T20:18:55.071000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FL",
+            "text": "気持ちいですよ！",
+            "timestamp": "2022-09-06T20:19:07.276000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "なるほど、根性がないもので、すぐ出てしまいます",
+            "timestamp": "2022-09-06T20:19:25.147000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FL",
+            "text": "全身入ると麻痺して冷たく感じなくなります。",
+            "timestamp": "2022-09-06T20:20:02.076000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "そこまでいくと体に悪そうです。",
+            "timestamp": "2022-09-06T20:20:23.497000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FL",
+            "text": "確かに！実際あまりよくないみたいです。",
+            "timestamp": "2022-09-06T20:20:41.470000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "血行障害みたいなものでしょうね",
+            "timestamp": "2022-09-06T20:20:52.237000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FL",
+            "text": "そうですね。心臓発作とか、危なそうです。",
+            "timestamp": "2022-09-06T20:21:09.080000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "はい、慎重にしないとまずそうです",
+            "timestamp": "2022-09-06T20:21:29.981000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FL",
+            "text": "私もさすがに三往復はしません。外で涼むのも涼しいですし。",
+            "timestamp": "2022-09-06T20:21:53.847000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "サウナに比べれば外はかなり涼しいですからね",
+            "timestamp": "2022-09-06T20:22:15.482000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FL",
+            "text": "そうですね。あとは出た後の牛乳がたまらないです。",
+            "timestamp": "2022-09-06T20:22:34.912000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "確かに。普通の牛乳かコーヒー、どっち派ですか？",
+            "timestamp": "2022-09-06T20:22:57.716000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FL",
+            "text": "わたしはフルーツ牛乳があればそれを飲みます。おいしくないですか？",
+            "timestamp": "2022-09-06T20:23:16.920000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "実は温泉で出会ったことがなくて、飲んでいません",
+            "timestamp": "2022-09-06T20:23:43.033000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FL",
+            "text": "えー。私の行くところはいちご牛乳とかあったりもします。",
+            "timestamp": "2022-09-06T20:24:11.760000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "牛乳かコーヒー牛乳、のむヨーグルトくらいしかなかったです",
+            "timestamp": "2022-09-06T20:24:33.641000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FL",
+            "text": "うーん。渋いですね。それならコーヒー牛乳かな。",
+            "timestamp": "2022-09-06T20:24:54.978000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "そうですね。コーヒー牛乳派です",
+            "timestamp": "2022-09-06T20:25:07.122000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FL",
+            "text": "普通の牛乳は物足りないですね。",
+            "timestamp": "2022-09-06T20:25:26.330000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8833,
+    "interlocutors": [
+        "AB",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T14:35:48.302000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "どうもこんにちは。",
+            "timestamp": "2022-08-07T14:36:04.571000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "あなたの好物は何ですか？",
+            "timestamp": "2022-08-07T14:36:12.568000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "肉好きですね。",
+            "timestamp": "2022-08-07T14:36:40.224000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "どんな肉料理が特に好き？焼肉とか？",
+            "timestamp": "2022-08-07T14:36:51.311000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "焼肉好きです。にんにくと辛みそ付けるとさらに好きです。",
+            "timestamp": "2022-08-07T14:37:45.359000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "おぉ、それは美味しそう。昨日、焼肉食べたいねって話してたんです。",
+            "timestamp": "2022-08-07T14:38:09.837000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "私も食べたいです。もう今夜でも食べたいです。",
+            "timestamp": "2022-08-07T14:38:40.689000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "同じく！焼肉のたれも種類いっぱいあって迷います。焼肉のたれはここ！って決めてますか？",
+            "timestamp": "2022-08-07T14:39:15.448000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "特に決めてないんですけど、今あるのは叙々苑のたれですね。",
+            "timestamp": "2022-08-07T14:39:43.720000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "美味しいですか？まだ買ったことなくて。",
+            "timestamp": "2022-08-07T14:39:56.142000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "なんか高級店の味をつければ安い肉でも美味しくなるのかなと。ははは。",
+            "timestamp": "2022-08-07T14:40:33.446000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "間違いなさそうですね。お腹減ってきました。",
+            "timestamp": "2022-08-07T14:40:52.062000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "私もです。夜は焼肉にしようと思います。",
+            "timestamp": "2022-08-07T14:41:19.494000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "いいですね。ちなみに私の好物は餃子です。",
+            "timestamp": "2022-08-07T14:41:40.005000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "焼き餃子ですか？水餃子ですか？",
+            "timestamp": "2022-08-07T14:42:00.715000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "焼き餃子ですね。よく食べますか？",
+            "timestamp": "2022-08-07T14:42:23.593000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "はい、自分で皮から作ったりはほとんどしないのですが市販の餃子をよく食べます。",
+            "timestamp": "2022-08-07T14:43:28.667000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "市販もお店のも美味しいですよね。2度だけ皮を作ったことがありますが、買うのがいいです。",
+            "timestamp": "2022-08-07T14:43:55.305000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "面倒な割に、すぐなくなっちゃいますよね。",
+            "timestamp": "2022-08-07T14:44:17.108000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよね。家の餃子だとなんかいくらでも食べれます。",
+            "timestamp": "2022-08-07T14:44:32.341000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "大きさにもよると思うのですが、一回に何個ぐらい食べれますか？",
+            "timestamp": "2022-08-07T14:45:03.852000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "何個かな？20個以上は食べますね。あなたは？",
+            "timestamp": "2022-08-07T14:45:28.066000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "へえ。20個は食べたことないです。私は普段味の素の餃子なら夫婦で割って6個です。",
+            "timestamp": "2022-08-07T14:46:15.148000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "そうなんですか！それだと一人一袋です。",
+            "timestamp": "2022-08-07T14:46:46.683000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "美味しいと何個でも食べられるんですね。ポテチは一袋全部食べれますが。",
+            "timestamp": "2022-08-07T14:47:35.959000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "止まりませんよね。ちなみに私神戸出身なんですが、餃子はゴマダレで食べる習慣があるんです。",
+            "timestamp": "2022-08-07T14:48:04.450000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "めちゃくちゃおいしそう。関西はおいしい物たくさんですね。",
+            "timestamp": "2022-08-07T14:48:37.822000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "太って困ります。では、そろそろ！ありがとうございました。",
+            "timestamp": "2022-08-07T14:49:02.575000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "どうもです。",
+            "timestamp": "2022-08-07T14:49:10.982000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

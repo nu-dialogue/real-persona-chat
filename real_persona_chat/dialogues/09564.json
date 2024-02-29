@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9564,
+    "interlocutors": [
+        "BQ",
+        "AJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-09T16:30:42.638000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AJ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-09T16:30:49.482000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "そろそろ夕方ですが、夕飯は決まりましたか？",
+            "timestamp": "2022-08-09T16:31:01.557000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AJ",
+            "text": "まだ迷ってます。<BQ>さんは決まりました？",
+            "timestamp": "2022-08-09T16:31:16.476000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "私はうどんにしようと思っています。",
+            "timestamp": "2022-08-09T16:31:36.213000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AJ",
+            "text": "自炊ですか、外食ですか？",
+            "timestamp": "2022-08-09T16:31:53.711000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "自炊で、てんぷらは買ってこようかと思ってます。",
+            "timestamp": "2022-08-09T16:32:08.253000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AJ",
+            "text": "良いですね。最近うどんも安くなりましたし。私もよくやります。",
+            "timestamp": "2022-08-09T16:32:31.171000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "てんぷらは何がお好きですか？",
+            "timestamp": "2022-08-09T16:32:44.352000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AJ",
+            "text": "やっぱり、かき揚げですね。<BQ>さんは？",
+            "timestamp": "2022-08-09T16:33:02.951000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "私はサツマイモが好きです。",
+            "timestamp": "2022-08-09T16:33:18.371000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AJ",
+            "text": "定番ですね。私はイカと最近、鶏天にもハマってます。",
+            "timestamp": "2022-08-09T16:34:13.591000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "鶏天おいしいですよね。カラッとしていて。",
+            "timestamp": "2022-08-09T16:34:34.617000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AJ",
+            "text": "丸亀製麺とか、行くと必ず食べちゃいます。かしわ天だったかな？！",
+            "timestamp": "2022-08-09T16:35:00.708000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "丸亀製麺私もよく行きます。かしわ天って書いてありますよね。",
+            "timestamp": "2022-08-09T16:35:20.783000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AJ",
+            "text": "あそこ、自分で好きにカスタマイズ出来るのが良いですよね？",
+            "timestamp": "2022-08-09T16:35:42.660000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "ですね。ネギと天かすかけ放題は素晴らしいです。",
+            "timestamp": "2022-08-09T16:36:03.351000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AJ",
+            "text": "最高です。意外と立ち食いも私、好きですよ。富士そばとか。",
+            "timestamp": "2022-08-09T16:36:45.638000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "富士そば近くになくて行ったことがないのですが、人気ですよね。",
+            "timestamp": "2022-08-09T16:37:05.251000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AJ",
+            "text": "都内だと、定番ですね。蕎麦屋なのに、カツ丼だけ頼んだりします。",
+            "timestamp": "2022-08-09T16:37:24.554000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "蕎麦屋のカレーとかカツ丼とか出汁が効いていて美味しいですよね。",
+            "timestamp": "2022-08-09T16:37:48.671000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AJ",
+            "text": "本当です。これも定番ですよね。",
+            "timestamp": "2022-08-09T16:38:17.446000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "うどんとおそばどちらが好きですか？",
+            "timestamp": "2022-08-09T16:38:47.019000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AJ",
+            "text": "私は、実は蕎麦派です。<BQ>さんは？",
+            "timestamp": "2022-08-09T16:39:07.046000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "どっちも好きなんですけど、最近蕎麦派かもです。",
+            "timestamp": "2022-08-09T16:39:29.902000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AJ",
+            "text": "蕎麦は、香りが良いですね。でも家で作るのはうどんが楽ですよね？",
+            "timestamp": "2022-08-09T16:39:56.405000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "ですね。断然うどんの方が楽です。",
+            "timestamp": "2022-08-09T16:40:09.923000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AJ",
+            "text": "安いですし。家では私もうどん派です。",
+            "timestamp": "2022-08-09T16:40:27.237000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "うどんって冷凍も案外美味しいですよね。",
+            "timestamp": "2022-08-09T16:40:50.801000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AJ",
+            "text": "美味しいです！",
+            "timestamp": "2022-08-09T16:40:57.490000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1293,
+    "interlocutors": [
+        "CX",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんばんは。もうそろそろ晩御飯の時間ですか？",
+            "timestamp": "2022-08-13T17:29:41.335000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "たしかにそうですね、準備を始めないとって時間です。",
+            "timestamp": "2022-08-13T17:30:00.578000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "ご予定では何を召し上がるんですか？",
+            "timestamp": "2022-08-13T17:30:14.846000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "実はまだ決めてないです、あなたは何を食べますか？",
+            "timestamp": "2022-08-13T17:30:31.140000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "今晩はお味噌汁と魚の缶詰ですかね。",
+            "timestamp": "2022-08-13T17:30:49.295000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "それだけですか？",
+            "timestamp": "2022-08-13T17:30:59.009000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "はい、最近胃の調子が悪く、晩は少なめにしています。",
+            "timestamp": "2022-08-13T17:31:13.853000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "そうなんですね、魚は栄養があるので缶詰は食べやすく重宝してます。",
+            "timestamp": "2022-08-13T17:31:43.371000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "とりあえず最低限の栄養だけを摂るようにしてますね。",
+            "timestamp": "2022-08-13T17:32:10.307000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "野菜は食べますか？",
+            "timestamp": "2022-08-13T17:32:29.541000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "食べますよ。お味噌汁にも野菜を入れます。",
+            "timestamp": "2022-08-13T17:32:50.720000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "それならバランス良いですね、朝と昼はちゃんと食べてますか？",
+            "timestamp": "2022-08-13T17:33:13.881000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "はい、朝昼しっかり摂って、晩を少なめにしています。",
+            "timestamp": "2022-08-13T17:33:34.580000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "それなら全然問題無いですよ、晩はあと寝るだけですし。",
+            "timestamp": "2022-08-13T17:33:54.240000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "ただそれでも最近太り出したので困っています。",
+            "timestamp": "2022-08-13T17:34:21.462000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "それは意外ですね、運動不足とかですかね？",
+            "timestamp": "2022-08-13T17:34:42.630000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "それもありますし、あとは自律神経とかがやられてるのかと。",
+            "timestamp": "2022-08-13T17:35:05.819000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "なるほど、たしかにそれを整えるのも重要ですね。",
+            "timestamp": "2022-08-13T17:35:35.859000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "夜も寝苦しくて、途中で起きてしまうのが良くないのかと。",
+            "timestamp": "2022-08-13T17:36:01.491000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "私もです、3時間に1回くらい起きてしまいます。",
+            "timestamp": "2022-08-13T17:36:25.356000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "もう少し涼しいか、気温差が少なければいいのですが。",
+            "timestamp": "2022-08-13T17:36:50.056000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "家ではエアコン付けてないのですか？",
+            "timestamp": "2022-08-13T17:37:14.128000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "北海道住みでして家にエアコンないんですよ。",
+            "timestamp": "2022-08-13T17:37:32.690000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "北海道でも夏はそれなりに暑いですからね、雨とか地震とかもすごかったですね。",
+            "timestamp": "2022-08-13T17:38:41.798000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "前はエアコンなくても大丈夫だったんですが、最近は特に暑いです。",
+            "timestamp": "2022-08-13T17:39:01.623000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "エアコンの導入を検討しましょう！",
+            "timestamp": "2022-08-13T17:39:27.787000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "来年あたりは本気で考えます！",
+            "timestamp": "2022-08-13T17:39:43.675000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "熱中症対策と快眠のために今年は色々調べてみるといいですね。",
+            "timestamp": "2022-08-13T17:40:12.449000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "そうですね、春先あたりには工事して取り付けたいです。",
+            "timestamp": "2022-08-13T17:40:34.399000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "夏は予約が混みますからね、その計画に賛成です！",
+            "timestamp": "2022-08-13T17:40:56.045000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 2,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

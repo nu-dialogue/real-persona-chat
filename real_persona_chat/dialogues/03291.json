@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3291,
+    "interlocutors": [
+        "CM",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-29T13:00:09.236000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-29T13:00:20.029000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CM",
+            "text": "こちらは少し気温が低いです。そちらはどうですか？",
+            "timestamp": "2022-08-29T13:00:31.858000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "こちらも涼しいです",
+            "timestamp": "2022-08-29T13:00:36.393000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CM",
+            "text": "気温が低めみたいですね、数日の間。",
+            "timestamp": "2022-08-29T13:00:50.426000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "過ごしやすくてありがたいです",
+            "timestamp": "2022-08-29T13:00:59.654000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CM",
+            "text": "暑いと寝苦しくてばててしまいますよねー。",
+            "timestamp": "2022-08-29T13:01:13.274000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "外に出たくなくなります。お昼は食べましたか？",
+            "timestamp": "2022-08-29T13:01:26.192000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CM",
+            "text": "はい、冷凍のパスタを食べました！",
+            "timestamp": "2022-08-29T13:01:37.321000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "なんのパスタですか？",
+            "timestamp": "2022-08-29T13:01:47.005000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CM",
+            "text": "バター醤油味でした！",
+            "timestamp": "2022-08-29T13:01:56.226000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "珍しい味ですね",
+            "timestamp": "2022-08-29T13:02:03.080000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CM",
+            "text": "大盛りだったのでお腹がパンパンです！",
+            "timestamp": "2022-08-29T13:02:14.026000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "いいですね！",
+            "timestamp": "2022-08-29T13:02:21.737000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CM",
+            "text": "半分に分けられたらよかったんですけどねー。",
+            "timestamp": "2022-08-29T13:02:35.481000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "一人で食べたんですか？",
+            "timestamp": "2022-08-29T13:02:42.019000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、家に一人で。",
+            "timestamp": "2022-08-29T13:02:50.569000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "そうなんですね、午後の予定はありますか？",
+            "timestamp": "2022-08-29T13:03:08.737000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CM",
+            "text": "午後はのんびりゲームでもしようかなと思ってます！",
+            "timestamp": "2022-08-29T13:03:24.440000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "ゲームいいですね、どんなゲームをしているんですか",
+            "timestamp": "2022-08-29T13:03:34.810000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CM",
+            "text": "オンラインゲームが好きなんです。",
+            "timestamp": "2022-08-29T13:03:50.318000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "何がありますか？",
+            "timestamp": "2022-08-29T13:04:02.968000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CM",
+            "text": "RPGなんですけど、最近は無人島をもらって開拓して遊んでます！",
+            "timestamp": "2022-08-29T13:04:22.914000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "ゲーム詳しくないのですが、無人島で何ができるんですか",
+            "timestamp": "2022-08-29T13:04:47.728000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CM",
+            "text": "動物を捕まえて卵や乳を取ったり、素材を取って家を建てたりできます！",
+            "timestamp": "2022-08-29T13:05:07.945000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "生活する感じなんですね！",
+            "timestamp": "2022-08-29T13:05:28.283000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、気付いたら一日終わってます！",
+            "timestamp": "2022-08-29T13:05:39.146000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "それはハマりますね",
+            "timestamp": "2022-08-29T13:05:49.551000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CM",
+            "text": "家にいても楽しめるものがあってありがたいです！",
+            "timestamp": "2022-08-29T13:06:00.098000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "楽しそうです",
+            "timestamp": "2022-08-29T13:06:04.128000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

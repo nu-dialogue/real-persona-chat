@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8173,
+    "interlocutors": [
+        "BT",
+        "IF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "突然ですが、血液型って何型ですか？",
+            "timestamp": "2022-08-04T19:16:37.558000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IF",
+            "text": "A型です、<BT>さんは？",
+            "timestamp": "2022-08-04T19:16:53.796000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "私もA型です！おんなじですね。",
+            "timestamp": "2022-08-04T19:17:11.821000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IF",
+            "text": "はい、半分O型ってやつです。",
+            "timestamp": "2022-08-04T19:17:19.601000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "えっと、それはご両親のどちらかがＯ型ってことですか？",
+            "timestamp": "2022-08-04T19:17:40.896000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IF",
+            "text": "そうです、おかんがＯ型です。",
+            "timestamp": "2022-08-04T19:17:52.205000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "なるほど。私はAB型＆A型のA型です。",
+            "timestamp": "2022-08-04T19:18:11.273000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IF",
+            "text": "そうなんですね。血液型占いとか信じますか？",
+            "timestamp": "2022-08-04T19:18:28.594000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "信じてないけど、やっぱり気になっちゃいます。あはは。",
+            "timestamp": "2022-08-04T19:18:43.255000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IF",
+            "text": "私はいいことだけ信じます。",
+            "timestamp": "2022-08-04T19:19:00.053000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "それは、めっちゃポジティブでいいですね！",
+            "timestamp": "2022-08-04T19:19:11.571000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IF",
+            "text": "あたった試しがないですけれど、ははは。",
+            "timestamp": "2022-08-04T19:19:30.248000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "先月、金運良かったって本当？って過去の雑誌を見ながら、思ったりします。",
+            "timestamp": "2022-08-04T19:20:09.738000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IF",
+            "text": "あるあるですね、最高の運だったはずなのに、みたいな。",
+            "timestamp": "2022-08-04T19:21:14.064000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "そうそう！年始の占いとか。最高の１年どこいったー！って年末に思う。ふふふ。",
+            "timestamp": "2022-08-04T19:21:49.820000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IF",
+            "text": "でも年始にはおみくじ引いちゃうんですよねえ。",
+            "timestamp": "2022-08-04T19:22:27.741000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "引きますねー。あれは絶対やっちゃう。",
+            "timestamp": "2022-08-04T19:22:44.974000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IF",
+            "text": "あれって大凶も含まれているのか疑問におもったりします。",
+            "timestamp": "2022-08-04T19:23:12.922000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "以前、神社に納品してる業者さんに聞いたのですが、凶抜きってセットあるらしいです。",
+            "timestamp": "2022-08-04T19:23:35.206000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IF",
+            "text": "おお！そんな仕組みがあるんですね。",
+            "timestamp": "2022-08-04T19:23:51.041000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "神社によって、けっこう厳しい内容もあるみたいです。",
+            "timestamp": "2022-08-04T19:24:06.887000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IF",
+            "text": "私は甘めのほうがありがたいです。",
+            "timestamp": "2022-08-04T19:24:53.717000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "幸せな１年送れそうですもんね。甘めおみくじだと。",
+            "timestamp": "2022-08-04T19:25:30.120000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IF",
+            "text": "はい、年初からガツンといわれたら凹みそうです。",
+            "timestamp": "2022-08-04T19:25:53.178000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "京都の伏見稲荷さんは、厳しめのおみくじで、年始早々へこみました。",
+            "timestamp": "2022-08-04T19:26:17.896000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IF",
+            "text": "どんなお告げだったのですか？",
+            "timestamp": "2022-08-04T19:26:34.194000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "吉凶相半っていう、どっちもあるよっていう、見たことない結果でした。",
+            "timestamp": "2022-08-04T19:26:56.028000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IF",
+            "text": "それは見たことがないですね。うまくかわされた感がしなくもない",
+            "timestamp": "2022-08-04T19:27:54.097000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "あはは。油断するなってことなんでしょうかねー。",
+            "timestamp": "2022-08-04T19:28:04.065000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IF",
+            "text": "そうかもですね！",
+            "timestamp": "2022-08-04T19:28:21.047000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

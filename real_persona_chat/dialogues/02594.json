@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2594,
+    "interlocutors": [
+        "BS",
+        "CJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-25T09:48:36.882000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CJ",
+            "text": "こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-25T09:48:52.818000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "お好きな食べ物はありますか？",
+            "timestamp": "2022-08-25T09:49:06"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CJ",
+            "text": "何でも好きな方ですが、辛いものが特に好きです。",
+            "timestamp": "2022-08-25T09:49:25.365000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "辛いものですか。スパイス的な辛さもキムチとかの辛さもどれもお好きですか？",
+            "timestamp": "2022-08-25T09:50:42.573000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CJ",
+            "text": "辛いのは何でもいけますね。一番好きなのは唐辛子ですけど。",
+            "timestamp": "2022-08-25T09:51:03.862000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "すごいですね。普段の料理でも、加えたり、かけたりしますか？",
+            "timestamp": "2022-08-25T09:51:51.088000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CJ",
+            "text": "何にでもかけようとするので妻には嫌がられますね。",
+            "timestamp": "2022-08-25T09:52:14.394000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "おお、奥様は辛いもの苦手ですか？",
+            "timestamp": "2022-08-25T09:52:48.367000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CJ",
+            "text": "普通だと思いますが、好んでは口にしませんね。",
+            "timestamp": "2022-08-25T09:53:04.122000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "以前、京都で舞妓はんひぃひぃっていうのを買ってきたら、すごく辛くて主人がびっくりしてました。",
+            "timestamp": "2022-08-25T09:53:54.328000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CJ",
+            "text": "初めて聞きました。京都は唐辛子有名ですからね。かわいい名前なのに強烈なんですね。",
+            "timestamp": "2022-08-25T09:54:39.511000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "そうなんです。一味なんですが、少量ですごく辛いみたいで。全然減らずに今もあります。",
+            "timestamp": "2022-08-25T09:55:23.556000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CJ",
+            "text": "面白そうだなあ。ネットで調べてみよう。私は新潟のかんずりっていう調味料が好みです。",
+            "timestamp": "2022-08-25T09:55:55.128000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "ぜひ！あ、かんずり気になってました！どういう調味料なんでしょうか？",
+            "timestamp": "2022-08-25T09:56:32.295000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CJ",
+            "text": "唐辛子ペーストみたいな感じですけど、辛味の中に旨味を感じます。",
+            "timestamp": "2022-08-25T09:56:58.745000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "辛旨系なんですね。私は辛いもの全然ダメなんですが、１回使ってみたいなと思ってたんです。",
+            "timestamp": "2022-08-25T09:57:49.637000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CJ",
+            "text": "私はかんずりでおでんを食べるのが好きです。試してみてください。あなたのお好みの食べ物はなんですか？",
+            "timestamp": "2022-08-25T09:58:51.853000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "いいですね！試してみます。私はお寿司とかお刺身が好きです。",
+            "timestamp": "2022-08-25T09:59:23.269000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CJ",
+            "text": "王道を行く感じですね。特にお好きなネタは？",
+            "timestamp": "2022-08-25T09:59:51.279000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "白身が好きなので、平目や鯛、後はエビとかホタテも好きです！",
+            "timestamp": "2022-08-25T10:00:29.888000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CJ",
+            "text": "白身の魚はいいですね。塩で食べるのが好きです。",
+            "timestamp": "2022-08-25T10:00:51.544000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "おお、通の食べ方ですね。美味しそうです。",
+            "timestamp": "2022-08-25T10:01:20.588000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CJ",
+            "text": "甘みが際立つ感じがします。醤油ほど主張しないのがいいのかも。",
+            "timestamp": "2022-08-25T10:01:40.161000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "なるほど。この前昆布締めをしたら、それも美味しかったです！",
+            "timestamp": "2022-08-25T10:02:08.306000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CJ",
+            "text": "昆布締めはいいですね。お互いの旨味を引き立て合う感じがします。",
+            "timestamp": "2022-08-25T10:02:37.270000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "そうなんです。ぎゅっと濃縮してて昆布の味もして。",
+            "timestamp": "2022-08-25T10:03:28.316000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CJ",
+            "text": "それこそ通の味ですね。舌が肥えていらっしゃる。",
+            "timestamp": "2022-08-25T10:03:55.600000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "食いしん坊なので、試してみたくて！",
+            "timestamp": "2022-08-25T10:04:32.311000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CJ",
+            "text": "いやいや、さすがです。",
+            "timestamp": "2022-08-25T10:04:43.801000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

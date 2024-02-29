@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6439,
+    "interlocutors": [
+        "GR",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-13T21:28:19.032000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-13T21:28:24.793000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "今まで読んだ本で印象に残っているものはありますか？",
+            "timestamp": "2022-10-13T21:28:54.129000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "乙一っていう作家の小説は印象に残ってます",
+            "timestamp": "2022-10-13T21:29:47.585000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "どんな作家なんですか？",
+            "timestamp": "2022-10-13T21:30:09.210000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "ホラーだったりグロだったりいろんなジャンルの小説書いてますね",
+            "timestamp": "2022-10-13T21:30:28.326000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "どういうところが印象的ですか？",
+            "timestamp": "2022-10-13T21:30:39.483000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "なんというか描写がうまくて、実際にその光景が浮かんでしまうような文章なんですよ",
+            "timestamp": "2022-10-13T21:32:58.906000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "それは読んでみたいです",
+            "timestamp": "2022-10-13T21:33:08.718000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "でもグロい作品は最後まで読めなかったりします",
+            "timestamp": "2022-10-13T21:33:30.888000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "グロすぎてですか？",
+            "timestamp": "2022-10-13T21:33:40.989000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "はい、グロすぎて気持ち悪くなっちゃいます",
+            "timestamp": "2022-10-13T21:33:55.124000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "文章でそこまで表現できるのってすごいですよね",
+            "timestamp": "2022-10-13T21:34:13.572000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "いままでいろいろ小説読んできましたけど、なんでこの人有名にならないのか不思議でたまらないです",
+            "timestamp": "2022-10-13T21:34:43.746000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "たしかに聞いたことないです",
+            "timestamp": "2022-10-13T21:34:53.045000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "映像化できないからかなぁ",
+            "timestamp": "2022-10-13T21:35:05.610000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "映像化できないんですか？",
+            "timestamp": "2022-10-13T21:35:15.458000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "チェーンソーでバラバラにされた顔の一部が排水口に流れたりするので",
+            "timestamp": "2022-10-13T21:36:19.339000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "ええ、、どういう状況なんですか",
+            "timestamp": "2022-10-13T21:36:36.221000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "ちょっと一言では言い表せない感じです",
+            "timestamp": "2022-10-13T21:37:37.970000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "そうなんですね",
+            "timestamp": "2022-10-13T21:37:45.209000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "ねぎぽんさんは好きな本ありますか？",
+            "timestamp": "2022-10-13T21:38:30.058000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "お金の大学っていう本はためになりました",
+            "timestamp": "2022-10-13T21:38:56.131000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "税金について学べるとかですか？",
+            "timestamp": "2022-10-13T21:39:10.686000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "お金の増やし方とかですね",
+            "timestamp": "2022-10-13T21:39:20.139000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "なるほど。",
+            "timestamp": "2022-10-13T21:39:26.361000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "あれはみんな読んだほうがいいと思います",
+            "timestamp": "2022-10-13T21:39:39.034000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "調べてみますね",
+            "timestamp": "2022-10-13T21:39:45.530000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "はい、ぜひ。",
+            "timestamp": "2022-10-13T21:39:53.174000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "では失礼します",
+            "timestamp": "2022-10-13T21:40:03.199000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

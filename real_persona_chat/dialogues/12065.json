@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12065,
+    "interlocutors": [
+        "DB",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T16:05:05.220000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-01T16:05:11.177000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "そちらは天気はどんな感じですか？",
+            "timestamp": "2022-09-01T16:05:22.193000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "曇りです。朝は雨でした。",
+            "timestamp": "2022-09-01T16:05:38.687000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "そうなんですね。こっちは台風が近づいていて天気悪いです。",
+            "timestamp": "2022-09-01T16:05:54.766000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "今回の台風は不思議な動きですよね",
+            "timestamp": "2022-09-01T16:06:15.163000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "昨日の夜に最接近して今遠ざかってるんですがまた来るみたいです。",
+            "timestamp": "2022-09-01T16:06:39.632000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "迷走ってやつですかね",
+            "timestamp": "2022-09-01T16:06:56.716000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "しかも別の低気圧がその台風に合流するかもしれないみたいなんです。",
+            "timestamp": "2022-09-01T16:07:29.471000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "被害が大きく出ないといいですね",
+            "timestamp": "2022-09-01T16:07:47.237000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "あまり近づいては来ないみたいですがすごく強いので悪天候が長引きそうです。",
+            "timestamp": "2022-09-01T16:08:33.927000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "雨が多いと警戒続けないいけないですね",
+            "timestamp": "2022-09-01T16:09:48.272000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "警報は出てないけど風と雨が強いので外出もしづらくてかなり迷惑な感じです。",
+            "timestamp": "2022-09-01T16:10:36.178000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "食糧だけは確保しておかないと",
+            "timestamp": "2022-09-01T16:10:59.549000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "昨日スーパーに行ったときはレジが30分待ちでした！",
+            "timestamp": "2022-09-01T16:11:17.346000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "ちょっとしたパニックですね",
+            "timestamp": "2022-09-01T16:11:35.422000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "毎年のことなので慣れてますがそれでも大変です。",
+            "timestamp": "2022-09-01T16:12:36.277000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "雨が降らないのも困りますしね",
+            "timestamp": "2022-09-01T16:13:00.710000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "今年は梅雨にたくさん雨が降ったので水不足にはならなさそうです。いつもは台風だよりなんですが。",
+            "timestamp": "2022-09-01T16:13:42.882000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "自然とはうまく付き合うしかないとはいえ大変です",
+            "timestamp": "2022-09-01T16:14:09.317000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "ニュースで東京の湿度が99%と報道していて大変そうです。",
+            "timestamp": "2022-09-01T16:14:36.993000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "暑さは和らぎましたが湿度はまだ高いですね",
+            "timestamp": "2022-09-01T16:15:01.024000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "沖縄はまだまだ暑さも続きそうなので涼しくなっているのがうらやましいです。",
+            "timestamp": "2022-09-01T16:15:48.388000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "沖縄の夏は湿度も高いですよね",
+            "timestamp": "2022-09-01T16:16:09.910000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "湿度高いですね。あと紫外線の強さがかなりすごいので気温より紫外線が大変です。",
+            "timestamp": "2022-09-01T16:16:50.466000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "紫外線は火傷にもなるし怖いですよね",
+            "timestamp": "2022-09-01T16:17:12.494000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "県外からの観光客の方は日傘使わない人多いのでびっくりです。短期間でも使ったほうがいいです。",
+            "timestamp": "2022-09-01T16:17:47.805000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "観光客はなめちゃうことありますかね",
+            "timestamp": "2022-09-01T16:18:22.006000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "私は10分の移動でも日傘が手放せないです。",
+            "timestamp": "2022-09-01T16:18:42.087000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "お気をつけて過ごしてください",
+            "timestamp": "2022-09-01T16:19:09.186000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

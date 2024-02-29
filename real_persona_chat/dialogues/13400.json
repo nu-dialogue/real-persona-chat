@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13400,
+    "interlocutors": [
+        "GG",
+        "FW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GG",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T10:30:32.153000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FW",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T10:30:35.921000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GG",
+            "text": "マイブームはありますか？",
+            "timestamp": "2022-09-22T10:30:51.103000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FW",
+            "text": "なんだろう！雑草の種類調べるのがマイブームかもです。",
+            "timestamp": "2022-09-22T10:31:20.770000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GG",
+            "text": "なかなか面白そうなマイブームですね！",
+            "timestamp": "2022-09-22T10:31:35.248000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FW",
+            "text": "けっこう面白いです。スマホのアプリで、写真で調べられるやつがあって。",
+            "timestamp": "2022-09-22T10:32:06.376000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GG",
+            "text": "野草を実際見て調べるのですか？",
+            "timestamp": "2022-09-22T10:32:33.356000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FW",
+            "text": "スマホのカメラで映すと、アプリが種類を特定してくれるんです。",
+            "timestamp": "2022-09-22T10:32:57.279000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GG",
+            "text": "ハイテクですね！",
+            "timestamp": "2022-09-22T10:33:11.290000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FW",
+            "text": "ですよね。すごく正確なんですよ。便利です。",
+            "timestamp": "2022-09-22T10:33:34.020000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GG",
+            "text": "無料なんですか？",
+            "timestamp": "2022-09-22T10:33:50.212000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FW",
+            "text": "無料で使えます。開くたびに、有料登録しませんか？と聞かれますが。",
+            "timestamp": "2022-09-22T10:34:06.280000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GG",
+            "text": "有料登録すると良いことあるのですか？",
+            "timestamp": "2022-09-22T10:35:01.461000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FW",
+            "text": "グレードアップするらしいのですが、現状で不足していることがないので、よく分からないのです。",
+            "timestamp": "2022-09-22T10:35:16.400000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GG",
+            "text": "確かにそれなら無料で十分ですね！",
+            "timestamp": "2022-09-22T10:35:34.595000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FW",
+            "text": "ですね。野草って季節ごとにどんどん異なる種類に変わっていって、なかなかおもしろいです。",
+            "timestamp": "2022-09-22T10:36:16.346000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GG",
+            "text": "季節ごとの違いもあるんですね！",
+            "timestamp": "2022-09-22T10:36:28.974000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FW",
+            "text": "あります。それに、形態も変わっていくので、あれがこんな形に？！とかあって、おもしろいです。",
+            "timestamp": "2022-09-22T10:37:19.752000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GG",
+            "text": "野草はタンポポくらいしかわからないです。",
+            "timestamp": "2022-09-22T10:37:38.006000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FW",
+            "text": "たんぽぽも、今は根だけで潜んでるんでしょうね。いつ出てくるのかなぁ。",
+            "timestamp": "2022-09-22T10:38:10.596000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GG",
+            "text": "来年の春が楽しみですね！",
+            "timestamp": "2022-09-22T10:38:27.895000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FW",
+            "text": "ですね！<GG>さんはマイブーム、ありますか？",
+            "timestamp": "2022-09-22T10:38:40.397000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GG",
+            "text": "最近競馬にはまっています！",
+            "timestamp": "2022-09-22T10:38:58.779000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FW",
+            "text": "いいですね！二回くらい行ったことあります。競馬場に行きますか？",
+            "timestamp": "2022-09-22T10:39:17.625000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GG",
+            "text": "小倉競馬場にはよく行きます！",
+            "timestamp": "2022-09-22T10:39:37.738000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FW",
+            "text": "そうなんですね！競馬場楽しいですよね！お気に入りの馬とかいますか？",
+            "timestamp": "2022-09-22T10:39:58.848000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GG",
+            "text": "どうしても自分が馬券を当てた馬はひいきしちゃいますね！",
+            "timestamp": "2022-09-22T10:40:33.376000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FW",
+            "text": "なるほどー！けっこう当ててますか？",
+            "timestamp": "2022-09-22T10:40:50.620000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GG",
+            "text": "トータルでプラマイゼロくらいなので、これから頑張りたいです！",
+            "timestamp": "2022-09-22T10:41:09.474000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FW",
+            "text": "楽しそうです！！もっと競馬の話聞きたかったです。",
+            "timestamp": "2022-09-22T10:41:27.664000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

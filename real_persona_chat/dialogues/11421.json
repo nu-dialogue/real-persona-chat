@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11421,
+    "interlocutors": [
+        "DM",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんにちは．",
+            "timestamp": "2022-08-22T11:25:05.080000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-22T11:25:10.855000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "今日は何時に起きましたか？",
+            "timestamp": "2022-08-22T11:25:25.470000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "今日は8時半に起きました。",
+            "timestamp": "2022-08-22T11:25:35.776000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "健康的ですね．私もそのくらいに起きました．",
+            "timestamp": "2022-08-22T11:25:51.805000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "そうなんですね！夜は何時に寝ましたか？",
+            "timestamp": "2022-08-22T11:26:12.528000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "夜は少し遅くて2時前くらいです．",
+            "timestamp": "2022-08-22T11:26:33.393000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "私も同じくらいでした。",
+            "timestamp": "2022-08-22T11:26:50.035000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "何か作業されていらしたんですか？",
+            "timestamp": "2022-08-22T11:27:05.132000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "はい。大学の課題がありまして。",
+            "timestamp": "2022-08-22T11:27:17.480000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "それはお疲れ様でした．私も学生なので気持ちはわかります．",
+            "timestamp": "2022-08-22T11:27:40.506000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "そうでしたか！では今は夏休み期間ですか？",
+            "timestamp": "2022-08-22T11:27:57.270000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "夏休みですよ！",
+            "timestamp": "2022-08-22T11:28:12.677000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "いいですねー！9月中くらいまでお休みですか？",
+            "timestamp": "2022-08-22T11:28:36.140000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "そうですね！10月頭から授業開始です！",
+            "timestamp": "2022-08-22T11:28:52.815000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "では私と同じですね！課題は何か出ていますか？",
+            "timestamp": "2022-08-22T11:29:15.908000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "課題はなくて，夏休み前にコロナで休んでしまったので追試が待ってます．",
+            "timestamp": "2022-08-22T11:29:44.923000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "それは大変でしたね。追試は対面で行われるのですか？",
+            "timestamp": "2022-08-22T11:30:07.551000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "対面でやるようです！",
+            "timestamp": "2022-08-22T11:30:31.503000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "勉強しないといけなくて大変そうです。どのような学部にいらっしゃるのですか？",
+            "timestamp": "2022-08-22T11:30:59.183000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "情報系学部です！プログラミングとかの",
+            "timestamp": "2022-08-22T11:31:21.303000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "わあ、すごいですね！ということは理系ですか？",
+            "timestamp": "2022-08-22T11:31:45.301000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "おそらく理系です！あなたは何学部ですか？",
+            "timestamp": "2022-08-22T11:32:11.581000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "私はメディア関係の学部にいます。文系です！",
+            "timestamp": "2022-08-22T11:32:32.388000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "初めて出会ったかも知れません．どんなことを学ぶのですか？",
+            "timestamp": "2022-08-22T11:32:57.692000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "色々な種類のメディアについて学びます。新聞やテレビ、最近だとSNSも入りますね。",
+            "timestamp": "2022-08-22T11:33:30.474000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "面白そうな学部ですね！調べることがたくさんありそうです．",
+            "timestamp": "2022-08-22T11:33:57.841000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "それぞれのメディアの特徴を学べるので興味深いです。あなたはご自分でプログラミングなどもされますか？",
+            "timestamp": "2022-08-22T11:34:36.884000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "はい，競技プログラミングというのを少しかじっています．",
+            "timestamp": "2022-08-22T11:35:16.655000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "初めて聞く言葉です。面白そうですね。",
+            "timestamp": "2022-08-22T11:35:39.731000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

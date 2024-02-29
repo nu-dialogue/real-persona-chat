@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5000,
+    "interlocutors": [
+        "GE",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GE",
+            "text": "こんばんは。お疲れ様です。",
+            "timestamp": "2022-09-17T23:31:36.682000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ。",
+            "timestamp": "2022-09-17T23:31:38.217000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GE",
+            "text": "あとひと月半ほどしたら、ハロウィンの季節になりますね。",
+            "timestamp": "2022-09-17T23:32:52.875000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "そうですね、カボチャ好きですか？",
+            "timestamp": "2022-09-17T23:33:03.292000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GE",
+            "text": "好きです。今家にかぼちゃがたくさんあるんですよ。",
+            "timestamp": "2022-09-17T23:33:45.567000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "なぜですか？",
+            "timestamp": "2022-09-17T23:33:57.730000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GE",
+            "text": "父が趣味で家庭菜園をしていて、ちょうど収穫時期で。今日それをもらったんです。",
+            "timestamp": "2022-09-17T23:35:15.831000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "えー、いいですね。",
+            "timestamp": "2022-09-17T23:35:23.449000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GE",
+            "text": "かぼちゃ、好きなんですか？",
+            "timestamp": "2022-09-17T23:36:06.354000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "うーん、特段好きというわけではないですがお店のカボチャスープおいしいですね。",
+            "timestamp": "2022-09-17T23:36:39.137000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GE",
+            "text": "ミキサーでトロトロにしたタイプのかぼちゃスープですね？",
+            "timestamp": "2022-09-17T23:38:05.836000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "うーん、多分？",
+            "timestamp": "2022-09-17T23:38:36.568000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GE",
+            "text": "なめらかな感じのスープというか、もらったかぼちゃで明日、作ろうと思っていたところです。",
+            "timestamp": "2022-09-17T23:40:00.432000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "玉ねぎとかって入れるんですか？",
+            "timestamp": "2022-09-17T23:40:11.453000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GE",
+            "text": "入れる時もあるし、いれない時もあります。",
+            "timestamp": "2022-09-17T23:40:53.398000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "母が作るカボチャスープちょっと苦手で、玉ねぎ入ってるんですよ。",
+            "timestamp": "2022-09-17T23:41:22.721000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GE",
+            "text": "あ、そうなんですね。苦手なんだ。",
+            "timestamp": "2022-09-17T23:42:51.990000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "形が残ってると苦手なんですけど、母そういうの好きみたいで。",
+            "timestamp": "2022-09-17T23:43:12.668000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GE",
+            "text": "私もお母さまに近いスープを作ってるかもしれません。",
+            "timestamp": "2022-09-17T23:45:17.666000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "そうなんですね、まぁ形というか食感かもしれないです。",
+            "timestamp": "2022-09-17T23:46:41.163000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GE",
+            "text": "なるほど。",
+            "timestamp": "2022-09-17T23:48:27.177000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "そういえば日本のハロウィンってちょっと変わってるみたいですね。",
+            "timestamp": "2022-09-17T23:49:18.068000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GE",
+            "text": "そうなんですか？本場のものと比べたことがないのでわからないですが。",
+            "timestamp": "2022-09-17T23:50:43.091000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "うーんと、アメリカだとトリックオアトリートって言って近所回ってお菓子もらいまくりですね。",
+            "timestamp": "2022-09-17T23:51:10.857000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GE",
+            "text": "子どもたちが小さい時は、それの真似事を近所のママさんたちとしたことはありますね。",
+            "timestamp": "2022-09-17T23:52:35.916000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "カボチャをくりぬいたりとかもしましたね。",
+            "timestamp": "2022-09-17T23:53:01.200000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GE",
+            "text": "あれ、くり抜くの難しくないですか？皮が堅そうだし。",
+            "timestamp": "2022-09-17T23:54:25.575000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "うーん、ちょっと覚えてないですね。",
+            "timestamp": "2022-09-17T23:54:36.948000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GE",
+            "text": "もう近年はハロウィンとは縁遠い生活になってます。",
+            "timestamp": "2022-09-17T23:55:53.221000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "トラックひっくり返すような祭りに正直僕は関わりたくないなぁ。",
+            "timestamp": "2022-09-17T23:56:16.220000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GE",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

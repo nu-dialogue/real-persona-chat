@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4141,
+    "interlocutors": [
+        "EO",
+        "CU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EO",
+            "text": "はじめまして！よろしくお願いします。",
+            "timestamp": "2022-09-08T12:58:28.075000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CU",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-09-08T12:58:31.288000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EO",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-09-08T12:58:42.821000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CU",
+            "text": "はい、お休みです。そちらもお休みですか？",
+            "timestamp": "2022-09-08T12:59:01.831000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EO",
+            "text": "専業主婦なので、毎日おやすみですね。",
+            "timestamp": "2022-09-08T12:59:28.297000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CU",
+            "text": "専業主婦さんなんですね。では逆にお休みなしですね！",
+            "timestamp": "2022-09-08T12:59:49.876000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EO",
+            "text": "そうとも言えますね！",
+            "timestamp": "2022-09-08T13:00:06.505000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CU",
+            "text": "私も主婦なので、ときどき嫌になっちゃいます。",
+            "timestamp": "2022-09-08T13:00:43.206000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EO",
+            "text": "家事は毎日毎日ですもんね。",
+            "timestamp": "2022-09-08T13:01:03.675000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CU",
+            "text": "はい、しかも誰もほめてくれませんしね。",
+            "timestamp": "2022-09-08T13:01:30.027000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EO",
+            "text": "そうですよね。自分で自分を褒めるしかないですね！",
+            "timestamp": "2022-09-08T13:02:01.260000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CU",
+            "text": "ですね！好きな家事、嫌いな家事は何ですか？",
+            "timestamp": "2022-09-08T13:02:18.010000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EO",
+            "text": "掃除洗濯は割と好きで、料理は嫌いです！",
+            "timestamp": "2022-09-08T13:02:47.274000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CU",
+            "text": "掃除洗濯が好きだなんて尊敬です！",
+            "timestamp": "2022-09-08T13:03:11.649000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EO",
+            "text": "とんでもないです。散らかりっぱなしのときも全然あります。",
+            "timestamp": "2022-09-08T13:03:51.252000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CU",
+            "text": "私も片付けは好きなんですが、そのあとの掃除まで手が回らないことが多いです。",
+            "timestamp": "2022-09-08T13:04:21.002000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EO",
+            "text": "片付け好きなのわかります！片付くとスッキリしますよね。",
+            "timestamp": "2022-09-08T13:05:03.377000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CU",
+            "text": "はい、散らかっていると気分も落ち着かないですよね。",
+            "timestamp": "2022-09-08T13:05:22.956000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EO",
+            "text": "そうなんですよ。きれいな部屋で過ごしたいです。",
+            "timestamp": "2022-09-08T13:05:55.589000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CU",
+            "text": "姉の家がなかなかの散らかりハウスで、いつも訪問すると笑ってしまいます。",
+            "timestamp": "2022-09-08T13:06:28.541000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EO",
+            "text": "そうなんですか？！片付けてあげたり？",
+            "timestamp": "2022-09-08T13:07:02.952000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CU",
+            "text": "手伝うこともありますが、すぐリバウンドするのでキリがないですねー",
+            "timestamp": "2022-09-08T13:07:38.937000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EO",
+            "text": "きょうだいでもそこは違うんですね。",
+            "timestamp": "2022-09-08T13:08:10.462000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CU",
+            "text": "そうなんですよ。年頃の娘が２人いるので、将来が心配ですー",
+            "timestamp": "2022-09-08T13:08:48.905000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EO",
+            "text": "ほんとですねー。ちなみにご実家は片付いてた方なんですか？",
+            "timestamp": "2022-09-08T13:09:32.411000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CU",
+            "text": "とっても片付いてました。その反動ですかね。",
+            "timestamp": "2022-09-08T13:09:59.199000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EO",
+            "text": "反動が来たりするんですね。面白いです。",
+            "timestamp": "2022-09-08T13:10:24.267000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CU",
+            "text": "はい、私も実家の自室はぐちゃぐちゃでした。ははは。",
+            "timestamp": "2022-09-08T13:10:45.886000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EO",
+            "text": "なんと！意外です！",
+            "timestamp": "2022-09-08T13:10:58.255000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CU",
+            "text": "主婦としてお互いがんばりましょう！",
+            "timestamp": "2022-09-08T13:11:34.483000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

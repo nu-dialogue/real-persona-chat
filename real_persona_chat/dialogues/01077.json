@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1077,
+    "interlocutors": [
+        "BB",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-13T07:03:33.228000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-13T07:03:42.804000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "初対面であれなんですが、<CA>さんは人間関係で悩んだことはありませんか？",
+            "timestamp": "2022-08-13T07:04:04.094000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "人間関係、生まれてこのかたずっと悩みの種です。今も悩みの渦中で。<BB>さんはどうですか？",
+            "timestamp": "2022-08-13T07:04:36.666000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "私もそうです。前の職場は人間関係で辞めたぐらいです。",
+            "timestamp": "2022-08-13T07:04:53.915000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "職場の人間関係、私もです。どんな感じの職場だったのですか？",
+            "timestamp": "2022-08-13T07:05:28.259000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "同じチームの方々はとても優しくて、チームワークもよかったのですが。協力関係にある他部署の人がダメで。",
+            "timestamp": "2022-08-13T07:06:07.464000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "他部署の人、どんな感じだったのでしょう？",
+            "timestamp": "2022-08-13T07:06:27.823000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "私の部署の上位部署と言うんでしょうか。その部署の許可がないとことが進まない感じだったんですけどね。",
+            "timestamp": "2022-08-13T07:06:59.255000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "それはお伺い立てないといけない感じの部署の関係ですね",
+            "timestamp": "2022-08-13T07:07:43.535000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "それなのに、くだらない理由で私の企画に全部ダメだしするんですよね。",
+            "timestamp": "2022-08-13T07:08:13.143000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "えー！！どんな理由かお聞きしても？",
+            "timestamp": "2022-08-13T07:08:42.469000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "結局はその上位部署の利益のためだったと思います。しかもその担当者、もとはうちの部署だったという。",
+            "timestamp": "2022-08-13T07:09:16.193000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "そんなことってあるんですね。元いた部署に嫌な思いさせるってひどい。",
+            "timestamp": "2022-08-13T07:09:50.504000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "ちょっとしんどくなって、その人から電話がかかってくるだけで冷汗が出てきた時期もありましたね。",
+            "timestamp": "2022-08-13T07:10:32.366000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "それは心と体が悲鳴あげてるサインだーかなり耐えられていたのですね",
+            "timestamp": "2022-08-13T07:11:08.457000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "耐えた末に、このままじゃうつ病になってしまう！と思って、辞めちゃいました。",
+            "timestamp": "2022-08-13T07:11:32.235000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "電話で冷や汗かくぐらいの相手と関わらなきゃいけないって危険だし、すごく良い決断だと思います",
+            "timestamp": "2022-08-13T07:12:19.039000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "休職期間中に、職場復帰も進めてもらったのですが。やっぱりその人が残っているので、出来ませんでしたね。",
+            "timestamp": "2022-08-13T07:12:46.653000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "その人が転勤する可能性はなかったのですか？",
+            "timestamp": "2022-08-13T07:13:12.961000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "海外転勤の可能性もあるにはあるんですが、たぶんずっと仕事的なつながりはあったんだと思います。",
+            "timestamp": "2022-08-13T07:13:41.315000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "それだと続けるのは確かに辛いですね。私も<BB>さんだったら退職していたと思います",
+            "timestamp": "2022-08-13T07:14:19.494000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "私もそれが正解だったと思います。しばらくカウンセリングとかも通いましたが。",
+            "timestamp": "2022-08-13T07:14:41.354000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "トラウマになっちゃいますよね。今は具合どんなですか？",
+            "timestamp": "2022-08-13T07:15:16.815000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "おかげさまで、今は元気です！無事に子供も出産して、頑張って子育てしてます。",
+            "timestamp": "2022-08-13T07:15:40.305000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "よかった。心も体なのも元気なのがいちばん！",
+            "timestamp": "2022-08-13T07:16:15.681000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "本当にそうですよね。退職をきっかけに、自分の健康が一番ってしみじみと感じました。",
+            "timestamp": "2022-08-13T07:16:46.194000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "人生の転換期のような経験ですね",
+            "timestamp": "2022-08-13T07:17:25.443000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "自分が元気じゃないと、周りの人も元気にできないですしね。",
+            "timestamp": "2022-08-13T07:17:42.376000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "それは本当に私も最近すごく思っています。またお話ししましょう！",
+            "timestamp": "2022-08-13T07:17:56.317000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

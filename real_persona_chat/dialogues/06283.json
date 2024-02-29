@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6283,
+    "interlocutors": [
+        "FS",
+        "GF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T11:45:01.819000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GF",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T11:45:06.269000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "今日はどこか出かけるんですか？",
+            "timestamp": "2022-10-05T11:45:20.354000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GF",
+            "text": "子どもの習い事の送迎のみです。",
+            "timestamp": "2022-10-05T11:45:33.256000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "何の習い事ですか？",
+            "timestamp": "2022-10-05T11:45:46.593000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GF",
+            "text": "国語塾というものがありまして、進学塾よりも良さそうで通っています！",
+            "timestamp": "2022-10-05T11:46:12.026000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "国語塾というのがあるんですね。国語に特化しているんですか？",
+            "timestamp": "2022-10-05T11:47:05.052000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GF",
+            "text": "はい、それも色々工夫を凝らしてくれるので楽しいんです！！",
+            "timestamp": "2022-10-05T11:47:29.325000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "楽しみながら学べるの良いですね！",
+            "timestamp": "2022-10-05T11:47:50.333000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GF",
+            "text": "そうなんですよ。今はドラえもんの道具をプレゼンするというのをやっています。",
+            "timestamp": "2022-10-05T11:48:18.212000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "今はプレゼンのやり方を学べるんですね！本当に役に立ちますよね！",
+            "timestamp": "2022-10-05T11:49:04.029000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GF",
+            "text": "そうなんです！進学塾は合格のためですが、こちらは長い人生で役立つことを教えてくれます。",
+            "timestamp": "2022-10-05T11:49:46.730000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "内容気になります！プレゼン学んでいたらもう少し堂々とできたのかな。",
+            "timestamp": "2022-10-05T11:51:30.203000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GF",
+            "text": "そうですね、グループディスカッションとかもやりますし。プレゼンで困った経験ございましたか？",
+            "timestamp": "2022-10-05T11:52:31.851000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "プレゼンというか大勢の前で意見を言ったりするのが苦手なんです。緊張してしまって。",
+            "timestamp": "2022-10-05T11:53:25.029000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GF",
+            "text": "うわわ、同じなんです。めっちゃ緊張しますよね？？",
+            "timestamp": "2022-10-05T11:53:52.970000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "考えもまとまらなくなりますし、事前に考えていても言う順序がおかしくなったりします！",
+            "timestamp": "2022-10-05T11:54:57.130000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GF",
+            "text": "わかります！用意していたのに！とか。簡単な自己紹介ですらそうなりますよー。",
+            "timestamp": "2022-10-05T11:55:25.875000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "自己紹介イヤですー！学生時代のクラスでの自己紹介も名前くらいしか言えませんでした。",
+            "timestamp": "2022-10-05T11:56:34.082000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GF",
+            "text": "本当はもう少し言いたいのに、緊張が勝って、自分で強制終了ですよね！",
+            "timestamp": "2022-10-05T11:56:59.520000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "強制終了！そうなんです！この時を早く終わらせたいって感じで！",
+            "timestamp": "2022-10-05T11:57:33.183000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GF",
+            "text": "はい、自分つまんないな！とか思ったりしながら座ります。笑えて来ました。",
+            "timestamp": "2022-10-05T11:57:50.651000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "緊張しないで機転が利いたこと言える人がうらやましいです。",
+            "timestamp": "2022-10-05T11:58:37.422000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GF",
+            "text": "懇談会でお母さん方が皆さん饒舌で圧倒されますよー。",
+            "timestamp": "2022-10-05T11:59:03.840000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね。すごそうです。塾で子供の頃からそういった事に慣れていたら良さそうですね。",
+            "timestamp": "2022-10-05T12:00:26.090000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GF",
+            "text": "そうですね、ピアノやっていて、ステージが多いのでこちらでも肝が据わってきたなと感じています。",
+            "timestamp": "2022-10-05T12:01:06.460000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "ピアノ今もやっているんですか？",
+            "timestamp": "2022-10-05T12:01:44.374000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GF",
+            "text": "子どもがですよ。私もやっていましたが、ステージでぶるぶる震えながら弾いていましたよ。",
+            "timestamp": "2022-10-05T12:02:12.880000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "手が汗ばんでしまいそうです。",
+            "timestamp": "2022-10-05T12:02:41.685000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GF",
+            "text": "震えすぎて恥ずかしかった記憶しかありません！こちらも笑えて来ました！",
+            "timestamp": "2022-10-05T12:03:07.689000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

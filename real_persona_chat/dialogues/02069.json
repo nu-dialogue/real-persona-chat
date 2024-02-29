@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2069,
+    "interlocutors": [
+        "BJ",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-18T15:46:03.163000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-18T15:46:09.731000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BJ",
+            "text": "好きな食べ物なんですか",
+            "timestamp": "2022-08-18T15:46:22.204000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "豚カツが好きです。",
+            "timestamp": "2022-08-18T15:46:37.455000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BJ",
+            "text": "あー私も大好きです",
+            "timestamp": "2022-08-18T15:46:54.824000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "ヒレとロースどちらが好きですか？",
+            "timestamp": "2022-08-18T15:47:06.312000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BJ",
+            "text": "ひれですかね。あなたは？",
+            "timestamp": "2022-08-18T15:47:19.632000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "私はロースが好きです。",
+            "timestamp": "2022-08-18T15:47:29.362000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BJ",
+            "text": "ロースの方がリーズナブルでいいですよね！",
+            "timestamp": "2022-08-18T15:47:48.535000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "大きくてお得な感じがしますよね。",
+            "timestamp": "2022-08-18T15:48:09.455000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BJ",
+            "text": "何をつける派ですか",
+            "timestamp": "2022-08-18T15:48:28.052000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "断然ソースです。",
+            "timestamp": "2022-08-18T15:48:31.859000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BJ",
+            "text": "いいですね。王道",
+            "timestamp": "2022-08-18T15:48:45.345000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "何をつけますか？",
+            "timestamp": "2022-08-18T15:48:55.160000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BJ",
+            "text": "私もソースですが、最近は塩も美味しいと思うようになりました",
+            "timestamp": "2022-08-18T15:49:18.632000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "通ですね。私は焼肉だと塩で食べるのが好きです。",
+            "timestamp": "2022-08-18T15:49:39.492000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BJ",
+            "text": "そちらの方が通ですよ！初めて聞きました",
+            "timestamp": "2022-08-18T15:49:55.395000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "焼肉のタレも食べますが、塩も結構いけますよ。",
+            "timestamp": "2022-08-18T15:50:16.571000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BJ",
+            "text": "タレでしか食べたことないです",
+            "timestamp": "2022-08-18T15:50:32.882000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "焼肉は最初に何を頼みますか？",
+            "timestamp": "2022-08-18T15:51:23.700000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BJ",
+            "text": "タンですね。",
+            "timestamp": "2022-08-18T15:51:11.334000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "私もタンです。皆頼むイメージです。",
+            "timestamp": "2022-08-18T15:51:22.425000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BJ",
+            "text": "最近逆にカルビとかがあまり食べられなくなってきました",
+            "timestamp": "2022-08-18T15:51:39.877000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "わかります。脂がきついですよね。鳥をよく頼むようになりました。",
+            "timestamp": "2022-08-18T15:52:03.566000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BJ",
+            "text": "そうなんです。鳥もいいですね。あとホルモン系とか",
+            "timestamp": "2022-08-18T15:52:19.710000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "ホルモン系まだ挑戦したことないです。美味しいですか？",
+            "timestamp": "2022-08-18T15:52:38.905000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BJ",
+            "text": "私は好きですよ！好みは分かれそうですが",
+            "timestamp": "2022-08-18T15:52:52.437000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "ホルモンは色々ありますが、何が好きですか？",
+            "timestamp": "2022-08-18T15:53:06.415000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BJ",
+            "text": "ハツ、レバーですかね",
+            "timestamp": "2022-08-18T15:53:21.852000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "定番ですね。お腹がすいてきました。",
+            "timestamp": "2022-08-18T15:53:36.272000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

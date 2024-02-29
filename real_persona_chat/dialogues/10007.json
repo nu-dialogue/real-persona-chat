@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10007,
+    "interlocutors": [
+        "ER",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "はじめまして。よろしくお願いします。",
+            "timestamp": "2022-08-10T16:55:55.448000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "お願いします。",
+            "timestamp": "2022-08-10T16:56:03.425000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "最近食べたもので一番美味しかったものってなんですか？",
+            "timestamp": "2022-08-10T16:56:27.093000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "一番おいしかったものは、ちょっといい焼肉屋さんのお肉ですね！",
+            "timestamp": "2022-08-10T16:57:12.654000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "いいですね！お肉が美味しいと他のメニューも美味しそうですね。",
+            "timestamp": "2022-08-10T16:57:36.433000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "そうなんです！土鍋焚きのご飯とか、ビビンバとかユッケも美味しくて。",
+            "timestamp": "2022-08-10T16:58:04.329000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "美味しそうですね。家族と行かれたんですか？",
+            "timestamp": "2022-08-10T16:58:38.207000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "いえ、友達と行きました。2人でお腹がはち切れそうになるまで食べ放題しました！",
+            "timestamp": "2022-08-10T16:59:14.848000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "そういうのが一緒に楽しめる友達がいるのはいいですよね！",
+            "timestamp": "2022-08-10T16:59:39.978000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "いい友達に恵まれたなと思います。お腹苦しすぎて最後30分くらい無言でしたが。",
+            "timestamp": "2022-08-10T17:00:11.481000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "無言で一緒にいても平気な友人って大事だと思います。結構高かったんですか？",
+            "timestamp": "2022-08-10T17:00:39.553000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "食べ放題で7千円くらいだったので、安くはないお値段かなと思います。",
+            "timestamp": "2022-08-10T17:01:19.316000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "食べ放題でも結構良いお値段ですね。確かにいっぱい食べたくなりそうです。",
+            "timestamp": "2022-08-10T17:01:43.076000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "そうなんです、元とらなきゃ！って2人で頑張りました。",
+            "timestamp": "2022-08-10T17:02:10.809000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "そうなりますよね。私も食べ放題に行くとそうなります。次の日もお腹いっぱいのままになりそうですね",
+            "timestamp": "2022-08-10T17:02:52.794000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "次の日はほとんどお腹すかなかったですね。最近何かの食べ放題とか行かれました？",
+            "timestamp": "2022-08-10T17:03:28.304000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "食べ放題は行ってないですね。行く約束だけしてます。",
+            "timestamp": "2022-08-10T17:03:47.550000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "いいですね！なんの食べ放題ですか？",
+            "timestamp": "2022-08-10T17:04:08.961000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "同じく焼き肉ですね。",
+            "timestamp": "2022-08-10T17:04:41.212000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "楽しみですねー！限界に挑戦してきてください！",
+            "timestamp": "2022-08-10T17:05:06.011000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "はい！他に食べ放題をしてみたい料理ってありますか？",
+            "timestamp": "2022-08-10T17:05:36.314000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "スイーツの食べ放題してみたいなって前々から思ってます。スイパラとか近くになくて。",
+            "timestamp": "2022-08-10T17:06:26.848000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "スイパラいいですね。私も近くになくてなかなか行けないですね。",
+            "timestamp": "2022-08-10T17:06:45.758000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "ミスドの食べ放題も店舗限定であるみたいなんですが、ドーナツオンリーはきついかなと思ってます。",
+            "timestamp": "2022-08-10T17:07:24.429000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "ミスドもあるんですね。確かにドーナッツオンリーは飽きてしまいそうですね。",
+            "timestamp": "2022-08-10T17:07:49.545000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "何か行ってみたい食べ放題ありますか？",
+            "timestamp": "2022-08-10T17:08:16.707000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "すたみな太郎とか行ってみたいですね。寿司もあるそうなので。",
+            "timestamp": "2022-08-10T17:08:38.566000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "お寿司も食べられるんですね！いいなぁ！",
+            "timestamp": "2022-08-10T17:09:06.481000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "お寿司も焼き肉も楽しめるみたいですよ。飽きがなさそうです。",
+            "timestamp": "2022-08-10T17:09:26.820000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "色んなものが食べられるのいいですよね！ありがとうございました！",
+            "timestamp": "2022-08-10T17:09:46.411000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ER",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-10T17:09:54.592000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

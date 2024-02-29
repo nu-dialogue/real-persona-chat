@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9610,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-08T21:23:32.493000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-08T21:23:41.447000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "最近またコロナの感染者が増えてきましたね",
+            "timestamp": "2022-08-08T21:24:15.675000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "そうですね。身近な方感染したりしました？",
+            "timestamp": "2022-08-08T21:24:39.881000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "上司が感染したくらいですね。",
+            "timestamp": "2022-08-08T21:25:03.851000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "<AW>さんは大丈夫だったんですか？",
+            "timestamp": "2022-08-08T21:25:38.259000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "私は大丈夫でした。<CS>さんは周りの方感染したりしました？",
+            "timestamp": "2022-08-08T21:26:11.081000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "友人が感染しました。ただの風邪っていう人いますけど、全然違うみたいですね",
+            "timestamp": "2022-08-08T21:26:47.911000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "かなりつらいみたいですね。",
+            "timestamp": "2022-08-08T21:27:12.695000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "友人は骨が痛いって言ってました",
+            "timestamp": "2022-08-08T21:27:29.182000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "骨ですか？関節とかではなく？",
+            "timestamp": "2022-08-08T21:27:45.999000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "骨が痛いみたいです。感覚がよくわからないですが",
+            "timestamp": "2022-08-08T21:28:09.552000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "怖いですね…上司は40度近い熱が何日も続くって言ってました",
+            "timestamp": "2022-08-08T21:28:37.166000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "それもきついですね",
+            "timestamp": "2022-08-08T21:28:49.918000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "PCRの検査も整理券形式みたいで、外で待たされるみたいです",
+            "timestamp": "2022-08-08T21:29:27.651000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "この猛暑の中外で待つのしんどいですよね",
+            "timestamp": "2022-08-08T21:30:16.479000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "しかたないんでしょうけど、数時間待ちとかもあるみたいで",
+            "timestamp": "2022-08-08T21:30:39.318000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "医療崩壊ってやつですかね",
+            "timestamp": "2022-08-08T21:31:02.634000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "怖いですね。コロナ保険っていうのもあるみたいですよ",
+            "timestamp": "2022-08-08T21:31:33.724000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "彼氏が加入してて、コロナになりたいって言ってました",
+            "timestamp": "2022-08-08T21:31:56.977000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "いくらくらいもらえるんですかね？",
+            "timestamp": "2022-08-08T21:32:13.279000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "20万くらいもらえるみたいです",
+            "timestamp": "2022-08-08T21:32:37.855000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "臨時ボーナスですね",
+            "timestamp": "2022-08-08T21:32:54.280000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "20万もらえるなら…って思っちゃいますよね",
+            "timestamp": "2022-08-08T21:33:28.312000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "軽症ですむならいいですよね",
+            "timestamp": "2022-08-08T21:33:44.379000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "そうですね。重症化したらいやですけど",
+            "timestamp": "2022-08-08T21:34:02.202000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "保険、入ったほうがいいんですかね",
+            "timestamp": "2022-08-08T21:34:35.925000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "彼氏はお父さんが保険屋だから勝手に加入してたみたいです",
+            "timestamp": "2022-08-08T21:35:18.172000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "なるほど",
+            "timestamp": "2022-08-08T21:35:27.885000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "なのでまぁ別に入らなくてもいいと思いますよ",
+            "timestamp": "2022-08-08T21:35:50.799000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

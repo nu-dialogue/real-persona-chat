@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12055,
+    "interlocutors": [
+        "CL",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T16:34:18.991000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T16:34:22.151000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CL",
+            "text": "食べ物の好き嫌いはありますか？",
+            "timestamp": "2022-09-01T16:34:30.384000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "嫌いなものは貝とキノコです",
+            "timestamp": "2022-09-01T16:34:48.217000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CL",
+            "text": "そうなんですね。どの辺が嫌いなんですか？",
+            "timestamp": "2022-09-01T16:35:00.346000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "貝は匂いがダメで、生魚とか食べれるんですけど",
+            "timestamp": "2022-09-01T16:35:31.625000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CL",
+            "text": "貝独特の香りありますよね。私はそれが好きなんですけど。",
+            "timestamp": "2022-09-01T16:35:50.226000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "どうにか克服したいんですけどね。",
+            "timestamp": "2022-09-01T16:36:07.260000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CL",
+            "text": "昔からですか？一度あたってからとかではなく？",
+            "timestamp": "2022-09-01T16:36:23.496000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "昔からです",
+            "timestamp": "2022-09-01T16:36:36.624000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CL",
+            "text": "それはもう難しそうですね。",
+            "timestamp": "2022-09-01T16:36:47.472000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "好き嫌いはありますか？",
+            "timestamp": "2022-09-01T16:36:54.270000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CL",
+            "text": "私は魚が大好きなんですよ。貝も含めお寿司が大好物です。",
+            "timestamp": "2022-09-01T16:37:23.288000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "お寿司好きです！なんのネタが一番好きですか？",
+            "timestamp": "2022-09-01T16:37:48.561000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CL",
+            "text": "時によるんですけど今ははまちが食べたいですね。",
+            "timestamp": "2022-09-01T16:38:09.984000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "お寿司はよく食べるんですか？",
+            "timestamp": "2022-09-01T16:38:32.698000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CL",
+            "text": "毎日食べたい！といいながらもそんなにしょっちゅうではないです。",
+            "timestamp": "2022-09-01T16:38:49.975000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "大好物ですね",
+            "timestamp": "2022-09-01T16:38:57.872000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CL",
+            "text": "そうです。なんかあったらご褒美として食べたいものナンバー１ですね。",
+            "timestamp": "2022-09-01T16:39:18.215000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "ご褒美メニューのイメージはありますね",
+            "timestamp": "2022-09-01T16:39:32.091000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CL",
+            "text": "ですよね。好きな食べ物は何ですか？",
+            "timestamp": "2022-09-01T16:39:48.224000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "ピザです。毎日でも食べたいです",
+            "timestamp": "2022-09-01T16:40:00.415000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CL",
+            "text": "ピザですか！どういう系の味が特に好きですか？",
+            "timestamp": "2022-09-01T16:40:15.705000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "チーズ系です",
+            "timestamp": "2022-09-01T16:40:22.576000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CL",
+            "text": "じゃあソースは？",
+            "timestamp": "2022-09-01T16:40:32.774000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "バジルかな",
+            "timestamp": "2022-09-01T16:40:42.187000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CL",
+            "text": "バジルおいしいですよね。シンプルなの特においしい！",
+            "timestamp": "2022-09-01T16:40:57.380000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "シンプルが一番！大人数で行って一枚ずついろんなの食べたいです。",
+            "timestamp": "2022-09-01T16:41:15.668000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CL",
+            "text": "いい楽しみ方ですね！",
+            "timestamp": "2022-09-01T16:41:28.803000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "食べたくなってきました",
+            "timestamp": "2022-09-01T16:41:34.474000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

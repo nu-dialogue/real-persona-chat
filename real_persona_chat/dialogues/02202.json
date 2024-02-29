@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2202,
+    "interlocutors": [
+        "BL",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-19T15:46:02.909000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-19T15:46:11.107000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "好きな飲み物は何ですか？",
+            "timestamp": "2022-08-19T15:46:29.503000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "ガラナです。ご存じですか？",
+            "timestamp": "2022-08-19T15:46:48.630000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "コーラとはちがうのでしょうか？",
+            "timestamp": "2022-08-19T15:47:05.691000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "コーラの北海道版のようなものです！飲んだことありますか？",
+            "timestamp": "2022-08-19T15:47:29.337000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "飲んだことないです。北海道限定なんですか？",
+            "timestamp": "2022-08-19T15:47:59.634000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "いや、北海道以外にも売ってますよ。お酒飲まれます？",
+            "timestamp": "2022-08-19T15:48:14.321000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "お酒はごくたまーにです。すごく弱いので。",
+            "timestamp": "2022-08-19T15:48:36.921000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "そうですか、都内ではガラナハイという形で居酒屋に置いてあるのをよく見ます",
+            "timestamp": "2022-08-19T15:48:55.755000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね、どんな味なんでしょう？",
+            "timestamp": "2022-08-19T15:49:17.661000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "コーラと湿布の合体なんてよく言われてますね。沖縄のルートビアに近いような",
+            "timestamp": "2022-08-19T15:49:46.412000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "湿布。。。爽やかという捉え方でいいんでしょうか",
+            "timestamp": "2022-08-19T15:50:13.829000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "そうですね、説明が難しいです。爽やかよりは湿布のあの感じを想像した方が近いかもです",
+            "timestamp": "2022-08-19T15:50:54.921000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "あれを想像すると、あまりおいしくない気がします",
+            "timestamp": "2022-08-19T15:51:13.864000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "好みは分かれます。あなたの好きな飲み物は？",
+            "timestamp": "2022-08-19T15:51:37.053000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "最近は野菜ジュースを飲んでいます",
+            "timestamp": "2022-08-19T15:51:52.165000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "おー健康に気を使ってですか？",
+            "timestamp": "2022-08-19T15:52:09.896000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "夏はあまり料理をしたくないので、飲み物で補う作戦です。",
+            "timestamp": "2022-08-19T15:52:37.333000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "なるほど、それはいい考え方ですね。栄養補給にはなりますもんね",
+            "timestamp": "2022-08-19T15:52:58.705000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "そうなんですよ。単なる手抜きとも言いますが。",
+            "timestamp": "2022-08-19T15:53:40.124000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "野菜ジュース苦手な方多いですが、味もお好きなんですか？",
+            "timestamp": "2022-08-19T15:53:58.683000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "味も好きです",
+            "timestamp": "2022-08-19T15:54:08.671000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "私もです。美味しいですよね",
+            "timestamp": "2022-08-19T15:54:20.021000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "元々野菜も好きなんですよ。",
+            "timestamp": "2022-08-19T15:54:34.940000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "ほう。一番好きな野菜はなんですか",
+            "timestamp": "2022-08-19T15:54:51.422000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "レタスが好きです",
+            "timestamp": "2022-08-19T15:54:59.863000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "へー！健康的でいいですね。",
+            "timestamp": "2022-08-19T15:55:14.760000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "不健康なので、気を付けている感じです",
+            "timestamp": "2022-08-19T15:55:32.283000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "健康第一ですもんね",
+            "timestamp": "2022-08-19T15:55:42.246000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

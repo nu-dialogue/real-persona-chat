@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12160,
+    "interlocutors": [
+        "IN",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IN",
+            "text": "こんにちは",
+            "timestamp": "2022-09-04T10:52:00.616000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは",
+            "timestamp": "2022-09-04T10:52:10.596000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IN",
+            "text": "今さっき昨日ポチったズボンが届きました。",
+            "timestamp": "2022-09-04T10:52:36.684000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "わー！うれしいやつですね！早速履きたくなってしまうやつでは！",
+            "timestamp": "2022-09-04T10:53:25.679000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IN",
+            "text": "まずは丈直しに出してからですかねー",
+            "timestamp": "2022-09-04T10:53:49.237000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "そうでしたか。にしても最近本当に配達が早いので便利ですよね。",
+            "timestamp": "2022-09-04T10:54:15.636000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IN",
+            "text": "便利すぎとすら感じられますよね",
+            "timestamp": "2022-09-04T10:54:33.674000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "朝一で頼めば夜届くこともありますし…。ドライバーさんの問題もニュースでやってましたね。",
+            "timestamp": "2022-09-04T10:55:05.684000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IN",
+            "text": "運送業界は思いっきりブラックっぽいですね",
+            "timestamp": "2022-09-04T10:55:26.706000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "朝一回配送通ったのに、昼、夜また同じ車が通ってとかざらにあります",
+            "timestamp": "2022-09-04T10:56:14.935000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IN",
+            "text": "再配達とかなんですかね",
+            "timestamp": "2022-09-04T10:57:00.363000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "そんな気もしたり、別の所に届けていることも。住んでいるのが団地なので余計かもしれないんですけど…。",
+            "timestamp": "2022-09-04T10:57:02.890000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IN",
+            "text": "そっか、集合住宅だとそれこそ1日中配ってそうですね。",
+            "timestamp": "2022-09-04T10:57:30.420000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "でも最近は置き配もあるし助かってます。",
+            "timestamp": "2022-09-04T10:57:55.724000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IN",
+            "text": "置き配は便利ですね",
+            "timestamp": "2022-09-04T10:58:26.452000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "突然の訪問に頭ぼさぼさで出る恥ずかしさがないのでありがたすぎます…",
+            "timestamp": "2022-09-04T10:59:14.341000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IN",
+            "text": "私も家ではどうしようもない格好をしていることが多いので、わかりみが深いです",
+            "timestamp": "2022-09-04T10:59:37.254000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "絶対さっきまで寝てただろという格好のことも。",
+            "timestamp": "2022-09-04T11:00:01.628000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IN",
+            "text": "Tシャツに短パンとか",
+            "timestamp": "2022-09-04T11:00:15.159000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "あるあるすぎます。あとマスク、つい忘れるんですよね。",
+            "timestamp": "2022-09-04T11:00:42.242000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IN",
+            "text": "家にいるとつけませんよね",
+            "timestamp": "2022-09-04T11:00:55.215000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "玄関に置いているんですが、でなきゃが先行するんです。玄関とかにちゃんと置かれてますか？",
+            "timestamp": "2022-09-04T11:01:28.235000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IN",
+            "text": "マスクは玄関先に常備しています。",
+            "timestamp": "2022-09-04T11:01:54.894000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "やはりそうですよね。忘れがちになるし…",
+            "timestamp": "2022-09-04T11:02:17.065000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IN",
+            "text": "ただやはり宅配の時はつけるの忘れます",
+            "timestamp": "2022-09-04T11:02:39.366000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "同じ方がいてちょっと安心しました。宅配の人にはごめんなさいですけど",
+            "timestamp": "2022-09-04T11:03:08.579000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IN",
+            "text": "ほんとごめんなさいですね",
+            "timestamp": "2022-09-04T11:03:27.355000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "あと便利になったなと思うのは最近印鑑なしでオッケーなことですね。今思い出しました",
+            "timestamp": "2022-09-04T11:04:17.723000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IN",
+            "text": "そういえば最近印鑑押してないです、あれは地味に便利ですね",
+            "timestamp": "2022-09-04T11:04:37.218000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "デジタル署名の所もあって驚きました",
+            "timestamp": "2022-09-04T11:04:49.471000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

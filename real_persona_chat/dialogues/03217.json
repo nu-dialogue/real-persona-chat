@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3217,
+    "interlocutors": [
+        "CI",
+        "EM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "おはようございます、よろしくお願いします！",
+            "timestamp": "2022-08-27T09:10:15.076000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EM",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-27T09:10:20.485000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "朝ご飯はもうお済みですか？",
+            "timestamp": "2022-08-27T09:10:29.759000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EM",
+            "text": "はい。と言ってもあまりちゃんと食べていないのですが。",
+            "timestamp": "2022-08-27T09:10:39.379000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "私もです。必殺TKGです。",
+            "timestamp": "2022-08-27T09:10:54.806000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EM",
+            "text": "おぉ、ちゃんとしてらっしゃいます。お米を炊くのも面倒な物で。",
+            "timestamp": "2022-08-27T09:11:13.186000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "お米は昨日の残りでして。とことんサボりました。",
+            "timestamp": "2022-08-27T09:11:40.165000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EM",
+            "text": "なるほど、残りは楽かもしれません。私はミューズリーに牛乳かけただけでした。",
+            "timestamp": "2022-08-27T09:12:04.158000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "ミューズリーならヘルシーですね！",
+            "timestamp": "2022-08-27T09:12:32.391000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EM",
+            "text": "体にはいいと思います！そのために食べている感もありますね。",
+            "timestamp": "2022-08-27T09:12:48.264000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "腸内細菌が減っちゃうので食べた方がいいらしいですね。",
+            "timestamp": "2022-08-27T09:13:14.650000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EM",
+            "text": "ヨーグルトなんかもできるだけ食べるようにしてます。",
+            "timestamp": "2022-08-27T09:13:36.522000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "ヨーグルト食べました。簡単なので、時々培養してます。",
+            "timestamp": "2022-08-27T09:14:00.956000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EM",
+            "text": "おぉ！私も一時期もらったのでやってたことあります！牛乳パックに入れてました！",
+            "timestamp": "2022-08-27T09:14:24.603000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "それです！牛乳パックに飲むヨーグルト入れてます。",
+            "timestamp": "2022-08-27T09:14:38.310000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EM",
+            "text": "本当はもっとちゃんと管理しないといけないらしくて途中でやめちゃったんですよね。",
+            "timestamp": "2022-08-27T09:14:58.210000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "うちて使ってるのは、その時食べておしまいな感じなので、簡易的だと思います。",
+            "timestamp": "2022-08-27T09:15:31.544000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EM",
+            "text": "少し残して牛乳に入れると翌日にはヨーグルトになるやつではないですか？",
+            "timestamp": "2022-08-27T09:15:52.321000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "多分、そんな感じです。43度で8時間であっためてます。",
+            "timestamp": "2022-08-27T09:16:35.547000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EM",
+            "text": "私のやつは冷蔵庫で平気だった気がするので少し違うかもしれませんね。",
+            "timestamp": "2022-08-27T09:16:58.549000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "あ、じゃあ違うかもですね。牛乳パックがまんま入る形の温める機械を使ってます。",
+            "timestamp": "2022-08-27T09:17:28.619000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EM",
+            "text": "そうでしたか！もっともっと簡単でした！でも良くない菌が増えるからちゃんとしろって言われててみたいな！",
+            "timestamp": "2022-08-27T09:18:01.227000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "冷蔵庫で菌増やすタイプは難しそうですよね。私は一度挫折しました。",
+            "timestamp": "2022-08-27T09:18:34.506000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EM",
+            "text": "本当に適当なのにうまく行ってたんですが、食中毒とか怖くて挫折しました。",
+            "timestamp": "2022-08-27T09:19:07.540000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "乳製品の食中毒、確かにちょっと怖いですもんね。",
+            "timestamp": "2022-08-27T09:19:28.612000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EM",
+            "text": "ですよね。それでなくても管理厳しいのに素人がやっていいのか？みたいな。",
+            "timestamp": "2022-08-27T09:19:48.960000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "今のところうちは全員無事なのですが、何かあったら考えちゃうかも知れないです。",
+            "timestamp": "2022-08-27T09:20:19.438000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EM",
+            "text": "機械を使ってやってると言う事であればかなり安全そうですけどね！",
+            "timestamp": "2022-08-27T09:20:42.156000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "買うより遥かに安いので、ついつい使っちゃってます。",
+            "timestamp": "2022-08-27T09:21:04.771000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EM",
+            "text": "ですね。地味に金がかかります。",
+            "timestamp": "2022-08-27T09:21:13.932000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

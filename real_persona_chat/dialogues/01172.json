@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 1172,
+    "interlocutors": [
+        "BU",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんばんはー",
+            "timestamp": "2022-08-12T22:03:33.888000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-12T22:03:39.639000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "好きな季節はどれですか？",
+            "timestamp": "2022-08-12T22:03:57.570000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "好きな季節は、しいて言えば秋ですねー。",
+            "timestamp": "2022-08-12T22:04:17.239000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "なんででしょうか？",
+            "timestamp": "2022-08-12T22:04:32.545000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "夏を超えて涼しくなって、食べ物が美味しいからですね。",
+            "timestamp": "2022-08-12T22:04:53.134000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "なるほど。秋のおすすめの食べ物はなんですか？？",
+            "timestamp": "2022-08-12T22:05:15.692000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "秋ナスや、サンマが好きですよー。あなたも食べますか？",
+            "timestamp": "2022-08-12T22:05:40.593000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "秋茄子なんてものがあるんですか？茄子は夏やとおもってました。",
+            "timestamp": "2022-08-12T22:06:05.156000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "夏にもありますけど、秋ナスもあるんですよー。秋ナスは嫁に食わすなと言うことわざがあるみたいです。",
+            "timestamp": "2022-08-12T22:06:36.824000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "そのことわざめっちゃ気になります。意味わかります？",
+            "timestamp": "2022-08-12T22:06:56.330000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "美味しいからいじわるであげないという面と、冷えるからあげないという優しさの面があるみたいです。",
+            "timestamp": "2022-08-12T22:07:24.111000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "そうなんですね。で、結局何が言いたいのって感想です。",
+            "timestamp": "2022-08-12T22:08:11.297000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "秋ナスは、美味しいよーということでしょうか。",
+            "timestamp": "2022-08-12T22:08:35.853000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "茄子すきなので、秋茄子意識してみますね。ありがとうございます！",
+            "timestamp": "2022-08-12T22:09:15.591000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "ところで、あなたの好きな季節はなんですか？",
+            "timestamp": "2022-08-12T22:09:32.623000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "夏です。夏だけです。",
+            "timestamp": "2022-08-12T22:09:42.261000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "夏は、湿気さえないカラっとした状況なら私も好きです。",
+            "timestamp": "2022-08-12T22:10:12.547000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "カラっとしたところに住みたいですね。いかがですか？",
+            "timestamp": "2022-08-12T22:10:37.279000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "そうですねー。日本だとどこでしょうか？",
+            "timestamp": "2022-08-12T22:10:58.119000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "日本にはないです。ロスとか最高じゃないですか？",
+            "timestamp": "2022-08-12T22:11:24.697000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "なるほど。海外は確かに乾燥しているから、いいですよね！",
+            "timestamp": "2022-08-12T22:11:38.464000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "日本から出たいです。日本すきですか？",
+            "timestamp": "2022-08-12T22:11:59.242000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "ちょっと海外に住んでたりしたので、自分的には日本がいいなとは思ってます。",
+            "timestamp": "2022-08-12T22:12:23.171000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "いいですね。うちは日本が好き嫌いよりももう飽きました。",
+            "timestamp": "2022-08-12T22:12:45.089000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "なるほどー。思い切って海外に住むのもいいですよね！",
+            "timestamp": "2022-08-12T22:13:04.764000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "はい。それか島民がちょーすくない島か。",
+            "timestamp": "2022-08-12T22:13:28.566000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "ゆっくり過ごしたい感じですか？",
+            "timestamp": "2022-08-12T22:13:47.858000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "ちょーゆっくり過ごしたいです。",
+            "timestamp": "2022-08-12T22:14:08.776000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "それは言えますね。人や建物が日本は多すぎなので。",
+            "timestamp": "2022-08-12T22:14:29.221000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BU",
+            "text": "ですね。ありがとでした。",
+            "timestamp": "2022-08-12T22:14:47.248000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

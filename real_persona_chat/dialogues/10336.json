@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10336,
+    "interlocutors": [
+        "CX",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-08-12T17:00:02.035000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-12T17:00:13.242000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "今日は何をされてましたか？",
+            "timestamp": "2022-08-12T17:00:28.796000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "お昼にお蕎麦を食べに行ってきました。",
+            "timestamp": "2022-08-12T17:00:42.497000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "お蕎麦いいですね！自分も好きです！",
+            "timestamp": "2022-08-12T17:00:58.060000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "今日はざるそばを食べたのですが、どういったお蕎麦がお好きですか？",
+            "timestamp": "2022-08-12T17:01:22.432000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "そばは全般好きですね！一番はかしわそばですかね。",
+            "timestamp": "2022-08-12T17:01:50.670000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "かしわ天ですか！おいしいですよね。私も天ぷらを添えるの好きです！",
+            "timestamp": "2022-08-12T17:02:17.358000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "天ぷらもいいですね！エビ天とか好きです！",
+            "timestamp": "2022-08-12T17:02:55.623000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "今日エビ天食べました！あのプリップリ、たまらないです！",
+            "timestamp": "2022-08-12T17:03:37.249000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "美味しいエビ最近食べてないから食べたくなりました。",
+            "timestamp": "2022-08-12T17:04:01.132000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "海鮮は天ぷら以外もお好きですか？",
+            "timestamp": "2022-08-12T17:04:18.843000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "好きですね、刺身とか焼き魚とか。",
+            "timestamp": "2022-08-12T17:04:33.693000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "いいですねー！一番好きなお魚はなんですか？",
+            "timestamp": "2022-08-12T17:04:53.949000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "色々好きですが、間違い無いのはマグロですかね！",
+            "timestamp": "2022-08-12T17:05:13.584000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "マグロは間違いないですね！お刺身なら私は鯛も好きです。",
+            "timestamp": "2022-08-12T17:05:50.517000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "鯛も好きです！刺身も好きですし、あと鯛茶漬けが大好きです！",
+            "timestamp": "2022-08-12T17:06:15.185000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "それ、今日話してました！鯛の漬け茶漬けが食べたいね！って。",
+            "timestamp": "2022-08-12T17:06:48.103000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "鯛茶漬けって本当に美味しいですよね！",
+            "timestamp": "2022-08-12T17:07:09.043000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "はい。お魚、捌いたりしますか？",
+            "timestamp": "2022-08-12T17:07:26.535000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "いや、さすがにそこまではできないですね。",
+            "timestamp": "2022-08-12T17:07:40.092000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "私も基本切り身を買ってきます。釣った時だけ捌きます。",
+            "timestamp": "2022-08-12T17:08:02.642000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "釣りされるんですね！それなら色んな魚食べられそうです！",
+            "timestamp": "2022-08-12T17:08:25.690000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "ところが釣りの腕前がいまいちで、釣れるのはアジやイワシばかりです。",
+            "timestamp": "2022-08-12T17:08:56.283000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "あら、そうなんですね。でもアジやイワシも美味しいですよね。",
+            "timestamp": "2022-08-12T17:09:15.217000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "はい！自分たちで釣ったと思うと、また格別です。",
+            "timestamp": "2022-08-12T17:09:41.029000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "確かに！自分で釣って捌いて食べるお魚は美味しそうです！",
+            "timestamp": "2022-08-12T17:10:06.666000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "新鮮でもありますからね！",
+            "timestamp": "2022-08-12T17:10:18.951000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "新鮮な魚のお刺身は美味しそうです！",
+            "timestamp": "2022-08-12T17:10:40.825000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "おいしいですよ！今度ぜひ！",
+            "timestamp": "2022-08-12T17:10:53.664000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

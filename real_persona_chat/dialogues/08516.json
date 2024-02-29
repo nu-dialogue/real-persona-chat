@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8516,
+    "interlocutors": [
+        "CB",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "おはようございます。よろしくお願いします",
+            "timestamp": "2022-08-07T08:38:26.878000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます！よろしくお願いします。今日は暑くなりそうですね。",
+            "timestamp": "2022-08-07T08:39:56.057000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "そうですね。すでに暑いです。３０度こえてます",
+            "timestamp": "2022-08-07T08:40:12.702000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "暑いのはお得意ですか？",
+            "timestamp": "2022-08-07T08:40:34.095000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "苦手ですね。寒い方がまだいいです",
+            "timestamp": "2022-08-07T08:40:38.718000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "私もです。寒い方が来たり運動したりできるので。",
+            "timestamp": "2022-08-07T08:41:04.644000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "運動されるんですね。習慣的にされているんですか",
+            "timestamp": "2022-08-07T08:41:19.465000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "ストレッチ程度ですが、少し体は動かすようにしてます。",
+            "timestamp": "2022-08-07T08:41:49.682000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "私もストレッチはしてます。体かたくなりますし",
+            "timestamp": "2022-08-07T08:42:03.416000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "そうなんです！気付いたら固くなっててびっくりしました。",
+            "timestamp": "2022-08-07T08:42:26.628000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "そうですよね。開脚が１８０度とかあこがれます",
+            "timestamp": "2022-08-07T08:42:43.887000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "180度はすごいですよね。久々にやってみたら120度くらいにしかならなかったです。",
+            "timestamp": "2022-08-07T08:43:15.464000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "１２０度だったらやわらかいほうですよね",
+            "timestamp": "2022-08-07T08:43:24.248000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "そうなんですね！SNSとかでストレッチ動画を見ると結構開いてる方がいてびっくりします。",
+            "timestamp": "2022-08-07T08:44:02.553000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "高齢の方でもきれいに開いていると、継続なのかなと思います",
+            "timestamp": "2022-08-07T08:44:22.630000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "続けると改善していくみたいですね。",
+            "timestamp": "2022-08-07T08:44:43.335000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "なかなか習慣づけるのが難しいです",
+            "timestamp": "2022-08-07T08:44:56.597000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "私は仕事上、問題が見つかって取り入れた感じです。",
+            "timestamp": "2022-08-07T08:45:28.322000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "仕事上でストレッチが必要なんですか",
+            "timestamp": "2022-08-07T08:45:38.643000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "結構、仕事中に偏った姿勢が続くので、ほぐしたり準備運動が必要になりました。",
+            "timestamp": "2022-08-07T08:46:21.279000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "なるほど。私も仕事中はずっと座りっぱなしが多いです",
+            "timestamp": "2022-08-07T08:46:35.572000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "座りっぱなしもしんどいですよね。腰痛など大丈夫ですか？",
+            "timestamp": "2022-08-07T08:47:02.939000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "腰痛たまにやりますね。年に１回くらいひどいのを",
+            "timestamp": "2022-08-07T08:47:23.742000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "私も腰痛持ちで、それもストレッチを始めるきっかけでした。",
+            "timestamp": "2022-08-07T08:48:02.572000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "わかります。私もです",
+            "timestamp": "2022-08-07T08:48:23.424000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "座って、片足をもう片方の膝に乗せて前傾する、みたいなよくあるのをやってます。",
+            "timestamp": "2022-08-07T08:48:59.610000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "ああ、そういうのはまずいみたいですね。",
+            "timestamp": "2022-08-07T08:49:21.218000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "若い頃はそんなの全然気にしてなかったのですが、気になるようになりますね。",
+            "timestamp": "2022-08-07T08:50:14.760000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "うちは子どもの姿勢も気になります。歯並びに影響するみたいで。",
+            "timestamp": "2022-08-07T08:50:25.158000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "姿勢と歯並びも関連するのですね！お話ありがとうございました。",
+            "timestamp": "2022-08-07T08:50:45.527000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

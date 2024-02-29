@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1955,
+    "interlocutors": [
+        "CI",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-17T23:58:43.726000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんばんは、よろしくお願いします",
+            "timestamp": "2022-08-17T23:58:52.520000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "最近、始めた事などありますか？",
+            "timestamp": "2022-08-17T23:59:08.823000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "家の修理ですかね",
+            "timestamp": "2022-08-17T23:59:29.554000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "おお、ご自分で修理されるんですか！すごいですね。",
+            "timestamp": "2022-08-17T23:59:43.392000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "賃貸なのでたいそうなことはしませんが、いろいろ勉強中です",
+            "timestamp": "2022-08-18T00:00:07.709000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "どんな修理をされるんですか？",
+            "timestamp": "2022-08-18T00:00:23.119000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "先日壁にコーヒーをぶちまけたので何とかしみを落とそうと頑張りました。",
+            "timestamp": "2022-08-18T00:01:12.918000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "それは大変ですね！落とす方法あるんですか？",
+            "timestamp": "2022-08-18T00:01:39.918000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "キッチンハイターとキッチンペーパーで白くなりました",
+            "timestamp": "2022-08-18T00:01:58.406000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "よかったですね！キッチンハイター、結構使えますよね。",
+            "timestamp": "2022-08-18T00:02:18.784000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "あれは便利ですね。何でも落ちます。普段は椅子の張替えとかトイレの水漏れとやってみましたかね",
+            "timestamp": "2022-08-18T00:02:49.495000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "ええ、トイレの水漏れはだいぶ難易度高くないですか？",
+            "timestamp": "2022-08-18T00:03:21.491000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "やるのは素人でできる範囲です。ウォシュレットつけた時に色々いじってできる気になりました",
+            "timestamp": "2022-08-18T00:04:14.532000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "それでもすごいですよ！DIY系、お好きなんですか？",
+            "timestamp": "2022-08-18T00:04:58.575000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "はい、最近YouTubeでそういうのを見てやってみてます",
+            "timestamp": "2022-08-18T00:05:19.087000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "なるほど！YouTubeも色々充実してますよね。",
+            "timestamp": "2022-08-18T00:05:37.630000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "便利ですね。先生が近くにいるようです",
+            "timestamp": "2022-08-18T00:05:53.573000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "お役立ち情報の動画を作ってくれる人がいるとありがたいですね。",
+            "timestamp": "2022-08-18T00:06:18.570000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "ほんとそうです。そういうのはされますか？",
+            "timestamp": "2022-08-18T00:06:35.806000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "工具使う系はあまりやらないですけど、針糸系はたまにやります。",
+            "timestamp": "2022-08-18T00:07:26.048000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "刺繍とか縫い物ですか？",
+            "timestamp": "2022-08-18T00:07:53.029000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "作品作るとかではないんですけど、サイズ直しとか裾上げとか程度ですね。",
+            "timestamp": "2022-08-18T00:08:22.240000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "自分でできるといいですね。お店ですると時間かかるし",
+            "timestamp": "2022-08-18T00:08:44.262000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "そうなんですよね、また取りに行くのがめんどうで。",
+            "timestamp": "2022-08-18T00:09:01.008000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "ですよね。買ったその日にはきたいので、でも自分ではできないなって感じですね",
+            "timestamp": "2022-08-18T00:09:34.245000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "買ってすぐ履きたい感じわかります！",
+            "timestamp": "2022-08-18T00:09:52.064000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "やっぱり何か自分でできるってのはいいですね。縫い物チャレンジしてみます",
+            "timestamp": "2022-08-18T00:10:17.911000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "今、針を使わずにテープとかアイロンでくっつく物もあるみたいなので、是非！",
+            "timestamp": "2022-08-18T00:11:00.241000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "そうなんですか、そっちの方が簡単そうですね。調べてみます",
+            "timestamp": "2022-08-18T00:11:26.481000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

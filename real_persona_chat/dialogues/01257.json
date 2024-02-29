@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1257,
+    "interlocutors": [
+        "BP",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T07:40:14.249000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T07:40:17.372000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "今日は宜しくお願いいたします。",
+            "timestamp": "2022-08-14T07:40:22.441000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "今ふと気づいたのですが",
+            "timestamp": "2022-08-14T07:40:29.335000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "あ、はい。なんでしょうか？",
+            "timestamp": "2022-08-14T07:40:37.739000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "おはようとこんにちは、その切替はいつからなのかなって",
+            "timestamp": "2022-08-14T07:40:46.225000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "うーん、それは難しいですよね。こんばんはは、５時頃からって認識してますが。",
+            "timestamp": "2022-08-14T07:41:07.648000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "私実は工場にいたので、そこでは最初の挨拶はつねにおはようございます",
+            "timestamp": "2022-08-14T07:41:28.294000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "そうですよね。ファミレスでも、いつもおはようございますでした。",
+            "timestamp": "2022-08-14T07:41:45.390000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "２４時間稼働のところはその傾向があります",
+            "timestamp": "2022-08-14T07:41:56.565000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "そうかもですね。コンビニでもバイトの人がおはようって言ってましたねー。",
+            "timestamp": "2022-08-14T07:42:14.411000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "とはいえ一般的にはお昼すぎておはようはさすがに変なのも事実",
+            "timestamp": "2022-08-14T07:42:37.795000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "うーん、そうですね。おはようは9時か10時頃まででしょうか。",
+            "timestamp": "2022-08-14T07:43:09.815000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "そうですね、１０時ってまた微妙なラインですね",
+            "timestamp": "2022-08-14T07:43:21.116000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "微妙です。仕事は始まってる時間ですしね。",
+            "timestamp": "2022-08-14T07:43:32.423000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "９時のおはようは妥当な気がしますが",
+            "timestamp": "2022-08-14T07:43:42.039000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "そうですねー。９時くらいまでがよさそうです。",
+            "timestamp": "2022-08-14T07:43:58.651000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "あと、いくら朝といえども、一度おはようといった後の二度目、これも変",
+            "timestamp": "2022-08-14T07:44:14.201000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "ハハ、確かに。そう考えると、難しいですねー。",
+            "timestamp": "2022-08-14T07:44:40.329000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "そうなんですよ、何気なく使っている言葉、実は突き詰めると奥が深い",
+            "timestamp": "2022-08-14T07:44:54.643000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "本当に。夜中も3時くらいだと、こんばんはなのか、おはようなのか。",
+            "timestamp": "2022-08-14T07:45:12.041000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "夜中3時はこれまた微妙なラインですね",
+            "timestamp": "2022-08-14T07:45:25.033000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "５時ならおはようでいけそうですけどねー。",
+            "timestamp": "2022-08-14T07:45:34.717000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "草木も眠る丑三つ時",
+            "timestamp": "2022-08-14T07:45:42.052000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "おお。まだ夜って印象ですね。",
+            "timestamp": "2022-08-14T07:45:56.914000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "うらめしやとでてくる",
+            "timestamp": "2022-08-14T07:46:04.459000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "その頃が一番暗い感じがしますしね。",
+            "timestamp": "2022-08-14T07:46:17.545000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "はい、というわけで正しい挨拶はうらめしやかなって",
+            "timestamp": "2022-08-14T07:46:28.197000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "ハハ、確かに３時に人と会ったらびっくりしそう。",
+            "timestamp": "2022-08-14T07:46:49.145000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "そんな時間に出歩かない方がよさそうかも",
+            "timestamp": "2022-08-14T07:47:07.307000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

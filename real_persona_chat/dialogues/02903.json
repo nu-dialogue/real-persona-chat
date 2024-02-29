@@ -1,0 +1,221 @@
+{
+    "dialogue_id": 2903,
+    "interlocutors": [
+        "AU",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AU",
+            "text": "こんばんは！　よろしくお願いします。",
+            "timestamp": "2022-08-24T20:35:38.347000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-24T20:35:46.544000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AU",
+            "text": "ところで、私はお買い物が好きなんですがあなたは衝動買いした事ありますか？",
+            "timestamp": "2022-08-24T20:36:12.493000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "最近はなるべく買わないように気を付けています。<AU>さんはどんなものを買いますか？",
+            "timestamp": "2022-08-24T20:36:50.043000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AU",
+            "text": "私は先日セールで、衝動買いしちゃったんです。　スマートコンセントって言うのかな。",
+            "timestamp": "2022-08-24T20:37:42.140000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "スマートコンセントですか？えっと、どんなものでしょう？",
+            "timestamp": "2022-08-24T20:38:12.844000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AU",
+            "text": "スマートホームと言う名前で、これがあると自宅の家電が携帯でスイッチ入れられるモノなんです。",
+            "timestamp": "2022-08-24T20:38:53.908000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "ああ！ありますね。使ってみてどうでしたか？便利ですか？",
+            "timestamp": "2022-08-24T20:39:35.577000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AU",
+            "text": "まだ届いたばかりなんです。外から携帯でエアコンの電源が入れられるそうで期待してるんですけどね。",
+            "timestamp": "2022-08-24T20:40:29.588000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "外出先で、エアコンの入り切りができるのは便利かも。。今、すごい昔の事を思い出しちゃいました。",
+            "timestamp": "2022-08-24T20:41:41.454000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AU",
+            "text": "ですよね！　昔どんな事があったんですか？",
+            "timestamp": "2022-08-24T20:42:04.502000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "一人暮らしの時、部屋の暖房を付けたまま、海外旅行に出かけちゃったんです。",
+            "timestamp": "2022-08-24T20:42:44.099000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AU",
+            "text": "えー！　それはヤバイですね！　海外旅行は何日位行かれてたのですか？",
+            "timestamp": "2022-08-24T20:43:16.326000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "ただ、成田に行く途中のバスで急に不安になって、大家さんに確認してもらったんです。",
+            "timestamp": "2022-08-24T20:43:54.018000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AU",
+            "text": "大家さん優しいですね！　それで、大丈夫だったのですか？",
+            "timestamp": "2022-08-24T20:44:26.072000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "結果的に、暖房はついたままになってて、大家さんに感謝でした。",
+            "timestamp": "2022-08-24T20:45:10.450000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AU",
+            "text": "それはホント大家さんに感謝です！　でも良かったですね、安心して海外旅行に行けましたよね。",
+            "timestamp": "2022-08-24T20:45:45.611000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "成田で暖房消しといたと連絡がきたので、安心して出かけられましたよ。",
+            "timestamp": "2022-08-24T20:46:34.880000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AU",
+            "text": "わー、ほんと大家さんがいて良かったって思いますね！　旅行はどちらに行かれたんですか？",
+            "timestamp": "2022-08-24T20:47:14.211000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "ニュージーランドに行ってきました。とても良い旅行になりました。",
+            "timestamp": "2022-08-24T20:47:47.860000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AU",
+            "text": "食べ物は、お口に合いましたか？",
+            "timestamp": "2022-08-24T20:48:13.892000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "そうですねえ。ニュージーランドはイギリスっぽいので、おいしいわけではなかったけれど大丈夫でした。",
+            "timestamp": "2022-08-24T20:49:06.642000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AU",
+            "text": "そうなんですね。私は一度も海外に行った事がないので、行ってみたいと思っています。",
+            "timestamp": "2022-08-24T20:49:39.307000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "ニュージーランドは、治安も良いのでおすすめです。街並みも自然も素敵な所です。",
+            "timestamp": "2022-08-24T20:50:18.659000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AU",
+            "text": "自然豊かで景色の良い所がいいですね！　いつかコロナが終わったら行けるのを楽しみにしようと思います。",
+            "timestamp": "2022-08-24T20:51:03.434000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "ほんとにそうですね。とても海外旅行に行ける状況ではないですよね。。",
+            "timestamp": "2022-08-24T20:51:31.381000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AU",
+            "text": "今は、海外どころか国内もどこにも行けない感じですもんね。",
+            "timestamp": "2022-08-24T20:52:04.325000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "ほんとにそうです。今年久しぶりに旅行に行きましたが、人がいないところを狙って行っていました。",
+            "timestamp": "2022-08-24T20:52:46.974000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AU",
+            "text": "もし今度海外に行くなら、どこか行きたいところはありますか？",
+            "timestamp": "2022-08-24T20:53:06.508000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "出来ればヨーロッパに行ってみたいですね。ドイツやフランスの街並みをみてみたいです。",
+            "timestamp": "2022-08-24T20:53:47.373000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AU",
+            "text": "素敵な町並みを早く見に行けるようになるといいですね！",
+            "timestamp": "2022-08-24T20:54:09.310000"
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "CT",
+            "text": "ほんとですね。早くコロナが落ち着きますように！では",
+            "timestamp": "2022-08-24T20:54:28.815000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

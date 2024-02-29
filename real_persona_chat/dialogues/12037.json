@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12037,
+    "interlocutors": [
+        "EQ",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-31T15:49:32.205000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんにちは",
+            "timestamp": "2022-08-31T15:49:43.577000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "最近楽しいことはありましたか？",
+            "timestamp": "2022-08-31T15:49:52.604000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "新しくゲームを始められたことでしょうか。",
+            "timestamp": "2022-08-31T15:50:09.533000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "どういったゲームでしょうか？",
+            "timestamp": "2022-08-31T15:50:20.610000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "ドラクエウォークというゲームです。",
+            "timestamp": "2022-08-31T15:50:30.755000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "ドラゴンクエストは知っているのですが、それと関連したゲームでしょうか？",
+            "timestamp": "2022-08-31T15:51:00.748000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "ドラクエシリーズのポケモンGOと考えてもよいと思います。",
+            "timestamp": "2022-08-31T15:51:28.082000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "ほう。そんなのがあるのですか。",
+            "timestamp": "2022-08-31T15:51:39.123000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "ただ一見ポケモンGOより要素が一杯に見えて難しい一面がありました。",
+            "timestamp": "2022-08-31T15:52:23.858000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "ポケモンGOもやったことがないのですが、どちらの方が面白いですか？",
+            "timestamp": "2022-08-31T15:53:01.180000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "今のところはドラクエウォークですね。",
+            "timestamp": "2022-08-31T15:53:18.351000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "ドラクエのキャラクターがたくさん出てくるのですね。",
+            "timestamp": "2022-08-31T15:53:36.493000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "そうですね、ドラクエというと豊富なモンスターでしょうか。",
+            "timestamp": "2022-08-31T15:53:57.429000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "それをいろいろな場所で捕まえるという理解で合っていますか？",
+            "timestamp": "2022-08-31T15:54:18.834000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "いえ、ストーリーを進めつつモンスターを倒していくという感じでしょうか。",
+            "timestamp": "2022-08-31T15:54:43.365000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "では、歩いているとあちらこちらからモンスターがあなたを襲うのですか？",
+            "timestamp": "2022-08-31T15:55:09.892000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "襲われるのではなくこちらから襲うのです。",
+            "timestamp": "2022-08-31T15:55:30.498000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "えっ、そうなんですか。驚きました。",
+            "timestamp": "2022-08-31T15:55:46.656000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "はい。",
+            "timestamp": "2022-08-31T15:55:55.547000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "モンスターがいるところにあなたが出かけて行って襲うのですね。",
+            "timestamp": "2022-08-31T15:56:19.676000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "えーっと、ストーリーを設置可能な場所に設置してそこに出かけてストーリーを進めるみたいな。",
+            "timestamp": "2022-08-31T15:57:07.638000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "なかなか難しいですね。ポケモンGOも同じような感じなのでしょうか。",
+            "timestamp": "2022-08-31T15:57:38.359000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "ポケモンGOはポケモンを捕まえるかちょっとしたイベントをこなすかみたいでこちらのほうが楽ですね。",
+            "timestamp": "2022-08-31T15:58:52.356000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "そうですか。教えてくださりありがとうございます。いつかやってみたいです。",
+            "timestamp": "2022-08-31T15:59:24.436000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "多くの人はポケモンをコレクションするのが楽しみだと聞きます。",
+            "timestamp": "2022-08-31T15:59:53.219000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "私もそれは聞いたことがあります。",
+            "timestamp": "2022-08-31T16:00:09.861000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "やってみて戦闘システムがワンパターンで残念でしたが。",
+            "timestamp": "2022-08-31T16:00:34.116000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "なかなかやり慣れていますね。",
+            "timestamp": "2022-08-31T16:01:07.975000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "そうですね、割と長いですね。",
+            "timestamp": "2022-08-31T16:01:20.046000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

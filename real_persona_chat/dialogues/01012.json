@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1012,
+    "interlocutors": [
+        "BL",
+        "AH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T17:08:04.273000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AH",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T17:08:04.727000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "夏のご予定はなにかありますか？",
+            "timestamp": "2022-08-11T17:08:09.200000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AH",
+            "text": "旅行に行く予定があります！",
+            "timestamp": "2022-08-11T17:08:20.169000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "いいですね！旅行はよく行くのですか？",
+            "timestamp": "2022-08-11T17:08:38.220000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AH",
+            "text": "半年に１回くらいですかね。",
+            "timestamp": "2022-08-11T17:08:54.369000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "私は何年も行ってないです、羨ましい！",
+            "timestamp": "2022-08-11T17:09:15.840000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AH",
+            "text": "最近行きにくい雰囲気ですもんね。",
+            "timestamp": "2022-08-11T17:09:27.391000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "そうですね。お勧めの場所はありますか？",
+            "timestamp": "2022-08-11T17:09:47.144000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AH",
+            "text": "人にお薦めできるようなところがないんですよね。",
+            "timestamp": "2022-08-11T17:10:06.840000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "穴場に行くのでしょうか",
+            "timestamp": "2022-08-11T17:10:17.757000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AH",
+            "text": "マイナーな場所にしか行かないもので。",
+            "timestamp": "2022-08-11T17:10:29.123000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね、それなら空いていていいかもですね",
+            "timestamp": "2022-08-11T17:10:57.195000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AH",
+            "text": "はい、結構空いていますよ！",
+            "timestamp": "2022-08-11T17:11:05.647000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "そういう穴場を狙って、私も遊びに行ってみたいです",
+            "timestamp": "2022-08-11T17:11:33.069000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AH",
+            "text": "見つけたら楽しいと思いますよ！",
+            "timestamp": "2022-08-11T17:11:45.183000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "そうですね。ネットで見つけるのですか？",
+            "timestamp": "2022-08-11T17:12:08.179000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AH",
+            "text": "そうですね、適当にマップを見たりして決めています。",
+            "timestamp": "2022-08-11T17:12:21.893000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "すごいです！私は方向音痴なので、決めるところから苦労するかも",
+            "timestamp": "2022-08-11T17:13:05.828000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AH",
+            "text": "観光地のちょっと近くみたいな感じのところとかに行っています。",
+            "timestamp": "2022-08-11T17:13:29.603000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "なるほど。穴場な感じですね。観光地には寄らず、ですか？",
+            "timestamp": "2022-08-11T17:14:01.238000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AH",
+            "text": "はい、その近くをのんびり歩きます。",
+            "timestamp": "2022-08-11T17:14:15.369000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "それも楽しそうですね",
+            "timestamp": "2022-08-11T17:14:33.102000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AH",
+            "text": "はい、新しい発見もあって楽しいです！",
+            "timestamp": "2022-08-11T17:14:49.813000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "観光地を回っている人には気づけないような発見ですね",
+            "timestamp": "2022-08-11T17:15:15.446000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AH",
+            "text": "はい、結構小さい発見だったりもしますが。",
+            "timestamp": "2022-08-11T17:15:34.602000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "それも特別な感じでいいと思います",
+            "timestamp": "2022-08-11T17:15:56.128000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AH",
+            "text": "そうですね、お薦めですよ！",
+            "timestamp": "2022-08-11T17:16:07.783000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "私も穴場を探してみますね！",
+            "timestamp": "2022-08-11T17:16:32.740000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AH",
+            "text": "はい、ぜひ！",
+            "timestamp": "2022-08-11T17:16:33.695000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

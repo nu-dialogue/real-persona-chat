@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13091,
+    "interlocutors": [
+        "FK",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-16T17:27:15.909000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T17:27:21.627000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "お昼ご飯何食べられましたか",
+            "timestamp": "2022-09-16T17:27:28.298000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "カレー南蛮そばみたいなものを。",
+            "timestamp": "2022-09-16T17:27:38.478000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "おお、めずらしいですね！",
+            "timestamp": "2022-09-16T17:27:42.732000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "なんとなく、カレーとそばが一緒に食べたくなってつくりました。",
+            "timestamp": "2022-09-16T17:27:57.400000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "いいですね。じゃましあわないですか？",
+            "timestamp": "2022-09-16T17:28:08.122000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "はい、めんつゆを少しいれるので中和されます。",
+            "timestamp": "2022-09-16T17:28:19.664000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "おお、めんつゆあいそうですね",
+            "timestamp": "2022-09-16T17:28:24.769000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "ですです。あなたは何を食べました？",
+            "timestamp": "2022-09-16T17:28:32.939000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "まだたべてないんですよ！",
+            "timestamp": "2022-09-16T17:28:39.095000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "え、お昼ですよね？",
+            "timestamp": "2022-09-16T17:28:47.570000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "そうです、抜いちゃいました",
+            "timestamp": "2022-09-16T17:28:49.984000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "あら、おなかすいてますね。",
+            "timestamp": "2022-09-16T17:28:58.242000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "お菓子ちょっと食べたくらいです！",
+            "timestamp": "2022-09-16T17:29:04.247000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "なるほど、お菓子も空腹時は大事ですね。",
+            "timestamp": "2022-09-16T17:29:15.284000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "ほんとにだいじです。中和されます",
+            "timestamp": "2022-09-16T17:29:23.571000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "夜の予定はあるのですか？",
+            "timestamp": "2022-09-16T17:29:31.448000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "つけ麺食べる予定です！",
+            "timestamp": "2022-09-16T17:29:37.054000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "うぉ、いいですね！何系ですか？",
+            "timestamp": "2022-09-16T17:29:47.464000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "鶏白湯ですね！",
+            "timestamp": "2022-09-16T17:29:56.782000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "鶏白湯もいいですね、あっさりしていて濃厚で。",
+            "timestamp": "2022-09-16T17:30:05.751000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "そうなんですよ。濃いのがすきで",
+            "timestamp": "2022-09-16T17:30:14.227000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "麺の量どのくらい食べるんですか？",
+            "timestamp": "2022-09-16T17:30:22.910000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "200ですかね！！300はもうきついです",
+            "timestamp": "2022-09-16T17:30:30.798000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "そうですよね若いころはもっといけた気がするのに、いまは200くらいがちょうどいいと思ってしまいます。",
+            "timestamp": "2022-09-16T17:30:59.316000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "わかります、変わっちゃいますよね、、",
+            "timestamp": "2022-09-16T17:31:02.329000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "量より質になってしまいました。",
+            "timestamp": "2022-09-16T17:31:16.542000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "すごくわかります。焼き肉もそうです",
+            "timestamp": "2022-09-16T17:31:27.093000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "分かります！焼肉の食べ放題とかもう無理です。",
+            "timestamp": "2022-09-16T17:31:43.956000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

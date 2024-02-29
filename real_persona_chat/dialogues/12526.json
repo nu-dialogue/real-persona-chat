@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12526,
+    "interlocutors": [
+        "CR",
+        "FQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-10T14:28:54.817000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-10T14:29:01.495000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "お昼は何を食べましたか",
+            "timestamp": "2022-09-10T14:29:08.713000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FQ",
+            "text": "今日は明太子カルボナーラうどんを食べました！",
+            "timestamp": "2022-09-10T14:29:35.234000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "自宅ないでですか",
+            "timestamp": "2022-09-10T14:29:47.039000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FQ",
+            "text": "いえ、自宅です。市販のソースがあったので。",
+            "timestamp": "2022-09-10T14:30:06.239000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "よくスパゲッテイは作りますか",
+            "timestamp": "2022-09-10T14:30:19.089000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FQ",
+            "text": "はい、好きでよく作りますよ！",
+            "timestamp": "2022-09-10T14:30:31.012000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "イタリアン好きとかですか",
+            "timestamp": "2022-09-10T14:30:40.966000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FQ",
+            "text": "好きです。美味しいですよね。",
+            "timestamp": "2022-09-10T14:30:56.756000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "カルボナーラうどんは和食ですかね",
+            "timestamp": "2022-09-10T14:31:15.231000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FQ",
+            "text": "どっちでしょうねー？うどんだから和食なんでしょうか？",
+            "timestamp": "2022-09-10T14:31:38.742000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "なになに食って、食材なのか味付けなのか？",
+            "timestamp": "2022-09-10T14:31:59.852000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FQ",
+            "text": "そういえばそうですよね。定義はどっちなんでしょう？",
+            "timestamp": "2022-09-10T14:32:27.788000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "冷奴は和食で麻婆豆腐は中華ですね",
+            "timestamp": "2022-09-10T14:32:51.730000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FQ",
+            "text": "ということは味付け？調味料？なんですかね。",
+            "timestamp": "2022-09-10T14:33:13.872000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "私は和風スパが好きです",
+            "timestamp": "2022-09-10T14:33:28.395000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FQ",
+            "text": "和風もいいですね。あっさりしてて。",
+            "timestamp": "2022-09-10T14:33:49.333000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "明太子味とか",
+            "timestamp": "2022-09-10T14:33:56.436000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FQ",
+            "text": "合いますよね！",
+            "timestamp": "2022-09-10T14:34:13.735000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "チーズを思いっきりスパにかける方いますよね",
+            "timestamp": "2022-09-10T14:34:33.085000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FQ",
+            "text": "いますねー、私は軽くでいいかな。",
+            "timestamp": "2022-09-10T14:34:57.078000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "妻は缶全部かける勢いです",
+            "timestamp": "2022-09-10T14:35:18.008000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FQ",
+            "text": "チーズがお好きなんですね！",
+            "timestamp": "2022-09-10T14:35:36.748000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "お店に悪いなーといつも思います笑",
+            "timestamp": "2022-09-10T14:35:53.102000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FQ",
+            "text": "いえいえ、好みがあるのでいいんじゃないでしょうか。",
+            "timestamp": "2022-09-10T14:36:12.562000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "そう言っていただけるとホッとします",
+            "timestamp": "2022-09-10T14:36:25.785000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FQ",
+            "text": "チーズ美味しいですもんね！",
+            "timestamp": "2022-09-10T14:36:41.771000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "少しなら私もいけます！",
+            "timestamp": "2022-09-10T14:36:52.663000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FQ",
+            "text": "一緒に楽しんでください。",
+            "timestamp": "2022-09-10T14:37:04.005000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

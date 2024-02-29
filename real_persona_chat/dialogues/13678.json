@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13678,
+    "interlocutors": [
+        "HL",
+        "IX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-28T10:55:32.493000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IX",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-28T10:55:45.027000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HL",
+            "text": "何か趣味はありますか？",
+            "timestamp": "2022-09-28T10:56:02.736000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IX",
+            "text": "趣味と言えるかわかりませんが、アロマテラピーは好きです。",
+            "timestamp": "2022-09-28T10:56:31.010000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HL",
+            "text": "いいですね！具体的にどんなことをするのですか？",
+            "timestamp": "2022-09-28T10:57:19.697000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IX",
+            "text": "お部屋に香らせたり、オイルを作って体をマッサージしたりします。",
+            "timestamp": "2022-09-28T10:58:29.677000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HL",
+            "text": "素敵です！良い趣味をお持ちですね！",
+            "timestamp": "2022-09-28T10:59:10.256000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IX",
+            "text": "アロマはとてもリラックスできます。あなたは趣味はありますか？",
+            "timestamp": "2022-09-28T10:59:44.195000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HL",
+            "text": "私は編み物が好きですよ。",
+            "timestamp": "2022-09-28T11:00:08.648000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IX",
+            "text": "編み物素敵ですね。何を作ったりするのですか？",
+            "timestamp": "2022-09-28T11:00:35.512000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HL",
+            "text": "バックなどの小物から洋服まで、いろいろ作ります。",
+            "timestamp": "2022-09-28T11:01:22.723000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IX",
+            "text": "洋服まで！すごいですね！",
+            "timestamp": "2022-09-28T11:02:20.402000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HL",
+            "text": "なかなか時間がかかるので、途中で止まったりしますけどね。",
+            "timestamp": "2022-09-28T11:02:54.003000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IX",
+            "text": "そうなんですね。デザインも自分で考えるのですか？",
+            "timestamp": "2022-09-28T11:03:22.517000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HL",
+            "text": "たまにです。子供が好きなキャラクターとかを自己流で入れたりします。",
+            "timestamp": "2022-09-28T11:04:03.905000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IX",
+            "text": "いいですね。お子様も好きなキャラクターのものだと嬉しいでしょうね。",
+            "timestamp": "2022-09-28T11:04:35.903000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HL",
+            "text": "縫い物だともっと正確にかけるのですが、裁縫が苦手でして。",
+            "timestamp": "2022-09-28T11:05:29.273000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IX",
+            "text": "私も裁縫は本当に苦手で。子供が使うものも自分で作れたらいいのですが。",
+            "timestamp": "2022-09-28T11:06:48.729000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HL",
+            "text": "もしかして入園入学準備は頑張って作られたのですか？",
+            "timestamp": "2022-09-28T11:07:33.158000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IX",
+            "text": "いえいえ。全部買い揃えました。作られる方羨ましいです。",
+            "timestamp": "2022-09-28T11:08:05.818000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HL",
+            "text": "私も同じです！作ってもらっているお友達のをうらやましく見ちゃいますよ。",
+            "timestamp": "2022-09-28T11:09:09.936000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IX",
+            "text": "でも編み物で色々作れるのは羨ましいです。",
+            "timestamp": "2022-09-28T11:10:10.202000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HL",
+            "text": "編み物は、作ったデザインに飽きたら、ほどいて他の物を作れるのがいいですよ。",
+            "timestamp": "2022-09-28T11:11:13.725000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IX",
+            "text": "なるほど！編み物はほどくことができますものね！",
+            "timestamp": "2022-09-28T11:11:56.042000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HL",
+            "text": "そうなんですよ。リユースです。そこが経済的にうれしいところです。",
+            "timestamp": "2022-09-28T11:12:42.627000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IX",
+            "text": "ちょっと私も編み物に興味がわきました。小物とかだったら難しくないですか？",
+            "timestamp": "2022-09-28T11:13:21.606000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HL",
+            "text": "私的に簡単なのは、マフラーです。まっすぐ編むだけなので、練習になりますよ。",
+            "timestamp": "2022-09-28T11:14:07.665000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IX",
+            "text": "そういえばマフラーは私も作ったことがあります。端がガタガタになりましたけど。",
+            "timestamp": "2022-09-28T11:15:00.434000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HL",
+            "text": "経験してるならすぐ慣れますよ！今年の冬用に頑張ってみてはどうでしょう？",
+            "timestamp": "2022-09-28T11:16:03.327000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IX",
+            "text": "そうですね。毛糸選びも楽しそうですね。ありがとうございます！",
+            "timestamp": "2022-09-28T11:16:32.231000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

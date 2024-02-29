@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1316,
+    "interlocutors": [
+        "BS",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T10:57:01.836000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T10:57:07.468000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "朝ごはんは食べられましたか？",
+            "timestamp": "2022-08-19T10:57:18.209000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "食べましたよ！",
+            "timestamp": "2022-08-19T10:57:21.998000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "何を食べましたか？",
+            "timestamp": "2022-08-19T10:57:32.698000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "シリアルを食べました。",
+            "timestamp": "2022-08-19T10:57:34.686000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "シリアルいいですね！",
+            "timestamp": "2022-08-19T10:57:50.505000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "あなたは朝ごはん食べました？",
+            "timestamp": "2022-08-19T10:57:59.416000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "私は今日プロテインを摂りました。",
+            "timestamp": "2022-08-19T10:58:11.633000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "お！運動されるのですか？",
+            "timestamp": "2022-08-19T10:58:24.721000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "運動はしないのですが、タンパク質補給のために！",
+            "timestamp": "2022-08-19T10:58:48.372000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "プロテインはどうやって飲んでますか？",
+            "timestamp": "2022-08-19T10:59:07.777000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "牛乳に溶かして飲むことが多いですね。",
+            "timestamp": "2022-08-19T10:59:29.338000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "やっぱその飲み方が一番美味しいですよね。",
+            "timestamp": "2022-08-19T10:59:44.621000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "あなたも飲まれているのですか？",
+            "timestamp": "2022-08-19T10:59:56.866000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "以前飲んでました。",
+            "timestamp": "2022-08-19T11:00:09.841000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。その時は運動をされていて？",
+            "timestamp": "2022-08-19T11:00:24.777000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "はい。今もしてますが、味が苦手なので、辞めちゃいました。",
+            "timestamp": "2022-08-19T11:00:43.122000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "そうでしたか。その時は何味を摂ってたんですか？",
+            "timestamp": "2022-08-19T11:01:07.986000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "いちご味です！あなたは？",
+            "timestamp": "2022-08-19T11:01:18.033000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "いちご味！私はココア味と、黒胡麻きなこ味です。",
+            "timestamp": "2022-08-19T11:01:41.815000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "どれが一番好きですか？",
+            "timestamp": "2022-08-19T11:01:57.116000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "そうですね。黒胡麻きなこは１回しか飲んでないのですが、万人ウケするのはココア味だと思いました。",
+            "timestamp": "2022-08-19T11:02:30.153000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "そうなんですね！個人的にはきなこ味気になります。",
+            "timestamp": "2022-08-19T11:02:46.601000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "そうですよね！私も気になって昨日届いたばかりなんです。さっぱりした黒胡麻きなこって感じでした。",
+            "timestamp": "2022-08-19T11:03:18.140000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "昨日届いたんですね！ちなみに今日初めて飲んだんですか？",
+            "timestamp": "2022-08-19T11:03:41.902000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "そうですそうです！今朝、初めて飲みました！",
+            "timestamp": "2022-08-19T11:03:59.356000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "すごい偶然ですね！",
+            "timestamp": "2022-08-19T11:04:06.987000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "そうなんです！",
+            "timestamp": "2022-08-19T11:04:20.403000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "では、またお話しましょう。",
+            "timestamp": "2022-08-19T11:04:31.329000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

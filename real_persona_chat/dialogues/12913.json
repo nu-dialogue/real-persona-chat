@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12913,
+    "interlocutors": [
+        "FS",
+        "FW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-16T10:29:15.948000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FW",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-16T10:29:20.195000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-09-16T10:29:33.088000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FW",
+            "text": "食べました！スムージーと、温玉食べました。",
+            "timestamp": "2022-09-16T10:29:47.285000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "おしゃれな朝ごはんですね。温玉は鍋で作るんですか？",
+            "timestamp": "2022-09-16T10:30:16.115000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FW",
+            "text": "温玉を作るための、800円くらいのケース使ってます。アマゾンで買いました。",
+            "timestamp": "2022-09-16T10:30:52.420000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "便利ですね！スイッチ入れるだけですか？",
+            "timestamp": "2022-09-16T10:31:42.694000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FW",
+            "text": "いえ、お湯をそそぐだけです。私も電気を使うと思っていたので、なんだこれと思いました。",
+            "timestamp": "2022-09-16T10:32:07.324000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "え！すごい！何分くらいで出来るんですか？",
+            "timestamp": "2022-09-16T10:32:31.512000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FW",
+            "text": "お湯沸かさなきゃいけないのかいとも思いました。12分くらいかかります。",
+            "timestamp": "2022-09-16T10:32:56.740000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "卵好きなので欲しいです！かたさの調整はできますか？",
+            "timestamp": "2022-09-16T10:34:14.452000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FW",
+            "text": "卵、いいですよね！まだ使いこなせていないのですが、工夫すればできるかも。結構難しいんですよね、、。",
+            "timestamp": "2022-09-16T10:35:09.744000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "鍋でも調整難しいですもんね。卵毎日食べますか？",
+            "timestamp": "2022-09-16T10:36:31.064000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FW",
+            "text": "卵毎日食べてます！<FS>さんも？",
+            "timestamp": "2022-09-16T10:36:48.905000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "わたしも毎日です！今日はいいやと思ってもやっぱり食べたくなって後から追加したりします。",
+            "timestamp": "2022-09-16T10:37:34.547000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FW",
+            "text": "へー！すごく好きなんですね。どうやって食べてますか？",
+            "timestamp": "2022-09-16T10:37:59.261000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "ゆで卵が一番好きです！どう食べることが多いですが？",
+            "timestamp": "2022-09-16T10:38:36.920000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FW",
+            "text": "温玉と、ゴーヤチャンプルーです。ゆで卵も美味しいですよねぇ。",
+            "timestamp": "2022-09-16T10:38:56.238000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "卵ってだいたい何とでも合いますよね。味噌汁に入れるのも好きです。",
+            "timestamp": "2022-09-16T10:39:43.061000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FW",
+            "text": "わーいいですね！溶いてそそぐんですか？",
+            "timestamp": "2022-09-16T10:40:04.347000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "溶かずにまるっと入れます。黄身がトロッとなるくらいにします。",
+            "timestamp": "2022-09-16T10:40:57.016000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FW",
+            "text": "やったことないです！すごくおいしそう。やってみます。ポーチドエッグみたいになるのかな。",
+            "timestamp": "2022-09-16T10:41:39.420000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "そうですね！そんな感じです。ポーチドエッグ作ったことありますか？",
+            "timestamp": "2022-09-16T10:42:39.641000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FW",
+            "text": "ないかもしれないです。作りますか？",
+            "timestamp": "2022-09-16T10:43:00.069000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "ないです！でも食べたくなって今レシピ検索しました。",
+            "timestamp": "2022-09-16T10:43:31.389000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FW",
+            "text": "私も作ってみます。名前は知ってるけど作り方分からなかったです。",
+            "timestamp": "2022-09-16T10:44:25.595000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "なんだかエッグベネディクトと間違えていました！卵プルンとゆるめに茹でればいいのかしら。",
+            "timestamp": "2022-09-16T10:45:29.421000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FW",
+            "text": "そんなのもありましたね。ポーチドエッグはいわゆる落とし卵みたいですね。ベネディクトは作りますか？",
+            "timestamp": "2022-09-16T10:46:18.545000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "作ったことないです。ポーチドエッグをベーコンとかに乗せればいいみたいですね。",
+            "timestamp": "2022-09-16T10:47:14.650000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FW",
+            "text": "あぁ、そうなんですね！知らなかった、ははは。",
+            "timestamp": "2022-09-16T10:47:27.085000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

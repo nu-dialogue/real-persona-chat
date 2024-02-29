@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3264,
+    "interlocutors": [
+        "EV",
+        "DK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-27T14:47:22.469000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DK",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-27T14:47:27.022000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "趣味などあれば教えていただきたいです",
+            "timestamp": "2022-08-27T14:47:31.818000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DK",
+            "text": "中学生くらいの頃からパソコンが好きで、仕事にもなりました",
+            "timestamp": "2022-08-27T14:48:16.330000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "パソコンですか。具体的にはどういったことをよくされますか？",
+            "timestamp": "2022-08-27T14:48:46.222000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DK",
+            "text": "プログラミングもしてましたし、自分で組み立てたり　最近はあまりやってないですけど",
+            "timestamp": "2022-08-27T14:49:40.381000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "プログラミングですか。授業で経験がありますが難しいですよね",
+            "timestamp": "2022-08-27T14:50:06.203000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DK",
+            "text": "そうですねー　言語を一つ覚えてると、他の言語にも応用はきくと思います",
+            "timestamp": "2022-08-27T14:50:49.042000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "なるほど。Pythonしか経験がなくて",
+            "timestamp": "2022-08-27T14:51:05.580000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DK",
+            "text": "Pythonは今一番人気の言語になってますね",
+            "timestamp": "2022-08-27T14:51:30.080000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "はい、よく耳にするようになりました。",
+            "timestamp": "2022-08-27T14:51:41.477000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DK",
+            "text": "機械学習でよく使われてたり",
+            "timestamp": "2022-08-27T14:52:03.101000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "僕はデータの解析で使用しました",
+            "timestamp": "2022-08-27T14:52:12.492000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DK",
+            "text": "なるほどー　でも条件分岐とかループとかはどの言語でもあるものなので、応用がききます",
+            "timestamp": "2022-08-27T14:53:06.135000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。奥が深いですね",
+            "timestamp": "2022-08-27T14:53:23.880000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DK",
+            "text": "私が学生の頃はPythonなんてなかったので、時代が変わったなーと思います",
+            "timestamp": "2022-08-27T14:54:12.466000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "Excel以外の解析があるんだと結構新鮮でした",
+            "timestamp": "2022-08-27T14:54:45.722000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DK",
+            "text": "ExcelもVBAが使えるので、やりだすと奥が深いんですよね",
+            "timestamp": "2022-08-27T14:55:21.555000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "アドオンでいろいろな機能を開放できますし、万能ですよね",
+            "timestamp": "2022-08-27T14:55:41.340000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DK",
+            "text": "一番最初に使ったのはBASICですが、VBAは使えません　Excelはマクロがせいぜいです",
+            "timestamp": "2022-08-27T14:56:26.239000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "なるほど。よく中学の授業で使わされたのが懐かしいです",
+            "timestamp": "2022-08-27T14:57:01.431000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DK",
+            "text": "中学でExcel使ってたんですね！いい時代です",
+            "timestamp": "2022-08-27T14:57:36.997000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "はい、テストの点数で棒グラフの作成や平均値の算出などをしました",
+            "timestamp": "2022-08-27T14:57:56.748000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DK",
+            "text": "今は必要な能力ですからねー　私の頃にそろばんをやっていたようなものかな",
+            "timestamp": "2022-08-27T14:58:35.644000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "そろばんですか。実用的ですか？それって",
+            "timestamp": "2022-08-27T14:58:52.694000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DK",
+            "text": "小学校でやってました　なにしろ電卓がやっと普及し始めた頃ですから",
+            "timestamp": "2022-08-27T14:59:24.067000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。それなら有意義かもしれませんね",
+            "timestamp": "2022-08-27T14:59:46.971000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DK",
+            "text": "でもあっという間に世の中が変わってしまうのですよね",
+            "timestamp": "2022-08-27T15:00:13.482000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "プログラミング教室とか、自分のころは見慣れなかったので珍しいです",
+            "timestamp": "2022-08-27T15:00:38.743000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DK",
+            "text": "今年から入ったでそうですね　私が子どもだったら喜々として勉強しそうです",
+            "timestamp": "2022-08-27T15:01:22.584000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DK",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

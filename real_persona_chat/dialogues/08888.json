@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8888,
+    "interlocutors": [
+        "AX",
+        "CZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AX",
+            "text": "こんばんわ。今日は宜しくお願いします。",
+            "timestamp": "2022-08-06T22:23:52.869000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CZ",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-08-06T22:24:16.423000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AX",
+            "text": "暑くなってきましたけど冷たいものとか好きですか？",
+            "timestamp": "2022-08-06T22:24:31.374000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CZ",
+            "text": "よく冷えたビールを飲んでいますよ。",
+            "timestamp": "2022-08-06T22:24:53.610000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AX",
+            "text": "あービール美味しい季節ですよね。どんなの飲まれます？",
+            "timestamp": "2022-08-06T22:25:08.616000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CZ",
+            "text": "端麗糖質５０パーセントオフの緑色のやつを飲んでいます。何を飲みますか？",
+            "timestamp": "2022-08-06T22:25:51.070000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AX",
+            "text": "あー。ありますね。それも飲みます。あと黒ビールも好きですね。",
+            "timestamp": "2022-08-06T22:26:09.579000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CZ",
+            "text": "サッポロですか。ビールといえばサッポロ黒ラベルを飲みますよ。",
+            "timestamp": "2022-08-06T22:26:52.122000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AX",
+            "text": "それも飲むんですが、黒いビールですね。",
+            "timestamp": "2022-08-06T22:27:10.395000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CZ",
+            "text": "黒いビールとは何ですか？",
+            "timestamp": "2022-08-06T22:27:28.026000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AX",
+            "text": "おっと。ビールってピルスナーとか色々種類がある中の色が黒いものです。",
+            "timestamp": "2022-08-06T22:27:48.793000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CZ",
+            "text": "黒ビールのことですかね？バーとかいったらあるやつですよね。",
+            "timestamp": "2022-08-06T22:28:27.954000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AX",
+            "text": "そそ。ポーターとかスタウトとか言われるやつですね。",
+            "timestamp": "2022-08-06T22:28:51.502000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CZ",
+            "text": "黒ビールは好奇心でよく頼んでいました。でも結局国産が美味しいなって思いました。",
+            "timestamp": "2022-08-06T22:29:27.161000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AX",
+            "text": "確かに。最近やっとマルエフとか黒エビスとか国産も出るようになってきました。",
+            "timestamp": "2022-08-06T22:30:01.559000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CZ",
+            "text": "ビール以外は何を飲みますか？",
+            "timestamp": "2022-08-06T22:30:21.559000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AX",
+            "text": "あとは何でも飲みますが、ワインバーとかもたまに行きます。",
+            "timestamp": "2022-08-06T22:30:44.601000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CZ",
+            "text": "ワインはほんとにたまに飲みたくなったら飲みますね。普段は焼酎を飲んでいます。",
+            "timestamp": "2022-08-06T22:31:15.451000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AX",
+            "text": "焼酎はですね。九州とかあっちの方は焼酎のイメージ強いです。",
+            "timestamp": "2022-08-06T22:31:42.279000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CZ",
+            "text": "九州は産地ですからね。芋焼酎おいしいですよ。",
+            "timestamp": "2022-08-06T22:32:13.476000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AX",
+            "text": "そっか。自分焼酎すぐ酔っぱらってしまって。おいしいんですが量飲めないのです。",
+            "timestamp": "2022-08-06T22:32:29.116000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CZ",
+            "text": "アルコールが高いですからね。まずはビールを飲んでそれから焼酎にいっています。",
+            "timestamp": "2022-08-06T22:33:06.859000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AX",
+            "text": "ビールはチェイサー替わり的な雰囲気ですね。",
+            "timestamp": "2022-08-06T22:33:27.529000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CZ",
+            "text": "チェイサー替わりとは何ですか？",
+            "timestamp": "2022-08-06T22:33:53.731000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AX",
+            "text": "チェイサー、水のかわりなのかなと。",
+            "timestamp": "2022-08-06T22:34:06.048000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CZ",
+            "text": "なるほど、確かに水代りにおつまみとグイッといけますからね。",
+            "timestamp": "2022-08-06T22:34:39.701000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AX",
+            "text": "流石ですね。昔は毎日飲んでましたけど最近は控えめにしているんですよ。",
+            "timestamp": "2022-08-06T22:35:09.955000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CZ",
+            "text": "僕もそうですよ。でも夏は帰ったらビールをグビっといきたくなりますからね。",
+            "timestamp": "2022-08-06T22:35:55.820000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AX",
+            "text": "そうなんですよね。夏はそこが問題です。",
+            "timestamp": "2022-08-06T22:36:08.221000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CZ",
+            "text": "夏の醍醐味ですからね。",
+            "timestamp": "2022-08-06T22:36:21.781000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

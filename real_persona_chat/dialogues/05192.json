@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5192,
+    "interlocutors": [
+        "GR",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-22T00:48:06.078000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-22T00:48:11.035000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "夜遅くなってきましたが眠くはないですか？",
+            "timestamp": "2022-09-22T00:48:18.894000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "はい、意外と大丈夫です",
+            "timestamp": "2022-09-22T00:48:28.183000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "いつも何時頃寝るんですか？",
+            "timestamp": "2022-09-22T00:48:39.098000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "まちまちですね、遅くても2時には寝ます",
+            "timestamp": "2022-09-22T00:48:45.468000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "私もそれくらいです",
+            "timestamp": "2022-09-22T00:48:50.844000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "朝は早いんですか？",
+            "timestamp": "2022-09-22T00:48:58.110000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "朝は早くて7時ぐらいですね",
+            "timestamp": "2022-09-22T00:49:04.037000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "私もそれくらいなので大体同じですね",
+            "timestamp": "2022-09-22T00:49:12.531000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "早起きが苦手なんですよね",
+            "timestamp": "2022-09-22T00:49:17.901000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "5時に起きてって言われたら起きれますか？",
+            "timestamp": "2022-09-22T00:49:30.379000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "頑張れば起きれますけどだいぶ機嫌は悪いと思います",
+            "timestamp": "2022-09-22T00:49:39.255000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "私は起きれないので徹夜していくしかないです",
+            "timestamp": "2022-09-22T00:49:48.078000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "1日きつくないですか？",
+            "timestamp": "2022-09-22T00:49:55.524000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "気合で乗り切るしかないです",
+            "timestamp": "2022-09-22T00:50:02.184000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "直近で5時に起きる必要があった事ってありますか",
+            "timestamp": "2022-09-22T00:50:11.613000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "直近はないですね、実家にいた頃は 旅行に行く時3時出発とか4時出発とかが多くてそれはきつかったです",
+            "timestamp": "2022-09-22T00:50:19.031000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "朝というより深夜ですねもはや",
+            "timestamp": "2022-09-22T00:50:27.389000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "車で旅行に行くことが多かったので渋滞を避けるってなるとその時間になるんですよね",
+            "timestamp": "2022-09-22T00:50:41.300000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "車なら車内で寝れるんじゃないですか？",
+            "timestamp": "2022-09-22T00:50:58.644000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "そうですね、 でも寝心地最悪ですよ",
+            "timestamp": "2022-09-22T00:51:02.158000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "確かに快適ではなさそうですね",
+            "timestamp": "2022-09-22T00:51:07.656000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "<GR>さんは最近早起きしましたか？",
+            "timestamp": "2022-09-22T00:51:21.366000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "私はもう全くないです。早起きしなきゃいけない用事は断るようにしてます",
+            "timestamp": "2022-09-22T00:51:30.073000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "徹底してますね",
+            "timestamp": "2022-09-22T00:51:35.405000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "もう本当にきつくって。",
+            "timestamp": "2022-09-22T00:51:52.921000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "具合悪くなりません？",
+            "timestamp": "2022-09-22T00:52:03.459000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "ちょっとわかります。気持ち悪くなります。",
+            "timestamp": "2022-09-22T00:52:19.930000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "低血圧ですかね",
+            "timestamp": "2022-09-22T00:52:34.465000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

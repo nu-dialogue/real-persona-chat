@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1217,
+    "interlocutors": [
+        "BG",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BG",
+            "text": "こんにちは。台風は大丈夫でした？",
+            "timestamp": "2022-08-15T10:10:06.675000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こんにちは！一昨日ゲリラっぽい雨が降りましたがそれ以外は何もありませんでした",
+            "timestamp": "2022-08-15T10:10:35.877000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BG",
+            "text": "こちらも一緒でしたー。ニュースでいうほどじゃなくてよかったです！",
+            "timestamp": "2022-08-15T10:10:59.515000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "伊豆の方とかは大変そうでした",
+            "timestamp": "2022-08-15T10:11:22.252000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BG",
+            "text": "そうそう。被害が出た地方の方は大変ですよね。いつくるかビクビクしてます。",
+            "timestamp": "2022-08-15T10:11:49.785000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "川が近くにあると、作物育てやすかったりする反面こういう時被害受けやすいんですよね",
+            "timestamp": "2022-08-15T10:12:28.257000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BG",
+            "text": "そうですね。実はうちは河川の近くですが、そう広くないので今のところ大丈夫みたいです。",
+            "timestamp": "2022-08-15T10:13:05.085000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "それはよかったです。",
+            "timestamp": "2022-08-15T10:13:32.753000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BG",
+            "text": "海も怖い気がしますが、あまり台風で被害が出ると聞かない気がします。",
+            "timestamp": "2022-08-15T10:14:02.946000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "高潮で～くらいですもんね。あと、暴風とか",
+            "timestamp": "2022-08-15T10:14:32.525000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BG",
+            "text": "そうですね。海外のように竜巻とかも起こりにくいですし。",
+            "timestamp": "2022-08-15T10:14:53.311000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "住まいを決める時、ハザードマップとか参考にしました？",
+            "timestamp": "2022-08-15T10:15:34.730000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BG",
+            "text": "はい。参考にしましたよ。意外に安全な場所なんです。",
+            "timestamp": "2022-08-15T10:16:10.373000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "ちゃんと見てて素晴らしいですね！",
+            "timestamp": "2022-08-15T10:16:42.014000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BG",
+            "text": "んー、不動産関係に明るい主人の手柄かな",
+            "timestamp": "2022-08-15T10:16:59.337000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "なるほど。私の実家は、近くが危なくなってその後確認して初めて知ったそうです",
+            "timestamp": "2022-08-15T10:17:44.387000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BG",
+            "text": "そうなんですね。でも、ハザードマップって以前はあまり詳しく見ない人が多かったと思います。",
+            "timestamp": "2022-08-15T10:18:21.834000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "私もその内の一人でした。",
+            "timestamp": "2022-08-15T10:18:45.942000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BG",
+            "text": "私もですよ。不動産関係者が側にいないと、色々と怖いことが多いです。",
+            "timestamp": "2022-08-15T10:19:19.440000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "やっぱりプロがいると頼もしいですね。大きな買い物ですし",
+            "timestamp": "2022-08-15T10:19:46.396000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BG",
+            "text": "主人がいた会社は賃貸も扱っていましたが、物件の怖い話をたくさん聞きました。",
+            "timestamp": "2022-08-15T10:20:15.103000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "どんな話があります？",
+            "timestamp": "2022-08-15T10:20:37.873000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BG",
+            "text": "やたらと賃料が安いところって、どう思います？",
+            "timestamp": "2022-08-15T10:21:13.052000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "事故物件とか、何か裏がありそうでちょっと警戒しちゃいます",
+            "timestamp": "2022-08-15T10:21:42.994000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BG",
+            "text": "そう！警戒して避けるのが一番です。ただ。",
+            "timestamp": "2022-08-15T10:21:56.417000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "ですよね！甘い話は疑えと教わりました。ただ？",
+            "timestamp": "2022-08-15T10:22:21.703000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BG",
+            "text": "その通りですよね。ただ、事故物件という言葉を記載する期限とかあるらしくて。",
+            "timestamp": "2022-08-15T10:23:10.885000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "え！？そんなことあるんですか！",
+            "timestamp": "2022-08-15T10:23:41.551000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BG",
+            "text": "そうらしいんです。でも安さでわかるので大丈夫ですが、本当にすがる思いで借りる方もいるでしょうね。",
+            "timestamp": "2022-08-15T10:24:11.033000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "まぁ私は冷感ないのでそういうの気にしませんが、今後の参考にします！",
+            "timestamp": "2022-08-15T10:24:38.456000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

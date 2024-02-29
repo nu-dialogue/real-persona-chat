@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9027,
+    "interlocutors": [
+        "BK",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BK",
+            "text": "はじめまして、こんにちは！",
+            "timestamp": "2022-08-08T12:57:39.966000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "はじめまして、<BB>です。",
+            "timestamp": "2022-08-08T12:57:50.716000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BK",
+            "text": "今日も暑いですね。私、暑いのって超苦手なんです。",
+            "timestamp": "2022-08-08T12:58:16.389000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "お、私もまったく同じです。汗っかきなので。",
+            "timestamp": "2022-08-08T12:58:28.887000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BK",
+            "text": "こうも暑いとぼーっとしちゃいますよね。",
+            "timestamp": "2022-08-08T12:59:03.858000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "本当ですよね。外に出てものの10分もすると、汗ダラダラですもんね。",
+            "timestamp": "2022-08-08T12:59:28.278000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BK",
+            "text": "ほんとです。今日はお外には出られましたか？",
+            "timestamp": "2022-08-08T12:59:43.002000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "はい。子供の保育園の送迎があるので、嫌でも毎日外出しないといけないんです。朝から汗びっしょりです。",
+            "timestamp": "2022-08-08T13:00:13.343000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BK",
+            "text": "ひいいいい！それはお疲れ様です！",
+            "timestamp": "2022-08-08T13:00:28.983000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "どうもです。<BK>さんはお外出られましたか？",
+            "timestamp": "2022-08-08T13:00:45.307000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BK",
+            "text": "出ました。朝４時くらいに出て、３時間ほどウォーキングしてきましたよ。",
+            "timestamp": "2022-08-08T13:01:12.817000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "朝型なんですね。朝4時起きなんて、素敵です！",
+            "timestamp": "2022-08-08T13:01:41.684000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BK",
+            "text": "日の出前が一番涼しいんですよ。でもその分、夜ははやく眠くなっちゃいます。",
+            "timestamp": "2022-08-08T13:02:30.051000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "とてもいい生活リズムですね。",
+            "timestamp": "2022-08-08T13:02:53.143000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BK",
+            "text": "でも娯楽とかとは無縁になっちゃいます。朝方って。",
+            "timestamp": "2022-08-08T13:03:35.814000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "楽しいことは夜に行われることが多いですからね。最近何か楽しいことなかったですか？",
+            "timestamp": "2022-08-08T13:04:07.932000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BK",
+            "text": "最近。最近。最近。楽しいこと。楽しいこと。うーん。",
+            "timestamp": "2022-08-08T13:04:39.909000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "無理にお答えしなくても大丈夫ですよ！毎日ルーティンをこなしていると、変わったことってあまりありませんよね。",
+            "timestamp": "2022-08-08T13:05:15.201000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BK",
+            "text": "非常に刺激の少ない生活をしております！<BB>さんはいかがですか？",
+            "timestamp": "2022-08-08T13:05:32.043000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "私も同じくです。小さい子供がいるので、子供と接することはかなり刺激になったりしますが。",
+            "timestamp": "2022-08-08T13:05:57.177000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BK",
+            "text": "お子さんがいらっしゃるんですね。おいくつくらいですか？",
+            "timestamp": "2022-08-08T13:06:15.383000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "4歳で、今年で5歳になるんです。",
+            "timestamp": "2022-08-08T13:06:26.840000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BK",
+            "text": "うわー、ではそろそろランドセルを。",
+            "timestamp": "2022-08-08T13:06:44.985000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "そうなんです！実は気が早いですが、すでにラン活をはじめました。",
+            "timestamp": "2022-08-08T13:07:08.364000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BK",
+            "text": "らん活って言うんですね。早いうちからチェックしないと、好みのものが買えないとは聞きますが。",
+            "timestamp": "2022-08-08T13:07:50.991000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "そうらしいですね。最近のランドセルは種類が多くて、見ていくうちに余計に分からなくなってきます。",
+            "timestamp": "2022-08-08T13:08:24.569000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BK",
+            "text": "色とか重さとか大きさとか、選択肢多いですよね。",
+            "timestamp": "2022-08-08T13:08:46.411000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "そうなんです。子供は色しか見ていませんが。",
+            "timestamp": "2022-08-08T13:08:59.645000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BK",
+            "text": "お子さんにとっては色が一番大事ですよね！",
+            "timestamp": "2022-08-08T13:09:14.092000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "親としては、なるべく軽くて丈夫なのが一番ですけどね。",
+            "timestamp": "2022-08-08T13:09:31.052000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

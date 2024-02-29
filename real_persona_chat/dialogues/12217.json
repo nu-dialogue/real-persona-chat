@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12217,
+    "interlocutors": [
+        "DI",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-06T11:54:12.628000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-06T11:54:24.129000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "今日は何時に起きましたか？",
+            "timestamp": "2022-09-06T11:54:37.860000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "7時に起きました",
+            "timestamp": "2022-09-06T11:54:52.998000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "いつも7時起きですか？",
+            "timestamp": "2022-09-06T11:55:03.827000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "いつもおなじですね",
+            "timestamp": "2022-09-06T11:55:28.747000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "すごいですね。早起きや睡眠のためにしていることってなにかありますか？",
+            "timestamp": "2022-09-06T11:55:44.953000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "特にないですが１１時頃には寝れてます",
+            "timestamp": "2022-09-06T11:56:05.784000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "やっぱり早く寝るのが大事ですかね。",
+            "timestamp": "2022-09-06T11:56:21.809000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "でも気になることがあると寝ずらいとかありますね",
+            "timestamp": "2022-09-06T11:56:46.983000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "そうなんですね。最近寝つきが悪くて。",
+            "timestamp": "2022-09-06T11:57:09.325000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "気になることがあるのですか？",
+            "timestamp": "2022-09-06T11:57:32.005000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "早く寝なきゃと思った結果、焦って寝れなくなってしまうという感じです。",
+            "timestamp": "2022-09-06T11:57:51.867000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "ありますね、それ。",
+            "timestamp": "2022-09-06T11:58:07.785000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "そういうとき、あなたはどうしてます？",
+            "timestamp": "2022-09-06T11:58:20.082000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "眠らなくても、目を瞑っていることでいいらしいです。そして無理に眠ろうとしない",
+            "timestamp": "2022-09-06T11:59:04.270000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "無理に眠ろうとしないこと大事ですよね。わかってはいるんですけど。",
+            "timestamp": "2022-09-06T11:59:32.550000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "そう簡単には行きませんよね",
+            "timestamp": "2022-09-06T11:59:44.492000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "そうなんです。瞑想とかもやってみたりするんですけど。",
+            "timestamp": "2022-09-06T12:00:01.689000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "眠くなるヒーリング曲をかけるとか",
+            "timestamp": "2022-09-06T12:00:31.539000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "そういうのもありますよね。効果がある日とない日があります。",
+            "timestamp": "2022-09-06T12:00:49.140000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "そう、意外と聞いてしまって気になったりして",
+            "timestamp": "2022-09-06T12:01:06.729000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "あと、音量が気になってあげたりさげたりしちゃったり。",
+            "timestamp": "2022-09-06T12:01:26.221000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "いじっちゃいますよね笑",
+            "timestamp": "2022-09-06T12:01:39.101000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "そうなんです。結局なにもかけずに寝れるのが理想なんですけど。",
+            "timestamp": "2022-09-06T12:01:55.333000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "スマホ触るとやばいです",
+            "timestamp": "2022-09-06T12:02:07.498000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "ブルーライトもあって眠れませんよね。",
+            "timestamp": "2022-09-06T12:02:18.471000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "そうなんですよ",
+            "timestamp": "2022-09-06T12:02:29.587000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "参考になりました。ありがとうございました。",
+            "timestamp": "2022-09-06T12:02:39.974000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "よく眠れますように",
+            "timestamp": "2022-09-06T12:02:53.439000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

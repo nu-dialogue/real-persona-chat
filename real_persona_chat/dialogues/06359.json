@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6359,
+    "interlocutors": [
+        "CU",
+        "GT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-10-04T18:12:12.251000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GT",
+            "text": "おねがいします",
+            "timestamp": "2022-10-04T18:12:19.189000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "最近はどこかお出かけされましたか？",
+            "timestamp": "2022-10-04T18:12:38.761000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GT",
+            "text": "少し前に京都に行きました。",
+            "timestamp": "2022-10-04T18:12:48.903000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "奇遇ですね！私も先週京都嵐山に行きました！",
+            "timestamp": "2022-10-04T18:13:10.880000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GT",
+            "text": "先週ですか、すごい偶然ですね！",
+            "timestamp": "2022-10-04T18:13:22.764000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "ですね。京都のどこに行かれたんですか？",
+            "timestamp": "2022-10-04T18:13:34.255000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GT",
+            "text": "私も嵐山にいきました。",
+            "timestamp": "2022-10-04T18:13:39.666000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "そうでしたか！私は竹林と渡月橋と天龍寺というベタなコースでした。",
+            "timestamp": "2022-10-04T18:14:21.221000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GT",
+            "text": "わたしもです！あと貴船もいきました。",
+            "timestamp": "2022-10-04T18:14:44.406000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "貴船いいですね！まだ紅葉シーズンではないですが、人は多かったですか？",
+            "timestamp": "2022-10-04T18:15:14.607000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GT",
+            "text": "多かったですね、まだ暑いときにいったので。",
+            "timestamp": "2022-10-04T18:15:30.170000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "京都はひときわ暑かったでしょうね！",
+            "timestamp": "2022-10-04T18:15:54.049000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GT",
+            "text": "そうですね、おいしいものもたべましたか？",
+            "timestamp": "2022-10-04T18:16:08.080000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "はい、湯豆腐と抹茶スイーツを食べました。",
+            "timestamp": "2022-10-04T18:16:37.143000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GT",
+            "text": "抹茶スイーツいいですね！",
+            "timestamp": "2022-10-04T18:16:43.812000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "はい、どうしても食べないと帰れないと思って。",
+            "timestamp": "2022-10-04T18:17:06.662000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GT",
+            "text": "わたしも好きなので行ったら絶対食べます。",
+            "timestamp": "2022-10-04T18:17:14.303000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "今回の京都では何を食べましたか？",
+            "timestamp": "2022-10-04T18:17:28.466000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GT",
+            "text": "わらび餅食べましたよ。",
+            "timestamp": "2022-10-04T18:17:38.818000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "美味しそう！お土産にも良さそうですね。",
+            "timestamp": "2022-10-04T18:17:56.806000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GT",
+            "text": "すごくぷるぷるでおいしかったです！",
+            "timestamp": "2022-10-04T18:18:10.225000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "いいですね。ご飯も食べましたか？",
+            "timestamp": "2022-10-04T18:18:33.716000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GT",
+            "text": "食べました！湯葉とかおいしかったです",
+            "timestamp": "2022-10-04T18:18:47.549000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "京都満喫ですね！京都は家からどのくらいの時間で行けるんですか？",
+            "timestamp": "2022-10-04T18:19:13.123000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GT",
+            "text": "3時間くらいですね。泊りでたまに行きます。",
+            "timestamp": "2022-10-04T18:19:22.086000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "そうなんですね。私も京都のおしゃれなところに泊まってみたいです。",
+            "timestamp": "2022-10-04T18:20:15.779000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GT",
+            "text": "いつも日帰りですか？",
+            "timestamp": "2022-10-04T18:20:21.971000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "そうなんです。１時間半くらいで行けてしまう距離なので。",
+            "timestamp": "2022-10-04T18:20:37.363000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GT",
+            "text": "たしかにそうなるとなかなか泊りで行きませんよね。",
+            "timestamp": "2022-10-04T18:20:45.345000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

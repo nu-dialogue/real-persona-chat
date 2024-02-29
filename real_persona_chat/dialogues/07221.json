@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7221,
+    "interlocutors": [
+        "CA",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T15:00:09.635000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-05T15:00:18.972000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-05T15:00:27.811000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "最近何か大きな買い物はしましたか？",
+            "timestamp": "2022-08-05T15:01:39.125000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "直近の大きな買い物。車のタイヤでした！ボロボロになっちゃってて。",
+            "timestamp": "2022-08-05T15:02:23.647000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "どれくらい使ってましたか？",
+            "timestamp": "2022-08-05T15:02:44.223000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "確か耐用年数超えてて、フルで使ってた感じです",
+            "timestamp": "2022-08-05T15:03:27.119000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "それは粘りましたね、交換した後走り心地はいかがでした？",
+            "timestamp": "2022-08-05T15:03:56.333000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "スノータイヤだったので安心感が増えました。今のまま高速に乗るのは控えた方がいいと言われていたので。",
+            "timestamp": "2022-08-05T15:04:32.444000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "冬以外もスノータイヤだったのですか？",
+            "timestamp": "2022-08-05T15:04:59.232000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "冬以外はノーマルタイヤなのですが、前の使い込んだスノータイヤは控えるようやんわり言われていました",
+            "timestamp": "2022-08-05T15:05:57.123000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "なるほど、ホイールとタイヤどっちも買ったのですか？",
+            "timestamp": "2022-08-05T15:06:39.779000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "ホイールは前のままで良くて、タイヤの交換でした。<AT>さんは最近何か大きな買い物されまいたか？",
+            "timestamp": "2022-08-05T15:07:16.457000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "最近は全然買ってないですね、逆に車を売ったりしました。",
+            "timestamp": "2022-08-05T15:07:48.536000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "車を売られたんですね！ということは新しい車を？",
+            "timestamp": "2022-08-05T15:08:16.318000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "いいえ、都内に転職したので車使う機会が無くなりました。",
+            "timestamp": "2022-08-05T15:08:51.594000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "そうだったんですね！新しい街にはなれましたか？",
+            "timestamp": "2022-08-05T15:09:11.530000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "はい、実家なのでむしろめちゃくちゃ馴染んでます。",
+            "timestamp": "2022-08-05T15:09:56.773000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "ご実家なんですね！それは安心だ。",
+            "timestamp": "2022-08-05T15:10:14.305000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "色々親がやってくれてかなり楽ちんです。",
+            "timestamp": "2022-08-05T15:10:33.260000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "都内だったら電車もバスもあるから交通すごく便利で快適ですよね",
+            "timestamp": "2022-08-05T15:11:09.738000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "そうなんですよ、維持費もかかりますし思い切って売りました。",
+            "timestamp": "2022-08-05T15:11:49.193000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "なくて生活できる圏内なら絶対それがいいと思います。",
+            "timestamp": "2022-08-05T15:12:20.044000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "本当に必要な時はカーシェアとかレンタカーで良いと思ってます。",
+            "timestamp": "2022-08-05T15:12:44.533000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "今そういうのありますもんね。うちの弟も関東方面に住んでるんですが、公共交通機関使って通ってます",
+            "timestamp": "2022-08-05T15:13:28.818000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "眠くても体調があまり良くなくても運転せずに移動できますしね。",
+            "timestamp": "2022-08-05T15:14:08.224000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "うとうとできるのいいですよね。",
+            "timestamp": "2022-08-05T15:14:43.921000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "携帯でネットサーフィンとかもできますね、ただ単純に電車が嫌いな友達もいます。",
+            "timestamp": "2022-08-05T15:15:48.292000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "作業ができるっていうのが本当に時間増える感じがします。電車のデメリットも確かにありますよね。",
+            "timestamp": "2022-08-05T15:16:38.292000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "はい、今度他の友達とも話してみます。",
+            "timestamp": "2022-08-05T15:17:01.393000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CA",
+            "text": "またお話ししましょう！",
+            "timestamp": "2022-08-05T15:17:15.722000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

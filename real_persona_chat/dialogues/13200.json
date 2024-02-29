@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13200,
+    "interlocutors": [
+        "GN",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-18T11:23:22.045000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-18T11:23:27.538000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GN",
+            "text": "今何か欲しいものありますか？",
+            "timestamp": "2022-09-18T11:23:35.322000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "新しいiPadがほしいですかね。",
+            "timestamp": "2022-09-18T11:23:52.110000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GN",
+            "text": "おお、、、最近売りました、ipad",
+            "timestamp": "2022-09-18T11:24:01.616000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "売られたんですか！",
+            "timestamp": "2022-09-18T11:24:14.337000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GN",
+            "text": "AIr4売りました！お絵描き用に買ったんですがあまり使わなくて。",
+            "timestamp": "2022-09-18T11:24:24.480000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "まさにAirほしいんですよ！お絵描きお好きなんですか？",
+            "timestamp": "2022-09-18T11:24:48.921000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GN",
+            "text": "何用途ですか！いえ、そんなにかもです！",
+            "timestamp": "2022-09-18T11:25:09.563000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "学生でして、よく論文とか読むのとか、講義のメモ取りに使ってます。",
+            "timestamp": "2022-09-18T11:25:44.381000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GN",
+            "text": "あ、なるほど！！使い勝手良さそうですね、とても！",
+            "timestamp": "2022-09-18T11:25:53.544000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "コロナでオンライン化が進んで、講義資料とかもPDFで送られてくるのでとても便利です。",
+            "timestamp": "2022-09-18T11:26:29.084000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GN",
+            "text": "おお、、私が学生の時とは大違いすぎますね。",
+            "timestamp": "2022-09-18T11:26:39.857000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "私もコロナ前までは紙ばっかりだったので、便利だなあと。",
+            "timestamp": "2022-09-18T11:26:59.287000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GN",
+            "text": "わかります。そっちのがいい気がします！",
+            "timestamp": "2022-09-18T11:27:03.123000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "講義資料を失くさなくてすみますし、検索かけるとすぐ資料探せたりするのでいいです！",
+            "timestamp": "2022-09-18T11:27:58.280000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GN",
+            "text": "ああ！たしかに！そう考えるといいですね",
+            "timestamp": "2022-09-18T11:28:08.806000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "そうなんです！ものの整理が本当に苦手なので助かってます。",
+            "timestamp": "2022-09-18T11:28:30.330000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GN",
+            "text": "人それぞれやり方違って面白いですよね！",
+            "timestamp": "2022-09-18T11:28:40.928000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "はい！ちなみにそちらは欲しいものあります？",
+            "timestamp": "2022-09-18T11:29:13.492000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GN",
+            "text": "ロードバイク欲しいかもです！",
+            "timestamp": "2022-09-18T11:29:17.038000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "ロードバイクですか！バイクがご趣味なんですか？",
+            "timestamp": "2022-09-18T11:29:53.454000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GN",
+            "text": "中型バイクも乗っていますし、速い乗り物がすきなんだとおもいます！",
+            "timestamp": "2022-09-18T11:30:16.083000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "いいですね！私はそれが怖くて自動車免許すら躊躇しています。",
+            "timestamp": "2022-09-18T11:30:46.620000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GN",
+            "text": "あらら。でも無理に取らなくてもいいと思います！",
+            "timestamp": "2022-09-18T11:30:56.341000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "自転車をよく使うのですが、自転車ですらよく転んだりするので、事故が怖くて。",
+            "timestamp": "2022-09-18T11:31:38.929000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GN",
+            "text": "それはこわいですね！おきをつけてください、、！",
+            "timestamp": "2022-09-18T11:31:48.418000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "ありがとうございます！でも自動車免許欲しいのでがんばります。",
+            "timestamp": "2022-09-18T11:32:12.374000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GN",
+            "text": "むりはしないでくださいね！",
+            "timestamp": "2022-09-18T11:32:20.405000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "お気遣い感謝します！",
+            "timestamp": "2022-09-18T11:32:31.103000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

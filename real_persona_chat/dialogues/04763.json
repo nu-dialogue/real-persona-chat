@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4763,
+    "interlocutors": [
+        "FH",
+        "CK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FH",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-14T11:21:51.670000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CK",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-14T11:21:57.292000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FH",
+            "text": "何かはまっているものってありますか？",
+            "timestamp": "2022-09-14T11:22:21.611000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CK",
+            "text": "特にないんですが、ウォーキングを始めたいなって思ってます。",
+            "timestamp": "2022-09-14T11:22:49.509000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FH",
+            "text": "ウォーキング、いいですよね。",
+            "timestamp": "2022-09-14T11:23:13.040000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CK",
+            "text": "アプリとか色々あるみたいで、どれにしようかなって。",
+            "timestamp": "2022-09-14T11:23:31.533000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FH",
+            "text": "アプリ？どんな機能があるんですか？",
+            "timestamp": "2022-09-14T11:23:45.932000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CK",
+            "text": "ルートを自分で決めたり、写真をアップしたりとかできるみたいです。",
+            "timestamp": "2022-09-14T11:24:19.906000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FH",
+            "text": "そんなアプリがあるんですね。知らなったです。",
+            "timestamp": "2022-09-14T11:24:47.848000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CK",
+            "text": "SNS機能はどうかなって思ったんですが、モチベーションは上がりそうかな、と。",
+            "timestamp": "2022-09-14T11:25:09.320000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FH",
+            "text": "ＳＮＳ機能まで？えっ、今、歩いています。とか？",
+            "timestamp": "2022-09-14T11:25:28.940000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CK",
+            "text": "なんか写真にいいね、とかできるみたいですよ。",
+            "timestamp": "2022-09-14T11:25:40.949000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FH",
+            "text": "あぁ、そういうＳＮＳ機能なんですね。素敵な風景にいいね、みたいな？",
+            "timestamp": "2022-09-14T11:26:01.159000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CK",
+            "text": "多分。あとは自分の作成したルートを公開したり。",
+            "timestamp": "2022-09-14T11:26:18.755000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FH",
+            "text": "ルート、無限にありそうですよね。",
+            "timestamp": "2022-09-14T11:26:53.487000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CK",
+            "text": "私は、近所を歩くだけなんですけどね。",
+            "timestamp": "2022-09-14T11:27:11.128000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FH",
+            "text": "近所だと、ルート公開はしたくないですね。",
+            "timestamp": "2022-09-14T11:27:32.061000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CK",
+            "text": "それは無理ですね。怖いです。",
+            "timestamp": "2022-09-14T11:27:42.326000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FH",
+            "text": "本当ですよね、ストーカーとかわいたらいやですもんね。",
+            "timestamp": "2022-09-14T11:28:01.974000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CK",
+            "text": "友達はわざわざどこかへ行って、ルート作成して歩いてるみたいなんですよね。",
+            "timestamp": "2022-09-14T11:28:25.031000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FH",
+            "text": "おしゃれなところとか？",
+            "timestamp": "2022-09-14T11:28:39.720000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CK",
+            "text": "おしゃれなカフェがあれば休憩もありです。",
+            "timestamp": "2022-09-14T11:28:53.683000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FH",
+            "text": "いいですね、おしゃれなカフェでのんびり。ということは、ダイエット目的ではないんですね。",
+            "timestamp": "2022-09-14T11:29:25.349000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CK",
+            "text": "そうですね。歩いた結果痩せた、とは言ってましたが。",
+            "timestamp": "2022-09-14T11:29:44.997000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FH",
+            "text": "そんなスタンスで歩いてみたいです。うらやましすぎる。",
+            "timestamp": "2022-09-14T11:30:05.168000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CK",
+            "text": "楽しそうですよね。一個隣の駅にでも行って、街を歩いてみようかなと思ってます。",
+            "timestamp": "2022-09-14T11:30:32.474000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FH",
+            "text": "素敵な趣味になりそうですね。なんか、私も歩いてみたくなりました。",
+            "timestamp": "2022-09-14T11:30:52.681000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CK",
+            "text": "始めましょう！知らない街を歩きたいです！",
+            "timestamp": "2022-09-14T11:31:07.005000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FH",
+            "text": "そうですね。まずは、アプリを探すところから頑張ります！",
+            "timestamp": "2022-09-14T11:31:29.879000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CK",
+            "text": "私も精査してみます。",
+            "timestamp": "2022-09-14T11:31:45.472000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

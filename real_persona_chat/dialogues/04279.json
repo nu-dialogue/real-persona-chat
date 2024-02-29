@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4279,
+    "interlocutors": [
+        "DC",
+        "EO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DC",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-11T15:49:24.161000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EO",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-11T15:49:29.770000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DC",
+            "text": "好きな食べ物ってありますか？",
+            "timestamp": "2022-09-11T15:49:37.493000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EO",
+            "text": "飲み物ですが、カフェオレは毎日飲んでしまいます。。",
+            "timestamp": "2022-09-11T15:50:12.215000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DC",
+            "text": "おお、カフェオレ！美味しいですよね！甘いやつですか？",
+            "timestamp": "2022-09-11T15:50:34.469000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EO",
+            "text": "甘いやつです！シロップ1個がちょうどいいです",
+            "timestamp": "2022-09-11T15:50:57.791000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DC",
+            "text": "ふむふむ、私も甘いののが好きです！カフェとかもいきます？",
+            "timestamp": "2022-09-11T15:51:20.689000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EO",
+            "text": "いきますよ！先週友達とティラミス専門店へ行きました",
+            "timestamp": "2022-09-11T15:52:06.196000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DC",
+            "text": "ええ！？ティラミス専門店！すごい！",
+            "timestamp": "2022-09-11T15:52:19.155000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EO",
+            "text": "内装がすっごく可愛くて。映える写真が撮れました",
+            "timestamp": "2022-09-11T15:53:00.536000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DC",
+            "text": "ええー！ティラミスだけでも可愛いのに、店内も可愛いなんて！いいなぁ！",
+            "timestamp": "2022-09-11T15:53:22.680000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EO",
+            "text": "でしょうー！ただティラミスはちょっと私には甘過ぎたので、次からカフェオレだけでいいかな、、",
+            "timestamp": "2022-09-11T15:54:09.905000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DC",
+            "text": "あれ、ティラミスって、ちょっとほろ苦いのに。それはちょっと残念でしたね",
+            "timestamp": "2022-09-11T15:54:34.481000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EO",
+            "text": "種類が何個かあって、そのチョイスミスかも知れません",
+            "timestamp": "2022-09-11T15:55:06.733000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DC",
+            "text": "お、さすが専門店、そうか一種類じゃないのか！いいのが見つかるといいですね！",
+            "timestamp": "2022-09-11T15:55:28.388000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EO",
+            "text": "そうですね！また行ってみよう。甘いもの、どんなのがお好きですか？",
+            "timestamp": "2022-09-11T15:56:13.237000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DC",
+            "text": "甘いもの、私は和菓子系が多いかな。おはぎとか、お団子とか！",
+            "timestamp": "2022-09-11T15:56:32.916000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EO",
+            "text": "日本人ぽくていいですねえ！豆大福とか好きです！",
+            "timestamp": "2022-09-11T15:57:09.250000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DC",
+            "text": "豆大福もいいですね！あ、そうだ、それで抹茶ラテとかも大好きなんですよ！",
+            "timestamp": "2022-09-11T15:57:28.960000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EO",
+            "text": "抹茶もお好きなんですね！チョコとかアイスも抹茶派ですか？",
+            "timestamp": "2022-09-11T15:58:06.352000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DC",
+            "text": "そう、なので、<EO>さんのカフェオレと同じで、ついコンビニで抹茶ラテ毎日買っちゃうんです",
+            "timestamp": "2022-09-11T15:58:45.596000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EO",
+            "text": "そうなんですね！！キットカットの抹茶味とか美味しいですよねえ",
+            "timestamp": "2022-09-11T15:59:19.505000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DC",
+            "text": "わかりますー！春秋になると抹茶お菓子多くなるから嬉しいです",
+            "timestamp": "2022-09-11T15:59:41.592000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EO",
+            "text": "確かに。ある時期になると急に色々抹茶味出てきますよね！",
+            "timestamp": "2022-09-11T16:00:13.947000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DC",
+            "text": "ふふふ！ない時はないんですけどね。でも、カフェオレはだからすごくいいですよ！",
+            "timestamp": "2022-09-11T16:00:41.521000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EO",
+            "text": "常駐してくれてますからね！つい飲みすぎるという難点もありますが。。",
+            "timestamp": "2022-09-11T16:01:35.314000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、でもいろんな種類もあるし、大好きなら嬉しいことばっかり！",
+            "timestamp": "2022-09-11T16:02:00.495000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EO",
+            "text": "月のカフェオレ代、旦那には言えません",
+            "timestamp": "2022-09-11T16:02:20.878000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DC",
+            "text": "えっ、あ、そんなに。ふふふふふ。内緒です！！",
+            "timestamp": "2022-09-11T16:02:39.285000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EO",
+            "text": "一生内緒です！！",
+            "timestamp": "2022-09-11T16:02:59.022000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

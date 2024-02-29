@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8876,
+    "interlocutors": [
+        "BV",
+        "CM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T14:00:07.454000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-08T14:00:19.873000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "今日も暑いですね。",
+            "timestamp": "2022-08-08T14:00:32.847000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CM",
+            "text": "暑いですね、エアコンがないと生きていけない気がします。",
+            "timestamp": "2022-08-08T14:00:47.612000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "そうですよね。体調など大丈夫ですか？",
+            "timestamp": "2022-08-08T14:01:08.517000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CM",
+            "text": "幸い何事もなく過ごせています！",
+            "timestamp": "2022-08-08T14:01:33.458000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "そうですか！熱中症など心配ですよね。",
+            "timestamp": "2022-08-08T14:01:46.104000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CM",
+            "text": "今熱中症になると、余計病院の方にご迷惑をかけてしまいそうです。",
+            "timestamp": "2022-08-08T14:02:05.780000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "医療現場大変そうですもんね。",
+            "timestamp": "2022-08-08T14:02:32.761000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CM",
+            "text": "コロナの患者さんどんどん増えてますもんね。",
+            "timestamp": "2022-08-08T14:02:47.845000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "そうですよねー。怖いですね。",
+            "timestamp": "2022-08-08T14:03:12.454000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CM",
+            "text": "あなたは体調など大丈夫ですか？",
+            "timestamp": "2022-08-08T14:03:26.880000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "大丈夫ですが寝不足気味なのがしんどいです。",
+            "timestamp": "2022-08-08T14:04:06.771000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CM",
+            "text": "睡眠は大事ですもんね。暑いと余計寝苦しいですよね。",
+            "timestamp": "2022-08-08T14:04:25.678000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "本当蒸し暑くて眠れないです。",
+            "timestamp": "2022-08-08T14:04:44.092000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CM",
+            "text": "夜中にエアコンは使いますか？",
+            "timestamp": "2022-08-08T14:04:58.757000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "今、夜は扇風機使ってます。",
+            "timestamp": "2022-08-08T14:05:20.651000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CM",
+            "text": "エアコンの当たり過ぎもよくないですもんね。",
+            "timestamp": "2022-08-08T14:05:34.128000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "エアコンの風苦手なんですよね。",
+            "timestamp": "2022-08-08T14:05:50.039000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CM",
+            "text": "たまにいらっしゃいますよね、エアコン苦手な方って。",
+            "timestamp": "2022-08-08T14:06:08.758000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "体冷え過ぎる感じが苦手で。",
+            "timestamp": "2022-08-08T14:06:28.967000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CM",
+            "text": "確かに、私もエアコンでむくみがひどいんです。",
+            "timestamp": "2022-08-08T14:06:44.870000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "私もむくみやすい体質なんです。",
+            "timestamp": "2022-08-08T14:06:56.158000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CM",
+            "text": "脚がパンパンなところで蚊に刺されたりなんかするともう大変です！",
+            "timestamp": "2022-08-08T14:07:17.415000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "うわ、嫌ですね。私虫にもよく噛まれます。",
+            "timestamp": "2022-08-08T14:07:43.991000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CM",
+            "text": "血液型によって噛まれやすい人がいるんですよね。",
+            "timestamp": "2022-08-08T14:08:02.116000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "そうなんですか！",
+            "timestamp": "2022-08-08T14:08:09.516000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CM",
+            "text": "そうらしいですよ！噛まれやすい血液型があるんだそうです。",
+            "timestamp": "2022-08-08T14:08:25.052000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "虫からの人気は嫌ですね。",
+            "timestamp": "2022-08-08T14:08:43.755000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CM",
+            "text": "もっと嬉しい相手からの人気者になりたいですね！",
+            "timestamp": "2022-08-08T14:08:59.642000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

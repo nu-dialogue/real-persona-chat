@@ -1,0 +1,203 @@
+{
+    "dialogue_id": 12755,
+    "interlocutors": [
+        "FK",
+        "GP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-12T01:36:20.002000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GP",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-12T01:36:29.569000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "好きな動物はいますか？",
+            "timestamp": "2022-09-12T01:36:30.410000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GP",
+            "text": "ペンギンです",
+            "timestamp": "2022-09-12T01:36:48.373000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "ペンギン！めっちゃかわいいです！",
+            "timestamp": "2022-09-12T01:36:56.831000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GP",
+            "text": "そちらは何が好きですか？",
+            "timestamp": "2022-09-12T01:37:22.327000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "猫ちゃんだいすきです！",
+            "timestamp": "2022-09-12T01:37:30.267000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GP",
+            "text": "猫カフェとか行きますか？",
+            "timestamp": "2022-09-12T01:37:45.173000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "たまにいきますよ！！",
+            "timestamp": "2022-09-12T01:37:49.343000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GP",
+            "text": "いいですね",
+            "timestamp": "2022-09-12T01:38:02.498000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "めっちゃ癒されますね。",
+            "timestamp": "2022-09-12T01:38:10.255000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GP",
+            "text": "猫カフェのいいところはなんですか？",
+            "timestamp": "2022-09-12T01:38:34.340000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "至福の時間を過ごせることですね。",
+            "timestamp": "2022-09-12T01:38:42.605000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GP",
+            "text": "私も行ってみたいです",
+            "timestamp": "2022-09-12T01:38:54.129000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "ぜひぜひいってみてください。",
+            "timestamp": "2022-09-12T01:39:11.875000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GP",
+            "text": "いいところ探してみます",
+            "timestamp": "2022-09-12T01:39:20.176000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "近場にありそうです？？",
+            "timestamp": "2022-09-12T01:39:28.987000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GP",
+            "text": "近場にはないですねー",
+            "timestamp": "2022-09-12T01:39:48.633000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "あれま、地方お住まいですか？",
+            "timestamp": "2022-09-12T01:39:56.222000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GP",
+            "text": "そうですね。",
+            "timestamp": "2022-09-12T01:40:11.186000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "地方だとなかなかないかもですね",
+            "timestamp": "2022-09-12T01:40:18.630000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GP",
+            "text": "都心のほうが住むのに便利ですよ",
+            "timestamp": "2022-09-12T01:40:46.035000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "それはたしかに。",
+            "timestamp": "2022-09-12T01:40:50.505000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GP",
+            "text": "地方は住んでてあまり魅力を感じないですね",
+            "timestamp": "2022-09-12T01:41:12.496000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "やはりしんどいですか？",
+            "timestamp": "2022-09-12T01:41:15.822000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GP",
+            "text": "交通の便が良くないですね",
+            "timestamp": "2022-09-12T01:41:28.524000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "あーー電車とか少なそうですね",
+            "timestamp": "2022-09-12T01:41:39.165000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GP",
+            "text": "自家用車必須なんでだるいです",
+            "timestamp": "2022-09-12T01:41:59.384000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "いい所に住みたいですねーー",
+            "timestamp": "2022-09-12T01:42:02.008000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

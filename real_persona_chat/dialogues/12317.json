@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12317,
+    "interlocutors": [
+        "FQ",
+        "ER"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FQ",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-09-08T10:51:27.371000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ER",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-08T10:51:35.572000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FQ",
+            "text": "ペットを飼っていますか？",
+            "timestamp": "2022-09-08T10:52:06.561000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ER",
+            "text": "ウーパールーパーを飼っています",
+            "timestamp": "2022-09-08T10:52:16.296000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FQ",
+            "text": "ウーパールーパー！あのピンクのかわいい子ですね。",
+            "timestamp": "2022-09-08T10:52:39.457000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ER",
+            "text": "そうですね、うちの子はピンクですが、黄色とか黒とかもいますよ",
+            "timestamp": "2022-09-08T10:53:00.941000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FQ",
+            "text": "そうなんですか、ほかの色があるなんて知りませんでした。",
+            "timestamp": "2022-09-08T10:53:22.323000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ER",
+            "text": "あんまり有名な色ではないですね",
+            "timestamp": "2022-09-08T10:53:38.749000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FQ",
+            "text": "ピンクのイメージが強いです。",
+            "timestamp": "2022-09-08T10:54:01.207000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ER",
+            "text": "ウーパールーパーと言えばあの色ですものね",
+            "timestamp": "2022-09-08T10:54:17.869000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FQ",
+            "text": "どんな感じでお世話するんですか？",
+            "timestamp": "2022-09-08T10:54:39.337000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ER",
+            "text": "水はいつもキレイにしないといけないので、週1で水を替えてます",
+            "timestamp": "2022-09-08T10:55:01.599000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FQ",
+            "text": "水道水でいいんですか？",
+            "timestamp": "2022-09-08T10:55:16.292000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ER",
+            "text": "水道水にカルキ抜きの薬品を入れてます",
+            "timestamp": "2022-09-08T10:55:33.086000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FQ",
+            "text": "なるほど、薬品ですね。エサは何をあげるんですか？",
+            "timestamp": "2022-09-08T10:55:57.105000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ER",
+            "text": "つぶ餌とか赤虫、エビです",
+            "timestamp": "2022-09-08T10:56:35.056000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FQ",
+            "text": "生餌ですか？",
+            "timestamp": "2022-09-08T10:56:53.596000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ER",
+            "text": "いえ、凍らせたやつですね。",
+            "timestamp": "2022-09-08T10:57:04.002000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FQ",
+            "text": "上から落とすと食べるみたいな？",
+            "timestamp": "2022-09-08T10:57:24.516000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ER",
+            "text": "そうですね、落ちてても匂いでわかるのか食べてます",
+            "timestamp": "2022-09-08T10:57:49.578000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FQ",
+            "text": "臭覚が鋭いんですね。",
+            "timestamp": "2022-09-08T10:58:12.466000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ER",
+            "text": "その代わり目はあまりよくないみたいです",
+            "timestamp": "2022-09-08T10:58:25.578000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FQ",
+            "text": "目が離れた感じでしたっけ？",
+            "timestamp": "2022-09-08T10:58:41.102000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ER",
+            "text": "ですね。どこを見てるのかよくわかりませんが",
+            "timestamp": "2022-09-08T10:58:58.736000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FQ",
+            "text": "でも、見てると癒されそうです。",
+            "timestamp": "2022-09-08T10:59:23.104000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ER",
+            "text": "癒やされますよ。仕事の休憩中に眺めてます",
+            "timestamp": "2022-09-08T10:59:36.904000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FQ",
+            "text": "かわいいですもんね。時間たつの忘れそうです。",
+            "timestamp": "2022-09-08T11:00:04.129000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ER",
+            "text": "眺めているとあっという間に休憩が終わります。",
+            "timestamp": "2022-09-08T11:00:26.141000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FQ",
+            "text": "わかります、想像できます。",
+            "timestamp": "2022-09-08T11:00:44.844000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ER",
+            "text": "動画とか見かけたらぜひ見てみてください",
+            "timestamp": "2022-09-08T11:01:52.611000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

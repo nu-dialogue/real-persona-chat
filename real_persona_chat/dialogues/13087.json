@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13087,
+    "interlocutors": [
+        "GI",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T16:34:46.834000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T16:34:53.032000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "あなたは趣味ありますか？",
+            "timestamp": "2022-09-16T16:35:00.114000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "バドミントンが趣味です！",
+            "timestamp": "2022-09-16T16:35:11.101000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。昔やられていたとか？",
+            "timestamp": "2022-09-16T16:35:24.420000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "昔バドミントン部でその流れで続けていますね。",
+            "timestamp": "2022-09-16T16:35:41.376000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "なるほど。バドミントンというと、きついイメージがあります。",
+            "timestamp": "2022-09-16T16:36:00.838000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "めちゃくちゃきついです！",
+            "timestamp": "2022-09-16T16:36:13.147000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "大変ですよね。球が速いですし。",
+            "timestamp": "2022-09-16T16:36:27.179000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "一人だと大変なので、専らタブルスしかしなくなりました。",
+            "timestamp": "2022-09-16T16:37:11.466000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "ダブルスって、卓球と同じように交互に打つルールとかありますか？",
+            "timestamp": "2022-09-16T16:37:21.480000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "そういうのはないです！",
+            "timestamp": "2022-09-16T16:37:33.886000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。じゃあテニスと似てる感じか。",
+            "timestamp": "2022-09-16T16:37:53.076000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "確かにテニスと一緒です！",
+            "timestamp": "2022-09-16T16:38:07.885000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "私はテニスをしてたんですよ。何か変なルールってないんですか？",
+            "timestamp": "2022-09-16T16:38:36.738000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "テニスと違って、ダブルフォルトとかはないですね！",
+            "timestamp": "2022-09-16T16:39:05.423000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "何回でもサーブできるんですか？",
+            "timestamp": "2022-09-16T16:39:19.503000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "一回サーブミスしたら終わりです！",
+            "timestamp": "2022-09-16T16:39:32.333000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。緊張しちゃいそうです。",
+            "timestamp": "2022-09-16T16:39:49.135000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "試合終盤とかは手が震えちゃいます。",
+            "timestamp": "2022-09-16T16:40:03.704000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "そうですよね。これできまる！てときは特にやばそうです。",
+            "timestamp": "2022-09-16T16:40:45.464000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "テニスは暑さが大変そうです。",
+            "timestamp": "2022-09-16T16:41:07.975000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "暑いですね。最近はしていないのですが、今年の夏とかはすごそうですね。",
+            "timestamp": "2022-09-16T16:41:36.230000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "熱中症になったりとかしたことありますか？",
+            "timestamp": "2022-09-16T16:41:55.793000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "ないです。サークルでしてたので、日が沈んでやることが多かったからですね。",
+            "timestamp": "2022-09-16T16:42:26.528000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "たしかに日没してからなら多少は涼しいですもんね。",
+            "timestamp": "2022-09-16T16:42:57.528000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "そうですね。でもけがでいうなら、一度思いっきりひねって松葉杖生活しました。",
+            "timestamp": "2022-09-16T16:43:26.453000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "それは大変でしたね！",
+            "timestamp": "2022-09-16T16:43:41.113000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "今でもきつい運動すると痛むので、その日準備運動しなかったことを後悔します。",
+            "timestamp": "2022-09-16T16:44:15.119000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "準備運動大切ですね！",
+            "timestamp": "2022-09-16T16:44:26.538000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

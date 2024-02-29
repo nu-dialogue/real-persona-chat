@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12567,
+    "interlocutors": [
+        "FK",
+        "DC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-10T21:06:22.552000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DC",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-10T21:06:28.610000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "おなかすいてきました！",
+            "timestamp": "2022-09-10T21:06:32.048000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DC",
+            "text": "あれ、まだ食べてないんですか？",
+            "timestamp": "2022-09-10T21:06:40.026000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "まだなんですよ、、はらぺこです、、",
+            "timestamp": "2022-09-10T21:06:46.452000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DC",
+            "text": "あらあら、じゃあ何かすごく美味しいものを！",
+            "timestamp": "2022-09-10T21:06:58.130000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "麻婆豆腐作る予定です！",
+            "timestamp": "2022-09-10T21:07:02.229000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DC",
+            "text": "うわー！飯テロだ〜！！",
+            "timestamp": "2022-09-10T21:07:11.143000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "飯テロしちゃいました！",
+            "timestamp": "2022-09-10T21:07:22.643000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DC",
+            "text": "麻婆豆腐は深夜になればなるほど美味しい気がする",
+            "timestamp": "2022-09-10T21:07:33.297000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "深夜の美味しそうな飯は地獄ですね、いい意味で",
+            "timestamp": "2022-09-10T21:07:43.641000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DC",
+            "text": "じゃあ、もうちょと頑張りますか？もう3時間くらい我慢！",
+            "timestamp": "2022-09-10T21:07:58.064000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "むりです！！！！！！",
+            "timestamp": "2022-09-10T21:08:02.277000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、冗談です。",
+            "timestamp": "2022-09-10T21:08:10.446000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "我慢できないタイプです",
+            "timestamp": "2022-09-10T21:08:17.396000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DC",
+            "text": "えっと、じゃあ麻婆豆腐と、あと何が良いかな",
+            "timestamp": "2022-09-10T21:08:39.588000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "あ、僕より強欲な感じでてます、",
+            "timestamp": "2022-09-10T21:08:51.667000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DC",
+            "text": "ふふふ。だってせっかくのご飯だから、ご馳走にしたほうがいいですよ！",
+            "timestamp": "2022-09-10T21:09:08.463000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "たしかに！なんかいい感じの副菜食べたいですね",
+            "timestamp": "2022-09-10T21:09:16.768000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DC",
+            "text": "うーん、えっと、何かこう、お酒に合いそうなもの！",
+            "timestamp": "2022-09-10T21:09:34.110000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "お酒飲みたい気分なんですか！",
+            "timestamp": "2022-09-10T21:09:43.127000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DC",
+            "text": "あ！そうだ、ビールが一番合いますよ！麻婆豆腐！",
+            "timestamp": "2022-09-10T21:09:54.631000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "いいですね、お酒強い方ですか？",
+            "timestamp": "2022-09-10T21:10:02.597000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DC",
+            "text": "いえ、それほど強くはないですが、好きです。",
+            "timestamp": "2022-09-10T21:10:14.731000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "僕もげきよわですが、すきです。おいしいですよね",
+            "timestamp": "2022-09-10T21:10:34.011000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DC",
+            "text": "もし明日お休みなら、飲んじゃったらどうですか？",
+            "timestamp": "2022-09-10T21:10:52.665000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "そうですね、なんか買ってこようかな！",
+            "timestamp": "2022-09-10T21:11:03.212000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、お夜食、いい感じに飯テロになりそうですね！",
+            "timestamp": "2022-09-10T21:11:20.460000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "レモンサワーの気分です！！",
+            "timestamp": "2022-09-10T21:11:24.133000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DC",
+            "text": "お、すごく合いそう！お気をつけて買ってきてくださいね！",
+            "timestamp": "2022-09-10T21:11:43.634000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

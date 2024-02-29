@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 853,
+    "interlocutors": [
+        "AH",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T23:12:13.992000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T23:12:20.540000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "熱中症対策などはしますか？",
+            "timestamp": "2022-08-10T23:12:28.615000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "塩分取るとかですかね。",
+            "timestamp": "2022-08-10T23:12:45.596000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "熱中症には塩分も大切と言いますからね。",
+            "timestamp": "2022-08-10T23:13:03.766000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "はい。おやつ感覚で梅干しを食べてます。",
+            "timestamp": "2022-08-10T23:13:19.565000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "梅干し私も好きです！",
+            "timestamp": "2022-08-10T23:13:27.239000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "美味しいですよね！はちみつのやつが好きです。",
+            "timestamp": "2022-08-10T23:13:49.994000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "甘酸っぱい感じなのでしょうか。私も食べてみたい！",
+            "timestamp": "2022-08-10T23:14:07.104000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "郵便局のお中元？みたいなやつが結構甘くて美味しいですよ！",
+            "timestamp": "2022-08-10T23:14:40.378000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "郵便局ってあまり行かないので知りませんでした！",
+            "timestamp": "2022-08-10T23:15:05.115000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "ちょっと高いんですけど、美味しいので是非食べてみてください。",
+            "timestamp": "2022-08-10T23:15:28.542000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "はい、今度郵便局で探してみます！",
+            "timestamp": "2022-08-10T23:15:38.935000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "私は最初もらったんですけど、美味しいので自分でも買っちゃいます。",
+            "timestamp": "2022-08-10T23:16:06.986000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "リピートするほど美味しいのですね！",
+            "timestamp": "2022-08-10T23:16:19.345000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "はい。あなたは何か熱中症対策とかしてますか？",
+            "timestamp": "2022-08-10T23:17:00.203000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "水をたくさん飲むくらいです。",
+            "timestamp": "2022-08-10T23:17:10.336000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "あ、さっき聞きましたね。",
+            "timestamp": "2022-08-10T23:17:30.686000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "そうでしたっけ？",
+            "timestamp": "2022-08-10T23:17:41.319000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "確か聞いたと思います。すいません。",
+            "timestamp": "2022-08-10T23:18:04.614000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "いえいえ。熱中症は怖いので一応対策しています。",
+            "timestamp": "2022-08-10T23:18:29.773000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "怖いですよね。私は貧血気味なのでとり気をつけないと。",
+            "timestamp": "2022-08-10T23:19:07.556000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "いきなり倒れたりとかしたら怖いです。",
+            "timestamp": "2022-08-10T23:19:25.039000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "周りの友達でなってる人見たことありますか？",
+            "timestamp": "2022-08-10T23:19:47.742000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "みたことないですね。",
+            "timestamp": "2022-08-10T23:19:57.432000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "なんか、唇真っ青になるらしいです。",
+            "timestamp": "2022-08-10T23:20:19.041000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "真っ青ってかなり異常事態だと思います。",
+            "timestamp": "2022-08-10T23:20:48.838000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "気をつけてみてみてください。",
+            "timestamp": "2022-08-10T23:21:20.169000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "はい、私も気をつけます！",
+            "timestamp": "2022-08-10T23:21:26.639000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "お互い気をつけましょう！",
+            "timestamp": "2022-08-10T23:21:41.498000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

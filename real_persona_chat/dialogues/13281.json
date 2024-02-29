@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13281,
+    "interlocutors": [
+        "GN",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T17:09:59.278000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんにちは",
+            "timestamp": "2022-09-19T17:10:05.135000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GN",
+            "text": "お昼ご飯何食べましたか",
+            "timestamp": "2022-09-19T17:10:07.113000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "筑前煮とご飯です",
+            "timestamp": "2022-09-19T17:10:19.579000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GN",
+            "text": "いいですね、和風で",
+            "timestamp": "2022-09-19T17:10:23.556000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "野菜をとろうと思いまして",
+            "timestamp": "2022-09-19T17:10:38.097000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GN",
+            "text": "野菜だいじですよね",
+            "timestamp": "2022-09-19T17:10:41.815000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "意識しないと取らなくなりがちですよね",
+            "timestamp": "2022-09-19T17:10:58.058000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GN",
+            "text": "わかります",
+            "timestamp": "2022-09-19T17:11:08.719000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "あなたはお昼何でしたか？",
+            "timestamp": "2022-09-19T17:11:25.242000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GN",
+            "text": "シチューでした",
+            "timestamp": "2022-09-19T17:11:29.833000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "いいですね！自分で作られたんですか？",
+            "timestamp": "2022-09-19T17:11:45.264000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GN",
+            "text": "自炊です！",
+            "timestamp": "2022-09-19T17:11:49.053000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "自炊よくされるんですか？",
+            "timestamp": "2022-09-19T17:12:07.157000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GN",
+            "text": "しますよ！",
+            "timestamp": "2022-09-19T17:12:12.306000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "よく作るのは何ですか？",
+            "timestamp": "2022-09-19T17:12:22.395000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GN",
+            "text": "中華ですかね！",
+            "timestamp": "2022-09-19T17:12:26.236000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "中華もいいですよね。クックドゥとかも使います？",
+            "timestamp": "2022-09-19T17:12:49.149000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GN",
+            "text": "それは使わないです！",
+            "timestamp": "2022-09-19T17:12:53.469000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "味付けはご自分でされるんですか？",
+            "timestamp": "2022-09-19T17:13:04.200000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GN",
+            "text": "そうです、調味料使って",
+            "timestamp": "2022-09-19T17:13:07.473000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "調味料使って味がばっちり決められるの羨ましいです",
+            "timestamp": "2022-09-19T17:13:20.760000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GN",
+            "text": "てきとうですよ！",
+            "timestamp": "2022-09-19T17:13:25.201000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "それでちゃんとできるのがすごいですね！",
+            "timestamp": "2022-09-19T17:13:36.703000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GN",
+            "text": "ありがとうございます！",
+            "timestamp": "2022-09-19T17:13:42.900000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "私はついクックドゥとかにたよりがちです",
+            "timestamp": "2022-09-19T17:13:57.059000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GN",
+            "text": "それでもいいじゃないですかー",
+            "timestamp": "2022-09-19T17:14:03.577000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "美味しければ最終的にOKですよね！",
+            "timestamp": "2022-09-19T17:14:14.138000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GN",
+            "text": "つくるだけえらいです！",
+            "timestamp": "2022-09-19T17:14:17.852000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "ありがとうございます！",
+            "timestamp": "2022-09-19T17:14:25.497000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

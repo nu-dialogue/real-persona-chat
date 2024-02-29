@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8387,
+    "interlocutors": [
+        "BS",
+        "ET"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "初めまして！",
+            "timestamp": "2022-08-08T10:31:28.669000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ET",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-08T10:31:36.581000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "好きな食べ物はありますか？",
+            "timestamp": "2022-08-08T10:31:52.605000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ET",
+            "text": "全般的に辛い物が好きですね。酒飲みなので。",
+            "timestamp": "2022-08-08T10:32:07.678000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！毎日晩酌されますか？",
+            "timestamp": "2022-08-08T10:32:28.047000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ET",
+            "text": "実はしちゃってます！深く眠れない理由だと知りつつも、、",
+            "timestamp": "2022-08-08T10:32:42.236000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "楽しそうです。何を飲まれるんですか？",
+            "timestamp": "2022-08-08T10:33:11.179000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ET",
+            "text": "色々ですね。昨日はチューハイでした。",
+            "timestamp": "2022-08-08T10:33:27.596000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "チューハイも最近色んな種類があっていいですよね。途中で飲み物変えたりはしないですか？",
+            "timestamp": "2022-08-08T10:34:20.167000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ET",
+            "text": "そこまで飲まないんですよ。一杯程度かな。あとチャンポンすると翌日頭が痛くて。",
+            "timestamp": "2022-08-08T10:34:43.976000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね、一杯程度なら適量で健康的ですね！何のお酒が一番お好きですか？",
+            "timestamp": "2022-08-08T10:35:26.537000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ET",
+            "text": "沢山飲めるし好きだから酒飲みと言っちゃいましたけどね！えー、なんだろう。考えます。",
+            "timestamp": "2022-08-08T10:35:52.901000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "悩みますねー。私は普段は飲まなくて、人と会う時とか外でだけ飲むタイプです。",
+            "timestamp": "2022-08-08T10:36:41.059000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ET",
+            "text": "ロゼワインが好きです！ちょっと高いので普段は飲まないですけど。外ではあなたも飲まれるんですね。",
+            "timestamp": "2022-08-08T10:37:05.489000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "ロゼワインいいですね！合わせるならチーズでしょうか。",
+            "timestamp": "2022-08-08T10:37:30.074000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ET",
+            "text": "ですね。最近は「ワインにあうチーズ」なんて名前のチーズも売ってますね。",
+            "timestamp": "2022-08-08T10:37:49.520000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "え、そうなんですね！初めて聞きました！",
+            "timestamp": "2022-08-08T10:38:06.932000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ET",
+            "text": "美味しかったですよ。スーパーでたまたま見かけたんですが。",
+            "timestamp": "2022-08-08T10:38:39.717000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "スーパーで買えるんですね。どんな感じのチーズでしたか？",
+            "timestamp": "2022-08-08T10:39:32.647000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ET",
+            "text": "少し甘みを感じましたね。あとつまみやすいように、一つまみサイズになってました。",
+            "timestamp": "2022-08-08T10:39:57.564000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "優しい仕様になってるんですね。チーズだけでも食べてみたくなってきました。",
+            "timestamp": "2022-08-08T10:40:35.622000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ET",
+            "text": "今日はおつまみがないので、このあと買い物に行ってきます。",
+            "timestamp": "2022-08-08T10:40:55.149000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "いいですね！好きなおつまみはありますか？",
+            "timestamp": "2022-08-08T10:41:15.537000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ET",
+            "text": "スモークサーモンとか大好きですね。お高いので週末だけと決めてますが！",
+            "timestamp": "2022-08-08T10:41:33.111000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "間違いなく美味しい！確かに常時は食べられないですね。。",
+            "timestamp": "2022-08-08T10:42:11.498000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ET",
+            "text": "昼間にしんどいことがあっても、夜の一杯を楽しみに頑張れます。",
+            "timestamp": "2022-08-08T10:42:26.508000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "そうですね。ほっと一息できて、リセットされますよね。",
+            "timestamp": "2022-08-08T10:43:01.197000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ET",
+            "text": "本当は飲まないのが健康的なんですけどね！",
+            "timestamp": "2022-08-08T10:43:24.770000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "少しなら適量なので、無問題です！",
+            "timestamp": "2022-08-08T10:43:44.680000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ET",
+            "text": "一杯だけなので許して貰います！",
+            "timestamp": "2022-08-08T10:43:55.261000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

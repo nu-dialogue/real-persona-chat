@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2720,
+    "interlocutors": [
+        "ES",
+        "ER"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ES",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-23T15:55:16.183000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ER",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-08-23T15:55:30.019000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ES",
+            "text": "今なにか新しい趣味を探しているのですが、なにかお好きなことはありますか？",
+            "timestamp": "2022-08-23T15:56:25.165000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ER",
+            "text": "楽器を演奏するのが好きです。",
+            "timestamp": "2022-08-23T15:56:37.583000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ES",
+            "text": "すごい、どんな楽器ですか？",
+            "timestamp": "2022-08-23T15:57:07.273000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ER",
+            "text": "ベースをやっています。",
+            "timestamp": "2022-08-23T15:57:17.107000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ES",
+            "text": "ベースいいですね！教室などに通っているのですか？",
+            "timestamp": "2022-08-23T15:57:33.574000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ER",
+            "text": "いえ、youtubeで練習動画を見ながら練習しています。",
+            "timestamp": "2022-08-23T15:57:52.452000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ES",
+            "text": "独学ですか？すごいですね、YouTubeにそんな使い方があったなんて。",
+            "timestamp": "2022-08-23T15:58:47.238000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ER",
+            "text": "youtubeに結構練習方法や楽譜があったりしますよ。私も便利になったなと思いました。",
+            "timestamp": "2022-08-23T15:59:31.261000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ES",
+            "text": "教室に通ったりするより、自由でいいですね。なぜベースをしようと思ったのですか？",
+            "timestamp": "2022-08-23T16:00:07.646000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ER",
+            "text": "友人でギターとドラムをやっている人がいたので、じゃあ…という感じですね。",
+            "timestamp": "2022-08-23T16:00:34.915000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ES",
+            "text": "バンド組めますね！",
+            "timestamp": "2022-08-23T16:00:50.592000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ER",
+            "text": "そうなんですよ！ここで私がベースを練習すればバンドができると思って始めました。",
+            "timestamp": "2022-08-23T16:01:16.279000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ES",
+            "text": "バンド憧れます。ボーカルも兼任ですか？",
+            "timestamp": "2022-08-23T16:01:52.238000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ER",
+            "text": "いえ、ボーカルはまた別の友人に頼みました。",
+            "timestamp": "2022-08-23T16:03:02.758000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ES",
+            "text": "じゃあ完璧ですね！楽器ってストレス解消にもなりそうだし、いいですね。",
+            "timestamp": "2022-08-23T16:03:33.010000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ER",
+            "text": "賃貸なのでヘッドフォンで音を聞いていますが、思いっきり音を鳴らすとストレス解消になります。",
+            "timestamp": "2022-08-23T16:04:12.740000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ES",
+            "text": "ヘッドフォンでもできるって便利ですね。私は管楽器をしたいのですが、賃貸なので場所借りなきゃですね。",
+            "timestamp": "2022-08-23T16:05:15.562000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ER",
+            "text": "管楽器は音が漏れてしまいますからね。",
+            "timestamp": "2022-08-23T16:05:32.254000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ES",
+            "text": "そうですね、なかなか踏み出せていないです。",
+            "timestamp": "2022-08-23T16:05:58.773000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ER",
+            "text": "個人練だったら安くなるスタジオもありますから、そういう所があるといいですね。",
+            "timestamp": "2022-08-23T16:06:28.900000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ES",
+            "text": "そんなスタジオがあるんですね！練習したらぜひバンドに参加させてください。",
+            "timestamp": "2022-08-23T16:07:36.317000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ER",
+            "text": "いいですね！管楽器があるととても映えますし！何の管楽器をやりたいんですか？",
+            "timestamp": "2022-08-23T16:09:12.983000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ES",
+            "text": "トランペットが気になっています。やっぱり華やかな感じがして。",
+            "timestamp": "2022-08-23T16:09:48.281000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ER",
+            "text": "トランペットいいですね。どんな曲をやってみたいとかありますか？",
+            "timestamp": "2022-08-23T16:10:27.693000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ES",
+            "text": "定番の名曲を吹けるようになりたいです。名曲はかっこいいですよね。",
+            "timestamp": "2022-08-23T16:11:17.557000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ER",
+            "text": "そうですね。一人で吹いても聞いてる人はおお！と思いますよね",
+            "timestamp": "2022-08-23T16:11:49.625000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ES",
+            "text": "そうですね、ぜひまた音楽のお話しましょう！",
+            "timestamp": "2022-08-23T16:12:11.040000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ER",
+            "text": "はい！ありがとうございました！",
+            "timestamp": "2022-08-23T16:12:47.910000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ES",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3020,
+    "interlocutors": [
+        "CE",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-25T10:19:47.406000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T10:19:53.928000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "お昼ごはん何にするか決めてますか？",
+            "timestamp": "2022-08-25T10:20:07.028000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "まだ決めていません",
+            "timestamp": "2022-08-25T10:20:14.185000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "なるほど。今の気分としては何系とかありますか？",
+            "timestamp": "2022-08-25T10:20:38.698000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "どうしよう。おすすめありますか？",
+            "timestamp": "2022-08-25T10:20:54.463000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "私は今日のお昼は和食にしようかなと思ってて。和食お好きですか？",
+            "timestamp": "2022-08-25T10:21:19.114000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "和食好きです。",
+            "timestamp": "2022-08-25T10:21:30.747000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "よかったです。最近ハンバーグとか洋食多かったので、今日はサバの味噌煮のレトルト買いました。",
+            "timestamp": "2022-08-25T10:22:07.747000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "さばは塩焼き定食ってイメージ強いです。",
+            "timestamp": "2022-08-25T10:22:34.640000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "塩焼きもおいしそうだなと思ったんですが、歯の矯正しててなるべく柔らかいものにしようかなと。",
+            "timestamp": "2022-08-25T10:23:32.149000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "レトルトは最近どんどん美味しくなってきてますしね。",
+            "timestamp": "2022-08-25T10:24:03.796000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "レトルトおいしいですよね。無印のカレーとか種類も豊富ですごいです。",
+            "timestamp": "2022-08-25T10:24:31.089000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "無印は豊富なラインアップですよね",
+            "timestamp": "2022-08-25T10:24:50.193000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "カレー全種類食べてみたいなと思っても、数が多すぎて到底追い付かないです。",
+            "timestamp": "2022-08-25T10:25:21.750000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "そんなに多いのですか！",
+            "timestamp": "2022-08-25T10:25:36.382000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "30種類くらいは絶対あると思います！でも期間限定や復刻とかもあるので、その数はすごいことに。",
+            "timestamp": "2022-08-25T10:26:14.191000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "毎日食べたら1ヶ月カレーのみですね笑",
+            "timestamp": "2022-08-25T10:26:43.571000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "本当ですね！でも結構凝ってるものが多くて、見たことがない名前のカレーもあったりします。",
+            "timestamp": "2022-08-25T10:27:14.890000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "値段もいろいろありますか？",
+            "timestamp": "2022-08-25T10:27:31.769000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "多分1パック300円前後だと思いますよ。そんなにものによって値段の差はなかった気がします。",
+            "timestamp": "2022-08-25T10:28:12.432000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "今度試してます",
+            "timestamp": "2022-08-25T10:28:32.667000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "ぜひ。うなぎまきとキンパもおすすめです。",
+            "timestamp": "2022-08-25T10:28:50.276000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "キンパってなんですか？",
+            "timestamp": "2022-08-25T10:29:09.846000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "日本の太巻きみたいなやつなんですが、酢飯じゃないんですよ。ごま油が効いてます。",
+            "timestamp": "2022-08-25T10:29:39.988000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "それは美味しそうですね",
+            "timestamp": "2022-08-25T10:29:55.447000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "食欲が進みますよ。冷凍で売られてるんですが、レンチンで食べられます。",
+            "timestamp": "2022-08-25T10:30:21.838000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "便利なのでこれも挑戦してみます！",
+            "timestamp": "2022-08-25T10:30:42.912000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "ぜひ！お話ありがとうございました！",
+            "timestamp": "2022-08-25T10:30:51.321000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "お昼が楽しみになりました。ありがとうございました！",
+            "timestamp": "2022-08-25T10:31:09.072000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

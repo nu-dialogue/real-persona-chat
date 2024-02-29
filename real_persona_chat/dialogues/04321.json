@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4321,
+    "interlocutors": [
+        "FP",
+        "BR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FP",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-10T21:02:14.635000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！こちらこそよろしくお願いします！",
+            "timestamp": "2022-09-10T21:02:23.666000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FP",
+            "text": "もうこんばんはでしたね。",
+            "timestamp": "2022-09-10T21:02:34.960000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BR",
+            "text": "たしかにですね！今日月見えました？",
+            "timestamp": "2022-09-10T21:02:48.715000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FP",
+            "text": "まだ見てないです！中秋の名月ですね！綺麗ですか？",
+            "timestamp": "2022-09-10T21:03:07.232000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BR",
+            "text": "まだのぼってくるところ見ましたが、すごく大きかったです！",
+            "timestamp": "2022-09-10T21:03:34.758000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FP",
+            "text": "うわーいいですね！あとで見てきます！",
+            "timestamp": "2022-09-10T21:04:13.329000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BR",
+            "text": "ぜひぜひ！母が見たときは雲に隠れてたと言ってましたが、たぶんまた見えるんじゃないかな？",
+            "timestamp": "2022-09-10T21:04:38.606000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FP",
+            "text": "お月見のお団子とか食べたくなっちゃいますね。",
+            "timestamp": "2022-09-10T21:05:13.331000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BR",
+            "text": "ですね～。もう空気が秋めいてきましたし、食欲の秋が出てきました。",
+            "timestamp": "2022-09-10T21:05:36.832000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FP",
+            "text": "ミスドの季節限定が気になります！",
+            "timestamp": "2022-09-10T21:05:55.140000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BR",
+            "text": "もしやミツイモドですか？",
+            "timestamp": "2022-09-10T21:06:11.110000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FP",
+            "text": "確かそうです！さつまいものお菓子が気になる季節ですねー！",
+            "timestamp": "2022-09-10T21:06:47.844000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BR",
+            "text": "ですね！あれ、いくつか食べましたが、おいしかったですよ！",
+            "timestamp": "2022-09-10T21:07:00.239000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FP",
+            "text": "ほんとですか！羨ましいですー近くにミスドがなかなかなくて。",
+            "timestamp": "2022-09-10T21:07:33.259000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね。それは大変です。",
+            "timestamp": "2022-09-10T21:07:48.301000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FP",
+            "text": "カボチャや栗のお菓子も気になりますね！",
+            "timestamp": "2022-09-10T21:08:10.751000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BR",
+            "text": "いいですね！昨日は栗の何かを食べるといい日だったとか。何か召し上がりました？",
+            "timestamp": "2022-09-10T21:08:26.414000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FP",
+            "text": "そういう日があるんですか！何も食べれませんでしたー！食べました？",
+            "timestamp": "2022-09-10T21:08:58.483000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BR",
+            "text": "いえ。私も食べられませんでした。",
+            "timestamp": "2022-09-10T21:09:07.194000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FP",
+            "text": "お菓子はよく食べますか？",
+            "timestamp": "2022-09-10T21:09:30.771000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BR",
+            "text": "はい。食べる方だと思います。あなたはいかがですか？",
+            "timestamp": "2022-09-10T21:09:48.943000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FP",
+            "text": "コンビニスイーツとかついつい買っちゃいます。",
+            "timestamp": "2022-09-10T21:10:10.751000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BR",
+            "text": "あぁわかります。気になるものは試してみたくなります。",
+            "timestamp": "2022-09-10T21:10:22.320000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FP",
+            "text": "たくさん食べると良くないので気をつけてはいますが、気になると買っちゃいますね！",
+            "timestamp": "2022-09-10T21:10:49.396000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。カヌレのお菓子は何回か連続で買っちゃいましたね。",
+            "timestamp": "2022-09-10T21:11:06.721000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FP",
+            "text": "カヌレ今人気ですね！実は食べたことないです。",
+            "timestamp": "2022-09-10T21:11:31.636000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！本格的なものと、お菓子と比べると面白いかもです！",
+            "timestamp": "2022-09-10T21:14:37.590000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FP",
+            "text": "わあ、そうなんですね。今度挑戦してみます！",
+            "timestamp": "2022-09-10T21:12:10.972000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BR",
+            "text": "ぜひ！お話ありがとうございました！！",
+            "timestamp": "2022-09-10T21:12:18.340000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FP",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

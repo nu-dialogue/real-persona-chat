@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12151,
+    "interlocutors": [
+        "FF",
+        "DL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T20:22:11.315000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DL",
+            "text": "こんばんわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-03T20:22:19.101000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "何か好きな物、ことありますか？",
+            "timestamp": "2022-09-03T20:22:27.703000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DL",
+            "text": "最近、お菓子を作るのにハマっています。",
+            "timestamp": "2022-09-03T20:22:40.499000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "おぉ、お菓子ですか。全然経験がありませんがどんなものを？",
+            "timestamp": "2022-09-03T20:22:55.525000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DL",
+            "text": "今日はチョコケーキを作りました。思っている以上に簡単にできますよ。",
+            "timestamp": "2022-09-03T20:23:19.081000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "妻がたまに作ってくれますが、中々手間がかかりませんか？",
+            "timestamp": "2022-09-03T20:23:35.492000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DL",
+            "text": "難しい物もありますが、私が作った物は、1時間もかからなかったりします。レンジのみでオッケーです。",
+            "timestamp": "2022-09-03T20:24:07.927000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "なるほど、手伝った事があるものはバターを混ぜるのが大変でした。",
+            "timestamp": "2022-09-03T20:24:30.589000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DL",
+            "text": "お菓子作りって結構体力が必要なんですよ。奥様の料理を手伝われるのですか！？",
+            "timestamp": "2022-09-03T20:24:55.120000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "えぇ、時間がある時など一緒にやりますよ。上手でもないですが。",
+            "timestamp": "2022-09-03T20:25:17.084000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DL",
+            "text": "いえいえ、一緒にやろうと言う気持ちだけで凄く嬉しいと思いますよ！<FF>さんご自身は何か得意なお料理とかはありますか？",
+            "timestamp": "2022-09-03T20:25:44.056000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "ありがとうございます。いや、全くないですがその一緒に作ったカプレーゼ？はなんとなく覚えましたね。",
+            "timestamp": "2022-09-03T20:26:19.648000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DL",
+            "text": "なんとなくでも素晴らしいですよ！一度1人で作られたら、奥様びっくりするんじゃないですか？",
+            "timestamp": "2022-09-03T20:26:55.026000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "いいですね。驚かせてみるのも楽しそうです。テレビで見たレシピですし検索すれば見つけれそうです。",
+            "timestamp": "2022-09-03T20:27:26.949000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DL",
+            "text": "ちなみに、お料理や家事は全て奥様がやられているのですか？それとも分担制とかですか？",
+            "timestamp": "2022-09-03T20:27:49.808000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "基本的には妻ですね、今は専業でやってくれてますので。",
+            "timestamp": "2022-09-03T20:28:15.437000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DL",
+            "text": "それはありがたいですね。お仕事に専念出来ている感じですね！",
+            "timestamp": "2022-09-03T20:28:50.136000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "はい。コロナ以降は昼ご飯くらいは私がやることもままありますね。一品者の男の料理ですが。",
+            "timestamp": "2022-09-03T20:29:17.033000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DL",
+            "text": "おぉ！その時は何を作られました！？",
+            "timestamp": "2022-09-03T20:29:39.688000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "焼きそばとか、チャーハンみたいなものですね。簡単な奴です。",
+            "timestamp": "2022-09-03T20:30:04.162000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DL",
+            "text": "いえいえ、作ったと言う事実が大事ですよ！料理を作るのは楽しかったですか？",
+            "timestamp": "2022-09-03T20:30:29.655000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "嫌いではないですね！ただ、生協なんかのキットの方が助かります。",
+            "timestamp": "2022-09-03T20:30:57.868000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DL",
+            "text": "あぁ！あれはあらかじめ素材等がまとめられている物でしたっけ？便利そうなイメージがありますね。",
+            "timestamp": "2022-09-03T20:31:27.381000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "そうです。まともに作れるのはカレーや焼きそば、チャーハンとか、あ、みそ汁もわかりますね。",
+            "timestamp": "2022-09-03T20:31:57.214000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DL",
+            "text": "素晴らしいです！何も出来ないと言うか、やらないと言われる方もいますので、私個人としては、作られる方全般を尊敬していますね。",
+            "timestamp": "2022-09-03T20:32:51.297000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "ありがとうございます。子供のこともあるのでレトルトばかりって訳にも行きませんしね！",
+            "timestamp": "2022-09-03T20:33:16.085000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DL",
+            "text": "ですね。ウチも子供がいますが、好き嫌いの多さに手こずってます。",
+            "timestamp": "2022-09-03T20:33:49.598000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "それはどこのお宅も同じですね！",
+            "timestamp": "2022-09-03T20:34:04.523000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DL",
+            "text": "ですね。お互い頑張りましょう！",
+            "timestamp": "2022-09-03T20:34:17.675000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

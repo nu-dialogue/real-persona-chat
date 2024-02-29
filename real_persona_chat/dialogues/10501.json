@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10501,
+    "interlocutors": [
+        "CX",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんばんは。よろしくお願いします。",
+            "timestamp": "2022-08-13T20:20:01.661000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-13T20:23:03.589000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "今日は何してお過ごしでしたか？",
+            "timestamp": "2022-08-13T20:23:23.525000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "体の調子が悪かったので、病院へいきました",
+            "timestamp": "2022-08-13T20:23:44.992000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "あら。もう体調は戻られましたか？",
+            "timestamp": "2022-08-13T20:24:03.734000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "なんとか、大丈夫そうです",
+            "timestamp": "2022-08-13T20:24:23.340000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "そうですか、どうかお大事になさってください。",
+            "timestamp": "2022-08-13T20:24:37.602000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "はい、ありがとうございます。",
+            "timestamp": "2022-08-13T20:24:45.489000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "そちらは今日も暑いですか？",
+            "timestamp": "2022-08-13T20:24:57.799000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "今日は、雨がふっていたので、涼しかったですよ。",
+            "timestamp": "2022-08-13T20:25:21.250000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "そうだったんですね。こちらは晴天で暑かったです。",
+            "timestamp": "2022-08-13T20:25:43.189000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、晴天でしたか、それは暑そうですね",
+            "timestamp": "2022-08-13T20:26:07.388000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "大雨が降ったかと思えば、熱中症並みの晴天で大変です。",
+            "timestamp": "2022-08-13T20:26:30.032000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "台風が来てますので、天気があべこべですね",
+            "timestamp": "2022-08-13T20:26:56.010000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "そうですね。暑さやら台風やら気候の変化で体調が狂います。",
+            "timestamp": "2022-08-13T20:27:19.313000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "暑い日はどう過ごされますか？",
+            "timestamp": "2022-08-13T20:27:40.191000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "扇風機回して、比較的涼しい部屋にこもっています。",
+            "timestamp": "2022-08-13T20:27:58.746000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、それは良いですね。エアコンは入れないのですか？",
+            "timestamp": "2022-08-13T20:28:26.332000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "北海道住みなので基本は要らないんです。でもこの何年かはエアコンの必要性を感じます。",
+            "timestamp": "2022-08-13T20:28:54.422000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "北海道にいるのですね、それなら不要ですかね。そうですね、酷暑が続くので無理はなさらず使用した方が良いですね。",
+            "timestamp": "2022-08-13T20:29:56.857000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "今年は何とか乗り切って、来年はいよいよ導入しようかなと。",
+            "timestamp": "2022-08-13T20:30:24.333000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、快適になりますね",
+            "timestamp": "2022-08-13T20:30:46.891000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "そうですね、冬用の装備はしっかりできてるので、夏がうまくすごせれば。",
+            "timestamp": "2022-08-13T20:31:14.854000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "ですね。夏によく食べる物はありますか？",
+            "timestamp": "2022-08-13T20:31:48.291000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "冷やし中華とかですかね。",
+            "timestamp": "2022-08-13T20:32:01.446000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "そうですよね、冷麺系は僕もよく食べます。",
+            "timestamp": "2022-08-13T20:32:35.421000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "暑い時期はつるっと入る麺類に頼ります。",
+            "timestamp": "2022-08-13T20:32:49.806000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、麺はすぐ食べれるので重宝してます",
+            "timestamp": "2022-08-13T20:33:34.289000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "あと野菜とかも冷麺とかと合わせると結構食べやすいので、夏はそうやって栄養をとります。",
+            "timestamp": "2022-08-13T20:34:05.222000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "夏野菜は、おすすめですね！",
+            "timestamp": "2022-08-13T20:34:32.350000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

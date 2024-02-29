@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8491,
+    "interlocutors": [
+        "CQ",
+        "IF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-05T18:59:53.762000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IF",
+            "text": "こちらこそ、よろしくお願いいたします！",
+            "timestamp": "2022-08-05T18:59:47.802000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "晩御飯は、召し上がられましたか？",
+            "timestamp": "2022-08-05T19:00:13.343000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IF",
+            "text": "はい、今日は手抜きで卵かけごはんでした。",
+            "timestamp": "2022-08-05T19:00:29.863000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "卵かけごはんだったのですね、私はまだ食べてないです",
+            "timestamp": "2022-08-05T19:00:53.171000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IF",
+            "text": "そうなんですね、献立はもうお決まりですか？",
+            "timestamp": "2022-08-05T19:01:07.970000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "母が作るので、メニューは周知されてないです",
+            "timestamp": "2022-08-05T19:01:35.645000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IF",
+            "text": "お楽しみ感があっていいですね。",
+            "timestamp": "2022-08-05T19:01:50.377000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、何が出るか楽しみです",
+            "timestamp": "2022-08-05T19:02:06.986000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IF",
+            "text": "ちなみにお昼は何を召し上がりましたか？",
+            "timestamp": "2022-08-05T19:02:19.875000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "ひるは、そばを食べました",
+            "timestamp": "2022-08-05T19:02:30.161000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IF",
+            "text": "さっぱりしていていいですね、お蕎麦。私もお蕎麦をよく食べます。",
+            "timestamp": "2022-08-05T19:02:56.155000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "蕎麦だと、冷たいのがお好きですか？私は冷たいのばかり食べてます",
+            "timestamp": "2022-08-05T19:03:44.627000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IF",
+            "text": "私もです、夏は冷たいお蕎麦がいいです。",
+            "timestamp": "2022-08-05T19:04:34.040000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "好きな食べ物は何ですか？",
+            "timestamp": "2022-08-05T19:05:19.165000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IF",
+            "text": "何でもけっこう好きなんですが、最近はフルーツサンドがマイブームです。",
+            "timestamp": "2022-08-05T19:05:45.675000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "コンビニに売っているのをたまに食べますが、フルーツとホイップの相性が良いですよね",
+            "timestamp": "2022-08-05T19:06:29.375000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IF",
+            "text": "ですよね、デザート感覚でいくらでもいけそうで危険です。",
+            "timestamp": "2022-08-05T19:06:55.876000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "ですよね、甘党ですか？",
+            "timestamp": "2022-08-05T19:07:29.520000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IF",
+            "text": "はい、困ったことに甘い物ばっかり食べてます。甘いのは平気ですか？",
+            "timestamp": "2022-08-05T19:08:01.535000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "甘い物大好きですよ",
+            "timestamp": "2022-08-05T19:08:15.987000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IF",
+            "text": "よかったですー、ケーキとかも召し上がりますか？",
+            "timestamp": "2022-08-05T19:08:50.976000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "誕生日には必ず食べますね",
+            "timestamp": "2022-08-05T19:08:54.430000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IF",
+            "text": "いいですね！ちなみにショートケーキ波ですか？",
+            "timestamp": "2022-08-05T19:09:27.417000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "誕生日といえば、ショートケーキなので、どちらかというとですかね",
+            "timestamp": "2022-08-05T19:10:06.187000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IF",
+            "text": "そうなんですね、私はチーズケーキも好きです。レアのほう。",
+            "timestamp": "2022-08-05T19:10:33.302000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "あぁ、口の中に広がる甘いチーズの香りが好きですよ",
+            "timestamp": "2022-08-05T19:11:30.004000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IF",
+            "text": "なんか話してたら食べたくなってきました。",
+            "timestamp": "2022-08-05T19:11:37.893000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "そうですよね、エクレアとか食べたいです",
+            "timestamp": "2022-08-05T19:11:53.944000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IF",
+            "text": "ああ、このあとコンビニに行こうとおもいます。",
+            "timestamp": "2022-08-05T19:12:14.279000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

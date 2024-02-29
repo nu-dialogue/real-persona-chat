@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7716,
+    "interlocutors": [
+        "AA",
+        "IH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-03T18:30:16.096000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IH",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-03T18:30:26.716000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "どうぞ、よろしくお願いいたします！",
+            "timestamp": "2022-08-03T18:30:38.860000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IH",
+            "text": "こちらこそよろしくお願いいたしますー！",
+            "timestamp": "2022-08-03T18:30:56.013000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "今日は暑かったですね",
+            "timestamp": "2022-08-03T18:31:02.339000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IH",
+            "text": "暑かったですね！外出されましたか？",
+            "timestamp": "2022-08-03T18:31:30.489000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "いえ、一歩も外に出ませんでした。暑すぎて",
+            "timestamp": "2022-08-03T18:31:46.857000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IH",
+            "text": "私もです！",
+            "timestamp": "2022-08-03T18:32:05.577000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "そうですよね。この暑さの中、外に出てどこかに行く勇気がないです。",
+            "timestamp": "2022-08-03T18:32:37.774000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IH",
+            "text": "家でクーラーをつけて涼むのが一番ですね",
+            "timestamp": "2022-08-03T18:32:50.134000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "そうですよね。でも今月の電気量が気になります。",
+            "timestamp": "2022-08-03T18:32:58.946000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IH",
+            "text": "わかります！私の家のクーラーはなぜか3時間で止まってしまうのでそのたびに付けなおすので電気代がヤバそうです。",
+            "timestamp": "2022-08-03T18:33:59.351000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "3時間で？それはなかなかですね。体調は大丈夫ですか？",
+            "timestamp": "2022-08-03T18:34:40.308000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IH",
+            "text": "一度止まってから熱くなってきたなと思ったらまたつけるので大丈夫ですね。",
+            "timestamp": "2022-08-03T18:35:26.474000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "エアコン自体が悪い感じでしょうか？",
+            "timestamp": "2022-08-03T18:35:42.593000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IH",
+            "text": "賃貸で元々ついているエアコンなのですが、その設定上変えられないみたいなんです。",
+            "timestamp": "2022-08-03T18:36:28.740000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "そんなことがあるんですね？初めて知りました、私も賃貸なのですがそんな設定が。",
+            "timestamp": "2022-08-03T18:36:49.630000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IH",
+            "text": "消し忘れ防止のため、とはリモコンに書いてあるのですがなかなか不便です。",
+            "timestamp": "2022-08-03T18:37:34.552000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "今の時代にそぐわない気もします。",
+            "timestamp": "2022-08-03T18:37:53.971000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IH",
+            "text": "私もそう思います。変えてもらいたいですよね。",
+            "timestamp": "2022-08-03T18:39:06.041000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "ですね。睡眠とかも阻害されるわけですし。",
+            "timestamp": "2022-08-03T18:39:29.633000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IH",
+            "text": "入タイマーの機能がないので朝涼しく起きられるようにもできないので困ります。",
+            "timestamp": "2022-08-03T18:40:11.199000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "不便すぎるエアコン。変えられませんもんね、賃貸だと",
+            "timestamp": "2022-08-03T18:40:34.898000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IH",
+            "text": "そうですね、はやく引っ越したいです。",
+            "timestamp": "2022-08-03T18:41:14.037000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "ちなみに引っ越しの際の譲れない部分ありますか？",
+            "timestamp": "2022-08-03T18:41:22.649000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IH",
+            "text": "風呂トイレ別なのは必須ですね。",
+            "timestamp": "2022-08-03T18:42:00.810000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "なるほど。じゃあ今のおうちも別なんですね。",
+            "timestamp": "2022-08-03T18:42:15.119000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IH",
+            "text": "別です。しをさんはどうですか？",
+            "timestamp": "2022-08-03T18:42:47.855000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "私は一緒なんです。この日に引越ししたいというのがあって。",
+            "timestamp": "2022-08-03T18:42:59.620000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IH",
+            "text": "なるほど、そういうのもどうしてもありますよね。",
+            "timestamp": "2022-08-03T18:43:31.048000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IH",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

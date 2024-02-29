@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 800,
+    "interlocutors": [
+        "CE",
+        "AY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-12T16:16:48.453000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T16:16:57.733000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "最近明太子が好きでよく食べてるんですが、明太子お好きですか？",
+            "timestamp": "2022-08-12T16:17:38.518000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AY",
+            "text": "はい。大好きです！",
+            "timestamp": "2022-08-12T16:17:49.483000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "ご飯のお供として優秀すぎますよねー！私は若干甘めが好きです。",
+            "timestamp": "2022-08-12T16:18:19.082000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AY",
+            "text": "塩分控えめってやつですね！",
+            "timestamp": "2022-08-12T16:18:32.328000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "ですね！血圧が少し高い方なので、減塩には気を付けてます。",
+            "timestamp": "2022-08-12T16:18:55.672000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AY",
+            "text": "おお！からし明太子もおいしいですよね？",
+            "timestamp": "2022-08-12T16:19:17.912000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "からし明太子もとても美味しいですね！明太子とご飯とのりがあれば満足です。",
+            "timestamp": "2022-08-12T16:19:50.607000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AY",
+            "text": "わかるー！私、筋子好きなんですよー！",
+            "timestamp": "2022-08-12T16:20:16.002000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "筋子ってちょっと粒が大きいやつですよね！",
+            "timestamp": "2022-08-12T16:20:32.829000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AY",
+            "text": "そうそう！めちゃしょっぱい時あるけど。",
+            "timestamp": "2022-08-12T16:20:50.229000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "実はほとんど食べたことがないのですが、味的にはどんな感じなんですか？",
+            "timestamp": "2022-08-12T16:21:22.234000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AY",
+            "text": "いくらよりもさっぱりって感じかな。",
+            "timestamp": "2022-08-12T16:21:38.109000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "なるほど、いくらみたいに醤油しっかりって感じではないんですね。",
+            "timestamp": "2022-08-12T16:21:57.859000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AY",
+            "text": "なんか濃厚さはいくらの方が強いかも。",
+            "timestamp": "2022-08-12T16:22:18.206000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "筋子は少しフレッシュ感あるんですかね。筋子もご飯にかけて食べるんですか？",
+            "timestamp": "2022-08-12T16:22:43.968000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AY",
+            "text": "はい！めっちゃめっちゃおいしいです！",
+            "timestamp": "2022-08-12T16:23:01.159000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "いいなー！魚卵大好きなので、今度見かけたら買ってみます！",
+            "timestamp": "2022-08-12T16:23:24.781000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AY",
+            "text": "はい。ぜひぜひ！本当におすすめですよー！",
+            "timestamp": "2022-08-12T16:23:36.816000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "魚卵のプチプチ食感たまらないですよねー！",
+            "timestamp": "2022-08-12T16:24:03.169000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AY",
+            "text": "そうですね！カズノコとかどうですか？",
+            "timestamp": "2022-08-12T16:24:20.236000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "数の子も適量なら好きです！以前買いすぎて正月に数の子ばっかりになったときは泣きましたが。",
+            "timestamp": "2022-08-12T16:24:48.449000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AY",
+            "text": "あはは！すっごい豪華なお正月になりましたね！",
+            "timestamp": "2022-08-12T16:25:06.682000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "市販のものって塩抜きが難しくて、よく失敗します。",
+            "timestamp": "2022-08-12T16:25:38.038000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AY",
+            "text": "ああ！あれ難しそうですよね？",
+            "timestamp": "2022-08-12T16:25:51.487000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "食べると真ん中だけめちゃくちゃ塩辛かったりするんですよ。",
+            "timestamp": "2022-08-12T16:26:14.630000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AY",
+            "text": "わかる！なんかコツがありそうですよね。",
+            "timestamp": "2022-08-12T16:26:31.825000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "ちゃんとお手本見てやればよかったんでしょうね。お話ありがとうございました！",
+            "timestamp": "2022-08-12T16:26:53.725000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AY",
+            "text": "こちらこそ、ありがとうございました。",
+            "timestamp": "2022-08-12T16:27:17.692000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

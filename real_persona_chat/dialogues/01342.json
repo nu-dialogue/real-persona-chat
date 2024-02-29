@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1342,
+    "interlocutors": [
+        "BU",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-13T21:37:12.862000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "こんばんは。よろしくですー。",
+            "timestamp": "2022-08-13T21:37:19.198000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "肉と魚どっちが好きですか？",
+            "timestamp": "2022-08-13T21:37:32.312000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "どっちも好きですが、肉のほうかなー。でも海鮮丼も捨てがたい。",
+            "timestamp": "2022-08-13T21:37:49.654000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "それはグラトニーです。どっちかです。",
+            "timestamp": "2022-08-13T21:38:07.280000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "ん－。じゃあ、肉ですね。",
+            "timestamp": "2022-08-13T21:38:22.829000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "何肉ですか？",
+            "timestamp": "2022-08-13T21:38:32.809000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "牛肉が一番好きです！",
+            "timestamp": "2022-08-13T21:38:42.373000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "好きな食べ方部位は？",
+            "timestamp": "2022-08-13T21:38:48.306000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "部位はこだわりませんが、焼き肉が好き。大好き！",
+            "timestamp": "2022-08-13T21:39:04.177000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "味付けは？",
+            "timestamp": "2022-08-13T21:39:23.028000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "タレか、レモン塩かなー？",
+            "timestamp": "2022-08-13T21:39:27.682000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "いいですね。国産牛とか和牛とかランクはこだわりあります？",
+            "timestamp": "2022-08-13T21:39:48.465000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "いうほど高級品食べたことないので、とくにないですね。",
+            "timestamp": "2022-08-13T21:40:01.969000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "なるほど、好きな寿司のネタは？",
+            "timestamp": "2022-08-13T21:40:15.266000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "お寿司ですか。エビかマグロかなー？",
+            "timestamp": "2022-08-13T21:40:29.279000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "好きなエビは？",
+            "timestamp": "2022-08-13T21:40:49.217000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "エビ。種類がわからんですが、普通のエビが好きです。",
+            "timestamp": "2022-08-13T21:41:02.991000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "普通のエビってお寿司屋さんの赤いエビですか？",
+            "timestamp": "2022-08-13T21:41:19.142000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "そうそう。安舌なので、回るお寿司が大好きです。",
+            "timestamp": "2022-08-13T21:41:37.485000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "赤海老ちゃん美味しいですよね。回転寿司どこ派です？",
+            "timestamp": "2022-08-13T21:41:59.391000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "どこでも！　高いところから、安いところまで。イカのゲソ天があるところが好きです。",
+            "timestamp": "2022-08-13T21:42:25.131000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "イカのゲソ天ないとこあるんですね。",
+            "timestamp": "2022-08-13T21:42:45.675000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "一回だけ当たったことあるんですよね。ゲソ天うまいですよね。",
+            "timestamp": "2022-08-13T21:43:03.889000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "めっちゃうまいです。ずっと口の中に入れておきたい。",
+            "timestamp": "2022-08-13T21:43:18.589000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "ねー。あと茶わん蒸しもよく食べます。おいしいー！",
+            "timestamp": "2022-08-13T21:43:36.743000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "茶碗蒸しの具材５ついれるとしたらなににします？",
+            "timestamp": "2022-08-13T21:43:53.065000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "ぎんなん、もち、はんぺん、三つ葉、家ならじゃがいも！",
+            "timestamp": "2022-08-13T21:44:19.635000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "珍しい具材ばかりだ。",
+            "timestamp": "2022-08-13T21:44:36.157000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "え？　うちはこれにあと椎茸入れて完成なんですが。",
+            "timestamp": "2022-08-13T21:44:49.223000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

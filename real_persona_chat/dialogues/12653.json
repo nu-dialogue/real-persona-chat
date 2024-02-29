@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12653,
+    "interlocutors": [
+        "GQ",
+        "HF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GQ",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-29T22:03:56.362000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HF",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-29T22:04:05.966000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GQ",
+            "text": "今ハマっている事はありますか？",
+            "timestamp": "2022-09-29T22:04:21.568000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HF",
+            "text": "スポーツ観戦と旅行です！",
+            "timestamp": "2022-09-29T22:04:43.435000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GQ",
+            "text": "いいですねー。どんなスポーツですか？",
+            "timestamp": "2022-09-29T22:05:15.167000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HF",
+            "text": "サッカーが好きでよくみてます！サッカーは見られますか？",
+            "timestamp": "2022-09-29T22:05:42.209000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GQ",
+            "text": "オリンピックとかワールドカップのような大きな大会しか見ないです。",
+            "timestamp": "2022-09-29T22:06:14.747000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！今年はワールドカップがあるので是非見てください！",
+            "timestamp": "2022-09-29T22:06:37.462000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GQ",
+            "text": "そうですね。楽しみです。好きな選手はいますか？",
+            "timestamp": "2022-09-29T22:07:03.816000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HF",
+            "text": "日本代表の長友佑都選手です！",
+            "timestamp": "2022-09-29T22:07:23.789000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GQ",
+            "text": "知ってる選手で良かった！今はイタリアとかでしたっけ？",
+            "timestamp": "2022-09-29T22:07:54.268000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HF",
+            "text": "今は日本にいます！以前イタリアにいました！",
+            "timestamp": "2022-09-29T22:08:13.903000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GQ",
+            "text": "もう帰ってきてるんですね。どこのチームですか？",
+            "timestamp": "2022-09-29T22:08:33.017000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HF",
+            "text": "FC東京というチームです！",
+            "timestamp": "2022-09-29T22:08:54.564000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GQ",
+            "text": "私は、Ｊリーグが始まったばかりの頃、横浜マリノスの井原選手が好きでした。古くてすみません。",
+            "timestamp": "2022-09-29T22:09:30.539000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！横浜Fマリノスは今リーグ一位です！！",
+            "timestamp": "2022-09-29T22:10:01.741000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GQ",
+            "text": "まだ強いんですね。嬉しいなぁ。旅行は秋に予定ありますか？",
+            "timestamp": "2022-09-29T22:10:42.290000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HF",
+            "text": "そうなんですよ！おそらく優勝すると思います！秋には広島に行きます！",
+            "timestamp": "2022-09-29T22:11:11.536000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GQ",
+            "text": "広島、いいですねー。もみじ饅頭食べたい。",
+            "timestamp": "2022-09-29T22:11:46.074000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HF",
+            "text": "食べてみたいです！広島には行かれたことありますか？",
+            "timestamp": "2022-09-29T22:12:24.229000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GQ",
+            "text": "はい、九州に住んでいるので修学旅行の定番です。",
+            "timestamp": "2022-09-29T22:12:53.368000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HF",
+            "text": "九州いいですね！福岡、鹿児島、長崎に行ったことあります！",
+            "timestamp": "2022-09-29T22:13:34.078000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GQ",
+            "text": "本当に色々旅行されてるんですね。羨ましいです。",
+            "timestamp": "2022-09-29T22:14:00.380000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HF",
+            "text": "大学に入るまではあまり行ったことなかったのですが、アルバイトでお金を貯めて行ってます！",
+            "timestamp": "2022-09-29T22:14:38.171000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GQ",
+            "text": "自由な時間があるうちに行って下さい！",
+            "timestamp": "2022-09-29T22:15:01.580000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HF",
+            "text": "はい！今は以前よりはコロナの規制がなくなっているので、行けるうちに行ってきます！",
+            "timestamp": "2022-09-29T22:15:30.548000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GQ",
+            "text": "海外はどうですか？",
+            "timestamp": "2022-09-29T22:15:47.758000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HF",
+            "text": "海外も大学に入ってから10ヵ国弱に行きました！",
+            "timestamp": "2022-09-29T22:16:17.706000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GQ",
+            "text": "すごい！もっと話聞きたいです！",
+            "timestamp": "2022-09-29T22:16:39.912000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HF",
+            "text": "是非！",
+            "timestamp": "2022-09-29T22:16:51.116000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

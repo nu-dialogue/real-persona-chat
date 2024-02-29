@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10048,
+    "interlocutors": [
+        "BU",
+        "DW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんばんはー！！",
+            "timestamp": "2022-08-10T20:34:09.694000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DW",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-10T20:34:24.968000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "夜ご飯は食べられましたか？",
+            "timestamp": "2022-08-10T20:34:32.445000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DW",
+            "text": "食べました！今日はやきそばでした。",
+            "timestamp": "2022-08-10T20:35:12.167000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "焼きそばいいですね！！作ったんですか？？",
+            "timestamp": "2022-08-10T20:35:31.496000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DW",
+            "text": "はい、家族4人分。",
+            "timestamp": "2022-08-10T20:36:00.660000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "4玉ですか？",
+            "timestamp": "2022-08-10T20:36:10.983000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DW",
+            "text": "いや、全然それだと足りなくて、毎回6玉作ります。",
+            "timestamp": "2022-08-10T20:36:32.426000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "すごい。一気に作っちゃうんですか？",
+            "timestamp": "2022-08-10T20:36:54.732000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DW",
+            "text": "そうです、一気に。大きい鍋に野菜マシマシで作ります。",
+            "timestamp": "2022-08-10T20:37:19.033000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "かっこいいですね！うで鍛えられそう！うちは日清やきそばが大好きです！",
+            "timestamp": "2022-08-10T20:37:56.685000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DW",
+            "text": "日清焼きそばも美味しいですよね。匂いを嗅ぐと香りに誘われてしまいます。",
+            "timestamp": "2022-08-10T20:38:48.388000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "インスタント焼きそばで一番好きです。袋麺の中でも一番かもしれないです！",
+            "timestamp": "2022-08-10T20:39:33.808000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DW",
+            "text": "日清焼きそばは昔からありますけど、最近のインスタント美味しいですよね。",
+            "timestamp": "2022-08-10T20:40:22.875000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "最近のインスタントも美味しいですけど、やっぱり日清やきそばの袋麺ですね！",
+            "timestamp": "2022-08-10T20:40:58.468000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DW",
+            "text": "私フライパンにくっついて上手く調理できないんですけど、コツとかありますか？",
+            "timestamp": "2022-08-10T20:41:32.640000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "水の量じゃないですか？？",
+            "timestamp": "2022-08-10T20:41:44.858000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DW",
+            "text": "少ないのかな？",
+            "timestamp": "2022-08-10T20:42:09.481000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "たぶん、それか粉末ソース入れたあとの時間？？",
+            "timestamp": "2022-08-10T20:42:50.049000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DW",
+            "text": "えっ、ソース入れたあとの時間ってどれぐらいですか？",
+            "timestamp": "2022-08-10T20:43:14.907000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "どれぐらいだろう。いつも袋に書いてある通りにつくってますよ！",
+            "timestamp": "2022-08-10T20:43:41.536000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DW",
+            "text": "あー、確かに私あんまり読んで作ってないですね。",
+            "timestamp": "2022-08-10T20:44:02.981000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "それはだめですね。うちはいつも焼きそば作りながら同じフライパンで目玉焼きも作ってます。",
+            "timestamp": "2022-08-10T20:44:28.861000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DW",
+            "text": "うわー、それは最高のトッピングじゃないですか！！",
+            "timestamp": "2022-08-10T20:44:48.392000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "半熟の目玉焼き。少し食べたあとに、マヨトッピング。",
+            "timestamp": "2022-08-10T20:45:18.142000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DW",
+            "text": "やだ、お腹空いてきました。",
+            "timestamp": "2022-08-10T20:45:38.759000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "食べたのに、うちもこの食べかたで食べたの２年ぐらいまえですけど。",
+            "timestamp": "2022-08-10T20:46:05.247000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DW",
+            "text": "卵と麺の組み合わせって、あらがえませんー！",
+            "timestamp": "2022-08-10T20:46:48.320000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "卵がおいしいですからね。",
+            "timestamp": "2022-08-10T20:47:10.048000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DW",
+            "text": "はい、でも焼きそばがあってこそですよね！",
+            "timestamp": "2022-08-10T20:47:30.151000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

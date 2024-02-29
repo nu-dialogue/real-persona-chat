@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3419,
+    "interlocutors": [
+        "EZ",
+        "DW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-29T10:08:18.037000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DW",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-29T10:08:40.176000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "最近はまっていることありますか？",
+            "timestamp": "2022-08-29T10:08:45.943000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DW",
+            "text": "最近ですか？うーん、小さい折り紙折る事かな。",
+            "timestamp": "2022-08-29T10:09:11.636000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "小さい折り紙ですか。どれくらい小さいのですか？",
+            "timestamp": "2022-08-29T10:09:27.942000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DW",
+            "text": "3センチ四方の折り紙で鶴折るんです。",
+            "timestamp": "2022-08-29T10:09:48.535000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "ほうほう。繊細な手が要りそうですね。",
+            "timestamp": "2022-08-29T10:10:08.299000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DW",
+            "text": "夏用のアクセサリーを作りたくて。",
+            "timestamp": "2022-08-29T10:10:31.120000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "いいですね！確かに小さい鶴がついてるのとかある気がします。",
+            "timestamp": "2022-08-29T10:10:51.409000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DW",
+            "text": "そういうのが好きで、今年はヨーヨーモチーフも作りました。",
+            "timestamp": "2022-08-29T10:11:17.654000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "ヨーヨーってあのビヨンビヨンするヨーヨーですか？",
+            "timestamp": "2022-08-29T10:11:42.446000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DW",
+            "text": "そうです、そうです。そのヨーヨーです。",
+            "timestamp": "2022-08-29T10:11:55.763000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "すごいですね！そういうのは調べたら出てくるんですか？",
+            "timestamp": "2022-08-29T10:12:14.227000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DW",
+            "text": "いろんな方が作られてる動画やサイトを見て作ってますね。",
+            "timestamp": "2022-08-29T10:12:34.506000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "いいですね！最近は動画も豊富ですし。",
+            "timestamp": "2022-08-29T10:12:51.003000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DW",
+            "text": "はい、すっごくたくさんあるので助かります。",
+            "timestamp": "2022-08-29T10:13:05.386000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "そんなにたくさんあるんですね。何かすごいもの折っている人とかいました？",
+            "timestamp": "2022-08-29T10:13:44.495000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DW",
+            "text": "一枚の大きな紙を切らずに恐竜とか折る方いますよー。",
+            "timestamp": "2022-08-29T10:14:12.314000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "ええ！すごい。一枚で恐竜ですか。",
+            "timestamp": "2022-08-29T10:14:36.422000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DW",
+            "text": "そうなんです、すごいですよね。切らずに折るだけで！",
+            "timestamp": "2022-08-29T10:14:52.648000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "ほえー。そういうのどうやって思いつくんですかね。",
+            "timestamp": "2022-08-29T10:15:12.993000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DW",
+            "text": "いやー、もう想像がつきません。天才なのか、秀才なのか。",
+            "timestamp": "2022-08-29T10:15:32.615000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "才能ですよね。あなたは何か自分で新しく作ったりはしないんですか？",
+            "timestamp": "2022-08-29T10:16:01.380000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DW",
+            "text": "クリエイティブな才能はなさそうですー。あなたは？",
+            "timestamp": "2022-08-29T10:16:23.522000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "私も飛行機と鶴くらいしかおれません。",
+            "timestamp": "2022-08-29T10:16:39.765000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DW",
+            "text": "飛行機も意外と難しくないですか？飛ばなかったり。",
+            "timestamp": "2022-08-29T10:17:03.721000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "飛行機も奥深いですよね。いろんな折り方がある気がします。",
+            "timestamp": "2022-08-29T10:17:25.122000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DW",
+            "text": "羽をちょっと曲げるといいって聞きますけど、飛んだためしがないですねー。",
+            "timestamp": "2022-08-29T10:17:47.649000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "多分投げ方も結構重要だと思いますよ。",
+            "timestamp": "2022-08-29T10:18:06.113000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DW",
+            "text": "力任せだと駄目なんですね、きっと。",
+            "timestamp": "2022-08-29T10:18:20.879000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10676,
+    "interlocutors": [
+        "EA",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EA",
+            "text": "こんにちは。はじめまして。",
+            "timestamp": "2022-08-15T06:58:17.183000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-15T06:58:37.566000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EA",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-08-15T06:58:50.757000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "はい。お休みです。あなたもお休みですか？",
+            "timestamp": "2022-08-15T06:59:08.035000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EA",
+            "text": "そうです。お盆やすみですね。何か予定はあったりしますか？",
+            "timestamp": "2022-08-15T06:59:30.720000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "いえ、暑いので、どこにも出かける気がおきないんです。",
+            "timestamp": "2022-08-15T06:59:50.737000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EA",
+            "text": "最近は特に暑いですよね。わかります。",
+            "timestamp": "2022-08-15T07:00:09.025000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "どこか行かれます？",
+            "timestamp": "2022-08-15T07:00:17.777000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EA",
+            "text": "今日ではないんですが、昨日は友人の家でたこ焼きパーティをやったんです。",
+            "timestamp": "2022-08-15T07:00:45.612000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "たこ焼きパーティー！いいですね！うまく焼けました？",
+            "timestamp": "2022-08-15T07:01:08.082000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EA",
+            "text": "初めてだったので最初は難しかったですね。途中から慣れてきましたが。",
+            "timestamp": "2022-08-15T07:01:37.825000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "あれ、けっこうコツいりますもんね。",
+            "timestamp": "2022-08-15T07:01:59.267000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EA",
+            "text": "そうなんですよ。あと、火力も少し弱くてなかなか火が通らなくて。",
+            "timestamp": "2022-08-15T07:02:31.003000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "ホットプレートで焼いたんですか？",
+            "timestamp": "2022-08-15T07:02:49.232000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EA",
+            "text": "家庭用たこ焼き機っていうんですかね？それで焼きました。",
+            "timestamp": "2022-08-15T07:03:12.910000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。やっぱりお店は火力が違うんでしょうね。",
+            "timestamp": "2022-08-15T07:03:33.794000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EA",
+            "text": "お店のとはやっぱり違いましたね。味も違った気がします。",
+            "timestamp": "2022-08-15T07:03:59.456000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "私、自分で作ると、具をたっぷり入れすぎて、うまく焼けなかったりします。",
+            "timestamp": "2022-08-15T07:04:22.814000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EA",
+            "text": "ああ、わかります。チーズなども入れてたので結構ひっくり返すのが大変でした。",
+            "timestamp": "2022-08-15T07:05:26.933000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "チーズ、焦げちゃいますもんね。",
+            "timestamp": "2022-08-15T07:05:53.633000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EA",
+            "text": "そうなんですよね。でも結構美味しくて。たこ焼きはどんな味が好きですか？",
+            "timestamp": "2022-08-15T07:06:30.768000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "ウィンナー入れるのが好きかな。あと銀だこの卵フィリング乗ってるのとか。",
+            "timestamp": "2022-08-15T07:07:07.899000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EA",
+            "text": "ウィンナーですか？確かにおいしそうですね！卵のフィリング乗ってるやつがあるんですね。しらなかったです。",
+            "timestamp": "2022-08-15T07:07:44.125000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "マヨネーズ大丈夫だったら、すごくおすすめです。おいしいんですよ。",
+            "timestamp": "2022-08-15T07:08:08.848000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EA",
+            "text": "良いですね。また機会があれば試してみようかな。おろしポン酢で食べたの美味しかったですよ。",
+            "timestamp": "2022-08-15T07:09:00.255000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "さっぱり系もいいですね！意外と、塩のみもイケます！",
+            "timestamp": "2022-08-15T07:09:26.486000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EA",
+            "text": "味がガラッと変わって良いですよね！ソースばっかりだと飽きちゃって。",
+            "timestamp": "2022-08-15T07:10:05.842000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "自分で作るとアレンジ色々できていいですよね。",
+            "timestamp": "2022-08-15T07:10:21.449000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EA",
+            "text": "そうですね。お店だと出来ない味付けもできてとても楽しいですよね。",
+            "timestamp": "2022-08-15T07:11:02.759000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "たこ焼き食べたくなってきた！",
+            "timestamp": "2022-08-15T07:11:13.793000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

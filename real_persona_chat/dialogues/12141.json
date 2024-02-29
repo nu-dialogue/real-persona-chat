@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12141,
+    "interlocutors": [
+        "CN",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T21:32:30.614000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "こんばんは！！",
+            "timestamp": "2022-09-03T21:32:34.957000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "今まで行った旅行先でおすすめのところはありますか？",
+            "timestamp": "2022-09-03T21:33:00.487000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "今年の春に行った、奄美大島はかなりよかったです。",
+            "timestamp": "2022-09-03T21:33:21.762000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "いいですね！遠いイメージですが行くのにどのくらいかかりますか？",
+            "timestamp": "2022-09-03T21:33:48.414000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "時間ですか？",
+            "timestamp": "2022-09-03T21:34:03.414000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "はい、時間です。乗り換えがかなりあるんですかね？",
+            "timestamp": "2022-09-03T21:34:27.513000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "関東に住んでいるので、成田空港発で一本で行きました！1，2時間くらいだったと思います。",
+            "timestamp": "2022-09-03T21:35:00.456000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "直通便あるのは便利ですね！奄美大島は海水浴とかでしょうか？",
+            "timestamp": "2022-09-03T21:35:43.764000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "いや、自然が好きなので、ビーチ巡ったり、生き物見に行ったりしました。",
+            "timestamp": "2022-09-03T21:36:15.418000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "何か珍しい生き物には出会えましたか？",
+            "timestamp": "2022-09-03T21:36:45.509000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "アマミノクロウサギに会えました！あとアマミイシカワガエルはかなり綺麗でしたね。",
+            "timestamp": "2022-09-03T21:37:29.628000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "アマミノクロウサギはテレビで見たことあります！かわいいですよね",
+            "timestamp": "2022-09-03T21:37:49.746000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "ふわふわしてて、動きもゆっくりなので、ほんと可愛かったです。ナイトツアーで見ました。",
+            "timestamp": "2022-09-03T21:38:23.632000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "なるほど、動物はけっこう夜行性のも多いですもんね",
+            "timestamp": "2022-09-03T21:38:48.032000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "そうなんです。ガイドさんに案内してもらったら、いい場所も連れてってくれました。",
+            "timestamp": "2022-09-03T21:39:09.516000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "それは羨ましい！奄美大島は食事はどんなものが出ましたか？",
+            "timestamp": "2022-09-03T21:39:42.400000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "そうですね。食べに行った郷土料理だと、油そうめんというもの食べました。",
+            "timestamp": "2022-09-03T21:40:13.267000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "油そうめんは初めて聞きました。そうめんに何か具材が色々乗ってる感じですか？",
+            "timestamp": "2022-09-03T21:40:39.350000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "あぶらでそうめんを炒めている料理です！",
+            "timestamp": "2022-09-03T21:41:08.528000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "沖縄料理にソーミンチャンプルーってありますけど似たような感じのようですね",
+            "timestamp": "2022-09-03T21:41:38.888000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "ソーミンというのはそうめんのことをさしているんですか？",
+            "timestamp": "2022-09-03T21:42:13.829000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "そうです！チャンプルーが炒め物なんで似た感じかなと思いました",
+            "timestamp": "2022-09-03T21:42:51.101000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "なるほど。似てそうですね。その料理食べてみたいです。",
+            "timestamp": "2022-09-03T21:43:05.550000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "沖縄料理店とかだとたまにメニューにありますね",
+            "timestamp": "2022-09-03T21:43:41.530000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "ほう、あんまり意識してみてなかったかもしれないです。機会があったらメニューから探してみます。",
+            "timestamp": "2022-09-03T21:44:08.695000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "沖縄料理だとついゴーヤチャンプルーなんかの有名どころ頼んでしまいますもんね",
+            "timestamp": "2022-09-03T21:44:47.017000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "ソーキそばとか選びがちです。",
+            "timestamp": "2022-09-03T21:45:01.035000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "ソーキそばも美味しいですよね。おつまみだとミミガーも好きです",
+            "timestamp": "2022-09-03T21:45:27.915000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "おいしいですよね！未成年の時しか沖縄に行ってないので、泡盛と食べてみたいです。",
+            "timestamp": "2022-09-03T21:45:58.700000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

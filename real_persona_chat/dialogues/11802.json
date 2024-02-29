@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11802,
+    "interlocutors": [
+        "FO",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ",
+            "timestamp": "2022-08-26T21:48:42.706000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-26T21:48:55.410000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FO",
+            "text": "最近は世界情勢が不安定ですね。",
+            "timestamp": "2022-08-26T21:49:43.271000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。あなたは何が気になりますか？",
+            "timestamp": "2022-08-26T21:50:05.654000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FO",
+            "text": "何とは何でしょうか？",
+            "timestamp": "2022-08-26T21:50:20.065000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "どこの国が気になりますか？",
+            "timestamp": "2022-08-26T21:50:34.894000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FO",
+            "text": "特にどこかの国が気になるということはないですね",
+            "timestamp": "2022-08-26T21:50:58.428000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "では、何か心配なことがあるのでしょうか。",
+            "timestamp": "2022-08-26T21:51:12.688000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FO",
+            "text": "特に心配なことは最近は減りましたね。",
+            "timestamp": "2022-08-26T21:51:49.601000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "それはよかったですね。世界情勢を気にしているのかな、と思いましたが。",
+            "timestamp": "2022-08-26T21:52:50.526000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FO",
+            "text": "世界情勢はやはり不思議と興味があります。",
+            "timestamp": "2022-08-26T21:54:01.183000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "具体的に話していただけますか？",
+            "timestamp": "2022-08-26T21:54:23.018000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FO",
+            "text": "最近はやはりウクライナ問題がニュースでも取り上げられますね",
+            "timestamp": "2022-08-26T21:55:04.126000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。戦争は怖いと思います。",
+            "timestamp": "2022-08-26T21:55:29.894000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FO",
+            "text": "戦争が怖いんですか？",
+            "timestamp": "2022-08-26T21:55:53.138000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "それはそうでしょう。急に人が殺されるのですから。",
+            "timestamp": "2022-08-26T21:56:10.152000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FO",
+            "text": "成程。",
+            "timestamp": "2022-08-26T21:56:27.977000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "今までそこにいた人がいなくなるなんて考えられないです。",
+            "timestamp": "2022-08-26T21:56:47.955000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FO",
+            "text": "遠い世界の話だと日本に住む多くの人は考えていると聞きます。",
+            "timestamp": "2022-08-26T21:57:20.409000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "平和ボケというのでしょうね。日本は災害の方が身近かもしれませんね。",
+            "timestamp": "2022-08-26T21:57:47.160000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FO",
+            "text": "危険という意味であればそうかもしれませんね。",
+            "timestamp": "2022-08-26T21:58:19.845000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "突然起きるという点では同じかもしれませんが。",
+            "timestamp": "2022-08-26T21:58:36.060000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FO",
+            "text": "はい。",
+            "timestamp": "2022-08-26T21:58:53.520000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "幸いなことに、私はそんなにひどい災害に見舞われたことがないです。",
+            "timestamp": "2022-08-26T21:59:31.702000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FO",
+            "text": "最近の災害というと東日本大震災でしょうか。",
+            "timestamp": "2022-08-26T22:00:08.757000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "あれは、私のところでは震度5弱くらいでした。それでもかなり揺れました。",
+            "timestamp": "2022-08-26T22:00:45.671000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FO",
+            "text": "当時の心境はどうでしたか？",
+            "timestamp": "2022-08-26T22:01:08.483000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "地震が終わってもまだ揺れていたので、不安でしたよ。",
+            "timestamp": "2022-08-26T22:01:40.801000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FO",
+            "text": "成程、余震が長く続いたのですね。",
+            "timestamp": "2022-08-26T22:02:02.561000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "しばらく車に乗らないで我慢した覚えがあります。もう起こらないでほしいです。",
+            "timestamp": "2022-08-26T22:02:35.140000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

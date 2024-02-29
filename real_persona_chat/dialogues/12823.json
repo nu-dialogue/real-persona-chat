@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12823,
+    "interlocutors": [
+        "FR",
+        "FK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T22:15:09.162000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T22:15:12.174000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "あなたは最近どこか行きました？",
+            "timestamp": "2022-09-12T22:15:21.218000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FK",
+            "text": "そうですね、シーシャ屋さんとかよくいってますね",
+            "timestamp": "2022-09-12T22:15:28.453000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "みずたばこでしたっけ？",
+            "timestamp": "2022-09-12T22:15:37.938000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FK",
+            "text": "そうです！煙でるやつです",
+            "timestamp": "2022-09-12T22:15:42.734000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "あそこでは、シーシャを吸うだけなんですか？",
+            "timestamp": "2022-09-12T22:15:55.086000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FK",
+            "text": "それと、会話を楽しむって感じですね。",
+            "timestamp": "2022-09-12T22:16:05.296000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "会話は、そこら辺の人とですか？",
+            "timestamp": "2022-09-12T22:16:18.977000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FK",
+            "text": "いえ、友達とです！たまに知らない人もあります",
+            "timestamp": "2022-09-12T22:16:30.827000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。入りにくいイメージがありました。",
+            "timestamp": "2022-09-12T22:16:47.805000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FK",
+            "text": "一回入ったらいい感じですよ",
+            "timestamp": "2022-09-12T22:16:53.535000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "行きつけの店とかあるんですか？",
+            "timestamp": "2022-09-12T22:17:04.972000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FK",
+            "text": "あります！安くて美味しいです",
+            "timestamp": "2022-09-12T22:17:09.111000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "店によって味とか違うかったり？",
+            "timestamp": "2022-09-12T22:17:25.557000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FK",
+            "text": "作り手によっておいしいまずいありますね",
+            "timestamp": "2022-09-12T22:17:33.315000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "あれって作り物なのですか？",
+            "timestamp": "2022-09-12T22:17:44.091000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FK",
+            "text": "作り物というか、熱管理ですね、タバコ葉の",
+            "timestamp": "2022-09-12T22:18:00.809000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "なにか難しい単語が。",
+            "timestamp": "2022-09-12T22:18:18.174000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FK",
+            "text": "なんというか、炭の温度調整です",
+            "timestamp": "2022-09-12T22:18:27.571000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "なるほど。その具合がいい悪いあるんですね。",
+            "timestamp": "2022-09-12T22:18:40.522000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FK",
+            "text": "焼肉みたいなもんですね。",
+            "timestamp": "2022-09-12T22:18:43.824000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "意外に奥が深いんですね。",
+            "timestamp": "2022-09-12T22:18:53.618000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FK",
+            "text": "めっちゃ深いです、ほんとに",
+            "timestamp": "2022-09-12T22:18:57.480000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "どれくらいの頻度で行かれるんですか？",
+            "timestamp": "2022-09-12T22:19:08.265000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FK",
+            "text": "週3とかですかね",
+            "timestamp": "2022-09-12T22:19:14.869000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "二日に一回じゃないですか！",
+            "timestamp": "2022-09-12T22:19:30.408000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FK",
+            "text": "そう考えたらめちゃいってますね！",
+            "timestamp": "2022-09-12T22:19:33.220000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "友達も付き合ってくれるんですね。",
+            "timestamp": "2022-09-12T22:19:45.238000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FK",
+            "text": "行きたくなってきました、そうです",
+            "timestamp": "2022-09-12T22:19:49.654000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8155,
+    "interlocutors": [
+        "AA",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-05T07:46:08.485000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-05T07:46:20.068000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "ご趣味は何ですか？",
+            "timestamp": "2022-08-05T07:46:21.630000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "音楽鑑賞とか漫画とか、だいぶインドアです。<AA>さんはなにがお好きですか？",
+            "timestamp": "2022-08-05T07:46:46.872000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "いいですね！私は旅行でしょうか。今の漫画おすすめは何でしょうか？",
+            "timestamp": "2022-08-05T07:47:09.179000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "旅行いいですね！私も好きです。漫画は、読み途中なんですけど暗殺教室にハマってます。",
+            "timestamp": "2022-08-05T07:47:56.211000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "暗殺教室！先週読みました！",
+            "timestamp": "2022-08-05T07:48:10.929000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "今まさに止まらない感じで、2学期に入ったところです。",
+            "timestamp": "2022-08-05T07:48:36.383000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "ああ、面白いですよね！",
+            "timestamp": "2022-08-05T07:48:53.777000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "面白いし、笑えるし、なんかちょっと感動もしちゃったりでまんまとハマりました。",
+            "timestamp": "2022-08-05T07:49:16.236000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "そうなんですよね。なんていうか、勉強になります。人生の生き方的にも。",
+            "timestamp": "2022-08-05T07:49:34.849000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "それ、私も思いました！結構大事な事書いてますよね。学級文庫にしていいくらいだと思いました。",
+            "timestamp": "2022-08-05T07:50:02.436000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "分かります。もっと若い時に知りたかったってくらいです。",
+            "timestamp": "2022-08-05T07:50:22.517000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "若い時の忘れ物とか足りなかった事に気付かされますね。",
+            "timestamp": "2022-08-05T07:50:42.825000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "そうですね。漫画って結構作者さんの価値観とかが隠されてますよね",
+            "timestamp": "2022-08-05T07:51:06.828000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "わかります！作家さんによって合う合わないがある気がします。",
+            "timestamp": "2022-08-05T07:51:23.565000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "分かります！私、クランプのホリックっていう漫画が大好きで、凄い好みです",
+            "timestamp": "2022-08-05T07:52:16.815000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "気になります！今度読んでみます！ちなみにご旅行はどんな所に行くのがお好きですか？",
+            "timestamp": "2022-08-05T07:52:57.069000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "是非読んでみてください！私は国内旅行がメインで、よく京都に行きますね",
+            "timestamp": "2022-08-05T07:53:15.485000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "京都いいですね！家族が鉄ヲタなので行きたがってます。",
+            "timestamp": "2022-08-05T07:53:40.271000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "じゃあ交通網関連は強いですね！",
+            "timestamp": "2022-08-05T07:54:01.455000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "私は全然わからないので、連れられるがままです。京都でおすすめの場所ありますか？",
+            "timestamp": "2022-08-05T07:54:32.511000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "何が好きにもよるんですが、そうですねえ。今宮神社なんかは食べるものもあるのでお勧めです。",
+            "timestamp": "2022-08-05T07:55:06.745000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "今宮神宮、覚えておきます！今度行くときに寄ってみます。",
+            "timestamp": "2022-08-05T07:55:37.173000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "ぜひ行ってみてください、でもちょっと外れた場所にあるので時間があるときに",
+            "timestamp": "2022-08-05T07:56:01.230000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "かなり京都マスターされてるんですね。",
+            "timestamp": "2022-08-05T07:56:16.143000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "いえいえそんなことは。どちらによく旅行されますか？",
+            "timestamp": "2022-08-05T07:56:32.285000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "コロナ前は東北の三陸によく行ってました！",
+            "timestamp": "2022-08-05T07:57:25.208000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "わあ、いいですね。東北がお好きなんですか？",
+            "timestamp": "2022-08-05T07:57:39.343000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "これもまた鉄道が目的でした。お話ありがとうございました！",
+            "timestamp": "2022-08-05T07:58:03.449000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

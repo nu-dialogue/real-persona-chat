@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13543,
+    "interlocutors": [
+        "GJ",
+        "DL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GJ",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-09-25T13:59:21.772000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DL",
+            "text": "こんにちわ。",
+            "timestamp": "2022-09-25T13:59:31.640000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GJ",
+            "text": "あなたは映画は見ますか？",
+            "timestamp": "2022-09-25T13:59:41.080000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DL",
+            "text": "そうですね。たまに過去の作品とか見ますね。",
+            "timestamp": "2022-09-25T13:59:58.543000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GJ",
+            "text": "どんな映画が好きですか？",
+            "timestamp": "2022-09-25T14:00:14.982000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DL",
+            "text": "アクション物とかコメディ物が好きですね。",
+            "timestamp": "2022-09-25T14:00:24.005000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GJ",
+            "text": "コメディいいですね！何か好きな作品ありますか？",
+            "timestamp": "2022-09-25T14:00:55.450000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DL",
+            "text": "すみません。すぐには出てこないです。何故かダークナイトが脳裏をよぎりました。",
+            "timestamp": "2022-09-25T14:01:54.108000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GJ",
+            "text": "ダークナイトってバットマンとジョーカーですか？",
+            "timestamp": "2022-09-25T14:02:18.377000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DL",
+            "text": "そうです。思ってみると、コメディ見る割にはあまり記憶に残っていませんね！私！あれ？",
+            "timestamp": "2022-09-25T14:02:50.220000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GJ",
+            "text": "ダークナイト面白いですよね！ライトなコメディ映画が好きなのかもしれませんね！",
+            "timestamp": "2022-09-25T14:03:38.353000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DL",
+            "text": "ありましたありました！最近テレビでもやりましたけれども、マスク！あれが好きです！",
+            "timestamp": "2022-09-25T14:04:07.679000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GJ",
+            "text": "マスク！見たことないんですよね。あれってコメディなんですね！",
+            "timestamp": "2022-09-25T14:04:40.465000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DL",
+            "text": "一応コメディですね。実写なのに、漫画みたいな表現が子供達にも好評です。２はイマイチでしたが。",
+            "timestamp": "2022-09-25T14:05:16.464000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GJ",
+            "text": "お子さんも好きなんですね！昔の作品ですよね？",
+            "timestamp": "2022-09-25T14:05:44.439000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DL",
+            "text": "そうです。90年代の作品ですね。私が小学生の頃の作品ですね。",
+            "timestamp": "2022-09-25T14:06:24.300000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GJ",
+            "text": "90年代なら自分も小学生の可能性ありますね！でも見たことないな。当時流行ってましたか？",
+            "timestamp": "2022-09-25T14:07:40.811000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DL",
+            "text": "CMとか結構打ってましたね。そちらはお好きな映画とかはありますか？",
+            "timestamp": "2022-09-25T14:08:18.370000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GJ",
+            "text": "最近も放送されてるってすごいですよね！私はスターウォーズが好きです！",
+            "timestamp": "2022-09-25T14:09:24.747000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DL",
+            "text": "超大作ですね！全シリーズを見られた感じですか？",
+            "timestamp": "2022-09-25T14:09:44.443000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GJ",
+            "text": "全部見てるはずです！見たことありますか？",
+            "timestamp": "2022-09-25T14:10:31.538000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DL",
+            "text": "無いんですよ！何だか敷居が高そうで躊躇してしまうんです！どこから見れば良いのか混乱してしまいます。",
+            "timestamp": "2022-09-25T14:11:13.438000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GJ",
+            "text": "そうですよね。作品数多いしなかなか手をつけづらいですよね！私も最初は同じでした！",
+            "timestamp": "2022-09-25T14:12:15.695000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DL",
+            "text": "ちなみに、昔の４から見始めた感じですか？それともエピソード１から。ですか？",
+            "timestamp": "2022-09-25T14:12:35.619000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GJ",
+            "text": "4〜6を見て、その後1〜6を見るのがベストです！より長くなってしまいますが。",
+            "timestamp": "2022-09-25T14:14:05.664000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DL",
+            "text": "ストーリー的には１から見ないと矛盾を感じたりとかって大丈夫なんですか？",
+            "timestamp": "2022-09-25T14:14:21.475000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GJ",
+            "text": "はい！そこは大丈夫かと！わからない部分も後から1〜6で見て納得できます！",
+            "timestamp": "2022-09-25T14:15:19.371000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DL",
+            "text": "なるほど！まずは４から！なんですね。",
+            "timestamp": "2022-09-25T14:15:33.432000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GJ",
+            "text": "はい！映像にもだいぶ差があるので、昔の作品から見た方がいいかと！",
+            "timestamp": "2022-09-25T14:16:10.090000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DL",
+            "text": "了解です。まずは見てみたいと思います！",
+            "timestamp": "2022-09-25T14:16:25.513000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

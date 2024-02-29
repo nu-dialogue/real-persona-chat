@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6770,
+    "interlocutors": [
+        "HS",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HS",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T15:01:47.487000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T15:01:48.806000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HS",
+            "text": "海外旅行にはいったことがありますか？",
+            "timestamp": "2022-10-06T15:02:13.300000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "新婚旅行でハワイに行っただけですね。",
+            "timestamp": "2022-10-06T15:02:21.435000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HS",
+            "text": "おお。いいですね、ハワイ。",
+            "timestamp": "2022-10-06T15:02:31.511000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "何十年も前で、もう全然行ってないですが。",
+            "timestamp": "2022-10-06T15:02:40.139000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HS",
+            "text": "私は海外に行ったことがないので、ハワイ、行ってみたいです。",
+            "timestamp": "2022-10-06T15:03:08.635000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "今はコロナで海外も行きづらいですもんね",
+            "timestamp": "2022-10-06T15:03:21.218000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HS",
+            "text": "そうですね、コロナがなければ、もしかすると留学とかもあったのかもしれませんが。",
+            "timestamp": "2022-10-06T15:03:44.318000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "コロナで色々な予定が崩れてしまいましたよね",
+            "timestamp": "2022-10-06T15:04:07.279000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HS",
+            "text": "そうですね、ただ個人的には、授業がオンラインになったのが楽でよかったです。",
+            "timestamp": "2022-10-06T15:04:26.809000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "オンラインになると楽ですか？",
+            "timestamp": "2022-10-06T15:04:48.100000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HS",
+            "text": "家から出なくていいので、起きる時間がゆっくりでよかったのが嬉しかったです。",
+            "timestamp": "2022-10-06T15:05:07.164000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "通学時間、長いと大変ですよね。",
+            "timestamp": "2022-10-06T15:05:15.220000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HS",
+            "text": "そうですね。電車に乗る時間は40分くらいなのですが、通勤ラッシュ時間はきついです。",
+            "timestamp": "2022-10-06T15:05:41.336000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "座れたら楽ですけどね。",
+            "timestamp": "2022-10-06T15:06:07.722000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HS",
+            "text": "東京行の電車なので、朝はだいたい満員です。なので、オンライン授業はすごく楽でした。",
+            "timestamp": "2022-10-06T15:06:48.843000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "朝寝坊できるのも良いですね。",
+            "timestamp": "2022-10-06T15:06:57.493000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HS",
+            "text": "最悪の場合、授業5分前に起きても間に合ったのは最高でした。",
+            "timestamp": "2022-10-06T15:07:24.016000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "通常授業だと考えられないですね。",
+            "timestamp": "2022-10-06T15:07:30.676000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HS",
+            "text": "そうですね。そう考えると、ちょっとラッキーだったようにも思えます。",
+            "timestamp": "2022-10-06T15:07:59.495000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "通勤時間帯でも電車は前より空いてたりしませんか？",
+            "timestamp": "2022-10-06T15:08:28.544000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HS",
+            "text": "去年とかは多少すいていたような気がしますが、今年はもうあまり変わらないですね。普通に混んでます。",
+            "timestamp": "2022-10-06T15:09:02.918000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "やっぱり世間的にコロナを受け入れてきているからですかね",
+            "timestamp": "2022-10-06T15:09:24.068000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HS",
+            "text": "そうですね、実際、私の大学でもオンラインではない通常授業も増えています。",
+            "timestamp": "2022-10-06T15:09:55.551000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "それはまた、朝寝坊が出来なくて困りますね",
+            "timestamp": "2022-10-06T15:10:02.982000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HS",
+            "text": "ただ、今私は4年生で、幸い授業がほぼないので、ギリギリセーフです。",
+            "timestamp": "2022-10-06T15:10:38.624000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "一番授業が多かった時期がちょうどオンラインだったんですね",
+            "timestamp": "2022-10-06T15:10:49.290000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HS",
+            "text": "そうです。おととしは１時間目の授業が多かったので、かなり助かりました。",
+            "timestamp": "2022-10-06T15:11:21.268000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "それは良かったですね。",
+            "timestamp": "2022-10-06T15:11:26.565000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

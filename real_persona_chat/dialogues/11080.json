@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11080,
+    "interlocutors": [
+        "EZ",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-19T14:32:03.601000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こちらこそ、よろしくです！",
+            "timestamp": "2022-08-19T14:32:08.150000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "ご趣味をお伺いしてもいいですか？",
+            "timestamp": "2022-08-19T14:32:18.211000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "もちろんです。少しだけ楽器を演奏したりしてます。",
+            "timestamp": "2022-08-19T14:32:33.855000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "おお！どのような楽器でしょうか？",
+            "timestamp": "2022-08-19T14:32:47.551000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "ピアノと、あとはサックスですね。",
+            "timestamp": "2022-08-19T14:32:54.264000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "いいですね。サックスというと、吹くやつですよね。",
+            "timestamp": "2022-08-19T14:33:13.448000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "そうですね！ちょっと肺活量必要なやつです。",
+            "timestamp": "2022-08-19T14:33:22.508000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。ピアノは私も小学生のころ習っていました。",
+            "timestamp": "2022-08-19T14:33:44.242000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "私も習ったのは小学校の時です！今でも楽譜が読めるので、時々弾いてます。",
+            "timestamp": "2022-08-19T14:34:13.015000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "私も最近暇なとき引いてみようと思って電子ピアノ購入したんですよね。",
+            "timestamp": "2022-08-19T14:34:45.189000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "それは素敵ですね！音楽お好きなんですね。",
+            "timestamp": "2022-08-19T14:34:59.223000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "ショパンのノクターンが好きだ！ときてしまって、弾きたいってなっちゃいました。",
+            "timestamp": "2022-08-19T14:35:30.528000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "あら、それは難しい曲を！結構上手なのですね！",
+            "timestamp": "2022-08-19T14:35:51.448000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "小学生の頃は6年くらい習って、伴奏とかさせられていたので、少しは弾けますね！",
+            "timestamp": "2022-08-19T14:36:23.319000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "それはかなり長いことされてましたね。きっとおっしゃってるよりお上手な気がします。",
+            "timestamp": "2022-08-19T14:36:52.304000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "いやもう忘れてしまって、練習大変です。でも最近はネットで楽譜やらみれていいですね。",
+            "timestamp": "2022-08-19T14:37:30.164000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "便利な時代になりましたよね！昔は全部紙だから、めくるのも大変でしたよね。",
+            "timestamp": "2022-08-19T14:37:53.528000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "そうですよね。あと、ユーチューブとかで上手い人の演奏見れるのも、素晴らしいと思います。",
+            "timestamp": "2022-08-19T14:38:19.206000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "結構手元映してくれる方も多くて、参考になりますよね！",
+            "timestamp": "2022-08-19T14:38:35.976000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "そうですよね。聞いていたら一回コンサート行ってみたいなと思ってしまうのですが、いったことありますか？",
+            "timestamp": "2022-08-19T14:39:11.565000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "近くに市立の会館があって。そこでピアノ演奏会をやってて、最近行きました。",
+            "timestamp": "2022-08-19T14:39:40.049000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "うらやましいです。結構有名な方もこられたりするのですか？",
+            "timestamp": "2022-08-19T14:40:02.325000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "私が行ったのは音楽教室主催で、そこまで有名な方ではありませんが。会館には時々有名人も来るらしいです。",
+            "timestamp": "2022-08-19T14:40:39.725000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "なるほどです。ほんとにうまい方の演奏って感情をのせるのがうまいですよね。",
+            "timestamp": "2022-08-19T14:41:18.071000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "ジャンルとか、素人とかなどを超えて、感じられるものがあると思います！",
+            "timestamp": "2022-08-19T14:41:47.617000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "ですよね。ちなみに市立会館だとコンサートのお金とかは取られるのですか？",
+            "timestamp": "2022-08-19T14:42:24.963000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "はい。その代わり市の補助があるので、2000円程度でした。",
+            "timestamp": "2022-08-19T14:42:51.853000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "なるほど！私も近くにないか調べてみます。",
+            "timestamp": "2022-08-19T14:43:10.754000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "映画とそんなに値段変わらなくて、時々行きたくなるんですよね。",
+            "timestamp": "2022-08-19T14:43:25.890000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

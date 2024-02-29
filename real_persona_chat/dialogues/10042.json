@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10042,
+    "interlocutors": [
+        "BB",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちは、はじめまして！",
+            "timestamp": "2022-08-16T13:18:15.231000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "初めまして！",
+            "timestamp": "2022-08-16T13:18:23.469000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "<BS>さんはずっとされてる趣味とか、ありますか？",
+            "timestamp": "2022-08-16T13:18:35.684000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "食が好きなので、料理でしょうか。",
+            "timestamp": "2022-08-16T13:19:39.412000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "素敵な趣味ですね！得意料理は何ですか？",
+            "timestamp": "2022-08-16T13:19:53.547000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "何だろう、、主人が喜んでいたのはグラタンと鮭の生姜焼きだったと思います！",
+            "timestamp": "2022-08-16T13:20:26.543000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "鮭で生姜焼きされるんですね！それはきっと美味しそうだ！",
+            "timestamp": "2022-08-16T13:20:48.660000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "そうなんです、本で読んで。生鮭で作ると美味しいですよ！ご飯に合います。",
+            "timestamp": "2022-08-16T13:21:33.276000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "レシピは結構レパートリーがたまってる感じですか？それともアプリとか参考にされますか？",
+            "timestamp": "2022-08-16T13:22:13.447000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "結構アプリとか動画とかを参考にして試すタイプですね！",
+            "timestamp": "2022-08-16T13:22:46.057000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "私も同じくです。毎日のことだし、飽きちゃうので。",
+            "timestamp": "2022-08-16T13:23:04.879000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "わかります。後は、旅行のプランを練る時、食事から決めるタイプです！",
+            "timestamp": "2022-08-16T13:24:49.204000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "私もそうかもです！現地の有名なお店を調べて、その近くに宿を取ったり！",
+            "timestamp": "2022-08-16T13:24:49.512000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "一緒です！せっかくなら美味しいご飯食べたいですよね。",
+            "timestamp": "2022-08-16T13:25:23.378000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "それか、美味しいものを出してくれる宿を取るかですね。やはり食は欠かせませんよね！",
+            "timestamp": "2022-08-16T13:25:54.511000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "あ、確かにそのパターンもありますね！",
+            "timestamp": "2022-08-16T13:26:16.723000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "今まで行った中だと、湯布院の龍のひげって宿が一番ご飯が美味しかったです！",
+            "timestamp": "2022-08-16T13:26:39.155000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "初めて聞きました！印象的だった一品とかありますか？",
+            "timestamp": "2022-08-16T13:27:10.349000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "地元のお肉を部位別に出して、炭火焼してくれたことですね。残ったら次の朝ご飯にも出てきます。",
+            "timestamp": "2022-08-16T13:27:39.927000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "おお、無駄なく楽しめる感じですね！炭火焼き美味しいですよね。",
+            "timestamp": "2022-08-16T13:28:02.596000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "九州なので、鶏肉がメインでした！",
+            "timestamp": "2022-08-16T13:28:13.620000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "なるほど！近いところだと、別府のふぶ庵っていう宿もよかったですよ！",
+            "timestamp": "2022-08-16T13:29:04.146000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "そこもご飯が美味しい宿ですか？",
+            "timestamp": "2022-08-16T13:29:18.489000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "いえ、そこは素泊まりみたいな感じで泊まったんですが、宿自体がとても良くて。",
+            "timestamp": "2022-08-16T13:30:05.351000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "別府だし、温泉もゆっくり楽しめそうですね。",
+            "timestamp": "2022-08-16T13:30:24.859000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "そうなんです！離れしかない宿で、２階建てで２階に温泉が二つありました。",
+            "timestamp": "2022-08-16T13:31:18.460000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "離れだけの宿、大好きです！プライベート空間ですね。",
+            "timestamp": "2022-08-16T13:31:36.926000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "いいですよね！１階には殿様のお茶室みたいなのもありました。",
+            "timestamp": "2022-08-16T13:31:55.457000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "ちょっと次回の旅行に参考にしますね！",
+            "timestamp": "2022-08-16T13:32:10.364000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "私も参考にさせていただきます！",
+            "timestamp": "2022-08-16T13:32:21.479000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

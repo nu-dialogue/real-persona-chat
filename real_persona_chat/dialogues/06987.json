@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6987,
+    "interlocutors": [
+        "EY",
+        "AE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EY",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-18T22:21:36.746000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AE",
+            "text": "こんばんは～",
+            "timestamp": "2022-10-18T22:21:49.901000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EY",
+            "text": "今日は晩御飯食べましたか？",
+            "timestamp": "2022-10-18T22:22:15.020000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AE",
+            "text": "食べましたよ",
+            "timestamp": "2022-10-18T22:22:34.074000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EY",
+            "text": "何を食べましたか？",
+            "timestamp": "2022-10-18T22:22:52.562000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AE",
+            "text": "今日はケンタッキーにしました",
+            "timestamp": "2022-10-18T22:23:00.011000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EY",
+            "text": "いいですね。ケンタッキーをよく食べるんですか？",
+            "timestamp": "2022-10-18T22:23:30.706000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AE",
+            "text": "帰り道にあるので、時々食べますね～",
+            "timestamp": "2022-10-18T22:23:44.190000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EY",
+            "text": "帰る途中にあるのはいいですね。",
+            "timestamp": "2022-10-18T22:24:15.562000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AE",
+            "text": "ですね～。最近はネットオーダーがあるので並ばずに商品受け取ってすぐ出られるのでつい使っちゃいます",
+            "timestamp": "2022-10-18T22:24:48.982000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EY",
+            "text": "ネットオーダーあると楽ですよね。",
+            "timestamp": "2022-10-18T22:25:19.335000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AE",
+            "text": "ですね。ちょっと距離があるので時間指定が難しいですが。。",
+            "timestamp": "2022-10-18T22:26:12.788000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EY",
+            "text": "通勤の距離長いんですね。それは難しいですね。",
+            "timestamp": "2022-10-18T22:27:15.543000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AE",
+            "text": "そうなんですよ。車なんで結構時間読みづらいんですよね",
+            "timestamp": "2022-10-18T22:27:47.155000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EY",
+            "text": "道が混んだりもしますしね。でも並ばずに買えるのはやっぱり便利ですよね。",
+            "timestamp": "2022-10-18T22:28:21.345000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AE",
+            "text": "ですね。ちょっといやらしいですが並んでる人を尻目に受け取れるのは気分がいいですね。",
+            "timestamp": "2022-10-18T22:28:51.236000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EY",
+            "text": "確かにファーストフード店は並ぶんでその点特にいいですね。",
+            "timestamp": "2022-10-18T22:29:39.754000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AE",
+            "text": "そうなんですよ。あなたも使う機会があればぜひネットオーダー活用してみてください",
+            "timestamp": "2022-10-18T22:30:09.027000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EY",
+            "text": "マクドナルドによく行くんで試してみますね。",
+            "timestamp": "2022-10-18T22:30:58.166000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AE",
+            "text": "ぜひぜひ。ちなみにそちらは今日は何を食べましたか？",
+            "timestamp": "2022-10-18T22:31:18.009000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EY",
+            "text": "今日はパスタを食べました。",
+            "timestamp": "2022-10-18T22:31:39.023000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AE",
+            "text": "パスタですか、いいですね！なんのパスタを食べたんですか？",
+            "timestamp": "2022-10-18T22:32:06.850000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EY",
+            "text": "ナポリタンですね。",
+            "timestamp": "2022-10-18T22:32:38.281000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AE",
+            "text": "いいですね！お店で食べられたんですか？",
+            "timestamp": "2022-10-18T22:33:07.699000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EY",
+            "text": "いいえ、仕事の賄いで作ってもらいました。",
+            "timestamp": "2022-10-18T22:33:22.607000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AE",
+            "text": "なるほど、そうなんですね。ご自身では作られるんですか？",
+            "timestamp": "2022-10-18T22:33:55.116000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EY",
+            "text": "本当にパスタを食べようと思うことが稀なのであまり買わないんで作らないんですよね。",
+            "timestamp": "2022-10-18T22:34:52.568000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AE",
+            "text": "そうなんですね。私もパスタは買って食べることがほとんどです。",
+            "timestamp": "2022-10-18T22:35:31.043000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EY",
+            "text": "味つけもいちから作るのはめんどくさいですもんね。",
+            "timestamp": "2022-10-18T22:36:25.072000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AE",
+            "text": "ですねぇ。ありがとうございました。",
+            "timestamp": "2022-10-18T22:36:38.923000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

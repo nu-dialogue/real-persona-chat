@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7407,
+    "interlocutors": [
+        "CD",
+        "AN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CD",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-05T21:15:46.904000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-05T21:15:49.343000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CD",
+            "text": "明日は週末ですね。",
+            "timestamp": "2022-08-05T21:15:53.810000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AN",
+            "text": "そうですね。この週末は何かご予定があるのですか？",
+            "timestamp": "2022-08-05T21:16:09.400000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CD",
+            "text": "海に行こうと思ってます。あなたは？",
+            "timestamp": "2022-08-05T21:16:34.843000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AN",
+            "text": "海ですか、いいですね。わたしは、盆踊り大会に行く予定でしたが、コロナで中止になっちゃいました。",
+            "timestamp": "2022-08-05T21:16:57.231000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CD",
+            "text": "残念ですね。踊るのは好きですか？",
+            "timestamp": "2022-08-05T21:17:35.591000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AN",
+            "text": "特別好きな訳ではないですがせっかくなので、踊る派ですね。",
+            "timestamp": "2022-08-05T21:18:00.435000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CD",
+            "text": "踊ってしまえば楽しくなりますもんね。",
+            "timestamp": "2022-08-05T21:19:05.435000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AN",
+            "text": "はい。あとは盆踊り大会で子供に浴衣を着せてあげたかったです。",
+            "timestamp": "2022-08-05T21:19:23.881000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CD",
+            "text": "あーいいですね。お子さんは何歳ですか？",
+            "timestamp": "2022-08-05T21:19:46.969000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AN",
+            "text": "上が5歳。下が2歳なんです。",
+            "timestamp": "2022-08-05T21:20:01.725000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CD",
+            "text": "女の子ですか？",
+            "timestamp": "2022-08-05T21:20:15.576000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AN",
+            "text": "はい、どちらも女児ですよー。",
+            "timestamp": "2022-08-05T21:20:27.151000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CD",
+            "text": "絶対可愛いですね！まだ機会ありますきっと。",
+            "timestamp": "2022-08-05T21:20:52.997000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AN",
+            "text": "そうですね。ご自宅から海まではお近いんですか？",
+            "timestamp": "2022-08-05T21:21:23.618000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CD",
+            "text": "電車で2時間ぐらいですかね。",
+            "timestamp": "2022-08-05T21:21:43.308000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AN",
+            "text": "少し距離があるのですね。電車で移動されるのですか?",
+            "timestamp": "2022-08-05T21:22:00.665000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CD",
+            "text": "はい、電車で行こうと思います。免許持ってないので。",
+            "timestamp": "2022-08-05T21:22:32.411000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AN",
+            "text": "そうですか。楽しんできてくださいね！",
+            "timestamp": "2022-08-05T21:22:53.679000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CD",
+            "text": "ありがとうございます。あなたはゆっくりお休みですか？",
+            "timestamp": "2022-08-05T21:23:42.850000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AN",
+            "text": "明日は家具屋さんでも回ろうかなと思っています。",
+            "timestamp": "2022-08-05T21:23:46.644000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CD",
+            "text": "何か買いたいものがありますか？",
+            "timestamp": "2022-08-05T21:24:14.973000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AN",
+            "text": "自分の寝室のカーテンを新調したいと考えていますー。",
+            "timestamp": "2022-08-05T21:24:32.247000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CD",
+            "text": "いいですね。何色が好きですか？",
+            "timestamp": "2022-08-05T21:25:06.680000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AN",
+            "text": "落ち着いた配色が好きですね。お部屋がグリーン系の色味なんですが、何色が合うでしょうか？",
+            "timestamp": "2022-08-05T21:25:41.697000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CD",
+            "text": "そうですね、クリーム色とかはどうでしょう？",
+            "timestamp": "2022-08-05T21:26:11.477000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AN",
+            "text": "とても良さそうです。明日探してみますね。",
+            "timestamp": "2022-08-05T21:26:26.374000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CD",
+            "text": "はい、いいの見つけたら教えてください！",
+            "timestamp": "2022-08-05T21:26:50.014000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AN",
+            "text": "はい、今日はありがとうございました。",
+            "timestamp": "2022-08-05T21:26:54.553000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

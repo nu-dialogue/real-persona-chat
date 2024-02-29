@@ -1,0 +1,221 @@
+{
+    "dialogue_id": 7901,
+    "interlocutors": [
+        "CA",
+        "BZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "おはようございます",
+            "timestamp": "2022-08-06T06:00:06.541000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BZ",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-06T06:00:17.932000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "<CA>と申します。よろしくお願いします！",
+            "timestamp": "2022-08-06T06:00:31.894000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BZ",
+            "text": "よろしくお願いします！いい名前ですね！",
+            "timestamp": "2022-08-06T06:00:46.207000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "ありがとうございます！春うまれなのでこうつけました！<BZ>さんは読み方は<BZ>さんであってますか？",
+            "timestamp": "2022-08-06T06:01:47.528000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BZ",
+            "text": "はい。<BZ>でOKです。由来は某ゲームから好きなキャラ関係です。",
+            "timestamp": "2022-08-06T06:02:24.458000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "おお！気になります！差し支え無ければなんのゲームかお聞きしてもいいですか？",
+            "timestamp": "2022-08-06T06:02:52.141000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BZ",
+            "text": "にゃんこ大戦争って知ってます？",
+            "timestamp": "2022-08-06T06:03:16.171000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "きいたことあります！！！",
+            "timestamp": "2022-08-06T06:03:23.485000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BZ",
+            "text": "めっちゃはまってます。もう3年やってます。",
+            "timestamp": "2022-08-06T06:03:35.038000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "名前だけ聞いてやったことないんですけど、どんなゲームなんですか？",
+            "timestamp": "2022-08-06T06:04:02.216000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BZ",
+            "text": "ねこが他の生命体と戦争するゲームです。シミュレーション？ジャンルはよくわかりません！",
+            "timestamp": "2022-08-06T06:04:47.353000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "なんか気になります！タンクさんのタンクはなかのキャラクターの名前由来ですか？",
+            "timestamp": "2022-08-06T06:05:36.241000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BZ",
+            "text": "結構メインどころのキャラでタンクネコっていうのがいまして。そのままなんです。",
+            "timestamp": "2022-08-06T06:06:06.485000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "今検索してみたら、羽あるのとか長いのとか白い猫がいろいろいました！この中のどれかなんですね！",
+            "timestamp": "2022-08-06T06:06:41.565000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BZ",
+            "text": "ありがとうございます。壁みたいなやつです。",
+            "timestamp": "2022-08-06T06:07:02.169000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "これかな！いました！私もゲーム好きなのでちょっとダウンロードしてみようかな！",
+            "timestamp": "2022-08-06T06:07:48.462000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BZ",
+            "text": "はまったらやばいですよ！朝一とかやらないと気が済まなくなります。",
+            "timestamp": "2022-08-06T06:08:10.258000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "ゲーム好きの私には危ないかも！でもなんかこのきもかわな感じが私の興味をそそります！",
+            "timestamp": "2022-08-06T06:09:02.877000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BZ",
+            "text": "ではぜひ体験を。<CA>さんのお勧めはなにかありますか？",
+            "timestamp": "2022-08-06T06:09:30.884000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "私は今は、たまにテレビでCMをやってるウマ娘をのんびりやってます",
+            "timestamp": "2022-08-06T06:10:04.918000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BZ",
+            "text": "あれ気になっています。めっちゃ流行ってますよね！",
+            "timestamp": "2022-08-06T06:10:19.533000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "弟や夫がやってるのをみて、私も影響されてやったらめちゃくちゃハマりました",
+            "timestamp": "2022-08-06T06:10:50.672000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BZ",
+            "text": "やはり男性に人気！！",
+            "timestamp": "2022-08-06T06:11:10.250000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "そうみたいです！中が女の子のキャラクターだとそうなるのかな。しっかり作られていてとても感動しました。",
+            "timestamp": "2022-08-06T06:12:02.921000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BZ",
+            "text": "いいなぁ。やってみようなかなぁ。かなりはまりそうで怖いんです。",
+            "timestamp": "2022-08-06T06:12:29.195000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "ゲームはほんとに時間忘れちゃいますよね",
+            "timestamp": "2022-08-06T06:12:58.447000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BZ",
+            "text": "否応なしにルーチンに組み込まれてしまいますよね。",
+            "timestamp": "2022-08-06T06:13:17.772000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "わかります！ついスマホ開くと開いてしまう！",
+            "timestamp": "2022-08-06T06:13:41.005000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BZ",
+            "text": "無料でできますしね！",
+            "timestamp": "2022-08-06T06:14:06.064000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CA",
+            "text": "またお話ししましょう",
+            "timestamp": "2022-08-06T06:14:21.818000"
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "BZ",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-06T06:14:34.507000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

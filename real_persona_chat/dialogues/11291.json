@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11291,
+    "interlocutors": [
+        "DU",
+        "EA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DU",
+            "text": "おはようございます。今日は雨でジメジメしていますね。",
+            "timestamp": "2022-08-21T07:44:08.922000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EA",
+            "text": "おはようございます。そうですね、昨日の夜は雷も鳴ってました。",
+            "timestamp": "2022-08-21T07:44:29.785000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DU",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-08-21T07:44:39.891000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EA",
+            "text": "はい、お休みです。あなたもですか？",
+            "timestamp": "2022-08-21T07:44:53.164000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DU",
+            "text": "はい。休みなんですが、雨だしどう過ごそうかなぁと考え中です。",
+            "timestamp": "2022-08-21T07:45:08.957000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EA",
+            "text": "雨だとどうしても外に出たくないですよね。たとえば動画を見るとか？",
+            "timestamp": "2022-08-21T07:45:32.671000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DU",
+            "text": "そうですね。朝から雨がマシなうちに犬の散歩にいきましたが湿気で汗が凄くて。今日は家で過ごそうかな。",
+            "timestamp": "2022-08-21T07:46:05.488000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EA",
+            "text": "犬を飼ってるんですね。犬のお部屋とかあるんですか？",
+            "timestamp": "2022-08-21T07:46:34.647000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DU",
+            "text": "いえ。犬専用部屋っていいなぁって思っていましたがうちの犬は寂しがり屋なので無理そうです。",
+            "timestamp": "2022-08-21T07:47:03.006000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EA",
+            "text": "そうなのかあ。どんな犬種ですか？",
+            "timestamp": "2022-08-21T07:47:22.794000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DU",
+            "text": "MIX犬です。昔で言う雑種ですね。",
+            "timestamp": "2022-08-21T07:47:37.280000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EA",
+            "text": "なるほど、犬のお名前なんていうんですか？",
+            "timestamp": "2022-08-21T07:47:56.989000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DU",
+            "text": "こころという名前です。元保護犬で施設でここって呼ばれていたのであまりかえないようにしました。",
+            "timestamp": "2022-08-21T07:48:25.301000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EA",
+            "text": "可愛い名前ですね！保護犬だったんですね。",
+            "timestamp": "2022-08-21T07:48:51.555000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。詳しいことはおしえてもらえないけど、ペットショップに返品されたそうです。",
+            "timestamp": "2022-08-21T07:49:23.386000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EA",
+            "text": "そうでしたか。保護犬って引き取るのに審査があるってのは本当ですか？",
+            "timestamp": "2022-08-21T07:49:37.053000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DU",
+            "text": "団体によると思います。一応色々と条件は厳しいですが、私が引き取った団体は緩めな気がしました。",
+            "timestamp": "2022-08-21T07:50:11.488000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EA",
+            "text": "なるほど。でも今は犬が幸せそうでよかったですね。どれくらい餌とかたべるんですか？",
+            "timestamp": "2022-08-21T07:50:46.062000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DU",
+            "text": "うちの犬は体重８Kg位あるので一ヶ月で2.4Kgくらいのフードがなくなります。",
+            "timestamp": "2022-08-21T07:51:14.337000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EA",
+            "text": "おお、結構食べますね。好き嫌いとかやっぱりするんですか？",
+            "timestamp": "2022-08-21T07:51:44.610000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DU",
+            "text": "結構うるさいです。ずっと同じのをあげるとアレルギーになるかもだから変更したら食べないとか。",
+            "timestamp": "2022-08-21T07:52:28.558000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EA",
+            "text": "そうなんですね、大変そうだ。温度調節とかもしてあげてますか？",
+            "timestamp": "2022-08-21T07:53:21.861000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DU",
+            "text": "食べないだけではなくお皿から外に捨てますからね。温度もエアコン今はつけっぱなしです。",
+            "timestamp": "2022-08-21T07:53:51.823000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EA",
+            "text": "なるほど。毛とかってやっぱり凄い落ちてたりするもんですか？",
+            "timestamp": "2022-08-21T07:54:37.241000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DU",
+            "text": "凄いですよ。でも毛が抜けない犬もいます。その場合は散髪が必要です。",
+            "timestamp": "2022-08-21T07:54:57.759000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EA",
+            "text": "色々いるんですね。どちらも大変そうだ。私も猫が好きなんですが、飼うまでには至ってないですね。",
+            "timestamp": "2022-08-21T07:55:31.717000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DU",
+            "text": "昔は猫をずっと飼っていました。猫は上手く飼わないと家がボロボロになりますね。",
+            "timestamp": "2022-08-21T07:56:05.713000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EA",
+            "text": "友人が飼ってますがそんな話を聞いたことがあります。",
+            "timestamp": "2022-08-21T07:56:34.046000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。でも愛くるしいので一緒に暮らすとやめられなくなりますよ。またお話聞いてくださいね。",
+            "timestamp": "2022-08-21T07:57:02.569000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EA",
+            "text": "いいですね！また聞かせてください！",
+            "timestamp": "2022-08-21T07:57:19.799000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9427,
+    "interlocutors": [
+        "BI",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-08T10:00:12.592000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "おはようございまーす！",
+            "timestamp": "2022-08-08T10:00:30.914000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "今日の朝ごはんは何を食べましたか？",
+            "timestamp": "2022-08-08T10:00:49.516000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "今日の朝ご飯は、白米・味噌汁・茶碗蒸しでした！",
+            "timestamp": "2022-08-08T10:01:12.418000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "ご飯派ですか？",
+            "timestamp": "2022-08-08T10:01:31.894000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "実は、第三勢力のオートミール派です。今日はたまたまご飯だったんですが。",
+            "timestamp": "2022-08-08T10:02:22.149000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "オートミール、気になるんですが、食べたことなくて。どんな感じですか？",
+            "timestamp": "2022-08-08T10:02:50.628000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "フルーツグラノーラご存知ですか？あれのフルーツが入ってないバージョンですね。",
+            "timestamp": "2022-08-08T10:03:22.969000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "味的にも、グラノラに似た感じですか？",
+            "timestamp": "2022-08-08T10:03:40.375000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "グラノラは砂糖が入ってるので、オートミールは甘くないですね。",
+            "timestamp": "2022-08-08T10:04:25.979000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "そうなんですね！甘くないなら、食べやすそうです。",
+            "timestamp": "2022-08-08T10:04:43.606000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "甘くなくて大丈夫であればおすすめです！食物繊維とかビタミンいっぱい入ってるんですよ！",
+            "timestamp": "2022-08-08T10:05:19.397000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "すごい気になります！やっぱり一度食べてみたいですね！",
+            "timestamp": "2022-08-08T10:05:41.304000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "ぜひ！お粥みたいにして食べてもいいし、ヨーグルトや牛乳に浸して食べてもいいですよ！",
+            "timestamp": "2022-08-08T10:06:16.299000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "牛乳は飲めないんですけど、ヨーグルトが合いそうです！",
+            "timestamp": "2022-08-08T10:06:39.233000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "ヨーグルトめっちゃおいしいです！ジャムとかフルーツ入れてもいいし、飽きないです。",
+            "timestamp": "2022-08-08T10:07:14.476000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "色んな食べ方があるんですね！試すのも楽しそうです！",
+            "timestamp": "2022-08-08T10:07:39.124000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "YouTubeで検索すると色々な食べ方が紹介されてるので、ぜひ！",
+            "timestamp": "2022-08-08T10:08:16.269000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "そういったのも、YouTubeで見られるんですね！知らなかったです。",
+            "timestamp": "2022-08-08T10:08:39.341000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "オートミールおにぎりもめちゃくちゃ美味しいです。おすすめはキムチおにぎりです",
+            "timestamp": "2022-08-08T10:09:06.726000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "おにぎりになっちゃうんですか！それもすごく気になります！",
+            "timestamp": "2022-08-08T10:09:29.146000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "キムチとチーズ入れたおにぎりですよ。美味しくないはずがない！",
+            "timestamp": "2022-08-08T10:09:53.983000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "それは想像するだけでおいしい、鉄板ですね！",
+            "timestamp": "2022-08-08T10:10:15.940000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "美味しいし健康にいいので、最強フードです！",
+            "timestamp": "2022-08-08T10:10:40.087000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "栄養価が高そうなので、白米おにぎりより健康に良さそうですね！",
+            "timestamp": "2022-08-08T10:11:00.920000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "白米ももちろん美味しいし優秀な食べ物ですよね！おにぎりの具はエビマヨ推しです！",
+            "timestamp": "2022-08-08T10:11:46.063000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "エビマヨ、いいですね！私はツナマヨも好きです！",
+            "timestamp": "2022-08-08T10:12:11.773000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "あっ！ツナマヨも捨てがたい！セブンのツナマヨが一番好きです",
+            "timestamp": "2022-08-08T10:12:43.541000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "セブンのツナマヨおいしいですよね！",
+            "timestamp": "2022-08-08T10:13:04.416000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "セブンは総菜美味しいですよね。ありがとうございました！",
+            "timestamp": "2022-08-08T10:13:22.534000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

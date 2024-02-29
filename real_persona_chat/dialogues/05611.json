@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5611,
+    "interlocutors": [
+        "GX",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "おはようございます。",
+            "timestamp": "2022-09-27T08:58:37.182000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "おはようございます。宜しくおねがいします。",
+            "timestamp": "2022-09-27T08:59:07.858000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-09-27T08:59:11.397000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "はい。さっき食べました。",
+            "timestamp": "2022-09-27T08:59:25.580000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "何食べました？",
+            "timestamp": "2022-09-27T08:59:30.873000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "昨日作った蒸しパンの残りです。",
+            "timestamp": "2022-09-27T08:59:40.811000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "自分で作ったんですか！",
+            "timestamp": "2022-09-27T08:59:55.535000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "夜、急に食べたくなって。作っちゃいました。",
+            "timestamp": "2022-09-27T09:00:10.283000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "すごいですね！そんな簡単にできるもんなんですか？",
+            "timestamp": "2022-09-27T09:00:25.598000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "ホットケーキミックスで簡単にできるんですよ。",
+            "timestamp": "2022-09-27T09:00:48.292000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。料理はするほうですか？",
+            "timestamp": "2022-09-27T09:01:03.491000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "結構します。",
+            "timestamp": "2022-09-27T09:01:30.503000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。得意料理はありますか？",
+            "timestamp": "2022-09-27T09:01:55.396000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "得意というほどでもないですけどカレーはよく作りますね。",
+            "timestamp": "2022-09-27T09:02:31.925000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね！カレー好きなんですか？",
+            "timestamp": "2022-09-27T09:02:47.273000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "好きです。作るのが割と難しくないと分かってからはもっと好きです。",
+            "timestamp": "2022-09-27T09:03:10.757000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。難しいイメージがありました。",
+            "timestamp": "2022-09-27T09:03:28.230000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "私もそうだったんですが、困った時はカレーが何とかしてくれると気づいてから楽になりました。",
+            "timestamp": "2022-09-27T09:04:39.101000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "なるほど。一回作ると連続で食べれたりしますもんね。",
+            "timestamp": "2022-09-27T09:05:15.832000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "鍋を洗うのだけが億劫なままです。",
+            "timestamp": "2022-09-27T09:05:48.072000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "確かに！お皿よくためちゃいます。",
+            "timestamp": "2022-09-27T09:06:12.438000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "少ない内に洗ってしまった方がかえって楽だったりしますよ！",
+            "timestamp": "2022-09-27T09:06:36.872000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "わかってはいるのですが、食べ終わった後に洗う気にならないです。",
+            "timestamp": "2022-09-27T09:06:54.412000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "ほんとそうなんですよね。なので、調理器具は料理しながら洗ってます。でも鍋は残ってしまうんですが。",
+            "timestamp": "2022-09-27T09:07:24.104000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "なるほど。手際良いですね。",
+            "timestamp": "2022-09-27T09:07:51.123000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "なんとなく使った直後の方が簡単に洗える気がします。油使ってないから水で流しておけばいいかーとか。",
+            "timestamp": "2022-09-27T09:08:28.462000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "すぐ洗うと、汚れが落ちやすいんですかね。",
+            "timestamp": "2022-09-27T09:08:49.165000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "気のせいかもですが、置いておくとその分しっかり洗わないとなんかヤダって思っちゃいます。",
+            "timestamp": "2022-09-27T09:09:27.827000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "菌も増えそうですしね。",
+            "timestamp": "2022-09-27T09:09:41.190000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "そうなんですよねー。",
+            "timestamp": "2022-09-27T09:10:16.558000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

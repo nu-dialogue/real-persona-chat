@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 258,
+    "interlocutors": [
+        "AV",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-09T21:24:29.353000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-09T21:24:46.608000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AV",
+            "text": "あなたは、お酒飲みますか？",
+            "timestamp": "2022-08-09T21:24:58.100000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "はい、梅酒が好きです！",
+            "timestamp": "2022-08-09T21:25:08.371000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AV",
+            "text": "毎日晩酌を？",
+            "timestamp": "2022-08-09T21:25:18.958000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "週末だけですね、平日はあまり。あなたはどうですか？",
+            "timestamp": "2022-08-09T21:25:43.297000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AV",
+            "text": "わたしは365日晩酌します。",
+            "timestamp": "2022-08-09T21:25:59.519000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "それはすごい！何のお酒がお好きなんですか？",
+            "timestamp": "2022-08-09T21:26:27.471000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AV",
+            "text": "ハイボールをよく飲みますね。",
+            "timestamp": "2022-08-09T21:26:43.620000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "おいしいですよね。何かこだわりとかもあるんですか？ウイスキーの銘柄とか",
+            "timestamp": "2022-08-09T21:27:30.707000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AV",
+            "text": "量を飲むほうなんで安いウイスキーで我慢しています。",
+            "timestamp": "2022-08-09T21:27:51.364000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "二日酔いとかも全然ないんですか？",
+            "timestamp": "2022-08-09T21:28:10.821000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AV",
+            "text": "最近、年齢とともに二日酔いもちょくちょくありますね。あなたは？",
+            "timestamp": "2022-08-09T21:28:39.359000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "私も最近急に二日酔いするようになりました。昔は全然平気だったのに。",
+            "timestamp": "2022-08-09T21:29:04.523000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AV",
+            "text": "わたしと同じ加齢でしょうか。",
+            "timestamp": "2022-08-09T21:29:15.770000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "年齢ですかねぇ。内臓が衰えてるのかも。",
+            "timestamp": "2022-08-09T21:29:49.178000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AV",
+            "text": "ナッツ類を一緒に食べると二日酔いしにくいと聞いたことがありますよ。",
+            "timestamp": "2022-08-09T21:30:07.103000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "そうなんですか？じゃあおつまみをナッツ系にしてみます",
+            "timestamp": "2022-08-09T21:30:44.162000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AV",
+            "text": "わたしはお酒を飲むときおつまみがいらない人なんです。",
+            "timestamp": "2022-08-09T21:31:03.021000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "お酒だけでいけちゃうんですね。私は何か食べたくなっちゃいます。",
+            "timestamp": "2022-08-09T21:31:38.817000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AV",
+            "text": "そのほうが胃腸には優しそうですよ。",
+            "timestamp": "2022-08-09T21:31:53.972000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "たしかに。でも太りそうですよね",
+            "timestamp": "2022-08-09T21:32:39.307000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AV",
+            "text": "それが、お酒だけでもやはり太っちゃいます。",
+            "timestamp": "2022-08-09T21:32:57.124000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "そうなんですか、液体で太るのってなんか納得できないですね",
+            "timestamp": "2022-08-09T21:33:48.476000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AV",
+            "text": "ほんとそれ！声を大にして言いたい！",
+            "timestamp": "2022-08-09T21:34:09.005000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "液体でどうして肉がつくの！？と思いますよね",
+            "timestamp": "2022-08-09T21:34:51.242000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AV",
+            "text": "カロリー恐るべしです。",
+            "timestamp": "2022-08-09T21:35:15.769000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "そろそろダイエットするか迷ってます…",
+            "timestamp": "2022-08-09T21:35:51.805000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AV",
+            "text": "確かに気になりだしました。でも今夜も飲みますよ！",
+            "timestamp": "2022-08-09T21:36:18.379000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "飲んじゃってください！",
+            "timestamp": "NaT"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

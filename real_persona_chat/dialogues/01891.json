@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1891,
+    "interlocutors": [
+        "CP",
+        "EA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CP",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-17T08:08:55.695000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-17T08:09:02.749000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CP",
+            "text": "そちらのお天気はどうですか？",
+            "timestamp": "2022-08-17T08:09:13.833000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EA",
+            "text": "こちらは晴れてますね。そちらはどうですか？",
+            "timestamp": "2022-08-17T08:09:25.646000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CP",
+            "text": "こっちは雨なんですよ。",
+            "timestamp": "2022-08-17T08:09:34.198000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EA",
+            "text": "そうでしたか。最近暑いですが雨だとすこしやわらぎませんか？",
+            "timestamp": "2022-08-17T08:10:03.947000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CP",
+            "text": "かなり涼しいです。クーラーいらず！",
+            "timestamp": "2022-08-17T08:10:15.772000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EA",
+            "text": "いいですね！こっちも雨が降ってほしいです。",
+            "timestamp": "2022-08-17T08:10:33.655000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CP",
+            "text": "気温はいいけど、洗濯物が乾かない！",
+            "timestamp": "2022-08-17T08:10:44.847000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EA",
+            "text": "あ、たしかに。それは不便かもしれませんね。暑いとすぐ乾きますから。",
+            "timestamp": "2022-08-17T08:11:02.139000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CP",
+            "text": "ですです。昨日から雨なので、ちょっとたまり気味です。",
+            "timestamp": "2022-08-17T08:11:15.044000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EA",
+            "text": "昨日からなんですね。どの地域におすみなんですか？",
+            "timestamp": "2022-08-17T08:11:36.372000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CP",
+            "text": "私は九州です。あなたは？",
+            "timestamp": "2022-08-17T08:11:44.116000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EA",
+            "text": "私も九州です。びっくり。",
+            "timestamp": "2022-08-17T08:12:02.149000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CP",
+            "text": "えー！　九州なのに、そちらは晴れなんですね！",
+            "timestamp": "2022-08-17T08:12:11.999000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EA",
+            "text": "そうなんですよ。まあ九州も広いですもんね！",
+            "timestamp": "2022-08-17T08:12:32.240000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CP",
+            "text": "ですね。北の方ですか？　南？",
+            "timestamp": "2022-08-17T08:12:50.235000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EA",
+            "text": "南のほうです。あなたは北ですか？",
+            "timestamp": "2022-08-17T08:13:03.347000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CP",
+            "text": "私も南です。ちなみに、福岡。",
+            "timestamp": "2022-08-17T08:13:16.549000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EA",
+            "text": "あれ、北じゃないですか！",
+            "timestamp": "2022-08-17T08:13:32.275000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CP",
+            "text": "あれ？　あ、本当だ！　なんか日本地図思い浮かべてた！",
+            "timestamp": "2022-08-17T08:13:44.620000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EA",
+            "text": "てことは遠くってことですね。天気が違うのも納得です。",
+            "timestamp": "2022-08-17T08:14:08.825000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CP",
+            "text": "なるほどー！　福岡には来られたことあります？",
+            "timestamp": "2022-08-17T08:14:28.630000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EA",
+            "text": "何度か行ったことはありますが、新幹線で通ることが多いですね。",
+            "timestamp": "2022-08-17T08:14:50.702000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CP",
+            "text": "あー。新幹線。全線開通して便利になりましたよねー！",
+            "timestamp": "2022-08-17T08:15:05.209000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EA",
+            "text": "まあ最近はあまり乗ってないんですよね。コロナが流行っちゃって。",
+            "timestamp": "2022-08-17T08:15:26.617000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CP",
+            "text": "たしかに。遠方に行く機会は減りました。",
+            "timestamp": "2022-08-17T08:15:39.893000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EA",
+            "text": "はやく流行るのをやめてほしいですコロナ。",
+            "timestamp": "2022-08-17T08:16:01.892000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CP",
+            "text": "ですね。久々に旅行に行きたい！",
+            "timestamp": "2022-08-17T08:16:10.861000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EA",
+            "text": "わかります！みんな同じなんですね。",
+            "timestamp": "2022-08-17T08:16:24.709000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

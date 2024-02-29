@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5518,
+    "interlocutors": [
+        "FE",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！！",
+            "timestamp": "2022-09-25T16:43:35.149000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T16:43:42.043000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "最近どこか行かれましたか？",
+            "timestamp": "2022-09-25T16:43:45.669000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "友人の結婚式参列のために地元に戻ってきました！",
+            "timestamp": "2022-09-25T16:44:19.899000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "結婚式！すてきですね！",
+            "timestamp": "2022-09-25T16:44:35.939000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "幸せのおすそ分け頂いてる気持ちになりますね。",
+            "timestamp": "2022-09-25T16:44:48.830000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "ですよねー。ちなみに地元はどの辺なんです？",
+            "timestamp": "2022-09-25T16:45:03.068000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "地元は中国地方です！",
+            "timestamp": "2022-09-25T16:45:12.755000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "中国地方ですか！よく兵庫の方は行きますよ。",
+            "timestamp": "2022-09-25T16:45:37.297000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "おお、実は兵庫のお隣の岡山です。",
+            "timestamp": "2022-09-25T16:45:51.832000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！岡山は行ったことないのですが、何かおいしいものありますか？",
+            "timestamp": "2022-09-25T16:46:12.417000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "くだもの美味しいですよ！シャインマスカットとか。",
+            "timestamp": "2022-09-25T16:46:30.444000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "シャインマスカット大好物です！あれって岡山の名産なんですか？",
+            "timestamp": "2022-09-25T16:46:49.939000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "他の県もつくられているのですが、一応ここも名産らしいですね。",
+            "timestamp": "2022-09-25T16:47:34.888000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "おお、初知りです。やっぱ安く食べられたりするんですか？",
+            "timestamp": "2022-09-25T16:47:56.208000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "安いですね。普段は関東住みなので、高すぎて驚きましたよ。",
+            "timestamp": "2022-09-25T16:48:16.015000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "いいですね！！あんなにおいしいものが安く食べられるなんて。",
+            "timestamp": "2022-09-25T16:48:39.942000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "もはや買うというより頂くことが多いです。",
+            "timestamp": "2022-09-25T16:48:57.005000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "うわ、うらやましすぎます。近くに農園とかあるんですか？",
+            "timestamp": "2022-09-25T16:49:20.847000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "ないんですけど、親戚がやっててとかでよくみんなで分けてました。",
+            "timestamp": "2022-09-25T16:49:51.818000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "いいですねー。すてきな地域なんですね！",
+            "timestamp": "2022-09-25T16:50:21.417000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "しばらく食べてないので恋しいです！あなたの地域の名産ってなにかおありですか？",
+            "timestamp": "2022-09-25T16:50:43.843000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "名産ですか、あまりなくて小学校の時にキャベツって習ったような...。",
+            "timestamp": "2022-09-25T16:51:19.065000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "おお。キャベツといえば、群馬の印象です！",
+            "timestamp": "2022-09-25T16:51:37.379000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "群馬もなんですね！実は私は愛知なのですが。名産というより、味噌カツとか名物のが有名です！",
+            "timestamp": "2022-09-25T16:52:04.461000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "わー！名古屋！味噌カツ実は食べたことなくて！",
+            "timestamp": "2022-09-25T16:52:33.484000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！あれはかなりおいしいですよ！味噌ってなんでも合いますし！",
+            "timestamp": "2022-09-25T16:52:50.869000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "一時よく行っていたのですが食べそこないました!また行かねば！",
+            "timestamp": "2022-09-25T16:53:09.886000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "そうなんですか！ぜひぜひ！矢場とんっていうお店がおすすめですー！",
+            "timestamp": "2022-09-25T16:53:38.679000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "チェックしておきますね！ありがとうございます！",
+            "timestamp": "2022-09-25T16:53:50.777000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

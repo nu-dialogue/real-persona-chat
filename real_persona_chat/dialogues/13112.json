@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13112,
+    "interlocutors": [
+        "FS",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-17T14:10:23.171000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-17T14:10:29.294000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "お昼ご飯は食べましたか？",
+            "timestamp": "2022-09-17T14:10:36.171000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "はい、食べました。",
+            "timestamp": "2022-09-17T14:10:43.683000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "何を食べましたか？",
+            "timestamp": "2022-09-17T14:10:49.881000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "起きるのが遅かったので、菓子パンとカップ麺です",
+            "timestamp": "2022-09-17T14:11:02.096000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "菓子パンおいしいですよね。好きなパンは何ですか？",
+            "timestamp": "2022-09-17T14:11:27.889000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "メロンパンが好きですね。",
+            "timestamp": "2022-09-17T14:11:39.455000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "メロンパンわたしも好きです。おすすめはどこのですか？",
+            "timestamp": "2022-09-17T14:12:14.557000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "セブンのが美味しいと思います。",
+            "timestamp": "2022-09-17T14:12:28.419000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "セブンの試してみます。甘いものが好きなんですか？",
+            "timestamp": "2022-09-17T14:13:04.865000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "頻繁には食べませんが、割と好きです。",
+            "timestamp": "2022-09-17T14:13:22.386000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "好きなお菓子はありますか？",
+            "timestamp": "2022-09-17T14:13:43.968000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "グミが好きですね。",
+            "timestamp": "2022-09-17T14:14:00.881000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "何味が好きですか？わたしはみかんかコーラです。",
+            "timestamp": "2022-09-17T14:14:31.208000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "僕はぶどうがコーラです",
+            "timestamp": "2022-09-17T14:14:46.506000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "ぶどうも捨てがたいですね！コロロのぶどう好きです。",
+            "timestamp": "2022-09-17T14:15:32.654000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "よく買うのは果汁グミかフェットチーネですね。ぶどうは",
+            "timestamp": "2022-09-17T14:16:01.982000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "フェットチーネのぶどう食べたことないので買ってみます。",
+            "timestamp": "2022-09-17T14:17:04.751000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "甘酸っぱくて結構おいしいですよ。",
+            "timestamp": "2022-09-17T14:17:22.595000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね！楽しみです。だいたいコンビニで買うことが多いですか？",
+            "timestamp": "2022-09-17T14:17:52.661000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "家の近くにあるスーパーでよく買いますね。",
+            "timestamp": "2022-09-17T14:18:14.119000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "コンビニに比べて安いですよね！",
+            "timestamp": "2022-09-17T14:19:01.076000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "はい、コンビニではマシュマロ以外お菓子は買わない気がします",
+            "timestamp": "2022-09-17T14:19:19.574000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "マシュマロにチョコが入っているやつですか？",
+            "timestamp": "2022-09-17T14:19:47.534000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "はい、その通りです",
+            "timestamp": "2022-09-17T14:19:56.197000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "わたしもあれ冷蔵庫に入れてから食べるの好きです。",
+            "timestamp": "2022-09-17T14:20:19.060000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "ファミマのが結構好きで、たまに買います",
+            "timestamp": "2022-09-17T14:20:34.244000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "コンビニは行くとけっこう買っちゃいます。",
+            "timestamp": "2022-09-17T14:21:06.208000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "使いすぎてしまいますね。",
+            "timestamp": "2022-09-17T14:21:17.851000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

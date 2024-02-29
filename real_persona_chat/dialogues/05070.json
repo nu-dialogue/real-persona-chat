@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5070,
+    "interlocutors": [
+        "GN",
+        "DD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T13:53:28.627000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DD",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T13:53:46.349000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GN",
+            "text": "趣味何かありますか？",
+            "timestamp": "2022-09-19T13:53:49.414000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DD",
+            "text": "ダンスですかねー",
+            "timestamp": "2022-09-19T13:53:56.924000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GN",
+            "text": "え、最高ですね。ポッピン系すきです",
+            "timestamp": "2022-09-19T13:54:10.616000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DD",
+            "text": "あ、あなたもダンスされますか？",
+            "timestamp": "2022-09-19T13:54:32.964000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GN",
+            "text": "あ、する側ではないけど見るのは好きです！WODとか",
+            "timestamp": "2022-09-19T13:54:44.918000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DD",
+            "text": "見るのも楽しいですよね！",
+            "timestamp": "2022-09-19T13:55:13.592000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GN",
+            "text": "どういう系統踊られるんですか？",
+            "timestamp": "2022-09-19T13:55:19.637000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DD",
+            "text": "ガールズヒップホップってジャンルだったんですけど、一応。今は自由ダンスです！はは",
+            "timestamp": "2022-09-19T13:56:03.037000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GN",
+            "text": "おお！いいですね！ヒップホップもきかれます？",
+            "timestamp": "2022-09-19T13:56:12.437000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DD",
+            "text": "今はKpopにはまってるので、それが多いです。洋楽はポップスが多いし。",
+            "timestamp": "2022-09-19T13:57:10.585000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GN",
+            "text": "いいですね！kpopめちゃかっこいいですよねー",
+            "timestamp": "2022-09-19T13:57:24.714000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DD",
+            "text": "いいですよね！ダンスキレキレだし、歌もいいしー",
+            "timestamp": "2022-09-19T13:57:53.985000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GN",
+            "text": "わかります！めちゃ体力使いそうですよね",
+            "timestamp": "2022-09-19T13:58:05.678000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DD",
+            "text": "ですよね！一日何十時間も練習するんだとか",
+            "timestamp": "2022-09-19T13:58:54.697000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GN",
+            "text": "やばいですね、すごい、、",
+            "timestamp": "2022-09-19T13:59:00.191000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DD",
+            "text": "やばいですよね。",
+            "timestamp": "2022-09-19T13:59:16.484000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GN",
+            "text": "尊敬します本当に",
+            "timestamp": "2022-09-19T13:59:21.088000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DD",
+            "text": "なんかそんだけ練習して、さらに皮膚の管理とか体型の管理とかパニックですよね",
+            "timestamp": "2022-09-19T14:00:02.711000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GN",
+            "text": "わかります、人前に出る仕事ですもんね。",
+            "timestamp": "2022-09-19T14:00:10.293000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DD",
+            "text": "ちょっと仕事忙しいだけで、ボロボロになるのに。すごすぎます",
+            "timestamp": "2022-09-19T14:00:34.311000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GN",
+            "text": "わかります、お肌の管理大変です、、",
+            "timestamp": "2022-09-19T14:00:49.130000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DD",
+            "text": "ですよね。意図せぬ吹き出物との戦いにいつも泣かされます。",
+            "timestamp": "2022-09-19T14:01:11.138000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GN",
+            "text": "できたらほんとなえます！",
+            "timestamp": "2022-09-19T14:01:19.571000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DD",
+            "text": "ですよね！しかも、だいたいなぜ今日なんだ！というタイミングで出てきますよねー",
+            "timestamp": "2022-09-19T14:01:44.058000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GN",
+            "text": "デートの前とかね！かなしいです",
+            "timestamp": "2022-09-19T14:01:53.010000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DD",
+            "text": "ほんと膝から崩れますよね。生まれながらの美肌が羨ましいです。",
+            "timestamp": "2022-09-19T14:02:21.634000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GN",
+            "text": "遺伝もありますよね、、",
+            "timestamp": "2022-09-19T14:02:33.096000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DD",
+            "text": "美肌遺伝子欲しいですね。",
+            "timestamp": "2022-09-19T14:02:48.806000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

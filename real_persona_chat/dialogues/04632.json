@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4632,
+    "interlocutors": [
+        "CB",
+        "BN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは",
+            "timestamp": "2022-09-12T21:25:55.614000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-12T21:25:36.550000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "夜ご飯は食べましたか？",
+            "timestamp": "2022-09-12T21:25:57.522000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BN",
+            "text": "いまお風呂出たとこで、これからなんです。",
+            "timestamp": "2022-09-12T21:26:13.624000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね。いつも遅いんですか？",
+            "timestamp": "2022-09-12T21:26:30.127000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BN",
+            "text": "そうですね。帰宅が大体20時ごろなので。",
+            "timestamp": "2022-09-12T21:26:45.274000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "お仕事で遅いんですか？",
+            "timestamp": "2022-09-12T21:26:58.453000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BN",
+            "text": "18:30が定時なんですが、19時過ぎくらいまでは仕事してますね。",
+            "timestamp": "2022-09-12T21:27:23.302000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "お風呂入ってからごはん食べる派なんですね",
+            "timestamp": "2022-09-12T21:27:47.689000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BN",
+            "text": "そうですね！夏場は特に帰ってきたら速攻で風呂です！",
+            "timestamp": "2022-09-12T21:28:11.021000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "汗かきますもんね！　お腹すいてますよね。何食べるんですか？",
+            "timestamp": "2022-09-12T21:28:36.693000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BN",
+            "text": "今日はお弁当の残りですね～。朝に準備して、余った分は夜に食べます。",
+            "timestamp": "2022-09-12T21:29:24.274000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "たくさん作ったのですね",
+            "timestamp": "2022-09-12T21:29:52.449000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BN",
+            "text": "そうですね～。ちょこっとだけ作るよりも、まとめて作ってお弁当に少し入れる感じのが楽なので。笑",
+            "timestamp": "2022-09-12T21:30:31.134000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "毎日お弁当つくってるんですか。すごいですね",
+            "timestamp": "2022-09-12T21:31:09.706000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BN",
+            "text": "毎日ではないですが、月曜だけは作ってます！",
+            "timestamp": "2022-09-12T21:31:44.580000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "月曜日は何か意味があるんですか？",
+            "timestamp": "2022-09-12T21:32:03.196000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BN",
+            "text": "土日に買い出しに行くので、月曜は気合が入るというか、そんな感じです。笑",
+            "timestamp": "2022-09-12T21:32:50.637000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "ああ、なるほど！",
+            "timestamp": "2022-09-12T21:32:56.733000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BN",
+            "text": "毎日はさすがに疲れるので、ほとんどスーパーのお惣菜とか外食が多いですね！",
+            "timestamp": "2022-09-12T21:33:26.161000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "外食は何が多いですか？私はラーメンや定食が多いです",
+            "timestamp": "2022-09-12T21:33:54.622000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BN",
+            "text": "パスタとか洋食が多いですね～。あとはマックとか！",
+            "timestamp": "2022-09-12T21:34:28.769000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "洋食系ですね！　お弁当もそっち系が多いんですか",
+            "timestamp": "2022-09-12T21:35:12.660000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BN",
+            "text": "お弁当はなるべく和食系にしてます！",
+            "timestamp": "2022-09-12T21:35:36.186000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "なるほど。うちは子どもが中心でメニュー決めてます",
+            "timestamp": "2022-09-12T21:36:23.278000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BN",
+            "text": "リクエスト制ですね！食べたいもの言ってくれると楽ですね！",
+            "timestamp": "2022-09-12T21:36:52.621000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "兄と妹で逆のこというので困ってますが",
+            "timestamp": "2022-09-12T21:37:11.342000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BN",
+            "text": "あー！それは確かに大変だ！笑",
+            "timestamp": "2022-09-12T21:37:25.379000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "結局両方つくったりってこともあります",
+            "timestamp": "2022-09-12T21:37:36.152000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BN",
+            "text": "すごい！両方はなかなかできないです。笑",
+            "timestamp": "2022-09-12T21:37:55.361000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

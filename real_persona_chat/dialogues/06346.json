@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6346,
+    "interlocutors": [
+        "HP",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HP",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-06T11:10:11"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T11:10:18.204000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HP",
+            "text": "もうすぐお昼ですね。昼食は何食べますか？",
+            "timestamp": "2022-10-06T11:10:42"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "昨日スーパーで買ったハンバーガーの予定です。",
+            "timestamp": "2022-10-06T11:10:51.899000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HP",
+            "text": "ハンバーガー！良いですね！スーパーに売ってるんですね",
+            "timestamp": "2022-10-06T11:11:21"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "惣菜が充実していて巨大ハンバーガー売ってたんです。はじめて食べました。昨夜半分食べたんです。",
+            "timestamp": "2022-10-06T11:11:47.092000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HP",
+            "text": "一日で食べきれないほどでっかいんですか…！夢がありますね。",
+            "timestamp": "2022-10-06T11:12:23"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "ハンバーグとチキン南蛮タルタル添えが挟まってました。夢のようです。",
+            "timestamp": "2022-10-06T11:12:50.162000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HP",
+            "text": "えっ、ダブルで…！結構ボリュームありますね！",
+            "timestamp": "2022-10-06T11:13:32"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "そうなんです。半分を更に半分にして旦那と食べました。",
+            "timestamp": "2022-10-06T11:13:44.772000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HP",
+            "text": "えええ、凄い…今日のお昼ご飯はお一人ですかっ？",
+            "timestamp": "2022-10-06T11:14:43"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "旦那と一緒です。リモートワークしてるので最近四六時中一緒です。",
+            "timestamp": "2022-10-06T11:15:17.134000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HP",
+            "text": "そうなんですね！そしたらお昼ご飯で食べきれますね…！",
+            "timestamp": "2022-10-06T11:15:43"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "はい。本当は朝食べる予定でしたが、昨日のがお腹に残ってる気がしてお昼にまわしました。",
+            "timestamp": "2022-10-06T11:16:10.798000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HP",
+            "text": "あああ、まだ夕食消えてないときありますよね。朝は何食べたんですか？",
+            "timestamp": "2022-10-06T11:17:06"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "トーストにしました。",
+            "timestamp": "2022-10-06T11:17:11.663000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HP",
+            "text": "トースト良いですね！甘い派ですか？",
+            "timestamp": "2022-10-06T11:17:40.789000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "いえ、甘いのはあまり食べられなくて。今朝はマーガリンでしたが、いつもは目玉焼きとか乗せます。",
+            "timestamp": "2022-10-06T11:18:19.780000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HP",
+            "text": "目玉焼き乗せるの、朝ごはんって感じして豪華ですね…！うちはジャム派です。",
+            "timestamp": "2022-10-06T11:19:04.927000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "何ジャムがお好きですか？",
+            "timestamp": "2022-10-06T11:19:14.955000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HP",
+            "text": "オーソドックスにイチゴですかね！",
+            "timestamp": "2022-10-06T11:19:41"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "おいしいですねー。ちょっと苦みがあるマーマレード好きです。外食で選ぶときはそれです。",
+            "timestamp": "2022-10-06T11:20:11.829000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HP",
+            "text": "マーマレードもおいしいですよね！外食は何をよく食べますか？",
+            "timestamp": "2022-10-06T11:20:49"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "一番行くのは焼肉とかしゃぶしゃぶです。パンが出てくるのは旅行先でですね。",
+            "timestamp": "2022-10-06T11:21:26.629000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HP",
+            "text": "良いですね！しゃぶしゃぶ大好きです。パンはホテルとかですかね？",
+            "timestamp": "2022-10-06T11:22:17"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "はい、朝食を洋風にするとパンにバターとジャムがついてるので選べるときはマーマレード取ります。",
+            "timestamp": "2022-10-06T11:22:55.821000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HP",
+            "text": "パンよく出ますよね！マーマレードは見たことないです…！",
+            "timestamp": "2022-10-06T11:23:47"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "ビュッフェだとイチゴとマーマレードとブルーベリーが置いてますね。でもマーマレードは少ないかもですね。",
+            "timestamp": "2022-10-06T11:24:43.317000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HP",
+            "text": "ブルーベリーも確かによくありますよね！マーマレードも好きなので、おいてあったら嬉しいです。",
+            "timestamp": "2022-10-06T11:25:30"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "イチゴとブルーベリー混ぜてもおいしいですね。",
+            "timestamp": "2022-10-06T11:26:06.028000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HP",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5672,
+    "interlocutors": [
+        "DB",
+        "GZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-09-27T21:48:53.992000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GZ",
+            "text": "宜しくお願いします！",
+            "timestamp": "2022-09-27T21:49:13.940000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "夕ご飯は食べましたか？",
+            "timestamp": "2022-09-27T21:49:21.439000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GZ",
+            "text": "夕飯は焼き鳥丼を食べました。",
+            "timestamp": "2022-09-27T21:49:43.914000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "おお！美味しそうですね。",
+            "timestamp": "2022-09-27T21:49:53.616000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GZ",
+            "text": "今日は作る時間がなかったので、スーパーで買ってきたものを串から外してのりかけるだけ。",
+            "timestamp": "2022-09-27T21:50:30.522000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "時間がないときはなるべく手間がかからないほうがいいですよ！",
+            "timestamp": "2022-09-27T21:51:00.960000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GZ",
+            "text": "もう、時間ない時は無理しないのをモットーにしています。",
+            "timestamp": "2022-09-27T21:51:22.198000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "料理は好きなほうですか？",
+            "timestamp": "2022-09-27T21:51:41.042000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GZ",
+            "text": "好きです！洋食が好きです。",
+            "timestamp": "2022-09-27T21:52:01.853000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "どんな料理作ったりしますか？",
+            "timestamp": "2022-09-27T21:52:24.561000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GZ",
+            "text": "パエリアとか、トルティーヤとか、、スペインにいた事があります。",
+            "timestamp": "2022-09-27T21:52:49.636000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "ええ！すごいですね！留学ですか？",
+            "timestamp": "2022-09-27T21:53:06.076000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GZ",
+            "text": "そう、留学でした。７年間も。。",
+            "timestamp": "2022-09-27T21:53:25.138000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "7年間も！すごい長いですね。じゃあスペイン語はペラペラなんですね。",
+            "timestamp": "2022-09-27T21:53:53.612000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GZ",
+            "text": "だいぶ忘れてしまいましたが、生活会話くらいなら、、ですね。",
+            "timestamp": "2022-09-27T21:54:15"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "すごいです、、。スペイン料理もそのときに覚えたんですか？",
+            "timestamp": "2022-09-27T21:54:43.792000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GZ",
+            "text": "スペイン人に色々教わりました。とても気さくな国民性で過ごしやすかったです。",
+            "timestamp": "2022-09-27T21:55:14.777000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "いいですね！おすすめのスペイン料理とかってありますか？",
+            "timestamp": "2022-09-27T21:55:30.998000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GZ",
+            "text": "スペインオムレツはジャガイモが入ってるんですけど、とても簡単で美味しいです",
+            "timestamp": "2022-09-27T21:56:03"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "卵もジャガイモも大好きなのですごく美味しそうです。",
+            "timestamp": "2022-09-27T21:56:37.985000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GZ",
+            "text": "あなたは何を食べましたか？",
+            "timestamp": "2022-09-27T21:56:58.499000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "今日はタンドリーチキン食べました！",
+            "timestamp": "2022-09-27T21:57:10.706000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GZ",
+            "text": "おお！美味しそう！！明日はそれにしようかな。",
+            "timestamp": "2022-09-27T21:57:27.381000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "毎日お料理だと献立を決めるのも大変ですね。",
+            "timestamp": "2022-09-27T21:57:48.943000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GZ",
+            "text": "本当、毎日の悩みの種です、、。",
+            "timestamp": "2022-09-27T21:58:14.901000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "シェアハウスで料理担当してる友人も毎日悩んでレシピ漁ってるの見てます。",
+            "timestamp": "2022-09-27T21:58:55.203000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GZ",
+            "text": "レシピサイトはかなり味方です！",
+            "timestamp": "2022-09-27T21:59:17.669000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "明日の献立は決まったので良かったですね！",
+            "timestamp": "2022-09-27T21:59:38.947000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GZ",
+            "text": "ホッとしました。絶対作ります！",
+            "timestamp": "2022-09-27T21:59:55.226000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

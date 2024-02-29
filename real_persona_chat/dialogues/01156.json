@@ -1,0 +1,221 @@
+{
+    "dialogue_id": 1156,
+    "interlocutors": [
+        "AT",
+        "CV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "初めまして、よろしくお願いします。",
+            "timestamp": "2022-08-12T20:00:23.056000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CV",
+            "text": "こちらこそ、よろしくお願いいたします。",
+            "timestamp": "2022-08-12T20:00:37.912000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "お住まいは関東ですか？",
+            "timestamp": "2022-08-12T20:00:48.220000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CV",
+            "text": "はい、東京23区内です。",
+            "timestamp": "2022-08-12T20:01:11.354000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "私もです、週末台風直撃ですね。",
+            "timestamp": "2022-08-12T20:01:28.338000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CV",
+            "text": "そうらしいですね。最近、災害が多くて怖いですね。",
+            "timestamp": "2022-08-12T20:01:47.976000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "確かに、去年の今頃はここまで災害多くなかったです。",
+            "timestamp": "2022-08-12T20:02:22.322000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CV",
+            "text": "暑さが異常で、毎日ずっとクーラーつけっぱなしです。",
+            "timestamp": "2022-08-12T20:02:49.602000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "ずっと猛暑日ですよね、でも明日は少し涼しいみたいですよ。",
+            "timestamp": "2022-08-12T20:03:14.175000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CV",
+            "text": "それは嬉しい！電気代が心配だったので。",
+            "timestamp": "2022-08-12T20:03:42.872000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "最近色々値段が上がって嫌ですね。",
+            "timestamp": "2022-08-12T20:03:54.417000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CV",
+            "text": "本当ですね。玉ねぎがすごく高くなっていて驚きました。",
+            "timestamp": "2022-08-12T20:04:21.125000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "以前は安くて色々な料理に使えて栄養もあったので重宝していました。",
+            "timestamp": "2022-08-12T20:04:52.294000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CV",
+            "text": "まとめ買いして刻んで冷凍保存したりしてました！",
+            "timestamp": "2022-08-12T20:05:26.891000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "本当に最近嫌なニュースばかりです。",
+            "timestamp": "2022-08-12T20:05:51.915000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CV",
+            "text": "憂鬱になる話題ばかりですが、大谷選手などスポーツはすごいですよね",
+            "timestamp": "2022-08-12T20:06:34.086000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "スポーツは偉業とか活躍するとニュースになるので良いニュースが多い印象です！",
+            "timestamp": "2022-08-12T20:06:58.277000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CV",
+            "text": "明るい話題があると、こっちまでホッとしてしまいますね。",
+            "timestamp": "2022-08-12T20:07:29.655000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "そうですね、自分もなんだか嬉しくなります。",
+            "timestamp": "2022-08-12T20:07:52.550000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CV",
+            "text": "暑い中、高校野球も開催中ですよね。",
+            "timestamp": "2022-08-12T20:08:32.136000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "彼らはあんな暑いなかずっと球場にいて本当にすごいと思います。",
+            "timestamp": "2022-08-12T20:09:12.224000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CV",
+            "text": "昔と違って気温が異常なので、長時間大丈夫なのか心配です。",
+            "timestamp": "2022-08-12T20:09:51.207000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "今年は猛暑の影響で体が痛くなったりしてるみたいですよ。",
+            "timestamp": "2022-08-12T20:10:53.750000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CV",
+            "text": "そうですよね。ご自身はスポーツされたりしますか？",
+            "timestamp": "2022-08-12T20:11:15.713000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "学生の頃は卓球とテニスをしていました。",
+            "timestamp": "2022-08-12T20:11:36.601000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CV",
+            "text": "テニスやってみたかったです！いいですね。",
+            "timestamp": "2022-08-12T20:11:58.491000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "やってみると楽しかったです！あなたはスポーツやってますか？",
+            "timestamp": "2022-08-12T20:12:32.452000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CV",
+            "text": "私は学生時代はバレーボールをやっていました。",
+            "timestamp": "2022-08-12T20:12:50.665000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "休み時間にボール落としたらいけないやつやってました！",
+            "timestamp": "2022-08-12T20:13:54.337000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CV",
+            "text": "懐かしい。私もやっていました！",
+            "timestamp": "2022-08-12T20:14:12.320000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AT",
+            "text": "一緒ですね、また話しましょう！",
+            "timestamp": "2022-08-12T20:14:37.274000"
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "CV",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-12T20:15:05.768000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

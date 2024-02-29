@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9588,
+    "interlocutors": [
+        "CO",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます",
+            "timestamp": "2022-08-09T06:17:43.940000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-09T06:17:53.835000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "スポーツはお好きですか？",
+            "timestamp": "2022-08-09T06:18:03.475000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "運動は苦手ですが、歩くことはそんなに嫌いじゃないです。",
+            "timestamp": "2022-08-09T06:18:26.390000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "ウォーキングされてますか？",
+            "timestamp": "2022-08-09T06:18:37.507000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "たまーにですが、歩いています。",
+            "timestamp": "2022-08-09T06:18:52.042000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "いいですね。どれぐらいの時間あるきますか？",
+            "timestamp": "2022-08-09T06:19:20.944000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "40分くらい歩きますかね。",
+            "timestamp": "2022-08-09T06:19:49.112000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "いいですね。歩くとこの時期暑いですよね",
+            "timestamp": "2022-08-09T06:20:16.697000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "ですね。汗だくになっちゃいます。",
+            "timestamp": "2022-08-09T06:20:31.062000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "暑さ対策はしてますか？",
+            "timestamp": "2022-08-09T06:20:41.018000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "冷やしたタオルを首にまくとかしてますね。",
+            "timestamp": "2022-08-09T06:21:08.116000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "首に着ける涼しい機械しってますか？最近の。",
+            "timestamp": "2022-08-09T06:21:39.138000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "なんか聞いたことあります。ほしいですね。",
+            "timestamp": "2022-08-09T06:21:55.894000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "一瞬でぬるくなるみたいですよ",
+            "timestamp": "2022-08-09T06:22:07.484000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "そうなんですか。買う前に知れてよかったです。",
+            "timestamp": "2022-08-09T06:22:30.977000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "でもまた冷やせるそうです。仕事の生き返りだけ使ってます",
+            "timestamp": "2022-08-09T06:23:04.119000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "また冷やせるのは利点ですね。ソニーの着るエアコンというのも気になっています。",
+            "timestamp": "2022-08-09T06:23:29.974000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "それはどんなのですか？",
+            "timestamp": "2022-08-09T06:23:39.422000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "シャツのうなじあたりにポケットが付いていて、小さなエアコンが入るらしいです。",
+            "timestamp": "2022-08-09T06:24:08.154000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "空調服みたいなことですか？",
+            "timestamp": "2022-08-09T06:24:29.822000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "そうですね。シャツだけでいいので、空調服より楽らしいです。",
+            "timestamp": "2022-08-09T06:24:54.499000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "ファンよりエアコンの方が高そうですね",
+            "timestamp": "2022-08-09T06:25:12.456000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "そこが問題ですが、結構売れ行きがいいそうです。",
+            "timestamp": "2022-08-09T06:25:27.853000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "へえ、暑さには代えられませんよね",
+            "timestamp": "2022-08-09T06:25:39.875000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "ですね。エアコンさえ買っちゃえば、毎年使えますからね。",
+            "timestamp": "2022-08-09T06:26:00.142000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "いいですね。検討してみようかな",
+            "timestamp": "2022-08-09T06:26:12.947000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "ぜひホームページとか調べてみてください。",
+            "timestamp": "2022-08-09T06:26:28.956000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "はい、この夏まだ暑そうなので考えてみます",
+            "timestamp": "2022-08-09T06:26:49.453000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "早く涼しくなってほしいものですね。",
+            "timestamp": "2022-08-09T06:27:03.743000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

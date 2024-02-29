@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1989,
+    "interlocutors": [
+        "DP",
+        "CC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DP",
+            "text": "はじめまして！こんにちは。",
+            "timestamp": "2022-08-18T09:46:18.035000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CC",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-18T09:46:24.777000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DP",
+            "text": "そちらは天気はどうですか？",
+            "timestamp": "2022-08-18T09:46:46.370000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CC",
+            "text": "今ちょうど雨が降ってきました。",
+            "timestamp": "2022-08-18T09:46:51.733000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DP",
+            "text": "そうですか。こちらは昨晩から土砂降りで先ほどようやく止みました。",
+            "timestamp": "2022-08-18T09:47:36.430000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CC",
+            "text": "昨日の夜中はなんかすごい降ってましたね、わたしのところも。",
+            "timestamp": "2022-08-18T09:47:57.895000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DP",
+            "text": "そちらもそうでしたか！怖いぐらいの音で熟睡できませんでした。",
+            "timestamp": "2022-08-18T09:48:37.501000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CC",
+            "text": "なんか日本中ずっと水浸しですね。",
+            "timestamp": "2022-08-18T09:48:48.156000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DP",
+            "text": "ほんとに！これから一体どうなっちゃうんでしょうかね。",
+            "timestamp": "2022-08-18T09:49:21.778000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CC",
+            "text": "ねー。自然災害からの復興にいっぱい手間がかかりますね。",
+            "timestamp": "2022-08-18T09:49:50.901000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DP",
+            "text": "住んでるところは災害の心配ありますか？",
+            "timestamp": "2022-08-18T09:50:18.164000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CC",
+            "text": "うーん。大きめの川があるけど、私の家まではこないはずなんですよね。マンションで高台ですし。",
+            "timestamp": "2022-08-18T09:50:54.206000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DP",
+            "text": "安心しました。こちらは水害あるので大雨はドキッとします。",
+            "timestamp": "2022-08-18T09:52:18.624000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CC",
+            "text": "地震はどこにいても安全じゃないですしね。",
+            "timestamp": "2022-08-18T09:52:39.003000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DP",
+            "text": "そうですね。何か非常時の対策ってしてますか？",
+            "timestamp": "2022-08-18T09:53:14.888000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CC",
+            "text": "ペットボトルの水がいっぱいあるくらいです。あなたは？",
+            "timestamp": "2022-08-18T09:53:30.821000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DP",
+            "text": "避難経路の確認と早期情報チェックぐらいです。",
+            "timestamp": "2022-08-18T09:54:07.587000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CC",
+            "text": "避難経路大事ですよね！",
+            "timestamp": "2022-08-18T09:54:27.720000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DP",
+            "text": "田舎なので比較的広いスペースが多いので、そこが救いです。",
+            "timestamp": "2022-08-18T09:55:23.762000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CC",
+            "text": "それはいいですね。海がなければ津波の心配もないですし。",
+            "timestamp": "2022-08-18T09:55:41.667000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DP",
+            "text": "そうですね。地震も少ないです。",
+            "timestamp": "2022-08-18T09:56:36.443000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CC",
+            "text": "地震少ない県なんてあるんですね。うらやましいです。",
+            "timestamp": "2022-08-18T09:57:14.775000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DP",
+            "text": "日本の真ん中ぐらいにある県です。でも他県の地震の速報見ると友人のことなど心配になります。",
+            "timestamp": "2022-08-18T09:58:32.005000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CC",
+            "text": "地震速報、前よりも頻繁に出るようになりましたよね。",
+            "timestamp": "2022-08-18T09:58:53.923000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DP",
+            "text": "そうですよね。気象関係の予報もスピード・精度ともに格段に上がってますよね。",
+            "timestamp": "2022-08-18T09:59:46.993000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CC",
+            "text": "東日本大震災の反省とかもあるんでしょうね。",
+            "timestamp": "2022-08-18T10:00:03.714000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DP",
+            "text": "でしょうね。解析にスパコン使われているようで特集番組みてその進化に驚いたこと思い出します。",
+            "timestamp": "2022-08-18T10:01:30.573000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CC",
+            "text": "そうなんですね！　大切な研究ですよね。",
+            "timestamp": "2022-08-18T10:01:56.978000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DP",
+            "text": "地震止める技術が欲しいです。",
+            "timestamp": "2022-08-18T10:02:27.136000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CC",
+            "text": "それは難しそうですね笑",
+            "timestamp": "2022-08-18T10:02:44.563000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DP",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

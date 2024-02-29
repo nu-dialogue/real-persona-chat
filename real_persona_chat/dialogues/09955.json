@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 9955,
+    "interlocutors": [
+        "CP",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CP",
+            "text": "こんにちは。よろしくお願いします！",
+            "timestamp": "2022-08-10T09:46:14.429000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "お願いします！",
+            "timestamp": "2022-08-10T09:46:20.891000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CP",
+            "text": "近々旅行の予定なんかはありますか？",
+            "timestamp": "2022-08-10T09:46:33.699000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "週末から実家に帰省しようかなと考えてます。",
+            "timestamp": "2022-08-10T09:46:50.947000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CP",
+            "text": "なるほど。ご実家は遠いんですか？",
+            "timestamp": "2022-08-10T09:47:04.817000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "隣県なので近いんですが、色々あって半年くらい帰れてないんですよ。",
+            "timestamp": "2022-08-10T09:47:38.259000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CP",
+            "text": "隣県は私的には遠いですー！　うちは車で30分。",
+            "timestamp": "2022-08-10T09:47:54.692000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "近いですねー！ちょっと寄ってみた、ってできそうで羨ましいです。",
+            "timestamp": "2022-08-10T09:48:25.570000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CP",
+            "text": "そうなんですよ。月1くらいで、野菜をもらいに帰ってます。",
+            "timestamp": "2022-08-10T09:48:41.172000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "野菜もらえるの本当にめちゃくちゃ羨ましい！近くのスーパーだと野菜が高くて。",
+            "timestamp": "2022-08-10T09:49:17.361000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CP",
+            "text": "今年野菜高いですよねー。まじでありがたいです。",
+            "timestamp": "2022-08-10T09:49:34.929000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "夏野菜が好きなんですけど、きゅうりとかも全然安くなくて大変です。",
+            "timestamp": "2022-08-10T09:50:09.730000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CP",
+            "text": "ですよねー。きゅうり、なす、オクラとかもらってます。",
+            "timestamp": "2022-08-10T09:50:44.705000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "今年梅雨が短かったイメージがあるのですが、ご実家のお野菜に影響はあったんでしょうか？",
+            "timestamp": "2022-08-10T09:51:13.946000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CP",
+            "text": "うちは特に変わりがないみたいで、なんで野菜高いのって不思議そうにしてました。",
+            "timestamp": "2022-08-10T09:51:32.619000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "影響なくてよかったです。ナスとかあんまり日が当たりすぎて焼けちゃうとか聞きます。",
+            "timestamp": "2022-08-10T09:52:17.051000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CP",
+            "text": "そうなんですねー。知らなかった。",
+            "timestamp": "2022-08-10T09:52:36.937000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "ニュースでそういう話をみました。お好きな野菜はなんですか？",
+            "timestamp": "2022-08-10T09:52:59.394000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CP",
+            "text": "今は焼きナスにはまってます。なすびがおいしいです。あなたは？",
+            "timestamp": "2022-08-10T09:53:17.341000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "私もナス大好きです！味噌汁にいれたナスが特に好物です。焼きナスもいいですね！",
+            "timestamp": "2022-08-10T09:53:50.280000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CP",
+            "text": "味噌汁に入れてもおいしいですよねー！",
+            "timestamp": "2022-08-10T09:54:12.483000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "皮剥かないと汁が紫になっちゃうのだけが難点なんですけどね。",
+            "timestamp": "2022-08-10T09:54:49.303000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CP",
+            "text": "きっとお味噌でごまかされるので大丈夫です！　ナスはなんにでも使えますよね。",
+            "timestamp": "2022-08-10T09:55:15.102000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "麻婆ナスとかもいいですよね！ナス万能！",
+            "timestamp": "2022-08-10T09:55:42.269000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CP",
+            "text": "麻婆ナスもおいしいですね。あと、めんつゆととにかく合う！",
+            "timestamp": "2022-08-10T09:56:06.935000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "ナスの天ぷらをめんつゆに浸してかじりつきたい！",
+            "timestamp": "2022-08-10T09:56:26.240000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CP",
+            "text": "あー！　おいしそう。すごく食べたいです。そうめんも一緒に！",
+            "timestamp": "2022-08-10T09:56:55.087000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "夏って感じしますね！おいしそうー！",
+            "timestamp": "2022-08-10T09:57:08.154000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CP",
+            "text": "冷たくておいしいです！　またお話しましょうね！",
+            "timestamp": "2022-08-10T09:57:25.556000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "はい！ぜひ！ありがとうございました！",
+            "timestamp": "2022-08-10T09:57:35.248000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CP",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-10T09:57:52.273000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

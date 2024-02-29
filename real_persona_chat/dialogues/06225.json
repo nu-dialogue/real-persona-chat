@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6225,
+    "interlocutors": [
+        "HF",
+        "GH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HF",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T23:06:04.508000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GH",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-03T23:06:16.205000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HF",
+            "text": "最近は旅行されましたか？",
+            "timestamp": "2022-10-03T23:06:21.850000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GH",
+            "text": "最近はできてないですね",
+            "timestamp": "2022-10-03T23:06:26.013000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HF",
+            "text": "最後に行ったのはどちらですか？",
+            "timestamp": "2022-10-03T23:06:35.632000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GH",
+            "text": "九州です！",
+            "timestamp": "2022-10-03T23:06:44.959000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HF",
+            "text": "いいですね！九州のどちらですか？",
+            "timestamp": "2022-10-03T23:07:00.045000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GH",
+            "text": "福岡から大分までいろいろです",
+            "timestamp": "2022-10-03T23:07:14.626000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HF",
+            "text": "すごいですね！何泊出回られましたか？",
+            "timestamp": "2022-10-03T23:07:31.189000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GH",
+            "text": "５泊ですね！",
+            "timestamp": "2022-10-03T23:07:38.948000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HF",
+            "text": "五泊だとかなり回れそうでいいですね",
+            "timestamp": "2022-10-03T23:07:58.012000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GH",
+            "text": "かなり回りました！家族で行ったのですがいい思い出です",
+            "timestamp": "2022-10-03T23:08:14.087000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HF",
+            "text": "その他一番印象に残った旅行はありますか？",
+            "timestamp": "2022-10-03T23:08:32.818000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GH",
+            "text": "東京旅行も印象的でした",
+            "timestamp": "2022-10-03T23:08:48.202000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HF",
+            "text": "いいですね！ディズニーは行きましたか？",
+            "timestamp": "2022-10-03T23:09:21.157000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GH",
+            "text": "ディズニー行きました！",
+            "timestamp": "2022-10-03T23:09:27.489000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HF",
+            "text": "ランドとシーどちらですか？",
+            "timestamp": "2022-10-03T23:09:36.076000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GH",
+            "text": "どちらも行きました！",
+            "timestamp": "2022-10-03T23:09:47.668000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HF",
+            "text": "いいですね！どちらの方が良かったですか？",
+            "timestamp": "2022-10-03T23:10:05.547000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GH",
+            "text": "子どもがランド喜んだのでランドですね",
+            "timestamp": "2022-10-03T23:10:17.274000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HF",
+            "text": "ランドは王道ですね！シーは景色が好きです",
+            "timestamp": "2022-10-03T23:10:34.369000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GH",
+            "text": "ですね！シーの花火とか素敵ですね",
+            "timestamp": "2022-10-03T23:10:59.457000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HF",
+            "text": "イタリアの都市をモデルにしてるのでいつか本場のも行ってみたいです",
+            "timestamp": "2022-10-03T23:11:28.350000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GH",
+            "text": "そうですね！本場のディズニー憧れます",
+            "timestamp": "2022-10-03T23:11:52.090000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HF",
+            "text": "かなり広くて1日では回れないそうですね",
+            "timestamp": "2022-10-03T23:12:26.814000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GH",
+            "text": "そうなんですよね！なかなか大掛かりな旅行になりそうです",
+            "timestamp": "2022-10-03T23:12:42.308000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HF",
+            "text": "友人は五日間かけて回ったそうです",
+            "timestamp": "2022-10-03T23:13:07.692000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GH",
+            "text": "すごいですね！ほんとうに広いんですね",
+            "timestamp": "2022-10-03T23:13:16.802000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HF",
+            "text": "貯金して学生のうちに行きたいです",
+            "timestamp": "2022-10-03T23:13:34.760000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GH",
+            "text": "おお！いいですね！ぜひぜひ",
+            "timestamp": "2022-10-03T23:13:46.384000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

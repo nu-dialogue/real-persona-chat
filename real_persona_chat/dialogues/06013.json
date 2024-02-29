@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6013,
+    "interlocutors": [
+        "HB",
+        "GF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HB",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T17:04:38.320000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GF",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T17:04:41.703000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HB",
+            "text": "晩御飯は予定ありますか？",
+            "timestamp": "2022-10-02T17:04:48.966000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GF",
+            "text": "はい、栗ご飯です！",
+            "timestamp": "2022-10-02T17:04:58.750000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HB",
+            "text": "栗ご飯！秋ですね。",
+            "timestamp": "2022-10-02T17:05:07.312000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GF",
+            "text": "先日旅先の道の駅で、今年初の栗を見つけて買ってきました。",
+            "timestamp": "2022-10-02T17:05:29.743000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。楽しみですね！おいしそう。",
+            "timestamp": "2022-10-02T17:05:38.632000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GF",
+            "text": "昨日ゆでて剥いたのですが、とても苦労しましたよ。",
+            "timestamp": "2022-10-02T17:05:57.974000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HB",
+            "text": "栗を剥くのって大変ですよね。",
+            "timestamp": "2022-10-02T17:06:10.632000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GF",
+            "text": "忘れていましたが、そうでしたね。虫も出てくるし。",
+            "timestamp": "2022-10-02T17:06:30.035000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HB",
+            "text": "虫！出ましたか？",
+            "timestamp": "2022-10-02T17:06:43.636000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GF",
+            "text": "ゆでるまでに２匹、にょろっと。剥いたときも２匹いました。ちょっと気持ち悪いですね。",
+            "timestamp": "2022-10-02T17:07:11.540000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HB",
+            "text": "怖い。食べ物から出てくるのが一番恐怖です。",
+            "timestamp": "2022-10-02T17:07:33.631000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GF",
+            "text": "そうですね、一度だけレタスから蛙が出てきましたよ。",
+            "timestamp": "2022-10-02T17:07:52.159000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HB",
+            "text": "カエルですか。なぜそんなものが。新鮮ってことですかね。",
+            "timestamp": "2022-10-02T17:08:12.234000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GF",
+            "text": "そうですね、そういう所から買っていますが、さすがに蛙は驚きました。",
+            "timestamp": "2022-10-02T17:08:32.155000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HB",
+            "text": "カエルは驚きます。レタスの中にはいるんですね。",
+            "timestamp": "2022-10-02T17:08:51.901000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GF",
+            "text": "料理歴はまあまあ長いのですが、初めてのことでした。",
+            "timestamp": "2022-10-02T17:09:15.746000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HB",
+            "text": "そうですね。栗ご飯意外になにか料理は作りますか？",
+            "timestamp": "2022-10-02T17:09:32.837000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GF",
+            "text": "かぼちゃもち、というのを作ります。わかりますか？",
+            "timestamp": "2022-10-02T17:09:45.466000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HB",
+            "text": "初めて聞きました。",
+            "timestamp": "2022-10-02T17:10:01.848000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GF",
+            "text": "ですよね！北海道でいももちというのがありまして、カボチャを混ぜ込もうかと思っています。",
+            "timestamp": "2022-10-02T17:10:31.098000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HB",
+            "text": "いももちはきいたことありますが、食べたことはないです。おいしそうですね。",
+            "timestamp": "2022-10-02T17:10:54.843000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GF",
+            "text": "郷土料理になるのでしょうか？北海道ではメジャーな食べ物です！",
+            "timestamp": "2022-10-02T17:11:21.709000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。家でも作るもんなんですか？",
+            "timestamp": "2022-10-02T17:11:37.010000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GF",
+            "text": "割と作るものと思っていましたが、今度お友達にも聞いてみます！",
+            "timestamp": "2022-10-02T17:11:59.504000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。調べたら意外に簡単に作れるみたいですね。",
+            "timestamp": "2022-10-02T17:12:14.467000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GF",
+            "text": "早いですね！そうです、とても簡単なのでぜひ作ってみてください！",
+            "timestamp": "2022-10-02T17:12:32.254000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HB",
+            "text": "居酒屋で食べたことあるかも！作ってみます。",
+            "timestamp": "2022-10-02T17:12:47.558000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GF",
+            "text": "おお！北海道外にもあって嬉しいです！",
+            "timestamp": "2022-10-02T17:13:02.020000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

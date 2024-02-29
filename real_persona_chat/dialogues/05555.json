@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5555,
+    "interlocutors": [
+        "GI",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-25T21:36:29.488000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T21:36:33.426000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-09-25T21:36:36.560000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "ティンホイッスル吹くことですかね。",
+            "timestamp": "2022-09-25T21:36:53.469000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "ほう。初めて聞きました。",
+            "timestamp": "2022-09-25T21:37:03.078000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "無印でかかっているBGMに出てくるような笛ですね。",
+            "timestamp": "2022-09-25T21:37:40.482000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "ほうほう。それは結構やられているのですか？",
+            "timestamp": "2022-09-25T21:38:00.535000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "ごくまれにです。一度飽きてまた引っ張り出しました。",
+            "timestamp": "2022-09-25T21:38:13.214000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "あはは。楽しそうですね。",
+            "timestamp": "2022-09-25T21:38:25.145000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "指がうまくまわらなくてですね。",
+            "timestamp": "2022-09-25T21:38:42.578000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。難しいんですか？",
+            "timestamp": "2022-09-25T21:38:54.096000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "結構ピロピロと動かすので難しいです！あなたも趣味はなにかおありで？",
+            "timestamp": "2022-09-25T21:39:15.851000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "私はゲームをするくらいしか趣味がないです。",
+            "timestamp": "2022-09-25T21:39:32.008000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "おーゲームですか！",
+            "timestamp": "2022-09-25T21:39:46.506000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "毎日友達とわいわいやってます。",
+            "timestamp": "2022-09-25T21:39:55.631000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "そういうのあこがれます！",
+            "timestamp": "2022-09-25T21:40:04.115000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "あはは。最近はオンラインでできるんですよ。",
+            "timestamp": "2022-09-25T21:40:17.160000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "ですよね、なんでもできますよね。あまりゲームしないのでうとくて！",
+            "timestamp": "2022-09-25T21:40:38.080000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうなんです。電話をつなぎながらリアルタイムで楽しめます。",
+            "timestamp": "2022-09-25T21:40:57.859000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "最近は何をプレイよくされてるんです？",
+            "timestamp": "2022-09-25T21:41:16.188000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "シューティングゲームですね。スプラトゥーンとか知っています？",
+            "timestamp": "2022-09-25T21:41:32.057000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "知ってますがやったことはなく！すごく人気じゃないですか！",
+            "timestamp": "2022-09-25T21:41:54.531000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "そうです！最近流行りの。",
+            "timestamp": "2022-09-25T21:42:07.165000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "やっぱりおもしろいんですねえ。",
+            "timestamp": "2022-09-25T21:42:15.518000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "おもしろいですよ！難しいですが。",
+            "timestamp": "2022-09-25T21:42:31.521000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "頭結構使うんですかね。",
+            "timestamp": "2022-09-25T21:42:39.546000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "そうですね。あとやりすぎると酔います。",
+            "timestamp": "2022-09-25T21:42:53.539000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "あー！それは危険。私三半規管弱すぎて。",
+            "timestamp": "2022-09-25T21:43:05.230000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "あはは。それは厳しいかもしれません。",
+            "timestamp": "2022-09-25T21:43:18.445000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "残念過ぎます！いつかやってみたいなあ。",
+            "timestamp": "2022-09-25T21:43:26.800000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

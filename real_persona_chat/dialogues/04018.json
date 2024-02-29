@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4018,
+    "interlocutors": [
+        "AJ",
+        "ET"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AJ",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-06T09:19:05.107000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ET",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-06T09:19:15.305000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AJ",
+            "text": "最近、何かハマってることとか趣味とかありますか？",
+            "timestamp": "2022-09-06T09:19:26.465000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ET",
+            "text": "あまり理解されたことないんですが、ゲームを作って遊んでいます！",
+            "timestamp": "2022-09-06T09:19:46.940000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AJ",
+            "text": "ゲームを作る？！SEプログラマーなのですか？",
+            "timestamp": "2022-09-06T09:20:09.775000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ET",
+            "text": "そんな大げさなものではないんですが、初心者でも楽しくゲームを作れるソフトがあるんです。",
+            "timestamp": "2022-09-06T09:20:31.146000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AJ",
+            "text": "へぇ、知らなかったです。Windowsですか？",
+            "timestamp": "2022-09-06T09:20:46.172000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ET",
+            "text": "そうですね。ツクールというゲームなんですが、ここ５年ほどはそれにハマっちゃって。",
+            "timestamp": "2022-09-06T09:21:00.943000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AJ",
+            "text": "面白そう。MAC版もありますかね？",
+            "timestamp": "2022-09-06T09:21:20.922000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ET",
+            "text": "ありますあります。MACなのですね。",
+            "timestamp": "2022-09-06T09:21:29.407000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AJ",
+            "text": "はい。かなり古いですが、ちょっと後で探してみます。",
+            "timestamp": "2022-09-06T09:21:48.049000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ET",
+            "text": "良かったら見てみてください。あなたは何かハマってるものはありますか。",
+            "timestamp": "2022-09-06T09:22:01.491000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AJ",
+            "text": "私は、趣味で野菜を育ててます。興味ありますか？",
+            "timestamp": "2022-09-06T09:22:20.672000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ET",
+            "text": "育てたことはありませんが、食べるのは興味があります。",
+            "timestamp": "2022-09-06T09:22:33.936000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AJ",
+            "text": "食べるのは私も好きです。そこから自分で作ってしまえ！と考えるようになりました。",
+            "timestamp": "2022-09-06T09:23:03.082000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ET",
+            "text": "行動力がすごい！ご自宅の庭で育てているのですか？",
+            "timestamp": "2022-09-06T09:23:17.899000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AJ",
+            "text": "いや、それでも始めるまで時間かかりました。市民農園で畑を借りてます。",
+            "timestamp": "2022-09-06T09:23:40.371000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ET",
+            "text": "本格的ですね！どんな野菜を育ててらっしゃるんですか。どれぐらい採れるのでしょう。",
+            "timestamp": "2022-09-06T09:23:58.951000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AJ",
+            "text": "今は、ナスとスイカ、これからにんにくなど育てます。最近ようやく収穫が上手く出来るようになりました。",
+            "timestamp": "2022-09-06T09:24:38.618000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ET",
+            "text": "沢山育ててらっしゃる！まったくの初心者から始められたのですか？",
+            "timestamp": "2022-09-06T09:24:58.835000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AJ",
+            "text": "以前の会社で、福利厚生で少し知識はありました。今は自然農で自分で勉強してます。",
+            "timestamp": "2022-09-06T09:25:26.022000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ET",
+            "text": "なるほど、そういう切っ掛けがおありだったんですね。体を作るものを育てるって素晴らしいと思います。",
+            "timestamp": "2022-09-06T09:25:57.498000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AJ",
+            "text": "ありがとうございます。上手く作れるようになると、楽しいですよ。",
+            "timestamp": "2022-09-06T09:26:23.453000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ET",
+            "text": "台風が少し心配ですね。大丈夫でしょうか。",
+            "timestamp": "2022-09-06T09:26:33.287000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AJ",
+            "text": "それはあります。ナスとか倒れないことを祈るばかりです。",
+            "timestamp": "2022-09-06T09:27:04.381000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ET",
+            "text": "ナスが危ないのですね。収穫した野菜はご自身だけで食べられるのですか。",
+            "timestamp": "2022-09-06T09:27:24.327000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AJ",
+            "text": "余ったら、皆に分けてます。そういうのも楽しみの一つです。",
+            "timestamp": "2022-09-06T09:27:49.527000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ET",
+            "text": "良いですね。何カ月も育ててきたものを収穫する時は感動でしょうね。",
+            "timestamp": "2022-09-06T09:28:13.250000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AJ",
+            "text": "はい。また次も頑張ろうと！思います。",
+            "timestamp": "2022-09-06T09:28:25.620000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ET",
+            "text": "台風にナスが耐えられるように念を送っておきます。",
+            "timestamp": "2022-09-06T09:28:39.410000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

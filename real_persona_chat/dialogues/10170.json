@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10170,
+    "interlocutors": [
+        "IH",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IH",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-11T17:59:03.117000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんばんは、今夜はどう過ごされますか？",
+            "timestamp": "2022-08-11T17:59:25.153000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IH",
+            "text": "今夜はゆっくりテレビでも見ようかなって思ってます。",
+            "timestamp": "2022-08-11T17:59:58.048000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "いいですね。この番組を見ようとか楽しみにしてるものはありますか？",
+            "timestamp": "2022-08-11T18:00:21.169000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IH",
+            "text": "19時からプレバトがあるんですよね！それが楽しみです。",
+            "timestamp": "2022-08-11T18:00:52.224000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "あぁ、CMでちょっと見たかな。いつも見られるんですか？",
+            "timestamp": "2022-08-11T18:01:17.886000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IH",
+            "text": "大抵見てます！見られなかった時用に録画もしてます。",
+            "timestamp": "2022-08-11T18:01:54.905000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "それはかなりガチですね！このコーナーが好きとかありますか？",
+            "timestamp": "2022-08-11T18:02:12.047000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IH",
+            "text": "毎週俳句をやっているのですが、そこが一番好きですね。",
+            "timestamp": "2022-08-11T18:02:35.370000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "夏井先生のやつで合ってますか？",
+            "timestamp": "2022-08-11T18:03:01.537000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IH",
+            "text": "はい、それです！見てるだけで面白いです。",
+            "timestamp": "2022-08-11T18:03:35.856000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "俳句もやってみたいと思うんですが、季語を覚えるのが難しそうで。",
+            "timestamp": "2022-08-11T18:04:01.712000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IH",
+            "text": "歳時記というものに季語は載っているそうですが、使い方とかも難しそうですよね。",
+            "timestamp": "2022-08-11T18:04:50.698000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "季語を17文字の中に入れるっていうだけで難しい気がします。",
+            "timestamp": "2022-08-11T18:05:15.267000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IH",
+            "text": "自分の言いたいことをあんな短い文字数に収められるのすごいですよね。",
+            "timestamp": "2022-08-11T18:05:57.539000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "本当ですよね。自分はどうしても文章が長くなってしまうので、短くするのは大変そうです。",
+            "timestamp": "2022-08-11T18:06:27.433000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IH",
+            "text": "短くしすぎて言いたいことが伝わってこない！と言われる出演者とかもいますし。",
+            "timestamp": "2022-08-11T18:07:22.609000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "なるほど。その辺のさじ加減がすごく難しそうです。",
+            "timestamp": "2022-08-11T18:07:41.645000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IH",
+            "text": "番組を見てると色々ルールがあるんだなってわかりますが、実際にやるのは大変そうです。",
+            "timestamp": "2022-08-11T18:08:24.038000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "そうですよね、難しいルールの中で表現しなきゃですものね。難しそう。",
+            "timestamp": "2022-08-11T18:09:05.012000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IH",
+            "text": "その上で発想がありきたりすぎたら凡人って評価されちゃうから本当に難しいと思います。",
+            "timestamp": "2022-08-11T18:09:50.541000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "でも逆にぶっ飛んだことを書くと夏井先生に怒られるという。",
+            "timestamp": "2022-08-11T18:10:14.545000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IH",
+            "text": "たまに才能ナシで5点とかのを見ると衝撃を受けますよね、、",
+            "timestamp": "2022-08-11T18:10:59.531000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "そのズバッて切る感じが面白いんでしょうね。",
+            "timestamp": "2022-08-11T18:11:18.290000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IH",
+            "text": "はっきり言ってくれるのでみんな見ててすっきりするのかもしれませんね。",
+            "timestamp": "2022-08-11T18:11:47.466000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "そうじゃなきゃバラエティとして成立しないでしょうし。",
+            "timestamp": "2022-08-11T18:12:02.925000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IH",
+            "text": "ですね。MCの浜田さんもそこにめちゃくちゃ合ってますしね。",
+            "timestamp": "2022-08-11T18:12:49.630000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "浜ちゃんはどうとでも行けますからね。",
+            "timestamp": "2022-08-11T18:13:08.656000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IH",
+            "text": "まあそうですね。ちょっと上から目線だったかもしれません笑",
+            "timestamp": "2022-08-11T18:13:33.176000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "ではプレバトお楽しみに。ありがとうございました。",
+            "timestamp": "2022-08-11T18:13:55.071000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

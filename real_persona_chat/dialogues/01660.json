@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1660,
+    "interlocutors": [
+        "CM",
+        "AY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-17T14:34:45.659000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-17T14:34:51.409000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CM",
+            "text": "あなたの趣味は何ですか？",
+            "timestamp": "2022-08-17T14:35:02.442000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AY",
+            "text": "ネットショッピングかな。",
+            "timestamp": "2022-08-17T14:35:10.362000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CM",
+            "text": "ネットでお買い物って、気軽に色々なものが見られていいですよね！",
+            "timestamp": "2022-08-17T14:35:29.243000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AY",
+            "text": "はい。種類も多いし。",
+            "timestamp": "2022-08-17T14:35:40.272000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CM",
+            "text": "価格の比較が見られるサイトもあって便利ですよね！",
+            "timestamp": "2022-08-17T14:35:55.504000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AY",
+            "text": "そうそう！あれはフルに活用してます。",
+            "timestamp": "2022-08-17T14:36:06.862000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CM",
+            "text": "やっぱり一番安いところで買いたいですもんね！",
+            "timestamp": "2022-08-17T14:36:20.534000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AY",
+            "text": "はい。あと口コミとかも大事ですね。",
+            "timestamp": "2022-08-17T14:36:31.620000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CM",
+            "text": "そうですよね、私時々きちんと見ずに買って後悔してしまいます。",
+            "timestamp": "2022-08-17T14:36:49.050000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AY",
+            "text": "そうなんですか？どんなものに後悔しましたか？",
+            "timestamp": "2022-08-17T14:37:15.044000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CM",
+            "text": "消耗品のＵＳＢケーブルとか、レビューが良くないのに買ってすぐ壊れちゃったりして。",
+            "timestamp": "2022-08-17T14:37:45.309000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AY",
+            "text": "ああ！それはあるあるかも。あと洋服とか。",
+            "timestamp": "2022-08-17T14:38:17.501000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CM",
+            "text": "服も確かに、人によって評価が分かれるものとかありますよね。",
+            "timestamp": "2022-08-17T14:38:29.218000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AY",
+            "text": "はい。モデルに騙されちゃいけません。",
+            "timestamp": "2022-08-17T14:38:39.961000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CM",
+            "text": "モデルさんと同じ着こなしが自分も出来るわけじゃないって、分かってても買ってしまいます。",
+            "timestamp": "2022-08-17T14:38:58.727000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AY",
+            "text": "そうなんですよね！ちんちくりんになる確率高い！",
+            "timestamp": "2022-08-17T14:39:22.591000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CM",
+            "text": "見たのと違う！ってなるけど、仕方ない事なんですよね。",
+            "timestamp": "2022-08-17T14:39:44.370000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AY",
+            "text": "ねー！やっぱモデルはいろいろな体型の人採用して欲しい。",
+            "timestamp": "2022-08-17T14:40:19.708000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CM",
+            "text": "細くて背が高いだけが美じゃないなって思いたいです。",
+            "timestamp": "2022-08-17T14:40:41.344000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AY",
+            "text": "はい。だから服は気を付けて買ってます。",
+            "timestamp": "2022-08-17T14:40:58.775000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CM",
+            "text": "色々な方のレビュー読まないとですね！",
+            "timestamp": "2022-08-17T14:41:10.347000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AY",
+            "text": "はい。最近ソーラーバッテリーが欲しくて。",
+            "timestamp": "2022-08-17T14:41:29.508000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CM",
+            "text": "太陽光で充電出来るっていうものかな？",
+            "timestamp": "2022-08-17T14:41:46.629000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AY",
+            "text": "はいはい。その通りです。",
+            "timestamp": "2022-08-17T14:42:01.024000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CM",
+            "text": "電源要らずだと何かと便利そうですね！",
+            "timestamp": "2022-08-17T14:42:22.846000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AY",
+            "text": "はい。スマホ用のが欲しいんですよー！",
+            "timestamp": "2022-08-17T14:42:26.925000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CM",
+            "text": "じゃあきちんといいレビューの商品を最安値で買いたいところですね！",
+            "timestamp": "2022-08-17T14:42:49.904000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AY",
+            "text": "はい！しっかりしたの見つかるといいな。",
+            "timestamp": "2022-08-17T14:43:10.608000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

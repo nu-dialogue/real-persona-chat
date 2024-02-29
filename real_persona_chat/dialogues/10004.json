@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10004,
+    "interlocutors": [
+        "CE",
+        "ER"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "はじめまして！お願いします！",
+            "timestamp": "2022-08-10T15:52:56.494000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ER",
+            "text": "はじめまして！よろしくお願いします。",
+            "timestamp": "2022-08-10T15:53:06.487000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "今日のお昼ご飯って何食べましたか？",
+            "timestamp": "2022-08-10T15:53:23.872000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ER",
+            "text": "たらこパスタを食べました",
+            "timestamp": "2022-08-10T15:53:33.545000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "たらこパスタ美味しそうですね！パスタお好きなんですか？",
+            "timestamp": "2022-08-10T15:54:02.449000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ER",
+            "text": "好きですね。パスタソースを色々買い込んで違う味を楽しんでいます。",
+            "timestamp": "2022-08-10T15:54:37.381000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "おー！今のところイチオシのソースってありますか？",
+            "timestamp": "2022-08-10T15:55:11.018000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ER",
+            "text": "ペペロンチーノがイチオシですね。ガーリックの風味がいいです。",
+            "timestamp": "2022-08-10T15:55:43.595000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "食欲そそりますよね！唐辛子も入れてちょっとピリッとさせたいですね。",
+            "timestamp": "2022-08-10T15:56:13.419000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ER",
+            "text": "ソースにもう入ってはいるんですけど、追いガーリックや追い唐辛子をついしてしまいますね。",
+            "timestamp": "2022-08-10T15:57:07.311000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "追いガーリックって自分でニンニク刻んで追加されるんですか？",
+            "timestamp": "2022-08-10T15:58:09.338000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ER",
+            "text": "ガーリックチップがあるので、それをまぶしてます。自分で刻むのもいいですね。",
+            "timestamp": "2022-08-10T15:58:23.391000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "チップ便利でいいですね。ペペロンチーノって素材自体はシンプルですよね。",
+            "timestamp": "2022-08-10T15:58:56.148000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ER",
+            "text": "そうですね、自分で作ることもあります。",
+            "timestamp": "2022-08-10T15:59:20.625000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "最近パスタ食べてないので、ペペロンチーノ食べたくなってきました！",
+            "timestamp": "2022-08-10T15:59:49.217000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ER",
+            "text": "たまに食べるパスタも美味しいですよね。",
+            "timestamp": "2022-08-10T16:00:26.594000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "今の時期は冷製パスタとかもいいですよね。さっぱりしたレモンとか添えたい。",
+            "timestamp": "2022-08-10T16:01:00.922000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ER",
+            "text": "冷製パスタいいですね。サラダ風味とかもよさそうです。",
+            "timestamp": "2022-08-10T16:01:24.255000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "いいですねー！自炊って結構されるんですか？",
+            "timestamp": "2022-08-10T16:01:43.137000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ER",
+            "text": "私はあまりしないですね。家族が作ってくれるので任せてます。",
+            "timestamp": "2022-08-10T16:02:05.797000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "作ってくれる人がいるのが一番楽でいいですね。私は一人暮らしなので自炊結構します。",
+            "timestamp": "2022-08-10T16:02:40.227000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ER",
+            "text": "よく作るメニューはなんですか？",
+            "timestamp": "2022-08-10T16:03:01.957000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "豚肉の生姜焼きとかよく作りますね",
+            "timestamp": "2022-08-10T16:03:40.247000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ER",
+            "text": "いいですね！生姜の風味は私も好きです。",
+            "timestamp": "2022-08-10T16:03:51.302000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "生姜好きすぎてたくさん入れちゃうんですけど、辛すぎ！って言われたことあります。",
+            "timestamp": "2022-08-10T16:04:27.559000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ER",
+            "text": "薬味ってついつい多くいれちゃいますよね。",
+            "timestamp": "2022-08-10T16:04:54.552000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよー。ネギとかもあればあるだけいい、みたいな気持ちで用意しちゃいます。",
+            "timestamp": "2022-08-10T16:05:21.363000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ER",
+            "text": "わかります！薬味は入れればいれるほど美味しい気がします！",
+            "timestamp": "2022-08-10T16:05:39.639000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "ですよね！これからもいっぱい用意しようと思います！",
+            "timestamp": "2022-08-10T16:06:13.505000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ER",
+            "text": "いいですね！ありがとうございました！",
+            "timestamp": "2022-08-10T16:06:25.705000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

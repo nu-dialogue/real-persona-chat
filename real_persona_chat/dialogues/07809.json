@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7809,
+    "interlocutors": [
+        "CA",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T06:45:12.163000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T06:45:17.921000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "行ったことがある県や住まれてる県の、ここのお店のこれがおすすめとかってあったら教えて欲しいです",
+            "timestamp": "2022-08-05T06:47:01.571000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "新潟県に行ったことがあるのですが、ポッポ焼きというものが美味しかったです。",
+            "timestamp": "2022-08-05T06:47:35.067000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "わあ！実は私新潟県民で。うれしいです！！！",
+            "timestamp": "2022-08-05T06:47:51.493000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "そうでしたか。お米も絶品でした。",
+            "timestamp": "2022-08-05T06:48:19.261000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "ぽっぽ焼き、屋台で食べられましたか？",
+            "timestamp": "2022-08-05T06:48:44.047000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "そうです。新発田の屋台で食べました。",
+            "timestamp": "2022-08-05T06:49:09.498000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "屋台で食べるの焼き立てで最高です。本当に。",
+            "timestamp": "2022-08-05T06:49:45.555000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "素朴な甘さで何だか懐かしい感じがしました。",
+            "timestamp": "2022-08-05T06:50:05.324000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "まさかぽっぽ焼きをあげていただけると思わなくて感動してます。甘いものお好きなんですか？",
+            "timestamp": "2022-08-05T06:50:36.848000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "大好きです。",
+            "timestamp": "2022-08-05T06:50:53.190000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "他にも<BQ>さんの好きなご当地？の甘いものってありますか？",
+            "timestamp": "2022-08-05T06:52:15.515000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "私の地元はフルーツが美味しいです。",
+            "timestamp": "2022-08-05T06:52:55.646000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "果物大好きです！今の季節<BQ>さんの地元で旬なものってありますか？",
+            "timestamp": "2022-08-05T06:54:15.036000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "今は桃がおすすめです。",
+            "timestamp": "2022-08-05T06:54:34.411000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "わあああ大好きです。桃！！！",
+            "timestamp": "2022-08-05T06:55:01.923000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "私は硬めが好きなのですが<CA>さんはどうですか？",
+            "timestamp": "2022-08-05T06:55:31.666000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "硬めと柔らかめ派でわかれますよね。私もどちらかといえば硬めが好きかもしれないです。",
+            "timestamp": "2022-08-05T06:56:13.152000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "新潟県はルレクチェなども有名ですね。",
+            "timestamp": "2022-08-05T06:57:04.717000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "よくご存知で！結構マイナーな果物かと思っていたのでびっくりです",
+            "timestamp": "2022-08-05T06:57:48.916000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "<CA>さんは他に好きな甘いものはありますか？",
+            "timestamp": "2022-08-05T06:58:47.545000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "甘いもの全般好きな中でも、和菓子が好きで、一口羊羹を常備してます",
+            "timestamp": "2022-08-05T06:59:46.174000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "和菓子もいいですね。私は砂糖菓子みたいなのが好きです。",
+            "timestamp": "2022-08-05T07:00:35.050000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "砂糖菓子って目でも楽しめるのが多いですよね。どんなのを食べられてますか？",
+            "timestamp": "2022-08-05T07:01:31.339000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "金平糖とかも好きですし、色々な形のもがありますよね。",
+            "timestamp": "2022-08-05T07:02:11.568000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "金平糖、久しぶりに食べたいなあ。今期間限定でスイカの金平糖が売ってるみたいで気になっていました。",
+            "timestamp": "2022-08-05T07:03:20.117000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "今はそんなものまであるんですね。確かに気になります。",
+            "timestamp": "2022-08-05T07:03:38.342000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "パッケージもとっても可愛かったです！",
+            "timestamp": "2022-08-05T07:04:11.187000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "要チェックですね。",
+            "timestamp": "2022-08-05T07:04:32.144000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

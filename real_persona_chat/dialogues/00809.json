@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 809,
+    "interlocutors": [
+        "CF",
+        "BW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-13T23:09:21.276000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BW",
+            "text": "よろしくお願いします、何か最近ハマってることとかありますか？",
+            "timestamp": "2022-08-13T23:09:51.909000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "そうですね、ポタリングにまたハマりました。",
+            "timestamp": "2022-08-13T23:10:22.976000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BW",
+            "text": "ポタリングとは？初めて聞きました、何でしょう。",
+            "timestamp": "2022-08-13T23:10:44.427000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "自転車であてもなく散歩することです。楽しいですよ。",
+            "timestamp": "2022-08-13T23:11:05.633000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BW",
+            "text": "へえ、面白そうですね、街中とか自然とか散策する感じですかね。",
+            "timestamp": "2022-08-13T23:11:42.619000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "そうですね。youtubeなど動画サイトで探すと色々出てきますが街中散策が特に好きです。",
+            "timestamp": "2022-08-13T23:12:15.257000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BW",
+            "text": "ちょっとYoutubeでチェックしてみますね、街中も楽しそうですね。",
+            "timestamp": "2022-08-13T23:12:48.412000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "youtubeでポタリング動画見るのが好きで、特に渋谷ポタリングが好きです。",
+            "timestamp": "2022-08-13T23:13:14.572000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BW",
+            "text": "初めて知りました、新しいことを知るのは面白いですね。教えてくれてありがとうございます。",
+            "timestamp": "2022-08-13T23:13:42.794000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "いえいえ、是非見てください。あなたは最近はまっているものはありますか？",
+            "timestamp": "2022-08-13T23:14:13.411000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BW",
+            "text": "最近は久々にウクレレを練習しています。",
+            "timestamp": "2022-08-13T23:14:40.656000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "ウクレレ弾けるんですか！すごいです！",
+            "timestamp": "2022-08-13T23:14:54.490000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BW",
+            "text": "ずっと昔に弾いてたんですが、動画見てたら弾き語りが楽しそうで、練習してました。",
+            "timestamp": "2022-08-13T23:15:24.747000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "弾き語り！すごいです！なんの曲を練習していますか？",
+            "timestamp": "2022-08-13T23:15:50.137000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BW",
+            "text": "ハワイアンの曲や、あとは動画の人が歌ってたような洋楽の曲です。",
+            "timestamp": "2022-08-13T23:16:52.273000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "良いですね！すごいかっこいいです。",
+            "timestamp": "2022-08-13T23:17:17.401000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BW",
+            "text": "全然できてないんですがね、あなたは音楽は聞かれます？",
+            "timestamp": "2022-08-13T23:17:44.537000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "そうですね、邦楽とかゲームのサントラとかを聞きます。",
+            "timestamp": "2022-08-13T23:18:12.327000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BW",
+            "text": "そうなんですね、ゲームだと、昔のは分かりますが、最近はどんなのでしょう。",
+            "timestamp": "2022-08-13T23:18:47.926000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "ゲームのサントラは昔自分がやっていたものが多いです。",
+            "timestamp": "2022-08-13T23:19:38.458000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BW",
+            "text": "へえ、ドラクエとかマリオのような？",
+            "timestamp": "2022-08-13T23:19:56.968000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "ドラクエ時々聞きますよ！あとはファイナルファンタジーとかクロノトリガーとかです。",
+            "timestamp": "2022-08-13T23:20:23.935000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BW",
+            "text": "やはりファイナルファンタジーの音楽って有名ですよね。",
+            "timestamp": "2022-08-13T23:20:56.869000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "そうですね。当時も今も好きです。",
+            "timestamp": "2022-08-13T23:21:07.152000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BW",
+            "text": "ゲーム音楽もなかなか素晴らしいですよね、ドラクエのすぎやまこういちさんはだいぶ前に亡くなりましたが。",
+            "timestamp": "2022-08-13T23:21:54.567000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "偉大な方でしたね。こういう良いものっていうのがこれから先も残ってほしいものです。",
+            "timestamp": "2022-08-13T23:22:24.473000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BW",
+            "text": "そうですね、ゲームやゲーム音楽も日本が誇るものでしょうかね。",
+            "timestamp": "2022-08-13T23:22:49.936000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "私はそう思ってます。お話ありがとうございました！",
+            "timestamp": "2022-08-13T23:23:16.079000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、ありがとうございました。",
+            "timestamp": "2022-08-13T23:23:27.638000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

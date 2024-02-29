@@ -1,0 +1,221 @@
+{
+    "dialogue_id": 7753,
+    "interlocutors": [
+        "AD",
+        "AE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは！今日も一日お疲れ様でした！",
+            "timestamp": "2022-08-03T18:24:54.021000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AE",
+            "text": "こんばんは。今日も一日が終わりましたね～",
+            "timestamp": "2022-08-03T18:25:01.503000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "明日の予定はお仕事ですか？",
+            "timestamp": "2022-08-03T18:25:13.305000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AE",
+            "text": "明日はお仕事ですね…そちらもお仕事ですか？",
+            "timestamp": "2022-08-03T18:25:24.536000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "そうです～。今はコロナ禍で在宅が増えていますが、明日は出勤の日で…朝が早くて。そちらは？",
+            "timestamp": "2022-08-03T18:25:44.109000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AE",
+            "text": "うちの会社は、一応在宅の制度はありますけど、基本出勤なんですよね…",
+            "timestamp": "2022-08-03T18:26:07.521000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "ええ！このコロナが流行しているのにですか？辛いですね。体調大丈夫ですか？",
+            "timestamp": "2022-08-03T18:26:21.112000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AE",
+            "text": "私、3月末にコロナにかかったんですが、在宅がないおかげで逆にお休みをいただけた感じになりました。。",
+            "timestamp": "2022-08-03T18:27:49.202000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "えー！コロナに！？大丈夫でしたか！？在宅だったらコロナでも働かされてたってことですか…？",
+            "timestamp": "2022-08-03T18:28:14.671000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AE",
+            "text": "さすがにどうかは分かりませんけどね…ホテル療養で大変でした…",
+            "timestamp": "2022-08-03T18:28:36.396000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "ホテル療養だったんですね。ご飯とかはどうされていたんですか？",
+            "timestamp": "2022-08-03T18:28:48.017000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AE",
+            "text": "ごはんは3食取りに行く感じでしたね。\nただ選択がお風呂場で手洗いだったのが面倒でしたねぇ",
+            "timestamp": "2022-08-03T18:29:48.963000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "お風呂場ってホテルだから自室のユニットバスですかね？",
+            "timestamp": "2022-08-03T18:30:01.981000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AE",
+            "text": "ですです。嗅覚も一時的になくなったから生乾きかどうかがわからなくて本当大変でした",
+            "timestamp": "2022-08-03T18:30:30.965000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "そうだったんですね…嗅覚は今はもう大丈夫ですか？後遺症とか",
+            "timestamp": "2022-08-03T18:30:41.677000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AE",
+            "text": "結構倦怠感がひどかったですけど、幸いいまは元気です。",
+            "timestamp": "2022-08-03T18:31:02.528000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "おお。倦怠感も復活？良かったです！",
+            "timestamp": "2022-08-03T18:31:19.732000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AE",
+            "text": "ですです。そちらはご自身や周りの人はコロナ大丈夫でした？",
+            "timestamp": "2022-08-03T18:31:49.026000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "私の上司がコロナにかかってましたね、昨年末。私の家族は幸い大丈夫です。",
+            "timestamp": "2022-08-03T18:32:04.255000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AE",
+            "text": "それはよかったです。職場の人がなるとまた大変そうですね…",
+            "timestamp": "2022-08-03T18:32:34.986000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "ただ、うちは在宅の制度が整っているので、上司はコロナでも家で仕事してました。。",
+            "timestamp": "2022-08-03T18:32:51.909000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AE",
+            "text": "なるほど…いいのか悪いのかって思っちゃいます",
+            "timestamp": "2022-08-03T18:33:18.685000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "上司はのどの痛みだけだったみたいなので、そこまで辛くなかったみたいで。でも人事に怒られていました。",
+            "timestamp": "2022-08-03T18:33:41.089000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AE",
+            "text": "あ、やっぱりやらない方がいい感じだったんですね",
+            "timestamp": "2022-08-03T18:33:52.566000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "本当はやらないほうがいいですね。コロナですし…",
+            "timestamp": "2022-08-03T18:34:05.387000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AE",
+            "text": "まぁ、そうですよね～",
+            "timestamp": "2022-08-03T18:34:14.104000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "なので、そちらはしっかりとホテル療養できてよかったと思います！",
+            "timestamp": "2022-08-03T18:34:26.246000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AE",
+            "text": "ですね。コロナ禍で変わったことってあります？生活とか趣味とか",
+            "timestamp": "2022-08-03T18:34:58.695000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "お酒を家で飲むようになりましたね…",
+            "timestamp": "2022-08-03T18:35:05.015000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AE",
+            "text": "あー確かに、私もコロナがきっかけで飲むようになりました",
+            "timestamp": "2022-08-03T18:35:25.232000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AD",
+            "text": "ですよね！コロナ禍でも引き続き頑張りましょうね",
+            "timestamp": "2022-08-03T18:35:45.671000"
+        },
+        {
+            "utterance_id": 31,
+            "interlocutor_id": "AE",
+            "text": "ですね。ありがとうございました！",
+            "timestamp": "2022-08-03T18:35:58.599000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AE",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

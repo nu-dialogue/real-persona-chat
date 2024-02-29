@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8519,
+    "interlocutors": [
+        "CI",
+        "CB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "おはようございます。よろしくお願いします。",
+            "timestamp": "2022-08-07T09:15:13.646000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CB",
+            "text": "おはようございます。よろしくお願いします。",
+            "timestamp": "2022-08-07T09:15:26.974000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "朝ご飯は、パン派、ご飯派、その他、何を召し上がる事が多いですか？",
+            "timestamp": "2022-08-07T09:15:56.801000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CB",
+            "text": "ごはんが７割、パン３割くらいです。そちらはいかがですか",
+            "timestamp": "2022-08-07T09:16:16.783000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "うちもご飯の方が多くて、9:1くらいです。",
+            "timestamp": "2022-08-07T09:16:39.995000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CB",
+            "text": "おかずってどんなものが多いですか。",
+            "timestamp": "2022-08-07T09:16:53.113000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "朝は出すだけのおかずが多いです。納豆とか、魚系とか、卵とか。",
+            "timestamp": "2022-08-07T09:17:22.430000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CB",
+            "text": "うちもそんな感じです。卵が子どもがきらいというので困ってます",
+            "timestamp": "2022-08-07T09:17:38.337000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "アレルギーではなく、味が苦手なんですか？",
+            "timestamp": "2022-08-07T09:18:04.212000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CB",
+            "text": "味だけですね。アレルギーはないです",
+            "timestamp": "2022-08-07T09:18:27.887000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "うちも加熱した卵は嫌みたいです。",
+            "timestamp": "2022-08-07T09:18:46.135000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CB",
+            "text": "生卵のほうが好きなんですね。",
+            "timestamp": "2022-08-07T09:19:20.858000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "TKGか温玉が好きみたいで、蛇のように食べてます。",
+            "timestamp": "2022-08-07T09:19:46.895000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CB",
+            "text": "蛇のように、はじめて聞きました。温玉もおいしいですよね",
+            "timestamp": "2022-08-07T09:20:07.056000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "ちゃんと噛んで！て言ってますけど、噛む暇ないですよね。",
+            "timestamp": "2022-08-07T09:20:29.255000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CB",
+            "text": "なるほど！　そういう意味でしたか",
+            "timestamp": "2022-08-07T09:20:56.796000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "わかりにくくてすみません！そうなんです、丸呑みに近い感じで。",
+            "timestamp": "2022-08-07T09:21:25.058000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CB",
+            "text": "いえいえ、イメージできました。うちもよくかまずに食べてます",
+            "timestamp": "2022-08-07T09:21:45.242000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "好きな食べ物だと構わず食べちゃうし、なかなか子どもに教えるのも難しいですね。",
+            "timestamp": "2022-08-07T09:22:43.746000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CB",
+            "text": "そうですね。カレーとかも噛んでない感じがします",
+            "timestamp": "2022-08-07T09:22:30.770000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "カレーは飲み物、てみんな言いますよね。",
+            "timestamp": "2022-08-07T09:22:48.633000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CB",
+            "text": "なるほど。暑いのでカレーが多くなります",
+            "timestamp": "2022-08-07T09:23:26.011000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "うちも今日はカレーです。大きめに具材を切りました。",
+            "timestamp": "2022-08-07T09:23:54.218000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CB",
+            "text": "カレーいいですね。ジャガイモは大き目が好きです",
+            "timestamp": "2022-08-07T09:24:24.749000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "ジャガイモはゴロゴロしている感じがいいですね。それでもうちは飲まれてしまいそうですけど。",
+            "timestamp": "2022-08-07T09:24:53.061000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CB",
+            "text": "ジャガイモ大きかったら飲みにくそうですけど。",
+            "timestamp": "2022-08-07T09:25:21.153000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "そうなんです、わざとそうしてるんですけど、明らかに食べるスピードがおかしいです。",
+            "timestamp": "2022-08-07T09:25:46.111000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CB",
+            "text": "想像するとほほえましいです",
+            "timestamp": "2022-08-07T09:26:15.688000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "喉をどう通過しているのか、特殊カメラとかで見てみたいです。",
+            "timestamp": "2022-08-07T09:26:36.510000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CB",
+            "text": "なるほど。胃の中はそのままで出てきそうですね。",
+            "timestamp": "2022-08-07T09:26:48.560000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

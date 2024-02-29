@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 300,
+    "interlocutors": [
+        "AN",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T09:38:28.877000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T09:38:46.179000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "今日はいいお天気なので、張り切って洗濯物を2回まわしてしまいました！",
+            "timestamp": "2022-08-08T09:39:05.962000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "本当にカラッと晴れて、洗濯物がすぐ乾きますね！",
+            "timestamp": "2022-08-08T09:39:27.756000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "そうですね。夏はよく乾くので、洗たくが楽しいです。",
+            "timestamp": "2022-08-08T09:39:48.162000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "気持ちいですよね！今日はシーツを洗いました。",
+            "timestamp": "2022-08-08T09:40:04.022000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "いいですね。わたしもシーツ洗いました！",
+            "timestamp": "2022-08-08T09:40:21.603000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "寝汗かいちゃうから、頻繁に洗濯出来て嬉しいです。",
+            "timestamp": "2022-08-08T09:40:41.232000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "寝るときはクーラー付けていますか？",
+            "timestamp": "2022-08-08T09:40:58.197000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "去年はタイマー付けてましたが、今年はつけっぱなしです。そちらは？",
+            "timestamp": "2022-08-08T09:41:15.755000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "こちらもクーラーつけっぱなしです。わたしは寒がりなので、毛布にくるまって寝ています。",
+            "timestamp": "2022-08-08T09:41:51.631000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "分かります。私も年中羽毛布団です。",
+            "timestamp": "2022-08-08T09:42:27.575000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "クーラーつけながら、毛布にくるまると何だか贅沢をしている気分になっちゃいます。",
+            "timestamp": "2022-08-08T09:43:16.755000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "なんか、分かります！気持ちいいですよね。",
+            "timestamp": "2022-08-08T09:43:30.098000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "ですです。夫がかなりの暑がりなので、クーラー付けずにはいれないんですよね。",
+            "timestamp": "2022-08-08T09:43:59.551000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "男の人は特にですよね。こっちが合わさないといけないから大変。",
+            "timestamp": "2022-08-08T09:44:21.813000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "そうですよね。その割にお腹が冷えて痛いよー。とよく言っていて、おもしろいなと思いながら過ごしています。",
+            "timestamp": "2022-08-08T09:45:00.205000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "それは面白いですね。男の人って腸が弱いから、うちの夫はたまにくだしてます。",
+            "timestamp": "2022-08-08T09:45:33.578000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "何回タオルケットを掛けてあげても、すぐに脱いじゃうんですよね。",
+            "timestamp": "2022-08-08T09:45:56.604000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "後、すごく寝言いいます。",
+            "timestamp": "2022-08-08T09:46:20.491000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "どんな寝言言っているんですか？",
+            "timestamp": "2022-08-08T09:46:33.303000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "解読不可ですが、前は恐らくタクシー呼んでました。",
+            "timestamp": "2022-08-08T09:46:56.454000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "え！めっちゃ面白い！",
+            "timestamp": "2022-08-08T09:47:07.449000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "ピーンと手を挙げて、タクシーって言ってた。",
+            "timestamp": "2022-08-08T09:47:24.796000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "実際その光景を見たら爆笑しちゃいそうです。",
+            "timestamp": "2022-08-08T09:47:40.912000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "さすがに笑いましたね。普段タクシー乗らないのに。",
+            "timestamp": "2022-08-08T09:47:57.992000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "普段乗らないんかーい！",
+            "timestamp": "2022-08-08T09:48:15.021000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "そう。だから尚更ウケました。",
+            "timestamp": "2022-08-08T09:48:30.342000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "旦那様可愛らしいですね。",
+            "timestamp": "2022-08-08T09:48:39.497000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "今はまだ。楽しいお話しありがとうございました！",
+            "timestamp": "2022-08-08T09:48:52.240000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "はい。こちらも楽しかったです、ありがとうございました！",
+            "timestamp": "2022-08-08T09:49:13.521000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

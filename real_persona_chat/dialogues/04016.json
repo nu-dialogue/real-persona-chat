@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4016,
+    "interlocutors": [
+        "AJ",
+        "ET"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AJ",
+            "text": "おはようございます。はじめまして。",
+            "timestamp": "2022-09-06T08:58:51.463000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ET",
+            "text": "おはようございます。よろしくお願いします。",
+            "timestamp": "2022-09-06T08:58:56.948000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AJ",
+            "text": "今日のそちらの天気はどうですか？",
+            "timestamp": "2022-09-06T08:59:25.720000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ET",
+            "text": "今日は快晴です。午後から雨のようですが。",
+            "timestamp": "2022-09-06T08:59:32.391000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AJ",
+            "text": "台風が近づいてるようですからね。",
+            "timestamp": "2022-09-06T09:00:01.250000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ET",
+            "text": "そうですね、念のため昨晩は雨戸を閉めて寝ました。",
+            "timestamp": "2022-09-06T09:00:04.146000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AJ",
+            "text": "それが良いですね。今回のはかなりやばいみたいなので。",
+            "timestamp": "2022-09-06T09:00:46.485000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ET",
+            "text": "そちらは台風の影響は大丈夫ですか。",
+            "timestamp": "2022-09-06T09:00:57.536000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AJ",
+            "text": "今の所、大丈夫です。快晴でかなり暑いです。",
+            "timestamp": "2022-09-06T09:01:16.573000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ET",
+            "text": "最近少し涼しかったんですが、急に夏に戻りましたね。",
+            "timestamp": "2022-09-06T09:01:33.156000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AJ",
+            "text": "本当です。移り変わりが激しくて、体調壊しそうです。",
+            "timestamp": "2022-09-06T09:01:57.037000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ET",
+            "text": "今年は体調どうでしたか。",
+            "timestamp": "2022-09-06T09:02:08.335000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AJ",
+            "text": "コロナにもかからず、今のところは問題ないです。あなたは？",
+            "timestamp": "2022-09-06T09:02:28.223000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ET",
+            "text": "私もおかげさまで元気に過ごせております。ありがたいことですね。",
+            "timestamp": "2022-09-06T09:02:40.415000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AJ",
+            "text": "同感です。これだけコロナが流行ってて、何もないのは運がいいと思います。",
+            "timestamp": "2022-09-06T09:03:03.300000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ET",
+            "text": "無症状等もあるので知らないうちにかかってるかもしれませんがね。",
+            "timestamp": "2022-09-06T09:03:21.519000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AJ",
+            "text": "それはあるかもです。ワクチンは打たれてますか？",
+            "timestamp": "2022-09-06T09:03:37.473000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ET",
+            "text": "３回打ちましたね。４回目はうちの市は６５歳以上の人しか打てません。",
+            "timestamp": "2022-09-06T09:03:57.170000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AJ",
+            "text": "私の地域もです。医療従事者の方は、４回目接種始まるようですが。",
+            "timestamp": "2022-09-06T09:04:24.054000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ET",
+            "text": "市ではなくて国がそう決めてるのかな。よく分かりませんが。４回目も打ちますか？",
+            "timestamp": "2022-09-06T09:04:40.689000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AJ",
+            "text": "無料なら、打とうかと思います。",
+            "timestamp": "2022-09-06T09:04:58.507000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ET",
+            "text": "無料かどうかは大事ですね！副作用は大丈夫でした？",
+            "timestamp": "2022-09-06T09:05:11.856000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AJ",
+            "text": "私は、大した副作用はまだないです。あなたは？",
+            "timestamp": "2022-09-06T09:05:32.846000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ET",
+            "text": "私は2回目が高熱頭痛で3日ポンコツでした。ファイザーだったんですけどね。",
+            "timestamp": "2022-09-06T09:05:54.271000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AJ",
+            "text": "やっぱ、人によるようですね。４回目は打つ予定ですか？",
+            "timestamp": "2022-09-06T09:06:19.240000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ET",
+            "text": "無料なら打とうと思います！",
+            "timestamp": "2022-09-06T09:06:31.760000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AJ",
+            "text": "ですよね。いずれ有料になるともいますが。無料のうちに打ったほうが良いと思います。",
+            "timestamp": "2022-09-06T09:07:08.009000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ET",
+            "text": "ですね。しかしとんでもない世の中になりました。この会話も５年前の私達が見たら信じられませんね。",
+            "timestamp": "2022-09-06T09:07:27.266000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AJ",
+            "text": "本当です。今の状態なんて、想像できませんでした。",
+            "timestamp": "2022-09-06T09:07:47.015000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ET",
+            "text": "インフルエンザの予防接種もはじまるし、大変です。",
+            "timestamp": "2022-09-06T09:07:59.941000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

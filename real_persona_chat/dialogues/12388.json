@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12388,
+    "interlocutors": [
+        "DL",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんばんわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-08T19:55:50.207000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-08T19:55:53.822000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "最近、何かハマっていることはありますか？",
+            "timestamp": "2022-09-08T19:56:00.505000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "ドラマを見ることです",
+            "timestamp": "2022-09-08T19:56:10.031000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "ドラマですか！テレビでですか？それとも配信サイトとかですか？",
+            "timestamp": "2022-09-08T19:56:33.049000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "ネットフリックスです",
+            "timestamp": "2022-09-08T19:56:41.533000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "差し支えなければ、何と言うドラマですか？",
+            "timestamp": "2022-09-08T19:56:53.830000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "ペーパーハウスを見てました！",
+            "timestamp": "2022-09-08T19:57:13.736000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "初めて聞きました。どのようなジャンルなのですか？",
+            "timestamp": "2022-09-08T19:57:27.771000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "スペインので、銀行強盗のお話です",
+            "timestamp": "2022-09-08T19:57:49.147000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "紹介ページ見ました。何だか面白そうな雰囲気ですね。サスペンス系っぽいですね。",
+            "timestamp": "2022-09-08T19:58:18.263000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "序盤面白いです。ストレンジャーシングスは知ってますか？",
+            "timestamp": "2022-09-08T19:58:36.065000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "いえ。ドラマはあまり見ないのですが、色々知りたいです。よろしければそちらについても教えて下さい。",
+            "timestamp": "2022-09-08T19:59:11.726000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "未知の世界のストーリーなのですが、世界的には同じくらい2つが流行ったみたいです",
+            "timestamp": "2022-09-08T19:59:43.994000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "wiki見ましたけど、超能力物ですかね？これ結構好きな雰囲気です！",
+            "timestamp": "2022-09-08T20:00:16.729000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "そうです！3作目まで面白いのでぜひ見ていただきたいです",
+            "timestamp": "2022-09-08T20:00:35.693000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "これもネトフリで見れそうですね。以前から契約してみたいと思っているのですが、中々踏ん切りがつかないんです。",
+            "timestamp": "2022-09-08T20:01:01.057000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "まずは1ヶ月使ってみて、続けるか決めるといいと思います。好きなのが無くなったりするので",
+            "timestamp": "2022-09-08T20:01:49.490000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "いえ、好きな物が多過ぎて、逆にどれを見ようか迷ってしまいそうなのですよ。本当に。",
+            "timestamp": "2022-09-08T20:02:15.490000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "ありすぎても迷いますよね。ドラマや映画はよくみますか？",
+            "timestamp": "2022-09-08T20:02:31.999000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "見たいのですが、何を見たら良いのか迷ってしまい、結局見ていない感じです。",
+            "timestamp": "2022-09-08T20:02:59.254000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "ジャンルは何が好きとかあるんですか？",
+            "timestamp": "2022-09-08T20:03:17.743000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "ダークな感じが好きですね。暗い感じの物が。なので、ストレンジャーシングスが凄く見たくなってきました。",
+            "timestamp": "2022-09-08T20:03:49.211000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "おすすめですね！ダークはホラーとは違いますかね",
+            "timestamp": "2022-09-08T20:04:03.794000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "ホラーも好きですよ。",
+            "timestamp": "2022-09-08T20:04:18.924000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "ネットフリックスのデビルマンは、ダークっぽくて好みかもしれません",
+            "timestamp": "2022-09-08T20:05:06.522000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "デビルマンですか！あれって原作寄りのアニメでしたっけ？",
+            "timestamp": "2022-09-08T20:05:24.860000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "そうです！原作の方知ってますか？",
+            "timestamp": "2022-09-08T20:05:39.483000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "持ってますよ！あれも好きです！",
+            "timestamp": "2022-09-08T20:05:52.529000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "原作知らないんですが、アニメ良かったです",
+            "timestamp": "2022-09-08T20:06:09.464000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

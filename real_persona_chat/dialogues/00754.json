@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 754,
+    "interlocutors": [
+        "AL",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AL",
+            "text": "よろしくおねがいしまーす",
+            "timestamp": "2022-08-10T07:44:06.224000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-10T07:44:11.828000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AL",
+            "text": "読書されますか？",
+            "timestamp": "2022-08-10T07:44:20.596000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "最近それほどでもないですが、もともとは結構好きでした",
+            "timestamp": "2022-08-10T07:44:36.747000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AL",
+            "text": "おお、学生時代とかですか",
+            "timestamp": "2022-08-10T07:44:44.277000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "学生時代は、本の虫です",
+            "timestamp": "2022-08-10T07:45:13.169000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AL",
+            "text": "そういう方、いらっしゃったなー。難しい本読んでそうですね",
+            "timestamp": "2022-08-10T07:45:16.248000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "中学生の頃は太宰派でした",
+            "timestamp": "2022-08-10T07:45:23.203000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AL",
+            "text": "なんて早い太宰",
+            "timestamp": "2022-08-10T07:45:33.532000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "大学生のころは、なぜか横溝にはまって",
+            "timestamp": "2022-08-10T07:45:44.800000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AL",
+            "text": "横溝正史？",
+            "timestamp": "2022-08-10T07:46:02.167000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "はい、あとは江戸川乱歩",
+            "timestamp": "2022-08-10T07:46:09.763000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AL",
+            "text": "エドガーアランポーって読んじゃいます",
+            "timestamp": "2022-08-10T07:46:39.461000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "洋物のほうが好きなタイプですか",
+            "timestamp": "2022-08-10T07:46:52.517000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AL",
+            "text": "洋書も翻訳なら読みますが、エッセイが多いかも",
+            "timestamp": "2022-08-10T07:47:08.545000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "エッセイ、ほう、どんな作者の",
+            "timestamp": "2022-08-10T07:47:20.243000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AL",
+            "text": "大学生の頃は、米原万里にはまりました",
+            "timestamp": "2022-08-10T07:47:36.693000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "ロシア系じゃないですか",
+            "timestamp": "2022-08-10T07:48:12.285000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AL",
+            "text": "そうそう、言語に対する考え方に惹かれて",
+            "timestamp": "2022-08-10T07:48:31.370000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "私ピアノ弾くのですよ",
+            "timestamp": "2022-08-10T07:48:44.890000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AL",
+            "text": "えええ！多才！",
+            "timestamp": "2022-08-10T07:49:05.738000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "なので、ロシアには特別な思い入れが",
+            "timestamp": "2022-08-10T07:49:14.715000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AL",
+            "text": "カバレフスキーってロシアっぽいけど、そうなのかな",
+            "timestamp": "2022-08-10T07:49:30.125000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "おおよくご存知で",
+            "timestamp": "2022-08-10T07:49:44.847000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AL",
+            "text": "後ろで息子が「チャイコフスキーも？」と",
+            "timestamp": "2022-08-10T07:50:00.610000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "それはこてこてのロシア、大ロシアという感じ",
+            "timestamp": "2022-08-10T07:50:15.838000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AL",
+            "text": "立ち読みで、チャールズ・ブコウスキーにはまったことも。スキーつながり",
+            "timestamp": "2022-08-10T07:50:37.489000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "そうそう、なんでもスキーつければロシアっぽくなる",
+            "timestamp": "2022-08-10T07:50:53.774000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AL",
+            "text": "あはは！ドなんとかエフスキー",
+            "timestamp": "2022-08-10T07:51:17.096000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "ドニクスキー的な",
+            "timestamp": "2022-08-10T07:51:32.035000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AL",
+            "text": "お肉スキー",
+            "timestamp": "2022-08-10T07:51:38.164000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

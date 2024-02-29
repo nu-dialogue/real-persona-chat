@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1,
+    "interlocutors": [
+        "AA",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-06T14:51:18.360000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-06T14:51:48.482000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "今日は涼しいですね",
+            "timestamp": "2022-08-06T14:51:55.538000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "雨が降って、何か涼しくなりましたね。",
+            "timestamp": "2022-08-06T14:52:07.388000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "そうですね、明日も涼しいと聞きました",
+            "timestamp": "2022-08-06T14:52:16.400000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "そうなんですか！でも、ちょっと湿度が高い気がします。",
+            "timestamp": "2022-08-06T14:52:31.076000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "確かに、雨の名残でしょうか",
+            "timestamp": "2022-08-06T14:52:43.255000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "今日の天気はどうでしたか？",
+            "timestamp": "2022-08-06T14:52:51.767000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "私のところは曇りでした",
+            "timestamp": "2022-08-06T14:53:05.431000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね！関東地方とかですか？",
+            "timestamp": "2022-08-06T14:53:16.568000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "そうです！都内にいます",
+            "timestamp": "2022-08-06T14:53:24.369000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "関東は曇りなんですね。こちらは関西です。",
+            "timestamp": "2022-08-06T14:53:39.336000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "関西良いですね！お天気はどうでしょうか？",
+            "timestamp": "2022-08-06T14:53:51.067000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "午前中は、雷が鳴って、土砂降りでした。",
+            "timestamp": "2022-08-06T14:54:09.803000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "えっ、それは。明日関東も雨かもしれませんね",
+            "timestamp": "2022-08-06T14:54:27.389000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "行きますね、その雨雲が。",
+            "timestamp": "2022-08-06T14:54:39.160000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "プレゼントみたいですね",
+            "timestamp": "2022-08-06T14:54:49.938000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "嫌なプレゼントだー！今はカンカン照りです。",
+            "timestamp": "2022-08-06T14:55:10.263000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "えっ、そしたら月曜日晴れちゃいますね",
+            "timestamp": "2022-08-06T14:55:23.275000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "もう暑いのは勘弁です。夏バテしてませんか？",
+            "timestamp": "2022-08-06T14:55:38.751000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "してます、してます。もうぐったりです",
+            "timestamp": "2022-08-06T14:55:53.190000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "食欲はどうですか？",
+            "timestamp": "2022-08-06T14:56:08.817000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "食欲もそんなにわかず。",
+            "timestamp": "2022-08-06T14:56:26.413000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "そういう時は、何か食べますか？私は麺類が多めになります。",
+            "timestamp": "2022-08-06T14:56:46.352000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "分かります、後はグラノーラ食べますね",
+            "timestamp": "2022-08-06T14:57:03.436000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "健康的ですね！グラノーラの存在すっかり忘れてました。",
+            "timestamp": "2022-08-06T14:57:22.046000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "グラノーラ地味に大切な存在です。",
+            "timestamp": "2022-08-06T14:57:43.019000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "栄養素たっぷりですもんね！私も、買っておこうかな。",
+            "timestamp": "2022-08-06T14:58:07.266000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "おすすめします！パットしたときに食べられるので、ぜひ",
+            "timestamp": "2022-08-06T14:58:23.810000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "ナイスな情報ありがとうございます！ではまた。",
+            "timestamp": "2022-08-06T14:58:31.567000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

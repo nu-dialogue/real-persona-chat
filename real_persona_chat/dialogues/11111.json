@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11111,
+    "interlocutors": [
+        "EN",
+        "BE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EN",
+            "text": "こんにちわ！",
+            "timestamp": "2022-08-19T14:37:08.099000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T14:37:15.941000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EN",
+            "text": "今日も暑いですねー。",
+            "timestamp": "2022-08-19T14:37:19.201000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BE",
+            "text": "そうですね、エアコンつけっぱなしです。",
+            "timestamp": "2022-08-19T14:37:31.808000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EN",
+            "text": "同じくです。設定温度どれくらいですか？",
+            "timestamp": "2022-08-19T14:37:40.583000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BE",
+            "text": "27度にしてます。<EN>さんは？",
+            "timestamp": "2022-08-19T14:37:58.188000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EN",
+            "text": "２８度ですね。節電です！",
+            "timestamp": "2022-08-19T14:38:14.722000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BE",
+            "text": "節電の温度だ！",
+            "timestamp": "2022-08-19T14:38:30.481000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EN",
+            "text": "そうですねー。電気代も気になりまして。",
+            "timestamp": "2022-08-19T14:38:50.288000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BE",
+            "text": "電気代どんどんあがってますもんねー",
+            "timestamp": "2022-08-19T14:39:04.248000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EN",
+            "text": "そうなんですよねー。高くないですか？",
+            "timestamp": "2022-08-19T14:39:18.617000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BE",
+            "text": "高いです。。使いすぎなのもありますが！",
+            "timestamp": "2022-08-19T14:39:40.311000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EN",
+            "text": "分かります。他に節電対策とかされてます？",
+            "timestamp": "2022-08-19T14:39:53.064000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BE",
+            "text": "特になにもしてません、、なにかされてますか？",
+            "timestamp": "2022-08-19T14:40:16.251000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EN",
+            "text": "私も特には。何かありますかね？",
+            "timestamp": "2022-08-19T14:40:35.465000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BE",
+            "text": "ケトルとか使うのが電気代かかるっていいますよね",
+            "timestamp": "2022-08-19T14:41:11.821000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EN",
+            "text": "確かに！私も使用は控えてます！",
+            "timestamp": "2022-08-19T14:41:22.021000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BE",
+            "text": "やかんで沸かすのとどっちがいいんでしょうか。。",
+            "timestamp": "2022-08-19T14:41:44.751000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EN",
+            "text": "ガス代が結局かかりますよね。難しい。",
+            "timestamp": "2022-08-19T14:41:58.380000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BE",
+            "text": "そうなんですよね笑結局どこにでもお金はかかります",
+            "timestamp": "2022-08-19T14:42:17.829000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EN",
+            "text": "食費も上がるばかりで困りますよね。",
+            "timestamp": "2022-08-19T14:42:35.500000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BE",
+            "text": "生活を圧迫してきますね",
+            "timestamp": "2022-08-19T14:42:51.751000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EN",
+            "text": "影響はやっぱりありますよねー。",
+            "timestamp": "2022-08-19T14:43:04.315000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BE",
+            "text": "外食費もばかになりません",
+            "timestamp": "2022-08-19T14:43:25.631000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EN",
+            "text": "結構外食されますか？",
+            "timestamp": "2022-08-19T14:43:33.820000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BE",
+            "text": "そうですね、外食好きです！",
+            "timestamp": "2022-08-19T14:43:48.313000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EN",
+            "text": "レストランとかですかー？",
+            "timestamp": "2022-08-19T14:43:56.573000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BE",
+            "text": "ラーメンとかが多いかな？",
+            "timestamp": "2022-08-19T14:44:16.303000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EN",
+            "text": "良いですね！私も好きですー",
+            "timestamp": "2022-08-19T14:44:26.371000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BE",
+            "text": "おいしいですよね！",
+            "timestamp": "2022-08-19T14:44:35.842000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BE",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

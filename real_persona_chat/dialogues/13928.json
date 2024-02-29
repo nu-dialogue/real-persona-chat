@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13928,
+    "interlocutors": [
+        "HF",
+        "GV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HF",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-29T23:40:24.015000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GV",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-09-29T23:40:38.235000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HF",
+            "text": "最近ハマっていることはありますか？",
+            "timestamp": "2022-09-29T23:40:42.694000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GV",
+            "text": "最近は麻雀を頻繁にやっています。麻雀ご存じでしょうか？",
+            "timestamp": "2022-09-29T23:41:13.243000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HF",
+            "text": "麻雀ルールは完璧にはわからないのですが、よくアプリで友達とやります",
+            "timestamp": "2022-09-29T23:41:47.213000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GV",
+            "text": "いいですね！麻雀楽しいですよね。",
+            "timestamp": "2022-09-29T23:42:01.517000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HF",
+            "text": "楽しいです！役が覚えきれなくて",
+            "timestamp": "2022-09-29T23:42:14.883000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GV",
+            "text": "確かにかなり多いですよね。マイナーなのも多いので、頻出のやつから覚えていけばよいと思います。",
+            "timestamp": "2022-09-29T23:44:05.374000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HF",
+            "text": "なるほど、がんばります！雀荘とかいかれますか？",
+            "timestamp": "2022-09-29T23:43:14.330000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GV",
+            "text": "結構いっています！",
+            "timestamp": "2022-09-29T23:44:47.793000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HF",
+            "text": "どのくらいの頻度ですか？",
+            "timestamp": "2022-09-29T23:44:50.754000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GV",
+            "text": "月2回くらいですかね大体",
+            "timestamp": "2022-09-29T23:45:12.488000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HF",
+            "text": "多いですね！友人といかれてるのですか？",
+            "timestamp": "2022-09-29T23:45:30.611000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GV",
+            "text": "1人で行くことが多いですね。頻度としては雀荘よりもネット麻雀の頻度の方が多いです。",
+            "timestamp": "2022-09-29T23:46:03.977000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！その場で知り合った人とやる感じなのですね",
+            "timestamp": "2022-09-29T23:46:29.585000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GV",
+            "text": "そうですね。フリーといって、雀荘では不特定多数の知らない人と同卓が多いですね。",
+            "timestamp": "2022-09-29T23:47:18.293000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！猛者とかいそうですね",
+            "timestamp": "2022-09-29T23:47:46.253000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GV",
+            "text": "色んなレベルの人がいますね。",
+            "timestamp": "2022-09-29T23:48:07.080000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HF",
+            "text": "今までで一番すごいアガリ方はなんですか？",
+            "timestamp": "2022-09-29T23:48:35.115000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GV",
+            "text": "ネット麻雀で親の小四喜字一色アガったことあります。96000点ですね。",
+            "timestamp": "2022-09-29T23:49:05.369000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HF",
+            "text": "96000点！それはすごいです！勉強不足で役の名前はわかりませんでしたが、、",
+            "timestamp": "2022-09-29T23:49:35.957000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GV",
+            "text": "どっちもかなりレアな役ですね。それが組み合わさった感じです。",
+            "timestamp": "2022-09-29T23:50:16.403000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HF",
+            "text": "確率的にはどれくらいですか？",
+            "timestamp": "2022-09-29T23:50:29.277000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GV",
+            "text": "小四喜と字一色が組み合わさったあがりなんて2000戦で1回出ればいい方かなと思います",
+            "timestamp": "2022-09-29T23:51:14.848000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HF",
+            "text": "かなり確率低いですね！それを出すのはすごいです。麻雀初めてどれくらいなのですか？",
+            "timestamp": "2022-09-29T23:51:48.724000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GV",
+            "text": "大1の冬に始めたので、今は2年半くらいといったところでしょうか",
+            "timestamp": "2022-09-29T23:52:27.115000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HF",
+            "text": "結構歴長いですね！役覚えたりするのどれくらいかかりましたか？",
+            "timestamp": "2022-09-29T23:53:04.533000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GV",
+            "text": "実は小学生の時からかなり適当ではありあますが少し遊んでいたので、実は自然と覚えていました",
+            "timestamp": "2022-09-29T23:53:46.314000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！自分も覚えられるように頑張ります！",
+            "timestamp": "2022-09-29T23:54:27.499000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GV",
+            "text": "応援しています！慣れれば何とかなります",
+            "timestamp": "2022-09-29T23:54:47.531000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11123,
+    "interlocutors": [
+        "CM",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-21T13:19:35.339000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-21T13:19:47.719000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CM",
+            "text": "お昼ご飯食べられましたか？",
+            "timestamp": "2022-08-21T13:19:57.911000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "つい先程食べましたよ！",
+            "timestamp": "2022-08-21T13:20:20.401000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CM",
+            "text": "何を食べられたんですか？",
+            "timestamp": "2022-08-21T13:20:29.255000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "カレーうどんです！",
+            "timestamp": "2022-08-21T13:20:37.706000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CM",
+            "text": "暑い時期にカレーうどんも最高ですね！",
+            "timestamp": "2022-08-21T13:20:49.310000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "体ほてりました。あなたは食べましたか？",
+            "timestamp": "2022-08-21T13:21:09.610000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CM",
+            "text": "はい、炒飯とゴーヤチャンプルーを食べました！",
+            "timestamp": "2022-08-21T13:21:19.638000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "えー最高ですね！沖縄料理、夏っぽい",
+            "timestamp": "2022-08-21T13:21:31.826000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CM",
+            "text": "大人になってゴーヤの美味しさに目覚めました！",
+            "timestamp": "2022-08-21T13:21:42.874000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "ゴーヤ美味しいですよね、子供の時は苦手でした？",
+            "timestamp": "2022-08-21T13:22:03.676000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CM",
+            "text": "子供の頃は食べられなかったです。大人になって急に味覚が変わったりしますよね。",
+            "timestamp": "2022-08-21T13:22:24.989000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "分かります、苦味が旨味になりますよね。コーヒーとかビールとか",
+            "timestamp": "2022-08-21T13:22:46.617000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、ブラックコーヒーも今年から美味しく飲めるようになりました！",
+            "timestamp": "2022-08-21T13:23:02.793000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "結構最近なんですね！",
+            "timestamp": "2022-08-21T13:23:14.351000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CM",
+            "text": "ずっとミルクがないと飲めなかったんですけど、ホットでブラックコーヒー飲んだら美味しいなって。",
+            "timestamp": "2022-08-21T13:23:34.239000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "美味しいですよねー。私は逆に微糖が苦手です",
+            "timestamp": "2022-08-21T13:23:57.096000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CM",
+            "text": "確かに、私も砂糖入りが少し苦手になりました。カフェオレだったら飲めるんですけど。",
+            "timestamp": "2022-08-21T13:24:19.777000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "分かります、妙に甘いのが気になりますよね。カフェオレは大好きです",
+            "timestamp": "2022-08-21T13:24:42.144000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CM",
+            "text": "不思議ですよね、ジュースも少し苦手になっちゃいました。",
+            "timestamp": "2022-08-21T13:25:04.192000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "おーコーラとかですか？",
+            "timestamp": "2022-08-21T13:25:17.281000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CM",
+            "text": "コーラは断然ゼロカロリー派です！",
+            "timestamp": "2022-08-21T13:25:32.033000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "へー！ゼロカロリーの方が甘くないんですかね？",
+            "timestamp": "2022-08-21T13:25:47.617000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CM",
+            "text": "何となく、くどさが無いんですよね。砂糖そのものが苦手になってきたのかな。",
+            "timestamp": "2022-08-21T13:26:07.067000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "大人の味覚になってるんですかね。インドのお菓子って食べたことあります？",
+            "timestamp": "2022-08-21T13:26:27.118000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CM",
+            "text": "食べた事無いです！もしかして丸い缶詰のですか？",
+            "timestamp": "2022-08-21T13:26:41.082000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "丸い缶詰のはわからないんですけど、とにかく甘いんです！甘くて、それから私は甘いの苦手になりました。",
+            "timestamp": "2022-08-21T13:27:16.358000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CM",
+            "text": "世界一甘いお菓子の缶詰っていう動画を見た事があるのですが、胸やけを起こしそうでした！",
+            "timestamp": "2022-08-21T13:27:36.805000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "それ気になります！調べてみます",
+            "timestamp": "2022-08-21T13:27:48.415000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

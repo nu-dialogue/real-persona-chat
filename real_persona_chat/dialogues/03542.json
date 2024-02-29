@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3542,
+    "interlocutors": [
+        "EZ",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-30T11:30:28.252000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-30T11:30:33.286000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "昼ご飯は何を食べる予定ですか？",
+            "timestamp": "2022-08-30T11:30:40.356000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "今日はお弁当を食べます。",
+            "timestamp": "2022-08-30T11:30:48.491000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "いいですね！おかずには何が入っていますか？",
+            "timestamp": "2022-08-30T11:31:00.235000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "ダイエット中なので、サラダだけなんです。",
+            "timestamp": "2022-08-30T11:31:11.707000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "おお。それはすぐにおなか減りそう。",
+            "timestamp": "2022-08-30T11:31:24.126000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "でも、おにぎりと冷凍ミカン、スープ付です。",
+            "timestamp": "2022-08-30T11:31:40.375000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "おお！それならまぁまぁありますね。スープはどんなのですか？",
+            "timestamp": "2022-08-30T11:32:04.815000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "インスタントの味噌汁です。今日はあおさです。",
+            "timestamp": "2022-08-30T11:32:17.583000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "いいですね！私はあまり味噌汁作らないのですが、インスタントおいしいですか？",
+            "timestamp": "2022-08-30T11:32:39.877000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "すごくおいしいですよ！フリーズドライのものが増えてきましたね。",
+            "timestamp": "2022-08-30T11:32:51.119000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね！フリーズドライというと、固まりみたいなのを溶かすような？",
+            "timestamp": "2022-08-30T11:33:15.653000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "熱湯をかけるだけなんですが、野菜たっぷりのものもたくさんあります。",
+            "timestamp": "2022-08-30T11:33:35.652000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "へぇ！よさそうですね。今度探してみます。",
+            "timestamp": "2022-08-30T11:33:50.657000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "はい。スーパーに結構なスペースであって、豚汁なんかもありましたよ！",
+            "timestamp": "2022-08-30T11:34:11.676000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "豚汁大好きです！吉野家でよく食べます。",
+            "timestamp": "2022-08-30T11:34:28.039000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "私も吉野家好きですよ。豚汁も置いているんですか？",
+            "timestamp": "2022-08-30T11:34:44.400000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "豚汁ありますよ。おいしいのでおすすめです。",
+            "timestamp": "2022-08-30T11:35:00.542000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "吉野家の豚汁は白みそですか？",
+            "timestamp": "2022-08-30T11:35:13.093000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "えー。どうなんですかね。赤い気がします。",
+            "timestamp": "2022-08-30T11:35:40.369000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "私は愛知県なので、豚汁はやはり赤味噌が好きです。",
+            "timestamp": "2022-08-30T11:35:57.603000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "私も赤味噌が多い気がします。どこら辺の地域が白なんですかね。",
+            "timestamp": "2022-08-30T11:36:24.617000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "愛知県以外は白だとおもっていました！",
+            "timestamp": "2022-08-30T11:36:40.895000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね。ちょっと意識して食べてみます。",
+            "timestamp": "2022-08-30T11:36:57.124000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "豚汁は大好きで冬はよくつくるんですが、つい作り過ぎてしまうんです。",
+            "timestamp": "2022-08-30T11:37:10.067000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "いいじゃないですか。確かに体あったまりますよね。",
+            "timestamp": "2022-08-30T11:37:26.846000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "はい。スーパーで豚汁の具を買うのですがそこに色々たしてしまうので。",
+            "timestamp": "2022-08-30T11:37:45.431000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "わかります。何杯分くらいつくっちゃうんですか？",
+            "timestamp": "2022-08-30T11:38:17.521000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "3日分ほどになってしまいます。",
+            "timestamp": "2022-08-30T11:38:25.686000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3662,
+    "interlocutors": [
+        "EJ",
+        "BE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-31T15:15:36.797000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-31T15:15:41.069000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EJ",
+            "text": "普段、ゲームは遊びますか？",
+            "timestamp": "2022-08-31T15:16:07.526000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BE",
+            "text": "ゲームは滅多にやらないですね。",
+            "timestamp": "2022-08-31T15:16:30.463000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですね。普段は余暇を何をして過ごすことが多いですか？",
+            "timestamp": "2022-08-31T15:16:51.946000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BE",
+            "text": "ネトフリを見るか、読書をするかです！",
+            "timestamp": "2022-08-31T15:17:18.231000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EJ",
+            "text": "素敵。文化的ですね。",
+            "timestamp": "2022-08-31T15:17:30.777000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BE",
+            "text": "小説なので、ほんとに娯楽です。",
+            "timestamp": "2022-08-31T15:17:54.914000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EJ",
+            "text": "小説、やっぱり読んでて一番楽しいですよね。最近は何を読みました？",
+            "timestamp": "2022-08-31T15:18:26.699000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BE",
+            "text": "最近はポワロのシリーズを読み進めています。",
+            "timestamp": "2022-08-31T15:18:49.042000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EJ",
+            "text": "ポワロ、っていうとあの名探偵ポワロですか？",
+            "timestamp": "2022-08-31T15:19:16.631000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BE",
+            "text": "そうです。アガサクリスティのやつです。",
+            "timestamp": "2022-08-31T15:19:34.091000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EJ",
+            "text": "いいですね！あまり推理小説は読まないので、気になります。",
+            "timestamp": "2022-08-31T15:19:54.489000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BE",
+            "text": "私は逆に推理系とかミステリ系しか読まないんですが、いつも何系を読んでるんですか？",
+            "timestamp": "2022-08-31T15:20:37.323000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EJ",
+            "text": "映画の原作とか、後は普通に有名な人の小説とかですね。フランツ・カフカとか。",
+            "timestamp": "2022-08-31T15:21:18.070000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BE",
+            "text": "映画の原作読むのいいですよね！八日目の蝉とか読みました？",
+            "timestamp": "2022-08-31T15:21:55.085000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EJ",
+            "text": "読んでないです！読んだんですか？",
+            "timestamp": "2022-08-31T15:22:07.984000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BE",
+            "text": "読みました！映画と原作と全然違ってびっくりしました。",
+            "timestamp": "2022-08-31T15:22:31.218000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですね！結構ありますよね。雰囲気だけ似ていて、物語の核心が違うとか。",
+            "timestamp": "2022-08-31T15:23:04.381000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BE",
+            "text": "宗教的なところが全カットだったので、さすが日本だなって思いました。",
+            "timestamp": "2022-08-31T15:23:32.164000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EJ",
+            "text": "なるほど。確かに日本だとそういうのをそのままは出せないですよね。",
+            "timestamp": "2022-08-31T15:24:24.307000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BE",
+            "text": "規制が多いですよね。なんだか残念です。",
+            "timestamp": "2022-08-31T15:24:52.267000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EJ",
+            "text": "そうですね。規制が多いのも、観る人からの苦情が多いからだと考えると、何とも言えないですよね。",
+            "timestamp": "2022-08-31T15:25:22.580000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BE",
+            "text": "苦情入れる人は苦情を入れたいだけだと思っています！",
+            "timestamp": "2022-08-31T15:25:44.925000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EJ",
+            "text": "そういう人も中にはきっといますよね。観なきゃいいのに、って思っちゃいますね。",
+            "timestamp": "2022-08-31T15:26:09.356000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BE",
+            "text": "確かに。クレームとかでも理不尽なことで怒る人も多いですね。",
+            "timestamp": "2022-08-31T15:26:50.243000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EJ",
+            "text": "怒りのやり場が無いと大変だな、って思いますね。おおらかに生きたいですね。",
+            "timestamp": "2022-08-31T15:27:21.135000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BE",
+            "text": "平和主義がいいですよね。",
+            "timestamp": "2022-08-31T15:27:37.862000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EJ",
+            "text": "本当にそうですよね。平和に賢く生きたいですね。",
+            "timestamp": "2022-08-31T15:28:03.693000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BE",
+            "text": "のんびり生活しましょう！",
+            "timestamp": "2022-08-31T15:28:19.251000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

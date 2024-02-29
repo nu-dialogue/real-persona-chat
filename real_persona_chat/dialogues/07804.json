@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7804,
+    "interlocutors": [
+        "AA",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-04T07:15:16.529000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-04T07:15:20.409000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "ご趣味は何ですか？",
+            "timestamp": "2022-08-04T07:15:30.056000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "植物を育てることが大好きです。あと最近は暑さで家の中でテレビをよく見てます。<AA>さんは？",
+            "timestamp": "2022-08-04T07:16:18.877000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "私は旅行ですね！植物、何を育てていらっしゃるんですか？",
+            "timestamp": "2022-08-04T07:16:48.576000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "旅行いいですね！この夏はどこかに行かれたりしますか？植物はパキラ、ミニトマトなどを育てています",
+            "timestamp": "2022-08-04T07:17:37.040000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "夏は暑くて行けないですねー。パキラ！実家で育ててます。母が好きで。そしてトマトも育ててらっしゃるんですね、素敵。",
+            "timestamp": "2022-08-04T07:18:15.568000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "直近ではどこに行かれましたか？パキラ強くて可愛い子です！",
+            "timestamp": "2022-08-04T07:18:57.860000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "直近だと青森の八戸に！",
+            "timestamp": "2022-08-04T07:19:20.140000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "おお！何目的で行かれたんですか？",
+            "timestamp": "2022-08-04T07:19:37.125000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "神社が好きで、蕪島神社というウミネコの神社に参拝に行きました。",
+            "timestamp": "2022-08-04T07:20:08.329000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "はじめて聞きました！そして私も神社好きで御朱印集めてます！うみねこの神社かあ！！",
+            "timestamp": "2022-08-04T07:20:42.294000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "神社好きなんですね、わあ同じがいっぱいあってうれしいです！",
+            "timestamp": "2022-08-04T07:21:00.551000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "うみねこの神社はなんて読むんですか？",
+            "timestamp": "2022-08-04T07:21:28.227000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "かぶしま、と読みます！読めないですよね！！",
+            "timestamp": "2022-08-04T07:21:36.710000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "かぶしまですね！何がきっかけでこの神社をお知りに？",
+            "timestamp": "2022-08-04T07:22:15.332000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "私の大好きなブロガーさんがそこを紹介していて、それで行きました。",
+            "timestamp": "2022-08-04T07:22:45.871000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "さしつかえなければなんていうブログかお聞きしてもいいですか？",
+            "timestamp": "2022-08-04T07:23:06.577000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "もちろんです。桜井識子さんの桜井識子オフィシャルブログです。",
+            "timestamp": "2022-08-04T07:23:41.405000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "櫻井さんのブログ見たことあります！その記事まだ読んだことなかった！",
+            "timestamp": "2022-08-04T07:24:10.496000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "本当ですか？その神社には縁起物があるとのことで、購入してきました！",
+            "timestamp": "2022-08-04T07:24:41.579000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "どんなものなんですか？",
+            "timestamp": "2022-08-04T07:25:05.811000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "宝船なんです。結構場所をとるんですが、確かに縁起物そうって感じです。",
+            "timestamp": "2022-08-04T07:25:33.823000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "今検索して見てきましたブログ！小さな丘？山？の上にあるすごく素敵な場所ですね！そして縁起物可愛い！",
+            "timestamp": "2022-08-04T07:26:44.261000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "フットワーク軽い！そうなんですー！海の近くの神社なので素敵でした。",
+            "timestamp": "2022-08-04T07:27:20.427000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "熊手が幸せをたくさんかきこんでくれそうですね！",
+            "timestamp": "2022-08-04T07:27:39.790000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "沢山幸せを書き込んでほしいですね！",
+            "timestamp": "2022-08-04T07:28:00.392000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "見てるだけでご利益ありそう！海の近くなら空気も澄んでそうだなあ",
+            "timestamp": "2022-08-04T07:28:44.612000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "そうなんです、のどかで人もよいし。よければ行ってみてください！",
+            "timestamp": "2022-08-04T07:29:12.258000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "青森まだ行ったことなかったんですけど行きたい場所がまた一つ増えました！ありがとうございます！",
+            "timestamp": "2022-08-04T07:29:34.516000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

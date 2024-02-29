@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5405,
+    "interlocutors": [
+        "DV",
+        "GL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "こんにちは、よろしくおねがいします",
+            "timestamp": "2022-09-23T13:57:20.538000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GL",
+            "text": "こんにちは、！よろしくお願いいたします。",
+            "timestamp": "2022-09-23T13:57:25.578000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "好きな食べ物を教えてください",
+            "timestamp": "2022-09-23T13:57:31.968000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GL",
+            "text": "そうですね。ラーメンが好きです！",
+            "timestamp": "2022-09-23T13:57:49.009000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "味は何が一番好きですか？",
+            "timestamp": "2022-09-23T13:58:02.620000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GL",
+            "text": "こってり豚骨ベースの家系ラーメンですかね！",
+            "timestamp": "2022-09-23T13:58:22.680000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "豚骨おいしいですよね。よく食べにいかれるんですか？",
+            "timestamp": "2022-09-23T13:58:36.087000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GL",
+            "text": "はい！自宅の近くに家系ラーメンのお店があるので、あと、冷凍でも売っています！",
+            "timestamp": "2022-09-23T13:58:58.400000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "冷凍もあるんですね！便利そうです",
+            "timestamp": "2022-09-23T13:59:13.203000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GL",
+            "text": "はい！ただお鍋で解凍するだけなので便利です！",
+            "timestamp": "2022-09-23T13:59:34.091000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "お店の味を家で楽しめるっていいですね",
+            "timestamp": "2022-09-23T13:59:44.133000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GL",
+            "text": "そうですね。コロナになってからおうちで食べることが多くなったので！",
+            "timestamp": "2022-09-23T14:00:10.046000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "そういえば最近通販対応しているお店も多い気がします",
+            "timestamp": "2022-09-23T14:00:24.054000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GL",
+            "text": "見聞きしたことがあります。利用されたことありますか？",
+            "timestamp": "2022-09-23T14:00:37.837000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "私はラーメンはないんですが、ネットショッピングで果物とかは買います",
+            "timestamp": "2022-09-23T14:01:04.703000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GL",
+            "text": "そうなのですか？果物は贈答用ですか？",
+            "timestamp": "2022-09-23T14:01:14.250000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "いえ、自宅用で訳あり品だと安く買えるんですよ",
+            "timestamp": "2022-09-23T14:01:38.412000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GL",
+            "text": "訳あり商品ですね。お味はどうですか？",
+            "timestamp": "2022-09-23T14:02:01.137000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "りんごとか梨とか買ったことありますが、ほんとにちょっと傷があるくらいで気になりませんでした",
+            "timestamp": "2022-09-23T14:02:20.355000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。安く買えるのは良いですね。見た目は気にならないですし、、",
+            "timestamp": "2022-09-23T14:02:44.085000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "そうなんですよ、味は一緒ですしね",
+            "timestamp": "2022-09-23T14:02:52.445000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GL",
+            "text": "数は小売りですか？まとめてですか？",
+            "timestamp": "2022-09-23T14:03:11.622000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "数キロをまとめ売りでした",
+            "timestamp": "2022-09-23T14:03:26.167000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GL",
+            "text": "なるほど、よかったらリピートできますね！どちらのネットショップですか？",
+            "timestamp": "2022-09-23T14:03:52.886000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "楽天市場の中に入っているショップです",
+            "timestamp": "2022-09-23T14:04:05.502000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GL",
+            "text": "楽天市場！利用したことがないです！楽天いろいろ便利と聞いたことがあります！",
+            "timestamp": "2022-09-23T14:04:28.234000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "そうですね、いろいろなものが売っているので、私結構利用してるんです",
+            "timestamp": "2022-09-23T14:04:43.694000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。！他におすすめありますか？",
+            "timestamp": "2022-09-23T14:04:54.608000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "最近はお肉も買ったりしてます",
+            "timestamp": "2022-09-23T14:05:14.374000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GL",
+            "text": "お肉まで買えるのですね！是非利用してみたいです。。。！",
+            "timestamp": "2022-09-23T14:05:36.479000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

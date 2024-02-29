@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1268,
+    "interlocutors": [
+        "CO",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんにちは",
+            "timestamp": "2022-08-13T14:32:07.234000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。趣味や好きなことは何ですか？",
+            "timestamp": "2022-08-13T14:32:21.783000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "サイクリングに最近はまってます",
+            "timestamp": "2022-08-13T14:32:45.497000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "健康的な趣味ですね！",
+            "timestamp": "2022-08-13T14:32:59.247000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "自転車通勤するようになってからです",
+            "timestamp": "2022-08-13T14:33:20.184000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "なるほど。でもだいぶ健康的になりますよね。",
+            "timestamp": "2022-08-13T14:33:59.701000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "はい、この時期暑いですが、汗をかいてさわやかです",
+            "timestamp": "2022-08-13T14:34:22.497000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "そうですね。1日で何kmくらい走るんですか？",
+            "timestamp": "2022-08-13T14:34:50.048000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "１０キロも走らないです。距離はそこまで。",
+            "timestamp": "2022-08-13T14:35:15.147000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "10km近く走るとだいぶ凄いような気がします！",
+            "timestamp": "2022-08-13T14:35:41.250000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "以前ならありますが、最近は近隣をうろうろしてます",
+            "timestamp": "2022-08-13T14:36:22.030000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね。以前は公園とか観光みたいな感じで行かれてたんですか？",
+            "timestamp": "2022-08-13T14:37:00.241000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "はい、旅のようなのにあこがれて５０キロから１００キロ走ったことはあります",
+            "timestamp": "2022-08-13T14:37:28.155000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "それは凄いです！それだけ走れば色んな場所へ行けそうですね！",
+            "timestamp": "2022-08-13T14:38:01.098000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "楽しいですよ。趣味はありますか？",
+            "timestamp": "2022-08-13T14:38:18.253000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "僕は本を読むのが最近の趣味ですかね。",
+            "timestamp": "2022-08-13T14:38:44.555000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "ほう、いいですね。最近読んで面白かったのありますか？",
+            "timestamp": "2022-08-13T14:39:18.137000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "最近だと平野啓一郎っていう作家の本をよく読むのでそれですかね。",
+            "timestamp": "2022-08-13T14:39:56.158000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "へえ、本あまり読まなくて。小説ですか？",
+            "timestamp": "2022-08-13T14:40:12.726000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "そうです。小説家ですね。",
+            "timestamp": "2022-08-13T14:40:27.033000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "今度調べてみます。小説がお好きですか？",
+            "timestamp": "2022-08-13T14:40:47.362000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "いえ、色々読みますよ。漫画とか含めて。",
+            "timestamp": "2022-08-13T14:41:07.291000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "漫画なら私も読みます",
+            "timestamp": "2022-08-13T14:41:18.432000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "漫画でお好きな作品はありますか？",
+            "timestamp": "2022-08-13T14:41:34.880000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "最近はそこまでなんですが。今ならキングダムとか",
+            "timestamp": "2022-08-13T14:41:48.346000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "キングダム、名前はよく聞きます。",
+            "timestamp": "2022-08-13T14:42:00.706000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "映画にもなってましたね",
+            "timestamp": "2022-08-13T14:42:10.667000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね。最近は漫画の実写化多いですよね。",
+            "timestamp": "2022-08-13T14:42:38.881000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "多いですね。賛否両論わかれますが",
+            "timestamp": "2022-08-13T14:42:45.910000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "確かに。僕もそんなに好きではないです。",
+            "timestamp": "2022-08-13T14:43:08.718000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

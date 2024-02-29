@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12213,
+    "interlocutors": [
+        "CR",
+        "FL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-06T09:52:56.031000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-06T09:53:04.215000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "何か趣味はお持ちですか",
+            "timestamp": "2022-09-06T09:53:11.166000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FL",
+            "text": "趣味というか、お出かけするのは好きです。",
+            "timestamp": "2022-09-06T09:53:30.708000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "遠出ですか",
+            "timestamp": "2022-09-06T09:53:37.667000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FL",
+            "text": "そうですね。先週末も旅行に行きました。",
+            "timestamp": "2022-09-06T09:53:55.210000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "車ですか",
+            "timestamp": "2022-09-06T09:54:04.961000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FL",
+            "text": "車で淡路島に。",
+            "timestamp": "2022-09-06T09:54:15.360000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "玉ねぎ買いにですか笑",
+            "timestamp": "2022-09-06T09:54:30.536000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FL",
+            "text": "玉ねぎめちゃくちゃおいしいですよ！",
+            "timestamp": "2022-09-06T09:54:45.884000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "有名ですよね",
+            "timestamp": "2022-09-06T09:54:53.901000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FL",
+            "text": "玉ねぎのUFOキャッチャーがあります。",
+            "timestamp": "2022-09-06T09:55:14.238000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "おーーー、淡路限定ですかね",
+            "timestamp": "2022-09-06T09:55:28.235000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FL",
+            "text": "はい。玉ねぎスープが地元の店に行くと絶対出てきます。",
+            "timestamp": "2022-09-06T09:55:54.569000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "スープにしても焼いても好きです",
+            "timestamp": "2022-09-06T09:56:35.430000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FL",
+            "text": "玉ねぎドレッシングもおいしいんですよ。",
+            "timestamp": "2022-09-06T09:56:40.968000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "それならネットで購入できそうですね",
+            "timestamp": "2022-09-06T09:56:49.777000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FL",
+            "text": "なんならネットのほうが安かったりします。",
+            "timestamp": "2022-09-06T09:57:06.696000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "笑、いやいや淡路で買うのが特別美味しいでしょう",
+            "timestamp": "2022-09-06T09:57:25.708000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FL",
+            "text": "そ、そうだと思っていくときには買うようにしてます。",
+            "timestamp": "2022-09-06T09:57:47.814000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "みじん切りが入ってたりしますか",
+            "timestamp": "2022-09-06T09:58:11.449000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FL",
+            "text": "もちろん入っていますよ。ところであなたの趣味は？",
+            "timestamp": "2022-09-06T09:58:30.158000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "私はスポーツ見るくらいです",
+            "timestamp": "2022-09-06T09:58:41.460000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FL",
+            "text": "どの種目を見ることが多いですか？",
+            "timestamp": "2022-09-06T09:58:54.678000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "サッカー好きです",
+            "timestamp": "2022-09-06T09:59:07.353000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FL",
+            "text": "いいですね。私の友達も海外のサッカー好きな人います。",
+            "timestamp": "2022-09-06T09:59:31.296000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "私はJリーグ好きでして",
+            "timestamp": "2022-09-06T09:59:45.536000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FL",
+            "text": "見に行ったりするのですか？",
+            "timestamp": "2022-09-06T09:59:56.409000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "年に２、３回行きますね",
+            "timestamp": "2022-09-06T10:00:08.424000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FL",
+            "text": "いいですね。楽しそうです。",
+            "timestamp": "2022-09-06T10:00:17.127000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10000,
+    "interlocutors": [
+        "EV",
+        "BO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、休日はなにをされていますか？",
+            "timestamp": "2022-08-10T19:45:50.867000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BO",
+            "text": "休日は友達とカフェしたり、中国語講座に行ったりしてます。",
+            "timestamp": "2022-08-10T19:46:20.158000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "おしゃれですね、中国に興味があるのですか？",
+            "timestamp": "2022-08-10T19:46:39.022000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BO",
+            "text": "はい！何となく興味があるので喋れたらいいなーと思い。",
+            "timestamp": "2022-08-10T19:47:03.362000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "友人が第二外国語でとっていましたが、発音に種類があって難しそう。",
+            "timestamp": "2022-08-10T19:47:24.103000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BO",
+            "text": "そうなんですよ。あと文法も英語に似てるので難しいです。",
+            "timestamp": "2022-08-10T19:47:43.452000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "アクセントで意味が変わってしまうと聞いて、驚きましたね。",
+            "timestamp": "2022-08-10T19:48:05.007000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BO",
+            "text": "はい。すっごい繊細です。",
+            "timestamp": "2022-08-10T19:48:20.805000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "ただ中国は近いので、旅行に行くとなればすごく役立ちそうですね。",
+            "timestamp": "2022-08-10T19:48:46.436000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BO",
+            "text": "コロナ前はよく中国行ってたのでまた行きたいです。",
+            "timestamp": "2022-08-10T19:49:00.615000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "そうなんですか、本場の中華はおいしいですか？",
+            "timestamp": "2022-08-10T19:49:19.342000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BO",
+            "text": "美味しいですよ！ヤムチャが好きです。",
+            "timestamp": "2022-08-10T19:49:36.692000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "ヤムチャはアニメのイメージしかなくて、、餃子好きなので行ってみたいです。",
+            "timestamp": "2022-08-10T19:50:01.741000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BO",
+            "text": "確かにアニメにもあった。上海とかおすすめです！",
+            "timestamp": "2022-08-10T19:50:48.630000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "有名どころですね、観光スポットとかありますか？",
+            "timestamp": "2022-08-10T19:51:25.153000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BO",
+            "text": "えー色々ありますけどとりあえず外灘というところで見る夜景がすごいです。",
+            "timestamp": "2022-08-10T19:52:20.524000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "いいですね、おしゃれで。海外都市の夜景は綺麗そう。",
+            "timestamp": "2022-08-10T19:52:46.913000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BO",
+            "text": "建物の規模がでかすぎてずっと驚きっぱなしでした。",
+            "timestamp": "2022-08-10T19:53:29.224000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "人口も多いし、もともとのスケールが違うのかもしれないですね。",
+            "timestamp": "2022-08-10T19:53:47.522000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BO",
+            "text": "はい！あとは台湾とかなら行きやすいかもです！",
+            "timestamp": "2022-08-10T19:54:11.236000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "台湾はいいですね。パイナップルとかタピオカですかね",
+            "timestamp": "2022-08-10T19:54:29.528000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BO",
+            "text": "はい！ガイドブックに載っているお店とかは基本的に日本語対応しているので安心です。",
+            "timestamp": "2022-08-10T19:54:54.073000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "優しいですよね。暮らしやすそうなイメージがあります",
+            "timestamp": "2022-08-10T19:55:13.380000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BO",
+            "text": "コロナ落ち着いたら勇気振り絞って1人で行ってみようかと思います。",
+            "timestamp": "2022-08-10T19:55:35.449000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "１人旅ですか、カッコイイですね。気を付けてくださいね",
+            "timestamp": "2022-08-10T19:55:58.171000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BO",
+            "text": "はい！ありがとうございます。",
+            "timestamp": "2022-08-10T19:56:13.390000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "日本と仲は良いですし、対応もよさそうなイメージがあります",
+            "timestamp": "2022-08-10T19:56:37.386000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BO",
+            "text": "みんな温かい人ばっかりでした。",
+            "timestamp": "2022-08-10T19:56:55.869000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "優しい世界ですね、どこもこうなるといいのですが。",
+            "timestamp": "2022-08-10T19:57:13.743000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BO",
+            "text": "間違い無いですね。お話しありがとうございました！",
+            "timestamp": "2022-08-10T19:57:32.394000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

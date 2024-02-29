@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12857,
+    "interlocutors": [
+        "FS",
+        "FW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T10:26:37.277000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FW",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T10:26:44.582000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "今日は何かご予定ありますか？",
+            "timestamp": "2022-09-15T10:27:01.270000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FW",
+            "text": "午後に、お魚を買いに行こうと思っています。<FS>さんはご予定ありますか？",
+            "timestamp": "2022-09-15T10:27:30.561000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "わたしは薬局へシャンプーなどを買いに行きます。お魚屋さんですか？",
+            "timestamp": "2022-09-15T10:28:16.734000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FW",
+            "text": "はい、昔ながらのお魚屋さんがあって、そこで買うのを楽しんでます。",
+            "timestamp": "2022-09-15T10:28:44.706000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "いいですね！ご近所なんですか？",
+            "timestamp": "2022-09-15T10:29:05.495000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FW",
+            "text": "車で１０分ほどですが、近所だと思います。",
+            "timestamp": "2022-09-15T10:29:46.119000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "魚屋さんとか八百屋さんにあまり行ったことがなく入るのに少し緊張してしまいます。",
+            "timestamp": "2022-09-15T10:30:41.988000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FW",
+            "text": "分かります。私も最初、入っていいのか悩みました。買っていいですか？とか聞いちゃいました。",
+            "timestamp": "2022-09-15T10:31:21.747000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね！どれを買うかしばらく悩んだりしても大丈夫そうですか？",
+            "timestamp": "2022-09-15T10:32:05.194000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FW",
+            "text": "大丈夫でしたよ。何をお探しですか？とか聞かれちゃうので、適当に答えて、最初は適当に買いました。",
+            "timestamp": "2022-09-15T10:32:48.227000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "スーパーでいつも悩んでしまうので相談に乗ってもらえて良さそうですね。",
+            "timestamp": "2022-09-15T10:33:34.497000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FW",
+            "text": "何度か行って慣れてくると、スーパーより便利でいいですよ。食べ方とか教えてくれるし、捌いてくれるし。",
+            "timestamp": "2022-09-15T10:34:25.714000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "捌いてくれるのいいですね。何のお魚が好きですか？",
+            "timestamp": "2022-09-15T10:35:43.421000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FW",
+            "text": "そのお魚屋さんで買ったのですが、お刺身でしたら、サヨリが世界一美味しいのでは、と思っています。",
+            "timestamp": "2022-09-15T10:36:51.908000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "サヨリあんまり食べたことないですが世界一とは気になります！いつでも売ってますか？",
+            "timestamp": "2022-09-15T10:37:56.810000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FW",
+            "text": "春以降、置いてないですね。春のお魚なのかもしれません。もし見かけたら、ぜひ食べてほしいです。",
+            "timestamp": "2022-09-15T10:38:31.426000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "食べてみます！魚ではお刺身が一番好きですか？",
+            "timestamp": "2022-09-15T10:39:28.787000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FW",
+            "text": "いえ、実はしめ鯖がこの世で一番好きです。ははは。<FS>さんはお魚でしたらどうですか？",
+            "timestamp": "2022-09-15T10:40:08.204000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "わたしはお寿司がすきです。",
+            "timestamp": "2022-09-15T10:40:49.745000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FW",
+            "text": "お寿司はすばらしい食べ物ですよね。よくお寿司食べますか？",
+            "timestamp": "2022-09-15T10:41:09.586000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "よく食べます！スーパーとかのも食べます。",
+            "timestamp": "2022-09-15T10:41:55.964000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FW",
+            "text": "そうなんですね。一番好きなネタとかありますか？",
+            "timestamp": "2022-09-15T10:42:39.808000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "マグロが好きです。あと炙りサーモンも好きです。",
+            "timestamp": "2022-09-15T10:43:38.908000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FW",
+            "text": "いいですねー。お寿司屋さんで食べることも多いですか？",
+            "timestamp": "2022-09-15T10:43:57.089000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "ほぼ回転寿司です。がってん寿司とか魚べいに行くことが多いです。",
+            "timestamp": "2022-09-15T10:45:04.880000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FW",
+            "text": "回転寿司、私も好きです！がってん寿司と魚べいは行ったことないです。行ってみたいです。",
+            "timestamp": "2022-09-15T10:45:43.769000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "回転寿司楽しいですよね！どこによく行かれますか？",
+            "timestamp": "2022-09-15T10:46:12.298000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FW",
+            "text": "地元のマイナーなところと、あと、はま寿司に、、。",
+            "timestamp": "2022-09-15T10:46:53.662000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

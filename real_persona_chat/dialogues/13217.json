@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13217,
+    "interlocutors": [
+        "FV",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-18T14:43:01.201000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-18T14:43:06.121000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "最近ハマっていることとかありますか？",
+            "timestamp": "2022-09-18T14:43:11.985000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "最近、朝ヨガと腹筋にはまっています！",
+            "timestamp": "2022-09-18T14:43:22.827000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "ヨガって、ストレッチとは違うジャンルなんですか？",
+            "timestamp": "2022-09-18T14:43:34.533000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "ストレッチと似てると思います。ただ、ストレッチよりも体があったかくなりますね。",
+            "timestamp": "2022-09-18T14:44:00.970000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "なんか、二人でペアになってやったりすんでしたっけ、ヨガ。",
+            "timestamp": "2022-09-18T14:44:26.541000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "あ、そーゆーのもありますね！私は1人でやりますが。",
+            "timestamp": "2022-09-18T14:44:40.668000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "なんかヨガというと、片岡鶴太郎さんのガリガリのイメージが先行してしまいます。",
+            "timestamp": "2022-09-18T14:45:00.821000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "あああ、それとは全然違いますよー。ゆっくり呼吸をしながら体を動かしています。",
+            "timestamp": "2022-09-18T14:45:34.509000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "ご自宅でやられているんですか？",
+            "timestamp": "2022-09-18T14:45:58.578000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "はい！朝起きた瞬間からやってます！",
+            "timestamp": "2022-09-18T14:46:10.639000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "起きた瞬間から！？脳働いてますか？",
+            "timestamp": "2022-09-18T14:46:22.568000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "脳を働かせるためにやってるので、最初の方とかぼけーっとしてます。",
+            "timestamp": "2022-09-18T14:46:42.816000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "すごいですね！初期投資というか、どのくらいヨガやるためにお金使いましたか？",
+            "timestamp": "2022-09-18T14:47:10.176000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "お金は全く使ってません！布団の上でYouTube見ながらやってますー。",
+            "timestamp": "2022-09-18T14:47:43.263000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "なるほど！では、私が明日からやろう！と思って出来るもんなんでしょうか？",
+            "timestamp": "2022-09-18T14:48:00.277000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "もちろんできますよ！YouTubeで朝ヨガで検索するといっぱい出てきます！",
+            "timestamp": "2022-09-18T14:48:21.171000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "朝ヨガ？そんな朝バナナとか朝シャンみたいな言葉があるんですね。",
+            "timestamp": "2022-09-18T14:48:40.576000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "ありますよ。ヨガって、朝と夜でもそのときに合うものをやったほうが良いみたいです。",
+            "timestamp": "2022-09-18T14:49:31.819000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "なるほど、腹筋はいつやられてるんですか？",
+            "timestamp": "2022-09-18T14:49:43.568000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "腹筋は夜ですかね。お風呂入った後にやってます！",
+            "timestamp": "2022-09-18T14:50:00.731000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "腹筋は、一日どのくらいやるんですか？",
+            "timestamp": "2022-09-18T14:50:13.296000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "10分間しかやりません！でも強度がかなり高くて結構つかれます。",
+            "timestamp": "2022-09-18T14:50:53.256000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "腹筋って数分でも結構身体にきますよね。",
+            "timestamp": "2022-09-18T14:51:16.932000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "ほんとそうです。毎日筋肉痛です。",
+            "timestamp": "2022-09-18T14:51:31.336000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "毎日筋肉痛があるとしたら、身体の代謝が良いということですかね。",
+            "timestamp": "2022-09-18T14:51:58.376000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "たしかに、そうなりますね。基礎体温が37度とかなり高いですし。",
+            "timestamp": "2022-09-18T14:52:22.681000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "37度！コロナの検温が日常になると、少し不審な目で見られそうですね。",
+            "timestamp": "2022-09-18T14:52:52.486000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "そうなんですよ！37.5度で絶対休めって言われても、個人的には熱にカウントされないっていう...。",
+            "timestamp": "2022-09-18T14:53:22.156000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

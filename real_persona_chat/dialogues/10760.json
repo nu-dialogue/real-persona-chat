@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10760,
+    "interlocutors": [
+        "DT",
+        "EX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DT",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-15T17:38:08.987000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EX",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-15T17:38:12.535000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DT",
+            "text": "酸っぱいものは好きですか？",
+            "timestamp": "2022-08-15T17:38:39.524000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EX",
+            "text": "割と好きだと思います。ポン酢大好きなんで！",
+            "timestamp": "2022-08-15T17:38:57.931000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DT",
+            "text": "私も！お豆腐とかは醤油じゃなくポン酢かけてます！",
+            "timestamp": "2022-08-15T17:39:22.439000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EX",
+            "text": "わかります！ポン酢最強です。",
+            "timestamp": "2022-08-15T17:39:36.333000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DT",
+            "text": "確かに何でも合うかも！",
+            "timestamp": "2022-08-15T17:39:59.074000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EX",
+            "text": "しゃぶしゃぶもゴマだれで食べたことないかもです。",
+            "timestamp": "2022-08-15T17:40:27.369000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DT",
+            "text": "そうなんですか。確かにゴマより美味しいですね。さっぱりしてて。",
+            "timestamp": "2022-08-15T17:41:25.731000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EX",
+            "text": "そうなんですよ！酸っぱいものお好きなんですか？",
+            "timestamp": "2022-08-15T17:41:43.887000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DT",
+            "text": "好きです。毎日何かしらは食べてます。梅干しとか酢を炭酸で割ったり。",
+            "timestamp": "2022-08-15T17:42:14.410000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EX",
+            "text": "なんかおしゃれ！",
+            "timestamp": "2022-08-15T17:42:27.155000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DT",
+            "text": "全然オシャレじゃないですよー。おうちにあるので適当に。",
+            "timestamp": "2022-08-15T17:42:52.734000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EX",
+            "text": "そのさりげない感じがいいじゃないですか。",
+            "timestamp": "2022-08-15T17:43:29.294000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DT",
+            "text": "ソーダストリームを買ってからお酢を飲む機会が増えたんです。",
+            "timestamp": "2022-08-15T17:43:54.772000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EX",
+            "text": "あーあれ気になってました！ハイボールよく飲むので。使い勝手いいですか？",
+            "timestamp": "2022-08-15T17:44:17.513000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DT",
+            "text": "いいですよ。炭酸を毎回ペットボトルで買ってくる面倒がなくなりました。",
+            "timestamp": "2022-08-15T17:45:06.535000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EX",
+            "text": "今度電気屋いくので見てみます！",
+            "timestamp": "2022-08-15T17:45:37.030000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DT",
+            "text": "ハイボール飲むならおすすめですよ。",
+            "timestamp": "2022-08-15T17:45:52.556000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EX",
+            "text": "ですよね！これはきっと買いますね。",
+            "timestamp": "2022-08-15T17:46:14.269000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DT",
+            "text": "ウイスキーで好きな銘柄とかあるんですか？",
+            "timestamp": "2022-08-15T17:46:59.240000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EX",
+            "text": "特にこだわりはないですが角ハイばっかりです！",
+            "timestamp": "2022-08-15T17:47:24.060000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DT",
+            "text": "それってサントリーのやつですか？",
+            "timestamp": "2022-08-15T17:47:50.026000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EX",
+            "text": "そうです！井川遥さんのCMのやつです。",
+            "timestamp": "2022-08-15T17:48:18.572000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DT",
+            "text": "それ私も好きです。黄色のよく飲んでました。",
+            "timestamp": "2022-08-15T17:48:46.260000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EX",
+            "text": "あれが手頃で一番おいしい気がしますね！",
+            "timestamp": "2022-08-15T17:49:17.825000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DT",
+            "text": "ほんとそう思います。飲みやすい。",
+            "timestamp": "2022-08-15T17:49:48.550000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EX",
+            "text": "さすがロングセラーって感じです。",
+            "timestamp": "2022-08-15T17:50:02.382000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DT",
+            "text": "あー飲みたくなってきました！",
+            "timestamp": "2022-08-15T17:50:37.097000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EX",
+            "text": "暑いしグイっといっちゃいましょ！",
+            "timestamp": "2022-08-15T17:51:26.983000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

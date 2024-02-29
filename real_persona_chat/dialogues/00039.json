@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 39,
+    "interlocutors": [
+        "AF",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AF",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T10:29:04.874000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T10:29:12.124000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AF",
+            "text": "最近は動画配信サービスばかり利用しています。",
+            "timestamp": "2022-08-07T10:29:37.286000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "ついつい見ちゃうの分かります。",
+            "timestamp": "2022-08-07T10:29:56.283000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AF",
+            "text": "おすすめに色々あがってくるので、次から次へと観てしまいます。",
+            "timestamp": "2022-08-07T10:30:19.455000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "私も昔は加入してたんですが、今は何も登録してないんです。",
+            "timestamp": "2022-08-07T10:30:52.499000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AF",
+            "text": "そうなんですか？どうして今は利用されていないんでしょうか。",
+            "timestamp": "2022-08-07T10:31:28.843000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "加入してた時に、観たいものが無くなっちゃって。今は、お休み中です。Tverは見ます。",
+            "timestamp": "2022-08-07T10:32:11.472000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AF",
+            "text": "なるほどー、私は割とジャンル問わず観るのでまだまだ観たいものたくさんあります。",
+            "timestamp": "2022-08-07T10:32:50.722000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "どの動画配信サービスを利用しているのですか？",
+            "timestamp": "2022-08-07T10:33:05.927000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AF",
+            "text": "アマゾンプライムとネットフリックスです。",
+            "timestamp": "2022-08-07T10:33:23.109000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "ネットフリックスいいって聞くから、次は入るならネットフリックスかなって思ってます。",
+            "timestamp": "2022-08-07T10:33:56.427000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AF",
+            "text": "月額料金もそこまで高くなくて、オリジナル作品が多いので楽しいですよ。",
+            "timestamp": "2022-08-07T10:34:15.116000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "海外ドラマとかも観るんですか？",
+            "timestamp": "2022-08-07T10:34:24.187000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AF",
+            "text": "はい、面白かったら一気見しちゃいます。",
+            "timestamp": "2022-08-07T10:34:41.421000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "オザークっていうドラマを勧められましたが知ってます？",
+            "timestamp": "2022-08-07T10:35:09.970000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AF",
+            "text": "はい、それは途中まで観ました。",
+            "timestamp": "2022-08-07T10:35:35.496000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "面白いですか？",
+            "timestamp": "2022-08-07T10:35:47.095000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AF",
+            "text": "同じようなタイプなら、ブレイキングバッドのほうが勢いがあって面白かったです。",
+            "timestamp": "2022-08-07T10:36:09.153000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。海外ドラマってすごくシリーズが長いって聞きます。",
+            "timestamp": "2022-08-07T10:36:27.503000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AF",
+            "text": "長すぎるものより、シーズン5くらいで終わるようなドラマのほうが面白いかなーって思います。",
+            "timestamp": "2022-08-07T10:37:02.895000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "私も同感です。簡潔な方が最後まで見れる。",
+            "timestamp": "2022-08-07T10:37:18.740000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AF",
+            "text": "長く続くと、結局同じことの繰り返しでストーリー自体がダラけてきたりします。",
+            "timestamp": "2022-08-07T10:37:44.968000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "わかります。私はもっぱら日本のドラマです。",
+            "timestamp": "2022-08-07T10:38:06.682000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AF",
+            "text": "日本はよほど人気ないとシーズン２はしませんもんね！",
+            "timestamp": "2022-08-07T10:38:25.740000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "そう！で、だいたいシリーズ２以降はあんま面白くない。",
+            "timestamp": "2022-08-07T10:38:51.993000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AF",
+            "text": "分かります。やっぱり同じことをくり返しがちになるんですよね。",
+            "timestamp": "2022-08-07T10:39:14.536000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "ですね。また、面白いドラマあったら教えて下さい！",
+            "timestamp": "2022-08-07T10:39:30.690000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AF",
+            "text": "はい、こちらこそ。今日はありがとうございました。",
+            "timestamp": "2022-08-07T10:39:47.150000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "ではまた！",
+            "timestamp": "2022-08-07T10:39:53.704000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

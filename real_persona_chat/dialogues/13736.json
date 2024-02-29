@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13736,
+    "interlocutors": [
+        "GX",
+        "FY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-29T14:01:28.619000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FY",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-29T14:01:48.924000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "昼ごはん食べましたか？",
+            "timestamp": "2022-09-29T14:01:57.120000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FY",
+            "text": "お昼はいつも食べないのです",
+            "timestamp": "2022-09-29T14:02:15.677000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "おなか減りませんか？",
+            "timestamp": "2022-09-29T14:02:23.250000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FY",
+            "text": "お腹が減るとお菓子をたべます。",
+            "timestamp": "2022-09-29T14:02:35.484000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。何で食べないんですか？",
+            "timestamp": "2022-09-29T14:02:55.919000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FY",
+            "text": "前は食べていたのですが午後に眠くなるので。",
+            "timestamp": "2022-09-29T14:03:14.292000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。大変ですね。",
+            "timestamp": "2022-09-29T14:03:23.671000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FY",
+            "text": "食べなくしたら寝なくなりました！",
+            "timestamp": "2022-09-29T14:03:35.709000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。何が原因なんでしょう。",
+            "timestamp": "2022-09-29T14:04:12.543000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FY",
+            "text": "満腹になると眠くなる体質なのかもです",
+            "timestamp": "2022-09-29T14:04:27.142000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。前まではがっつり昼から食べていたんですか？",
+            "timestamp": "2022-09-29T14:04:47.026000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FY",
+            "text": "結構外食とかでがっつりいっていました。",
+            "timestamp": "2022-09-29T14:05:04.823000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。私は昼は少し少なめな弁当とかをよく食べます。",
+            "timestamp": "2022-09-29T14:05:26.147000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FY",
+            "text": "もしかしてそれならあまり眠くならないかもですね？",
+            "timestamp": "2022-09-29T14:05:46.784000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "そうかもしれませんね。満腹だと私もねちゃうかもしれません。",
+            "timestamp": "2022-09-29T14:06:04.561000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FY",
+            "text": "私もコンビニとかで今度そうしてみようかな？",
+            "timestamp": "2022-09-29T14:06:23.420000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "試してみましょう！三食とったほうが健康にはいいそうですよ。",
+            "timestamp": "2022-09-29T14:06:40.565000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FY",
+            "text": "実は朝食も私とらないんです！",
+            "timestamp": "2022-09-29T14:06:54.497000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "え！私なら絶対死んじゃいます。",
+            "timestamp": "2022-09-29T14:07:14.980000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FY",
+            "text": "朝弱いので1分でも長く寝ていたくて。",
+            "timestamp": "2022-09-29T14:07:44.413000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "わかります。朝抜くと昼は11時くらいにおなか減ります。",
+            "timestamp": "2022-09-29T14:08:07.558000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FY",
+            "text": "野菜ジュースだけは気休めに飲んでいます。",
+            "timestamp": "2022-09-29T14:08:32.303000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "いいですね。野菜大切です。",
+            "timestamp": "2022-09-29T14:08:43.889000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FY",
+            "text": "かなり味のバリエーションあって楽しいんですよね。",
+            "timestamp": "2022-09-29T14:09:01.275000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "赤とか、紫とかですよね。",
+            "timestamp": "2022-09-29T14:09:17.582000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FY",
+            "text": "まさにいま紫飲んでいます！",
+            "timestamp": "2022-09-29T14:09:36.483000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "紫が一番好きです。",
+            "timestamp": "2022-09-29T14:09:50.806000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FY",
+            "text": "私もです！",
+            "timestamp": "2022-09-29T14:09:59.306000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FY",
+            "informativeness": 1,
+            "comprehension": 1,
+            "familiarity": 1,
+            "interest": 1,
+            "proactiveness": 2,
+            "satisfaction": 1
+        }
+    ]
+}

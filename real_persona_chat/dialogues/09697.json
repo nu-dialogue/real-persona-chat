@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9697,
+    "interlocutors": [
+        "HI",
+        "DY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HI",
+            "text": "こんばんはーよろしくお願いします！",
+            "timestamp": "2022-08-08T22:34:32.954000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DY",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-08T22:34:37.161000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HI",
+            "text": "最近どこか遠出したりしましたか？",
+            "timestamp": "2022-08-08T22:34:59.607000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DY",
+            "text": "最近はコロナもあって行っても近場ですね。そちらはどうですか？",
+            "timestamp": "2022-08-08T22:35:19.251000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HI",
+            "text": "こちらも同じです。いいとこ10km圏内ですねー。",
+            "timestamp": "2022-08-08T22:35:42.414000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DY",
+            "text": "ですよねー。お住まいはどちらですか？",
+            "timestamp": "2022-08-08T22:36:05.431000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HI",
+            "text": "北海道です。最近7000人とかいっててやばいなーって思ってます。",
+            "timestamp": "2022-08-08T22:36:29.255000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DY",
+            "text": "北海道なんですね！10km圏内で済むとなると、都会なのでしょうか？",
+            "timestamp": "2022-08-08T22:37:12.348000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HI",
+            "text": "そうですねー。札幌です！早くコロナ減ってほしいですね。",
+            "timestamp": "2022-08-08T22:37:30.718000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DY",
+            "text": "コロナは減ってほしいですね。私は埼玉なのですが、電車を乗りたくないので基本引きこもってます！",
+            "timestamp": "2022-08-08T22:37:55.976000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HI",
+            "text": "埼玉ですか。埼玉も最近増えてますよねー。僕も車に乗っていけるとき以外は引きこもってます！",
+            "timestamp": "2022-08-08T22:38:31.210000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DY",
+            "text": "埼玉はめちゃめちゃ多いです。車移動なんですね！いいと思います！",
+            "timestamp": "2022-08-08T22:39:18.240000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HI",
+            "text": "いつかかるかわかりませんもんねー。東京近辺だと車逆に邪魔そうですよね。",
+            "timestamp": "2022-08-08T22:39:59.736000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DY",
+            "text": "そうなんですよ、なので車は持ってないです。まあ今後のことを考えると欲しいんですけどね。",
+            "timestamp": "2022-08-08T22:40:19.598000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HI",
+            "text": "車あると便利ですよー。でも駐車場代やら税金やら維持費やらガソリン代やらで持ちにくいですよね。",
+            "timestamp": "2022-08-08T22:41:21.190000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DY",
+            "text": "便利ですよね！ただやっぱりそういったものでかなりお金かかりますよね。",
+            "timestamp": "2022-08-08T22:41:55.522000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HI",
+            "text": "そうですねー。結構お金はかかっちゃいます。海外みたいにもうちょい安くなればいいんですけどね。",
+            "timestamp": "2022-08-08T22:42:21.456000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DY",
+            "text": "全然知らないんですけど、維持費とかでこんだけ高いのって日本だけなんですか？",
+            "timestamp": "2022-08-08T22:42:43.828000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HI",
+            "text": "そうらしいですよー。海外は割と安いらしいです。",
+            "timestamp": "2022-08-08T22:43:07.601000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DY",
+            "text": "そうなんですね。日本も安くなればいいんですけどね、特に税金とか。",
+            "timestamp": "2022-08-08T22:43:34.559000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HI",
+            "text": "そうですねー。トヨタが税金下げろって要請してくれたので、それに期待しましょう。",
+            "timestamp": "2022-08-08T22:43:54.696000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DY",
+            "text": "そうなんですね！世界のトヨタが言うんだから、国はなんとかしてほしいですね！",
+            "timestamp": "2022-08-08T22:44:23.443000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HI",
+            "text": "そうですね！もう税金の金額が半分くらいになれば結果的に税収上がりそうですけどね。",
+            "timestamp": "2022-08-08T22:45:02.118000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DY",
+            "text": "たしかに、何事も税金上げすぎてそもそも持たない・やらないという人もいるでしょうしね。",
+            "timestamp": "2022-08-08T22:45:35.502000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HI",
+            "text": "そうなんですよね。そこが逆に課題なんじゃないかと思ってます。もう少し全体的に下げたらいいと思います。",
+            "timestamp": "2022-08-08T22:46:12.485000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DY",
+            "text": "難しい話ですが、頭いい官僚の人たちにがんばってほしいところです！",
+            "timestamp": "2022-08-08T22:46:43.766000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HI",
+            "text": "そうですね。早く下がることを祈ってます！",
+            "timestamp": "2022-08-08T22:47:07.578000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DY",
+            "text": "そうなれば自分も車買って、いろいろ出かけたいです。",
+            "timestamp": "2022-08-08T22:47:39.684000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HI",
+            "text": "そうですね。最近の車って安全性も高いですし、すごくいいと思います！",
+            "timestamp": "2022-08-08T22:48:07.746000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DY",
+            "text": "たしかに！カメラが付いて駐車とかすごい楽になってますよね。",
+            "timestamp": "2022-08-08T22:48:44.280000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

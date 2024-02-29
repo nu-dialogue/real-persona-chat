@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 153,
+    "interlocutors": [
+        "AO",
+        "AN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-10T22:01:56.545000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AN",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-10T22:02:00.304000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "明日は、晴れますかねー？",
+            "timestamp": "2022-08-10T22:02:09.409000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AN",
+            "text": "どうでしょう？天気予報は観ましたか？",
+            "timestamp": "2022-08-10T22:02:24.284000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "見てないんですよ。晴れるなら、洗濯したいな。",
+            "timestamp": "2022-08-10T22:02:39.383000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AN",
+            "text": "お洗濯いいですね。最近天気予報当たらなくないですか？",
+            "timestamp": "2022-08-10T22:02:59.032000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "当たらないです！しかも、急に降ってきたりします！",
+            "timestamp": "2022-08-10T22:03:19.392000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AN",
+            "text": "そうですよね。ゲリラ豪雨に遭っちゃったりすると、参っちゃいますよね。",
+            "timestamp": "2022-08-10T22:03:38.542000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "勘弁ですね！平日はだから、洗濯物は部屋干しがメインなんですよ、うち。",
+            "timestamp": "2022-08-10T22:03:57.330000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AN",
+            "text": "そうなんですか。わたしは平日も在宅していることが多いので外干しがメインです。",
+            "timestamp": "2022-08-10T22:04:26.904000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "外のほうが絶対気持ち良く乾く気がします。",
+            "timestamp": "2022-08-10T22:04:39.748000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AN",
+            "text": "わたしもそんな気がしてしまうんですよ。",
+            "timestamp": "2022-08-10T22:05:04.737000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "ですよねー。あと、洗剤の匂いが家のなかにこもりがちで。",
+            "timestamp": "2022-08-10T22:05:19.032000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AN",
+            "text": "なるほど、よく言う生乾き臭とかは、大丈夫なものですか？",
+            "timestamp": "2022-08-10T22:05:52.011000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "ここ最近は気温が高いので、そのへんは大丈夫ですね。すぐ乾きます。",
+            "timestamp": "2022-08-10T22:06:12.854000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AN",
+            "text": "そうなのですか！洗剤とか柔軟剤ってこだわってたりしますか？",
+            "timestamp": "2022-08-10T22:06:41.235000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "私は柔軟剤反対派なんですが、妻が柔軟剤入のを買ってきます。",
+            "timestamp": "2022-08-10T22:07:00.671000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AN",
+            "text": "そうなんですな。柔軟剤をタオルとかに使うと吸水性が悪くなっちゃいますよね。",
+            "timestamp": "2022-08-10T22:07:25.928000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "え！そうなんですか？タオルをフワフワにするのが柔軟剤では？",
+            "timestamp": "2022-08-10T22:07:44.322000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AN",
+            "text": "ふわふわにはなるのですが、水を吸う力は落ちるものが多いみたいです。",
+            "timestamp": "2022-08-10T22:08:10.510000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "えー、本末転倒じゃないですか！",
+            "timestamp": "2022-08-10T22:08:23.163000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AN",
+            "text": "ね。意外ですよね。",
+            "timestamp": "2022-08-10T22:08:32.558000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "意外すぎます！みんなそれを知ってても使ってるんでしょうか？",
+            "timestamp": "2022-08-10T22:08:45.530000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AN",
+            "text": "どうなんでしょうか。意外と知らない人も多いのかもしれませんね。",
+            "timestamp": "2022-08-10T22:09:04.004000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "ですよね。私も今知ったぐらいだし。もしや妻も？",
+            "timestamp": "2022-08-10T22:09:18.153000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AN",
+            "text": "聞いてみるのもいいかもです。わたしの周りはタオルだけは別で洗たくするような人もいます。",
+            "timestamp": "2022-08-10T22:09:44.439000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "それはまたご丁寧な！しかし、妻には言っておかないとですね！",
+            "timestamp": "2022-08-10T22:10:08.437000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AN",
+            "text": "わたしの夫も知らなかったみたいです。",
+            "timestamp": "2022-08-10T22:10:35.610000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "やっぱり！いい情報をありがとうございます！早速あとで伝えてみますね！",
+            "timestamp": "2022-08-10T22:11:00.698000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AN",
+            "text": "いえいえ！またどうだったか教えて下さい。",
+            "timestamp": "2022-08-10T22:11:17.042000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

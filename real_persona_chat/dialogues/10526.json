@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10526,
+    "interlocutors": [
+        "IO",
+        "EB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IO",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-13T17:48:54.591000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EB",
+            "text": "こちらこそよろしくですー！",
+            "timestamp": "2022-08-13T17:49:04.158000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IO",
+            "text": "今日は何をされていましたか？",
+            "timestamp": "2022-08-13T17:49:17.550000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EB",
+            "text": "今日はずっとすごい雨降ってるので買い物だけしてきました",
+            "timestamp": "2022-08-13T17:49:35.607000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IO",
+            "text": "そちらは雨なんですね。台風の影響でしょうか？",
+            "timestamp": "2022-08-13T17:49:49.366000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EB",
+            "text": "ですねー！今ちょうど横っちょあたりにいる感じです",
+            "timestamp": "2022-08-13T17:50:17.705000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IO",
+            "text": "結構近くにいるんですね。災害など大丈夫ですか？",
+            "timestamp": "2022-08-13T17:50:34.299000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EB",
+            "text": "災害は特に大丈夫ですね！",
+            "timestamp": "2022-08-13T17:50:47.576000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IO",
+            "text": "それはよかった。水災害怖いですね。",
+            "timestamp": "2022-08-13T17:51:19.430000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EB",
+            "text": "ですよねーテレビとかで見るとほんと怖いです、うちまで水が来たら多分日本沈没しますね笑",
+            "timestamp": "2022-08-13T17:51:52.777000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IO",
+            "text": "結構高台に住まれているんですか？",
+            "timestamp": "2022-08-13T17:52:12.657000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EB",
+            "text": "そうですね、ちょっと小高い丘なんですよ",
+            "timestamp": "2022-08-13T17:52:31.016000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IO",
+            "text": "そうなんですね。確かにそれだと日本沈んでしまいますね。",
+            "timestamp": "2022-08-13T17:53:15.479000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EB",
+            "text": "川の近くとかに住んでる方は大変だろうなーっていつも思います",
+            "timestamp": "2022-08-13T17:53:46.526000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IO",
+            "text": "ちょうど私の家の目の前には川が流れています。",
+            "timestamp": "2022-08-13T17:54:22.884000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EB",
+            "text": "そうなんですか！？台風とかの時って危なくないですか？",
+            "timestamp": "2022-08-13T17:54:55.173000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IO",
+            "text": "危ないですよね！こないだ土砂降りの直後は増水していました。",
+            "timestamp": "2022-08-13T17:55:18.062000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EB",
+            "text": "あぁやっぱそうなりますよね、家まで水入ったりします？",
+            "timestamp": "2022-08-13T17:55:48.780000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IO",
+            "text": "そこまではないです！家の後ろが山で土砂崩れも心配です。",
+            "timestamp": "2022-08-13T17:56:22.208000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EB",
+            "text": "なるほどぉ、そっちもあるとなお怖いですね土砂崩れとかもマジで危ないからね",
+            "timestamp": "2022-08-13T17:57:02.724000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IO",
+            "text": "一瞬で家飲み込まれちゃいますね。",
+            "timestamp": "2022-08-13T17:57:18.074000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EB",
+            "text": "まっさきに避難しなくてはですね！",
+            "timestamp": "2022-08-13T17:57:38.815000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IO",
+            "text": "災害グッズとか用意されていますか？",
+            "timestamp": "2022-08-13T17:58:07.522000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EB",
+            "text": "一応防災セットみたいなのを家に備えてますね！",
+            "timestamp": "2022-08-13T17:58:26.809000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IO",
+            "text": "やはり必要ですよね。",
+            "timestamp": "2022-08-13T17:58:43.973000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EB",
+            "text": "ほんとにあったほうがいいと思いますよ、とくにそういった危ないものが近くにある場合は！",
+            "timestamp": "2022-08-13T17:59:10.513000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IO",
+            "text": "そうですよね！日本は災害多いから怖いですね。",
+            "timestamp": "2022-08-13T17:59:28.181000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EB",
+            "text": "自身はだいぶ皆慣れてるけど、ほかにもいろいろありますからね",
+            "timestamp": "2022-08-13T17:59:57.127000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IO",
+            "text": "ちょっと調べてみます！ありがとうございました。",
+            "timestamp": "2022-08-13T18:00:18.247000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EB",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-13T18:00:30.911000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

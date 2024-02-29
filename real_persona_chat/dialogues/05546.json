@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5546,
+    "interlocutors": [
+        "GL",
+        "GQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GL",
+            "text": "こんにちは、よろしくお願いいたします。！",
+            "timestamp": "2022-09-25T20:58:29.049000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GQ",
+            "text": "こんにちは。こちらこそよろしくお願いします。",
+            "timestamp": "2022-09-25T20:58:42.730000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GL",
+            "text": "夕ご飯は召し上がりましたか？",
+            "timestamp": "2022-09-25T20:58:55.182000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GQ",
+            "text": "はい。お腹いっぱいです。",
+            "timestamp": "2022-09-25T20:59:03.723000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね！何を召し上がりましたか？",
+            "timestamp": "2022-09-25T20:59:12.843000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GQ",
+            "text": "簡単サムギョプサルです。",
+            "timestamp": "2022-09-25T20:59:27.836000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GL",
+            "text": "サムギョプサル！よいですね！お手製ですか？",
+            "timestamp": "2022-09-25T20:59:46.174000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GQ",
+            "text": "うちは主人が得意でよく作ってくれます。簡単なやつですけどね。",
+            "timestamp": "2022-09-25T21:00:13.028000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GL",
+            "text": "ええ！そうなのですね！簡単でも作れるなんてすごいです！",
+            "timestamp": "2022-09-25T21:00:38.442000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GQ",
+            "text": "手抜きとも言いますが、美味しくて食べ過ぎてしまいます。",
+            "timestamp": "2022-09-25T21:01:09.686000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GL",
+            "text": "料理は簡単で美味しいのが一番かなと思っています！とくに自宅でつくるのであれば！",
+            "timestamp": "2022-09-25T21:01:34.362000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GQ",
+            "text": "私よりも主人の方が手際が良くて、尊敬してます。",
+            "timestamp": "2022-09-25T21:02:29.740000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GL",
+            "text": "ご主人がお料理上手なのですね！他に得意な料理などはありますか？",
+            "timestamp": "2022-09-25T21:03:05.427000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GQ",
+            "text": "カレーですね。スパイスから作るやつ。",
+            "timestamp": "2022-09-25T21:03:22.893000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GL",
+            "text": "えええ！すごいです！しかもスパイスから、、、どのようなお味がしますか？",
+            "timestamp": "2022-09-25T21:03:42.005000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GQ",
+            "text": "ルーのカレーとは全く違います。でも材料の使い方が男性は贅沢で、家計にはちょっと痛いです。",
+            "timestamp": "2022-09-25T21:04:17.830000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね！スパイシーでとてもおいしそうです！あ、材料に凝られていてお高いのですね！",
+            "timestamp": "2022-09-25T21:04:53.570000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GQ",
+            "text": "ふふふ、そうです、そうです。私はもっぱら節約して和食です。",
+            "timestamp": "2022-09-25T21:05:30.855000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GL",
+            "text": "節約は大事ですね、今物価が少しずつあがってますから、和食は作り置きとかですか？",
+            "timestamp": "2022-09-25T21:05:59.821000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GQ",
+            "text": "たまに作り置きもしますが、5人家族なので、あっという間になくなります。",
+            "timestamp": "2022-09-25T21:06:24.064000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね！人数が多いと作り置きもたいらげてしまいますかね！",
+            "timestamp": "2022-09-25T21:07:37.702000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GQ",
+            "text": "そうなんです。大皿料理を作って、次の日の弁当用を少し分けて、はい完売！って感じです。",
+            "timestamp": "2022-09-25T21:08:15.279000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GL",
+            "text": "お料理がお上手で完売するということですよね。うちではおいしくないと余ってしまうので！",
+            "timestamp": "2022-09-25T21:08:54.825000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GQ",
+            "text": "そう言われると、余る事がないのは好評な証拠ですね。",
+            "timestamp": "2022-09-25T21:09:41.985000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GL",
+            "text": "ご家族の味覚にあっていてすごいです！好きな味は人それぞれあるので大変ですね。",
+            "timestamp": "2022-09-25T21:10:12.615000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GQ",
+            "text": "好き嫌いがそれぞれ違いますからね。お互い「食べないならもらうね。」って感じですよ。",
+            "timestamp": "2022-09-25T21:11:00.929000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GL",
+            "text": "そうですよね。私は味音痴なほうなので、わりとなんでも食べられちゃいます！",
+            "timestamp": "2022-09-25T21:11:19.555000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GQ",
+            "text": "あっ、私もです。だから何でも片付いちゃうんですよ。",
+            "timestamp": "2022-09-25T21:11:46.320000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GL",
+            "text": "そうでしたか！好き嫌いが少ないっていうメリットはありますよね！",
+            "timestamp": "2022-09-25T21:12:15.053000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GQ",
+            "text": "はい、体重増加というデメリットもありますが。",
+            "timestamp": "2022-09-25T21:12:37.005000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

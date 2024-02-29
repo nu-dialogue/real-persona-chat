@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5821,
+    "interlocutors": [
+        "GZ",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-30T12:52:15.538000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-30T12:52:20.145000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GZ",
+            "text": "今日はお仕事お休みですか？",
+            "timestamp": "2022-09-30T12:52:29.086000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "そうですね、学生なので授業になりますが。",
+            "timestamp": "2022-09-30T12:52:43.943000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GZ",
+            "text": "学生さんなのですね。どんな事を学んでいるのか聞いても良いですか？",
+            "timestamp": "2022-09-30T12:53:02.202000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "理学部に入っていて、物理系の研究をしています！",
+            "timestamp": "2022-09-30T12:53:22.733000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GZ",
+            "text": "それは凄いですね！専門分野でかっこいいですね。",
+            "timestamp": "2022-09-30T12:53:37.325000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "ありがとうございます！",
+            "timestamp": "2022-09-30T12:53:58.688000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GZ",
+            "text": "私は美術学部を出ました。",
+            "timestamp": "2022-09-30T12:54:13.046000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "え！そうなんですか！絵画ですか？",
+            "timestamp": "2022-09-30T12:54:31.508000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GZ",
+            "text": "絵画をやったのですが、お金にならないのでデザインの勉強もして、今はそっちの仕事をしています。",
+            "timestamp": "2022-09-30T12:54:52.288000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "おおお。デザインの仕事こそ専門性高いじゃないですか！すてきですね。",
+            "timestamp": "2022-09-30T12:55:13.761000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GZ",
+            "text": "好きな仕事なんですけど、私は研究者とか憧れてしまいます。",
+            "timestamp": "2022-09-30T12:55:33.642000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "好きな仕事なのいいですね。研究者はまだなるかどうか迷ってまして。",
+            "timestamp": "2022-09-30T12:55:57.193000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GZ",
+            "text": "そうなんですね。研究者にならなかったら、就職となるのですか？",
+            "timestamp": "2022-09-30T12:56:22.737000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "それか教職をとっているので、先生になるかというところです。",
+            "timestamp": "2022-09-30T12:56:42.734000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GZ",
+            "text": "おおお！それも凄いですね！！理科の先生ですか？",
+            "timestamp": "2022-09-30T12:56:56.191000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "はい！教育実習もすでに行ってきました。",
+            "timestamp": "2022-09-30T12:57:15.235000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GZ",
+            "text": "素晴らしいです。私は教職の免許がないので、たまに絵画講師として子供達に教えています。",
+            "timestamp": "2022-09-30T12:57:47.264000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "絵画講師ですか！楽しいですか？",
+            "timestamp": "2022-09-30T12:58:03.724000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GZ",
+            "text": "子供達はとてもかわいいです。毎日だと体力がもたないかも、私の場合。",
+            "timestamp": "2022-09-30T12:58:45.209000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "そんなに小さい子に教えてるんですね。どれくらいの子たちですか？",
+            "timestamp": "2022-09-30T12:59:11.940000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GZ",
+            "text": "幼稚園から小学生です！元気いっぱいです。なんでも自分でやってみてくれるので教えてる方は楽です。",
+            "timestamp": "2022-09-30T12:59:43.845000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "小さい子たちなんですね！自分から取り組んでもらえるのありがたいですね。",
+            "timestamp": "2022-09-30T13:00:15.643000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GZ",
+            "text": "学校の先生だと、中学とか、高校ですか？",
+            "timestamp": "2022-09-30T13:00:38.600000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "高校ですね。みんな大人です。",
+            "timestamp": "2022-09-30T13:01:02.017000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GZ",
+            "text": "高校生！それはそれでとても楽しそうですね。大人の会話が出来そうです。",
+            "timestamp": "2022-09-30T13:01:21.892000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "何より専門性の高いことを教えられるのが楽しいです！",
+            "timestamp": "2022-09-30T13:01:42.645000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GZ",
+            "text": "これから、とても楽しみな未来が待っていますね、頑張ってください！",
+            "timestamp": "2022-09-30T13:02:02.023000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "ありがとうございます！そちらも頑張ってください！",
+            "timestamp": "2022-09-30T13:02:14.075000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

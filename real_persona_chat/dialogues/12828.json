@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12828,
+    "interlocutors": [
+        "FR",
+        "FK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T22:41:16.638000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-12T22:41:21.159000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "最近何か欲しいと思うもの、ありますか？",
+            "timestamp": "2022-09-12T22:41:28.025000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FK",
+            "text": "そうですね、PS5とかイヤフォンですかね",
+            "timestamp": "2022-09-12T22:41:38.520000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "ps5ですか。パソコン買ったほうがよくないのかなと思うのですがどうでしょう？",
+            "timestamp": "2022-09-12T22:41:57.711000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FK",
+            "text": "うーん。パソコンであまりゲームやろうと思わないんですよねー",
+            "timestamp": "2022-09-12T22:42:11.187000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "なるほど。仕事と分けたいタイプですか。",
+            "timestamp": "2022-09-12T22:42:27.435000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FK",
+            "text": "それもありますし、コントローラーがいいなって。",
+            "timestamp": "2022-09-12T22:42:38.483000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "コントローラーでもできますよ。",
+            "timestamp": "2022-09-12T22:42:46.872000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FK",
+            "text": "ブルートゥースでですか",
+            "timestamp": "2022-09-12T22:43:02.708000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "有線で簡単にできますよ。",
+            "timestamp": "2022-09-12T22:43:20.295000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FK",
+            "text": "できるんですか、、うーむ",
+            "timestamp": "2022-09-12T22:43:34.030000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "なんなら、パソコンのほうが入力遅延が遅いと思います。",
+            "timestamp": "2022-09-12T22:43:59.914000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FK",
+            "text": "今MacなのでWindows買おうとはおもわないんですよね、、、",
+            "timestamp": "2022-09-12T22:44:02.913000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "それはそうですね。いろいろ不便になりそうです。",
+            "timestamp": "2022-09-12T22:44:17.299000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FK",
+            "text": "なんとなく、ゲームはゲームでわけたいなと",
+            "timestamp": "2022-09-12T22:44:25.317000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "それならps5ですね！120fpsくらいでるんでしたっけ？",
+            "timestamp": "2022-09-12T22:44:44.368000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FK",
+            "text": "そこまで詳しくないですが、AMD搭載してたはずです",
+            "timestamp": "2022-09-12T22:44:54.941000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。性能がパソコンに近づいてきてるんですね。",
+            "timestamp": "2022-09-12T22:45:19.025000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FK",
+            "text": "こえるかもとかいわれました",
+            "timestamp": "2022-09-12T22:45:27.613000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "それはすごいです。でもパソコンも常に新しいの出続けていますよ。",
+            "timestamp": "2022-09-12T22:45:48.461000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FK",
+            "text": "今インテルとか最新のやついくつのcpuかわかんないです！",
+            "timestamp": "2022-09-12T22:46:06.554000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "私もわかんないです。でもapexはcpuよりグラボ依存ですねたしか。",
+            "timestamp": "2022-09-12T22:46:33.004000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FK",
+            "text": "あーそっか、ゲームはグラボだいじっていいますもんね",
+            "timestamp": "2022-09-12T22:46:43.553000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "めちゃくちゃ大切です。一番高いんですけど。",
+            "timestamp": "2022-09-12T22:46:57.032000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FK",
+            "text": "一番高いですか、しらなかった",
+            "timestamp": "2022-09-12T22:47:01.616000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "私のpcのグラボだけで余裕でps5買えます。",
+            "timestamp": "2022-09-12T22:47:21.254000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FK",
+            "text": "ええ、、すごいですね！",
+            "timestamp": "2022-09-12T22:47:27.322000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "最近は安くなってきましたが。",
+            "timestamp": "2022-09-12T22:47:37.125000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FK",
+            "text": "すごい世界があるもんなんですね",
+            "timestamp": "2022-09-12T22:47:39.330000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8070,
+    "interlocutors": [
+        "AO",
+        "AV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんばんは！はじめまして。",
+            "timestamp": "2022-08-06T22:27:39.748000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AV",
+            "text": "こんばんは。はじめまして！",
+            "timestamp": "2022-08-06T22:27:57.199000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "最近、転職したいなーと思ってるんですよねー。",
+            "timestamp": "2022-08-06T22:28:38.119000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AV",
+            "text": "そうなんですね。もうやりたいお仕事は決まっているんですか？",
+            "timestamp": "2022-08-06T22:28:41.814000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "いえ、全然！単に給料を上げたいって感じです。",
+            "timestamp": "2022-08-06T22:28:50.243000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AV",
+            "text": "おぉ！素晴らしい！お給料上がるとやる気になりますね。",
+            "timestamp": "2022-08-06T22:29:20.459000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "そうなんですけど、いざ自分を振り返ると、スキルがなにもないことに愕然としてます。",
+            "timestamp": "2022-08-06T22:29:39.966000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AV",
+            "text": "同業に転職されるんですよね？",
+            "timestamp": "2022-08-06T22:30:04.058000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "まあ、職種的には営業ですかねー。",
+            "timestamp": "2022-08-06T22:30:12.619000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AV",
+            "text": "営業されているんですか？お話上手なんですね。",
+            "timestamp": "2022-08-06T22:30:40.305000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "そんなことないですよ。決まったルート営業ですからね。",
+            "timestamp": "2022-08-06T22:30:50.947000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AV",
+            "text": "きっと毎日営業してたらスキルがついて成長されていると思うんですが。",
+            "timestamp": "2022-08-06T22:31:33.329000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "全然です。履歴書に書くことがなさすぎて、参ってますよ。",
+            "timestamp": "2022-08-06T22:31:51.522000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AV",
+            "text": "あ、それよく聞きます。履歴書が真っ白でどうしたものかと。",
+            "timestamp": "2022-08-06T22:32:26.430000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "そうなんです！あなたは履歴書って、スラスラ書けますか？",
+            "timestamp": "2022-08-06T22:32:45.072000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AV",
+            "text": "わたしは転職回数が多いのでたっくさん書くことがあって逆に履歴書真っ黒ですよ。",
+            "timestamp": "2022-08-06T22:33:23.952000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "おー、すごいなあ。いろんなスキルが身についてそうです。",
+            "timestamp": "2022-08-06T22:33:39.657000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AV",
+            "text": "いえいえ、逆に企業にはすぐに転職されると思われちゃいます。",
+            "timestamp": "2022-08-06T22:34:35.968000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "それ、昔はよく言われましたが、今の時代はむしろ評価ポイントじゃないですか？柔軟性あるって。",
+            "timestamp": "2022-08-06T22:35:27.425000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AV",
+            "text": "そんなことないですよ。毎回面接の時には理由を聞かれてしまうので。",
+            "timestamp": "2022-08-06T22:35:58.251000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "あー、たしかに聞きたくはなります。どんな理由で転職することが多いんですか？",
+            "timestamp": "2022-08-06T22:36:15.025000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AV",
+            "text": "主には主人の転勤ですね。でももちろん自己都合もあります。",
+            "timestamp": "2022-08-06T22:36:48.341000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "転勤についていくたびに、ちゃんとその地で仕事を探してきたって、素晴らしいことじゃないですか！",
+            "timestamp": "2022-08-06T22:37:16.849000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AV",
+            "text": "ついていかなければよかったんですけどね。今後はついていきませんが。",
+            "timestamp": "2022-08-06T22:37:48.581000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "え！ついていかないんですか？えー！",
+            "timestamp": "2022-08-06T22:38:00.863000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AV",
+            "text": "はい。子供ももう大きいことですし環境を変えるのはいかがなものかと。",
+            "timestamp": "2022-08-06T22:38:26.991000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "お子さんいると、確かになかなか引っ越しは難しいですよねー。それじゃ単身赴任？",
+            "timestamp": "2022-08-06T22:38:55.938000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AV",
+            "text": "してもらうつもりです。だからあなたもきっと履歴書に書くことがなくても面談でうまくいきますよ。",
+            "timestamp": "2022-08-06T22:39:30.250000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "そういってもらえると、少しやる気出てきました！ありがとうございます！",
+            "timestamp": "2022-08-06T22:40:01.861000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AV",
+            "text": "あなたの人柄でしたら大丈夫ですよ！応援しています。",
+            "timestamp": "2022-08-06T22:40:23.154000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AO",
+            "text": "ありがとうございます！では、いつかまた！",
+            "timestamp": "2022-08-06T22:40:32.713000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6460,
+    "interlocutors": [
+        "HQ",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-08T18:48:57.535000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-08T18:49:05.287000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "夜ご飯は何を食べますか？",
+            "timestamp": "2022-10-08T18:49:17.175000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "今日は唐揚げの予定です",
+            "timestamp": "2022-10-08T18:49:31.908000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "いいですね。手作りですか？",
+            "timestamp": "2022-10-08T18:49:41.024000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "いえ、ウーバーイーツしました",
+            "timestamp": "2022-10-08T18:49:51.661000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "ウーバーイーツか、便利ですよね",
+            "timestamp": "2022-10-08T18:50:06.837000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "ちょっと高いですけどね。三千円くらいかかりました",
+            "timestamp": "2022-10-08T18:50:23.900000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "高いですね",
+            "timestamp": "2022-10-08T18:50:31.025000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "ですよね。韓国チキンの店なんですけどちょっとぼったくりかなって思います",
+            "timestamp": "2022-10-08T18:50:57.216000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "宅配ピザくらいの値段ですね",
+            "timestamp": "2022-10-08T18:51:14.310000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "そうなんですよね。宅配ピザのほうが安いかも",
+            "timestamp": "2022-10-08T18:51:31.342000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "韓国チキンって自分で作れないんですか？",
+            "timestamp": "2022-10-08T18:51:45.316000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "ザクザク感を出すのが難しい気がします",
+            "timestamp": "2022-10-08T18:51:58.308000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "なるほど。",
+            "timestamp": "2022-10-08T18:52:04.628000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "あとは味付けかな",
+            "timestamp": "2022-10-08T18:52:13.779000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "何味を頼んだんですか？",
+            "timestamp": "2022-10-08T18:52:24.612000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "辛いヤンニョム味とチーズ味です",
+            "timestamp": "2022-10-08T18:52:49.859000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "おいしそうですね",
+            "timestamp": "2022-10-08T18:52:58.484000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "ちょっと量が多かったです",
+            "timestamp": "2022-10-08T18:53:09.157000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "何個入ってるんですか？",
+            "timestamp": "2022-10-08T18:53:18.857000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "大きめのが10個です",
+            "timestamp": "2022-10-08T18:53:47.196000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "ケンタッキーのほうが安そうですね",
+            "timestamp": "2022-10-08T18:53:58.489000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "ですね。あとペプシと大根の漬物とチーズボールもついてます",
+            "timestamp": "2022-10-08T18:54:18.603000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "結構いろいろついてるんですね",
+            "timestamp": "2022-10-08T18:54:29.567000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "そうですね、それでも高い気はします",
+            "timestamp": "2022-10-08T18:54:42.729000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "ケンタッキーとどっちがおいしいですか？",
+            "timestamp": "2022-10-08T18:55:03.495000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "うーん、難しいです。ケンタッキーがザクザクだったらいいんですけど",
+            "timestamp": "2022-10-08T18:55:20.605000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "クリスピーじゃだめなんですか？",
+            "timestamp": "2022-10-08T18:55:29.902000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "なんかちょっと違うんですよね",
+            "timestamp": "2022-10-08T18:55:39.089000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

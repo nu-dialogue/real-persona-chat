@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4158,
+    "interlocutors": [
+        "FF",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "こんにちは",
+            "timestamp": "2022-09-08T09:28:03.087000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-08T09:28:09.249000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "好きな食べ物、飲み物ありますか？",
+            "timestamp": "2022-09-08T09:28:24.689000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "魚は好きです",
+            "timestamp": "2022-09-08T09:28:38.393000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "どのような食べ方が好きですか？",
+            "timestamp": "2022-09-08T09:28:48.148000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "やはり刺身でしょうか",
+            "timestamp": "2022-09-08T09:28:58.383000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "ですよね、寿司と刺身では？",
+            "timestamp": "2022-09-08T09:29:09.315000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "刺身ですね",
+            "timestamp": "2022-09-08T09:29:18.219000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "そうでしたか！何が好きとかありますか？",
+            "timestamp": "2022-09-08T09:29:33.192000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "イカソーメンや中トロですね",
+            "timestamp": "2022-09-08T09:29:52.072000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "イカソーメンはいいですね。げそさし食べたことありますか？",
+            "timestamp": "2022-09-08T09:30:11.561000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "動いてるやつですか",
+            "timestamp": "2022-09-08T09:30:21.529000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "少し動いてたかもしれません。",
+            "timestamp": "2022-09-08T09:30:30.123000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "博多で食べたような",
+            "timestamp": "2022-09-08T09:30:42.333000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "こちらは青森でしたが、あれはうまいですね。",
+            "timestamp": "2022-09-08T09:30:50.973000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "はい、珍しくもありました",
+            "timestamp": "2022-09-08T09:31:08.580000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "ですね。珍しいのだとさんまの刺身ってあまり経験なかったですね。",
+            "timestamp": "2022-09-08T09:31:22.964000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "サンマの刺身も好きです。青魚全般に好きかも",
+            "timestamp": "2022-09-08T09:31:50.694000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "確かにうまいですよね。アジとかは？",
+            "timestamp": "2022-09-08T09:32:06.516000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "アジのたたきとか好きです",
+            "timestamp": "2022-09-08T09:32:19.947000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "いいですよね。ナメロウもうまいですね。",
+            "timestamp": "2022-09-08T09:32:30.217000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "もう日本酒に合えばなんでも良い感じです",
+            "timestamp": "2022-09-08T09:32:52.537000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "それはありますね。日本酒はどんなのが好きですか？",
+            "timestamp": "2022-09-08T09:33:06.169000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "薄めの味が好きです",
+            "timestamp": "2022-09-08T09:33:19.314000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "辛口ってことですかね！",
+            "timestamp": "2022-09-08T09:33:27.009000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "大吟醸が苦手です",
+            "timestamp": "2022-09-08T09:33:38.785000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "甘い感じがありますね。苦手なのもうなづけます。",
+            "timestamp": "2022-09-08T09:33:52.668000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "さっぱりしたのが好きです",
+            "timestamp": "2022-09-08T09:34:04.487000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "旅行先ではつい甘いのを選んでしまいますね！",
+            "timestamp": "2022-09-08T09:34:20.985000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "なるほどですね",
+            "timestamp": "2022-09-08T09:34:36.201000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

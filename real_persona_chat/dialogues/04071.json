@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4071,
+    "interlocutors": [
+        "CM",
+        "FL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-07T13:00:11.826000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-07T13:00:17.439000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CM",
+            "text": "こちらは少し肌寒いです、そちらはどうですか？",
+            "timestamp": "2022-09-07T13:00:28.491000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FL",
+            "text": "涼しいですが、日差しが強いですね。",
+            "timestamp": "2022-09-07T13:00:40.635000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CM",
+            "text": "こちらは雲行きが怪しいです、晴れてほしいなあ。",
+            "timestamp": "2022-09-07T13:00:56.458000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FL",
+            "text": "晴れてほしいですね。クーラーつけていますか？",
+            "timestamp": "2022-09-07T13:01:11.607000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CM",
+            "text": "つけてます！無いとまだ少し暑くて。",
+            "timestamp": "2022-09-07T13:01:22.087000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FL",
+            "text": "わかります。もう少し涼しくなってくれればですね。",
+            "timestamp": "2022-09-07T13:01:38.052000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CM",
+            "text": "今年はちゃんと秋が来るといいなと思ってます。",
+            "timestamp": "2022-09-07T13:01:49.563000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FL",
+            "text": "でも涼しくなってきましたし、そろそろじゃないですか？",
+            "timestamp": "2022-09-07T13:02:11.564000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CM",
+            "text": "そうだといいなーと思います！秋が一番好きな季節です。",
+            "timestamp": "2022-09-07T13:02:26.466000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FL",
+            "text": "わかります。わたしも秋が一番好きです。",
+            "timestamp": "2022-09-07T13:02:40.844000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CM",
+            "text": "個人的に一番過ごしやすい季節だなと思います！",
+            "timestamp": "2022-09-07T13:02:54.467000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FL",
+            "text": "春は花粉症が。",
+            "timestamp": "2022-09-07T13:03:05.523000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CM",
+            "text": "そうですそうです、辛いですよね。",
+            "timestamp": "2022-09-07T13:03:15.892000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FL",
+            "text": "あなたも花粉症ですか？",
+            "timestamp": "2022-09-07T13:03:35.796000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CM",
+            "text": "はい、自宅のすぐ近くにスギ林があって。",
+            "timestamp": "2022-09-07T13:03:48.784000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FL",
+            "text": "すぎはやばいです。",
+            "timestamp": "2022-09-07T13:04:05.171000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CM",
+            "text": "本当につらいです。家族は外で洗濯物を干したがるので余計に。",
+            "timestamp": "2022-09-07T13:04:23.407000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FL",
+            "text": "洗濯物入れるときとかやばそうです。",
+            "timestamp": "2022-09-07T13:04:39.443000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CM",
+            "text": "あらかじめ外ではらってくれると嬉しいのですが。",
+            "timestamp": "2022-09-07T13:04:51.707000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FL",
+            "text": "確かに。家の中でも安全じゃないのはきついですね。",
+            "timestamp": "2022-09-07T13:05:16.686000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CM",
+            "text": "換気も出来ないのでかなり辛いです。",
+            "timestamp": "2022-09-07T13:05:30.563000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FL",
+            "text": "喚起してもそとは。ですもんね。",
+            "timestamp": "2022-09-07T13:05:46.667000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CM",
+            "text": "秋は秋で虫がたくさんなので、そこも悩みどころですが花粉ほど苦しくないです！",
+            "timestamp": "2022-09-07T13:06:08.706000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FL",
+            "text": "確かに。秋は虫が多いイメージです。虫嫌いですか？",
+            "timestamp": "2022-09-07T13:06:35.188000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CM",
+            "text": "虫駄目なんです。秋はトンボが多くて困ります。",
+            "timestamp": "2022-09-07T13:06:48.694000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FL",
+            "text": "トンボはまだましじゃないですか？",
+            "timestamp": "2022-09-07T13:06:58.708000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CM",
+            "text": "とにかく羽音が凄くて、洗濯物に紛れ込んでくるので眠りを妨げられてしまって。",
+            "timestamp": "2022-09-07T13:07:20.762000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FL",
+            "text": "確かに。羽音やばそうです。",
+            "timestamp": "2022-09-07T13:07:43.183000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1104,
+    "interlocutors": [
+        "CQ",
+        "BU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-12T15:08:15.296000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BU",
+            "text": "お願いします。",
+            "timestamp": "2022-08-12T15:08:16.590000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "お好きな人のタイプは何ですか？",
+            "timestamp": "2022-08-12T15:09:02.025000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BU",
+            "text": "気を遣わなくいい人です。",
+            "timestamp": "2022-08-12T15:11:01.576000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "自身が自然体でいられるような感じでしょうか？",
+            "timestamp": "2022-08-12T15:11:31.907000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BU",
+            "text": "そうですね。それもありますが、人と居ると気を遣いたくなくても、自然と気を遣ってしまうので。",
+            "timestamp": "2022-08-12T15:12:30.650000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、ありのままで気が合うと良いですね",
+            "timestamp": "2022-08-12T15:13:10.449000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BU",
+            "text": "そうですね。気を遣うのが大嫌いなので。",
+            "timestamp": "2022-08-12T15:13:49.998000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、今までお付き合いされたことはありますか？",
+            "timestamp": "2022-08-12T15:14:10.085000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BU",
+            "text": "ありますよ。５人ぐらい。",
+            "timestamp": "2022-08-12T15:14:20.229000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "自分から見ると多いのですが、普通なのでしょうか？",
+            "timestamp": "2022-08-12T15:14:41.406000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BU",
+            "text": "どうなんでしょう。あまり多くても良いことないですよ。",
+            "timestamp": "2022-08-12T15:15:52.627000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "初めてのお付き合いは、どのくらいの時期でしたか？",
+            "timestamp": "2022-08-12T15:15:52.853000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BU",
+            "text": "初めて付き合ったのは、中学生ですかね？",
+            "timestamp": "2022-08-12T15:16:19.507000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、周りの方も同じような感じなのでしょうか？",
+            "timestamp": "2022-08-12T15:16:47.051000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BU",
+            "text": "どうなんでしょう。高校生からの人もいてるとおもいますよ。",
+            "timestamp": "2022-08-12T15:17:29.046000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "付き合って嬉しかった思い出はありますか？",
+            "timestamp": "2022-08-12T15:17:50.644000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BU",
+            "text": "手紙をもらうのが好きなので、手紙をもらってことです。",
+            "timestamp": "2022-08-12T15:18:28.715000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "最近の子は、手紙を渡さずLineでやり取りすると聞くのでロマンティックで良いですね",
+            "timestamp": "2022-08-12T15:19:12.259000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BU",
+            "text": "そうですね。LINEはうちが高校生のときにやり始めました。",
+            "timestamp": "2022-08-12T15:20:17.061000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "休日におでかけは、されましたか？",
+            "timestamp": "2022-08-12T15:21:11.883000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BU",
+            "text": "当時はずっと休日は部活してたので、ぜんぜんできませんでしたね。",
+            "timestamp": "2022-08-12T15:21:45.933000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "自分が高校生の時は、映画とかディズニー行ってるようでした。",
+            "timestamp": "2022-08-12T15:22:56.676000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BU",
+            "text": "最近の子はみんなディズニー行きたがりますね。",
+            "timestamp": "2022-08-12T15:23:49.408000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "楽しめる場所なので、行きたくなりますよね",
+            "timestamp": "2022-08-12T15:24:16.649000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BU",
+            "text": "行ったことありますか？",
+            "timestamp": "2022-08-12T15:24:27.949000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "ディズニーランド、ディズニーシーどちらも一度だけ行ったことあります。",
+            "timestamp": "2022-08-12T15:25:29.614000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BU",
+            "text": "いいですね。楽しかったですか？",
+            "timestamp": "2022-08-12T15:25:57.828000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、女の子のようにははしゃげませんが、アトラクションはスリル満点でした。",
+            "timestamp": "2022-08-12T15:26:31.292000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BU",
+            "text": "アトラクション楽しいですよね。ありがとうございました。",
+            "timestamp": "2022-08-12T15:27:16.138000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12139,
+    "interlocutors": [
+        "BM",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T21:06:11.821000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T21:06:09.940000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "朝ごはんは、パン派ですか？ご飯派ですか？",
+            "timestamp": "2022-09-03T21:06:23.079000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "ご飯派です！たまに休日はパンですね",
+            "timestamp": "2022-09-03T21:06:41.108000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "朝は和食ですか？",
+            "timestamp": "2022-09-03T21:07:01.472000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "和食というほどではないですが、さっとお茶漬けを食べることが多いです",
+            "timestamp": "2022-09-03T21:07:22.440000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "なるほど。お茶漬けは手軽ですよね。私は基本朝はパン派です。",
+            "timestamp": "2022-09-03T21:07:48.339000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "パンにはジャムとかのせてますか？",
+            "timestamp": "2022-09-03T21:08:09.096000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "バターをつけてます！",
+            "timestamp": "2022-09-03T21:08:17.866000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "トーストにバターは最強の組み合わせですよね",
+            "timestamp": "2022-09-03T21:08:46.655000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "そうなんです。それとスープを一緒に食べるとさらに最高です。",
+            "timestamp": "2022-09-03T21:09:13.024000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "合う組み合わせですね！スープは何かお気に入りのものはありますか？",
+            "timestamp": "2022-09-03T21:09:38.318000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "朝はインスタントのコーンスープが多いですが、たまに無印のインスタントの何かで贅沢してます。",
+            "timestamp": "2022-09-03T21:10:26.260000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "無印のスープちょっと高いですが美味しいですよね",
+            "timestamp": "2022-09-03T21:10:52.579000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "美味しいです。たまにご褒美くらいの感覚でのんでますね。",
+            "timestamp": "2022-09-03T21:11:07.110000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "無印だとカレーも好きです",
+            "timestamp": "2022-09-03T21:11:28.731000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "無印のカレーは食べたことないですね。スーパーで売ってるのと味は結構変わります？",
+            "timestamp": "2022-09-03T21:11:57.017000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "そうですね、ちょっと高級感があります。あと種類が豊富ですね",
+            "timestamp": "2022-09-03T21:12:15.584000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "そんなに種類あるのですか！いつもスープコーナーで満足してました。",
+            "timestamp": "2022-09-03T21:12:40.180000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "多いですね。数えたことはないんですが30種類くらいある気がします",
+            "timestamp": "2022-09-03T21:13:01.800000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "気になってきました。今まで食べたので美味しかったのはなんですか？",
+            "timestamp": "2022-09-03T21:13:19.302000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "バターチキンは美味しかったです！",
+            "timestamp": "2022-09-03T21:13:37.701000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "バターチキンはインド系のカレー屋さんで食べたことありますが、インスタントで食べれるんですか！！",
+            "timestamp": "2022-09-03T21:14:02.548000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "はい、結構本格的で美味しかったです。最近は冷やして食べるカレーなんかも出てましたよ",
+            "timestamp": "2022-09-03T21:15:33.404000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "そんなのもあるのですか！これは無印のカレーコーナー見に行かないとですね。",
+            "timestamp": "2022-09-03T21:16:35.669000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "今度無印に行ったときにぜひ行ってみてください！",
+            "timestamp": "2022-09-03T21:16:52.735000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "行ってみます！他に無印の食べ物系で買ったことあるものあります？",
+            "timestamp": "2022-09-03T21:17:18.891000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "お菓子はたまに買いますね。バームクーヘンが好きです",
+            "timestamp": "2022-09-03T21:17:40.804000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "バームクーヘンはたまに買いますね。きな粉味が好きでした。",
+            "timestamp": "2022-09-03T21:18:04.034000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "美味しいですよね！",
+            "timestamp": "2022-09-03T21:18:11.046000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8695,
+    "interlocutors": [
+        "CQ",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-06T16:52:10.603000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "こんにちは",
+            "timestamp": "2022-08-06T16:52:14.540000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "趣味は何ですか？",
+            "timestamp": "2022-08-06T16:52:44.847000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "甘いものを食べることが好きなので作ったりもします。",
+            "timestamp": "2022-08-06T16:53:40.439000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "料理ですか、どんなもの作られるんですか？",
+            "timestamp": "2022-08-06T16:54:04.830000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "昨日はスコーンを作りました。",
+            "timestamp": "2022-08-06T16:54:19.914000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "あの、お菓子のですか？",
+            "timestamp": "2022-08-06T16:54:48.646000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "そうです。チョコレートを入れて作りました。",
+            "timestamp": "2022-08-06T16:55:35.599000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "美味しそうですね、他に作ったものを紹介してもらえますか？",
+            "timestamp": "2022-08-06T16:55:46.426000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "ロールケーキとかチーズケーキとか作ります。",
+            "timestamp": "2022-08-06T16:56:08.804000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "それは、凄いですね",
+            "timestamp": "2022-08-06T16:56:35.122000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "あなたの趣味はなんですか？",
+            "timestamp": "2022-08-06T16:56:48.040000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "ゲームとアニメです",
+            "timestamp": "2022-08-06T16:57:05.801000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "どんなものが好きなんですか？",
+            "timestamp": "2022-08-06T16:57:17.438000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "色んなジャンルがありますが、選り好みしないですね",
+            "timestamp": "2022-08-06T16:57:44.051000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "好きなものがたくさんあると楽しいですよね。",
+            "timestamp": "2022-08-06T16:58:00.413000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "ですよね、ゲームだとモンハンをやってます",
+            "timestamp": "2022-08-06T16:58:16.191000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "流行ってますよね。どんなところがおもしろいですか？",
+            "timestamp": "2022-08-06T16:58:37.009000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "自分が倒したモンスターの素材で武具を強化し、さらに強いモンスターに挑み続けることが出来るところですね、中々勝てないので何度も挑戦します",
+            "timestamp": "2022-08-06T16:59:40.086000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "奥が深いですね。",
+            "timestamp": "2022-08-06T17:00:09.852000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "深いです。アニメはお好きですか？",
+            "timestamp": "2022-08-06T17:00:23.771000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "ジブリとかは好きですね。どんなものがお好きですか？",
+            "timestamp": "2022-08-06T17:00:57.391000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "深夜枠23時～2時ごろにやっているようなものを見ますね",
+            "timestamp": "2022-08-06T17:01:35.767000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "同僚にも好きだって言っている人がいます。休みの日にまとめてみるって言ってました。",
+            "timestamp": "2022-08-06T17:02:31.492000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "はい、それは良いですね、何かおすすめされたことはありませんか？",
+            "timestamp": "2022-08-06T17:03:00.711000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "色々お勧めしてくれるんですけどなかなか見れてなくて。",
+            "timestamp": "2022-08-06T17:03:26.422000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "お忙しいですよね、最近で人気なものは、スパイファミリーという作品がありますよ。",
+            "timestamp": "2022-08-06T17:04:08.573000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "今かなり話題になってますね。ちょっと興味あります。",
+            "timestamp": "2022-08-06T17:04:25.874000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "お互いの素性を隠した3人が偽装家族となりながらも触れ合いを深めるハートフルな作品です",
+            "timestamp": "2022-08-06T17:05:37.512000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "面白そうですね。絵もかわいいので見てみたいです。",
+            "timestamp": "2022-08-06T17:05:58.902000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

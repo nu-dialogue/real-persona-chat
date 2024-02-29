@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10161,
+    "interlocutors": [
+        "CK",
+        "BR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CK",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:35:43.087000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-11T15:35:49.774000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CK",
+            "text": "今日のそちらの天気はいかがですか？",
+            "timestamp": "2022-08-11T15:36:00.644000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BR",
+            "text": "今日も晴れていて朝から暑いです。もしかしたら夕立が来そうな気配です。",
+            "timestamp": "2022-08-11T15:36:23.040000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CK",
+            "text": "何だか台風が近づいているそうです、こちらは",
+            "timestamp": "2022-08-11T15:36:40.884000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BR",
+            "text": "そうみたいですね。風もいつもより強い気がします。",
+            "timestamp": "2022-08-11T15:36:54.456000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CK",
+            "text": "風が強くなってきましたね。",
+            "timestamp": "2022-08-11T15:37:05.958000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BR",
+            "text": "ですね。まだまだ熱風ですが。もっと涼しい風が吹いてほしいです。",
+            "timestamp": "2022-08-11T15:37:23.342000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CK",
+            "text": "今日はどこかへお出かけされましたか？",
+            "timestamp": "2022-08-11T15:37:36.224000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BR",
+            "text": "今日は休みなのでどこへも行けてません。外に出たくないですね！",
+            "timestamp": "2022-08-11T15:37:52.311000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CK",
+            "text": "休みなので？",
+            "timestamp": "2022-08-11T15:38:02.189000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BR",
+            "text": "仕事があれば外出しますが、という意味です。",
+            "timestamp": "2022-08-11T15:38:20.091000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CK",
+            "text": "そうなんですね。休日はゆっくり自宅でって感じですか？",
+            "timestamp": "2022-08-11T15:38:36.919000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BR",
+            "text": "そうですね。用事がないとあまり出歩かないですね。",
+            "timestamp": "2022-08-11T15:38:52.038000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CK",
+            "text": "インドア派ですかね",
+            "timestamp": "2022-08-11T15:39:03.654000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BR",
+            "text": "そうかもしれません。でもコロナ前は海外によく行っていましたので、どちらかわかりません。",
+            "timestamp": "2022-08-11T15:39:23.526000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CK",
+            "text": "いいですね！どちらの国が一番良かったですか？",
+            "timestamp": "2022-08-11T15:39:39.351000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BR",
+            "text": "何基準かにもよりますが、台湾やジョージア、オーストラリアが好きですね！",
+            "timestamp": "2022-08-11T15:40:06.863000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CK",
+            "text": "ジョージアってどの辺りの国なんでしょう？",
+            "timestamp": "2022-08-11T15:40:20.908000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BR",
+            "text": "ジョージアは今話題のウクライナとかの近くですね。黒海に面しています。東欧ですね。",
+            "timestamp": "2022-08-11T15:40:45.975000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CK",
+            "text": "へー。ヨーロッパっぽい雰囲気ですか？",
+            "timestamp": "2022-08-11T15:41:04.459000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BR",
+            "text": "雰囲気はヨーロッパですね。でも食べ物には餃子みたいなものもありました。",
+            "timestamp": "2022-08-11T15:41:21.837000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CK",
+            "text": "アジアの影響も受けた食文化なんですかね",
+            "timestamp": "2022-08-11T15:41:35.629000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BR",
+            "text": "たぶんヨーロッパとアジアの中間地点なので、うまく文化が融合した感じですね。ワイン発祥の地でもあります",
+            "timestamp": "2022-08-11T15:42:00.589000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CK",
+            "text": "オランダの人がアジアンをよく食べるって言ってましたが、そんな感じでしょうか",
+            "timestamp": "2022-08-11T15:43:32.526000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BR",
+            "text": "どうでしょう？オランダの食文化がわかりませんが、アジアンを食べるよりも、食がアジアって感じかな",
+            "timestamp": "2022-08-11T15:43:32.564000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CK",
+            "text": "それにワインを合わせるんですね！",
+            "timestamp": "2022-08-11T15:43:33.362000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BR",
+            "text": "そうですね！ワインはとてもフルーティで飲みやすかったです。",
+            "timestamp": "2022-08-11T15:43:33.143000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CK",
+            "text": "行ってみたいです。後で調べてみます。",
+            "timestamp": "2022-08-11T15:43:57.250000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BR",
+            "text": "ぜひ！またお話しましょう！",
+            "timestamp": "2022-08-11T15:44:06.008000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

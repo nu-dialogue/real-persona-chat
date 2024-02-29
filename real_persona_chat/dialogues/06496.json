@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6496,
+    "interlocutors": [
+        "FA",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T12:00:33.214000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T12:00:41.093000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "昼食は何を食べる予定ですか？",
+            "timestamp": "2022-10-06T12:01:18.730000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "お昼ご飯は冷蔵庫にあるものでなんとかしようかなと。",
+            "timestamp": "2022-10-06T12:01:36.282000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "いいですね。",
+            "timestamp": "2022-10-06T12:01:43.839000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "ただ材料がバラバラでアイデアが浮かばないです。",
+            "timestamp": "2022-10-06T12:02:00.856000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "あー。",
+            "timestamp": "2022-10-06T12:02:10.259000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "とりあえず全部適当に混ぜて炒めようかなと。",
+            "timestamp": "2022-10-06T12:02:24.463000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "はい。",
+            "timestamp": "2022-10-06T12:02:36.699000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "とりあえず塩胡椒しとけば。",
+            "timestamp": "2022-10-06T12:02:47.695000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "ですね。",
+            "timestamp": "2022-10-06T12:03:09.087000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "お腹すきました。",
+            "timestamp": "2022-10-06T12:03:27.127000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "はい。",
+            "timestamp": "2022-10-06T12:03:39.216000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "とりあえず飲み物でお腹満たしてます。",
+            "timestamp": "2022-10-06T12:04:08.383000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "そうなりますね。",
+            "timestamp": "2022-10-06T12:04:20.193000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "よく飲まれる飲み物とかありますか？",
+            "timestamp": "2022-10-06T12:04:34.962000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "ないですね。",
+            "timestamp": "2022-10-06T12:04:46.237000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "そうなんですか。",
+            "timestamp": "2022-10-06T12:04:54.106000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "はい。",
+            "timestamp": "2022-10-06T12:05:04.296000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "お茶とか飲まないんですか？",
+            "timestamp": "2022-10-06T12:05:14.495000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "あんまり。",
+            "timestamp": "2022-10-06T12:05:20.145000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "お水も？",
+            "timestamp": "2022-10-06T12:05:25.298000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "それはないでしょう。",
+            "timestamp": "2022-10-06T12:05:41.569000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "確かに。",
+            "timestamp": "2022-10-06T12:05:45.665000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "好きな飲み物あります？",
+            "timestamp": "2022-10-06T12:06:00.968000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "よくポンジュース飲んでます。",
+            "timestamp": "2022-10-06T12:06:14.570000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "美味しそうですね。",
+            "timestamp": "2022-10-06T12:06:25.347000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "高いんですけどそのぶん美味しいです。",
+            "timestamp": "2022-10-06T12:06:35.723000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "そうですか。",
+            "timestamp": "2022-10-06T12:06:43.629000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "はい。",
+            "timestamp": "2022-10-06T12:06:47.748000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 1,
+            "proactiveness": 2,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

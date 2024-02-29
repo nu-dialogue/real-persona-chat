@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2093,
+    "interlocutors": [
+        "BL",
+        "EE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-18T15:09:38.870000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-18T15:09:54.866000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "好きな食べ物は何ですか？",
+            "timestamp": "2022-08-18T15:10:17.066000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EE",
+            "text": "最近はチーズケーキにはまっています",
+            "timestamp": "2022-08-18T15:10:45.954000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "チーズケーキ、今我が家にあります",
+            "timestamp": "2022-08-18T15:11:05.449000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EE",
+            "text": "うらやましいです！！！食べたい！！！",
+            "timestamp": "2022-08-18T15:11:24.864000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "美味しいですよね、他に好きなものはありますか？",
+            "timestamp": "2022-08-18T15:11:42.950000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EE",
+            "text": "焼肉とか好きです",
+            "timestamp": "2022-08-18T15:12:15.562000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "お店で食べますか？家で焼いて食べますか？",
+            "timestamp": "2022-08-18T15:12:41.662000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EE",
+            "text": "コロナが流行ってからはお店にあまり行かなくなりましたね",
+            "timestamp": "2022-08-18T15:13:08.564000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "私もです、行きづらいですね。",
+            "timestamp": "2022-08-18T15:13:26.658000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EE",
+            "text": "やはりそうですよね。最近はおうちごはんかお持ち帰りです",
+            "timestamp": "2022-08-18T15:13:52.604000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "自炊はよくされますか？",
+            "timestamp": "2022-08-18T15:14:32.977000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EE",
+            "text": "実家住みなので親に作ってもらうことが多いです。",
+            "timestamp": "2022-08-18T15:14:51.209000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "なるほど、それはありがたいですね。",
+            "timestamp": "2022-08-18T15:15:45.551000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EE",
+            "text": "でも来年から一人暮らしが始まるので今から怖いです",
+            "timestamp": "2022-08-18T15:16:07.109000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね、料理は好きなのですか？",
+            "timestamp": "2022-08-18T15:16:39.100000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EE",
+            "text": "料理自体は好きですが、お片付けが苦手です。",
+            "timestamp": "2022-08-18T15:17:04.925000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "片付けは面倒ですね。よく溜めてしまいます",
+            "timestamp": "2022-08-18T15:17:26.914000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EE",
+            "text": "シンクにお皿が溜まりますよね、、",
+            "timestamp": "2022-08-18T15:17:54.523000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "そうなんです、溜めてから洗うと大変なのはわかっているのですが。",
+            "timestamp": "2022-08-18T15:18:29.666000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EE",
+            "text": "時間が経つと汚れも落ちにくいですよね",
+            "timestamp": "2022-08-18T15:19:26.917000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "漬けておくと落ちやすいですが、菌が発生しやすいとも聞きます。",
+            "timestamp": "2022-08-18T15:20:08.912000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EE",
+            "text": "最近は付け置きスプレーなどというものが発売されているので上手く活用したいです",
+            "timestamp": "2022-08-18T15:20:45.940000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "それは便利そうですね！",
+            "timestamp": "2022-08-18T15:21:22.695000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EE",
+            "text": "スーパーでバイトしているのですが便利グッズが色々あって面白いです",
+            "timestamp": "2022-08-18T15:21:56.241000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "スーパーで働いていると新商品を知ることができるのでいいですね！",
+            "timestamp": "2022-08-18T15:22:31.230000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EE",
+            "text": "目から鱗の商品が沢山あって世の中進歩しているなって思います。",
+            "timestamp": "2022-08-18T15:23:12.761000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "今度いろいろ教えてくださいね！",
+            "timestamp": "2022-08-18T15:23:29.516000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EE",
+            "text": "わかりました！",
+            "timestamp": "2022-08-18T15:23:54.388000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EE",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

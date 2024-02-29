@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8016,
+    "interlocutors": [
+        "BA",
+        "CK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BA",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-04T20:00:17.701000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CK",
+            "text": "こんばんは",
+            "timestamp": "2022-08-04T20:00:32.565000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BA",
+            "text": "お元気ですか？",
+            "timestamp": "2022-08-04T20:00:39.618000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CK",
+            "text": "元気です？あなたは？",
+            "timestamp": "2022-08-04T20:00:46.169000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BA",
+            "text": "私も元気です！夜ご飯は食べましたか？",
+            "timestamp": "2022-08-04T20:01:09.295000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CK",
+            "text": "食べました。ナスと肉です",
+            "timestamp": "2022-08-04T20:01:14.748000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BA",
+            "text": "茄子と肉！シンプルですね！",
+            "timestamp": "2022-08-04T20:01:25.316000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CK",
+            "text": "豆腐とトマトも",
+            "timestamp": "2022-08-04T20:01:32.539000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BA",
+            "text": "シンプルですね！",
+            "timestamp": "2022-08-04T20:01:40.958000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CK",
+            "text": "夏はそんな感じです",
+            "timestamp": "2022-08-04T20:01:50.549000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BA",
+            "text": "毎日暑いですもんね！",
+            "timestamp": "2022-08-04T20:02:00.973000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CK",
+            "text": "何を食べましたか？",
+            "timestamp": "2022-08-04T20:02:08.616000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BA",
+            "text": "私はステーキを焼きました、あとサラダです。",
+            "timestamp": "2022-08-04T20:02:23.186000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CK",
+            "text": "豪華です！",
+            "timestamp": "2022-08-04T20:02:28.661000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BA",
+            "text": "そうですかね！？",
+            "timestamp": "2022-08-04T20:02:45.762000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CK",
+            "text": "ステーキですもの。",
+            "timestamp": "2022-08-04T20:02:52.579000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BA",
+            "text": "そうですね。安く買えたので",
+            "timestamp": "2022-08-04T20:03:03.173000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CK",
+            "text": "私は明日焼肉の予定です",
+            "timestamp": "2022-08-04T20:03:15.093000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BA",
+            "text": "いいですね！外食ですか？",
+            "timestamp": "2022-08-04T20:03:26.381000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CK",
+            "text": "そうですね。赤牛ってところかな。",
+            "timestamp": "2022-08-04T20:03:36.521000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BA",
+            "text": "赤牛？初めて聞きました",
+            "timestamp": "2022-08-04T20:03:44.766000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CK",
+            "text": "関東です",
+            "timestamp": "2022-08-04T20:03:51.461000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BA",
+            "text": "何県ですか？",
+            "timestamp": "2022-08-04T20:03:58.486000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CK",
+            "text": "茨城です",
+            "timestamp": "2022-08-04T20:04:03.925000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BA",
+            "text": "私は東京なので東京にはなさそうです",
+            "timestamp": "2022-08-04T20:04:17.691000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CK",
+            "text": "東京ならどこに行きますか？",
+            "timestamp": "2022-08-04T20:04:28.329000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BA",
+            "text": "どこだろう最近外食してなくて",
+            "timestamp": "2022-08-04T20:04:37.362000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CK",
+            "text": "偉いですね",
+            "timestamp": "2022-08-04T20:04:44.570000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BA",
+            "text": "子供がいて外で食べるのも大変で",
+            "timestamp": "2022-08-04T20:05:04.595000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CK",
+            "text": "そうですか。コロナもありますしね",
+            "timestamp": "2022-08-04T20:05:16.444000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

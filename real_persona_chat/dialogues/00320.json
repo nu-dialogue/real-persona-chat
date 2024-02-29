@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 320,
+    "interlocutors": [
+        "AG",
+        "AK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AG",
+            "text": "こんにちは！お邪魔します。",
+            "timestamp": "2022-08-10T16:41:19.603000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AK",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-10T16:41:28.445000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AG",
+            "text": "早速ですが、あなたは今、ハマっている食べ物って何かありますか？",
+            "timestamp": "2022-08-10T16:41:56.069000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AK",
+            "text": "最近だとウナギですね！土用の丑の日でたくさん食べました。",
+            "timestamp": "2022-08-10T16:42:15.032000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AG",
+            "text": "おお！ウナギ！美味しいですよねー。外に食べに行かれたんですか？",
+            "timestamp": "2022-08-10T16:42:37.792000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AK",
+            "text": "スーパーで買って、色んな調理法を試して食べましたよー！",
+            "timestamp": "2022-08-10T16:42:58.119000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AG",
+            "text": "それは気になります！どんな調理法か、お聞きしたいです。",
+            "timestamp": "2022-08-10T16:43:21.921000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AK",
+            "text": "まずはウナギについているタレを洗い流すところからスタートです！",
+            "timestamp": "2022-08-10T16:43:43.630000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AG",
+            "text": "あれ？洗い流しちゃうんですか？",
+            "timestamp": "2022-08-10T16:43:58.747000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AK",
+            "text": "もったいないんですが、保存料とかもついているらしくって、水で洗うといいそうですよ！",
+            "timestamp": "2022-08-10T16:44:20.946000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AG",
+            "text": "おお！なるほど！そんなコツがあったとは！",
+            "timestamp": "2022-08-10T16:44:36.928000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AK",
+            "text": "あとはフライパンかグリルで焼くだけなんです！",
+            "timestamp": "2022-08-10T16:44:56.617000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AG",
+            "text": "そうなんですか？意外と簡単でした。",
+            "timestamp": "2022-08-10T16:45:11.660000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AK",
+            "text": "めっちゃ簡単です。付属のタレか、市販のタレを塗りながら焼いてもＯＫです！",
+            "timestamp": "2022-08-10T16:45:40.810000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AG",
+            "text": "なんだか、いつもより香ばしくなりそうですね。美味しそうです！",
+            "timestamp": "2022-08-10T16:46:05.119000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AK",
+            "text": "実際美味しかったです。普通にお店で食べるような、フワフワとした食感で香ばしい香りがつきました！",
+            "timestamp": "2022-08-10T16:46:32.409000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AG",
+            "text": "おお！フワフワになるんですね。水洗いしたから蒸し焼きみたいな感じなんでしょうかね。",
+            "timestamp": "2022-08-10T16:46:57.523000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AK",
+            "text": "水洗いして一応拭き取るんですが、水分が残っているからきっとフワフワになるのかもしれません。",
+            "timestamp": "2022-08-10T16:47:41.060000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AG",
+            "text": "良いですねー。今度作る時は、私もその方法で作ってみます！良い情報ありがとうございます！",
+            "timestamp": "2022-08-10T16:48:14.110000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AK",
+            "text": "ぜひぜひ！あなたは何が好きですかー？",
+            "timestamp": "2022-08-10T16:48:28.152000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AG",
+            "text": "私は、最近レンチンカレーにハマっています。",
+            "timestamp": "2022-08-10T16:48:50.395000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AK",
+            "text": "レトルトですか？",
+            "timestamp": "2022-08-10T16:49:01.719000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AG",
+            "text": "いえ、スパイスや材料を器に全部入れて、チンすると作れるカレーなんです。",
+            "timestamp": "2022-08-10T16:49:28.106000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AK",
+            "text": "ええ！本格的のようで簡単なんですね！",
+            "timestamp": "2022-08-10T16:49:44.204000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AG",
+            "text": "はい。私も最初聞いた時は本当にそれでできるの？って思っていましたが、美味しさにびっくりです。",
+            "timestamp": "2022-08-10T16:50:11.306000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AK",
+            "text": "そうなんですね！ネットに作り方のってます？気になります！",
+            "timestamp": "2022-08-10T16:50:28.810000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AG",
+            "text": "基本のものならあるかもしれません。トマト缶とフライドオニオンとスパイスが主な材料です。",
+            "timestamp": "2022-08-10T16:51:01.620000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AK",
+            "text": "そうなんですね。手軽でいいですね！レンチン時間も短いんでしょうか？",
+            "timestamp": "2022-08-10T16:51:29.455000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AG",
+            "text": "具材によりますが、そんなに火を通さなくていいものなら３分程度ですよ。機会があったら試してみてくださいね！",
+            "timestamp": "2022-08-10T16:52:08.680000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AK",
+            "text": "いいですね！教えていただきありがとうございます！試してみますね！",
+            "timestamp": "2022-08-10T16:52:27.919000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AK",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

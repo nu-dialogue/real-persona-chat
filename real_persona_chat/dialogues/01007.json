@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1007,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-11T17:20:47.702000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T17:23:08.938000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-11T17:23:17.059000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "今日は何を食べましたか？",
+            "timestamp": "2022-08-11T17:23:31.073000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "野菜スープ飲みました",
+            "timestamp": "2022-08-11T17:23:44.151000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "野菜スープだけですか？",
+            "timestamp": "2022-08-11T17:23:53.322000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "そうですね、食欲がなくて",
+            "timestamp": "2022-08-11T17:24:05.293000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "あら、夏バテですかね？",
+            "timestamp": "2022-08-11T17:24:16.708000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "夏バテですね…あなたは何を食べましたか？",
+            "timestamp": "2022-08-11T17:24:38.468000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "私はとんかつを食べました！",
+            "timestamp": "2022-08-11T17:25:00.447000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "がっつりですね！",
+            "timestamp": "2022-08-11T17:25:12.222000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "はい、がっつり食べちゃってます",
+            "timestamp": "2022-08-11T17:25:27.637000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "ご自分で作ったんですか？",
+            "timestamp": "2022-08-11T17:25:57.285000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "いえ、おそうざいです。揚げたてのほうがおいしいけどめんどくさいんですよね",
+            "timestamp": "2022-08-11T17:26:22.966000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "油物はめんどくさいですよね",
+            "timestamp": "2022-08-11T17:26:35.058000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "片付けが大変ですよね",
+            "timestamp": "2022-08-11T17:26:49.047000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "私も揚げ物好きなんですが、なかなか作れないです",
+            "timestamp": "2022-08-11T17:27:10.055000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "揚げ物だと何が好きですか？",
+            "timestamp": "2022-08-11T17:27:21.723000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "天ぷらとかフライドポテトとかですかね",
+            "timestamp": "2022-08-11T17:27:41.610000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "おいしいですよね！",
+            "timestamp": "2022-08-11T17:27:50.511000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "あなたはとんかつが一番好きですか？",
+            "timestamp": "2022-08-11T17:28:03.844000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "アジフライが一番好きですよ",
+            "timestamp": "2022-08-11T17:28:22.681000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "アジフライ！最近食べてないなぁ、、、",
+            "timestamp": "2022-08-11T17:28:36.760000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "アジフライはサクサクじゃないと嫌なので、お店で食べるようにしてます",
+            "timestamp": "2022-08-11T17:29:12.125000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "こだわりがあるんですね",
+            "timestamp": "2022-08-11T17:29:26.305000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "お惣菜の揚げ物ってべちゃべちゃするのが難点ですよね",
+            "timestamp": "2022-08-11T17:29:44.056000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "カラッと温めなおせればいいんですけどね",
+            "timestamp": "2022-08-11T17:30:07.014000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "そうですね。それではそろそろ失礼しますね",
+            "timestamp": "2022-08-11T17:30:39.159000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい、ありがとうございました",
+            "timestamp": "2022-08-11T17:30:45.041000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-11T17:30:55.184000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

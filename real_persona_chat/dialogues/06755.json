@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6755,
+    "interlocutors": [
+        "HT",
+        "DB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HT",
+            "text": "こんばんわ",
+            "timestamp": "2022-10-09T21:40:13.599000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-09T21:40:16.857000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HT",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-10-09T21:40:25.158000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DB",
+            "text": "一人でお出かけするのが好きですね。",
+            "timestamp": "2022-10-09T21:40:35.829000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HT",
+            "text": "おー！例えばどんなところへ行くんですか？",
+            "timestamp": "2022-10-09T21:40:55.472000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DB",
+            "text": "甘い物が好きなので、カフェとかケーキ屋さんに行ったりが多いです。",
+            "timestamp": "2022-10-09T21:41:15.226000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HT",
+            "text": "いいですねー！カフェ巡り！ケーキは何が好きですか？",
+            "timestamp": "2022-10-09T21:41:40.539000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DB",
+            "text": "本当に全部好きなんですけど、マイブームはチーズケーキです。",
+            "timestamp": "2022-10-09T21:42:02.420000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HT",
+            "text": "チーズケーキ私も好きです！ベイクド派ですか？レア派ですか？",
+            "timestamp": "2022-10-09T21:42:23.122000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DB",
+            "text": "どっちも好きで選べないですね！ベイクドが多いですが。",
+            "timestamp": "2022-10-09T21:42:59.584000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HT",
+            "text": "私もです！ベイクド美味しいですよね！行きつけのカフェとかもできました？",
+            "timestamp": "2022-10-09T21:43:35.682000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DB",
+            "text": "結構あります！本屋さんの近くにあって漫画買った帰りによってちょっと読書したりとかもしてます。",
+            "timestamp": "2022-10-09T21:44:09.589000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HT",
+            "text": "最高ですね！私行きつけのカフェを見つけたいんですがなかなかヒットしなくて。。",
+            "timestamp": "2022-10-09T21:44:48.483000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DB",
+            "text": "美味しいものがあっても人が多すぎたりするし居心地いい場所って見つけるの大変ですよね。",
+            "timestamp": "2022-10-09T21:45:25.822000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HT",
+            "text": "そうなんですよー。。私もゆっくり本を読みながら美味しいお茶とケーキをいただきたいです",
+            "timestamp": "2022-10-09T21:45:52.497000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DB",
+            "text": "紅茶とか中国茶も好きでお茶屋さんにも行ったりしますね。",
+            "timestamp": "2022-10-09T21:46:24.570000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HT",
+            "text": "中国茶もお好きですか？私も好きです！",
+            "timestamp": "2022-10-09T21:46:42.609000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DB",
+            "text": "はい！伝統的な方法で飲めるお店があってたまに行ってます。",
+            "timestamp": "2022-10-09T21:47:09.430000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HT",
+            "text": "いいないいなー！私自分で茶器買おうかなと悩むくらい良いお店がなく。。",
+            "timestamp": "2022-10-09T21:47:40.870000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DB",
+            "text": "自分でも茶器とかティーセット揃えたいなと思ってます！",
+            "timestamp": "2022-10-09T21:47:56.159000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HT",
+            "text": "可愛いですよねー！中国茶も色々な種類があって気分で選べるのも好きです。",
+            "timestamp": "2022-10-09T21:48:29.832000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DB",
+            "text": "中国茶はお店で香りの違いを楽しむ飲み方を教えてもらってからはすごく好きになりました。",
+            "timestamp": "2022-10-09T21:48:55.925000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HT",
+            "text": "すごい！それは本当に本格的ですね！私も沖縄に行ったらいいんですかね？",
+            "timestamp": "2022-10-09T21:49:21.502000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DB",
+            "text": "観光地の中にあるので沖縄来たらぜひ行ってみてほしいです！",
+            "timestamp": "2022-10-09T21:49:50.864000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HT",
+            "text": "ぜひ教えて欲しいです！国際通りとかですか？",
+            "timestamp": "2022-10-09T21:50:16.127000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DB",
+            "text": "そうです！国際通りの路地に入ったところにカフェがすごく多いので楽しいと思います！",
+            "timestamp": "2022-10-09T21:50:38.877000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HT",
+            "text": "へー！ゆっくり散策してみたいです！",
+            "timestamp": "2022-10-09T21:50:53.191000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DB",
+            "text": "表通りはお土産屋が多いですが裏路地はコーヒー屋とか中国茶のお店もあって楽しいですよ。",
+            "timestamp": "2022-10-09T21:51:25.977000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HT",
+            "text": "そうなんですねー！ぜひ行ってみます！",
+            "timestamp": "2022-10-09T21:51:47.792000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DB",
+            "text": "ぜひ！おすすめです。",
+            "timestamp": "2022-10-09T21:51:54.476000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

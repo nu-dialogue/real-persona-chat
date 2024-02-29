@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10650,
+    "interlocutors": [
+        "BW",
+        "EO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BW",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-03T11:15:14.461000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EO",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-03T11:15:29.069000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BW",
+            "text": "最近は寒くなったり暑くなったりですが、体調は崩されてないですか？",
+            "timestamp": "2022-09-03T11:15:52.541000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EO",
+            "text": "今のところ無事ですねー。",
+            "timestamp": "2022-09-03T11:16:07.100000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BW",
+            "text": "私もです、たまに風邪かな？って時がありますが。",
+            "timestamp": "2022-09-03T11:16:44.855000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EO",
+            "text": "最近コロナの他にRSも流行ってるみたいです。",
+            "timestamp": "2022-09-03T11:17:21.321000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BW",
+            "text": "そうなんですね、免疫が低い人は気を付けないとですね。",
+            "timestamp": "2022-09-03T11:17:58.458000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EO",
+            "text": "ですね。何か健康のために気をつけてることありますか？",
+            "timestamp": "2022-09-03T11:18:26.208000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BW",
+            "text": "ビタミンとかのサプリメント飲んでます。",
+            "timestamp": "2022-09-03T11:18:46.358000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EO",
+            "text": "ビタミン、風邪に良いって言いますよね。",
+            "timestamp": "2022-09-03T11:19:21.521000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BW",
+            "text": "はい、ビタミンCだけで治ることありますね。",
+            "timestamp": "2022-09-03T11:19:43.263000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EO",
+            "text": "おお、すごい。流動的やから、取り続けないといけないんですよね。",
+            "timestamp": "2022-09-03T11:20:11.928000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BW",
+            "text": "そうですね、予防にも毎日飲んだ方良さそうです。",
+            "timestamp": "2022-09-03T11:20:40.181000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EO",
+            "text": "ビタミン、飲んでみます。鉄分は意識してるんですけど。",
+            "timestamp": "2022-09-03T11:21:05.333000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BW",
+            "text": "女性は鉄分っていいますものね。私はマグネシウムを意識してます。",
+            "timestamp": "2022-09-03T11:21:40.290000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EO",
+            "text": "マグネシウムは初めて聞きました。",
+            "timestamp": "2022-09-03T11:22:03.158000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BW",
+            "text": "天然塩に入ってる塩化マグネシウムが、日本人は不足してるそうです。",
+            "timestamp": "2022-09-03T11:22:35.060000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EO",
+            "text": "そうなんですか？！",
+            "timestamp": "2022-09-03T11:22:42.627000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BW",
+            "text": "今、エプソムソルト？とか、塩風呂が流行ってますね。",
+            "timestamp": "2022-09-03T11:23:33.302000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EO",
+            "text": "お風呂でもいいんですか？",
+            "timestamp": "2022-09-03T11:24:23.807000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BW",
+            "text": "皮膚からの吸収もいいそうです。",
+            "timestamp": "2022-09-03T11:24:54.830000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EO",
+            "text": "塩分は体によくないと思ってました。",
+            "timestamp": "2022-09-03T11:25:51.022000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BW",
+            "text": "砂糖の方がいろいろ危険みたいですね、塩は精製塩じゃなければ摂った方がよさそうです。",
+            "timestamp": "2022-09-03T11:26:43.425000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EO",
+            "text": "そうなんですねえ！高血圧とか塩分の取りすぎでなるのかと。",
+            "timestamp": "2022-09-03T11:27:16.051000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BW",
+            "text": "砂糖やぶとう果糖なんかでホントはなるみたいです、他にもありますが。",
+            "timestamp": "2022-09-03T11:27:51.268000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EO",
+            "text": "やっぱり甘いもののとりすぎは気をつけないとですね、、",
+            "timestamp": "2022-09-03T11:28:36.733000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BW",
+            "text": "そうですね、あなたは気を付けてることありますか？",
+            "timestamp": "2022-09-03T11:28:54.021000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EO",
+            "text": "鉄分ぐらいでした。あとはなるべく野菜を食べるように。",
+            "timestamp": "2022-09-03T11:29:42.947000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BW",
+            "text": "そうですね、野菜は大事ですからね。",
+            "timestamp": "2022-09-03T11:30:00.694000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EO",
+            "text": "ですよね！お話ありがとうございました！",
+            "timestamp": "2022-09-03T11:30:19.593000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5496,
+    "interlocutors": [
+        "EV",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-25T13:58:16.833000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。お願いします。",
+            "timestamp": "2022-09-25T13:58:26.109000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そちらのお天気はどうですか？",
+            "timestamp": "2022-09-25T13:58:31.596000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "こちらは、雲一つない快晴です。",
+            "timestamp": "2022-09-25T13:58:44.337000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "こちらも久々に晴れていますよ。",
+            "timestamp": "2022-09-25T13:58:56.028000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "洗濯物がたまっていたので、たくさんしました！",
+            "timestamp": "2022-09-25T13:59:09.923000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。部屋干しだとなかなか",
+            "timestamp": "2022-09-25T13:59:22.454000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "うちはベランダがあるので、ベランダ干しです。",
+            "timestamp": "2022-09-25T13:59:39.785000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "いいですね。ベランダ羨ましいです",
+            "timestamp": "2022-09-25T13:59:55.236000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "家の中だと全然乾かないですよね。",
+            "timestamp": "2022-09-25T14:00:08.946000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "はい、厚手のものは全然乾かないです",
+            "timestamp": "2022-09-25T14:00:23.391000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "なので、雨の日はまったく洗濯しなくなります。",
+            "timestamp": "2022-09-25T14:00:42.279000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "やるきが起こりませんよね。",
+            "timestamp": "2022-09-25T14:01:04.270000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "ドラム式洗濯機もこういう時はいいですね。",
+            "timestamp": "2022-09-25T14:01:27.295000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "乾燥機能があれば楽ですね",
+            "timestamp": "2022-09-25T14:01:42.067000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "ただ、高額ですし、場所によっては置けないですね。",
+            "timestamp": "2022-09-25T14:01:59.208000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "そうですね。ただ投資する価値はあるなかと",
+            "timestamp": "2022-09-25T14:02:17.398000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "では、そろそろ購入してもよいのでは？",
+            "timestamp": "2022-09-25T14:02:34.046000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "そうですね。実はそう思っていました",
+            "timestamp": "2022-09-25T14:02:44.763000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "そうでしたか。なんてグッドな話題でしょう。",
+            "timestamp": "2022-09-25T14:03:10.030000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "家電選びは結構難しいですね",
+            "timestamp": "2022-09-25T14:03:25.890000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。どうやって選びますか？",
+            "timestamp": "2022-09-25T14:03:43.441000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "コスパですかね。",
+            "timestamp": "2022-09-25T14:03:52.707000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "まずはどこから情報を得ますか？",
+            "timestamp": "2022-09-25T14:04:05.074000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "店員さんから話を聞きますね。お店に行って",
+            "timestamp": "2022-09-25T14:04:17.348000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "直接お店に行かれるのですか。まめですね。",
+            "timestamp": "2022-09-25T14:04:29.946000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "まあそうですね。通販はリスキーかなと",
+            "timestamp": "2022-09-25T14:04:41.893000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "大きいものはリスクありますね。そういえば、私は大手家電の展示品を買ったのでした。",
+            "timestamp": "2022-09-25T14:05:15.382000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "結構じっくり考えてしまうタイプです",
+            "timestamp": "2022-09-25T14:05:25.630000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "展示品は安くてきれいにして送ってくれるのでよかったですよ。一度見に行ってみてください。",
+            "timestamp": "2022-09-25T14:05:48.008000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

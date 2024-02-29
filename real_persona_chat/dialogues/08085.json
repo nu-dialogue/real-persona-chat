@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8085,
+    "interlocutors": [
+        "AT",
+        "IH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "初めまして、よろしくお願いします。",
+            "timestamp": "2022-08-04T21:12:18.554000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IH",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-04T21:12:34.074000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "あなたは何かサークル活動とかバイトとかしてますか？",
+            "timestamp": "2022-08-04T21:12:47.996000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IH",
+            "text": "管弦楽団に入っています。",
+            "timestamp": "2022-08-04T21:13:09.228000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "すごいですね、楽器は何ですか？",
+            "timestamp": "2022-08-04T21:13:24.563000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IH",
+            "text": "フルートを吹いています。",
+            "timestamp": "2022-08-04T21:13:34.813000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "かっこいいですね、最近始めたのですか？",
+            "timestamp": "2022-08-04T21:13:56.519000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IH",
+            "text": "いえ、中学生からやっています。",
+            "timestamp": "2022-08-04T21:14:22.819000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "ずっとやってるんですね、練習とかって今はどんな感じでやられてるんですか？",
+            "timestamp": "2022-08-04T21:14:57.717000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IH",
+            "text": "今は週2、3回ですね。",
+            "timestamp": "2022-08-04T21:15:37.429000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "みんなで集まって練習してますか？",
+            "timestamp": "2022-08-04T21:15:56.667000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IH",
+            "text": "楽器の種類ごとに部屋はわかれていますが集まってやってます。",
+            "timestamp": "2022-08-04T21:16:41.929000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "いいですね、コロナのせいで集まっての練習が大変だと伺ったことがあるので心配でした。",
+            "timestamp": "2022-08-04T21:17:08.916000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IH",
+            "text": "学内に感染者が増加するとおそらく集まりにくくなるのだと思います。今はまだ大丈夫ですね。",
+            "timestamp": "2022-08-04T21:17:57.825000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "発表会的なのもあるんですか？",
+            "timestamp": "2022-08-04T21:18:14.588000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IH",
+            "text": "年1回定期演奏会があります。約1年間そこに向けて練習しています。",
+            "timestamp": "2022-08-04T21:18:51.747000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "発表の場があるとモチベーション上がりますね。",
+            "timestamp": "2022-08-04T21:19:36.660000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IH",
+            "text": "はい、目標が定まっているので頑張れます。何か楽器をやられたことはありますか？",
+            "timestamp": "2022-08-04T21:20:17.372000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "授業でドラムを、遊びでバンドやっててキーボードを少しやったことあります。",
+            "timestamp": "2022-08-04T21:20:58.970000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IH",
+            "text": "お、かっこいいですね！ドラムできる人っていいですよね。",
+            "timestamp": "2022-08-04T21:21:38.983000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "かっこいいですよね、ドラム極めたかったのですが経験者と被るとどうしても負けてしまいます。",
+            "timestamp": "2022-08-04T21:22:25.660000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IH",
+            "text": "なかなか難しいですよね。私はリズム感がないのでドラムできる人が羨ましいです。",
+            "timestamp": "2022-08-04T21:23:06.993000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "反復練習ですね、難しい打ち方のところは全然できなかったです。",
+            "timestamp": "2022-08-04T21:23:56.892000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IH",
+            "text": "反復練習、、辛抱強さが必要になりますね。",
+            "timestamp": "2022-08-04T21:24:45.957000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "やっぱ楽しくないと続かないですね、それにも目標が定まってると全然違います。",
+            "timestamp": "2022-08-04T21:25:15.791000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IH",
+            "text": "演奏したい曲とか好きな曲が難しいと頑張れそうですね。",
+            "timestamp": "2022-08-04T21:26:04.628000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "たしかに、演奏する曲によってもモチベーション変わりますね。",
+            "timestamp": "2022-08-04T21:26:36.451000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IH",
+            "text": "クラシックでもそういうのあるので分かります。",
+            "timestamp": "2022-08-04T21:26:59.420000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "楽器の話久々にして楽しかったです！",
+            "timestamp": "2022-08-04T21:27:26.197000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IH",
+            "text": "私も楽しかったです！ありがとうございました！",
+            "timestamp": "2022-08-04T21:27:42.852000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "IH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

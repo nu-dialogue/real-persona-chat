@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 1259,
+    "interlocutors": [
+        "BP",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "今日は宜しくお願いいたします！",
+            "timestamp": "2022-08-14T07:54:56.366000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-14T07:55:00.385000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "ご趣味は何かありますか？",
+            "timestamp": "2022-08-14T07:55:09.656000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "ピアノですね",
+            "timestamp": "2022-08-14T07:55:15.729000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "ピアノ、いいですねー。どのような曲を弾きますか？",
+            "timestamp": "2022-08-14T07:55:28.166000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "リストが大好きで、あとは練習のためにはバッハを弾きます",
+            "timestamp": "2022-08-14T07:55:42.647000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "本格的ですね！小さい頃から、習っていたのですか？",
+            "timestamp": "2022-08-14T07:56:01.115000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "はい、断続的ではあるのですが",
+            "timestamp": "2022-08-14T07:56:07.424000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "いいですね。私の幼馴染がピアノ弾いていて、いつも羨ましかったです。",
+            "timestamp": "2022-08-14T07:56:30.194000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "やると楽しいのですよ",
+            "timestamp": "2022-08-14T07:56:40.149000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "わかります。私は両手でちゃんと弾けないですが、好きな曲を少し自分で弾いてみるのは好きです。",
+            "timestamp": "2022-08-14T07:57:11.151000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "ちなみに、あなたの趣味はなんですか",
+            "timestamp": "2022-08-14T07:57:19.781000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "私の趣味は、テレビドラマを観ることです。",
+            "timestamp": "2022-08-14T07:57:40.356000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "ほう、ドラマですか。最近見たのはどんなものですか",
+            "timestamp": "2022-08-14T07:57:52.205000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "最近は、大河の鎌倉殿の１３人をよく見ています。",
+            "timestamp": "2022-08-14T07:58:12.855000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "久しくテレビみてないなあ",
+            "timestamp": "2022-08-14T07:58:33.555000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "そうなんですね？テレビ離れの人増えてるみたいですね。YouTubeとかは見ますか？",
+            "timestamp": "2022-08-14T07:58:59.395000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "はい、ユーチューブはもう毎日のように",
+            "timestamp": "2022-08-14T07:59:08.925000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "やっぱりそうですよねー。うちの子もテレビは見ずYouTubeばかりです。",
+            "timestamp": "2022-08-14T07:59:25.930000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "いやあ、昔の大河とか気合入ってる奴は見て面白いと思うのですが",
+            "timestamp": "2022-08-14T07:59:41.458000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "壮大な感じでしたよね！",
+            "timestamp": "2022-08-14T08:00:02.464000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "たぶん最近のでも見れば面白いと思うのでしょうがね",
+            "timestamp": "2022-08-14T08:00:14.599000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "今年は三谷幸喜脚本で私的には気に入っています。YouTubeで、大河の解説とかもみて楽しんでますよ。",
+            "timestamp": "2022-08-14T08:00:53.988000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "なるほど、鎌倉といえば、平家物語は子供心に好きでした",
+            "timestamp": "2022-08-14T08:01:15.612000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "祇園精舎の鐘の声、ですね。最近、子どもが覚えてました。",
+            "timestamp": "2022-08-14T08:01:37.444000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "熊谷直実のシーンがお気に入りです",
+            "timestamp": "2022-08-14T08:02:25.943000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "どのようなシーンでしたか？",
+            "timestamp": "2022-08-14T08:02:29.261000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "相手の十七歳の少年との一騎打ちのシーン",
+            "timestamp": "2022-08-14T08:02:31.810000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "そのシーンは、記憶になかったです。",
+            "timestamp": "2022-08-14T08:02:47.670000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "人間五十年で有名な敦盛につながる、結構名シーンですよ",
+            "timestamp": "2022-08-14T08:03:24.531000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BP",
+            "text": "そうなんですね。今度調べてみたいと思います！",
+            "timestamp": "2022-08-14T08:03:39.790000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

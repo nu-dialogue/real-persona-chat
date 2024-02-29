@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9411,
+    "interlocutors": [
+        "CA",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-13T05:25:28.024000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-13T05:25:37.261000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "今日も良いお天気ですね",
+            "timestamp": "2022-08-13T05:25:51.195000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "こっちはちょっと曇ってます。昨日雨降ってませんでしたか？",
+            "timestamp": "2022-08-13T05:26:21.523000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "昨日は大丈夫だったのですが、その雨が今日こちらにお昼過ぎ来そうです。",
+            "timestamp": "2022-08-13T05:27:35.043000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "台風の影響ですかね。もしかすると私の方がもうちょっと西の方かもしれませんね。",
+            "timestamp": "2022-08-13T05:27:58.948000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "台風ニュースになっていますもんね",
+            "timestamp": "2022-08-13T05:28:18.395000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "今日にも関東に上陸するらしいですけどね。大雨にならないといいですね。",
+            "timestamp": "2022-08-13T05:28:48.978000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "本当に。お昼過ぎにお墓参りに行こうと思っているので、ひどくならないことを願っています",
+            "timestamp": "2022-08-13T05:29:25.900000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "お墓参り行かれるんですね！どうか天気がそれまでに持ってくれますように！！",
+            "timestamp": "2022-08-13T05:30:11.590000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "今年は梅雨が明けても例年より雨が多い夏ですよね",
+            "timestamp": "2022-08-13T05:31:54.128000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "そうですね。夕立も多い気がしますね。立秋も過ぎてるし、ちょっとは涼しくなってほしいですが。",
+            "timestamp": "2022-08-13T05:32:27.404000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "暦の上ではもう秋なんですね！",
+            "timestamp": "2022-08-13T05:32:41.332000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "もはや完全にずれてる気がするんですけどね！",
+            "timestamp": "2022-08-13T05:33:01.602000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "あははは。ずれてますよね。不思議な年になってる。",
+            "timestamp": "2022-08-13T05:33:27.243000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "もうこんな感じの気候がずっと続くんですかね。気候変動って怖いですね。",
+            "timestamp": "2022-08-13T05:34:02.258000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "続きそうですね。対応できるかなあ。",
+            "timestamp": "2022-08-13T05:35:22.484000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "個人では対応に限界があるし、国が動くべき事案ですよね。でも他の国との意見調整が難しそうですし。",
+            "timestamp": "2022-08-13T05:36:03.612000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "そうですね、個人では限界がありますよね。",
+            "timestamp": "2022-08-13T05:36:54.836000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "カーボンニュートラルとか、本当に実現できるの？って感じですもんね。",
+            "timestamp": "2022-08-13T05:37:19.193000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "勉強不足でお恥ずかしいのですが、カーボンニュートラルってどんなことですか？",
+            "timestamp": "2022-08-13T05:37:42.704000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "各国が生産活動などで発生させるCO2を、環境措置などを使ってプラマイゼロにしようとする動きです！",
+            "timestamp": "2022-08-13T05:38:44.884000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "理解しました！ありがとうございます。プラマイゼロは実現できるのか疑問ですよね",
+            "timestamp": "2022-08-13T05:39:23.699000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "特に中国とか、インドとか。人口が多いですからね。",
+            "timestamp": "2022-08-13T05:39:47.427000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "日本の比じゃない人口ですもんね",
+            "timestamp": "2022-08-13T05:40:18.703000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "そして先進国に比べて、途上国はそれに対応する資本なども足りなくて、不公平だとの声もあるらしいです。",
+            "timestamp": "2022-08-13T05:40:50.410000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "このことも今はじめて知ってショックです。確かに不公平だなあ。",
+            "timestamp": "2022-08-13T05:41:39.728000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "やはりアメリカとか、中国みたいに資本も技術も持ってる国が前に立ってほしいですね。",
+            "timestamp": "2022-08-13T05:42:10.252000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "そうですね。力がある国に引っ張っていってほしいです。",
+            "timestamp": "2022-08-13T05:43:19.615000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "子供の世代に済みやすい地球を渡してあげないとですね。",
+            "timestamp": "2022-08-13T05:43:54.834000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

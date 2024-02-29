@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8030,
+    "interlocutors": [
+        "BX",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-05T09:33:27.622000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "おはようございます！今日はちょっと寝不足です。",
+            "timestamp": "2022-08-05T09:33:41.932000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "あれ、よく寝れなかったんでしょうか？",
+            "timestamp": "2022-08-05T09:33:53.953000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "いつも22時半には布団に入るんですが、昨日は0時になってしまいました。",
+            "timestamp": "2022-08-05T09:34:20.325000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "そうでしたか、何かお忙しい用事があったんでしょうか？",
+            "timestamp": "2022-08-05T09:34:38.158000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "夜遅くから、録画した映画観ちゃって。東京リベンジャーズです。",
+            "timestamp": "2022-08-05T09:35:02.996000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "あ、この前地上波でやってましたね！",
+            "timestamp": "2022-08-05T09:35:23.072000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ！見始めた時間が悪かった！見ましたか？",
+            "timestamp": "2022-08-05T09:35:47.810000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "映画は見始めると最後まで寝れないのがネックですね。",
+            "timestamp": "2022-08-05T09:36:04.744000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ。映画とかドラマとか見ますか？",
+            "timestamp": "2022-08-05T09:36:21.366000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "この前のは見ておりません、そしてドラマ等あまり最近見れてないですね。",
+            "timestamp": "2022-08-05T09:36:46.643000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "普段、テレビは何を見ますか？",
+            "timestamp": "2022-08-05T09:36:59.248000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "うーん、しいて言えば21時からやってる水曜どうでしょうを見せられています。",
+            "timestamp": "2022-08-05T09:37:23.638000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "見せられてるんですか。面白いですね。家族が好きな番組？",
+            "timestamp": "2022-08-05T09:37:49.023000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "はい、旦那が好きみたいで。旦那は見たやつなのに見ようって。",
+            "timestamp": "2022-08-05T09:38:20.740000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "大好きなんですね。うちは、バラエティが多めです。",
+            "timestamp": "2022-08-05T09:38:43.489000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "お笑いの番組はたまに見ますね、昔は結構アニメとか見たんですが、最近あまり見てないですね。",
+            "timestamp": "2022-08-05T09:39:09"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "最近は有吉の壁とか、水曜日のダウンタウンとか見てます。有吉をめちゃくちゃ見ますね。",
+            "timestamp": "2022-08-05T09:39:46.541000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "有吉さん面白いですよね！年齢ばれそうですが、昔のヒッチハイクとか好きでした",
+            "timestamp": "2022-08-05T09:40:12.732000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "同世代だと思います。ヒッチハイク好きでした。",
+            "timestamp": "2022-08-05T09:40:30.580000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "あれ、本当だったんですかね？",
+            "timestamp": "2022-08-05T09:40:45.488000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "ねー。やらせではないと信じたい。",
+            "timestamp": "2022-08-05T09:41:05.764000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "旦那が若い時にしたことあるみたいで出来なくはないそうですが。うーん。",
+            "timestamp": "2022-08-05T09:41:30.004000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "旦那さん、すごいですね！国内ですか？海外？",
+            "timestamp": "2022-08-05T09:41:52.410000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "どちらもと聞いてます。国内は全国だそうです。",
+            "timestamp": "2022-08-05T09:42:11.918000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "すごい！最近は、テレビもやらせが増えてるので残念です。",
+            "timestamp": "2022-08-05T09:42:30.783000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "鈍いほうですが、そういう風に聞きますよねー。",
+            "timestamp": "2022-08-05T09:42:47.022000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "もうネタがないんですかね？",
+            "timestamp": "2022-08-05T09:43:11.905000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "それはあるかもしれませんね。大変そうですし。",
+            "timestamp": "2022-08-05T09:43:26.336000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "そろそろ、時間ですね！お話しありがとうございました。",
+            "timestamp": "2022-08-05T09:43:42.856000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

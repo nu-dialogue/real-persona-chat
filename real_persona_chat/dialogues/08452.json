@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8452,
+    "interlocutors": [
+        "BX",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-06T20:04:09.639000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "こんばんはっ！",
+            "timestamp": "2022-08-06T20:04:15.569000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "何か趣味とかってありますか？",
+            "timestamp": "2022-08-06T20:04:26.513000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "スポーツ観戦とお酒です。",
+            "timestamp": "2022-08-06T20:05:02.642000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "おお！スポーツはこれって決まっていますか？",
+            "timestamp": "2022-08-06T20:05:18.247000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "特に見るのは野球でしょうか、それ以外もテレビでやってたら見てること多いです。",
+            "timestamp": "2022-08-06T20:06:04.802000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "野球はどこのファンですか？",
+            "timestamp": "2022-08-06T20:06:14.451000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "楽天とか好きです！",
+            "timestamp": "2022-08-06T20:06:41.862000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "いいですね！私はヤクルトです！",
+            "timestamp": "2022-08-06T20:06:53.069000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "私もヤクルト好きです、今巨人との試合を後ろで流してます。",
+            "timestamp": "2022-08-06T20:07:30.116000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "今試合中ですね！実家にいた時父が毎試合見ていました。",
+            "timestamp": "2022-08-06T20:07:50.560000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "私の父は巨人ファンですね、結構テレビで見てることが多いです。",
+            "timestamp": "2022-08-06T20:08:19.404000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "お住まいは東京だったりしますか？",
+            "timestamp": "2022-08-06T20:08:30.544000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "埼玉です！",
+            "timestamp": "2022-08-06T20:08:47.155000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "そうでしたか！まぁ私も横浜なんですけど！",
+            "timestamp": "2022-08-06T20:09:02.417000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "ベイスターズは好きですか？",
+            "timestamp": "2022-08-06T20:09:25.651000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "好きです！BBスターマンが可愛いです。",
+            "timestamp": "2022-08-06T20:10:06.787000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "ベイスターズとヤクルトの試合とか行くと楽しいかもですね。",
+            "timestamp": "2022-08-06T20:10:12.578000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "そうですね！どっちを応援した物かって思えそうです！",
+            "timestamp": "2022-08-06T20:10:33.693000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "どちらかの応援席には座れないですね、観に行ったことありますか？",
+            "timestamp": "2022-08-06T20:11:09.610000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "数度ですがあります。楽しいですよね！",
+            "timestamp": "2022-08-06T20:11:29.365000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "私もちょっとだけ行ったことあります、雰囲気とビールがたまらないです。",
+            "timestamp": "2022-08-06T20:12:12.870000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "お酒もお好きと言ってましたね！私はあまり飲めないので。",
+            "timestamp": "2022-08-06T20:12:31.117000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "平日家では一切飲みませんが、週末は飲みに行くことが多いですね。",
+            "timestamp": "2022-08-06T20:12:59.032000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "いいですね！外で飲むとご飯も美味しいですしね。",
+            "timestamp": "2022-08-06T20:13:26.796000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "そうですね、誰かと飲むお酒とご飯は美味しいです。",
+            "timestamp": "2022-08-06T20:13:42.837000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "一人とは全然違いますよね。",
+            "timestamp": "2022-08-06T20:13:52.753000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "そうなんですよ、みんなでワイワイするのが好きです。",
+            "timestamp": "2022-08-06T20:14:14.377000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "私もです。早くまた気兼ねなくしたいですね。",
+            "timestamp": "2022-08-06T20:14:25.220000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "コロナ早く落ち着いてほしいです！",
+            "timestamp": "2022-08-06T20:15:03.712000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

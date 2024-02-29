@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4026,
+    "interlocutors": [
+        "CH",
+        "DW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CH",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-06T10:12:24.150000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DW",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-09-06T10:12:50.027000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CH",
+            "text": "先週はおおむね涼しかったですけど、昨日今日と暑いですね。",
+            "timestamp": "2022-09-06T10:13:12.961000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DW",
+            "text": "そうですね！洗濯物が溜まってたので、昨日は洗濯機3回回しました。",
+            "timestamp": "2022-09-06T10:13:40.038000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CH",
+            "text": "8月は晴れていてもにわか雨やゲリラ豪雨が多くて、洗濯物を安心して干せなかったですねぇ。",
+            "timestamp": "2022-09-06T10:14:29.714000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DW",
+            "text": "そうなんですよね、結構部屋干しにしていました。",
+            "timestamp": "2022-09-06T10:14:54.809000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CH",
+            "text": "わたしは冬場は完全に部屋干しするしかない地域に住んでいるので、夏くらいは思う存分外干ししたいです。",
+            "timestamp": "2022-09-06T10:15:31.294000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DW",
+            "text": "寒い地域なんですね？",
+            "timestamp": "2022-09-06T10:15:45.759000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CH",
+            "text": "そうですね。寒いのと豪雪地帯で冬は梅雨以上に湿度があるので。",
+            "timestamp": "2022-09-06T10:16:14.905000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DW",
+            "text": "そうなんですか。こちらは関東です！今日は晴れてるけど湿気があってツライです。",
+            "timestamp": "2022-09-06T10:16:58.859000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CH",
+            "text": "関東は冬は嫌というほど乾燥するのに、この時期にカラッとしてほしいですね。",
+            "timestamp": "2022-09-06T10:17:41.442000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DW",
+            "text": "ほんとうです。ずっとそちらにお住まいですか？",
+            "timestamp": "2022-09-06T10:18:09.888000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CH",
+            "text": "いえ、数年前まで東京勤めで関東在住でした。当時は加湿器を使ってたので真逆ですね。",
+            "timestamp": "2022-09-06T10:18:37.453000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DW",
+            "text": "どうですか？住み心地というか。環境の変化は大丈夫でした？",
+            "timestamp": "2022-09-06T10:19:01.355000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CH",
+            "text": "知らない場所に転居したのではなく地元にＵターンしただけなので全く大丈夫ですよ。",
+            "timestamp": "2022-09-06T10:19:27.464000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DW",
+            "text": "なるほど！そうだったんですね。地元のほうが過ごしやすいですか？",
+            "timestamp": "2022-09-06T10:19:52.526000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CH",
+            "text": "そうですね、やっぱり地元の方が向いてると思います。首都圏の便利さもよかったですが。",
+            "timestamp": "2022-09-06T10:20:20.212000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DW",
+            "text": "私は埼玉に住んでるんですけど、東京での暮らしは厳しそうだなぁと思ってます。",
+            "timestamp": "2022-09-06T10:20:55.351000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CH",
+            "text": "都内、とりわけ23区内となると正直住むのは嫌だなぁとなりますね。",
+            "timestamp": "2022-09-06T10:21:38.592000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DW",
+            "text": "はい、物価は高いし、人も多いしで。",
+            "timestamp": "2022-09-06T10:21:58.597000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CH",
+            "text": "そうですね。特に地方出身者からすると、どこに行っても視界が開けないことが窮屈でした。",
+            "timestamp": "2022-09-06T10:22:41.297000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DW",
+            "text": "そうなんですよ、たまに東京行くんですけど、うわー！って思います。駅の人の多さとか。",
+            "timestamp": "2022-09-06T10:23:18.846000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CH",
+            "text": "そうですよね。通勤満員も当たり前のように乗っていましたが、もうあれに戻りたくはないです。",
+            "timestamp": "2022-09-06T10:23:51.632000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DW",
+            "text": "ふふふ、気持ちはとてもわかります。そちらでの通勤は電車ですか？",
+            "timestamp": "2022-09-06T10:24:13.077000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CH",
+            "text": "こちらは専ら自動車です。電車を使う人も多いですが、それは勤務先が都市部の人くらいですかね。",
+            "timestamp": "2022-09-06T10:24:44.906000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DW",
+            "text": "そうなんですね、豪雪地帯だと、自家用車での通勤も大変そうですね？",
+            "timestamp": "2022-09-06T10:25:08.979000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CH",
+            "text": "冬は地元の人間が最も警戒するくらいですからね。みんな1時間くらい早く出ますよ。",
+            "timestamp": "2022-09-06T10:25:41.891000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DW",
+            "text": "ゆっくり進まないと大変なことになりそうですね！",
+            "timestamp": "2022-09-06T10:26:08.244000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CH",
+            "text": "そうなんです。慣れていても不便だという感想はなくならないですよ。",
+            "timestamp": "2022-09-06T10:26:36.885000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DW",
+            "text": "やっぱりそうなんですねー。でも雪景色はきっと圧巻なんでしょうね！",
+            "timestamp": "2022-09-06T10:26:58.794000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

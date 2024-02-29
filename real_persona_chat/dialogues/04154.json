@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4154,
+    "interlocutors": [
+        "BR",
+        "EE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんにちは。よろしくお願いします！",
+            "timestamp": "2022-09-07T17:23:53.393000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EE",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-09-07T17:24:03.989000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "旅行はお好きですか？私は旅が趣味です。",
+            "timestamp": "2022-09-07T17:24:15.539000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EE",
+            "text": "好きです！どこか行きたいところとかありますか？",
+            "timestamp": "2022-09-07T17:24:37.402000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "今行きたいのは、もし海外ならジョージアで、国内なら青森ですね。",
+            "timestamp": "2022-09-07T17:24:52.217000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EE",
+            "text": "青森はりんごのイメージしかないのですがほかに何かありますか？",
+            "timestamp": "2022-09-07T17:25:34.825000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "結構温泉もあるみたいで、彼が先日まわってきて面白い友達ができたようです。",
+            "timestamp": "2022-09-07T17:26:01.951000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EE",
+            "text": "温泉いいですね。旅先で友達を作れるのはとても楽しそうです。",
+            "timestamp": "2022-09-07T17:26:35.416000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。車中泊をしながらだと自由に動けるのでいいみたいです。",
+            "timestamp": "2022-09-07T17:26:52.627000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EE",
+            "text": "車中泊！コロナかに適した旅行スタイルでもありそうです",
+            "timestamp": "2022-09-07T17:27:34.441000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "ですね！あなたは今までどんな旅行先に行かれましたか？",
+            "timestamp": "2022-09-07T17:27:50.844000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EE",
+            "text": "海外に行ったことがなくて、国内では京都、沼津ぐらいです。",
+            "timestamp": "2022-09-07T17:28:36.417000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！海外はコロナが落ち着いてからですね。",
+            "timestamp": "2022-09-07T17:28:53.726000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EE",
+            "text": "海外はどちらかというと恐怖の方が大きいのですが実際に行ってみたら楽しそうです",
+            "timestamp": "2022-09-07T17:29:20.145000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "そうですね。行く場所をちゃんと見極めればそんなに怖いことはないですよ！",
+            "timestamp": "2022-09-07T17:29:42.531000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EE",
+            "text": "英語が喋れなくてもどうにかなるものですか？",
+            "timestamp": "2022-09-07T17:29:59.710000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "はい。私の彼はほとんど話せないけど、旅してましたよ。",
+            "timestamp": "2022-09-07T17:30:15.105000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EE",
+            "text": "いいですね。初心者におすすめの国とかありますか？",
+            "timestamp": "2022-09-07T17:30:47.836000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "初心者には台湾がおすすめですね！英語圏ならオーストラリアのケアンズとか優しめです。",
+            "timestamp": "2022-09-07T17:31:10.373000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EE",
+            "text": "台湾！近くて行きやすいイメージです。美味しいものとかありますか？",
+            "timestamp": "2022-09-07T17:32:05.156000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "はい。たくさんあります！ただ八角の匂いが嫌いだときついかもです。",
+            "timestamp": "2022-09-07T17:32:54.083000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EE",
+            "text": "中華街で食べた台湾から揚げは美味しかったです",
+            "timestamp": "2022-09-07T17:33:26.821000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "夜市で人気ですものね。ベジタリアンも結構いて、種類が多くて興味深いですよ。",
+            "timestamp": "2022-09-07T17:33:53.648000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EE",
+            "text": "現地でしか食べられないものにも挑戦してみたいです。",
+            "timestamp": "2022-09-07T17:34:37.189000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "それなら臭豆腐にぜひチャレンジしてください！めっちゃ臭いけど、クセになりますよ。",
+            "timestamp": "2022-09-07T17:34:54.916000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EE",
+            "text": "名前からして臭そうですね。チャレンジしてみたいです。",
+            "timestamp": "2022-09-07T17:35:24.871000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "はい。最初は嫌いでも、慣れていくとかなり好きになっちゃうシロモノです。",
+            "timestamp": "2022-09-07T17:35:40.929000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EE",
+            "text": "日本の納豆などと同じですね",
+            "timestamp": "2022-09-07T17:36:06.073000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "ですね。でも納豆より匂いがきついので要注意です。100ｍ先まで匂います。",
+            "timestamp": "2022-09-07T17:36:27.512000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EE",
+            "text": "それは想像よりも大変でした、頑張ってみます、、",
+            "timestamp": "2022-09-07T17:37:07.647000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EE",
+            "informativeness": 2,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 2
+        }
+    ]
+}

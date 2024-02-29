@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 241,
+    "interlocutors": [
+        "AN",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T13:00:03.703000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T13:00:19.558000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "今日はもうお昼ご飯は食べましたか？",
+            "timestamp": "2022-08-08T13:00:24.962000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "食べました！",
+            "timestamp": "2022-08-08T13:00:42.629000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "今日は何を食べられたんですかー？",
+            "timestamp": "2022-08-08T13:00:58.538000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "夏野菜炒めです！",
+            "timestamp": "2022-08-08T13:01:12.065000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "栄養たっぷりですね。わたしはオムライスを食べました。",
+            "timestamp": "2022-08-08T13:01:25.107000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "いいですね！卵はふわふわですか？",
+            "timestamp": "2022-08-08T13:01:54.263000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "はい、今日のオムライスは卵はフワトロにしましたよ。",
+            "timestamp": "2022-08-08T13:02:05.669000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "いいですね！私はなかなかできません。コツとかありますか？",
+            "timestamp": "2022-08-08T13:02:35.971000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "強火で少しの間しっかりかき混ぜるのがコツです！",
+            "timestamp": "2022-08-08T13:03:14.799000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "なるほど、ずっと中火でぐるぐるやってて、中々固まらなかったのはそういうことだったのですね",
+            "timestamp": "2022-08-08T13:03:52.390000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "油気持ち多めで強火でするのが成功しやすい気がします！",
+            "timestamp": "2022-08-08T13:04:24.571000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "油もカロリー気にして少なめにしてました！そこが失敗の原因だったのですね。",
+            "timestamp": "2022-08-08T13:04:55.725000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "でも自己流なので、正しいかはわかりませんが。",
+            "timestamp": "2022-08-08T13:05:14.847000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "炭酸水を少し加えるとかいう話を聞いたこともありますが、やってますか？",
+            "timestamp": "2022-08-08T13:05:52.600000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "初耳です！やってみたいです。",
+            "timestamp": "2022-08-08T13:06:04.862000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "炭酸が熱で抜ける時に、卵を膨らませてくれるようです",
+            "timestamp": "2022-08-08T13:06:40.640000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "なるほどー。そんな原理が！たしかに炭酸の力でふわっと膨らみそうですね。",
+            "timestamp": "2022-08-08T13:07:05.405000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "ホットケーキにも使われてて、こっちではうまくいきました！",
+            "timestamp": "2022-08-08T13:07:36.315000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "ホットケーキにも使えるのですね！フリットの衣に炭酸を加えたことくらいしかなかったです。",
+            "timestamp": "2022-08-08T13:07:59.461000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "フリット、初めて聞きました。それはどういうものですか？",
+            "timestamp": "2022-08-08T13:08:42.697000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "揚げ物ですよ！",
+            "timestamp": "2022-08-08T13:09:07.864000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "そうなんですね！天ぷらの衣のようなものでしょうか？",
+            "timestamp": "2022-08-08T13:09:42.854000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "天ぷらに近いですね。天ぷらよりももう少し衣がふわっとシュワっとした感じです。",
+            "timestamp": "2022-08-08T13:10:06.600000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "名前から、甘みがあるように感じたんですがどうですか？",
+            "timestamp": "2022-08-08T13:10:32.681000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "甘味はないですよ。確かイタリア料理だったかな？",
+            "timestamp": "2022-08-08T13:10:58.329000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "ヨーロッパの料理だったんですね！和食よりお好きですか？洋食",
+            "timestamp": "2022-08-08T13:11:33.407000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "どちらかというと和食の方が好きですが、洋食も大好きです！",
+            "timestamp": "2022-08-08T13:11:58.435000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "そうなんですね！いろんなお話ありがとうございました！",
+            "timestamp": "2022-08-08T13:12:23.812000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "いえいえ、こちらこそありがとうございました。",
+            "timestamp": "2022-08-08T13:12:28.508000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

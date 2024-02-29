@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11104,
+    "interlocutors": [
+        "CD",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T17:50:46.494000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-19T17:51:00.173000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CD",
+            "text": "最近買った高額な買い物はなんですか？",
+            "timestamp": "2022-08-19T17:51:01.749000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "最近はパソコンを買いました！",
+            "timestamp": "2022-08-19T17:51:32.096000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CD",
+            "text": "ノートパソコンですか？",
+            "timestamp": "2022-08-19T17:51:36.422000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "デスクトップパソコンです。そのなかでもゲーミングpcと呼ばれるものですが。",
+            "timestamp": "2022-08-19T17:51:58.905000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CD",
+            "text": "ご趣味のゲーム用ですか！いくらぐらいしました？",
+            "timestamp": "2022-08-19T17:52:19.790000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "20万弱くらいですね！あなたは何か最近買い物されましたか？",
+            "timestamp": "2022-08-19T17:52:52.922000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CD",
+            "text": "おー！高いですね！私は掃除機を買いました。",
+            "timestamp": "2022-08-19T17:52:59.900000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "掃除機いいですね。いくらくらいのを買ったのでしょう？",
+            "timestamp": "2022-08-19T17:53:20.535000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CD",
+            "text": "これは７万ぐらいでした。",
+            "timestamp": "2022-08-19T17:53:29.347000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "高い！それはルンバのようなものですか？",
+            "timestamp": "2022-08-19T17:53:54.247000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CD",
+            "text": "いえ。コードレスの普通の掃除機です！",
+            "timestamp": "2022-08-19T17:54:03.318000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "そんなにするのがあるんですね！何がいいんですか？",
+            "timestamp": "2022-08-19T17:54:22.852000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CD",
+            "text": "何が良いんでしょう？軽いのが気に入って購入しました。",
+            "timestamp": "2022-08-19T17:54:38.852000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "軽いの大切ですよね。何か特徴的な機能とかあるのでしょうか？",
+            "timestamp": "2022-08-19T17:55:06.373000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CD",
+            "text": "今でてる掃除機の中で一番軽いのが特徴だとはいってました。",
+            "timestamp": "2022-08-19T17:55:41.159000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。あと、充電時間も気になりますね。",
+            "timestamp": "2022-08-19T17:56:13.214000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CD",
+            "text": "充電も毎回充電しないといけないわけではないので、わりと気に入ってます。",
+            "timestamp": "2022-08-19T17:57:25.947000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "それはいいですね！私は安い掃除機なので、吸い込みが悪くていつもイライラしながら掃除してます。",
+            "timestamp": "2022-08-19T17:57:17.600000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CD",
+            "text": "吸引力だと有名なのは、ダイソンですね！",
+            "timestamp": "2022-08-19T17:57:39.866000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "ダイソン有名ですね。でもお高いイメージがあります。",
+            "timestamp": "2022-08-19T17:58:07.311000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CD",
+            "text": "考えてみると、ダイソンより高かったです。",
+            "timestamp": "2022-08-19T17:59:07.315000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "確かに。7万する掃除機はあまり聞いたことないかもです。",
+            "timestamp": "2022-08-19T17:58:58.519000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CD",
+            "text": "ですよね！でも買ってみる価値あります。",
+            "timestamp": "2022-08-19T17:59:23.182000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "調べておきます。家電製品でいうと、3万くらいするドライヤーを親が購入していましたね。",
+            "timestamp": "2022-08-19T18:00:07.657000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CD",
+            "text": "ドライヤーで３万円もお高いですね！",
+            "timestamp": "2022-08-19T18:00:20.699000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "高いです。でも髪がさらさらになるらしいですよ。",
+            "timestamp": "2022-08-19T18:00:44.533000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CD",
+            "text": "あなたは使ってないんですか？",
+            "timestamp": "2022-08-19T18:00:54.054000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "実家に帰った時に少し使いましたが、髪が短すぎました。",
+            "timestamp": "2022-08-19T18:01:28.311000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

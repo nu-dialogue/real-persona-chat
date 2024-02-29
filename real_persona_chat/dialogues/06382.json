@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6382,
+    "interlocutors": [
+        "HA",
+        "FW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HA",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-10-06T10:09:34.854000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FW",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-10-06T10:09:38.059000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HA",
+            "text": "今日ご飯食べました？",
+            "timestamp": "2022-10-06T10:09:48.827000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FW",
+            "text": "朝ごはんはスムージー作りました！",
+            "timestamp": "2022-10-06T10:10:07.786000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HA",
+            "text": "スムージー！健康的ですね！",
+            "timestamp": "2022-10-06T10:10:18.448000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FW",
+            "text": "朝ごはんいっぱい食べれる方ですか？",
+            "timestamp": "2022-10-06T10:10:34.021000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HA",
+            "text": "全然です！食べないときもあります。",
+            "timestamp": "2022-10-06T10:10:45.802000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FW",
+            "text": "私も朝食べるとだるくて、スムージーだと良いんです。今朝は食べましたか？",
+            "timestamp": "2022-10-06T10:11:56.409000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HA",
+            "text": "あ、でも今日は寒くてラーメン食べましたね。",
+            "timestamp": "2022-10-06T10:12:16.490000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FW",
+            "text": "いいですね！！！",
+            "timestamp": "2022-10-06T10:12:00.097000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HA",
+            "text": "不健康です。スムージーは何をいれたんですか？",
+            "timestamp": "2022-10-06T10:12:19.514000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FW",
+            "text": "温まっていいと思いました。今日は、小松菜、りんご、ばなな、ゴーヤ、豆乳でした！",
+            "timestamp": "2022-10-06T10:12:46.887000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HA",
+            "text": "わーホントに健康的ですね。小松菜入ってると飲めないかも。",
+            "timestamp": "2022-10-06T10:13:05.836000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FW",
+            "text": "バナナを入れると、何でもバナナ味になっていけますよ。ははは。",
+            "timestamp": "2022-10-06T10:13:21.823000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HA",
+            "text": "バナナはいいですよね。たまにバナナジュースつくります。",
+            "timestamp": "2022-10-06T10:13:35.337000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FW",
+            "text": "バナナジュースいいですね！牛乳とミックスですか？",
+            "timestamp": "2022-10-06T10:13:54.762000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HA",
+            "text": "そうです！あと氷と。子どもが好きです。",
+            "timestamp": "2022-10-06T10:14:07.224000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FW",
+            "text": "いいですね！母が作ってくれてた気が。小松菜は苦手でしたか？",
+            "timestamp": "2022-10-06T10:14:29.710000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HA",
+            "text": "あんまりですね。あとおかずのイメージが強いです。",
+            "timestamp": "2022-10-06T10:14:46.480000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FW",
+            "text": "なるほど！小松菜は下茹でしたりしなくてよくて、スムージーに便利です。",
+            "timestamp": "2022-10-06T10:15:32.004000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HA",
+            "text": "そのまま入れるんですか？青汁みたいになりません？",
+            "timestamp": "2022-10-06T10:15:45.009000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FW",
+            "text": "野菜ジュースって感じですけど、バナナとかりんごで苦くないし、普通ですよ。",
+            "timestamp": "2022-10-06T10:16:13.784000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HA",
+            "text": "そうなんですね、よく見たらゴーヤも入ってて、結構味がしそうです。",
+            "timestamp": "2022-10-06T10:16:33.913000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FW",
+            "text": "私けっこう変わってて、実は、よく飲めるねって人には言われます。",
+            "timestamp": "2022-10-06T10:17:35.941000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HA",
+            "text": "私はあまり苦手かもですね。ゴーヤってその辺に売ってます？",
+            "timestamp": "2022-10-06T10:18:03.680000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FW",
+            "text": "庭でゴーヤ育ててて、収穫したやつです。",
+            "timestamp": "2022-10-06T10:18:02.995000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HA",
+            "text": "なるほど！そういえばこっちではあまりみないかもなーと。",
+            "timestamp": "2022-10-06T10:18:20.886000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FW",
+            "text": "東北ではゴーヤってあまり売ってないのでしょうか。知らなかった。",
+            "timestamp": "2022-10-06T10:18:39.970000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HA",
+            "text": "もしかしたら目に入ってないだけかもしれません。",
+            "timestamp": "2022-10-06T10:18:55.860000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FW",
+            "text": "嫌いで目に入ってないのかもですね！",
+            "timestamp": "2022-10-06T10:19:08.484000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FW",
+            "informativeness": 2,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 5
+        }
+    ]
+}

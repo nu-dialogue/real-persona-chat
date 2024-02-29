@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 2137,
+    "interlocutors": [
+        "AO",
+        "DW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-19T09:26:51.332000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DW",
+            "text": "おはようございます、よろしくお願いします！",
+            "timestamp": "2022-08-19T09:27:07.543000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "今朝は何時頃に起きましたか？",
+            "timestamp": "2022-08-19T09:27:15.042000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DW",
+            "text": "今日は6時ぐらいですね、あなたは？",
+            "timestamp": "2022-08-19T09:27:30.404000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "私は7時頃です。これでも早起きと思ったのに、負けました！",
+            "timestamp": "2022-08-19T09:27:46.807000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DW",
+            "text": "子供がいるので、朝ご飯の都合でその時間なんです。",
+            "timestamp": "2022-08-19T09:28:12.625000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "なるほど。そうなると、朝ごはんは毎日しっかりと？",
+            "timestamp": "2022-08-19T09:28:30.043000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DW",
+            "text": "はい、食べますね。だいたいメニュー同じですけど。",
+            "timestamp": "2022-08-19T09:28:48.652000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "えらいですね！朝は、パン派ですか？お米派ですか？",
+            "timestamp": "2022-08-19T09:29:03.844000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DW",
+            "text": "私と子供は米、主人はパン派です！",
+            "timestamp": "2022-08-19T09:29:27.470000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "あ、ちょっとめずらしいんじゃないですか？大体、女性のほうがパン好きのイメージです。",
+            "timestamp": "2022-08-19T09:29:47.688000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DW",
+            "text": "お米好きなんですよー。",
+            "timestamp": "2022-08-19T09:30:06.560000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "もうすぐ新米の季節ですね。ふふふ。",
+            "timestamp": "2022-08-19T09:30:21.118000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DW",
+            "text": "そうですねー、食欲沸いちゃいます。",
+            "timestamp": "2022-08-19T09:30:32.945000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "新米は格別ですよね！オカズなしでも食べれてしまいます。",
+            "timestamp": "2022-08-19T09:30:51.680000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DW",
+            "text": "お米好きですかー？",
+            "timestamp": "2022-08-19T09:31:13.208000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "はい！パンだとすぐにお腹が減ってしまって。",
+            "timestamp": "2022-08-19T09:31:28.177000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DW",
+            "text": "わかります！そうですよね、お昼まで持たないんですよ。",
+            "timestamp": "2022-08-19T09:31:44.576000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "まさに、おっしゃるとおりで！お昼前に、オヤツ食べちゃいますよ。",
+            "timestamp": "2022-08-19T09:32:04.239000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DW",
+            "text": "あはは！おやつ、けっこう食べますか？",
+            "timestamp": "2022-08-19T09:32:22.757000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "食べますねー。甘いものも塩っぱいものも好きです。",
+            "timestamp": "2022-08-19T09:32:38.807000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DW",
+            "text": "しょっぱい物だとどんなのですか？",
+            "timestamp": "2022-08-19T09:32:56.501000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "柿ピー？",
+            "timestamp": "2022-08-19T09:33:03.175000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DW",
+            "text": "柿ピー、梅味あるの知ってます？美味しいです。",
+            "timestamp": "2022-08-19T09:33:23.057000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "あー、食べました！私のオススメは、ワサビ味です！",
+            "timestamp": "2022-08-19T09:33:50.339000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DW",
+            "text": "わさび味は食べたことがないです、今度食べてみますね！",
+            "timestamp": "2022-08-19T09:34:17.117000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "一気食いすると、胃がヒリヒリしますが！",
+            "timestamp": "2022-08-19T09:34:32.010000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DW",
+            "text": "え！そんなに刺激的な味なんですね！",
+            "timestamp": "2022-08-19T09:34:57.883000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "はい、かなり！お茶必須です！",
+            "timestamp": "2022-08-19T09:35:08.983000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DW",
+            "text": "じゃあ、多めにお茶用意して食べますね！",
+            "timestamp": "2022-08-19T09:35:26.667000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AO",
+            "text": "ぜひー！ではまた！",
+            "timestamp": "2022-08-19T09:35:34.910000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

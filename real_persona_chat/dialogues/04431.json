@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4431,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T17:48:00.798000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T17:48:07.004000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-17T17:48:12.985000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "<CS>さんは暑いのと寒いのどっちが得意ですか？",
+            "timestamp": "2022-09-17T17:48:38.141000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "私は暑いほうが得意だと思います",
+            "timestamp": "2022-09-17T17:48:52.679000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "じゃあ冬と夏だったら夏のほうが好きですか？",
+            "timestamp": "2022-09-17T17:49:10.748000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "そうですね、寒いと動くのもおっくうになるので夏のほうが好きです",
+            "timestamp": "2022-09-17T17:49:29.907000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "朝ベッドから出られなくなりますもんね",
+            "timestamp": "2022-09-17T17:49:48.223000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "ほんと起きられないです",
+            "timestamp": "2022-09-17T17:50:06.819000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "自分は暖房つけっぱなしなのでまだ起きられますけど、外に出るのがしんどいです",
+            "timestamp": "2022-09-17T17:50:51.649000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんも夏のほうが好きですか？",
+            "timestamp": "2022-09-17T17:51:09.020000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "そうですね、冬も鍋とかおでんはおいしいですけど、ほかにメリットがない気がします",
+            "timestamp": "2022-09-17T17:51:47.634000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "冬のメリットかぁ、なんでしょう",
+            "timestamp": "2022-09-17T17:52:03.937000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "汗で服が汚れないとか…？",
+            "timestamp": "2022-09-17T17:52:31.525000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "まぁそれはありますね。冬は静電気と乾燥が嫌なので、だったら汗だくのほうがましかもしれないです",
+            "timestamp": "2022-09-17T17:53:07.921000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "乾燥嫌ですね、顔パッサパサになります",
+            "timestamp": "2022-09-17T17:53:26.203000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "わかります、粉ふいちゃうのでほんとつらいです",
+            "timestamp": "2022-09-17T17:53:58.970000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "保湿がんばるしかないですね",
+            "timestamp": "2022-09-17T17:55:26.617000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "冬の楽しみはバレンタインでおいしいチョコ買えるくらいかなぁ",
+            "timestamp": "2022-09-17T17:56:00.669000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "チョコお好きなんですか？",
+            "timestamp": "2022-09-17T17:56:10.986000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "チョコ好きで、バレンタインの時期は1万以上買っちゃいます",
+            "timestamp": "2022-09-17T17:56:33.433000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "結構買いますね！",
+            "timestamp": "2022-09-17T17:56:41.598000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "でもひと箱3000円くらいするチョコがざらにあって、3箱くらい買うと1万超えるんです",
+            "timestamp": "2022-09-17T17:57:14.072000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "結構高いですね。その分おいしいんでしょうけど",
+            "timestamp": "2022-09-17T17:57:36.771000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "でもロッテとか明治のレベルが高いので味はそんなにですよ",
+            "timestamp": "2022-09-17T17:57:59.853000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "あれ？そうなんですか？",
+            "timestamp": "2022-09-17T17:58:10.271000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "全然違う！っていう感動はないです",
+            "timestamp": "2022-09-17T17:58:28.166000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "雰囲気を楽しむ感じですか？",
+            "timestamp": "2022-09-17T17:58:39.867000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "気に入るチョコレートを探してるかんじですね",
+            "timestamp": "2022-09-17T17:58:55.816000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "奥が深いですね",
+            "timestamp": "2022-09-17T17:59:03.040000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

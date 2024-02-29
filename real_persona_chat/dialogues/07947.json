@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7947,
+    "interlocutors": [
+        "BI",
+        "AH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-04T10:14:50.430000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AH",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-04T10:14:52.784000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "今日はずいぶん涼しいですね！",
+            "timestamp": "2022-08-04T10:15:10.491000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AH",
+            "text": "はい、昨日はすごい暑かったのに驚いています。",
+            "timestamp": "2022-08-04T10:15:18.482000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "雨で湿気がすごいかと思ったら、そでほどでもなくて過ごしやすいです。",
+            "timestamp": "2022-08-04T10:15:48.915000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AH",
+            "text": "過ごしやすい日も久しぶりですよね。",
+            "timestamp": "2022-08-04T10:16:03.671000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "暑い日が続くと疲れが抜けないですよね。",
+            "timestamp": "2022-08-04T10:16:37.320000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AH",
+            "text": "はい。毎日体のどこかが疲れている感覚があります。",
+            "timestamp": "2022-08-04T10:16:53.368000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "運動はお好きですか？",
+            "timestamp": "2022-08-04T10:17:10.810000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AH",
+            "text": "運動音痴なので苦手です。",
+            "timestamp": "2022-08-04T10:17:20.681000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "聞いておいてなんですが、私も苦手なんです。",
+            "timestamp": "2022-08-04T10:17:39.276000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AH",
+            "text": "運動は苦手ですけど、歩くくらいの簡単なものなら好きです。",
+            "timestamp": "2022-08-04T10:17:54.451000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "散歩とか行った方がいいと思いつつ、暑さを口実にやらないんです。",
+            "timestamp": "2022-08-04T10:18:33.945000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AH",
+            "text": "暑いとやる気がなくなりますからね。",
+            "timestamp": "2022-08-04T10:18:48.467000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "外に出ることすらだるく感じてしまって、引きこもっちゃいます。",
+            "timestamp": "2022-08-04T10:19:18.243000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AH",
+            "text": "そうなんですよね。私の場合はそれで体重が増えてしまいました。",
+            "timestamp": "2022-08-04T10:19:36.196000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "私もです！暑さで痩せてくれたらいいのに、食欲は減らなくて。",
+            "timestamp": "2022-08-04T10:20:08.262000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AH",
+            "text": "外に出れば食欲減るんですけど、家だと食べちゃいます。",
+            "timestamp": "2022-08-04T10:20:35.604000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "夏休みで子どもが家にいると、余計食べちゃうんですよね。",
+            "timestamp": "2022-08-04T10:21:13.219000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AH",
+            "text": "勝手に痩せてくれればいいんですけどね。",
+            "timestamp": "2022-08-04T10:21:49.666000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "乗るだけでブルブルしてくれる運動器具を買ったんですが、それすら続かず。",
+            "timestamp": "2022-08-04T10:22:23.565000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AH",
+            "text": "三日坊主になってしまいましたか。",
+            "timestamp": "2022-08-04T10:22:32.170000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "そうなんです。色々準備はするけど、長続きしなくて。",
+            "timestamp": "2022-08-04T10:23:03.824000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AH",
+            "text": "継続って大事らしいですけど、難しいですよね。",
+            "timestamp": "2022-08-04T10:23:15.753000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "本当にそうですね。続かないってわかっててもやってはみたくて。",
+            "timestamp": "2022-08-04T10:23:51.775000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AH",
+            "text": "挑戦は大事です！",
+            "timestamp": "2022-08-04T10:24:00.142000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "使わなくなった器具だけが増えていくんですけれど。",
+            "timestamp": "2022-08-04T10:24:27.040000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AH",
+            "text": "処分するのも勿体無いので迷いそうです。",
+            "timestamp": "2022-08-04T10:24:48.849000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "うちでは家族が使ってくれるので、ありがたいんです。",
+            "timestamp": "2022-08-04T10:25:16.057000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AH",
+            "text": "全くの無駄になっていないのなら良かったです！",
+            "timestamp": "2022-08-04T10:25:27.709000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

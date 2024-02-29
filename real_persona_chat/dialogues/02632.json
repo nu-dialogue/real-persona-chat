@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2632,
+    "interlocutors": [
+        "BW",
+        "BF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BW",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-25T09:11:09.233000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BF",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-25T09:11:15.023000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BW",
+            "text": "今日は夕飯は何を食べる予定ですか？",
+            "timestamp": "2022-08-25T09:11:42.042000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BF",
+            "text": "えーっと、まだ決めてません。あなたはもう決まってます？",
+            "timestamp": "2022-08-25T09:12:03.031000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BW",
+            "text": "まだなんですよね、涼しいから少し温かい物の方がいいかなとか思ってます。",
+            "timestamp": "2022-08-25T09:12:30.811000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BF",
+            "text": "温かいものかあ。食べ物だと何が好きなんですか？",
+            "timestamp": "2022-08-25T09:12:58.247000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BW",
+            "text": "そうですね、トマトが入ってる料理が好きです、イタリアンとか。",
+            "timestamp": "2022-08-25T09:13:21.099000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BF",
+            "text": "トマト、私も好きです。美味しいですよね。",
+            "timestamp": "2022-08-25T09:13:51.249000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BW",
+            "text": "そうですね、生でもいつも食べています。",
+            "timestamp": "2022-08-25T09:14:10.918000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BF",
+            "text": "トマトスライスとか美味しいですよね。私はミネストローネスープとかも好きです。",
+            "timestamp": "2022-08-25T09:14:43.387000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BW",
+            "text": "ミネストローネ好きですね、スープ屋さんではいつも頼みますね。",
+            "timestamp": "2022-08-25T09:15:16.362000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BF",
+            "text": "わかります！我が子はトマト嫌いなんですが、ミネストローネは飲むんですよね。",
+            "timestamp": "2022-08-25T09:15:47.994000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BW",
+            "text": "トマトが嫌いな子も結構いますよね、スープにすると臭さがなくていいのかな。",
+            "timestamp": "2022-08-25T09:16:20.361000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BF",
+            "text": "そのようですね。あとはミートソースとかもよく食べます。",
+            "timestamp": "2022-08-25T09:17:11.758000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BW",
+            "text": "生だと生臭いのがあるので苦手な人もいますね。あなたは何が好きですか？",
+            "timestamp": "2022-08-25T09:17:38.930000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BF",
+            "text": "そうですね、私は和食が好きです。お寿司とかすき焼きとか。",
+            "timestamp": "2022-08-25T09:18:06.649000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BW",
+            "text": "和食もいいですよね、私も寿司が大好きです。",
+            "timestamp": "2022-08-25T09:18:30.872000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BF",
+            "text": "お寿司は王道ですね！最近は回転寿司が安くて美味しいので気に入ってます。",
+            "timestamp": "2022-08-25T09:18:55.459000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BW",
+            "text": "美味しいところは本当に美味しいですね。ちょっとネタが小さくなった店舗もありますが。",
+            "timestamp": "2022-08-25T09:19:32.259000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BF",
+            "text": "ああ、ありますね。こんなところにも物価高の影響が！",
+            "timestamp": "2022-08-25T09:20:04.166000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、ネタが小さくなって、まあ値段も安いのでしょうがないのですがね。",
+            "timestamp": "2022-08-25T09:20:30.941000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BF",
+            "text": "そうですね、100円で提供してくれるのが奇跡みたいなものですもんね。",
+            "timestamp": "2022-08-25T09:20:57.242000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、100円で食べれるのは嬉しいですよね、寿司好きにとっては。",
+            "timestamp": "2022-08-25T09:21:35.676000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BF",
+            "text": "嬉しいです！回転寿司だとどのお店に行かれることが多いですか？",
+            "timestamp": "2022-08-25T09:22:00.745000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BW",
+            "text": "なんでしたっけ？うお寿司でしたっけ、あとはうまい寿司館とかですかね。",
+            "timestamp": "2022-08-25T09:22:45.033000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BF",
+            "text": "へー！そうなんですね。私はスシローかはま寿司かな。よく行くのは。",
+            "timestamp": "2022-08-25T09:23:08.740000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BW",
+            "text": "スシローやはま寿司もいいですよね、ただ家の近くにないので最近行けてないです。",
+            "timestamp": "2022-08-25T09:23:43.186000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BF",
+            "text": "そうなんですね。ぜひ、あなたのお家の近くにできることを祈っています！",
+            "timestamp": "2022-08-25T09:24:12.486000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BW",
+            "text": "はい、いろいろな店舗ができてほしいです。",
+            "timestamp": "2022-08-25T09:24:31.211000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BF",
+            "text": "本当ですね。今日は楽しいお話しありがとうございましたー！",
+            "timestamp": "2022-08-25T09:24:48.993000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

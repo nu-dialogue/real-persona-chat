@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8019,
+    "interlocutors": [
+        "BA",
+        "CK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-04T20:18:26.526000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CK",
+            "text": "こんばんは",
+            "timestamp": "2022-08-04T20:18:33.016000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BA",
+            "text": "国内旅行他に行きたいところはありますか？",
+            "timestamp": "2022-08-04T20:18:44.679000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CK",
+            "text": "和歌山とか、あまり知らない所行ってみたいですね",
+            "timestamp": "2022-08-04T20:19:06.994000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BA",
+            "text": "和歌山！",
+            "timestamp": "2022-08-04T20:19:18.320000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CK",
+            "text": "知らなすぎて行ってみたいですね",
+            "timestamp": "2022-08-04T20:19:34.267000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BA",
+            "text": "たしかに、私も行ったことないです。",
+            "timestamp": "2022-08-04T20:19:40.230000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CK",
+            "text": "あなたはどこに行きたいですか？",
+            "timestamp": "2022-08-04T20:19:49.727000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BA",
+            "text": "福岡とかご飯がおいしそうです",
+            "timestamp": "2022-08-04T20:20:01.114000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CK",
+            "text": "屋台ですか！",
+            "timestamp": "2022-08-04T20:20:07.062000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BA",
+            "text": "屋台が有名なんですか？もつ焼きを想像してました",
+            "timestamp": "2022-08-04T20:20:26.084000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CK",
+            "text": "え？福岡じゃなかったかしら。。",
+            "timestamp": "2022-08-04T20:20:40.888000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BA",
+            "text": "わからないです",
+            "timestamp": "2022-08-04T20:20:52.357000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CK",
+            "text": "あとは明太子",
+            "timestamp": "2022-08-04T20:20:58.033000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BA",
+            "text": "明太子いいですねーー",
+            "timestamp": "2022-08-04T20:21:05.377000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CK",
+            "text": "美味しいですねー",
+            "timestamp": "2022-08-04T20:21:10.160000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BA",
+            "text": "美味しいですね！おなかすいてきました",
+            "timestamp": "2022-08-04T20:21:24.486000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CK",
+            "text": "東京はそれこそ沢山選択肢ありますね",
+            "timestamp": "2022-08-04T20:21:35.059000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BA",
+            "text": "たしかに、わざわざ行かなくても大体食べれますね",
+            "timestamp": "2022-08-04T20:21:51.741000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CK",
+            "text": "私はベジタリアンに興味あるんですよ",
+            "timestamp": "2022-08-04T20:22:03.233000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BA",
+            "text": "そうなんですね！もう実践してますか？",
+            "timestamp": "2022-08-04T20:22:17.882000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CK",
+            "text": "まだ。食べるお肉を少しにしてますが",
+            "timestamp": "2022-08-04T20:22:29.919000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BA",
+            "text": "すごいですね！",
+            "timestamp": "2022-08-04T20:22:40.074000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CK",
+            "text": "東京には沢山対応してるお店ありそうで",
+            "timestamp": "2022-08-04T20:22:51.782000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BA",
+            "text": "たしかにありそう。魚はありですか？",
+            "timestamp": "2022-08-04T20:23:02.447000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CK",
+            "text": "いずれなしですね",
+            "timestamp": "2022-08-04T20:23:19.840000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BA",
+            "text": "乳製品とかは？",
+            "timestamp": "2022-08-04T20:23:23.083000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CK",
+            "text": "迷いますね",
+            "timestamp": "2022-08-04T20:23:33.129000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BA",
+            "text": "ですよね、、",
+            "timestamp": "2022-08-04T20:23:40.829000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CK",
+            "text": "アーモンドミルクは実践してます",
+            "timestamp": "2022-08-04T20:23:51.643000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

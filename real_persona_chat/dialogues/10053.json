@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10053,
+    "interlocutors": [
+        "BV",
+        "DU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-10T20:56:17.756000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DU",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-10T20:56:30.228000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "毎日暑いですね。",
+            "timestamp": "2022-08-10T20:56:35.470000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DU",
+            "text": "毎年言ってる気がしますけど、年々暑くなりますね。",
+            "timestamp": "2022-08-10T20:56:51.528000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "そうですね。寝苦しくて辛いです。",
+            "timestamp": "2022-08-10T20:57:06.345000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DU",
+            "text": "夜はエアコン付けて寝ないのですか？",
+            "timestamp": "2022-08-10T20:57:18.449000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "我が家は扇風機です！",
+            "timestamp": "2022-08-10T20:57:31.085000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DU",
+            "text": "え？昼間はエアコンですよね？",
+            "timestamp": "2022-08-10T20:57:42.952000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "今エアコンないんですよー。",
+            "timestamp": "2022-08-10T20:58:00.438000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DU",
+            "text": "そうなんですか。涼しい地方にお住まいですか？",
+            "timestamp": "2022-08-10T20:58:16.461000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "いやぁそこまで涼しくはないんですが、引っ越したばかりでして。",
+            "timestamp": "2022-08-10T20:58:43.721000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DU",
+            "text": "そうなんですね。それはしんどそうです。",
+            "timestamp": "2022-08-10T20:59:04.150000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "夜中何度も目が覚めちゃいます。",
+            "timestamp": "2022-08-10T20:59:22.622000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DU",
+            "text": "そうだと思います。冷えすぎ防止でエアコンタイマーしてたけど起きてしまうから最近はやめました。",
+            "timestamp": "2022-08-10T20:59:53.954000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "タイマー止まると起きちゃいますよね！",
+            "timestamp": "2022-08-10T21:00:09.495000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DU",
+            "text": "アイス枕とかいいみたいですよ。",
+            "timestamp": "2022-08-10T21:00:29.500000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "おお。それは気持ちよさそう。",
+            "timestamp": "2022-08-10T21:00:42.990000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DU",
+            "text": "昼間はお仕事されてるんですか？",
+            "timestamp": "2022-08-10T21:01:04.339000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "今は午前中だけ仕事に行ってます！",
+            "timestamp": "2022-08-10T21:01:19.358000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DU",
+            "text": "それだと午後が地獄ではないですか？",
+            "timestamp": "2022-08-10T21:01:33.624000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "家に帰って扇風機で頑張ってます！",
+            "timestamp": "2022-08-10T21:01:54.432000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DU",
+            "text": "すごい。尊敬します。熱中症が心配です。",
+            "timestamp": "2022-08-10T21:02:13.255000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "仕事もオフィスではなくて外仕事なので昼間はできないんです。",
+            "timestamp": "2022-08-10T21:02:42.040000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DU",
+            "text": "なるほど。職場で涼むわけにもいかないわけですね。",
+            "timestamp": "2022-08-10T21:03:07.633000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "そうなんですよ。昼間は暑くて逆に倒れちゃいます。",
+            "timestamp": "2022-08-10T21:03:26.555000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DU",
+            "text": "確かに。ちびっこですら公園は行かなくていいっていうそうですよ。",
+            "timestamp": "2022-08-10T21:03:49.252000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "昼間は本当暑いですからね。体がもたないです。",
+            "timestamp": "2022-08-10T21:04:12.976000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DU",
+            "text": "くれぐれも倒れないようにしてくださいね。",
+            "timestamp": "2022-08-10T21:04:27.256000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "ありがとう。あなたも体には気をつけて。",
+            "timestamp": "2022-08-10T21:04:46.926000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DU",
+            "text": "はい。ありがとうございました。",
+            "timestamp": "2022-08-10T21:04:57.251000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

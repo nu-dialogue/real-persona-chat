@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12176,
+    "interlocutors": [
+        "CR",
+        "FM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T14:48:48.592000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FM",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T14:52:38.879000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "そちらの天気はいかがですか",
+            "timestamp": "2022-09-05T14:52:53.498000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FM",
+            "text": "こちらは快晴ですね",
+            "timestamp": "2022-09-05T14:53:10.070000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "湿度はどうですか",
+            "timestamp": "2022-09-05T14:53:22.068000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FM",
+            "text": "温度ですか32度くらいで夏終わりという感じかと",
+            "timestamp": "2022-09-05T14:53:40.787000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "今年の夏も暑かったですね",
+            "timestamp": "2022-09-05T14:53:55.602000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FM",
+            "text": "本当に暑かったですね汗が辛かった",
+            "timestamp": "2022-09-05T14:54:09.235000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "夏は好きですか",
+            "timestamp": "2022-09-05T14:54:21.798000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FM",
+            "text": "夏はそこまでですね",
+            "timestamp": "2022-09-05T14:55:53.896000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "私もムシムシするのが苦手です",
+            "timestamp": "2022-09-05T14:56:23.925000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FM",
+            "text": "凄くわかりますだから自分は冬のほうが好きですね",
+            "timestamp": "2022-09-05T14:57:58.261000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "寒さには強い方ですか",
+            "timestamp": "2022-09-05T14:58:07.952000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FM",
+            "text": "寒さには強いというか上に着ればいいという考えでして",
+            "timestamp": "2022-09-05T14:58:30.109000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "ですよね。夏はクーラー頼りです",
+            "timestamp": "2022-09-05T14:58:44.471000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FM",
+            "text": "わかります、ただ自分の部屋にクーラーがなくてこれが辛い",
+            "timestamp": "2022-09-05T14:59:02.572000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "わー、それは辛いですね。扇風機は？",
+            "timestamp": "2022-09-05T14:59:21.190000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FM",
+            "text": "扇風機はあるのですがどうにも熱風が",
+            "timestamp": "2022-09-05T14:59:42.511000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "確かに熱風浴びますね",
+            "timestamp": "2022-09-05T14:59:56.474000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FM",
+            "text": "それだからどうにも涼んだ気がしないもので",
+            "timestamp": "2022-09-05T15:00:11.068000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "水浴びるとか",
+            "timestamp": "2022-09-05T15:00:20.361000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FM",
+            "text": "確かに風呂で冷たい水を浴びたりしますね",
+            "timestamp": "2022-09-05T15:00:43.605000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "夜は寝れてますか？",
+            "timestamp": "2022-09-05T15:00:50.975000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FM",
+            "text": "8月最初は寝つきが酷かったですよ",
+            "timestamp": "2022-09-05T15:01:09.742000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "今は寝れてきましたか",
+            "timestamp": "2022-09-05T15:01:29.055000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FM",
+            "text": "今は涼しくなってきたおかげで少しは寝れるように",
+            "timestamp": "2022-09-05T15:01:45.179000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "少し暑さが和らぎましたかね",
+            "timestamp": "2022-09-05T15:02:15.056000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FM",
+            "text": "そうですね台風のおかげと言いますか",
+            "timestamp": "2022-09-05T15:02:29.613000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "台風来てますものね",
+            "timestamp": "2022-09-05T15:02:44.572000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FM",
+            "text": "ただ突然の雨が辛い",
+            "timestamp": "2022-09-05T15:03:17.677000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FM",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 4
+        }
+    ]
+}

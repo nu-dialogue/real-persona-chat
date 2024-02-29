@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8496,
+    "interlocutors": [
+        "CA",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-05T20:01:12.560000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-05T20:01:25.703000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-05T20:01:52.230000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "今週末は何か予定が入っているのですか？",
+            "timestamp": "2022-08-05T20:02:25.309000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "アルバイトが入っていて、日中は外で作業の予定なんです。<CT>さんはどこかに行かれますか？",
+            "timestamp": "2022-08-05T20:03:47.677000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "私は自営業なので、家で仕事をしたり、子どもの世話をする予定です。",
+            "timestamp": "2022-08-05T20:04:18.606000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "お子さんおいくつですか？",
+            "timestamp": "2022-08-05T20:04:36.006000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "今、中学1年生です。女の子ですよ。",
+            "timestamp": "2022-08-05T20:04:58.815000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "大きいお子さんがいらっしゃるんですね",
+            "timestamp": "2022-08-05T20:05:42.658000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "いつの間にか大きくなっちゃいました。あっという間です。",
+            "timestamp": "2022-08-05T20:06:03.974000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "もう夏休みに入られてますか？",
+            "timestamp": "2022-08-05T20:06:51.276000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "はい。夏休み中は家でぐーたらしています。",
+            "timestamp": "2022-08-05T20:07:10.700000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "中学生の夏休み、懐かしいです",
+            "timestamp": "2022-08-05T20:07:37.479000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "コロナが流行っているので、部活もお休みです。<CA>さんは部活に入っていましたか？",
+            "timestamp": "2022-08-05T20:08:14.539000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "今の中学生はコロナに影響されて大変ですよね。私は卓球部に入ってました。<CT>さんは？",
+            "timestamp": "2022-08-05T20:08:58.491000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "奇遇ですね！私も中学校は卓球部でした！",
+            "timestamp": "2022-08-05T20:09:25.284000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "わあ！うれしいです！お仲間が！！ラケットどっちでした？",
+            "timestamp": "2022-08-05T20:09:52.376000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "私は、日式のペンホルダーでしたね。ちょっと言い方が古いですが",
+            "timestamp": "2022-08-05T20:10:25.236000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "部活内でも半々ぐらいでした。久しぶりに打ちたいですー",
+            "timestamp": "2022-08-05T20:12:13.083000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "卓球面白いですよね。私も打ちたくなってきた",
+            "timestamp": "2022-08-05T20:12:40.868000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "なかなか卒業するとやる機会がないですよね",
+            "timestamp": "2022-08-05T20:12:58.824000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "今は、Youtubeとかでいろいろ情報があるのでうらやましいなあと思います。昔は本ぐらいだったので",
+            "timestamp": "2022-08-05T20:13:40.025000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "確かにそうですね！私の時も同じでした！",
+            "timestamp": "2022-08-05T20:14:15.171000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "卓球のおもしろ動画とかも、けっこうおもしろいですよ！",
+            "timestamp": "2022-08-05T20:14:46.688000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "そんなのあるんですか！？",
+            "timestamp": "2022-08-05T20:15:00.378000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "卓球芸人とかだったかな？ちょっと記憶があいまいですが",
+            "timestamp": "2022-08-05T20:15:22.996000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "今検索にかけたら、卓球芸人て人が出てきました！",
+            "timestamp": "2022-08-05T20:16:10.283000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "多分その人です。面白いですが、とっても上手です。",
+            "timestamp": "2022-08-05T20:16:42.082000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "メモして私も見て見ます！教えてくださってありがとうございます！またお話ししましょう。",
+            "timestamp": "2022-08-05T20:17:15.979000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "役にたったのならうれしいです。ではまた！",
+            "timestamp": "2022-08-05T20:17:34.164000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

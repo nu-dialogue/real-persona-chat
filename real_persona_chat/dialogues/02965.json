@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2965,
+    "interlocutors": [
+        "DA",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-25T12:53:04.297000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T12:53:09.586000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DA",
+            "text": "ペットは飼っていますか？",
+            "timestamp": "2022-08-25T12:53:25.254000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "犬を飼ってます",
+            "timestamp": "2022-08-25T12:53:32.702000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DA",
+            "text": "いいですね！何年くらい飼っていますか？",
+            "timestamp": "2022-08-25T12:53:57.473000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "13年です",
+            "timestamp": "2022-08-25T12:54:04.377000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DA",
+            "text": "長いですね！小さいころから一緒って感じですか？",
+            "timestamp": "2022-08-25T12:54:25.385000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "ずっと一緒です！犬は好きですか？",
+            "timestamp": "2022-08-25T12:54:46.971000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DA",
+            "text": "大好きですよ！おばあちゃんちにいるのでたまに会います",
+            "timestamp": "2022-08-25T12:55:14.369000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "何犬ですか？",
+            "timestamp": "2022-08-25T12:55:25.439000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DA",
+            "text": "パピヨンです！怖がりでかわいいです笑",
+            "timestamp": "2022-08-25T12:55:56.309000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "毛がフワフワの犬ですよね！守りたくなりますね",
+            "timestamp": "2022-08-25T12:56:14.741000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DA",
+            "text": "そうです！毛の色きれいでかわいいです、どの犬種を飼っていますか？",
+            "timestamp": "2022-08-25T12:56:59.047000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "毛は白と黒ですか？ミニチュアダックスフンドです",
+            "timestamp": "2022-08-25T12:57:23.992000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DA",
+            "text": "かわいいですね！トイストーリーの犬種ですよね？？",
+            "timestamp": "2022-08-25T12:57:47.774000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "そうです！胴長短足ちゃんです",
+            "timestamp": "2022-08-25T12:58:00.672000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DA",
+            "text": "かわいい！パピヨンは茶色も入ってます！",
+            "timestamp": "2022-08-25T12:58:28.037000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "茶色はどこに入っているんですか？",
+            "timestamp": "2022-08-25T12:58:45.812000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DA",
+            "text": "顔に多いです！おばあちゃんなので、毛の色も変わってきた気がします",
+            "timestamp": "2022-08-25T12:59:29.841000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "そうなんですね！何歳ですか？",
+            "timestamp": "2022-08-25T13:00:03.716000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DA",
+            "text": "多分13年とかです、同じくらいです。もっと会いたいです、、、",
+            "timestamp": "2022-08-25T13:00:29.811000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "同じくらいですね！小型犬が好きですか？",
+            "timestamp": "2022-08-25T13:00:46.129000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DA",
+            "text": "小型犬好きです！憧れがあるのは大型犬ですが笑",
+            "timestamp": "2022-08-25T13:01:16.935000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "飼いたい犬種とかありますか？",
+            "timestamp": "2022-08-25T13:01:41.384000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DA",
+            "text": "ハスキーとゴールデンレトリバーにあこがれがすごいですね、、",
+            "timestamp": "2022-08-25T13:02:25.405000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "私もゴールデンすごく飼いたいです",
+            "timestamp": "2022-08-25T13:02:37.033000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DA",
+            "text": "かわいいですよね、動画もよく見ます",
+            "timestamp": "2022-08-25T13:03:09.024000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "かっこいい犬もかわいい犬も好きなんですね",
+            "timestamp": "2022-08-25T13:03:21.382000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DA",
+            "text": "そうなんですよね、犬最高です",
+            "timestamp": "2022-08-25T13:03:34.045000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "犬最高です",
+            "timestamp": "2022-08-25T13:03:39.964000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

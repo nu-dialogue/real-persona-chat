@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3042,
+    "interlocutors": [
+        "AR",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "こんにちは、よろしくお願いいたします。",
+            "timestamp": "2022-08-25T13:39:42.464000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-25T13:39:50.024000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "お昼何食べましたか？",
+            "timestamp": "2022-08-25T13:39:57.704000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "今日はお弁当を食べました。",
+            "timestamp": "2022-08-25T13:40:06.328000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "手作りということですか。",
+            "timestamp": "2022-08-25T13:40:35.521000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "はい。いつも同じですが、おにぎりとサラダ、スープ、冷凍ミカンです。",
+            "timestamp": "2022-08-25T13:40:52.754000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "お弁当ということはお仕事もされているのですか。",
+            "timestamp": "2022-08-25T13:41:09.568000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "はい。仕事の日はお弁当にしています。",
+            "timestamp": "2022-08-25T13:41:21.866000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "私は家族にはお弁当を詰めますが、自分は全部のっけ弁、言い換えればのり弁です。",
+            "timestamp": "2022-08-25T13:42:14.479000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "おいしそうですね。毎朝たくさんお弁当を作られるのですか？",
+            "timestamp": "2022-08-25T13:42:35.327000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "主人だけの日は、おにぎりの日もありますが、子供が夏休みなのでこの時期は毎日お弁当です。",
+            "timestamp": "2022-08-25T13:43:11.369000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "大変ですね。お子様は夏が終わると給食があるのですか？",
+            "timestamp": "2022-08-25T13:43:31.466000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "はい、でも週３回なので、いつも、あれ？今日何曜日？お弁当？って慌てますけどね。",
+            "timestamp": "2022-08-25T13:44:00.312000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。週5日にしてくれたらよいと思うのですがなぜなんでしょうね？",
+            "timestamp": "2022-08-25T13:44:23.422000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "ママの愛情を感じる教育でしょうかね。",
+            "timestamp": "2022-08-25T13:44:56.396000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "そうですか。それも大事ですよね。私には到底無理だったと思うのですが。",
+            "timestamp": "2022-08-25T13:45:18.176000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "お料理が得意ではなかったということですか？",
+            "timestamp": "2022-08-25T13:45:47.484000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "働いていたということもありますが、あまり料理は好きではなかったです。",
+            "timestamp": "2022-08-25T13:46:10.843000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "でも子供はおにぎりが一番嬉しいかもしれませんよ。現に私はおばあちゃんが作る爆弾おにぎりが好きでした。具も３種類入っていて。",
+            "timestamp": "2022-08-25T13:47:02.558000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "すごい！それはどんな具が入っていたのですか。素敵ですね。",
+            "timestamp": "2022-08-25T13:47:24.778000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "うめたらこんぶ（梅たらこ昆布）が定番で、たまにミートボールやウインナー、コロッケが仕込んであることも。何が出てくるか楽しみもありました。",
+            "timestamp": "2022-08-25T13:48:19.337000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "わあ、面白いですね。そんなおにぎりだと毎日楽しみですね。",
+            "timestamp": "2022-08-25T13:48:48.921000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "塩辛が出てきた時は参りましたけどね。今思えば良い思い出です。",
+            "timestamp": "2022-08-25T13:49:29.430000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "うちは息子2人ですが、そんなおにぎりだったらすごく喜びそうです！",
+            "timestamp": "2022-08-25T13:49:54.736000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "男の子は逆におにぎりが一番かも。主人も子供もおにぎりのリクエストが多いです。やはり日本のソウルフードなのでしょう。",
+            "timestamp": "2022-08-25T13:51:22.808000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "そうですね！私はいつも同じ大きいはちみつ梅を入れてふりかけをかけています。",
+            "timestamp": "2022-08-25T13:51:51.184000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "ふりかけってホントに便利ですよね。おかずいらない。",
+            "timestamp": "2022-08-25T13:52:30.149000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "ほんとですね。下宿している息子も同じこと言っています。",
+            "timestamp": "2022-08-25T13:52:51.088000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "朝は時間ないのでふりかけで済ますこともしばしばです。",
+            "timestamp": "2022-08-25T13:53:32.694000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "それにお味噌汁があればパーフェクトですよね。",
+            "timestamp": "2022-08-25T13:53:49.935000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4305,
+    "interlocutors": [
+        "EV",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-10T14:30:11.307000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-10T14:30:18.679000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "趣味などあれば教えていただきたいです",
+            "timestamp": "2022-09-10T14:30:23.744000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "音楽聞くのと麻雀ですね",
+            "timestamp": "2022-09-10T14:30:36.994000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "なるほど、麻雀って難しくないですか？",
+            "timestamp": "2022-09-10T14:30:52.687000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "最初は難しかったですね！",
+            "timestamp": "2022-09-10T14:31:05.961000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。牌の組み合わせとか覚えるの難しそうです",
+            "timestamp": "2022-09-10T14:31:27.019000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "頑張ってルール覚えてからめっちゃ面白いですよー",
+            "timestamp": "2022-09-10T14:31:40.916000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "確かに、駆け引きみたいな要素ありますよね",
+            "timestamp": "2022-09-10T14:31:53.693000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "それがすごい面白いんですよね！ずっとやっちゃしますね",
+            "timestamp": "2022-09-10T14:32:16.137000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "少人数でもできますし",
+            "timestamp": "2022-09-10T14:32:26.664000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "ですね！最近はスマホでできるので楽ですね",
+            "timestamp": "2022-09-10T14:32:42.079000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。昔は対面でやっていたでしょうし",
+            "timestamp": "2022-09-10T14:32:59.173000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "今はコロナもありますしどんどんオンラインになってますよね",
+            "timestamp": "2022-09-10T14:33:14.962000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "そのようですね。一長一短だと思いますが",
+            "timestamp": "2022-09-10T14:33:27.438000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "なんかテーブルゲームとかやったことありますか？",
+            "timestamp": "2022-09-10T14:33:47.696000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "コードネームというゲームならあります",
+            "timestamp": "2022-09-10T14:34:04.290000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "知らんですね、、どんなルールですか？",
+            "timestamp": "2022-09-10T14:34:15.776000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "連想ゲームみたいな感じですね。1ワード提示してそれとリンクするカードをめくるみたいな",
+            "timestamp": "2022-09-10T14:34:45.519000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "めっちゃ面白そうです！",
+            "timestamp": "2022-09-10T14:34:58.188000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "はい、オンラインでできますよ",
+            "timestamp": "2022-09-10T14:35:06.351000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "何人くらいですかね？",
+            "timestamp": "2022-09-10T14:35:14.688000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "最小4人ですね。2チーム制です",
+            "timestamp": "2022-09-10T14:35:37.070000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "じゃあ２人いればできる感じですか？",
+            "timestamp": "2022-09-10T14:35:53.761000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "各チーム2人いればプレイできます。身内で四人必要ですね",
+            "timestamp": "2022-09-10T14:36:21.911000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "相手チームも身内で決めなきゃなんですね",
+            "timestamp": "2022-09-10T14:36:44.995000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "そうですね。マッチングするタイプではないので",
+            "timestamp": "2022-09-10T14:36:57.979000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "ひつようなどうぐとかありますか？",
+            "timestamp": "2022-09-10T14:37:45.201000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "PCがあればできますよ。ボイスチャットがあればなおよしですが",
+            "timestamp": "2022-09-10T14:37:47.923000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "こんどためしてみますね！",
+            "timestamp": "2022-09-10T14:37:52.187000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

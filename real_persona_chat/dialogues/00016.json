@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 16,
+    "interlocutors": [
+        "AC",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-06T17:00:30.878000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "おねがいします！",
+            "timestamp": "2022-08-06T17:00:36.483000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "最近、遊園地とか行きましたか？",
+            "timestamp": "2022-08-06T17:00:49.829000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "とんと言ってないです！行かれました？",
+            "timestamp": "2022-08-06T17:01:05.787000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "私も全然ー。ディズニーランドとか観光地っぽいところに行きたいー。",
+            "timestamp": "2022-08-06T17:01:23.098000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "行きたいですねえー。コロナの時、ディズニーすいてるって言ってました",
+            "timestamp": "2022-08-06T17:01:53.241000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "そうなんですね！むしろ狙い目！",
+            "timestamp": "2022-08-06T17:02:03.714000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "らしいです予約制の時。今はもうそんなことないらしいんですけど",
+            "timestamp": "2022-08-06T17:02:21.671000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "あー、予約制のときがあったんですねー。",
+            "timestamp": "2022-08-06T17:02:34.925000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "らしいんですよ。その時はガラガラだったって聞きました",
+            "timestamp": "2022-08-06T17:02:56.092000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "ガラガラのディズニーなんて、想像つかないです！",
+            "timestamp": "2022-08-06T17:03:11.040000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "ね、そうですよね！いつも2時間待ちとかだったので行きたかったですよ！",
+            "timestamp": "2022-08-06T17:03:30.389000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "ですよね！並ばずに乗れたら、密度濃い1日になりそう。",
+            "timestamp": "2022-08-06T17:03:48.907000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "ですよねえ！ちなみに、ランドとシー、どっち派ですか？",
+            "timestamp": "2022-08-06T17:04:07.850000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "実はシーには行ったこと無いんですよー。",
+            "timestamp": "2022-08-06T17:04:20.749000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "あれ、そうなんですか？",
+            "timestamp": "2022-08-06T17:04:33.165000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "前、すぐ近くに住んでて、毎晩ディズニーだかシーだかの花火に辟易してて。",
+            "timestamp": "2022-08-06T17:04:55.563000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "ああ、なるほど、、、。舞浜の近くだったんですねいいなあ",
+            "timestamp": "2022-08-06T17:05:12.728000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "いざ近いと足が遠のきます。離れてみると、行きたい気分がメキメキと。",
+            "timestamp": "2022-08-06T17:05:31.343000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "ああ、いいますよね。地元民ほど行かないという。",
+            "timestamp": "2022-08-06T17:05:47.114000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "そうそう、そうなんです。だから東京タワーも行ったこと無い。",
+            "timestamp": "2022-08-06T17:06:00.135000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "おやあ。ちなみに今はどちらに住んでいらっしゃるんですか？",
+            "timestamp": "2022-08-06T17:06:19.768000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "今は九州の西の果てです！",
+            "timestamp": "2022-08-06T17:06:31.373000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "いきなりはなれましたね？",
+            "timestamp": "2022-08-06T17:06:39.228000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "ですー！離れたら、富士山が恋しくて恋しくて。",
+            "timestamp": "2022-08-06T17:06:51.658000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "鹿児島とかですか？",
+            "timestamp": "2022-08-06T17:07:02.229000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "そっちの方です。桜島は近くないですが！",
+            "timestamp": "2022-08-06T17:07:14.449000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "アラー！私10月に行きますよ鹿児島！",
+            "timestamp": "2022-08-06T17:07:27.873000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "わあ、楽しんで行ってくださいね！鹿児島は食べ物も美味しいですよ！",
+            "timestamp": "2022-08-06T17:07:55.729000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "え、気になります！ありがとうございました！",
+            "timestamp": "2022-08-06T17:08:05.224000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

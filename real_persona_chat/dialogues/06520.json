@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6520,
+    "interlocutors": [
+        "GT",
+        "CU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんにちは",
+            "timestamp": "2022-10-05T13:37:00.656000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CU",
+            "text": "こんにちは",
+            "timestamp": "2022-10-05T13:37:19.296000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "週末何をしますか？",
+            "timestamp": "2022-10-05T13:37:25.373000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CU",
+            "text": "外食が好きなので、どこかしら出かけているかもです。",
+            "timestamp": "2022-10-05T13:38:17.693000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "私も毎週いっています。",
+            "timestamp": "2022-10-05T13:38:27.958000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CU",
+            "text": "そうなんですね！何がお好きですか？",
+            "timestamp": "2022-10-05T13:38:46.389000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "ラーメンとか多いですね。",
+            "timestamp": "2022-10-05T13:38:51.760000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CU",
+            "text": "我が家もです！主人がすごくラーメン好きで。",
+            "timestamp": "2022-10-05T13:39:12.172000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "おなじです！その影響でめっちゃ行くようになりました。",
+            "timestamp": "2022-10-05T13:39:22.590000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CU",
+            "text": "美味しいラーメン屋さん、けっこうたうさんありますよね！",
+            "timestamp": "2022-10-05T13:40:15.758000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "そうなんですよ、人気店はこんでたりしますが",
+            "timestamp": "2022-10-05T13:40:29.269000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CU",
+            "text": "そうですね。十数組待ちだと、ちょっと躊躇します。",
+            "timestamp": "2022-10-05T13:40:56.376000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "おなかすいているときにつらいですよね。",
+            "timestamp": "2022-10-05T13:41:06.380000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CU",
+            "text": "そうなんですよ。そういう時は別の候補に向かう時もあります。",
+            "timestamp": "2022-10-05T13:41:45.044000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "ありますね。ラーメン店ってせまくて進み遅かったりするので。",
+            "timestamp": "2022-10-05T13:41:59.626000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CU",
+            "text": "そうですよね。でも、もうラーメンの口になっちゃってるんですよね。",
+            "timestamp": "2022-10-05T13:42:57.294000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "そういうときは並んだりしますがやっぱりきついです。",
+            "timestamp": "2022-10-05T13:43:13.869000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CU",
+            "text": "ですね。ラーメンのほかは何の店によく行きますか？",
+            "timestamp": "2022-10-05T13:44:04.053000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "オールジャンルですね。あなたは？",
+            "timestamp": "2022-10-05T13:44:11.052000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CU",
+            "text": "パスタ屋さんや中華が好きですね。",
+            "timestamp": "2022-10-05T13:44:32.997000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "中華たまに行きます！がっつり食べれていいですよね。",
+            "timestamp": "2022-10-05T13:44:57.407000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CU",
+            "text": "ですね。満足感が大きいですよね。",
+            "timestamp": "2022-10-05T13:45:32.841000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "主人がいると量も大事ですよね。",
+            "timestamp": "2022-10-05T13:45:45.382000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CU",
+            "text": "たしかに。あれもこれも頼みたがって困ります。",
+            "timestamp": "2022-10-05T13:46:13.391000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "カフェランチとかだと少なかったりでなかなか行けなかったり。",
+            "timestamp": "2022-10-05T13:46:35.121000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CU",
+            "text": "分かります。たまにはオシャレなカフェでランチしたいんですけどね。",
+            "timestamp": "2022-10-05T13:47:14.685000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "いいですよね、雰囲気もあって。",
+            "timestamp": "2022-10-05T13:47:26.761000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CU",
+            "text": "ですね。ドリンクも楽しめますしね。",
+            "timestamp": "2022-10-05T13:47:58.870000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "何かゆったりできる感じがありますよね。",
+            "timestamp": "2022-10-05T13:48:09.663000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CU",
+            "text": "あー、カフェに行きたくなってきました。",
+            "timestamp": "2022-10-05T13:48:26.091000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1009,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-11T17:43:10.186000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-08-11T17:43:18.585000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "一人暮らしですか？",
+            "timestamp": "2022-08-11T17:44:07.110000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "実家暮らしです。あなたは？",
+            "timestamp": "2022-08-11T17:44:14.549000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "私は最近一人暮らしを始めました",
+            "timestamp": "2022-08-11T17:44:29.307000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "いいですね！一人暮らしどうですか？",
+            "timestamp": "2022-08-11T17:44:47.973000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "一人は最高ですよ！自由で",
+            "timestamp": "2022-08-11T17:45:01.654000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "誰にも文句言われないですもんね",
+            "timestamp": "2022-08-11T17:45:12.777000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "それが恋人が結構、母親みたいな感じになっています",
+            "timestamp": "2022-08-11T17:45:42.215000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "そうなんですか？",
+            "timestamp": "2022-08-11T17:45:53.675000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "勝手に整理整頓されていたりして、どこに何があるかわからなくなりました",
+            "timestamp": "2022-08-11T17:46:24.093000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "善意なんでしょうけど、無断はやめてほしいですね",
+            "timestamp": "2022-08-11T17:46:43.372000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "そうなんです、有難迷惑というか、、、。本人には言えないですが。",
+            "timestamp": "2022-08-11T17:47:06.666000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "私もありますよ、母親に勝手に片づけられたり捨てられたり。",
+            "timestamp": "2022-08-11T17:47:31.732000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "大人になったらやめてほしいですよね。",
+            "timestamp": "2022-08-11T17:47:43.733000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "そうですね、片付けならまだしも捨てられるので。",
+            "timestamp": "2022-08-11T17:48:13.403000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "大喧嘩になりそうですね",
+            "timestamp": "2022-08-11T17:48:31.228000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "もうあきらめてます。昔大喧嘩したのに変わらないので",
+            "timestamp": "2022-08-11T17:49:00.969000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "一人暮らしはしないんですか？",
+            "timestamp": "2022-08-11T17:49:16.266000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "今引っ越し費用をためてます。猫もいるのでなかなか難しいです。",
+            "timestamp": "2022-08-11T17:49:54.406000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "ペット可だと敷金2か月分とられたりしますもんね",
+            "timestamp": "2022-08-11T17:50:15.848000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよね。",
+            "timestamp": "2022-08-11T17:50:54.190000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "私も死ぬまで犬か猫は飼いたいと思っているので、いっそ家を買おうか悩んでます",
+            "timestamp": "2022-08-11T17:51:24.748000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "大きな買い物ですね！",
+            "timestamp": "2022-08-11T17:51:35.261000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "まだ現実的には考えてないですが、貯金ははじめてます",
+            "timestamp": "2022-08-11T17:51:57.133000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "お仕事がんばらないとですね",
+            "timestamp": "2022-08-11T17:52:08.134000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "そうですねー",
+            "timestamp": "2022-08-11T17:52:16.434000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "ではそろそろ失礼しますね",
+            "timestamp": "2022-08-11T17:52:28.192000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい、お疲れ様でした",
+            "timestamp": "2022-08-11T17:52:40.107000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございました",
+            "timestamp": "2022-08-11T17:52:48.547000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

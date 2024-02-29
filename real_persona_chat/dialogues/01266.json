@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1266,
+    "interlocutors": [
+        "CO",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんにちは",
+            "timestamp": "2022-08-13T14:07:39.788000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-13T14:07:56.757000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "ひるごはんはたべました？",
+            "timestamp": "2022-08-13T14:08:21.399000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "はい、豚しゃぶを食べました。",
+            "timestamp": "2022-08-13T14:08:31.657000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "いいですね。夏っぽくて",
+            "timestamp": "2022-08-13T14:08:54.437000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "少しラー油を足して辛味をつけました。",
+            "timestamp": "2022-08-13T14:09:09.337000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "料理はされますか？",
+            "timestamp": "2022-08-13T14:09:28.431000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "簡単に焼いたり茹でたり程度ですね。",
+            "timestamp": "2022-08-13T14:09:44.458000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "得意な料理はありますか？",
+            "timestamp": "2022-08-13T14:10:13.100000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "得意料理ってほど料理はしないです。",
+            "timestamp": "2022-08-13T14:10:31.591000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "そうですか、外食はよくされますか？",
+            "timestamp": "2022-08-13T14:10:54.529000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "最近はしないですね。買って食べます。",
+            "timestamp": "2022-08-13T14:11:16.416000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "そうですか、出前とかはどうですか？",
+            "timestamp": "2022-08-13T14:11:59.308000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "前はたまに頼みましたが、高くついてしまうので最近はほとんど利用してません。",
+            "timestamp": "2022-08-13T14:12:21.688000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "そうですか、確かに配達料がいる分高くなりますね",
+            "timestamp": "2022-08-13T14:12:51.449000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "そうなんです。配送料無料にするためにたくさん買うと結局高くついてしまって。",
+            "timestamp": "2022-08-13T14:13:14.716000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "私も最近はしませんがウーバーよく頼んでました",
+            "timestamp": "2022-08-13T14:13:49.443000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "コンビニのものとか買えるので便利ですけどね。",
+            "timestamp": "2022-08-13T14:14:15.839000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "いいですね。少なくても注文出来たらいいですね",
+            "timestamp": "2022-08-13T14:15:08.897000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "そうですね、ただそれをするとお店やウーバーが儲からなくなるでしょうね。",
+            "timestamp": "2022-08-13T14:15:30.285000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "そうですね。あっちも仕事ですもんね",
+            "timestamp": "2022-08-13T14:15:59.038000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "それならコンビニやスーパーに買い物行った方が安くなるかなって感じです。",
+            "timestamp": "2022-08-13T14:16:19.238000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "確かにそうですね",
+            "timestamp": "2022-08-13T14:17:23.365000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "そちらはお昼何食べましたか？",
+            "timestamp": "2022-08-13T14:17:46.080000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "餃子とチャーハンです",
+            "timestamp": "2022-08-13T14:17:55.410000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "お店で食べられたんですか？",
+            "timestamp": "2022-08-13T14:18:16.287000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "いえ、家で作りました",
+            "timestamp": "2022-08-13T14:18:25.317000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "ご自分で作られたんですね！すごいです！",
+            "timestamp": "2022-08-13T14:18:36.647000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "餃子は冷凍のです",
+            "timestamp": "2022-08-13T14:18:48.229000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "なるほど、冷凍のも美味しいですものね。",
+            "timestamp": "2022-08-13T14:19:00.186000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 1,
+            "proactiveness": 2,
+            "satisfaction": 4
+        }
+    ]
+}

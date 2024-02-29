@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13826,
+    "interlocutors": [
+        "AD",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-02T17:03:20.437000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-02T17:04:01.326000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日は何を食べましたか？",
+            "timestamp": "2022-10-02T17:04:13.374000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "ファミレスでリゾットをたべてきました。",
+            "timestamp": "2022-10-02T17:04:33.566000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "リゾットの具はどんなのが入ってましたか？",
+            "timestamp": "2022-10-02T17:04:49.403000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "きのこでした",
+            "timestamp": "2022-10-02T17:04:55.763000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "秋の食べ物ですね。他には注文されなかったのですか？",
+            "timestamp": "2022-10-02T17:05:09.401000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "ピザをたべました",
+            "timestamp": "2022-10-02T17:05:31.943000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "何のピザですか？",
+            "timestamp": "2022-10-02T17:05:19.930000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "アラビアータです",
+            "timestamp": "2022-10-02T17:05:41.696000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "アラビアータのピザがあるのですね、初めて聞きました",
+            "timestamp": "2022-10-02T17:05:58.382000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "ぴりっとしておいしいですよ",
+            "timestamp": "2022-10-02T17:06:10.574000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "今度見かけたら食べてみようと思います。デザートとかは食べましたか？",
+            "timestamp": "2022-10-02T17:06:27.874000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "かぼちゃのプリンです",
+            "timestamp": "2022-10-02T17:06:48.474000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "秋だからですかね！ほかにもおいしそうなものありましたか？",
+            "timestamp": "2022-10-02T17:07:06.384000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "パスタもキノコのがありましたよ",
+            "timestamp": "2022-10-02T17:07:25.920000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "いいですね。",
+            "timestamp": "2022-10-02T17:07:42.783000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "秋なのでかぼちゃ、栗、キノコが多いですね",
+            "timestamp": "2022-10-02T17:08:06.764000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "さつまいもとかも時期ですよね？",
+            "timestamp": "2022-10-02T17:08:13.335000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "そうですね。さつまいものタルトもありました",
+            "timestamp": "2022-10-02T17:08:29.530000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "美味しそうですね！",
+            "timestamp": "2022-10-02T17:08:39.247000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "今度食べてみようと思います。",
+            "timestamp": "2022-10-02T17:08:59.431000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "コンビニとかでも季節のパンとかあっておいしそうだなと思ってます",
+            "timestamp": "2022-10-02T17:09:18.731000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "そうですね。コンビニのパンたべましたか？",
+            "timestamp": "2022-10-02T17:09:43.305000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "さつまいものデニッシュやアップルデニッシュを食べました",
+            "timestamp": "2022-10-02T17:09:53.339000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "おいしそうですね",
+            "timestamp": "2022-10-02T17:10:05.874000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "セブンイレブンで食べたので、今度行く機会があったら食べてみてください",
+            "timestamp": "2022-10-02T17:10:17.584000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "食べてみたいと思います",
+            "timestamp": "2022-10-02T17:10:26.641000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "デザートも季節ものあがるので是非",
+            "timestamp": "2022-10-02T17:10:29.882000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "わかりました。ありがとうございます",
+            "timestamp": "2022-10-02T17:10:42.947000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

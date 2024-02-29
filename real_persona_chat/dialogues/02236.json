@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2236,
+    "interlocutors": [
+        "CN",
+        "EK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T20:57:28.260000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EK",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-19T20:57:51.586000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "晩御飯はもう食べましたか？",
+            "timestamp": "2022-08-19T20:57:54.410000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EK",
+            "text": "はい！そちらは食べられましたか？",
+            "timestamp": "2022-08-19T20:58:35.700000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "私はおそばを食べました。晩御飯は何でしたか？",
+            "timestamp": "2022-08-19T20:59:09.931000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EK",
+            "text": "今日はカレーでしたね。",
+            "timestamp": "2022-08-19T20:59:30.250000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "自分で作られたんですか？",
+            "timestamp": "2022-08-19T20:59:42.624000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EK",
+            "text": "はい。",
+            "timestamp": "2022-08-19T21:00:01.568000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "辛さはどのくらいですか？",
+            "timestamp": "2022-08-19T21:00:05.391000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EK",
+            "text": "結構辛口が好きで。辛いの得意ですか？",
+            "timestamp": "2022-08-19T21:00:39.558000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "ワサビは好きですが、スパイス系はちょっと苦手です。",
+            "timestamp": "2022-08-19T21:01:01.040000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EK",
+            "text": "そうなんですね。カレー好きなので、外出先で見かけるとついついお店に入ってしまいます。",
+            "timestamp": "2022-08-19T21:01:51.516000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "おお、お勧めのお店とかありますか？",
+            "timestamp": "2022-08-19T21:02:18.304000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EK",
+            "text": "沢山あるんですが、結局ココイチが一番好きだったりします。",
+            "timestamp": "2022-08-19T21:03:13.402000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "ココイチいいですよね。好きなトッピングはありますか？",
+            "timestamp": "2022-08-19T21:03:34.360000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EK",
+            "text": "あえて素カレーです！行かれますか？",
+            "timestamp": "2022-08-19T21:04:39.735000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "行きます。パリパリチキンが好きです。",
+            "timestamp": "2022-08-19T21:05:31.580000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EK",
+            "text": "いいですねえ！ご自分でお料理したりしますか？",
+            "timestamp": "2022-08-19T21:06:35.904000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "たまに作ります。あなたはどうですか？",
+            "timestamp": "2022-08-19T21:06:47.566000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EK",
+            "text": "簡単なものでしたら！ついつい家族にまかせっきりですがたまには挑戦しています！",
+            "timestamp": "2022-08-19T21:07:24.490000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "そういえば、ココイチは何辛で食べているんですか？",
+            "timestamp": "2022-08-19T21:07:55.107000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EK",
+            "text": "スタンダードのを頼んで、あとは好みでスパイスを足していくスタイルです！",
+            "timestamp": "2022-08-19T21:08:47.134000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "激辛ではないんですね！最近行ったのはいつですか？",
+            "timestamp": "2022-08-19T21:09:21.264000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EK",
+            "text": "以前おもいっきり辛いのを頼んだら大変な目にあったので。最近では先週ですね！",
+            "timestamp": "2022-08-19T21:10:30.054000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "お、近いですね！結構頻繁に行かれてます？",
+            "timestamp": "2022-08-19T21:10:52.534000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EK",
+            "text": "週一では行きますね！いついかれましたか？",
+            "timestamp": "2022-08-19T21:11:20.617000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "相当なココイチ好きですね！私は半年前でした・",
+            "timestamp": "2022-08-19T21:11:54.173000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EK",
+            "text": "ですね！明日行きたくなってきました。",
+            "timestamp": "2022-08-19T21:12:36.642000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "週末ですし、外食もいいですね！",
+            "timestamp": "2022-08-19T21:12:59.829000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EK",
+            "text": "ですよね！",
+            "timestamp": "2022-08-19T21:13:12.733000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

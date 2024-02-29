@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13883,
+    "interlocutors": [
+        "DB",
+        "IY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-09T14:39:50.783000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IY",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-09T14:39:58.088000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "最近何か楽しかったことってありますか？",
+            "timestamp": "2022-10-09T14:40:09.216000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IY",
+            "text": "１つ大きな開発のプロジェクトが終わったことですね",
+            "timestamp": "2022-10-09T14:40:40.469000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "なんかすごいですね！結構長期間やってたんですか？",
+            "timestamp": "2022-10-09T14:41:04.526000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IY",
+            "text": "結構長期間だったので完成したときはものすごく楽しかったです！",
+            "timestamp": "2022-10-09T14:41:24.606000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "どんなものか聞いても大丈夫ですか？",
+            "timestamp": "2022-10-09T14:41:35.680000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IY",
+            "text": "サークルでやってたwebアプリの開発です！",
+            "timestamp": "2022-10-09T14:42:03.534000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "webアプリの開発！どの辺担当されたんですか？",
+            "timestamp": "2022-10-09T14:42:24.158000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IY",
+            "text": "主にサーバー側の処理を担当してました！",
+            "timestamp": "2022-10-09T14:42:56.761000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "JSとかはやったことありますがサーバーサイドは全くやったことないです。",
+            "timestamp": "2022-10-09T14:43:22.718000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IY",
+            "text": "自分はJSとかがあまり得意ではないのでそっちの方は後輩が頑張ってくれました",
+            "timestamp": "2022-10-09T14:43:55.068000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "どんなアプリなんですか？",
+            "timestamp": "2022-10-09T14:44:08.088000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IY",
+            "text": "とある企業の製品と連携して遊べるサービスです！",
+            "timestamp": "2022-10-09T14:44:45.147000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "なんかすごそうですね。企業からの依頼とかですか？",
+            "timestamp": "2022-10-09T14:45:17.512000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IY",
+            "text": "学校と企業の連携イベントみたいなやつの1つでした",
+            "timestamp": "2022-10-09T14:45:55.541000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "すごい面白そうですね！自分から参加選べる感じなんですか？",
+            "timestamp": "2022-10-09T14:46:21.388000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IY",
+            "text": "そうです！希望者参加型でした、といっても人数少なかったですけど",
+            "timestamp": "2022-10-09T14:46:48.665000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "でも開発経験あるだけで将来めちゃくちゃ活かされますよ。私も開発経験多いのは良かったと思ってます。",
+            "timestamp": "2022-10-09T14:47:31.641000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IY",
+            "text": "すごく貴重な経験になりました！",
+            "timestamp": "2022-10-09T14:47:51.886000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "半年前まで就活とかしてましたが話すネタに困りません。",
+            "timestamp": "2022-10-09T14:48:08.077000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IY",
+            "text": "そうなんですね！もっと経験積んどこうかなと思います",
+            "timestamp": "2022-10-09T14:48:32.134000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "時間が許す限りやってたほうがいいと思います。サーバー側がほとんどなんですか？",
+            "timestamp": "2022-10-09T14:49:08.423000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IY",
+            "text": "サーバー側がほとんどです、Pythonに慣れてて",
+            "timestamp": "2022-10-09T14:50:21.589000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "Python使えると本当に便利ですよね。Python勉強始めてどれくらいですか？",
+            "timestamp": "2022-10-09T14:51:01.986000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IY",
+            "text": "もう3年か4年くらいになります",
+            "timestamp": "2022-10-09T14:51:25.385000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "結構長いですね！私もJavaとかCがそれくらい続いてます。",
+            "timestamp": "2022-10-09T14:52:23.362000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IY",
+            "text": "最近にC#に手を出そうとしてますが難しいです。。。",
+            "timestamp": "2022-10-09T14:52:54.052000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "オブジェクト指向言語を始めるときは最初は詰まりますよね。",
+            "timestamp": "2022-10-09T14:53:10.249000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IY",
+            "text": "少しづつサイトで調べながら頑張ってます",
+            "timestamp": "2022-10-09T14:53:31.229000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IY",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

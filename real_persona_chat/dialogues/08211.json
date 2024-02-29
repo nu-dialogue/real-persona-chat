@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8211,
+    "interlocutors": [
+        "HZ",
+        "BA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HZ",
+            "text": "こんばんは、よろしくお願いします",
+            "timestamp": "2022-08-05T20:00:01.179000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BA",
+            "text": "こんばんは、よろしくお願いします",
+            "timestamp": "2022-08-05T20:00:10.080000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HZ",
+            "text": "もう夕飯は食べましたか？",
+            "timestamp": "2022-08-05T20:00:19.875000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BA",
+            "text": "食べました",
+            "timestamp": "2022-08-05T20:00:26.067000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HZ",
+            "text": "何食べました？",
+            "timestamp": "2022-08-05T20:00:32.119000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BA",
+            "text": "ラムチョップを焼きました、あなたは？",
+            "timestamp": "2022-08-05T20:00:41.654000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HZ",
+            "text": "おいしそうですね！私はキャベツと魚肉ソーセージを炒めました。質素です",
+            "timestamp": "2022-08-05T20:01:04.333000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BA",
+            "text": "シンプルですね！",
+            "timestamp": "2022-08-05T20:01:13.162000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HZ",
+            "text": "はい、なんか材料がなくて。",
+            "timestamp": "2022-08-05T20:01:25.617000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BA",
+            "text": "そういう日あります！",
+            "timestamp": "2022-08-05T20:01:30.680000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HZ",
+            "text": "けっこう自炊はする方なんですか？",
+            "timestamp": "2022-08-05T20:01:44.056000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BA",
+            "text": "します！子供いるので！しますか？",
+            "timestamp": "2022-08-05T20:02:00.617000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HZ",
+            "text": "はい、基本的には毎日作ります",
+            "timestamp": "2022-08-05T20:02:11.998000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BA",
+            "text": "一緒ですね",
+            "timestamp": "2022-08-05T20:02:22.837000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HZ",
+            "text": "料理得意ですか？",
+            "timestamp": "2022-08-05T20:02:29.704000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BA",
+            "text": "うーんどうだろう。あなたは？",
+            "timestamp": "2022-08-05T20:02:39.291000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HZ",
+            "text": "あまり得意ではないけど、なんとかやってます！",
+            "timestamp": "2022-08-05T20:02:50.477000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BA",
+            "text": "私もそんな感じかな、外食疲れますしね！",
+            "timestamp": "2022-08-05T20:03:05.053000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HZ",
+            "text": "外食は味濃いですしね",
+            "timestamp": "2022-08-05T20:03:15.473000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BA",
+            "text": "ですよね！好きな料理は？",
+            "timestamp": "2022-08-05T20:03:30.882000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HZ",
+            "text": "餃子が好きなのですが、自分ではどうしてもうまく作れないんですよねー",
+            "timestamp": "2022-08-05T20:03:53.936000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BA",
+            "text": "餃子私も好きです！し私もうまく作れません",
+            "timestamp": "2022-08-05T20:04:10.805000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HZ",
+            "text": "具材の味付けがうまくいかなくて。",
+            "timestamp": "2022-08-05T20:04:26.076000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BA",
+            "text": "私は焼き方かなぁ",
+            "timestamp": "2022-08-05T20:04:37.014000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HZ",
+            "text": "先日も、味のない餃子を大量に作り出してしまいました。",
+            "timestamp": "2022-08-05T20:04:55.054000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BA",
+            "text": "え！にんにく、しょうが、ニラ、で大体しっくりきません？",
+            "timestamp": "2022-08-05T20:05:12.375000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HZ",
+            "text": "自信がないのでレシピをみて作ったのですが、味なかったんですよね。。",
+            "timestamp": "2022-08-05T20:05:31.809000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BA",
+            "text": "えー―なんでだろう！",
+            "timestamp": "2022-08-05T20:05:43.648000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HZ",
+            "text": "謎ですー。もう作らないかも！",
+            "timestamp": "2022-08-05T20:05:55.784000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BA",
+            "text": "冷凍食品がいいかも！",
+            "timestamp": "2022-08-05T20:06:07.472000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

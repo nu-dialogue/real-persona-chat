@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1447,
+    "interlocutors": [
+        "BU",
+        "AX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-14T20:00:29.354000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AX",
+            "text": "宜しくお願いいたします。",
+            "timestamp": "2022-08-14T20:00:32.498000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "首が痛いです。どこか痛いところありますか？",
+            "timestamp": "2022-08-14T20:00:47.382000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AX",
+            "text": "最近は大丈夫です。何か痛める原因があったのですか？",
+            "timestamp": "2022-08-14T20:01:12.696000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "それは良かったです。なんででしょうか、１ヶ月ぐらいずっと痛いんですよ。",
+            "timestamp": "2022-08-14T20:01:37.091000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AX",
+            "text": "それは、単なる寝違えとは違いそうですね。どの辺ですか？",
+            "timestamp": "2022-08-14T20:01:56.112000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "なんて言えば良いんでしょう、首のちょい左の下です。",
+            "timestamp": "2022-08-14T20:02:28.188000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AX",
+            "text": "肩に近い感じでしょうか。寝る時もいたかったりするのですか？",
+            "timestamp": "2022-08-14T20:02:46.361000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "肩に近いですね。体勢によってでしょうか。後ろ向いたりすると痛いです。",
+            "timestamp": "2022-08-14T20:03:21.126000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AX",
+            "text": "それだと疲れも取れないから結構つらいですよね。",
+            "timestamp": "2022-08-14T20:03:34.784000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "そうですね。マッサージいきたいです。",
+            "timestamp": "2022-08-14T20:03:48.234000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AX",
+            "text": "そういえば前、腰が痛くて整骨院でマッサージ受けたことがあるんですよ。",
+            "timestamp": "2022-08-14T20:04:10.148000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "良くなりましたか？",
+            "timestamp": "2022-08-14T20:04:17.727000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AX",
+            "text": "一向に良くならず、大きな病院行ってＭＲＩとったらヘルニアでした。",
+            "timestamp": "2022-08-14T20:04:43.045000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "まじすか。今は調子はいい感じですか？",
+            "timestamp": "2022-08-14T20:05:08.576000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AX",
+            "text": "総合病院で処方された薬で完治したのですよ。びっくりです。",
+            "timestamp": "2022-08-14T20:05:31.521000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "薬で治っちゃうんですね。すごい。",
+            "timestamp": "2022-08-14T20:05:50.696000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AX",
+            "text": "整骨院で直るケースもあるんでしょうけど、直らなければそんなこともあるって感じです。",
+            "timestamp": "2022-08-14T20:06:25.306000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "治療的なマッサージの方が良いですよね。",
+            "timestamp": "2022-08-14T20:06:46.557000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AX",
+            "text": "そうかもしれませんね。悪くなったり効果なければ面倒だけど大きいところの方が良いかもですね。",
+            "timestamp": "2022-08-14T20:07:09.308000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "よくある、安い全身もみほぐしはあかんですか？",
+            "timestamp": "2022-08-14T20:07:30.847000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AX",
+            "text": "別に良いと思いますが、肩こりでない場合は効果がどれほどあるのかなんともですね。",
+            "timestamp": "2022-08-14T20:07:57.657000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "逆に悪くなるかもしれませんしね。気づいたらそのうちパッと治っててほしいです。",
+            "timestamp": "2022-08-14T20:08:40.781000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AX",
+            "text": "ヘルニアって軟骨が出て神経に触っている状態なので、その場合はあまり刺激を与えない方が良いのかも。",
+            "timestamp": "2022-08-14T20:09:17.720000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "なるほどです。バンテリン塗っておきます。バンテリン最強。",
+            "timestamp": "2022-08-14T20:09:47.093000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AX",
+            "text": "痛み止めのバンテリンは効果確かにありますよね。早く良くなると良いですね。",
+            "timestamp": "2022-08-14T20:10:09.853000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "ありがとうございます。塗るタイプのバンテリン薬局で買ってきます！",
+            "timestamp": "2022-08-14T20:10:47.059000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AX",
+            "text": "痛いのって、ずっと続くとそれだけでストレスだったりしますもんね。",
+            "timestamp": "2022-08-14T20:11:07.270000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "そうですね。ずっと気になります。ありがとうございました。",
+            "timestamp": "2022-08-14T20:11:25.753000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AX",
+            "text": "是非お大事になさってください。",
+            "timestamp": "2022-08-14T20:11:37.718000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

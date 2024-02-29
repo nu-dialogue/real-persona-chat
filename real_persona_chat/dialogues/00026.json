@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 26,
+    "interlocutors": [
+        "AD",
+        "AE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-08-17T15:47:36.543000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AE",
+            "text": "こんにちは～よろしくおねがいします～",
+            "timestamp": "2022-08-17T15:47:48.297000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-08-17T15:47:57.133000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AE",
+            "text": "今日はお休みなんですよ。そちらもお休みですか？",
+            "timestamp": "2022-08-17T15:48:12.736000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "私は在宅勤務です。一応仕事なんです。",
+            "timestamp": "2022-08-17T15:48:25.638000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AE",
+            "text": "在宅ですか…お仕事お疲れ様です。",
+            "timestamp": "2022-08-17T15:48:32.866000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "ありがとうございます。お休みはお出かけとかされたんですか？",
+            "timestamp": "2022-08-17T15:48:51.619000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AE",
+            "text": "ちょっと買い物とかに出かけてましたね",
+            "timestamp": "2022-08-17T15:50:00.180000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "いいですね！平日休みだと人少なくてどこ行くにも良さそうですね",
+            "timestamp": "2022-08-17T15:49:45.419000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AE",
+            "text": "確かに平日はそうですねぇ。一人で何かする分には楽そうです",
+            "timestamp": "2022-08-17T15:50:17.365000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "誰かと出かけるってなったら、時間は合わないですよね。",
+            "timestamp": "2022-08-17T15:50:34.845000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AE",
+            "text": "そうですねぇ。誰かと何かするならやっぱり土日がいいですねぇ",
+            "timestamp": "2022-08-17T15:51:06.855000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "私はカレンダー通りの休みなのですが、混んでしまうんですよね。たまに平日休みいいなあってなります。",
+            "timestamp": "2022-08-17T15:51:26.438000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AE",
+            "text": "なるほど。前職が日曜月曜が定休日だったんですけど、すごくバランスがよかったなぁと今更思ってます",
+            "timestamp": "2022-08-17T15:51:53.281000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "日月はいいですね。誰かと遊ぶにも日曜日に行けますし、月曜は平日ですしね。",
+            "timestamp": "2022-08-17T15:52:22.597000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AE",
+            "text": "ですね。ただ美容室とかが生きにくいですけどね…",
+            "timestamp": "2022-08-17T15:52:55.501000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "日曜日混むし、月曜は美容室お休みが多いんですかね？",
+            "timestamp": "2022-08-17T15:53:21.773000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AE",
+            "text": "毎週月曜やすみだったきがしました",
+            "timestamp": "2022-08-17T15:53:58.976000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね！知らなかったです。これから月曜日は美容室の予定入れないようにします。",
+            "timestamp": "2022-08-17T15:54:21.930000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AE",
+            "text": "月曜やってるなら予約入れればいいとは思いますけどね～",
+            "timestamp": "2022-08-17T15:55:20.189000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "半年以上美容室行ってないから、いつ休みとか全然覚えていませんでした。",
+            "timestamp": "2022-08-17T15:56:09.010000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AE",
+            "text": "そんなにいかないものなんですか？",
+            "timestamp": "2022-08-17T15:57:11.844000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "今髪を染めていて、明るい部分が下に下に降りてくるのを待ってます。",
+            "timestamp": "2022-08-17T15:57:37.141000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AE",
+            "text": "あ～なるほど！そうなんですね。",
+            "timestamp": "2022-08-17T15:58:06.031000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "髪長いので、あまり行かなくても結べばいいかなあとは思ってます。",
+            "timestamp": "2022-08-17T15:58:55.341000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AE",
+            "text": "髪長いといろいろおしゃれできそうですけどその分お手入れも大変そうですねぇ",
+            "timestamp": "2022-08-17T15:59:34.829000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "やっぱり毛先は傷んできますね。あなたは髪長いんですか？",
+            "timestamp": "2022-08-17T15:59:54.882000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AE",
+            "text": "私は髪短くしてるので、月に1度は切りに行ってますねぇ",
+            "timestamp": "2022-08-17T16:00:17.367000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "髪短いのは乾かすのも楽そうでいいですねえ！",
+            "timestamp": "2022-08-17T16:00:40.390000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AE",
+            "text": "それは楽ですね。ありがとうございました！",
+            "timestamp": "2022-08-17T16:00:52.495000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

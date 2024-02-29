@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3835,
+    "interlocutors": [
+        "CN",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-02T21:14:39.122000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-02T21:14:54.152000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "何か運動されてますか？",
+            "timestamp": "2022-09-02T21:15:05.305000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "運動、そんなにしないんですよね。通学くらいです。何かされてます？",
+            "timestamp": "2022-09-02T21:15:24.969000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "ウォーキングぐらいです。暑いので最近は夜に歩いてますね",
+            "timestamp": "2022-09-02T21:15:41.068000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "夜に歩くのいいですよね。涼しいし、なんか心が落ち着く気がして。",
+            "timestamp": "2022-09-02T21:16:05.563000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "そうなんですよ、人も少なくてマスクしなくて済みますし",
+            "timestamp": "2022-09-02T21:16:40.036000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "たしかに！今はマスクして運動してる人もいますしね。",
+            "timestamp": "2022-09-02T21:17:06.431000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "昼間にマスクして運動してる人を見かけるとちょっと心配になります",
+            "timestamp": "2022-09-02T21:17:32.838000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "そうですよね。今では政府が外では人と離れていればマスクをとっていいと公言していますしね。",
+            "timestamp": "2022-09-02T21:18:06.295000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "最近多少涼しいですが、30度超える日はマスクしてるときついですもんね",
+            "timestamp": "2022-09-02T21:18:40.292000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "きついですね。ちょっと前だと毎日35度超えてましたからね。",
+            "timestamp": "2022-09-02T21:19:20.682000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "猛暑日連続はキツイかったですね。ほとんどクーラーの効いた部屋に引きこもってました",
+            "timestamp": "2022-09-02T21:20:14.556000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "わかります！ただ私は通学で自転車を1時間こがなきゃいけないので、つらかったです。",
+            "timestamp": "2022-09-02T21:21:05.276000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "暑い日に1時間は辛いですね！暑さ対策何かされてますか？",
+            "timestamp": "2022-09-02T21:21:43.067000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "なるべく水分はとって、汗を流すようにしてました。帽子もかぶってますかね。",
+            "timestamp": "2022-09-02T21:22:29.581000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "水分重要ですね。塩分タブレットとかは常備してますか？",
+            "timestamp": "2022-09-02T21:22:58.324000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "もちろん！鞄に入ってますよ！そちらは熱中症とか大丈夫でしたか？",
+            "timestamp": "2022-09-02T21:23:29.149000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "日中は引きこもってるので大丈夫でした。今在宅勤務なんですよ",
+            "timestamp": "2022-09-02T21:24:20.290000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "そうなんですか！やっぱりコロナのせいですか？",
+            "timestamp": "2022-09-02T21:24:58.412000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "そうなんです。一気に感染者増えましたしね",
+            "timestamp": "2022-09-02T21:25:21.674000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "感染者の増加って全然止まらないですよね。在宅ワークやってると体とか大丈夫ですか？",
+            "timestamp": "2022-09-02T21:26:16.189000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "肩凝りとかはひどくなりますね。対策でウォーキングしてます",
+            "timestamp": "2022-09-02T21:27:06.780000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "それはつらそうです。それでウォーキングなんですね！",
+            "timestamp": "2022-09-02T21:27:26.209000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "そうなんです。通勤がないと運動量が減ってしまいまして",
+            "timestamp": "2022-09-02T21:28:01.839000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "ですよね。私は最近ヨガをするようにしてますよ。",
+            "timestamp": "2022-09-02T21:28:27.195000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "ヨガいいですね！体調よくなりそうです",
+            "timestamp": "2022-09-02T21:28:53.580000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "よくなりますよ！あと目覚めと寝つきがよくなります！",
+            "timestamp": "2022-09-02T21:29:11.849000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "睡眠にも効くんですね！ちょっと調べてみます！",
+            "timestamp": "2022-09-02T21:29:39.294000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "ぜひ！YouTubeとかで気軽に始められますよ！",
+            "timestamp": "2022-09-02T21:29:56.432000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7654,
+    "interlocutors": [
+        "AB",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは、お久しぶりです。",
+            "timestamp": "2022-08-03T17:06:54.012000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "お久しぶりです、いかがお過ごしでしたか？",
+            "timestamp": "2022-08-03T17:07:31.828000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "家で過ごすことが多いですね。あなたはどう過ごされてましたか？",
+            "timestamp": "2022-08-03T17:08:00.434000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "私も家にいることが多いです。",
+            "timestamp": "2022-08-03T17:08:42.624000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "家でいつも何をしていますか？",
+            "timestamp": "2022-08-03T17:09:09.769000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "少し前は断捨離をしていました。",
+            "timestamp": "2022-08-03T17:10:43.313000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "いいですね。だいぶ捨てれましたか？",
+            "timestamp": "2022-08-03T17:11:27.838000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "だいぶ処理したのですが、まだ身軽にはなっていないです。",
+            "timestamp": "2022-08-03T17:12:15.380000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。私も、去年引っ越したので、その時にスッキリさせました。",
+            "timestamp": "2022-08-03T17:12:43.875000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "引っ越しの準備は大変ですよね",
+            "timestamp": "2022-08-03T17:13:49.067000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ。私、結婚してから引っ越し5回目で。毎度嫌になります。",
+            "timestamp": "2022-08-03T17:14:26.295000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね。転勤が多いのでしょうか？",
+            "timestamp": "2022-08-03T17:15:10.750000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "そうなんです。海外もあったんですが、その際は物が無くなって大変でした。",
+            "timestamp": "2022-08-03T17:15:42.351000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "物が売ってなかったのですか？",
+            "timestamp": "2022-08-03T17:16:46.087000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "いえ、引越しで送った荷物が無くなったんです。どっか違う国に行ったとかで。",
+            "timestamp": "2022-08-03T17:17:21.350000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "え、それは戻って来なかったのですか？",
+            "timestamp": "2022-08-03T17:18:02.181000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "はい。大したものは入ってなかった箱だったんですが、全部弁償してもらいました。",
+            "timestamp": "2022-08-03T17:18:46.278000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "一体その箱は、どこへ行ってしまったんでしょうね。びっくりです。",
+            "timestamp": "2022-08-03T17:19:39.250000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "そうですよね。海外あるあるっぽいですが。引っ越し経験はありますか？",
+            "timestamp": "2022-08-03T17:20:04.102000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "私は国内での引っ越ししか経験はないですね",
+            "timestamp": "2022-08-03T17:21:16.497000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "国内でも引っ越しは大変ですよね。もう当分したくないです。",
+            "timestamp": "2022-08-03T17:21:55.242000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "すぐ近所に引っ越したことがあったのですが、それでもかなり大変でした",
+            "timestamp": "2022-08-03T17:22:36.414000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "引っ越しの唯一のいいところが断捨離できるところかな、と思います。",
+            "timestamp": "2022-08-03T17:23:29.038000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "引っ越しすると必然的に片付きますもんね",
+            "timestamp": "2022-08-03T17:23:53.798000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "極力、荷物の量も減らしたいですしね。安くなるし。",
+            "timestamp": "2022-08-03T17:24:23.930000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "荷物の量で費用が決まってきますもんね。",
+            "timestamp": "2022-08-03T17:25:35.495000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "荷物量は大事ですよね。後は、どれだけ安くしてもらえるか。",
+            "timestamp": "2022-08-03T17:26:12.038000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "私はあまり安くしてもらえたことがないですね。部屋がいくつあるから〇万円です、みたいな。",
+            "timestamp": "2022-08-03T17:27:23.175000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "まぁ、当分引っ越しはしないので、私ももう一回、要らない物ないか見てみようかな。",
+            "timestamp": "2022-08-03T17:28:14.448000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "こまめに断捨離するのは大事ですよね！ありがとうございました。",
+            "timestamp": "2022-08-03T17:29:10.294000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AB",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-03T17:29:15.543000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 4,
+            "comprehension": 2,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

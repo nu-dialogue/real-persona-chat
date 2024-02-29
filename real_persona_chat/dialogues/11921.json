@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11921,
+    "interlocutors": [
+        "EK",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EK",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T18:06:23.023000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんにちは！お願いします。",
+            "timestamp": "2022-08-28T18:06:47.069000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EK",
+            "text": "今日は何されてたんですか？",
+            "timestamp": "2022-08-28T18:07:00.975000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "今日は特に無かったのですが、１週間の食材の買い出しに出ました。",
+            "timestamp": "2022-08-28T18:07:23.464000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EK",
+            "text": "そうなんですね！まとめ買い派ですか？",
+            "timestamp": "2022-08-28T18:08:01.759000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "そうですね。毎日買い物に出るのが面倒で。",
+            "timestamp": "2022-08-28T18:08:17.274000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EK",
+            "text": "一週間分の献立を考えてお買い物されるんですか？",
+            "timestamp": "2022-08-28T18:08:44.372000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "ですね。スーパーに行ったときはこれとこれでアレ作ろうって買うのです。",
+            "timestamp": "2022-08-28T18:09:35.833000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EK",
+            "text": "お料理は結構されますか？",
+            "timestamp": "2022-08-28T18:09:55.461000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "そうですね。忙しい時はデリバリー頼む時もありますが。お料理はされますか？",
+            "timestamp": "2022-08-28T18:10:25.140000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EK",
+            "text": "お料理はあまりしないですねー。カレーだけは唯一つくれます",
+            "timestamp": "2022-08-28T18:10:46.682000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "お、こだわりのカレーですか？",
+            "timestamp": "2022-08-28T18:11:04.789000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EK",
+            "text": "いたって普通のカレーです！それがこだわりっちゃこだわりですねー",
+            "timestamp": "2022-08-28T18:11:33.214000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "カレーが作れればシチューや肉じゃがも作れますね！",
+            "timestamp": "2022-08-28T18:11:59.872000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EK",
+            "text": "ほとんど一緒ですもんね！今夜はなにか作られるんですか？",
+            "timestamp": "2022-08-28T18:12:27.817000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "今日はお魚でサバの西京焼きにしようと思ってます。",
+            "timestamp": "2022-08-28T18:12:51.710000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EK",
+            "text": "いいですねー！おいしそう！",
+            "timestamp": "2022-08-28T18:13:07.569000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "あとは山芋とキュウリとオクラの梅昆布和えも作ります。",
+            "timestamp": "2022-08-28T18:13:35.184000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EK",
+            "text": "あー！なおのことおいしそう！おくら大好きです！",
+            "timestamp": "2022-08-28T18:14:00.312000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "オクラ美味しいですよね。これ、自宅で栽培して収穫したんです。",
+            "timestamp": "2022-08-28T18:14:27.833000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EK",
+            "text": "え！すごい！オクラって自分で作れるもんなんですか？",
+            "timestamp": "2022-08-28T18:15:02.257000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "作れました。うちは畑が無くバルコニーですが野菜用のプランターで苗から育てました。",
+            "timestamp": "2022-08-28T18:15:35.369000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EK",
+            "text": "プランターでできるんですね！日当たりが結構よくないとダメとか？",
+            "timestamp": "2022-08-28T18:15:58.461000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "日当たりはいい方が良いとは思いますが、半日陰でも出来ましたよ。",
+            "timestamp": "2022-08-28T18:16:34.253000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EK",
+            "text": "そうなんですね！バジルとかプランターでおいてみたんですが、毎回すぐ枯れちゃって",
+            "timestamp": "2022-08-28T18:17:03.272000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "そうなんですか。なんででしょうね？水やりとかしてましたか？",
+            "timestamp": "2022-08-28T18:17:42.982000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EK",
+            "text": "水やりはちゃんとしてたつもりなんですけどねー。あげすぎたのかなあ",
+            "timestamp": "2022-08-28T18:18:06.177000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "根腐れしちゃってたのかもしれないですね？それか土に栄養が無かったとか？",
+            "timestamp": "2022-08-28T18:18:41.655000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EK",
+            "text": "根腐れですかねえ。土もよくわかってなかったですしね。つぎはちゃんと調べてやってみます！",
+            "timestamp": "2022-08-28T18:19:07.890000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "是非です。ではまた。",
+            "timestamp": "2022-08-28T18:19:18.951000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

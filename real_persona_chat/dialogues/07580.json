@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7580,
+    "interlocutors": [
+        "AB",
+        "BA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！もうすぐお昼ですね。",
+            "timestamp": "2022-08-04T10:49:15.305000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BA",
+            "text": "こんにちは！ですね！お昼ご飯決まりましたか？",
+            "timestamp": "2022-08-04T10:49:35.778000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "焼きそばを作ります。あなたは？",
+            "timestamp": "2022-08-04T10:49:50.308000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BA",
+            "text": "私はサンドイッチですかね！",
+            "timestamp": "2022-08-04T10:50:02.772000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "手作りですか？",
+            "timestamp": "2022-08-04T10:50:10.208000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BA",
+            "text": "の予定です！",
+            "timestamp": "2022-08-04T10:50:19.224000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "何サンドが好きですか？",
+            "timestamp": "2022-08-04T10:50:27.692000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BA",
+            "text": "定番のハムレタスとかです！何が好きですか？",
+            "timestamp": "2022-08-04T10:50:45.129000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "たまごサンドが好きです。たっぷりのやつ。",
+            "timestamp": "2022-08-04T10:51:00.219000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BA",
+            "text": "いいですね！自炊しますか？",
+            "timestamp": "2022-08-04T10:51:12.548000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "ほとんど自炊です。たまにデリバリーやテイクアウトします。あなたはどうですか？",
+            "timestamp": "2022-08-04T10:51:34.535000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BA",
+            "text": "私もほとんど自炊です。昨日はタコスを作りました。",
+            "timestamp": "2022-08-04T10:51:58.464000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "タコスいいですね。パリパリのトルティーヤのやつですか？",
+            "timestamp": "2022-08-04T10:52:21.391000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BA",
+            "text": "柔らかいトルティーヤの皮に巻きました！",
+            "timestamp": "2022-08-04T10:52:40.299000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "夏は何でかタコスやタコライスを食べたくなる時があります。",
+            "timestamp": "2022-08-04T10:53:00.763000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BA",
+            "text": "ちょうど良いスパイシーさと楽さからですかね！",
+            "timestamp": "2022-08-04T10:53:25.057000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "ですね！野菜も摂れるしいいですよね。",
+            "timestamp": "2022-08-04T10:53:41.395000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BA",
+            "text": "ですよね！昨夜は何を作りましたか？",
+            "timestamp": "2022-08-04T10:54:02.067000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "昨日は沖縄そばを作って、食べました。",
+            "timestamp": "2022-08-04T10:54:19.175000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BA",
+            "text": "ソーキそばですか？すごい作れるんですね！",
+            "timestamp": "2022-08-04T10:54:36.429000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "ふるさと納税の返礼品です。全部付いてていいですよ。",
+            "timestamp": "2022-08-04T10:54:57.150000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BA",
+            "text": "そうなんですね！いいですね！よくふるさと納税します？",
+            "timestamp": "2022-08-04T10:55:16.151000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "はい、毎年しています。あなたは？",
+            "timestamp": "2022-08-04T10:55:30.810000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BA",
+            "text": "私もしています！おすすめ他にありますか？",
+            "timestamp": "2022-08-04T10:55:43.133000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "冷凍庫はすぐいっぱいになるので、常備品を最近はよく頼みます。トイレットペーパーとか、油、醤油とか。",
+            "timestamp": "2022-08-04T10:56:22.048000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BA",
+            "text": "我が家もトイレットペーパーティッシュペーパー頼みすぎて倉庫みたいです。笑",
+            "timestamp": "2022-08-04T10:56:43.649000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "ですよね。今もペーパーだらけです。",
+            "timestamp": "2022-08-04T10:57:03.592000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BA",
+            "text": "結構頼むもの悩んできますよね！",
+            "timestamp": "2022-08-04T10:57:23.087000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよね。今年も悩まないと！",
+            "timestamp": "2022-08-04T10:57:35.583000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BA",
+            "text": "ですね！ありがとうございました。",
+            "timestamp": "2022-08-04T10:57:44.341000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

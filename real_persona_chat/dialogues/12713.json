@@ -1,0 +1,203 @@
+{
+    "dialogue_id": 12713,
+    "interlocutors": [
+        "CS",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-17T22:17:30.769000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-17T22:17:43.449000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "普段何されてるんですか？",
+            "timestamp": "2022-09-17T22:18:00.610000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "大学に通ってます",
+            "timestamp": "2022-09-17T22:18:24.652000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "大学生なんですね。大学は楽しいですか？",
+            "timestamp": "2022-09-17T22:18:39.348000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "楽しいです！",
+            "timestamp": "2022-09-17T22:18:53.913000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "授業は今オンラインがメインなんですか？",
+            "timestamp": "2022-09-17T22:19:06.269000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "うちの大学はほぼ対面でやってます。",
+            "timestamp": "2022-09-17T22:19:35.230000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね、オンラインのほうが楽そうですけどどうですか？",
+            "timestamp": "2022-09-17T22:19:54.344000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "朝早い授業はオンラインのほうがいいですね",
+            "timestamp": "2022-09-17T22:20:17.947000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "長く寝れますもんね",
+            "timestamp": "2022-09-17T22:20:27.282000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "はい。でもサークルとか友達と話すって考えるとやっぱ対面のほうがいいかなって思います",
+            "timestamp": "2022-09-17T22:21:08.603000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "オンライン飲み会とかより対面のほうがいいですか？",
+            "timestamp": "2022-09-17T22:21:38.887000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "そうですね、オンラインだとタイムラグあったりするし対面のほうがいいです",
+            "timestamp": "2022-09-17T22:21:59.983000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "そうなんだ。楽しそうでいいなー。",
+            "timestamp": "2022-09-17T22:22:24.452000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "<CS>さんは社会人ですか？",
+            "timestamp": "2022-09-17T22:22:36.540000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "普通にＯＬやってます。",
+            "timestamp": "2022-09-17T22:22:46.165000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "会社はリモートワークですか？",
+            "timestamp": "2022-09-17T22:23:02.861000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "うちの会社は週5出社ですね",
+            "timestamp": "2022-09-17T22:23:23.134000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "そうなんですか、きつくないですか？",
+            "timestamp": "2022-09-17T22:23:47.765000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "きついです。コロナ禍だとフルリモートだったのに。",
+            "timestamp": "2022-09-17T22:24:28.649000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "フルリモートでできるのになんで出社に戻ったんですか？",
+            "timestamp": "2022-09-17T22:24:48.277000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "偉い人が家に居場所がないとか、さみしいとか、そんな理由で元に戻ったみたいです。",
+            "timestamp": "2022-09-17T22:25:15.855000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "そんなことあるんですか",
+            "timestamp": "2022-09-17T22:25:26.340000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "あるんです。うちの会社はワンマン気質なんで・・・",
+            "timestamp": "2022-09-17T22:26:00.232000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "大変ですね・・・",
+            "timestamp": "2022-09-17T22:26:11.980000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "こういう会社には入らないよう就活してください",
+            "timestamp": "2022-09-17T22:26:29.693000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "肝に銘じます",
+            "timestamp": "2022-09-17T22:26:37.864000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "それでは失礼します。",
+            "timestamp": "2022-09-17T22:26:53.797000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4090,
+    "interlocutors": [
+        "EV",
+        "FL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-06T20:34:56.668000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FL",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-06T20:35:04.181000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "好きな食べ物、または嫌いな食べ物はありますか？",
+            "timestamp": "2022-09-06T20:35:15.020000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FL",
+            "text": "野菜が嫌いです。",
+            "timestamp": "2022-09-06T20:35:43.710000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "野菜全般ですか？",
+            "timestamp": "2022-09-06T20:35:53.240000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FL",
+            "text": "全般ですが、特にピーマンやシイタケが無理です。",
+            "timestamp": "2022-09-06T20:36:13.906000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "なるほど、僕も椎茸は嫌いな方ですね。",
+            "timestamp": "2022-09-06T20:36:32.095000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FL",
+            "text": "独特ですよね。触感とにおいが。",
+            "timestamp": "2022-09-06T20:36:48.064000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "はい、どうも好きになれないです",
+            "timestamp": "2022-09-06T20:37:00.906000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FL",
+            "text": "ピーマンは食べれます？",
+            "timestamp": "2022-09-06T20:37:11.319000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "はい、割と好きな方ですよ",
+            "timestamp": "2022-09-06T20:37:21.199000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FL",
+            "text": "どうやって食べるのが一番おいしいですか？",
+            "timestamp": "2022-09-06T20:37:33.567000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "チンジャオロースのように、炒め物にするのが一番だと思います",
+            "timestamp": "2022-09-06T20:37:51.276000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FL",
+            "text": "確かに、炒めるとまだましですね。",
+            "timestamp": "2022-09-06T20:38:05.096000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "はい、ほかの具材と食べられますし",
+            "timestamp": "2022-09-06T20:38:23.236000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FL",
+            "text": "でも苦くないですか？",
+            "timestamp": "2022-09-06T20:38:34.419000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "まあ苦いのはそうですね。ただゴーヤより露骨ではないので",
+            "timestamp": "2022-09-06T20:38:51.496000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FL",
+            "text": "あ、ゴーヤ思い出しました。ゴーヤも苦手です。",
+            "timestamp": "2022-09-06T20:39:10.958000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "まあ好きな人を探す方が難しそうですよね",
+            "timestamp": "2022-09-06T20:39:27.615000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FL",
+            "text": "でも昔家で作ってて、食卓によく並んでいたんですよね。",
+            "timestamp": "2022-09-06T20:39:50.170000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。我が家では不評で並ばなくなりました",
+            "timestamp": "2022-09-06T20:40:07.731000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FL",
+            "text": "あれは不評です。ほんとに苦手です。",
+            "timestamp": "2022-09-06T20:40:31.454000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "はい、野菜はいつもどうやって摂っているのですか？",
+            "timestamp": "2022-09-06T20:40:46.799000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FL",
+            "text": "ポテトサラダは好きです！",
+            "timestamp": "2022-09-06T20:41:03.311000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "なるほど、あれなら食べやすそうですね",
+            "timestamp": "2022-09-06T20:41:19.277000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FL",
+            "text": "おいしいですよねー。居酒屋でもよく頼みます。",
+            "timestamp": "2022-09-06T20:41:34.496000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "カロリーが高いので、サラダだと思うのはあまり良くなさそうですが",
+            "timestamp": "2022-09-06T20:41:56.866000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FL",
+            "text": "確かに。でも野菜ですよ？",
+            "timestamp": "2022-09-06T20:42:08.220000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "じゃがいもとマヨネーズが多いので。",
+            "timestamp": "2022-09-06T20:42:23.054000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FL",
+            "text": "じゃがいもとマヨネーズがおいしいだけだったのかも。",
+            "timestamp": "2022-09-06T20:42:43.250000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

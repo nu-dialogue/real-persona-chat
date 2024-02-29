@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1013,
+    "interlocutors": [
+        "AH",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T17:17:06.784000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T17:17:09.740000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "熱中症対策はされていますか？",
+            "timestamp": "2022-08-11T17:17:18.445000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "水分補給と、塩分を摂っています",
+            "timestamp": "2022-08-11T17:17:41.481000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "塩分も取られているのですね！",
+            "timestamp": "2022-08-11T17:17:51.658000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "塩分が重要だと聞いたので。",
+            "timestamp": "2022-08-11T17:18:05.347000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "確かに、水分だけではダメと言われていますよね。",
+            "timestamp": "2022-08-11T17:18:30.160000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "そうなんです。熱中症の人を看病した人が、塩をあげたら回復したって教えてくれました。",
+            "timestamp": "2022-08-11T17:19:03.857000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "塩で回復するとは知りませんでした！",
+            "timestamp": "2022-08-11T17:19:10.986000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "汗で塩分が出ちゃうからですかね",
+            "timestamp": "2022-08-11T17:19:38.613000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "そうですよね、水だけが出ているわけでhないですし。",
+            "timestamp": "2022-08-11T17:19:49.740000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そうなんです。実際、塩分も摂ってみると、少し調子がいい感じもします",
+            "timestamp": "2022-08-11T17:20:20.774000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "私も塩分の飴とか舐めてみようと思います。",
+            "timestamp": "2022-08-11T17:20:33.112000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "最近は飴やタブレットも売ってますもんね",
+            "timestamp": "2022-08-11T17:20:59.600000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "はい、塩分補給しやすくなったと思います！",
+            "timestamp": "2022-08-11T17:21:11.591000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "ですよね、甘い飴ばかりではなくなったのが良いと思います",
+            "timestamp": "2022-08-11T17:21:58.827000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "甘い飴も美味しいんですけどね。",
+            "timestamp": "2022-08-11T17:22:08.832000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "どんな飴がお好みですか？",
+            "timestamp": "2022-08-11T17:22:36.384000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "私はフルーツ味のものとか好きです！",
+            "timestamp": "2022-08-11T17:22:45.979000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "ミックスのものですか？",
+            "timestamp": "2022-08-11T17:23:15.995000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "はい、多分それです！",
+            "timestamp": "2022-08-11T17:23:24.793000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "美味しいですよね！",
+            "timestamp": "2022-08-11T17:23:53.762000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "はい、甘くて美味しいです！",
+            "timestamp": "2022-08-11T17:24:01.422000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "我が家には今はみかん味があります",
+            "timestamp": "2022-08-11T17:24:14.258000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "みかん味も好きです",
+            "timestamp": "2022-08-11T17:24:21.398000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "100円ショップで買いました。お得です",
+            "timestamp": "2022-08-11T17:24:43.321000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "意外と安いのですね。",
+            "timestamp": "2022-08-11T17:24:47.897000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "スーパーだともっとしますよね",
+            "timestamp": "2022-08-11T17:25:06.910000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "はい、百円ショップの方が安いとは思いませんでした！",
+            "timestamp": "2022-08-11T17:25:18.522000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "安いのでお勧めです",
+            "timestamp": "2022-08-11T17:26:03.237000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

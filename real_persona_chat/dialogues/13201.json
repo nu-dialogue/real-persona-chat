@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13201,
+    "interlocutors": [
+        "FV",
+        "IU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-18T12:58:35.132000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IU",
+            "text": "こんにちは、よろしくお願いします",
+            "timestamp": "2022-09-18T12:58:52.086000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "お昼ごはんは食べられましたか？",
+            "timestamp": "2022-09-18T12:59:03.442000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IU",
+            "text": "中華を食べました！冷凍食品ですが",
+            "timestamp": "2022-09-18T12:59:25.346000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "なるほど、いまは冷凍食品もクオリティあがりましたよね。何食べたんですか？",
+            "timestamp": "2022-09-18T12:59:41.555000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IU",
+            "text": "焼売と小籠包です。<FV>さんは何を食べられましたか？",
+            "timestamp": "2022-09-18T13:00:26.771000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "シュウマイいいですね！私はお蕎麦を食べました。",
+            "timestamp": "2022-09-18T13:01:46.455000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IU",
+            "text": "いいですね！お蕎麦、私もよく食べます。最近健康に気をつかっているのでお蕎麦重宝してます。",
+            "timestamp": "2022-09-18T13:02:41.629000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "健康面考えると、そばはいいですよね。蕎麦湯は飲まれますか？",
+            "timestamp": "2022-09-18T13:03:08.272000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IU",
+            "text": "普段はコンビニのものを食べるので飲まないですね、でも蕎麦屋のそばゆは大好きです。",
+            "timestamp": "2022-09-18T13:03:33.307000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "なるほど、蕎麦湯に含まれるルチンが、動脈硬化の予防などにつながるのでいいですよ。",
+            "timestamp": "2022-09-18T13:03:55.857000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IU",
+            "text": "そうなんですね！初耳です！自分でつくろうと思います、おすすめのお蕎麦ありますか？",
+            "timestamp": "2022-09-18T13:04:19.653000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "色々あるので、自分にあったものを探してみるといいかもです。",
+            "timestamp": "2022-09-18T13:04:35.031000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IU",
+            "text": "今度見てみますね！動脈硬化予防大事ですよね。最近はサプリメントも飲んでます。",
+            "timestamp": "2022-09-18T13:05:10.854000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "サプリも現代人には必要かも知れませんね。何を摂られていますか？",
+            "timestamp": "2022-09-18T13:05:32.504000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IU",
+            "text": "マルチビタミンを毎日飲んでます。ビタミン中々食事では摂れないんですよね。",
+            "timestamp": "2022-09-18T13:06:01.621000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "果物とか、野菜に含まれてる感じですかね。普段から食べないとサプリ重要ですね。",
+            "timestamp": "2022-09-18T13:06:29.455000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IU",
+            "text": "野菜取るようにはしてるんですが最近高くて。気休めに野菜ジュース飲んでます。",
+            "timestamp": "2022-09-18T13:07:05.016000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "全体的に物価高ですが、これから冬になると、野菜高騰しますしね。",
+            "timestamp": "2022-09-18T13:07:25.729000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IU",
+            "text": "そうなんですよね、冬はお鍋をよく食べるので困ってます。",
+            "timestamp": "2022-09-18T13:07:42.747000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "白菜とかは年によって4倍くらい値段変わったりしますもんね。あと春菊とかも割高。",
+            "timestamp": "2022-09-18T13:08:04.103000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IU",
+            "text": "春菊私も大好きです、少し苦味があるのがたまらない。あとは玉ねぎも美味しいですよ。",
+            "timestamp": "2022-09-18T13:08:53.339000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "タマネギは鍋に入れるんですか？",
+            "timestamp": "2022-09-18T13:09:02.359000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IU",
+            "text": "そうです！去年初めてやってみたんですが、甘みが出て美味しいです。鶏肉と合います。",
+            "timestamp": "2022-09-18T13:09:51.141000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "なるほど、タマネギは火を通すと、あの辛味が甘さにかわりますもんね。今冬やってみます。",
+            "timestamp": "2022-09-18T13:10:14.634000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IU",
+            "text": "ぜひ！この前普通の玉ねぎでオニオンスライス作ったら辛くてしんどかったです、。",
+            "timestamp": "2022-09-18T13:10:55.419000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "オニオンスライスは、新玉でやりたいですね。あとは水にさらして、辛味抜き。",
+            "timestamp": "2022-09-18T13:11:15.060000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IU",
+            "text": "水にさらせばいいんですね、普段料理をあまりしないもので無知でした。",
+            "timestamp": "2022-09-18T13:11:42.362000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "水にさらすと、辛み成分が抜けます。ただあの辛み成分が血液サラサラになる効能があるので、複雑です。",
+            "timestamp": "2022-09-18T13:12:13.638000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IU",
+            "text": "それは迷いますね、。勉強になりました！",
+            "timestamp": "2022-09-18T13:12:39.336000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "IU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

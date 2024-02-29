@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9842,
+    "interlocutors": [
+        "BL",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-09T16:45:46.389000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-09T16:45:57.498000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "夏と冬だったら、どちらが好き、もしくは耐えられる感じですか？",
+            "timestamp": "2022-08-09T16:46:24.275000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "これは、究極の選択ですね！うーん、夏が好きです！",
+            "timestamp": "2022-08-09T16:46:46.850000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "夏のほうが楽しいことが多いですもんね",
+            "timestamp": "2022-08-09T16:47:13.356000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "そうなんです！それに合わせて、寒がりなので、朝布団から爽快に出ることのできる素晴らしさが好きです",
+            "timestamp": "2022-08-09T16:48:33.371000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "なるほど！私も冬は布団からなかなか出られないです。",
+            "timestamp": "2022-08-09T16:49:02.799000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "あれは、何か出るための策があるなら知りたいです。",
+            "timestamp": "2022-08-09T16:49:33.208000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "あらかじめ部屋を暖めておくとかですかねー",
+            "timestamp": "2022-08-09T16:50:41.665000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "やっぱりそれがいちばんですね。エアコンかストーブに頼ろう。",
+            "timestamp": "2022-08-09T16:51:07.957000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "冬は靴下は履いて寝ますか？",
+            "timestamp": "2022-08-09T16:51:27.973000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "履いて寝ます！本当に冷えちゃって。<BL>さんは履いてますか？",
+            "timestamp": "2022-08-09T16:51:52.264000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "ひざ丈の靴下を履いて寝ます。",
+            "timestamp": "2022-08-09T16:52:26.268000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "結構長めのですね！もふもふ系の？",
+            "timestamp": "2022-08-09T16:52:50.754000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "もふもふではないですね。それでも寒ければレッグウオーマーも追加します。",
+            "timestamp": "2022-08-09T16:53:33.084000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "その手があったか！",
+            "timestamp": "2022-08-09T16:53:44.052000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "レッグウォーマーは最強です！",
+            "timestamp": "2022-08-09T16:54:18.796000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "ダブルではまだやったことないからこの冬試してみたいです",
+            "timestamp": "2022-08-09T16:54:49.059000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "ぜひぜひ！中には、靴下の重ね履きをする人もいるみたいですね。",
+            "timestamp": "2022-08-09T16:55:28.684000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "それだけ足が寒いよって人が多いのですね。",
+            "timestamp": "2022-08-09T16:55:55.909000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "足は冷えやすいですからね。ただ、重ね履きは歩きにくそう。",
+            "timestamp": "2022-08-09T16:56:26.488000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "え！重ねばきって寝る時じゃなくて日中でもしてる人いるんですか！？",
+            "timestamp": "2022-08-09T16:56:53.779000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "キッチンが冷えるとかで履いてる人はいますね。",
+            "timestamp": "2022-08-09T16:57:19.544000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "なるほど！たしかに歩きにくそうですね。包丁持つのは怖い。",
+            "timestamp": "2022-08-09T16:57:37.729000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "危なそうですよねー",
+            "timestamp": "2022-08-09T16:58:03.842000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "履き方によるのかな。重ねて履くって考えてもみなかったのでいいこと教えていただきました！",
+            "timestamp": "2022-08-09T16:58:50.648000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "冷え対策に試してみてください！",
+            "timestamp": "2022-08-09T16:59:40.273000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "この冬にやってみたいことが増えました！",
+            "timestamp": "2022-08-09T16:59:57.194000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "いえいえ。こちらこそ、お話ありがとうございました！",
+            "timestamp": "2022-08-09T17:00:24.267000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "またお話ししましょう。",
+            "timestamp": "2022-08-09T17:00:28.992000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 2,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

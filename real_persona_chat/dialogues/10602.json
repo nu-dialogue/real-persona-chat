@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10602,
+    "interlocutors": [
+        "CD",
+        "HZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T14:05:29.034000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HZ",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-15T14:05:32.870000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CD",
+            "text": "趣味とかってありますか？",
+            "timestamp": "2022-08-15T14:05:35.719000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HZ",
+            "text": "映画見たり本読んだりするのが好きです",
+            "timestamp": "2022-08-15T14:05:50.198000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CD",
+            "text": "映画はどんなジャンルが好きですか？",
+            "timestamp": "2022-08-15T14:06:03.260000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HZ",
+            "text": "とくにジャンルにこだわりはないですね。おもしろそうならなんでも！",
+            "timestamp": "2022-08-15T14:06:19.347000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CD",
+            "text": "そうなんですね！最近見た映画はなんですか？",
+            "timestamp": "2022-08-15T14:06:36.329000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HZ",
+            "text": "最近は、女神の継承とかグレイマンを劇場でみましたよ",
+            "timestamp": "2022-08-15T14:06:56.376000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CD",
+            "text": "グレイマンちょっと気になってました！",
+            "timestamp": "2022-08-15T14:07:23.944000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HZ",
+            "text": "ネットフリックスで配信もしてますが、劇場のブーストサウンドでみました！",
+            "timestamp": "2022-08-15T14:07:42.347000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CD",
+            "text": "映画は劇場とシアターどっち派ですか？",
+            "timestamp": "2022-08-15T14:08:17.987000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HZ",
+            "text": "新作は基本映画館に行ってみるようにしてます。配信でもけっこうみますよ",
+            "timestamp": "2022-08-15T14:08:45.922000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CD",
+            "text": "新作は私も我慢できない時は映画館行っちゃいます。",
+            "timestamp": "2022-08-15T14:09:11.820000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HZ",
+            "text": "劇場ではそのときしかみられないですからねー",
+            "timestamp": "2022-08-15T14:09:33.908000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CD",
+            "text": "私、実は絶賛コロナ中で、映画ばっかり見てます。",
+            "timestamp": "2022-08-15T14:10:01.826000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HZ",
+            "text": "いいですね！最近なにみました？",
+            "timestamp": "2022-08-15T14:10:13.037000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CD",
+            "text": "今さっき、The Guiltyってやつ見ました。",
+            "timestamp": "2022-08-15T14:10:32.257000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HZ",
+            "text": "配信ですか？",
+            "timestamp": "2022-08-15T14:10:43.572000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CD",
+            "text": "はい。Netflixで見れます。",
+            "timestamp": "2022-08-15T14:10:57.817000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HZ",
+            "text": "もしかしたらみたことあるかな？電話のやつですか？",
+            "timestamp": "2022-08-15T14:11:18.804000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CD",
+            "text": "あ、そうです！",
+            "timestamp": "2022-08-15T14:11:23.179000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HZ",
+            "text": "あー、みました！",
+            "timestamp": "2022-08-15T14:11:38.843000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CD",
+            "text": "すごいハラハラドキドキ系ですよね！",
+            "timestamp": "2022-08-15T14:11:51.481000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HZ",
+            "text": "ですよね！そういうジャンルがお好きですか？",
+            "timestamp": "2022-08-15T14:12:10.393000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CD",
+            "text": "夏になるとこうゆうの見たくなりますねー。",
+            "timestamp": "2022-08-15T14:12:37.479000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HZ",
+            "text": "ホラーとかみます？",
+            "timestamp": "2022-08-15T14:12:52.423000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CD",
+            "text": "ホラーはね、苦手なんですよ。",
+            "timestamp": "2022-08-15T14:13:04.104000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HZ",
+            "text": "そうなんですかー。私はまあまあみます",
+            "timestamp": "2022-08-15T14:13:16.076000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CD",
+            "text": "サイコパス系だったら大丈夫なんですけど。",
+            "timestamp": "2022-08-15T14:13:32.076000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HZ",
+            "text": "結局一番怖いのは人間だったりしますね",
+            "timestamp": "2022-08-15T14:13:46.812000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

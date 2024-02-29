@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6874,
+    "interlocutors": [
+        "AS",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-09T14:03:56.270000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-09T14:04:00.535000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "明日のご予定はありますか？",
+            "timestamp": "2022-10-09T14:04:14.953000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "明日は休みです。",
+            "timestamp": "2022-10-09T14:04:39.839000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "ですよね～　何で授業入ってるんでしょう私のところ",
+            "timestamp": "2022-10-09T14:05:19.357000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "教授の都合とかでしょうか。",
+            "timestamp": "2022-10-09T14:05:37.896000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "ですかね、夏休み前はそんなこと一度もなかったんですが",
+            "timestamp": "2022-10-09T14:05:55.198000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "何かの帳尻合わせかも。",
+            "timestamp": "2022-10-09T14:06:21.696000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "それもありそうですね。冬休みとかが削られるよりはよかったかもしれません",
+            "timestamp": "2022-10-09T14:06:45.618000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "たしかに。",
+            "timestamp": "2022-10-09T14:07:00.731000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "ちょっとずつ休みがあるのと、一気に休みがあるのとどっちの方が好きですか？",
+            "timestamp": "2022-10-09T14:07:55.617000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "一気に休みがいいです。",
+            "timestamp": "2022-10-09T14:08:12.670000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "ゴールデンウィークみたいな",
+            "timestamp": "2022-10-09T14:08:28.058000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "ですね。本音は欧米みたいな数か月単位のバカンスがいいです。",
+            "timestamp": "2022-10-09T14:09:03.527000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "確かに、あれ凄いですよね。違う国に行ったり別荘で過ごしたり",
+            "timestamp": "2022-10-09T14:09:30.600000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "ですよね。",
+            "timestamp": "2022-10-09T14:10:06.656000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "長く休みをもらって、どこかに出かけたりしたいですか？",
+            "timestamp": "2022-10-09T14:10:36.328000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "そうですねー。海外にでも気ままに行きたいですかね。",
+            "timestamp": "2022-10-09T14:11:21.433000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "行きたい国とかありますか？",
+            "timestamp": "2022-10-09T14:11:34.406000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "世界一周してみたいところですが、インドとかいいかもです。",
+            "timestamp": "2022-10-09T14:12:07.962000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "インドに行きたいという声は初めて聴きました。何に興味があります？",
+            "timestamp": "2022-10-09T14:12:44.818000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "カレーを現地で食べてみたいなと。",
+            "timestamp": "2022-10-09T14:13:03.870000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "なるほど、スパイシーだと聞きます。",
+            "timestamp": "2022-10-09T14:13:27.056000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "ですね。めちゃくちゃ辛いらしいです。",
+            "timestamp": "2022-10-09T14:13:56.002000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "何十種類も入れてるらしいですね、味じゃなく香りを楽しむみたいなものなんですかね",
+            "timestamp": "2022-10-09T14:14:24.183000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "でしょうかね。スパイス自体の香りが強いらしいです。",
+            "timestamp": "2022-10-09T14:15:06.969000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "ちょっと興味がありつつも、でもいざ食べるとなると覚悟がいりそうですね",
+            "timestamp": "2022-10-09T14:15:33.013000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "ですね。汗を沢山かきそうです。",
+            "timestamp": "2022-10-09T14:16:06.038000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "チャンスがあったらいけるといいですね",
+            "timestamp": "2022-10-09T14:16:19.066000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "はい。",
+            "timestamp": "2022-10-09T14:16:27.725000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 2
+        }
+    ]
+}

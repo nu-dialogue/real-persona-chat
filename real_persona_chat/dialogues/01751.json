@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1751,
+    "interlocutors": [
+        "DG",
+        "DV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-16T14:55:15.487000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DV",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-16T14:55:22.337000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "コーヒーってお好きですか？",
+            "timestamp": "2022-08-16T14:55:31.596000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DV",
+            "text": "すごく好きで毎朝のんでます",
+            "timestamp": "2022-08-16T14:55:42.973000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "朝のコーヒーもいいですよね！私は飲み過ぎてしまいます",
+            "timestamp": "2022-08-16T14:56:03.736000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DV",
+            "text": "私も朝からペット1本飲んじゃいますよー",
+            "timestamp": "2022-08-16T14:56:18.347000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "ですよね、ブラックですか？甘いのが好きですか？",
+            "timestamp": "2022-08-16T14:56:33.946000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DV",
+            "text": "ブラック一択です！",
+            "timestamp": "2022-08-16T14:56:40.782000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "おお！コーヒー好き！って感じします",
+            "timestamp": "2022-08-16T14:56:54.940000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DV",
+            "text": "やっぱりブラックが一番コーヒーって感じです",
+            "timestamp": "2022-08-16T14:57:14.592000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "いつもペットですか？豆買ったりされますか？",
+            "timestamp": "2022-08-16T14:57:31.806000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DV",
+            "text": "前は豆を買ったりもしてたんですが、だんだんめんどくさくなっちゃって",
+            "timestamp": "2022-08-16T14:57:54.554000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "そうなんですね、私は今マシンを買うか悩んでいます",
+            "timestamp": "2022-08-16T14:58:09.244000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DV",
+            "text": "カプセルをセットしてコーヒーを落とせるやつももってますよ",
+            "timestamp": "2022-08-16T14:58:32.206000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "あ、ネスプレッソでしたっけ！ブースを見かけたことあります",
+            "timestamp": "2022-08-16T14:58:51.174000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DV",
+            "text": "便利なんですけど、お手入れが大変で",
+            "timestamp": "2022-08-16T14:59:15.711000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "そうなんですか、結構洗う部品がおおいのですか？",
+            "timestamp": "2022-08-16T14:59:36.424000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DV",
+            "text": "洗える部品と洗えない部品あって、結構大変だった記憶があります",
+            "timestamp": "2022-08-16T14:59:59.019000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "なるほどー。なんかブースに結構並んでいて試飲はできなかったのですがカッコイイなと思いました",
+            "timestamp": "2022-08-16T15:00:24.467000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DV",
+            "text": "買ってすぐは使ってたんですが、面倒になっちゃって今は棚の中で眠ってます",
+            "timestamp": "2022-08-16T15:00:44.857000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "あ、同じことになる未来が見えたかもしれないです",
+            "timestamp": "2022-08-16T15:00:58.698000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DV",
+            "text": "私がアイスコーヒー好きだからっていうのもあるかもしれません",
+            "timestamp": "2022-08-16T15:01:16.055000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "あの機械だとアイスは難しいんですか？",
+            "timestamp": "2022-08-16T15:01:29.184000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DV",
+            "text": "氷を大量に入れて抽出する感じですねー",
+            "timestamp": "2022-08-16T15:01:46.606000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "ああ、ちょっと面倒そうです。悩むなあ",
+            "timestamp": "2022-08-16T15:02:05.948000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DV",
+            "text": "お客さんに出すならそういうやつのほうがいいのかもしれませんが",
+            "timestamp": "2022-08-16T15:02:28.123000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "確かに喜ばれそうですが、日常使いとしてはっぽいですね",
+            "timestamp": "2022-08-16T15:02:49.221000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DV",
+            "text": "自分だけなら手軽なほうを選んじゃいますね",
+            "timestamp": "2022-08-16T15:03:02.389000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "聞いてみてよかったです！考え直そうかと思います！",
+            "timestamp": "2022-08-16T15:03:16.028000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DV",
+            "text": "参考になってよかったです",
+            "timestamp": "2022-08-16T15:03:25.260000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 600,
+    "interlocutors": [
+        "BB",
+        "AY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんばんは、はじめまして。",
+            "timestamp": "2022-08-14T21:26:52.688000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AY",
+            "text": "はじめまして！",
+            "timestamp": "2022-08-14T21:27:02.133000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "最近は長かったコロナ禍もやっと終わりが見えてきた感じがしますよね。",
+            "timestamp": "2022-08-14T21:27:22.250000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AY",
+            "text": "そうですね！いろいろ解放されてますね。",
+            "timestamp": "2022-08-14T21:27:41.909000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "感染者は相変わらず多いですが。周りにコロナに感染した方はいませんか？",
+            "timestamp": "2022-08-14T21:27:58.699000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AY",
+            "text": "あ！友達が陽性になりましたー。",
+            "timestamp": "2022-08-14T21:28:22.159000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "あらら、それは大変だ。症状は重くありませんか？",
+            "timestamp": "2022-08-14T21:28:34.754000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AY",
+            "text": "それが、軽症だったみたいで。",
+            "timestamp": "2022-08-14T21:28:47.421000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "それは何よりです。今はもう回復されてますか？",
+            "timestamp": "2022-08-14T21:29:02.522000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AY",
+            "text": "はい。ばっちりです。",
+            "timestamp": "2022-08-14T21:29:13.118000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "よかったよかった。<AY>さんは感染された経験ありませんか？",
+            "timestamp": "2022-08-14T21:29:28.620000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AY",
+            "text": "私はまだですね。あなたは？",
+            "timestamp": "2022-08-14T21:29:48.715000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "私もラッキーで1度もないです。ただ子供が1度無症状の感染者になりました。",
+            "timestamp": "2022-08-14T21:30:02.616000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AY",
+            "text": "おお！お子さんが陽性で、うつらなかったんですか？",
+            "timestamp": "2022-08-14T21:30:39.568000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "それが、私も旦那もうつらなかったんです。でも隔離生活はめちゃくちゃ大変でした。",
+            "timestamp": "2022-08-14T21:31:02.386000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AY",
+            "text": "何日ぐらい隔離したんですか？",
+            "timestamp": "2022-08-14T21:31:15.521000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "去年のことで、まだまだ隔離期間が長かったので。合計で半月ぐらいでした。",
+            "timestamp": "2022-08-14T21:31:31.144000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AY",
+            "text": "えーー！それは大変でしたね。",
+            "timestamp": "2022-08-14T21:31:47.262000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "私の住む地域は支援物資もなかったので、すべてネット注文で配達してもらいました。",
+            "timestamp": "2022-08-14T21:32:10.870000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AY",
+            "text": "どんなもの注文しました？",
+            "timestamp": "2022-08-14T21:32:24.795000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "スーパーの買い物もすべてネットでしたし、食事とかも時々出前を取りましたね。",
+            "timestamp": "2022-08-14T21:32:49.422000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AY",
+            "text": "やっぱり出かけられないと、不便ですよね！",
+            "timestamp": "2022-08-14T21:33:05.396000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "そうなんですよね。しかも仕事もしながら子供のお世話もあるから、もう大変で。",
+            "timestamp": "2022-08-14T21:33:38.514000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AY",
+            "text": "わー、お疲れ様です！本当に尊敬しちゃいます！",
+            "timestamp": "2022-08-14T21:34:01.096000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "とにかく子供に外に出れない理由を納得させるのに必死でした。",
+            "timestamp": "2022-08-14T21:34:16.202000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AY",
+            "text": "そうですよね。遊びたい盛りでしょう？",
+            "timestamp": "2022-08-14T21:34:41.125000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "そうなんです。まだ4歳なので、動きまわってますね。",
+            "timestamp": "2022-08-14T21:35:01.480000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AY",
+            "text": "大変だ！でも、なんでもなくて良かったですね！",
+            "timestamp": "2022-08-14T21:35:28.956000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "もう2度としたくない体験でした。",
+            "timestamp": "2022-08-14T21:35:33.469000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AY",
+            "text": "わかります！お互い気をつけたいですね。",
+            "timestamp": "2022-08-14T21:35:47.577000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

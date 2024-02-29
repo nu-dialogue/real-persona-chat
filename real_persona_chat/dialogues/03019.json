@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3019,
+    "interlocutors": [
+        "CR",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T10:05:24.505000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-25T10:05:32.398000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "趣味はお持ちですか？",
+            "timestamp": "2022-08-25T10:05:43.749000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "最近の趣味はゲームですね。モンハンやってます。",
+            "timestamp": "2022-08-25T10:06:01.358000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "スマホのでしょうか？",
+            "timestamp": "2022-08-25T10:06:16.051000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "Switchですね。武器担いでモンスター狩るゲームです。",
+            "timestamp": "2022-08-25T10:06:48.378000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "長い時間やってしまいますか？",
+            "timestamp": "2022-08-25T10:07:05.912000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "休日は6時間とか平気でやっちゃいますね。友人とオンラインでよくやってます。",
+            "timestamp": "2022-08-25T10:07:32.354000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "オンラインでやれるのですね。それは長引きそう。",
+            "timestamp": "2022-08-25T10:07:50.323000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "1クエストはだいたい15分もかからないのですが、色々とエンドコンテンツがあるのでつい。",
+            "timestamp": "2022-08-25T10:08:21.701000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "クエストってなんですか？",
+            "timestamp": "2022-08-25T10:08:39.831000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "「なんとかっていうモンスターを1体狩りましょう」みたいなお題ですね。",
+            "timestamp": "2022-08-25T10:09:25.351000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "そのタスクもみんなでクリアーするのですね",
+            "timestamp": "2022-08-25T10:09:48.747000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "ソロでももちろんできますが、人とやった方が楽しいので、私はオンラインでみんなでクリアしたい派です。",
+            "timestamp": "2022-08-25T10:10:24.308000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "モンスターは大勢にやっつけられるわけですね",
+            "timestamp": "2022-08-25T10:10:54.560000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "4人でぼこぼこにされてますよ。",
+            "timestamp": "2022-08-25T10:11:07.070000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "ちょっとかわいそうです",
+            "timestamp": "2022-08-25T10:11:17.044000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "モンハンやったことない人からよく聞かれる感想ですね。確かに、そう言われればかわいそうだと思います。",
+            "timestamp": "2022-08-25T10:12:03.012000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "モンスターは悪なのですか？",
+            "timestamp": "2022-08-25T10:14:09.837000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "そうですね、ものすごく悪ではないのですが、人々の生活を脅かしたりして狩猟の依頼がくるって感じです。",
+            "timestamp": "2022-08-25T10:15:15.770000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "誰が依頼を出してくるのですか？",
+            "timestamp": "2022-08-25T10:15:23.637000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "ですね。依頼する人がいて、それをギルドが受け取ってクエストとしてハンターに依頼します。",
+            "timestamp": "2022-08-25T10:15:50.951000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "依頼が来たら燃えてやっつけるわけですね",
+            "timestamp": "2022-08-25T10:16:17.047000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "ですね！楽しく狩ってます。",
+            "timestamp": "2022-08-25T10:16:44.622000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "一人よりみんなでやっつける方が楽しいのですね",
+            "timestamp": "2022-08-25T10:17:09.627000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "他の人の武器裁きとかそういうのも観察できますからね。",
+            "timestamp": "2022-08-25T10:17:31.513000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "おー、見習うのですね。",
+            "timestamp": "2022-08-25T10:17:53.019000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "めちゃくちゃ参考にします。罠とか爆弾とか、上手い使い方の人いっぱいいるので。",
+            "timestamp": "2022-08-25T10:18:23.969000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "何事も勉強ですね",
+            "timestamp": "2022-08-25T10:18:38.755000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "ですね。ありがとうございました。",
+            "timestamp": "2022-08-25T10:18:50.515000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

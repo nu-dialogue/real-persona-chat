@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6511,
+    "interlocutors": [
+        "DM",
+        "HL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T09:21:36.967000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HL",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T09:21:43.851000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "今日の天気はいかがですか？",
+            "timestamp": "2022-10-05T09:21:54.985000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HL",
+            "text": "こちらは曇りですよ。",
+            "timestamp": "2022-10-05T09:22:09.810000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "こちらは雨で，少し冷えています",
+            "timestamp": "2022-10-05T09:22:25.457000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HL",
+            "text": "朝晩肌寒くなりましたね。",
+            "timestamp": "2022-10-05T09:22:41.584000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "ですね．でも昼間は暑いくらいですよね",
+            "timestamp": "2022-10-05T09:22:57.762000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HL",
+            "text": "そうですね。まだ半袖でいいくらいですね。",
+            "timestamp": "2022-10-05T09:23:16.147000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "半袖で出かけるのですが，夜になると寒くて体調崩しそうです",
+            "timestamp": "2022-10-05T09:23:42.406000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HL",
+            "text": "上着は必要ですね。この時期体調崩しやすいですものね。",
+            "timestamp": "2022-10-05T09:24:08.675000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "秋の花粉？も来ていて鼻水も止まりません",
+            "timestamp": "2022-10-05T09:24:26.492000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HL",
+            "text": "花粉症持ちですか？",
+            "timestamp": "2022-10-05T09:24:40.216000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "持ってると思います．春より秋の方がしんどい気がします",
+            "timestamp": "2022-10-05T09:25:02.255000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HL",
+            "text": "そうですか。目がかゆかったりもしますか？",
+            "timestamp": "2022-10-05T09:25:19.593000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "今は全く痒さはないです！",
+            "timestamp": "2022-10-05T09:25:44.178000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HL",
+            "text": "そうですか。あまりひどくならないといいですね。",
+            "timestamp": "2022-10-05T09:26:02.238000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "あなたは体調を崩されてなどいないですか？",
+            "timestamp": "2022-10-05T09:26:23.384000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HL",
+            "text": "最近は少しめまいがあります。年のせいかな。",
+            "timestamp": "2022-10-05T09:26:45.014000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "それは心配です．季節の変わり目なのもありますかね",
+            "timestamp": "2022-10-05T09:27:23.799000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HL",
+            "text": "そうですね。季節の変わり目はとくにめまいがでやすいです。",
+            "timestamp": "2022-10-05T09:27:50.861000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "私も最近は朝，体が重くてなかなか起きられません",
+            "timestamp": "2022-10-05T09:28:29.604000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HL",
+            "text": "朝はつらいですね。お仕事されているのですか？",
+            "timestamp": "2022-10-05T09:28:50.161000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "いえ，学生です．昨日から授業が始まったので起きなければなりません",
+            "timestamp": "2022-10-05T09:29:13.272000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HL",
+            "text": "そうですか。授業大変ですね。",
+            "timestamp": "2022-10-05T09:29:40.725000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "就活も始めなくてはならなくて，ちょっとストレスです",
+            "timestamp": "2022-10-05T09:30:08.271000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HL",
+            "text": "あら。それは心身ともに疲れそうですね。私も就活は苦労しました。",
+            "timestamp": "2022-10-05T09:30:41.735000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "何社も面接に行かれたんですか？",
+            "timestamp": "2022-10-05T09:31:00.815000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HL",
+            "text": "合同説明会とかは行きました。最後はタウンページで行き当たりばったりの面接とったり。",
+            "timestamp": "2022-10-05T09:31:37.300000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "しっかり就活されたんですね．すごいです！",
+            "timestamp": "2022-10-05T09:32:01.450000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HL",
+            "text": "あなたも頑張ってください！",
+            "timestamp": "NaT"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

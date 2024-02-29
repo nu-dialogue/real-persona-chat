@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2074,
+    "interlocutors": [
+        "BQ",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-20T22:24:17.565000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-20T22:24:24.576000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "旅行に行くなら車か交通機関どっちが好きですか？",
+            "timestamp": "2022-08-20T22:24:43.972000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "うわーー難しい質問ですね。車かなあ",
+            "timestamp": "2022-08-20T22:25:12.598000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "車なんですね。ドライブとか好きですか？",
+            "timestamp": "2022-08-20T22:25:24.066000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "運転する方であれば割と。ただ車酔いするんです。",
+            "timestamp": "2022-08-20T22:25:42.466000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "それは辛いですね。新幹線とかも酔っちゃいますか？",
+            "timestamp": "2022-08-20T22:26:00.599000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "いや、電車系は酔わないです。車だけです。だからそう言う意味では交通機関かもしれません",
+            "timestamp": "2022-08-20T22:26:29.553000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。車だと時間に融通が利いていいですよね。",
+            "timestamp": "2022-08-20T22:26:45.528000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "自由ですしね。どちらですか？",
+            "timestamp": "2022-08-20T22:26:59.622000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "運転に自信がないので、交通機関ですかね。",
+            "timestamp": "2022-08-20T22:27:16.800000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "なるほど。誰か運転してくれる方がいたらいいですよね",
+            "timestamp": "2022-08-20T22:27:38.898000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "ですね。あとは景色を楽しみながらお弁当を食べるのが好きです。",
+            "timestamp": "2022-08-20T22:28:18.472000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "いいですね、電車でですか？",
+            "timestamp": "2022-08-20T22:28:32.524000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "電車もですが、新幹線でお弁当って特別な感じがして好きなんです。",
+            "timestamp": "2022-08-20T22:28:50.013000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "確かにいいですよね。特別感があります",
+            "timestamp": "2022-08-20T22:29:07.903000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "私は飲みませんが、お酒が飲めるっていうのも利点ですよね。",
+            "timestamp": "2022-08-20T22:29:24.469000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "飲まれないんですね。新幹線や飛行機でのむお酒って美味しいんですよ",
+            "timestamp": "2022-08-20T22:29:47.137000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "やはりそれも特別感があるんでしょうね。",
+            "timestamp": "2022-08-20T22:30:04.929000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "そうですね、高揚します。温泉にでも行きたくなってきました",
+            "timestamp": "2022-08-20T22:30:27.667000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "温泉いいですよね。結構行かれますか？",
+            "timestamp": "2022-08-20T22:30:45.935000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "コロナ禍になってからは全然ですね。行きますか？",
+            "timestamp": "2022-08-20T22:31:02.117000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "年に1回泊りでいったりで、あとは日帰りとかよく行きますね。",
+            "timestamp": "2022-08-20T22:31:18.645000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "いいですねー。どこかおすすめの温泉地はありますか",
+            "timestamp": "2022-08-20T22:31:37.137000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "あんまし県外詳しくないんですが、群馬の伊香保温泉が素敵でした。",
+            "timestamp": "2022-08-20T22:32:00.074000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "聞いたことあります！何がよかったですか",
+            "timestamp": "2022-08-20T22:32:18.292000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "お湯ももちろんですが、温泉街が賑わっていたことですね。",
+            "timestamp": "2022-08-20T22:32:58.744000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "へえお店が結構あるんですか？",
+            "timestamp": "2022-08-20T22:33:15.274000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "石段が有名でして、それを沿うようにしてお店が続いてるんです。",
+            "timestamp": "2022-08-20T22:33:51.290000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "楽しそう。いつか行ってみたいです",
+            "timestamp": "2022-08-20T22:34:07.263000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

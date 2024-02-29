@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3123,
+    "interlocutors": [
+        "BF",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんにちは、よろしくお願いしますね。",
+            "timestamp": "2022-08-26T10:28:12.479000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "よろしくお願いしますー。",
+            "timestamp": "2022-08-26T10:28:20.747000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "もうすぐお昼ですね！お昼ご飯は何を食べるか決めてますか？",
+            "timestamp": "2022-08-26T10:28:43.484000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "カルボナーラ作って食べようかなと思っています。",
+            "timestamp": "2022-08-26T10:29:02.785000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "えー！すごい。凝ってますね。",
+            "timestamp": "2022-08-26T10:29:13.689000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "凝ってないですよ。市販のルーです。",
+            "timestamp": "2022-08-26T10:29:37.597000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "あ、便利なやつですね！私はお昼ご飯、2択で悩んでいます。",
+            "timestamp": "2022-08-26T10:30:21.501000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "ですです。二択ですか。何と何だろう？",
+            "timestamp": "2022-08-26T10:30:39.883000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "カレーうどんとカツ丼です！",
+            "timestamp": "2022-08-26T10:31:02.666000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "おお！実はカレーうどんあまり食べたことないんですよね。",
+            "timestamp": "2022-08-26T10:31:23.225000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "え！そうなんですか？",
+            "timestamp": "2022-08-26T10:31:46.450000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "あれって素のうどんにカレーかけるだけですか？",
+            "timestamp": "2022-08-26T10:32:06.356000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "私はカレーに出汁をプラスして、そこにうどんを入れてます。",
+            "timestamp": "2022-08-26T10:32:51.460000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "ほうほう。聞いていたらおなかがすいてきました。",
+            "timestamp": "2022-08-26T10:33:10.730000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "わかります、食べ物の話ってお腹減りますよね。",
+            "timestamp": "2022-08-26T10:33:30.786000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "ですよね。かつ丼も捨てがたいなぁ。",
+            "timestamp": "2022-08-26T10:33:46.165000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "いいですよね。今日は子どもも家でお昼を食べるので、カツ丼がちょっと優勢です。",
+            "timestamp": "2022-08-26T10:34:31.110000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "子供はかつ丼好きですよねー。私も大好きです！",
+            "timestamp": "2022-08-26T10:34:55.416000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "ガッツリな感じでいいですよね！作るのも意外と簡単だし。",
+            "timestamp": "2022-08-26T10:35:21.359000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "え、意外に簡単なんですね。",
+            "timestamp": "2022-08-26T10:35:33.553000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "はい！流石にトンカツをあげるところから、だと大変ですけどね。",
+            "timestamp": "2022-08-26T10:36:17.710000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。そうですよねトンカツを作っていれば簡単か。",
+            "timestamp": "2022-08-26T10:36:40.837000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "昨日の夕ご飯の残りのトンカツがあるので、楽ちんなんです。",
+            "timestamp": "2022-08-26T10:37:18.072000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "いいですねぇ。私もかつ丼食べたくなってきました。",
+            "timestamp": "2022-08-26T10:37:48.401000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "私はカルボナーラが食べたくなりましたよ！",
+            "timestamp": "2022-08-26T10:38:14.091000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "パスタはソース買えば一瞬で作れます！",
+            "timestamp": "2022-08-26T10:38:30.991000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "たしかに。市販のパスタソースも最近は種類が豊富ですよね。",
+            "timestamp": "2022-08-26T10:38:58.245000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "ほんとにいろいろあります。結局いつも定番のやつを買っちゃいますが。",
+            "timestamp": "2022-08-26T10:39:23.307000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "わかります。ミートソースとかカルボナーラとか、ペペロンチーノとか。",
+            "timestamp": "2022-08-26T10:39:50.409000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "そうですそうです。たらこもすきです。",
+            "timestamp": "2022-08-26T10:40:05.460000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

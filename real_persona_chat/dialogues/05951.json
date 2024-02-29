@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5951,
+    "interlocutors": [
+        "GX",
+        "GM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-01T12:54:37.937000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GM",
+            "text": "こんにちは。お願いします。",
+            "timestamp": "2022-10-01T12:54:52.472000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "お昼ご飯は食べましたか？",
+            "timestamp": "2022-10-01T12:54:54.831000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GM",
+            "text": "食べました。おにぎりです。",
+            "timestamp": "2022-10-01T12:55:12.710000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "おにぎりだけですか？",
+            "timestamp": "2022-10-01T12:55:19.652000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GM",
+            "text": "あと、コーンスープです。残り物です。",
+            "timestamp": "2022-10-01T12:55:47.797000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。昨日の晩御飯のとかですかね？",
+            "timestamp": "2022-10-01T12:55:57.174000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GM",
+            "text": "朝、子どもが残したものです。お昼食べましたか？",
+            "timestamp": "2022-10-01T12:56:25.644000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "まだ食べていません。何を食べようか迷っています。",
+            "timestamp": "2022-10-01T12:56:42.658000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GM",
+            "text": "迷いますよね。残りがあると選択肢がなくて。",
+            "timestamp": "2022-10-01T12:57:12.958000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "そうですね。自分ではあまり作らないので、私は何を食べに行くかばかり考えているのですが。",
+            "timestamp": "2022-10-01T12:57:51.704000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GM",
+            "text": "選択肢があるのはいいですよ。食べたいものが食べられますから。",
+            "timestamp": "2022-10-01T12:58:29.259000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "そうですね。でも外食ばかりで体に悪いです。",
+            "timestamp": "2022-10-01T12:59:02.836000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GM",
+            "text": "なにが好きですか？",
+            "timestamp": "2022-10-01T12:59:27.959000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "そうですね。よく行くのはラーメンとかですね。",
+            "timestamp": "2022-10-01T12:59:48.536000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GM",
+            "text": "ラーメンいいですね。昨日食べました。毎日だと体に悪いですよね。野菜も食べないとです。",
+            "timestamp": "2022-10-01T13:00:46.398000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。わかります。ラーメン屋にもサラダメニューがあればいいのに。",
+            "timestamp": "2022-10-01T13:01:07.634000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GM",
+            "text": "がっつり食べたいときはいいですけどね。何系ラーメンが好きですか？私は味噌が好きです。",
+            "timestamp": "2022-10-01T13:01:53.119000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "味噌なんですね。私は王道に豚骨かな。",
+            "timestamp": "2022-10-01T13:02:07.364000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GM",
+            "text": "豚骨も好きですよ。並んで食べたりしますか？",
+            "timestamp": "2022-10-01T13:03:00.162000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "並ぶときもありますけど。人気店がちかくにあったりしますか？",
+            "timestamp": "2022-10-01T13:03:18.829000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GM",
+            "text": "国道沿いに何件かあって、豚骨系なんですが。並ばずに入れる時を狙っていきます。",
+            "timestamp": "2022-10-01T13:04:31.238000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。近くにあるとすいている時間帯にいけて、いいですね！",
+            "timestamp": "2022-10-01T13:04:53.566000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GM",
+            "text": "そうですね。でもおいしいところは並んででも食べたいときは並びます。近くにありますか？",
+            "timestamp": "2022-10-01T13:06:10.119000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "いやーあまりないんですよ。一つだけ、テレビでも紹介されていたような店があります。",
+            "timestamp": "2022-10-01T13:06:37.645000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GM",
+            "text": "テレビで紹介されると並んじゃいますよね。なかなか行けなくなります。町中華も好きですか？",
+            "timestamp": "2022-10-01T13:07:47.468000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "ですよね！中華ですか。近くの王将はよく行きます。",
+            "timestamp": "2022-10-01T13:08:08.240000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GM",
+            "text": "あー！王将は美味しいですよねー！テイクアウトでよく食べます。お店ではあまり食べたことがないんですが。",
+            "timestamp": "2022-10-01T13:08:53.718000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "そうですね。餃子がおいしいですねやはり。",
+            "timestamp": "2022-10-01T13:09:08.067000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GM",
+            "text": "はい！餃子最高です！",
+            "timestamp": "2022-10-01T13:09:28.093000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

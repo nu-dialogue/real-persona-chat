@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5329,
+    "interlocutors": [
+        "EQ",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T14:31:36.644000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T14:31:42.274000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "最近コロナは流行っていますか？",
+            "timestamp": "2022-09-23T14:31:51.886000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "そうですね、東京在住なのでピーク時よりは落ち着いてますが、、先月罹ってしまいました、、",
+            "timestamp": "2022-09-23T14:32:29.121000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "そうでしたか。よかったら症状を教えてください。",
+            "timestamp": "2022-09-23T14:32:45.801000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "最初のどに違和感があって、その後のどが痛くなりました。",
+            "timestamp": "2022-09-23T14:33:18.951000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "熱はありましたか？",
+            "timestamp": "2022-09-23T14:33:31.766000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "熱は1日でひきましたが、37度後半くらいまで上がりましたよ。",
+            "timestamp": "2022-09-23T14:34:04.528000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "ありがとうございます。辛いことを思い出させてしまったらごめんなさいね。",
+            "timestamp": "2022-09-23T14:34:24.425000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "いえいえ全然大丈夫ですよ！とにかくのどが痛かったです！食欲はあったのですけど！",
+            "timestamp": "2022-09-23T14:35:00.294000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "私はまだかかっていないので、まだ心配しています。",
+            "timestamp": "2022-09-23T14:35:26.874000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "心配ですよね。のどに違和感感じたら、注意かもです。",
+            "timestamp": "2022-09-23T14:35:52.901000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "のどですね。気を付けたいと思います。",
+            "timestamp": "2022-09-23T14:36:14.016000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "はい！でもこれだけ流行っていると、いつ感染してもおかしくない状況ですよね。",
+            "timestamp": "2022-09-23T14:36:43.922000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "最近は美容院でも、マスクしないように言われるのでどうなんでしょうね。",
+            "timestamp": "2022-09-23T14:37:09.923000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "美容院行く時、結構気を遣いますよね。",
+            "timestamp": "2022-09-23T14:37:32.293000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "カラーする時に邪魔になってしまうみたいです。",
+            "timestamp": "2022-09-23T14:37:58.928000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "そうですね。耳の辺りとか特に。元々美容院で喋るの得意ではないので、黙美容院はありがたいですが、、！",
+            "timestamp": "2022-09-23T14:38:52.208000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "私は美容師さんとよくしゃべりますが、客商売なのでお互い気を遣った方がよいのでは、と思いますね。",
+            "timestamp": "2022-09-23T14:39:34.774000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "確かにそうですね！美容院といえば、先日髪をばっさり切ってしまいました！",
+            "timestamp": "2022-09-23T14:40:08.244000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "思い切りましたね。",
+            "timestamp": "2022-09-23T14:40:29.442000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "短いの久しぶりなのですが、こんなに楽だったとは、、と思ってます。",
+            "timestamp": "2022-09-23T14:40:53.314000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "何か心境の変化でもあったのでしょうか。",
+            "timestamp": "2022-09-23T14:41:11.697000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "気分転換です。コロナもあって鬱々としたのが続いていたので、、",
+            "timestamp": "2022-09-23T14:41:44.990000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "それは、さっぱりしたでしょう。最近湿度も高いですしね。",
+            "timestamp": "2022-09-23T14:42:19.962000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "そうですね！台風が近づくと、じめじめしますね。",
+            "timestamp": "2022-09-23T14:42:56.679000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "私は湿度があると、髪の毛が跳ね始めます。",
+            "timestamp": "2022-09-23T14:43:19.121000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "なかなかまとまらなくなるのですね。",
+            "timestamp": "2022-09-23T14:43:31.150000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "そうなんです。最近なので髪の毛の質が変わったのかも。",
+            "timestamp": "2022-09-23T14:44:10.341000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "なるほど。髪質にも変化があるのですね。",
+            "timestamp": "2022-09-23T14:44:42.822000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

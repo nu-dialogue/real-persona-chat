@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13467,
+    "interlocutors": [
+        "FV",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-23T14:06:31.571000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-23T14:06:37.671000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "お昼ごはんは食べましたか？",
+            "timestamp": "2022-09-23T14:06:42.654000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "はい、食べました。",
+            "timestamp": "2022-09-23T14:06:50.133000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "何を食べました？",
+            "timestamp": "2022-09-23T14:06:56.908000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "チャーハンです",
+            "timestamp": "2022-09-23T14:07:03.775000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "いいですね、ご自宅ですか？",
+            "timestamp": "2022-09-23T14:07:12.205000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "はい、そうですよ。",
+            "timestamp": "2022-09-23T14:07:20.248000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "自炊ですか？",
+            "timestamp": "2022-09-23T14:07:27.706000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "はい、自炊しました",
+            "timestamp": "2022-09-23T14:07:38.125000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "いいですね、チャーハンなんか珍しいものいれたりしますか？",
+            "timestamp": "2022-09-23T14:07:53.073000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "入れないですね。今日はベーコンとネギでした",
+            "timestamp": "2022-09-23T14:08:16.203000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "なるほど。料理は好きですか？",
+            "timestamp": "2022-09-23T14:08:27.088000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "そこまでですね。休日するくらいで",
+            "timestamp": "2022-09-23T14:08:48.872000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "なるほど。夕飯の予定はありますか？",
+            "timestamp": "2022-09-23T14:08:58.109000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "まだ決めていないです。",
+            "timestamp": "2022-09-23T14:09:08.604000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "お買い物とかいきますか？このあと。",
+            "timestamp": "2022-09-23T14:09:21.065000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "はい、夕方行く予定です",
+            "timestamp": "2022-09-23T14:09:36.260000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "お天気はまだ大丈夫そうですか？",
+            "timestamp": "2022-09-23T14:09:43.770000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "大丈夫そうですね。今のところ",
+            "timestamp": "2022-09-23T14:09:57.490000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "それはよかったです。買い物も天気悪いと億劫になります。",
+            "timestamp": "2022-09-23T14:10:11.998000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。悪天候の中買い物だけするのは気が引けますね",
+            "timestamp": "2022-09-23T14:10:39.816000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "買ったもの、濡れちゃうのが嫌です。",
+            "timestamp": "2022-09-23T14:10:58.171000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "まあすぐ食べてしまうのでいいですが。",
+            "timestamp": "2022-09-23T14:11:20.044000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "明日明後日の休みの予定はありますか？",
+            "timestamp": "2022-09-23T14:11:38.520000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "明日はあります。明後日は無いです",
+            "timestamp": "2022-09-23T14:11:52.124000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "なるほど、明日はなにをされますか？",
+            "timestamp": "2022-09-23T14:12:02.195000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "従兄弟の相手ですね。午後に",
+            "timestamp": "2022-09-23T14:12:16.369000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "なるほど、ある意味肉体労働ですか？",
+            "timestamp": "2022-09-23T14:12:28.983000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "まあそういうことです",
+            "timestamp": "2022-09-23T14:12:35.827000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7537,
+    "interlocutors": [
+        "CF",
+        "IH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "こんばんわ。こんな時間なんですが実はおなかが空いてしまいました。",
+            "timestamp": "2022-08-04T00:32:24.157000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IH",
+            "text": "こんばんは。何を食べたくなりましたか？",
+            "timestamp": "2022-08-04T00:33:01.352000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "そうですね，夕飯にトマトラーメンを食べたのですがまたトマトが食べたくなりました。",
+            "timestamp": "2022-08-04T00:33:48.909000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IH",
+            "text": "いいですね！この時間でもトマトなら許されそうな気がします。",
+            "timestamp": "2022-08-04T00:34:31.197000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "今ダイエット中でどうしてもためらってしまいます。",
+            "timestamp": "2022-08-04T00:35:03.102000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IH",
+            "text": "それはためらいますね。ちなみに一番好きな食べ物は何ですか？",
+            "timestamp": "2022-08-04T00:35:47.249000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "お刺身好きなんです！特にはまちが大好きです。",
+            "timestamp": "2022-08-04T00:36:26.924000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IH",
+            "text": "お刺身！いいですね。お寿司も好きなんですか？",
+            "timestamp": "2022-08-04T00:37:19.482000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "お寿司大好きです！なんですかね，生ものがきっと好きなんです。",
+            "timestamp": "2022-08-04T00:37:48.187000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IH",
+            "text": "私は苦手な生魚もあるので、うらやましいです。",
+            "timestamp": "2022-08-04T00:39:04.930000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "苦手な生魚には何がありますか？",
+            "timestamp": "2022-08-04T00:39:29.432000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IH",
+            "text": "サーモンやえび、イカが苦手です。",
+            "timestamp": "2022-08-04T00:40:27.745000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "そうなんですね！イカって好き嫌い別れますもんね。",
+            "timestamp": "2022-08-04T00:40:52.155000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IH",
+            "text": "そうですね、加熱されたイカなら好きなんですが、、",
+            "timestamp": "2022-08-04T00:41:29.183000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "なるほど！サーモンは普通の焼き鮭とかだと大丈夫なのですか？",
+            "timestamp": "2022-08-04T00:42:23.736000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IH",
+            "text": "はい、焼き鮭はむしろ好きな部類に入ります。",
+            "timestamp": "2022-08-04T00:43:21.063000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "そうなんですね。おにぎりに入ってる鮭，あれも好きなんですよ。おいしいですよね。",
+            "timestamp": "2022-08-04T00:43:53.339000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IH",
+            "text": "わかります。鮭のお茶漬けも好きです。",
+            "timestamp": "2022-08-04T00:44:56.718000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "すごくいいですね！私お酒も少し飲むんですが〆にお茶漬け食べちゃってしょっちゅう罪悪感感じます。",
+            "timestamp": "2022-08-04T00:45:55.756000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IH",
+            "text": "〆にお茶漬けですか！それはやったことないんですが良さそうですね。",
+            "timestamp": "2022-08-04T00:46:56.996000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "もうカロリーがすごいことになりますがなんか好きなんですよね。お酒は飲みますか？",
+            "timestamp": "2022-08-04T00:47:48.561000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IH",
+            "text": "たまにですが飲みます。",
+            "timestamp": "2022-08-04T00:48:11.561000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "学生さんだとたまにですよね。私はビールとかをつい料理しながら飲んじゃうんです。",
+            "timestamp": "2022-08-04T00:49:08.674000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IH",
+            "text": "いいですね！料理しながら飲んだことはないかもしれないです。",
+            "timestamp": "2022-08-04T00:49:50.252000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "揚げ物とかしてるとビール欲しくなっちゃうんですよね。最近は炭酸で我慢してます。",
+            "timestamp": "2022-08-04T00:50:25.775000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IH",
+            "text": "揚げ物をしないから飲まないのかもしれません。炭酸水ですか？",
+            "timestamp": "2022-08-04T00:51:20.086000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "そうです。無糖のレモン味の炭酸をよく飲みます。",
+            "timestamp": "2022-08-04T00:51:52.137000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IH",
+            "text": "炭酸水だったら罪悪感もなくてよさそうです。",
+            "timestamp": "2022-08-04T00:52:22.481000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "ですよね。これで我慢してます。楽しくお話しできて良かったです。",
+            "timestamp": "2022-08-04T00:52:55.623000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IH",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-04T00:53:14.452000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "IH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

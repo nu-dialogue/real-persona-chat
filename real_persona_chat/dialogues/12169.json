@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 12169,
+    "interlocutors": [
+        "EQ",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-04T16:26:40.262000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-04T16:26:46.744000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "夏は暑いですが、普段の移動手段は何が多いですか？",
+            "timestamp": "2022-09-04T16:27:17.464000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "電車が多いです。駅に着くまでに汗ダラダラですが",
+            "timestamp": "2022-09-04T16:27:33.742000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "駅までどのくらい歩きますか？",
+            "timestamp": "2022-09-04T16:27:44.429000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "6分くらいです。ホームまで",
+            "timestamp": "2022-09-04T16:27:55.828000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "それは、近い方ですね。",
+            "timestamp": "2022-09-04T16:28:07.560000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "はい、ただ道中に日陰が無いので暑いです",
+            "timestamp": "2022-09-04T16:28:19.966000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "良いところにお住まいですね。",
+            "timestamp": "2022-09-04T16:28:31.211000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "多少狭くても立地がいいところに住みたいなと思いまして",
+            "timestamp": "2022-09-04T16:28:49.138000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "駅のそばだと家が狭くなるのですね。でも、近くてうらやましいです。",
+            "timestamp": "2022-09-04T16:29:12.048000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "狭いのは気にしないタイプです。家具をたくさん並べるタイプではないので",
+            "timestamp": "2022-09-04T16:29:38.104000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "私は、知らないうちに物が増えてしまうタイプです。引っ越しの時に苦労しました。",
+            "timestamp": "2022-09-04T16:30:07.515000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "なるほど、衝動買いというものでしょうか",
+            "timestamp": "2022-09-04T16:30:28.460000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "どうなのでしょう。それより、物持ちがよいような気がします。",
+            "timestamp": "2022-09-04T16:30:45.779000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "なるほど、それは悪いとは言えないですね",
+            "timestamp": "2022-09-04T16:31:01.149000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "10年以上前のものを着ていたりします。途中着用していない時期があったりして。",
+            "timestamp": "2022-09-04T16:31:28.376000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "サイズが変わらないのであれば、それもいいかもしれませんね",
+            "timestamp": "2022-09-04T16:31:49.743000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "途中でサイズが変わり着ることがなくて、戻ったので着たということかもしれません。",
+            "timestamp": "2022-09-04T16:32:19.983000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "服や靴は馴染んでくるので、古くなると扱いに困ります",
+            "timestamp": "2022-09-04T16:32:50.533000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "取っておいても、まったく着用しないものは捨てますが、その判断が難しいです。",
+            "timestamp": "2022-09-04T16:33:30.021000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "そうですね。靴下と違って明らかに使えない時って少ないので",
+            "timestamp": "2022-09-04T16:33:59.749000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "靴下は確かに消耗がすぐわかりますね。",
+            "timestamp": "2022-09-04T16:34:30.506000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "はい、穴があいてしまいますし",
+            "timestamp": "2022-09-04T16:34:45.736000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "革製品は、気がついたらぼろぼろになっていてびっくりしたことがありました。",
+            "timestamp": "2022-09-04T16:35:06.646000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "そういうものだろうと思って使っていると、急に劣化することがありますよね",
+            "timestamp": "2022-09-04T16:35:30.571000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "手入れが必要なのですね。時々クリームを塗るようになりました。",
+            "timestamp": "2022-09-04T16:35:46.205000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "確かに、靴とかは磨くイメージがありますよね",
+            "timestamp": "2022-09-04T16:36:10.340000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "あと、バッグとか財布ですね。",
+            "timestamp": "2022-09-04T16:36:30.065000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "財布もですか！",
+            "timestamp": "2022-09-04T16:36:36.696000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "EQ",
+            "text": "気を付けてくださいね。",
+            "timestamp": "2022-09-04T16:36:52.364000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

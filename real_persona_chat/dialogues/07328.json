@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7328,
+    "interlocutors": [
+        "AN",
+        "ET"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-03T09:26:09.115000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ET",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-03T09:26:50.629000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "朝ごはんは、ご飯派ですか？それともパン派？",
+            "timestamp": "2022-08-03T09:27:09.621000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ET",
+            "text": "朝ごはんは子供の残りを食べる派です。パンが多いですね。",
+            "timestamp": "2022-08-03T09:27:23.801000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "なるほど！我が家は夫のお弁当を作ることが多いのでご飯派なんです。",
+            "timestamp": "2022-08-03T09:27:56.141000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ET",
+            "text": "毎日、旦那さんのお弁当を作られてるんですね！素晴らしい！",
+            "timestamp": "2022-08-03T09:28:17.567000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "ありがとうございます！お料理するのが好きなので、お弁当作り結構楽しんでいます。",
+            "timestamp": "2022-08-03T09:28:55.246000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ET",
+            "text": "今日は愛情と一緒に何を詰め込んだんですか？",
+            "timestamp": "2022-08-03T09:29:14.182000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "今日は昨日作ったローストビーフが余ったので、ローストビーフのサンドイッチ弁当にしましたよ。",
+            "timestamp": "2022-08-03T09:30:10.194000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ET",
+            "text": "美味しそうー！旦那さんからは、お弁当好評です？",
+            "timestamp": "2022-08-03T09:30:33.883000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "どうなんでしょう？よく考えたらお弁当の感想を貰ったことないかもしれません！",
+            "timestamp": "2022-08-03T09:31:06.767000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ET",
+            "text": "えー！旦那さんはもっと感謝すべきだと思う。私は夏休みだけ子供のお弁当作ってますが、毎日それだけでグッタリします。",
+            "timestamp": "2022-08-03T09:31:34.475000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "毎日お疲れさまです。子どものお弁当を作るのって、大人のお弁当作りよりも大変な気がします。",
+            "timestamp": "2022-08-03T09:32:11.665000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ET",
+            "text": "夕ご飯のあまりとか冷凍を活用してますけどね。それでも偉そうに「どうだった？」と毎日感想を強要しちゃいます。",
+            "timestamp": "2022-08-03T09:32:45.299000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "美味しかったよーって言ってもらえると、明日も頑張って作るための活力になりますもんね。",
+            "timestamp": "2022-08-03T09:33:20.530000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ET",
+            "text": "ですね！美味しかったと言われる食材に限って冷凍モノだったりするんですが。",
+            "timestamp": "2022-08-03T09:33:48.056000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "最近の冷凍食品って結構おいしくなっているらしいですよね！",
+            "timestamp": "2022-08-03T09:34:09.433000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ET",
+            "text": "ですね！この前食べたらおいしくてビックリしました。唐揚げとかは特にそうですね。",
+            "timestamp": "2022-08-03T09:34:49.696000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "そうなんですか！夏休みのお昼用に唐揚げ買ってみようかな！",
+            "timestamp": "2022-08-03T09:35:11.356000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ET",
+            "text": "良いと思います！今日のお昼は何作るか決めてらっしゃるんですか？",
+            "timestamp": "2022-08-03T09:35:55.887000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "全然決まっていないんですよね。今日はオムライスでも作ろうかな。",
+            "timestamp": "2022-08-03T09:36:12.042000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ET",
+            "text": "オムライス良いですね。うちの子も大好きなので良く作ります。上手く作るコツはありますか？",
+            "timestamp": "2022-08-03T09:36:33.678000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "ケチャップライスを作るときに、ケチャップを少し炒めるようにしています。甘味が増すそうですよ。",
+            "timestamp": "2022-08-03T09:37:02.712000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ET",
+            "text": "ケチャップをごはんより先に入れるということですか？次からやってみます！",
+            "timestamp": "2022-08-03T09:37:29.562000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "そうですー！あなたのお子様は好き嫌いとか多いですか？",
+            "timestamp": "2022-08-03T09:38:27.542000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ET",
+            "text": "長女はそうでもないんですが、次女が酷い偏食なんですよー。",
+            "timestamp": "2022-08-03T09:39:07.332000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "我が家も次女が偏食ひどいんです。いつか偏食なおるといいのですが。",
+            "timestamp": "2022-08-03T09:39:22.331000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ET",
+            "text": "長女も小２のあたりまでは偏食でした。でも急に食べだすように。次女もそうなることを祈ってます。",
+            "timestamp": "2022-08-03T09:39:51.801000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "ですね！では、今日はこのあたりで。ありがとうございました。",
+            "timestamp": "2022-08-03T09:40:10.940000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ET",
+            "text": "はい！楽しいだけでなく、有益なお話をありがとうございます。",
+            "timestamp": "2022-08-03T09:40:26.542000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

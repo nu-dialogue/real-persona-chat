@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8829,
+    "interlocutors": [
+        "AB",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "どうもー、お変わりないですか？",
+            "timestamp": "2022-08-07T13:41:23.353000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "大丈夫です。水分補給はしてますか？",
+            "timestamp": "2022-08-07T13:41:42.143000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "この酷暑、するように心がけてます。あなたもですか？",
+            "timestamp": "2022-08-07T13:41:56.967000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "はい。補給しまくっています。汗が出ますが。",
+            "timestamp": "2022-08-07T13:42:17.530000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "汗かくのはいいことです！普段、あまり水を飲まないので、意識して飲んでます。",
+            "timestamp": "2022-08-07T13:42:51.468000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "塩分もひつようですよね。",
+            "timestamp": "2022-08-07T13:43:08.581000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "そうですね。水よりコーヒー飲んじゃいます。",
+            "timestamp": "2022-08-07T13:43:28.883000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "私は強炭酸で喉をシュワシュワさせるのが好きです。",
+            "timestamp": "2022-08-07T13:44:02.526000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "炭酸水も常にストックしてます。生姜シロップ入れてジンジャーエールにしてます。",
+            "timestamp": "2022-08-07T13:44:41.648000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "おいしそうですね。手作りジンジャエール！",
+            "timestamp": "2022-08-07T13:44:58.802000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "美味しいですよ！夏は、あと、アイス食べることが増えます。",
+            "timestamp": "2022-08-07T13:45:15.928000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "いいですね。私はハーゲンダッツとガリガリ君がすきです。そちらはいかがですか？",
+            "timestamp": "2022-08-07T13:46:04.861000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "私は、ハーゲンダッツとＭＯＷが好きで、実は、ガリガリ君苦手なんです。",
+            "timestamp": "2022-08-07T13:46:26.024000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "そうなんですね。ミルク系がお好きなのですね。",
+            "timestamp": "2022-08-07T13:46:45.297000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "そうなんです。ガリガリ君はあのシャリシャリした触感が苦手で。",
+            "timestamp": "2022-08-07T13:47:02.942000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "シャリシャリ感がいいんですよ。かき氷も苦手ですか？",
+            "timestamp": "2022-08-07T13:47:59.855000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "なぜかかき氷は好きです。硬いのを噛むのが無理なんです。",
+            "timestamp": "2022-08-07T13:48:25.449000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "たしかに。ガリガリ君も少し溶けたのを食べます。かき氷と言えばお祭りですが、お祭りは行かれますか？",
+            "timestamp": "2022-08-07T13:49:20.811000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "お祭り大好きです。あなたは？",
+            "timestamp": "2022-08-07T13:49:33.613000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "私も大好きです。昔はよく花火大会に行ってました。",
+            "timestamp": "2022-08-07T13:50:09.391000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "私の周りはまだ今年も中止です。そちらはどうですか？",
+            "timestamp": "2022-08-07T13:50:28.845000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "ちらほら開催しているという話だけ聞きますが、人混みを避けたいので行ってません。",
+            "timestamp": "2022-08-07T13:51:25.449000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "皆、3年我慢したから、殺到するでしょうね。私も人混み怖いです。",
+            "timestamp": "2022-08-07T13:51:37.158000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "もはや、涼しい部屋でテレビでやってる花火でもいいかと思ったりもしますがつまらないですよね。",
+            "timestamp": "2022-08-07T13:52:37.376000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "わかります。花火は手持ち花火で我慢してます。花火しますか？",
+            "timestamp": "2022-08-07T13:52:56.688000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "実家に帰った時などは甥っ子や姪っ子たちと花火はしますね。",
+            "timestamp": "2022-08-07T13:53:40.688000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "家族でする花火もいいですよね。でも、久しぶりに大きな花火みたいなぁ。",
+            "timestamp": "2022-08-07T13:54:05.604000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "いいですよね。一番最前列の特等席で大きな花火観たいです。",
+            "timestamp": "2022-08-07T13:54:38.373000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "ですね。予告なし花火に遭遇することを祈ります。ではこの辺で！",
+            "timestamp": "2022-08-07T13:54:57.018000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "はい！",
+            "timestamp": "2022-08-07T13:55:07.085000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1411,
+    "interlocutors": [
+        "BQ",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T15:36:10.068000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-14T15:36:12.997000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "お昼ご飯は何を食べられましたか？",
+            "timestamp": "2022-08-14T15:36:23.613000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "中華を食べました。あなたは？",
+            "timestamp": "2022-08-14T15:36:37.188000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "私はチャーハンを食べました。同じ中華ですね。",
+            "timestamp": "2022-08-14T15:36:56.101000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "同じですね！自炊ですか？",
+            "timestamp": "2022-08-14T15:37:19.080000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "冷凍をチンして食べました。ももさんはお店ですか？",
+            "timestamp": "2022-08-14T15:37:36.596000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "はい。近くに美味しい中華屋さんがあるんですよ。",
+            "timestamp": "2022-08-14T15:37:56.487000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "それは羨ましいです。外食もいいかなと思ったんですが、どこも混んでいて諦めました。",
+            "timestamp": "2022-08-14T15:38:43.649000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "日曜日ですからねー。中国人がやってる中華は美味しいです。",
+            "timestamp": "2022-08-14T15:39:10.722000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "本格的な中華屋さんなんですね。何を食べましたか？",
+            "timestamp": "2022-08-14T15:39:27.342000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "酢豚です！噂ですが、接客が悪いところほど美味しいらしいです。",
+            "timestamp": "2022-08-14T15:39:58.968000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "チャーハンの他に酢豚ですか。いいですね。確かにそういうところは味は確かですよね。",
+            "timestamp": "2022-08-14T15:40:22.564000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "そうなんですよ。ちょっとは夏バテしたいですね。",
+            "timestamp": "2022-08-14T15:40:57.173000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "夏バテも食べれない分キツイと聞きますね。",
+            "timestamp": "2022-08-14T15:41:26.743000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "そうですね。あなたは大丈夫ですか？",
+            "timestamp": "2022-08-14T15:41:46.852000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "幸い食欲はあります。暑さには負けてしまいそうですけど。",
+            "timestamp": "2022-08-14T15:42:10.309000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "今年は６月辺りから暑かったですもんね！",
+            "timestamp": "2022-08-14T15:42:41.666000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "梅雨もあっという間に空けてすぐ暑くなりましたもんね。",
+            "timestamp": "2022-08-14T15:43:02.992000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "雨は好きじゃないので良かったです。",
+            "timestamp": "2022-08-14T15:43:20.717000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "雨はお好きじゃないんですね。私は雨音が結構好きだったりします。",
+            "timestamp": "2022-08-14T15:43:55.247000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "あ、でもそれは分かります。落ち着くというか。",
+            "timestamp": "2022-08-14T15:44:10.913000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "自然の音って癒されますよね。",
+            "timestamp": "2022-08-14T15:44:24.627000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "はい。雨音の作業用BGMとかもありますよ。",
+            "timestamp": "2022-08-14T15:44:48.326000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "よく聞いています。作業中何かBGMは聞いたりしますか？",
+            "timestamp": "2022-08-14T15:45:08.529000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "私はカフェBGMですかね。",
+            "timestamp": "2022-08-14T15:46:51.672000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "ジャズっぽくて落ち着きますよね。コーヒーが飲みたくなります。",
+            "timestamp": "2022-08-14T15:45:53.261000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "はい。結構集中できますね。",
+            "timestamp": "2022-08-14T15:46:07.196000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "音楽の力は偉大ですね。ありがとうございました。",
+            "timestamp": "2022-08-14T15:46:22.554000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-14T15:46:31.321000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11897,
+    "interlocutors": [
+        "DE",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DE",
+            "text": "こんにちは。昨日今日は何をされていましたか？",
+            "timestamp": "2022-08-28T14:13:32.532000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。私は木曜日にワクチンを打って、昨日までは副反応で休んでました。",
+            "timestamp": "2022-08-28T14:14:00.381000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DE",
+            "text": "あら、そうだったんですね！副反応どんな症状でしたか？",
+            "timestamp": "2022-08-28T14:14:24.794000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "少し熱が出たのと、頭痛がありました。",
+            "timestamp": "2022-08-28T14:14:42.857000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DE",
+            "text": "それはお大事にです。今はどうですか？",
+            "timestamp": "2022-08-28T14:14:57.856000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "今はだいぶ落ち着きました。",
+            "timestamp": "2022-08-28T14:15:24.666000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DE",
+            "text": "それは良かったです。腕は腫れてますか？",
+            "timestamp": "2022-08-28T14:15:43.447000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "今のところ、そんな感じはないです。",
+            "timestamp": "2022-08-28T14:16:05.967000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DE",
+            "text": "まだまだ感染者多いですし、感染には気を付けたいものですね。",
+            "timestamp": "2022-08-28T14:16:42.642000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "そうですね、一応ワクチン打てたので少し安心ですが。",
+            "timestamp": "2022-08-28T14:17:06.800000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DE",
+            "text": "さっきテレビの情報番組でコロナの後遺症の話題をやっていました。",
+            "timestamp": "2022-08-28T14:17:31.893000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "感染するだけでなく後遺症が残るのも嫌ですからね。",
+            "timestamp": "2022-08-28T14:18:30.302000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DE",
+            "text": "ほんとです。自分が感染して後遺症が出たらどうなるのかと思うと恐怖です。",
+            "timestamp": "2022-08-28T14:19:07.495000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "ワクチンは何回打たれましたか？",
+            "timestamp": "2022-08-28T14:19:43.855000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DE",
+            "text": "これまでモデルナを３回打ちましたよ。そちらは何度目でしたか？",
+            "timestamp": "2022-08-28T14:20:15.785000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "私は今回のが4回目です。",
+            "timestamp": "2022-08-28T14:21:04.989000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DE",
+            "text": "そうでしたか。種類は何を打たれたんですか？",
+            "timestamp": "2022-08-28T14:21:58.211000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "ファイザー2回の後、モデルナ2回です。",
+            "timestamp": "2022-08-28T14:22:18.217000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DE",
+            "text": "ファイザーファイザーモデルナがいいと聞きました。",
+            "timestamp": "2022-08-28T14:22:43.362000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "私もそうして、4回目はまたモデルナ打ちました。",
+            "timestamp": "2022-08-28T14:23:11.896000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DE",
+            "text": "そうだったんですね。しばらく安心？ですね。気を付けながらですが。",
+            "timestamp": "2022-08-28T14:23:43.306000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "そうですね、これで気持ち安心して外出できます。",
+            "timestamp": "2022-08-28T14:24:11.962000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DE",
+            "text": "お食事はふつうに出来ていますか？",
+            "timestamp": "2022-08-28T14:24:27.770000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "できてますね。前回は結構危なかったんですが。",
+            "timestamp": "2022-08-28T14:24:59.814000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DE",
+            "text": "それは良かったですね！前回は発熱でですか？",
+            "timestamp": "2022-08-28T14:25:39.209000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "発熱で脱水してしまい、飲食が厳しかったです。",
+            "timestamp": "2022-08-28T14:26:02.189000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DE",
+            "text": "脱水できつそうですね。想像するとこわいです。でも復活されて何よりです。",
+            "timestamp": "2022-08-28T14:26:44.256000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "今回は前回の教訓を生かして過ごせたので、それが功を奏したようです。",
+            "timestamp": "2022-08-28T14:27:21.107000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DE",
+            "text": "素晴らしいです！しっかり準備をされたんですね。",
+            "timestamp": "2022-08-28T14:27:48.339000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "薬や食べ物など準備しておきました。",
+            "timestamp": "2022-08-28T14:28:12.060000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

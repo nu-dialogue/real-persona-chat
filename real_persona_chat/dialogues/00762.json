@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 762,
+    "interlocutors": [
+        "BB",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "はじめまして！よろしくお願いします。",
+            "timestamp": "2022-08-20T07:03:17.536000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "はじめまして！よろしくお願いします。",
+            "timestamp": "2022-08-20T07:03:30.158000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "<CA>さんって、災害対策とかされてますか？",
+            "timestamp": "2022-08-20T07:03:39.418000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "最近少しずつはじめています",
+            "timestamp": "2022-08-20T07:04:10.619000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "私もまだまだですが、最近気になりだして。非常食から始めてます。",
+            "timestamp": "2022-08-20T07:04:36.274000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "非常食、どんなもの集めてらっしゃいますか？",
+            "timestamp": "2022-08-20T07:04:59.521000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "缶に入ってるパンとか、あとはレトルト食品が多いですね。",
+            "timestamp": "2022-08-20T07:05:14.297000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "缶に入ってるパン、人からいただいたことがありびっくりしました！レトルト思いつかなかった！いいですね！",
+            "timestamp": "2022-08-20T07:06:07.060000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "調べたら、長期保存できるものって意外と少なくて。普段好きなレトルトを消費しつつ、また補充してます。",
+            "timestamp": "2022-08-20T07:06:34.459000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "レトルトだったらバリエーションも豊富だし、普段も使えるから便利ですね。気付かなかった！",
+            "timestamp": "2022-08-20T07:07:40.677000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "普段の食事にも活用できるからいいですよね！",
+            "timestamp": "2022-08-20T07:08:01.468000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "非常食って今色々なのがあって、吉野家の牛丼が缶詰になっているのもあるみたいです",
+            "timestamp": "2022-08-20T07:08:32.327000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "あ、調べたことあります！思った以上に高くて、諦めました。",
+            "timestamp": "2022-08-20T07:08:54.228000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "高価ですよね！１缶１０００円近く！",
+            "timestamp": "2022-08-20T07:09:13.170000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "ちょっと吉野家にその値段は払えないなって感じですよね。",
+            "timestamp": "2022-08-20T07:09:30.211000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "うんうん、牛丼はワンコイン以内でホカホカで食べたいです！",
+            "timestamp": "2022-08-20T07:09:51.055000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "あとは、自治体で配ってくれるハザードマップをちょっと真面目に見始めました。",
+            "timestamp": "2022-08-20T07:10:22.159000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "うちも配られてました！確かにきちんと見るの大切ですね",
+            "timestamp": "2022-08-20T07:10:58.624000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "マップで見たところ、家はまだ被害が少なそうでしたが。実際はどうなるか分かりませんよね。",
+            "timestamp": "2022-08-20T07:11:24.562000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "こればかりはわかりませんよね。そういえば被害で思い出したことがあって！",
+            "timestamp": "2022-08-20T07:12:23.646000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "お住まいの地域は、地震とか多い方ですか？",
+            "timestamp": "2022-08-20T07:12:36.627000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "地震けっこう多いほうです！<BB>さんのところは？",
+            "timestamp": "2022-08-20T07:13:44.081000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "うちは関西で、比較的に少ない方です。",
+            "timestamp": "2022-08-20T07:13:55.776000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "関西にお住まいだったら安心しました。多い地域は本当によくありますものね",
+            "timestamp": "2022-08-20T07:14:43.498000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "そういえば、被害で思い出したのって何でしたか？",
+            "timestamp": "2022-08-20T07:15:00.823000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "8月18日に福島沖に地震があったみたいなのですが、それがちょうど3.11と同じ時刻だったみたいです",
+            "timestamp": "2022-08-20T07:15:53.631000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "あら、そういうことがあったんですね！ちょっと怖いですね。",
+            "timestamp": "2022-08-20T07:16:10.667000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "14時46分　びっくりしました。",
+            "timestamp": "2022-08-20T07:16:27.815000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "お住まいの地域でも揺れを感じましたか？",
+            "timestamp": "2022-08-20T07:16:45.839000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "こちらは福島から離れたところだったので大丈夫でした。これからも何事もないといいですね。",
+            "timestamp": "2022-08-20T07:17:19.083000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

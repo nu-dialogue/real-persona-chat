@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4294,
+    "interlocutors": [
+        "EJ",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-10T22:18:25.286000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-10T22:18:33.747000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EJ",
+            "text": "最近どこかに遊びに行ったりはしましたか？",
+            "timestamp": "2022-09-10T22:19:08.358000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "5月ですが、岩手に行ってきました",
+            "timestamp": "2022-09-10T22:19:13.673000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EJ",
+            "text": "岩手！いいですね。実は東北出身なので、ちょっと嬉しいです。",
+            "timestamp": "2022-09-10T22:19:29.917000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "そうなんですね！岩手は名物がいっぱいあっていいところでした！",
+            "timestamp": "2022-09-10T22:20:04.470000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EJ",
+            "text": "ですよね。田舎ですけど、観光にはいいですよね。",
+            "timestamp": "2022-09-10T22:20:23.089000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "はい、盛岡と平泉に行ってきましたよ",
+            "timestamp": "2022-09-10T22:20:35.850000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EJ",
+            "text": "いいですね！因みに何を食べてきたんですか？",
+            "timestamp": "2022-09-10T22:20:51.599000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "盛岡冷麺と郷土料理の汁物いただきました！名前を度忘れしてしまって。。",
+            "timestamp": "2022-09-10T22:21:33.510000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EJ",
+            "text": "岩手の汁物、何だろう、私も分からないです。冷麺は有名ですよね！",
+            "timestamp": "2022-09-10T22:22:00.234000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "ひっつみです！ホテルの朝食が郷土料理や地元食材に力を入れてるところでそこでいただきました",
+            "timestamp": "2022-09-10T22:22:43.638000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EJ",
+            "text": "ひっつみ！なるほど！いいですね、またお腹空いてきました。",
+            "timestamp": "2022-09-10T22:23:09.770000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "食べ物の話はお腹減りますよね。あんずの紫蘇巻きもいただいて美味しかったです！",
+            "timestamp": "2022-09-10T22:23:37.319000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EJ",
+            "text": "あんずの紫蘇巻なんてあるんですね、それは知りませんでした。",
+            "timestamp": "2022-09-10T22:24:04.212000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "青森とかが本場みたいです。あんず自体が寒いところで育つみたいなんで関東だと見ないですね",
+            "timestamp": "2022-09-10T22:24:49.830000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EJ",
+            "text": "なるほど。青森とか山形とか、確かに果物で有名で、そして寒いですよね。",
+            "timestamp": "2022-09-10T22:25:23.731000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "その2県は果物有名ですよね！りんごとか、さくらんぼとか",
+            "timestamp": "2022-09-10T22:25:50.083000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EJ",
+            "text": "そうですよね。結構農業強いイメージです。",
+            "timestamp": "2022-09-10T22:26:11.673000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "岩手も農業強いイメージです。小岩井農場とかありますよね",
+            "timestamp": "2022-09-10T22:26:55.948000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EJ",
+            "text": "確かに、小岩井農場有名ですよね。",
+            "timestamp": "2022-09-10T22:27:11.606000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "岩手でいただいた小岩井のヨーグルト美味しかったです",
+            "timestamp": "2022-09-10T22:27:30.950000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EJ",
+            "text": "いいですね！牧場のヨーグルトなんて最高ですね。",
+            "timestamp": "2022-09-10T22:27:59.647000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "美味しいですよね！岩手だと三陸の海鮮も有名ですが、そちらは行かなかったので食べてないんですよね",
+            "timestamp": "2022-09-10T22:28:33.184000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EJ",
+            "text": "海産物も有名ですよね。実際港町で食べると別格に美味しいですよね。",
+            "timestamp": "2022-09-10T22:29:20.057000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "そう、産地で食べると美味しいんですよね。行けなかったので再訪したいです！",
+            "timestamp": "2022-09-10T22:29:48.110000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EJ",
+            "text": "私も久しぶりに行きたくなってきました！",
+            "timestamp": "2022-09-10T22:30:11.903000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "以前はよく行ったんですか？",
+            "timestamp": "2022-09-10T22:30:59.036000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EJ",
+            "text": "そんなに頻繁には行きませんが、親戚が岩手にいるので。",
+            "timestamp": "2022-09-10T22:31:31.012000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "親戚がいると行きやすいですよね",
+            "timestamp": "2022-09-10T22:31:45.029000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13670,
+    "interlocutors": [
+        "HQ",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T18:53:15.579000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T18:53:21.552000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "スマホはiPhoneですか？",
+            "timestamp": "2022-10-01T18:55:36.840000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "iPhoneですよ",
+            "timestamp": "2022-10-01T18:55:43.276000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "使ってるおすすめのアプリとかありますか？",
+            "timestamp": "2022-10-01T18:55:56.188000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "マネーフォワードおすすめですよ",
+            "timestamp": "2022-10-01T18:56:10.660000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "家計簿アプリでしたっけ？",
+            "timestamp": "2022-10-01T18:56:24.968000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "そうです。私は家計簿としては使ってないんですけどね",
+            "timestamp": "2022-10-01T18:56:40.330000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "何に使ってるんですか？",
+            "timestamp": "2022-10-01T18:56:48.645000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "複数口座とクレカを連携できるので、利用額見たり、口座の残高確認したりしてます。",
+            "timestamp": "2022-10-01T18:57:19.709000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "複数の情報見れるのは便利ですね",
+            "timestamp": "2022-10-01T18:57:33.093000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "そうなんです。無料ですけど、有料課金するか迷ってます",
+            "timestamp": "2022-10-01T18:57:59.512000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "有料になるとどうなるんですか？",
+            "timestamp": "2022-10-01T18:58:18.063000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "連携できる口座の上限増えたり、口座情報の更新回数増えたりですかね",
+            "timestamp": "2022-10-01T18:59:03.464000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "じゃあ別に無料のままでも特に不便ない感じなんですね",
+            "timestamp": "2022-10-01T18:59:22.749000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "そうですね、不便さはあまり感じないです。家計簿として本気で使い倒すとなったらわからないですが",
+            "timestamp": "2022-10-01T18:59:58.648000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "家計簿はつけないんですか？",
+            "timestamp": "2022-10-01T19:00:09.280000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "夏にやってみようと思ってたんですが、むりでした",
+            "timestamp": "2022-10-01T19:00:28.901000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "むりでしたか",
+            "timestamp": "2022-10-01T19:00:42.074000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "めんどくさすぎました",
+            "timestamp": "2022-10-01T19:00:51.372000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "私は最近GOタクシーをよく使ってます",
+            "timestamp": "2022-10-01T19:01:29.708000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "使いやすいですか？",
+            "timestamp": "2022-10-01T19:01:40.107000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "かなり手軽でいいですね。今クーポン配られてるので安く利用できますよ。",
+            "timestamp": "2022-10-01T19:02:23.816000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "タクシーあんまり乗らないんですけど、いざというとき便利そうですね",
+            "timestamp": "2022-10-01T19:02:43.370000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "とりあえず入れとくと便利です。",
+            "timestamp": "2022-10-01T19:02:53.798000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "タクシーって女性運転士少ないですよね",
+            "timestamp": "2022-10-01T19:03:20.841000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "たしかに、見たことないかもしれないです。",
+            "timestamp": "2022-10-01T19:03:32.772000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "いろいろ危険なのかなぁ",
+            "timestamp": "2022-10-01T19:03:41.937000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "将来のこと考えると育児との両立難しそうです",
+            "timestamp": "2022-10-01T19:04:06.014000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "あー、たしかに",
+            "timestamp": "2022-10-01T19:04:12.858000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

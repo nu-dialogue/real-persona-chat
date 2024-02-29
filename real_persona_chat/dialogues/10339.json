@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10339,
+    "interlocutors": [
+        "BI",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T17:35:42.656000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。そちらのコロナの感染状況はいかがですか？",
+            "timestamp": "2022-08-12T17:36:03.959000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "もはや人数とか確認してませんが、実家に帰省を拒否される感じです。",
+            "timestamp": "2022-08-12T17:36:30.144000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "なるほど。旅行とか遠出は今は厳しいですよね。",
+            "timestamp": "2022-08-12T17:36:56.714000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "そうなんです。この夏休みは、旅行行けませんねー。",
+            "timestamp": "2022-08-12T17:37:18.329000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね、それは残念ですね。早く行けるようになるといいのですが。",
+            "timestamp": "2022-08-12T17:37:43.535000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "昨日あたりからお盆休みに入られました？",
+            "timestamp": "2022-08-12T17:37:59.083000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "フリーターみたいな感じなので、特にそういうのはないですかね。",
+            "timestamp": "2022-08-12T17:38:29.500000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "これは失礼しました！夏のご予定は？",
+            "timestamp": "2022-08-12T17:38:48.180000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "とりあえずワクチン打つまでは大したことはできないなって感じですね。",
+            "timestamp": "2022-08-12T17:39:16.889000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "これから打つ予定なんですか？",
+            "timestamp": "2022-08-12T17:39:35.589000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "一応、月内くらいに4回目を打つ予定です。",
+            "timestamp": "2022-08-12T17:39:53.617000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "おお、すでに4回目ですか！副反応とか、3回目まで大丈夫でした？",
+            "timestamp": "2022-08-12T17:40:18.506000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "3回目のモデルナの副反応がエグかったです。",
+            "timestamp": "2022-08-12T17:40:40.950000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "モデルナ、やっぱりひどいんですか！熱とかですか？",
+            "timestamp": "2022-08-12T17:41:04.646000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "接種日の夜は寝られず、翌日は1日熱と頭痛でした。",
+            "timestamp": "2022-08-12T17:41:35.165000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "寝られないほどの副反応ですか！4回目を打つなんて、勇気ありますね！",
+            "timestamp": "2022-08-12T17:42:04.169000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "まぁこの感染状況を考えて、どうしたらいいんだろうって感じですが、ひとまず打ちます。",
+            "timestamp": "2022-08-12T17:42:34.187000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "素晴らしいですね！私は3回打って、4回目保留中です。",
+            "timestamp": "2022-08-12T17:43:02.887000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "その気持ちはわかりますよ。10月くらいにオミクロン用のワクチンができるとか。",
+            "timestamp": "2022-08-12T17:43:30.165000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "それはいいですね！なんならインフルとまとめてくれるといいんですけど。",
+            "timestamp": "2022-08-12T17:43:54.468000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "確かに。いずれコロナとインフルを1回で打てるようになるらしいですけど。",
+            "timestamp": "2022-08-12T17:44:22.558000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "そうなんですか！早くそうなってくれたら、迷わず打ちます！",
+            "timestamp": "2022-08-12T17:44:45.678000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "さすがに今年はまだコロナとインフルそれぞれでしょうけど。",
+            "timestamp": "2022-08-12T17:45:11.726000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "もう、注射が苦手すぎて、年に何度も打つのは苦行でしかない。",
+            "timestamp": "2022-08-12T17:45:38.885000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "注射が苦手なんですね。それはしんどいですね。",
+            "timestamp": "2022-08-12T17:45:54.073000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "はい、インフルは毎年欠かさないので、コロナ分が余分なんですよねー！",
+            "timestamp": "2022-08-12T17:46:27.042000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "確かに。しかも半年とかに1回打たなきゃいけないし。",
+            "timestamp": "2022-08-12T17:46:47.055000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "そうなんですよ！何回打ったら終わるの？って思って、結果保留。",
+            "timestamp": "2022-08-12T17:47:15.743000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "早く終結してほしいですね。",
+            "timestamp": "2022-08-12T17:47:31.890000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

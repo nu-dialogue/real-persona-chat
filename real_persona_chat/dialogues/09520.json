@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9520,
+    "interlocutors": [
+        "BI",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T15:46:18.072000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T15:46:22.894000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "小腹がすいてきました！今日の夕飯はお決まりですか？",
+            "timestamp": "2022-08-08T15:46:41.485000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "まだ決まってないです。決まってますか？",
+            "timestamp": "2022-08-08T15:47:04.013000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "今日は長芋をどうにかしようと思っています。",
+            "timestamp": "2022-08-08T15:47:25.902000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "ほう、いいですね。何を作りますか？",
+            "timestamp": "2022-08-08T15:47:50.582000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "それは、これからなんですよねー！レシピ検索します。",
+            "timestamp": "2022-08-08T15:48:11.305000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "今は動画とかレシピ豊富ですよね",
+            "timestamp": "2022-08-08T15:48:29.727000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "そうなんです！材料から検索できるので、とても便利です！",
+            "timestamp": "2022-08-08T15:48:54.919000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "何をよく見ますか？",
+            "timestamp": "2022-08-08T15:49:07.586000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "そうですね、検索しておいしそうなら、色々と見ます。",
+            "timestamp": "2022-08-08T15:49:46.561000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "そうですか。長いものステーキをまえにたべたような。多分ですけど",
+            "timestamp": "2022-08-08T15:50:50.311000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "レシピにありそうですね！そうなんです、ただのすりおろしじゃないものにしたくて。",
+            "timestamp": "2022-08-08T15:51:23.062000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "おいしかったような気がします。すりおろすと何かに入れるとかですかね",
+            "timestamp": "2022-08-08T15:51:54.668000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "定番はオクラですけど、いつもそればかりだと飽きちゃうので。",
+            "timestamp": "2022-08-08T15:52:26.960000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "オクラいいですね。昨日食べました。夏にぴったりですね",
+            "timestamp": "2022-08-08T15:52:58.114000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "夏はねばねば系も食べたくなりますよね！",
+            "timestamp": "2022-08-08T15:53:14.877000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "はい、夏バテ防止に食べてます",
+            "timestamp": "2022-08-08T15:53:43.471000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "夏バテするほうですか？",
+            "timestamp": "2022-08-08T15:53:58.244000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "はい、結構します",
+            "timestamp": "2022-08-08T15:54:20.477000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "それは大変ですね！食欲落ちちゃったりですか？",
+            "timestamp": "2022-08-08T15:54:39.773000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "そうなんです。食べなくてもよくなるくらいになります",
+            "timestamp": "2022-08-08T15:54:56.961000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "それは大変です！私は逆に少しくらい食欲落ちたいです。",
+            "timestamp": "2022-08-08T15:55:31.228000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "季節関係なく食欲はおちないですか？",
+            "timestamp": "2022-08-08T15:56:03.556000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "落ちることないですねー。運動もしないから、太るばかりです。",
+            "timestamp": "2022-08-08T15:56:31.229000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "これから秋にかけてまた食べ物がおいしくなる時期ですね",
+            "timestamp": "2022-08-08T15:56:54.044000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "そうなんです！落ちないどころか、増していきます！",
+            "timestamp": "2022-08-08T15:57:13.355000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "困りますね。おなかが減ってきましたね。",
+            "timestamp": "2022-08-08T15:57:41.736000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "はい。夕飯のメニュー、考えなきゃです！",
+            "timestamp": "2022-08-08T15:58:13.197000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "おいしいの作ってください",
+            "timestamp": "2022-08-08T15:58:39.780000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

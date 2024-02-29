@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8916,
+    "interlocutors": [
+        "DM",
+        "AP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんばんは，よろしくお願い致します．",
+            "timestamp": "2022-08-06T21:00:17.369000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AP",
+            "text": "初めまして、宜しくお願い致します。",
+            "timestamp": "2022-08-06T21:01:20.526000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "初めましてなので，趣味の話でもしませんか？",
+            "timestamp": "2022-08-06T21:01:25.015000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AP",
+            "text": "いいですね、あなたは本日お休みでしたか？何をしましたか？",
+            "timestamp": "2022-08-06T21:02:18.754000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "学生なので今日は課題をしていました！",
+            "timestamp": "2022-08-06T21:02:42.699000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AP",
+            "text": "そうなのですね、私も学生です。",
+            "timestamp": "2022-08-06T21:02:59.053000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "テストはもう終わりましたか？",
+            "timestamp": "2022-08-06T21:03:20.239000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AP",
+            "text": "6月までアメリカで留学していて、期末の期間がだいぶずれていたのでとっくに終わってます！",
+            "timestamp": "2022-08-06T21:03:53.616000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "すごいですね！！",
+            "timestamp": "2022-08-06T21:04:07.303000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AP",
+            "text": "コロナと円安で大変でしたが楽しかったですよ。",
+            "timestamp": "2022-08-06T21:04:26.992000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "どのくらいの期間の留学ですか？",
+            "timestamp": "2022-08-06T21:04:40.831000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AP",
+            "text": "1学年分ですので、昨年の9月から約9か月間いました。",
+            "timestamp": "2022-08-06T21:04:58.249000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "憧れます．なにか目的があって留学されたんですか",
+            "timestamp": "2022-08-06T21:05:22.010000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AP",
+            "text": "元々海外の大学で勉強するのが夢だったのですが、今回交換留学で神経生物学を勉強したいと思い！",
+            "timestamp": "2022-08-06T21:05:56.718000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "理系の学生さんなんですね！何年生ですか？",
+            "timestamp": "2022-08-06T21:06:20.960000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AP",
+            "text": "23卒なので4年生のはずなのですが、留学の関係で3月まで休学するので実質3年生で24卒になります。",
+            "timestamp": "2022-08-06T21:07:13.559000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "なるほど．留学するほどの行動力があって，尊敬します！",
+            "timestamp": "2022-08-06T21:07:38.137000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AP",
+            "text": "嬉しいです、海外に行かれたことはありますか？",
+            "timestamp": "2022-08-06T21:07:59.986000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "ただの旅行でイタリアに行ったことがあります！",
+            "timestamp": "2022-08-06T21:08:18.741000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AP",
+            "text": "コロナ前でしょうか、ヨーロッパ憧れます！",
+            "timestamp": "2022-08-06T21:08:42.674000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "コロナ前です！観光地がたくさんでとても楽しかったですよ．",
+            "timestamp": "2022-08-06T21:09:16.329000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AP",
+            "text": "どの季節に行かれたのですか？",
+            "timestamp": "2022-08-06T21:09:29.268000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "夏です！",
+            "timestamp": "2022-08-06T21:09:39.906000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AP",
+            "text": "夏のイタリアはキラキラしていそうですね！",
+            "timestamp": "2022-08-06T21:10:03.080000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "海外のサッカーの試合が見るのが目的だったのですが，観戦チケットが取れず，ただの観光だけでしたが．",
+            "timestamp": "2022-08-06T21:11:01.951000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AP",
+            "text": "一番良かったスポットを教えてくださいますか？",
+            "timestamp": "2022-08-06T21:11:18.290000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "コロッセオがとても印象に残っています！",
+            "timestamp": "2022-08-06T21:11:50.695000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AP",
+            "text": "いいですね、歴史の勉強をし直してから私も行ってみたいです。",
+            "timestamp": "2022-08-06T21:12:34.235000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "私も歴史の勉強をして改めて観光したいです！",
+            "timestamp": "2022-08-06T21:12:58.993000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AP",
+            "text": "文化や地理も勉強し直して、できれば言語も少し習ってから行きたいですね。",
+            "timestamp": "2022-08-06T21:13:30.932000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

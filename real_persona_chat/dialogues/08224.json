@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8224,
+    "interlocutors": [
+        "CQ",
+        "BZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-06T20:43:21.103000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BZ",
+            "text": "お願いします！",
+            "timestamp": "2022-08-06T20:43:25.891000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "何か挑戦したいことはありますか？",
+            "timestamp": "2022-08-06T20:43:49.420000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BZ",
+            "text": "資格取得は結構継続してやっています。",
+            "timestamp": "2022-08-06T20:44:14.790000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "それは、凄いです。どんな資格ですか？",
+            "timestamp": "2022-08-06T20:44:32.653000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BZ",
+            "text": "IT系が多いです。今勉強してるのはディープラーニングG検定というやつです。",
+            "timestamp": "2022-08-06T20:44:53.441000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "難しそうですね",
+            "timestamp": "2022-08-06T20:45:04.415000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BZ",
+            "text": "頭に入らず眠たくなります。",
+            "timestamp": "2022-08-06T20:45:16.417000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "応用情報は取得されてますか？",
+            "timestamp": "2022-08-06T20:45:44.172000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BZ",
+            "text": "結構前にとりましたね。１０年前くらいでしょうか。",
+            "timestamp": "2022-08-06T20:45:59.124000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "凄いです。自分ITは系の会社に入社したので、今後の目標にしてます",
+            "timestamp": "2022-08-06T20:46:47.366000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BZ",
+            "text": "私もIT系企業ですが、私は営業なのでほぼ趣味みたいなものです。",
+            "timestamp": "2022-08-06T20:47:19.574000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "エンジニア以外の方も学習されるのですね、周りの方は取得されてますか？",
+            "timestamp": "2022-08-06T20:47:56.845000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BZ",
+            "text": "うちの会社のメンバーはあんまりとってないですね。報奨金とか少ないので。",
+            "timestamp": "2022-08-06T20:48:20.821000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、報奨金は良い刺激になりますね、僕の入社してる会社では、応用情報取得すると5万円もらえるようです",
+            "timestamp": "2022-08-06T20:49:21.689000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BZ",
+            "text": "それは結構いい方じゃないでしょうか。うちは２万か３万だったと思います。",
+            "timestamp": "2022-08-06T20:49:46.887000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "少なめですね、営業の仕事はどんなことをされるんですか？",
+            "timestamp": "2022-08-06T20:50:24.923000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BZ",
+            "text": "市町村役場にシステムの紹介とかOA機器販売とかをやってます。",
+            "timestamp": "2022-08-06T20:50:48.368000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、まだどんな風に案件が授受されるか理解してなかったので勉強になります",
+            "timestamp": "2022-08-06T20:51:34.238000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BZ",
+            "text": "あなたのお仕事はエンジニアですか？",
+            "timestamp": "2022-08-06T20:51:59.572000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "SEを目指すプログラマーでしょうか。",
+            "timestamp": "2022-08-06T20:52:36.557000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BZ",
+            "text": "プログラマーですね！言語はどのようなものをつかってるんですか。",
+            "timestamp": "2022-08-06T20:52:57.454000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "C#とVueを使い始めました。学生時ではJavaを主に学習してました",
+            "timestamp": "2022-08-06T20:53:43.086000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BZ",
+            "text": "いいですね。私もプログラムは興味あっていろいろやりましたが、C#はやったことないです。",
+            "timestamp": "2022-08-06T20:54:23.705000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "今まで何か作ったものはありますか？",
+            "timestamp": "2022-08-06T20:57:05.551000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BZ",
+            "text": "営業の前職がSEだったのでシステムある程度作ってました。販売管理システムの改修とかやってました。",
+            "timestamp": "2022-08-06T20:57:08.109000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "凄いです、始めた当初はコードがうまくかけず不安な体験をされたとかありましたか？",
+            "timestamp": "2022-08-06T20:57:13.735000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BZ",
+            "text": "ありますよ。先輩が優しかったのでよかったですが、バグがないかヒヤヒヤでした。",
+            "timestamp": "2022-08-06T20:57:33.747000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "自分が今同じような状況なのですが、最初はそのような感じなのですね。ありがとうございます。",
+            "timestamp": "2022-08-06T20:58:20.040000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BZ",
+            "text": "プログラムも資格取得もがんばってください。では！",
+            "timestamp": "2022-08-06T20:58:34.143000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

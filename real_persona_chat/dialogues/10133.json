@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10133,
+    "interlocutors": [
+        "CE",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "はじめまして！お願いします。",
+            "timestamp": "2022-08-11T11:42:37.476000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "はじめまして。こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-11T11:42:50.697000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "最近何かはまっているものってありますか？",
+            "timestamp": "2022-08-11T11:43:02.922000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "そうですねえ。最近ウォーキングを始めました。",
+            "timestamp": "2022-08-11T11:43:20.460000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "健康に良さそうですね！何分くらい歩かれるんですか？",
+            "timestamp": "2022-08-11T11:43:45.010000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "一応、30分を目標にあるいています。",
+            "timestamp": "2022-08-11T11:44:02.547000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "結構長いんですね！汗もしっかりかきそうです。",
+            "timestamp": "2022-08-11T11:44:46.143000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "最初はもっと短かったのですが、あまり短いと効果がないと言われてしまって。",
+            "timestamp": "2022-08-11T11:45:09.317000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "脂肪燃焼を目的とする場合は20分以上とか言いますよね。",
+            "timestamp": "2022-08-11T11:45:35.120000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "そうなんです。ただ、基本的にめんどくさがり屋なので、歩き出すまでが大変です。",
+            "timestamp": "2022-08-11T11:46:10.493000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "服着替えて、水筒持って、タオル持って、靴はいてって面倒ですよね。",
+            "timestamp": "2022-08-11T11:46:43.055000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "暑かったり、雨降りそうだったりしたら、やる気がなくなってしまいますよ",
+            "timestamp": "2022-08-11T11:47:13.053000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "私も減量のためにウォーキングしようとしてたときがあったので、とてもよくわかります。",
+            "timestamp": "2022-08-11T11:47:40.164000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "今ではやっていないのですか？",
+            "timestamp": "2022-08-11T11:47:57.288000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "雨降ったり暑かったりを言い訳にしちゃって、結局やめちゃいました。",
+            "timestamp": "2022-08-11T11:48:43.180000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "ですよね！すっごく良くわかります。",
+            "timestamp": "2022-08-11T11:49:01.040000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "ですよねー！もともと外に出るのがあまり好きじゃないので、今は自宅で足踏み昇降やってます。",
+            "timestamp": "2022-08-11T11:49:34.772000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "足ふみ昇降って、台の上に乗ったり、降りたりを繰り返すのですか？",
+            "timestamp": "2022-08-11T11:50:11.016000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "そうですそうです！テレビとかスマホみながらできるので、気付いたら結構時間経ってるんですよ。",
+            "timestamp": "2022-08-11T11:50:41.498000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "昔、学校の体力測定でやったことがあります。すごく大変だった記憶がありますね",
+            "timestamp": "2022-08-11T11:51:10.671000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "体力測定に足踏み昇降ってあるんですね。私たちのときはシャトルランが一番大変でした。",
+            "timestamp": "2022-08-11T11:51:52.760000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "多分、私の方が年代が上なのですね。足ふみ昇降したあとに、心拍数を計測して数値を測っていました",
+            "timestamp": "2022-08-11T11:52:41.758000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "体力測定って結構年代によって内容に変化がありそうですね。心拍数まで計測してたんですねー！",
+            "timestamp": "2022-08-11T11:53:42.039000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "そうなんです！シャトルランは、子どもが「大変！」って言っていましたよ。",
+            "timestamp": "2022-08-11T11:54:14.139000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "あ！今の子もシャトルランしてるんですね！あれはもう、自分との戦いなんですけど、苦手です。",
+            "timestamp": "2022-08-11T11:54:57.462000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！「ふんふん」と聞いてはいたのですが、どんな種目なのか良くわかっていないのです。",
+            "timestamp": "2022-08-11T11:55:34.576000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "15mくらいを行ったり来たりで、15mを何秒でっていう制限があって、それに間に合うまで走るんですよ",
+            "timestamp": "2022-08-11T11:56:44.982000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "ああ！そんなことを言っていた気がします。間に合わないと脱落しちゃうんでしたっけ？",
+            "timestamp": "2022-08-11T11:57:17.546000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "ですです！間に合わないと自分で「もう無理―」って脱落します。",
+            "timestamp": "2022-08-11T11:57:49.452000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "それはきついですね！面白いお話をありがとうございました。",
+            "timestamp": "2022-08-11T11:58:05.016000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CE",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-11T11:58:16.469000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

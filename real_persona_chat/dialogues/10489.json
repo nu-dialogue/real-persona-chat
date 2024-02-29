@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10489,
+    "interlocutors": [
+        "CY",
+        "EN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-13T14:48:04.256000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EN",
+            "text": "こんにちわ！",
+            "timestamp": "2022-08-13T14:48:09.019000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CY",
+            "text": "今行ってみたいところはありますか？",
+            "timestamp": "2022-08-13T14:48:21.520000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EN",
+            "text": "北海道に行きたいです！",
+            "timestamp": "2022-08-13T14:48:32.608000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CY",
+            "text": "北海道私も行ってみたいです。行かれたことはないですか？",
+            "timestamp": "2022-08-13T14:48:53.960000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EN",
+            "text": "行ったことはないんです。ありますか？",
+            "timestamp": "2022-08-13T14:49:08.235000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CY",
+            "text": "私もありません。ずっと行きたいなと思っていました。",
+            "timestamp": "2022-08-13T14:49:28.117000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EN",
+            "text": "目的地とかありますー？",
+            "timestamp": "2022-08-13T14:49:38.834000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CY",
+            "text": "ラベンダー畑いきたいですね！あとおいしい海鮮が食べたいです！",
+            "timestamp": "2022-08-13T14:50:01.868000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EN",
+            "text": "きれいですよねー！テレビで見るたび行きたくなります。海鮮、同意です。海鮮大好きです。",
+            "timestamp": "2022-08-13T14:50:26.533000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CY",
+            "text": "特集とかやってると見ちゃいますよね。海鮮は何が好きですか？",
+            "timestamp": "2022-08-13T14:50:57.833000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EN",
+            "text": "マグロとえびが大好物で。丼にして良く食べるくらい好きです。",
+            "timestamp": "2022-08-13T14:51:15.562000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CY",
+            "text": "絶対おいしいやつですね！丼は家で食べるんですか？",
+            "timestamp": "2022-08-13T14:51:45.113000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EN",
+            "text": "家で食べます！スーパーで爆買いしてきます。",
+            "timestamp": "2022-08-13T14:51:58.129000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CY",
+            "text": "すごい！豪華ですね！エビは生ですか？",
+            "timestamp": "2022-08-13T14:52:15.845000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EN",
+            "text": "そうです！ちょっと奮発しちゃいますね。月１の楽しみだったりします。",
+            "timestamp": "2022-08-13T14:52:41.342000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CY",
+            "text": "それは楽しみですね！！おいしいだろうなー！",
+            "timestamp": "2022-08-13T14:53:06.382000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EN",
+            "text": "おすすめですよー。たまの贅沢とかしたりしますか？",
+            "timestamp": "2022-08-13T14:53:23.945000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CY",
+            "text": "私は一人でケンタッキー食べに行くのが自分へのご褒美ですね。",
+            "timestamp": "2022-08-13T14:53:50.844000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EN",
+            "text": "最高です。私もたまにします！チキンは美味しいですよね。",
+            "timestamp": "2022-08-13T14:54:15.146000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CY",
+            "text": "そうですよね！バケツ一人で食べてみたいです。",
+            "timestamp": "2022-08-13T14:54:44.959000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EN",
+            "text": "食べたことあります！次の日何も食べれなくなりました。",
+            "timestamp": "2022-08-13T14:54:59.574000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CY",
+            "text": "わー！すごい！やっぱりそうなりますよね。何ピースくらいでしたか？",
+            "timestamp": "2022-08-13T14:55:35.109000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EN",
+            "text": "10ピースだった覚えがあります。大満足でしたよ！",
+            "timestamp": "2022-08-13T14:55:52.430000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CY",
+            "text": "夢ですね！！私は最高で5ピースまでしか食べたことないです。",
+            "timestamp": "2022-08-13T14:56:19.212000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EN",
+            "text": "意外に行けるんですが、胃もたれします。注意してください。",
+            "timestamp": "2022-08-13T14:56:40.279000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CY",
+            "text": "なるほど、了解です。食べる前に胃薬準備しときます",
+            "timestamp": "2022-08-13T14:57:08.888000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EN",
+            "text": "良いですね。あなたとは気が合いそうです。",
+            "timestamp": "2022-08-13T14:57:38.964000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CY",
+            "text": "ケンタッキーパーティーしたいですね！！",
+            "timestamp": "2022-08-13T14:57:54.819000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EN",
+            "text": "したいですねー！",
+            "timestamp": "2022-08-13T14:58:00.787000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

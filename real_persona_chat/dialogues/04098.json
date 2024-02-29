@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4098,
+    "interlocutors": [
+        "FL",
+        "DT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FL",
+            "text": "こんばんはー。",
+            "timestamp": "2022-09-06T22:16:52.650000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DT",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-06T22:17:12.562000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FL",
+            "text": "嫌いな食べ物とかありますか？",
+            "timestamp": "2022-09-06T22:17:21.523000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DT",
+            "text": "大根が少し苦手です。",
+            "timestamp": "2022-09-06T22:17:45.161000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FL",
+            "text": "大根ですか。おでんとかにはいっているのは？",
+            "timestamp": "2022-09-06T22:17:57.939000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DT",
+            "text": "おでんは大丈夫です。匂いが誤魔化されれば大丈夫です。",
+            "timestamp": "2022-09-06T22:19:40.672000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FL",
+            "text": "なるほど。そんなににおいありましたっけ。",
+            "timestamp": "2022-09-06T22:20:00.788000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DT",
+            "text": "おでんは平気なんですが、煮ると強い感じがします。最近そう感じて最近苦手になったんです。",
+            "timestamp": "2022-09-06T22:20:38.964000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FL",
+            "text": "確かに。私があまり食べる機会がないだけで、そうかもしれません。",
+            "timestamp": "2022-09-06T22:21:05.289000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DT",
+            "text": "赤ちゃんがいて離乳食作って食べてくれなくて何がダメなんだろうと探ってたら自分も苦手になってしまって。",
+            "timestamp": "2022-09-06T22:22:08.853000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FL",
+            "text": "ほうほう。大根は食べさせるとだめなのですか？",
+            "timestamp": "2022-09-06T22:22:25.854000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DT",
+            "text": "嫌いみたいで全然食べてくれないんですよ。",
+            "timestamp": "2022-09-06T22:22:48.351000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FL",
+            "text": "へぇー。そうなんですね。じゃあ食べなくていいものなんですね。",
+            "timestamp": "2022-09-06T22:23:20.423000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DT",
+            "text": "食べなくていいけど嫌いな食べ物増えると困るなーと思ってまして。",
+            "timestamp": "2022-09-06T22:24:18.444000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FL",
+            "text": "子供のころいやいや食べさせられたものは、嫌いになったりします。",
+            "timestamp": "2022-09-06T22:24:37.479000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DT",
+            "text": "確かにそうですね。なので嫌がったらすぐやめてます。",
+            "timestamp": "2022-09-06T22:25:14.940000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FL",
+            "text": "でも親が嫌いで食卓に並ばない食べ物も、嫌いなので、結局矯正するのは難しそうですね。",
+            "timestamp": "2022-09-06T22:25:45.865000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DT",
+            "text": "あーそういうこともあるのか。参考になります！！出さないのも良くないですね。",
+            "timestamp": "2022-09-06T22:26:22.853000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FL",
+            "text": "そうですね。まぁ歳を重ねるにつれ好き嫌いは徐々にましにはなってきますが。",
+            "timestamp": "2022-09-06T22:26:52.902000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DT",
+            "text": "そうですね。好き嫌いがありすぎると作る側も大変なのでなんとか食べてほしいですが。",
+            "timestamp": "2022-09-06T22:27:35.189000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FL",
+            "text": "確かにそうですね。私は学校の給食で結構治った気がします。",
+            "timestamp": "2022-09-06T22:27:55.263000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DT",
+            "text": "頑張って食べたのですね？",
+            "timestamp": "2022-09-06T22:28:09.689000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FL",
+            "text": "頑張って食べました。学校行ってるとおなかがペコペコになって、仕方なく。",
+            "timestamp": "2022-09-06T22:28:44.555000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DT",
+            "text": "仕方なく食べれるもんなんですね。面白い！",
+            "timestamp": "2022-09-06T22:29:13.756000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FL",
+            "text": "おなか減ってたらなんでもおいしいと感じません？",
+            "timestamp": "2022-09-06T22:29:27.845000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DT",
+            "text": "それもそうですね。あ！かなりお腹空かせたら食べてくれるのかな離乳食。。",
+            "timestamp": "2022-09-06T22:30:14.693000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FL",
+            "text": "あはは。どうですかね。",
+            "timestamp": "2022-09-06T22:30:39.757000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DT",
+            "text": "まあお腹空いてグズるとそれはそれで食べてくれないんですが。",
+            "timestamp": "2022-09-06T22:31:15.016000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FL",
+            "text": "なるほど。子育て大変ですね。",
+            "timestamp": "2022-09-06T22:31:28.901000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DT",
+            "text": "大変ですー。でも楽しいですよ！",
+            "timestamp": "2022-09-06T22:31:40.655000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10618,
+    "interlocutors": [
+        "HZ",
+        "CH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HZ",
+            "text": "よろしくおねがいします！",
+            "timestamp": "2022-08-16T14:21:15.823000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CH",
+            "text": "こんにちは、はじめまして！",
+            "timestamp": "2022-08-16T14:21:53.219000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HZ",
+            "text": "お昼はたべましたか？",
+            "timestamp": "2022-08-16T14:22:02.592000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CH",
+            "text": "はい、パンとナゲットで簡単に済ませました。あなたは何を食べましたか？",
+            "timestamp": "2022-08-16T14:22:23.523000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HZ",
+            "text": "私はパスタを食べましたよ",
+            "timestamp": "2022-08-16T14:22:36.600000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CH",
+            "text": "そうでしたか、私はミートソースが好きですよ。",
+            "timestamp": "2022-08-16T14:23:10.585000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HZ",
+            "text": "私も好きです！今日はトマトソースのパスタにしました",
+            "timestamp": "2022-08-16T14:23:28.894000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CH",
+            "text": "なるほど。しかし、最近はパスタソースの商品も種類が多くなりましたね。",
+            "timestamp": "2022-08-16T14:23:48.517000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HZ",
+            "text": "スーパーいくといろいろありますよね",
+            "timestamp": "2022-08-16T14:24:00.022000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CH",
+            "text": "子どもの頃は、カルボナーラとか言われても、何それ？でしたが。",
+            "timestamp": "2022-08-16T14:24:20.346000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HZ",
+            "text": "そうですね！クリーム系はお好きですか？",
+            "timestamp": "2022-08-16T14:24:45.478000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CH",
+            "text": "実は既製品のクリーム系は好みでないので、カルボナーラとかは自分で作ってます。",
+            "timestamp": "2022-08-16T14:25:12.878000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HZ",
+            "text": "おお、自炊はされる方なんですね？",
+            "timestamp": "2022-08-16T14:25:27.248000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CH",
+            "text": "頻度はさほどですが、料理は好きなんです。",
+            "timestamp": "2022-08-16T14:25:47.868000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HZ",
+            "text": "そうなんですか！得意料理とかあります？",
+            "timestamp": "2022-08-16T14:26:10.968000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CH",
+            "text": "周りに好評なのは、豚の角煮とトマトカレーです。",
+            "timestamp": "2022-08-16T14:26:34.624000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HZ",
+            "text": "豚の角煮は作るの大変じゃないですか？",
+            "timestamp": "2022-08-16T14:26:49.644000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CH",
+            "text": "いえいえ、多少煮込む時間は使いますが、手順自体は全く難しくないです。",
+            "timestamp": "2022-08-16T14:27:13.993000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HZ",
+            "text": "そうなんですか、なんだか難しそうだと思ってやったことないんですよね",
+            "timestamp": "2022-08-16T14:27:36.477000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CH",
+            "text": "案外簡単ですよ。特別柔らかくしようとか思うと、仕込みなどが必要ですが。",
+            "timestamp": "2022-08-16T14:28:22.238000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HZ",
+            "text": "圧力鍋つかいます？",
+            "timestamp": "2022-08-16T14:28:36.241000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CH",
+            "text": "わたしは使わないです。ただ、時短をしたい方は使った方が良いと思います。",
+            "timestamp": "2022-08-16T14:28:59.357000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HZ",
+            "text": "トマトカレーは、もしやスパイスから使ったりします？",
+            "timestamp": "2022-08-16T14:29:22.606000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CH",
+            "text": "いえ、流石にそれはめんどくさいので、市販の好みのルーを使ってますよ。",
+            "timestamp": "2022-08-16T14:29:42.630000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HZ",
+            "text": "私は市販のルーしか使ったことないです",
+            "timestamp": "2022-08-16T14:30:11.184000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CH",
+            "text": "ルーも種類が多いですよね。",
+            "timestamp": "2022-08-16T14:30:27.444000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HZ",
+            "text": "そうですね、でもいつも安いの買っちゃう。",
+            "timestamp": "2022-08-16T14:30:39.657000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CH",
+            "text": "カレールーは特売の目玉になりやすいですしね。",
+            "timestamp": "2022-08-16T14:31:01.203000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HZ",
+            "text": "はい。でも2種類くらいを混ぜたりはします",
+            "timestamp": "2022-08-16T14:31:15.623000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CH",
+            "text": "なるほどなるほど。機会があればあなたの得意料理についてもお聞きしたいです。",
+            "timestamp": "2022-08-16T14:31:44.625000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

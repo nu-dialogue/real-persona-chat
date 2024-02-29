@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10591,
+    "interlocutors": [
+        "IO",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IO",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T13:30:41.670000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-14T13:30:50.442000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IO",
+            "text": "そちらの天気はいかがですか？",
+            "timestamp": "2022-08-14T13:30:58.009000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "今は曇りです",
+            "timestamp": "2022-08-14T13:31:13.435000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IO",
+            "text": "台風の影響はありませんでしたか？",
+            "timestamp": "2022-08-14T13:31:22.649000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "雨は降りましたがそれほどではありませんでした。",
+            "timestamp": "2022-08-14T13:31:52.805000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IO",
+            "text": "それはよかった。先ほど急な土砂降りでした。",
+            "timestamp": "2022-08-14T13:32:19.873000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね。お出かけ中でしたか？",
+            "timestamp": "2022-08-14T13:32:46.751000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IO",
+            "text": "いえ、家に居たので大丈夫でしたが雷もなっててびっくりしました。",
+            "timestamp": "2022-08-14T13:33:14.801000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "雷はびっくりしますね。この夏は夜中の０時に雷が鳴ったことがありました。",
+            "timestamp": "2022-08-14T13:33:59.142000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IO",
+            "text": "それは寝れないですね。",
+            "timestamp": "2022-08-14T13:34:08.127000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そうなんですよね。",
+            "timestamp": "2022-08-14T13:34:32.232000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IO",
+            "text": "最近は急な雨が多くて困っています。",
+            "timestamp": "2022-08-14T13:34:47.370000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "傘は持ち歩いていますか？",
+            "timestamp": "2022-08-14T13:35:08.585000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IO",
+            "text": "基本車なので持ち歩いてないんです。",
+            "timestamp": "2022-08-14T13:35:26.437000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "車ならどしゃぶりではない限り大丈夫ですね",
+            "timestamp": "2022-08-14T13:36:10.673000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IO",
+            "text": "買い物行く時も傘ささずに走っちゃいます。",
+            "timestamp": "2022-08-14T13:36:38.299000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "わざわざ傘を開くの面倒ですよね。荷物も増えるし",
+            "timestamp": "2022-08-14T13:37:17.468000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IO",
+            "text": "そうですね。まだ夏なので濡れてもすぐ乾きますし。",
+            "timestamp": "2022-08-14T13:37:52.455000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "そういえば私は乾きやすい素材の服を選びがちかもしれません",
+            "timestamp": "2022-08-14T13:38:44.343000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IO",
+            "text": "この季節にはぴったりですね。速乾性のある生地ですね。",
+            "timestamp": "2022-08-14T13:39:04.971000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "軽くて便利です",
+            "timestamp": "2022-08-14T13:39:25.710000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IO",
+            "text": "たしかに。夏は汗かくのでそういったものがいいですね。",
+            "timestamp": "2022-08-14T13:39:43.807000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "そういった素材のほうが通気性も良いですし、結果的に汗もかきにくい気がします",
+            "timestamp": "2022-08-14T13:41:03.952000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IO",
+            "text": "私は外で仕事をしているので速乾性のある服は重宝しています。",
+            "timestamp": "2022-08-14T13:41:36.906000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "外仕事は夏冬きつそうですね",
+            "timestamp": "2022-08-14T13:42:10.608000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IO",
+            "text": "そうなんですよ。暑すぎても寒すぎても作業できなくなります。",
+            "timestamp": "2022-08-14T13:42:33.727000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "作業中止になることもあるのですか？",
+            "timestamp": "2022-08-14T13:42:56.455000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IO",
+            "text": "今は、昼間は暑すぎるので早朝に行うようにしています。",
+            "timestamp": "2022-08-14T13:43:20.525000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "なるほど。それは賢い方法ですね",
+            "timestamp": "2022-08-14T13:43:43.110000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

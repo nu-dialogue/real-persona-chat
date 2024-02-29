@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13576,
+    "interlocutors": [
+        "GI",
+        "AD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-26T14:07:04.135000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AD",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-26T14:07:17.183000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "今日は何かする予定ありました？",
+            "timestamp": "2022-09-26T14:07:22.254000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AD",
+            "text": "今日は実は在宅勤務で仕事中です。",
+            "timestamp": "2022-09-26T14:07:36.036000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。ずっと在宅なのですか？",
+            "timestamp": "2022-09-26T14:07:50.599000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AD",
+            "text": "週に2回は会社に行ってますね",
+            "timestamp": "2022-09-26T14:08:05.205000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "そんなもんなんですね。半々くらいか。",
+            "timestamp": "2022-09-26T14:08:20.367000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AD",
+            "text": "そうですね。もう前みたいに週5出勤には戻れないです",
+            "timestamp": "2022-09-26T14:08:38.162000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "あはは。やっぱり楽ですよね在宅は。",
+            "timestamp": "2022-09-26T14:08:50.718000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AD",
+            "text": "楽ですね。好きな事しながら仕事できるので。",
+            "timestamp": "2022-09-26T14:09:01.151000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "ですね。音楽聴きながらとか？",
+            "timestamp": "2022-09-26T14:09:23.819000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AD",
+            "text": "ですです！あとアマプラでドラマ見たりとか",
+            "timestamp": "2022-09-26T14:09:32.738000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "最高ですね！どんなの見るんですか？",
+            "timestamp": "2022-09-26T14:09:47.009000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AD",
+            "text": "気に入ったものを何回も見てる感じです。アンナチュラルとか知ってます？",
+            "timestamp": "2022-09-26T14:10:02.071000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "ほう。初めて聞きました。",
+            "timestamp": "2022-09-26T14:10:24.557000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AD",
+            "text": "結構面白いですよ。アマプラとか入っていたら見て欲しいです。サスペンスっぽいです",
+            "timestamp": "2022-09-26T14:10:39.623000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "サスペンス系なんですね。見てみようかな。",
+            "timestamp": "2022-09-26T14:10:55.419000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AD",
+            "text": "お好きなようなら是非！逆におすすめありますか？",
+            "timestamp": "2022-09-26T14:11:05.660000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "ネトフリは入っています？",
+            "timestamp": "2022-09-26T14:11:16.867000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AD",
+            "text": "入ってないんです。",
+            "timestamp": "2022-09-26T14:11:27.598000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。私はアマプラと両方入ってるんですが。ネトフリのほうがよく見てて。",
+            "timestamp": "2022-09-26T14:11:50.157000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AD",
+            "text": "配信されているものとか全然違うものなんですか？",
+            "timestamp": "2022-09-26T14:12:08.763000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "ちょっと違いますね。アマプラはアニメ映画多い気がします。",
+            "timestamp": "2022-09-26T14:12:25.998000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AD",
+            "text": "ネトフリは何が多いんですか？",
+            "timestamp": "2022-09-26T14:12:35.868000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "ネトフリはアマプラよりも全体的に多くて、特に洋画とかですかね。",
+            "timestamp": "2022-09-26T14:12:55.801000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AD",
+            "text": "洋画が多めなんですね。洋画はあまりみないなあ",
+            "timestamp": "2022-09-26T14:13:23.458000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "あとはオリジナルドラマが、おもしろいですね。",
+            "timestamp": "2022-09-26T14:13:36.725000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AD",
+            "text": "ネトフリオリジナルドラマがあるんですね。",
+            "timestamp": "2022-09-26T14:13:46.679000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "そうですね。人気なのでいうと、韓国のイテオンクラスとか。",
+            "timestamp": "2022-09-26T14:14:08.367000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AD",
+            "text": "あー！知ってます！有名なの多そうですね。加入検討してみます。",
+            "timestamp": "2022-09-26T14:14:30.603000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

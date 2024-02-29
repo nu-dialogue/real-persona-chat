@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12193,
+    "interlocutors": [
+        "FK",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-05T23:47:51.407000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-05T23:47:58.829000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "最近の趣味はなんですか？",
+            "timestamp": "2022-09-05T23:48:03.637000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "ジョギングですかね。でも仕事が忙しくなってできてないんですよ。",
+            "timestamp": "2022-09-05T23:48:42.037000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "あーめちゃいいですね。僕も散歩とランニングすきです",
+            "timestamp": "2022-09-05T23:48:54.560000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "ありがとうございます！散歩とか気持ちいいですよね。",
+            "timestamp": "2022-09-05T23:49:35.169000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "建物とか動物みれていやされます！",
+            "timestamp": "2022-09-05T23:49:43.329000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "そうですよね！あれ？外で飼われている犬とかが見れるってことですかね。",
+            "timestamp": "2022-09-05T23:50:23.901000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "あ、そうです！野良猫ちゃんとかわんちゃんとかです",
+            "timestamp": "2022-09-05T23:50:33.375000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "あー、癒されますー！なでちゃう方ですか？",
+            "timestamp": "2022-09-05T23:51:01.227000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "嫌がってなかったらなでちゃいます！",
+            "timestamp": "2022-09-05T23:51:11.209000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "わんちゃんはなでさせてくれる率は高そうですね。",
+            "timestamp": "2022-09-05T23:51:40.411000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "わんちゃんめちゃかわいいです、いやしです",
+            "timestamp": "2022-09-05T23:51:48.973000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "私はトイプードルと柴犬が好きです。どの犬種がお好きですか？",
+            "timestamp": "2022-09-05T23:52:26.958000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "ゴールデンとかすきです！",
+            "timestamp": "2022-09-05T23:52:44.600000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "レトリバーですね！",
+            "timestamp": "2022-09-05T23:52:55.258000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "略しすぎました！",
+            "timestamp": "2022-09-05T23:53:03.320000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "なんかすみません！かっこいいですよね！",
+            "timestamp": "2022-09-05T23:53:22.598000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "こちらこそ！大型であまえんぼはすきです",
+            "timestamp": "2022-09-05T23:53:33.196000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "あまえんぼさんはかわいいですー。",
+            "timestamp": "2022-09-05T23:54:08.819000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "かわいいですよねー、すきです",
+            "timestamp": "2022-09-05T23:54:15.269000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "ゴールデンは食欲が人間と同じ位なんですかね？",
+            "timestamp": "2022-09-05T23:54:43.496000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "どうなんでしょう、くいしんぼなイメージはありますね",
+            "timestamp": "2022-09-05T23:54:52.242000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "確かにそうですね！犬をモフモフしてきたくなりました。",
+            "timestamp": "2022-09-05T23:55:13.848000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "わかります！動物カフェいきたいです",
+            "timestamp": "2022-09-05T23:55:20.683000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "いいですね！最近は行けてますか？",
+            "timestamp": "2022-09-05T23:55:36.819000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "ちょくちょくいってますよ！",
+            "timestamp": "2022-09-05T23:55:45.009000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！私も次のお休みの日に行ってみようかな！",
+            "timestamp": "2022-09-05T23:56:25.085000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "いいですね！ぜひ！",
+            "timestamp": "2022-09-05T23:56:30.897000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "はい！楽しみです！",
+            "timestamp": "2022-09-05T23:56:39.183000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

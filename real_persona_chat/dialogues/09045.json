@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9045,
+    "interlocutors": [
+        "CA",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは。よろしくお願いします",
+            "timestamp": "2022-08-07T11:37:41.630000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-07T11:37:49.094000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "もうすぐお昼ですね",
+            "timestamp": "2022-08-07T11:39:05.741000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "そうですね。今日のお昼は何にしましょうか？",
+            "timestamp": "2022-08-07T11:39:24.001000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "迷ってます。昨日の残りのカレーか大量にあるしそをなんとかしちゃうか。<CT>さんは決められましたか？",
+            "timestamp": "2022-08-07T11:40:17.284000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "今日もそうめんになりそうな気がします。",
+            "timestamp": "2022-08-07T11:40:38.800000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "薬味は何がお好きですか？",
+            "timestamp": "2022-08-07T11:41:14.449000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "しょうがと、しそですね！大量にあるしそを頂きたい！",
+            "timestamp": "2022-08-07T11:41:43.122000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "本当にもらっていただきたいです。さっき仕分けして、６０枚くらいありました。",
+            "timestamp": "2022-08-07T11:42:11.801000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "家で栽培しているのですか？",
+            "timestamp": "2022-08-07T11:42:25.585000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "母の実家の畑で毎年自然にできて、それを分けてもらってるんです。",
+            "timestamp": "2022-08-07T11:42:58.869000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "しそは一回植えると、毎年できるっていいますよね。なぜか我が家ではできないのですが。",
+            "timestamp": "2022-08-07T11:43:29.680000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "<CT>さんもおうちでしそを栽培されているんですか？",
+            "timestamp": "2022-08-07T11:44:10.843000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "栽培というか、プランターに種をまいてみたのですが、芽が出てきません。土が悪いのかな？",
+            "timestamp": "2022-08-07T11:44:57.256000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "タネから育てられてるんですね！すごい！",
+            "timestamp": "2022-08-07T11:45:24.867000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "種が売ってたので撒いてみたのですが、それではダメだったのかも。",
+            "timestamp": "2022-08-07T11:46:00.345000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "私もプランターで育ててるんですが、種からは難しいって誰かから聞きました。",
+            "timestamp": "2022-08-07T11:47:32.469000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "なるほど！そうなんですね。<CA>さんの所はうまく育っていますか？",
+            "timestamp": "2022-08-07T11:48:00.942000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "苗を２つ購入したのですが、大きくならずにすぐ花が咲いてしまって。１つの苗がもう枯れちゃったんです。",
+            "timestamp": "2022-08-07T11:48:35.995000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "やっぱり難しいんですね。ほんとうは、庭の隅にいつでもしそがあるのが理想なのですが。",
+            "timestamp": "2022-08-07T11:49:14.053000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "地植えか、大きめのプランターがいいんでしょうかね。",
+            "timestamp": "2022-08-07T11:49:58.752000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "<CA>さんは、ほかには何か花や野菜を育てていますか？",
+            "timestamp": "2022-08-07T11:50:24.184000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "食べる方だと、同じシソ科のバジルとセージ、ミニトマトがプランターで植わっています。料理に使いたくて。",
+            "timestamp": "2022-08-07T11:51:38.313000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "フレッシュのバジルがあるのはいいですね！私も育てた事あります。",
+            "timestamp": "2022-08-07T11:52:19.111000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "<CT>さんと共通点がたくさんあって本当に嬉しいです！すぐ食べれるのって本当にいいですよね。",
+            "timestamp": "2022-08-07T11:53:05.110000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "家庭菜園。なかなか難しいけれど、収穫があるとうれしいですよね！うちは茄子を育ててますよ",
+            "timestamp": "2022-08-07T11:53:49.278000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "茄子いいですね！今もう収穫されてますか？",
+            "timestamp": "2022-08-07T11:54:36.796000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "いがいとうまくいって、たまに収穫できてます。なかなかおいしいのが出来ました！",
+            "timestamp": "2022-08-07T11:55:15.507000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "とれたてのナスおいしいだろうなあ！私も来年挑戦してみたいです！",
+            "timestamp": "2022-08-07T11:56:17.174000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "ぜひぜひ！チャレンジしてみてください。",
+            "timestamp": "2022-08-07T11:56:39.746000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

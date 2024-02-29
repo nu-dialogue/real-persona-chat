@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 999,
+    "interlocutors": [
+        "CN",
+        "AH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:18:54.241000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:18:59.573000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "最近どこか出かけましたか？",
+            "timestamp": "2022-08-11T15:19:05.665000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AH",
+            "text": "ゴールデンウィークから全然出かけてないです。",
+            "timestamp": "2022-08-11T15:19:15.662000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "暑いとなかなかですよね。ゴールデンウィークはどちらに？",
+            "timestamp": "2022-08-11T15:19:34.772000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AH",
+            "text": "群馬県で、どあい駅というところの近くに。",
+            "timestamp": "2022-08-11T15:20:02.210000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "土合はたしかすごく地下にホームがあるところですよね？",
+            "timestamp": "2022-08-11T15:20:29.396000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AH",
+            "text": "はい、かなり階段を歩きました。",
+            "timestamp": "2022-08-11T15:20:35.262000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "おお、すごい。ホームまで行かれたんですね。",
+            "timestamp": "2022-08-11T15:20:57.712000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AH",
+            "text": "はい、帰りが大変でした。",
+            "timestamp": "2022-08-11T15:21:06.703000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "確かに大変そうです。階段しかないんですか？",
+            "timestamp": "2022-08-11T15:21:25.801000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AH",
+            "text": "階段四百段だけでしたね。エスカレーターとかもなしです。",
+            "timestamp": "2022-08-11T15:21:41.699000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "それはいい運動になりそうですね。",
+            "timestamp": "2022-08-11T15:21:55.147000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AH",
+            "text": "はい、かなり歩けました。",
+            "timestamp": "2022-08-11T15:22:03.382000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "地下のホームだとやっぱり涼しいですか？",
+            "timestamp": "2022-08-11T15:22:23.369000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AH",
+            "text": "山の中だったからか、かなり涼しかったです。",
+            "timestamp": "2022-08-11T15:22:36.582000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "そうか、山の中ですよね。",
+            "timestamp": "2022-08-11T15:22:49.289000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AH",
+            "text": "ただ、その周辺は雪が積もっていたので、地域の温度が低いのかも。",
+            "timestamp": "2022-08-11T15:23:02.880000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "5月でまだ雪が積もってるんですね。",
+            "timestamp": "2022-08-11T15:23:15.235000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AH",
+            "text": "はい、山にも行きましたが、雪だるま作れるくらいありました。",
+            "timestamp": "2022-08-11T15:23:31.426000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "かなり標高が高いんですね！",
+            "timestamp": "2022-08-11T15:23:45.262000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AH",
+            "text": "ロープウェイで行けるのでそこまで高くはなかったと思います。",
+            "timestamp": "2022-08-11T15:24:02.085000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "そうなんですね。土合の話は登山をする友人から聞いたことがあります。",
+            "timestamp": "2022-08-11T15:24:30.432000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AH",
+            "text": "そういえば、登山のコースもありました！",
+            "timestamp": "2022-08-11T15:24:42.140000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "登山に行くのに面白い駅があって、という話で聞きました。",
+            "timestamp": "2022-08-11T15:25:04.027000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AH",
+            "text": "登山ルートはかなり危なさそうでした。",
+            "timestamp": "2022-08-11T15:25:16.793000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "友人もかなり本格的に登山をする人です。",
+            "timestamp": "2022-08-11T15:25:37.112000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AH",
+            "text": "登山家なのですね！",
+            "timestamp": "2022-08-11T15:25:47.481000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "登山家というほどではないけど、大学時代に登山部だったそうです。",
+            "timestamp": "2022-08-11T15:26:05.837000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AH",
+            "text": "登山、私もしてみたいです！",
+            "timestamp": "2022-08-11T15:26:17.349000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

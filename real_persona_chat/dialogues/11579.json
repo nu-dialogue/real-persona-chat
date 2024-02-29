@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11579,
+    "interlocutors": [
+        "DI",
+        "GJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-23T19:10:33.807000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-23T19:10:45.068000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "地震対策とか、なにかやってますか？",
+            "timestamp": "2022-08-23T19:10:54.933000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GJ",
+            "text": "地震対策は全くやってないです。何かされてますか？",
+            "timestamp": "2022-08-23T19:11:22.130000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "備蓄をいつでも持ち歩けるように防災バッグは準備しています。",
+            "timestamp": "2022-08-23T19:11:37.340000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GJ",
+            "text": "えらいですね。準備しなきゃとは思いつつも先延ばしにしてしまいます。",
+            "timestamp": "2022-08-23T19:12:14.090000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "近々大地震来るといわれてますからねー。",
+            "timestamp": "2022-08-23T19:12:26.576000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GJ",
+            "text": "そうなんですか？地域とかも特定されてます？",
+            "timestamp": "2022-08-23T19:12:50.461000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "南海トラフとか首都直下地震とか、くるって言われてますよ！",
+            "timestamp": "2022-08-23T19:13:11.784000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GJ",
+            "text": "東京も危ないんですかね。",
+            "timestamp": "2022-08-23T19:13:41.505000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "東京は被害をもろにこうむるって言われてます。",
+            "timestamp": "2022-08-23T19:13:53.112000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GJ",
+            "text": "ならば対策しなきゃです。でも実際起きたら諦めるかもしれません。",
+            "timestamp": "2022-08-23T19:14:26.864000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "ですね。お住まいは東京で？",
+            "timestamp": "2022-08-23T19:14:44.655000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GJ",
+            "text": "はい。東京なので怖いですね。来たらどうしようもないですが。",
+            "timestamp": "2022-08-23T19:15:19.687000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "それは結構怖いですねー。都心はビルも多いですし。",
+            "timestamp": "2022-08-23T19:15:33.008000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GJ",
+            "text": "そうですよね。広場みたいな場所もないから。避難所の場所だけは確認しておこうと思います。",
+            "timestamp": "2022-08-23T19:16:19.971000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "避難所の確認本当に大事ですよ",
+            "timestamp": "2022-08-23T19:16:35.043000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GJ",
+            "text": "地震の被害に遭われたことありますか？",
+            "timestamp": "2022-08-23T19:16:56.660000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "直接的な被害はないですね。そちらは？",
+            "timestamp": "2022-08-23T19:17:19.769000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GJ",
+            "text": "私もないです。福島、東北の地震の後にボランティアで何度か訪れてるので、被害の大きさは目にしています。",
+            "timestamp": "2022-08-23T19:18:26.815000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "ボランティア活動されたのですね。素晴らしいです。実際に目にするのとではやはり違いますか？",
+            "timestamp": "2022-08-23T19:18:49.383000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GJ",
+            "text": "全然違いました。テレビ画面上では伝わらないものがありましたね。",
+            "timestamp": "2022-08-23T19:19:50.025000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "やっぱりそうなんですか。東日本は津波もありましたもんね。",
+            "timestamp": "2022-08-23T19:20:11.174000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GJ",
+            "text": "津波も恐ろしいですよね。",
+            "timestamp": "2022-08-23T19:20:52.665000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "ボランティアってことはがれきのお掃除とかもされたんです？",
+            "timestamp": "2022-08-23T19:20:58.383000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GJ",
+            "text": "掃除等も行いました。自分は短期間でしたが正直大変でした。",
+            "timestamp": "2022-08-23T19:21:59.602000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "大変ですよね。実際どのくらいの期間いたんですか？",
+            "timestamp": "2022-08-23T19:22:20.747000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GJ",
+            "text": "回数としては4回で、毎回1週間ほど滞在していました。",
+            "timestamp": "2022-08-23T19:23:11.107000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "結構長いですね。お疲れ様でした。",
+            "timestamp": "2022-08-23T19:23:39.727000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GJ",
+            "text": "私も地震対策します。ありがとうございました。",
+            "timestamp": "2022-08-23T19:24:02.641000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

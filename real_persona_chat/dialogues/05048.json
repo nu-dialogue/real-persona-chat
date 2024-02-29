@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5048,
+    "interlocutors": [
+        "FF",
+        "DV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-19T08:37:47.970000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DV",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-19T08:37:54.808000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "漫画はお好きですか？",
+            "timestamp": "2022-09-19T08:38:00.932000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DV",
+            "text": "学生時代はよく読んでいましたが最近はあまり読まないです",
+            "timestamp": "2022-09-19T08:38:13.751000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "では普通の文庫本なんかは？",
+            "timestamp": "2022-09-19T08:38:23.002000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DV",
+            "text": "それもあまり最近読んでないですね、昔はよく読んでたんですが",
+            "timestamp": "2022-09-19T08:38:42.922000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "音楽はどうですか？",
+            "timestamp": "2022-09-19T08:38:51.943000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DV",
+            "text": "音楽も車で通勤してた時はよくきいてたんですが、最近はきかないですってすみません",
+            "timestamp": "2022-09-19T08:39:16.580000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "うーん、では映画やドラマは？",
+            "timestamp": "2022-09-19T08:39:29.257000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DV",
+            "text": "映画は昨日ビデオでですけど竜とそばかすの姫を見ました",
+            "timestamp": "2022-09-19T08:39:56.059000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "あぁ、押野監督？のやつですよね。",
+            "timestamp": "2022-09-19T08:40:09.493000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DV",
+            "text": "監督名がわからないのですが、ジブリのやつです",
+            "timestamp": "2022-09-19T08:40:31.937000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "いや、ジブリではないと思われます。化け物の子とかの人ですよね？",
+            "timestamp": "2022-09-19T08:42:11.733000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DV",
+            "text": "ごめんなさい、ジブリじゃなかったです",
+            "timestamp": "2022-09-19T08:41:28.696000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "大丈夫です。サマーウォーズの方が有名だったかもしれません！",
+            "timestamp": "2022-09-19T08:41:42.726000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DV",
+            "text": "見てるようでちゃんと見てないのかもしれません、シッタカブッタでした",
+            "timestamp": "2022-09-19T08:42:13.310000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "いえいえ！ぜんぜんそんなの気にしないでください！知ってる映画だと伝えたかっただけです！すみません！",
+            "timestamp": "2022-09-19T08:42:47.692000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DV",
+            "text": "いえいえ、今調べてみたら監督は細田監督でした",
+            "timestamp": "2022-09-19T08:43:05.943000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "うーん。名前外してましたね。最近は新海誠監督と並んで有名ですよね！",
+            "timestamp": "2022-09-19T08:43:26.775000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DV",
+            "text": "新海監督も有名ですねー",
+            "timestamp": "2022-09-19T08:43:41.014000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "結局映画館まではいかなかったですねー。ジブリも最後に行ったの何かな？って感じです！",
+            "timestamp": "2022-09-19T08:44:03.190000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DV",
+            "text": "私も最近映画館に全くいってません、昔はよくいってたんですが",
+            "timestamp": "2022-09-19T08:44:32.122000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "何と言うかそこまでしてみたいと思えないというか、忙しいのか金がないのか。",
+            "timestamp": "2022-09-19T08:44:50.487000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DV",
+            "text": "私は友人と時間がなかなか合わなくなって、一人で行くっていうのが苦手で",
+            "timestamp": "2022-09-19T08:45:23.637000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "なるほどお仕事不定期休みですか？",
+            "timestamp": "2022-09-19T08:45:33.709000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DV",
+            "text": "お互いに結婚したのでなかなか",
+            "timestamp": "2022-09-19T08:45:50.419000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "それはありますね。こちらは不定期休みの友人が多くコロナ以降むしろ会いやすくなりましたね。",
+            "timestamp": "2022-09-19T08:46:09.883000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DV",
+            "text": "そうなんですね、それはいいですね！",
+            "timestamp": "2022-09-19T08:46:46.850000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "はい。zoomなんかでしゃべるのもいいですね。",
+            "timestamp": "2022-09-19T08:46:58.989000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DV",
+            "text": "便利な時代ですよね",
+            "timestamp": "2022-09-19T08:47:08.564000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

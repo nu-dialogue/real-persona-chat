@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1677,
+    "interlocutors": [
+        "BB",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-24T10:34:59.362000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-24T10:35:06.691000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "映画とかドラマとか、よく観ますか？",
+            "timestamp": "2022-08-24T10:35:17.842000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "見ますよー！",
+            "timestamp": "2022-08-24T10:35:23.746000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "最近どんな映画観ましたか？",
+            "timestamp": "2022-08-24T10:35:31.985000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "アニメなんですけどエヴァンゲリオンですね！",
+            "timestamp": "2022-08-24T10:35:50.116000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "エヴァンゲリオンか！新作出てましたっけ？",
+            "timestamp": "2022-08-24T10:36:04.177000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "去年の劇場版で完結しましたね",
+            "timestamp": "2022-08-24T10:36:27.221000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "そっか、去年のが完結だったのですね。ちょっとTVシリーズしか見てなかったので。",
+            "timestamp": "2022-08-24T10:36:52.665000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "逆にテレビシリーズ見てないですね、、かなり前のですよね",
+            "timestamp": "2022-08-24T10:37:12.585000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "かなり前ですね。あの雰囲気は好きでしたけど、内容についていけずリタイアしました。",
+            "timestamp": "2022-08-24T10:37:35.378000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "確かに！結構グロかったり内容難しかったりですよね",
+            "timestamp": "2022-08-24T10:38:02.286000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "そうですね。どうしてもストーリーが自分の頭の中でつながらなくて。",
+            "timestamp": "2022-08-24T10:38:17.635000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "後最近シンウルトラマン見に行きたかったんですよ！まだ行ってませんけど",
+            "timestamp": "2022-08-24T10:38:48.002000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "新ウルトラマン、まだやってる劇場ありますかね？",
+            "timestamp": "2022-08-24T10:39:08.029000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "多分まだやってるところ多いと思います！みました？",
+            "timestamp": "2022-08-24T10:39:35.347000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "私もまだ見てまいんですよ。興味はあったんですけど。",
+            "timestamp": "2022-08-24T10:39:47.367000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "僕もいつか見ようと思ってたんですけどテスト期間でタイミング逃して",
+            "timestamp": "2022-08-24T10:40:19.863000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "テストってことは、大学生ですか？それはお忙しいですよね。",
+            "timestamp": "2022-08-24T10:40:24.700000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "大学生ですー逆に夏休みはずっと暇ですけどね",
+            "timestamp": "2022-08-24T10:40:50.897000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "それが大学生の特権じゃないですか。夏休みは、遊び放題ですね！",
+            "timestamp": "2022-08-24T10:41:07.477000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "はい！まずまず遊んでちょいちょいバイトしてます",
+            "timestamp": "2022-08-24T10:41:28.800000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "遊ぶ資金は大事ですよね。夏休みはいつまでですか？",
+            "timestamp": "2022-08-24T10:41:43.294000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "９月末までありますね",
+            "timestamp": "2022-08-24T10:41:52.456000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "9月になると、もっと涼しくなってお出かけもしやすくなるかもですね。",
+            "timestamp": "2022-08-24T10:42:05.689000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "ですよね！免許も取ったんでドライブしたいです",
+            "timestamp": "2022-08-24T10:42:29.119000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "いいですね！旅行とかは行かないですか？",
+            "timestamp": "2022-08-24T10:42:38.703000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "熊本に行ってきます",
+            "timestamp": "2022-08-24T10:42:48.917000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "熊本いいなーご飯がめっちゃ美味しいんですよね！",
+            "timestamp": "2022-08-24T10:43:00.966000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "はい！楽しみです",
+            "timestamp": "2022-08-24T10:43:10.875000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

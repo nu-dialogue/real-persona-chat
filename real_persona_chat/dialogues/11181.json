@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11181,
+    "interlocutors": [
+        "CJ",
+        "EO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CJ",
+            "text": "こんにちは、はじめまして。",
+            "timestamp": "2022-08-23T12:57:55.258000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EO",
+            "text": "初めまして。こんにちは！",
+            "timestamp": "2022-08-23T12:59:03.674000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CJ",
+            "text": "お昼すぎ、ちょっと眠い時間です。",
+            "timestamp": "2022-08-23T12:58:26.013000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EO",
+            "text": "天気もいいと眠たくなりますね。",
+            "timestamp": "2022-08-23T12:59:08.693000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CJ",
+            "text": "ただこのところは天気が良いと、眠るというよりも意識を失うレベルです。",
+            "timestamp": "2022-08-23T12:59:11.408000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EO",
+            "text": "エー！大丈夫ですか？",
+            "timestamp": "2022-08-23T12:59:31.067000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CJ",
+            "text": "いやそのぐらい暑いという話ですよ。そちらはそうでもないんですか？",
+            "timestamp": "2022-08-23T13:00:03.241000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EO",
+            "text": "暑いので、日中はもう家から出ません。",
+            "timestamp": "2022-08-23T13:00:31.855000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CJ",
+            "text": "やっぱりそうですよね。今年の夏は、いや今年も異常な感じです。",
+            "timestamp": "2022-08-23T13:01:04.105000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EO",
+            "text": "熱中症とかほんとに怖いですよね。",
+            "timestamp": "2022-08-23T13:01:31.048000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CJ",
+            "text": "家の中がけっこう危ないっていう話です。",
+            "timestamp": "2022-08-23T13:01:43.312000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EO",
+            "text": "そうなんですか？！うちはクーラー付けっぱなしにしてます。",
+            "timestamp": "2022-08-23T13:02:21.267000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CJ",
+            "text": "うちは東北なんですが、なんとか扇風機でしのげるぐらいなので、逆に危ないかも知れません。",
+            "timestamp": "2022-08-23T13:03:06.279000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EO",
+            "text": "凄い！私は関西ですが、扇風機だけじゃ確実に死にます。",
+            "timestamp": "2022-08-23T13:03:43.554000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CJ",
+            "text": "ニュースなんかで見てるとそう思いますね。こちらよりは確実に4,5度高いですから。",
+            "timestamp": "2022-08-23T13:04:09.929000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EO",
+            "text": "クーラーは全然付けないんですか？電気代浮いて羨ましい。",
+            "timestamp": "2022-08-23T13:04:45.208000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CJ",
+            "text": "よほど暑かったときは、クーラーのある部屋に逃げましたが、基本はつけないですね。",
+            "timestamp": "2022-08-23T13:05:24.970000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EO",
+            "text": "その方が身体にも良さそうですね！その分、冬は寒いんですかね。",
+            "timestamp": "2022-08-23T13:06:12.731000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CJ",
+            "text": "どうでしょう？やっぱり4,5度低い感じだと思います。朝は氷点下になりますしね。",
+            "timestamp": "2022-08-23T13:06:52.230000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EO",
+            "text": "氷点下はすごいです。大阪から出たことないので、想像できません。",
+            "timestamp": "2022-08-23T13:07:43.781000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CJ",
+            "text": "大阪は暑いイメージあります。冬も氷は張らないんですか？",
+            "timestamp": "2022-08-23T13:08:12.726000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EO",
+            "text": "蒸し暑いです。氷は、張ったことないですね、多分。",
+            "timestamp": "2022-08-23T13:08:56.519000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CJ",
+            "text": "それはすごい。私は南東北ですが、それでも年に数回は最高気温が氷点下、一日氷が溶けないときがあります。",
+            "timestamp": "2022-08-23T13:10:02.196000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EO",
+            "text": "防寒対策が大変そう！逆に冬は暖房入れっぱなしですか？",
+            "timestamp": "2022-08-23T13:10:44.303000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CJ",
+            "text": "そうですね。ファンヒーターはずっとついてます。",
+            "timestamp": "2022-08-23T13:11:04.633000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EO",
+            "text": "でも雪で遊べるのは羨ましいです。",
+            "timestamp": "2022-08-23T13:11:49.047000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CJ",
+            "text": "子どもが小さいときは大喜びでしたね。かまくらもどきのものを作ったりもしました。",
+            "timestamp": "2022-08-23T13:12:21.905000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EO",
+            "text": "めっちゃいいですね！こちらは雪降ってもほぼ積ってくれません。",
+            "timestamp": "2022-08-23T13:13:01.141000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CJ",
+            "text": "最近は雪も減りました。やはり温暖化なようです。",
+            "timestamp": "2022-08-23T13:13:22.555000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EO",
+            "text": "地球温暖化、気になりますね。",
+            "timestamp": "2022-08-23T13:13:42.458000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CJ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

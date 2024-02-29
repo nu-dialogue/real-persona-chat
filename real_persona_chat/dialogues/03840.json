@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3840,
+    "interlocutors": [
+        "CB",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは。よろしくお願いします",
+            "timestamp": "2022-09-02T22:25:32.436000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-09-02T22:25:38.263000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "本でおすすめありますか",
+            "timestamp": "2022-09-02T22:26:08.788000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "どんなジャンルでしょう？ビジネス本ですか？",
+            "timestamp": "2022-09-02T22:26:37.171000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "なんでもよいです",
+            "timestamp": "2022-09-02T22:26:45.611000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "「なぜ、あなたの仕事は終わらないのか」を今読んでますがなかなか面白いです",
+            "timestamp": "2022-09-02T22:27:26.587000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "ああ、タイトルは聞いたことあります。",
+            "timestamp": "2022-09-02T22:27:51.616000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "ビルゲイツの部下だった人が書いた本ですね",
+            "timestamp": "2022-09-02T22:28:10.852000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね！おもしろそうです",
+            "timestamp": "2022-09-02T22:28:49.165000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "あなたはおすすめはありますか？",
+            "timestamp": "2022-09-02T22:28:58.636000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "うーん。一般的にお勧めできる本が思いつかなくてすみません",
+            "timestamp": "2022-09-02T22:29:28.808000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "いえいえ",
+            "timestamp": "2022-09-02T22:29:38.246000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "おやすみの日は何をされていることが多いですか",
+            "timestamp": "2022-09-02T22:30:17.601000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "平日溜めた家事をやったり本を読んだりが多いです",
+            "timestamp": "2022-09-02T22:30:34.764000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "なるほど。本は１日に何冊読めますか",
+            "timestamp": "2022-09-02T22:31:07.253000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "そんなにまとまった時間は取れないので数日で1冊読む感じです",
+            "timestamp": "2022-09-02T22:32:00.867000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "そうですか。本の内容によりますよね。",
+            "timestamp": "2022-09-02T22:32:17.208000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "そうですね。長い本だと半月から1か月とかかかることもあります",
+            "timestamp": "2022-09-02T22:33:23.882000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "大作ですね。日をまたぐと筋が読めなくなったりするので困ります",
+            "timestamp": "2022-09-02T22:34:00.721000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "小説とかだとまとめて読みたいですね。",
+            "timestamp": "2022-09-02T22:34:50.407000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "そうですね。ミステリー小説だと続きが気になって一気に読みたくなります",
+            "timestamp": "2022-09-02T22:35:20.123000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "ミステリーとかホラーは確かに一気に読まないと気になりますね",
+            "timestamp": "2022-09-02T22:35:53.672000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "そうなんですよね。なので好きですか、ここ数年読めてないです",
+            "timestamp": "2022-09-02T22:36:09.435000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "ビジネス本だと章で内容が分かれるので数日空けても大丈夫ですね",
+            "timestamp": "2022-09-02T22:37:30.387000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "そうなんです。なのでビジネス書が多めになります",
+            "timestamp": "2022-09-02T22:37:42.886000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "分かります",
+            "timestamp": "2022-09-02T22:37:50.413000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "１か月くらい図書館にこもっていたいという欲求があります",
+            "timestamp": "2022-09-02T22:38:32.628000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "仕事休めたらそうしたいですね！",
+            "timestamp": "2022-09-02T22:38:56.976000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "温泉で湯治場で本がいっぱいのところがあってそこで１か月泊まるのが夢です",
+            "timestamp": "2022-09-02T22:39:27.438000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "それは素敵です！",
+            "timestamp": "2022-09-02T22:39:46.069000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2719,
+    "interlocutors": [
+        "ER",
+        "ES"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-23T15:38:41.165000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ES",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-23T15:38:56.508000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "休日は何をして過ごされていますか？",
+            "timestamp": "2022-08-23T15:39:09.989000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ES",
+            "text": "休日は土曜はお出かけして、日曜はゆっくりするのが定番です。",
+            "timestamp": "2022-08-23T15:39:35.337000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "いいですね。どんなところに出かけることが多いですか？",
+            "timestamp": "2022-08-23T15:39:54.988000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ES",
+            "text": "街なかにお買い物に行くのが好きですね。新作をチェックしたりしています。",
+            "timestamp": "2022-08-23T15:40:25.320000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "新作は洋服の新作ですか？",
+            "timestamp": "2022-08-23T15:40:45.624000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ES",
+            "text": "はい、ユニクロとかZARAによく行きます。",
+            "timestamp": "2022-08-23T15:41:15"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "最近いいなと思った新作の洋服はありましたか？",
+            "timestamp": "2022-08-23T15:41:37.850000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ES",
+            "text": "ZARAで欲しい服があったのですが、セールを狙っているところです。",
+            "timestamp": "2022-08-23T15:42:02.817000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "欲しい服はどんな服ですか？",
+            "timestamp": "2022-08-23T15:43:46.919000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ES",
+            "text": "お出かけに良さそうな、トップスなんです。お買い物に行ったりしますか？",
+            "timestamp": "2022-08-23T15:44:27.248000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "あんまり行かないですね。ネットショップで済ませてしまいます。",
+            "timestamp": "2022-08-23T15:44:44.514000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ES",
+            "text": "ネットショップ便利ですよね。でも失敗したりしませんか？",
+            "timestamp": "2022-08-23T15:45:09.727000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "確かに去年靴を買った時に見事にサイズ失敗しました。",
+            "timestamp": "2022-08-23T15:45:31.453000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ES",
+            "text": "返品もしくは交換はできましたか？",
+            "timestamp": "2022-08-23T15:45:58.727000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "いえ、履けないこともないくらいの感じだったので、そのまま履きました。",
+            "timestamp": "2022-08-23T15:46:19.662000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ES",
+            "text": "靴はサイズが合わないと危ないので、ちょっと心配です。",
+            "timestamp": "2022-08-23T15:46:50.162000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "そうですね。新しく買うお店のものは慎重になろうと思います。",
+            "timestamp": "2022-08-23T15:47:10.523000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ES",
+            "text": "お店によってサイズ感違いますもんね。私はこの間ネットで気に入って同じものたくさん購入しました。",
+            "timestamp": "2022-08-23T15:47:47.195000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "ネットショップだとそういう使い方がすごく良さそうですね。",
+            "timestamp": "2022-08-23T15:48:35.051000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ES",
+            "text": "そうですね、なるべく店舗でよく見て買うようにしています。",
+            "timestamp": "2022-08-23T15:49:54.404000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "私は服とかは無頓着なので、着れればいいかなと思ってしまいます。",
+            "timestamp": "2022-08-23T15:50:37.415000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ES",
+            "text": "私もボロボロになってもなかなか捨てられないですね。",
+            "timestamp": "2022-08-23T15:51:07.741000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "Tシャツとか襟元がくたびれてても、部屋着にしてずっと着てます",
+            "timestamp": "2022-08-23T15:51:42.517000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ES",
+            "text": "わかります！部屋着って着慣れたものが一番リラックスできたりしますもんね。",
+            "timestamp": "2022-08-23T15:52:09.988000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "そうですね！ちょっとくったりした感じのほうが楽です。",
+            "timestamp": "2022-08-23T15:53:10.956000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ES",
+            "text": "一緒の考えの方がいて安心しました。",
+            "timestamp": "2022-08-23T15:53:34.588000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "私も安心しました！",
+            "timestamp": "2022-08-23T15:53:48.967000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ES",
+            "text": "またいろいろファッションのお話しましょう！ではまた！",
+            "timestamp": "2022-08-23T15:54:09.490000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ES",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

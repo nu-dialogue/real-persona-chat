@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7549,
+    "interlocutors": [
+        "CF",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "こんにちは！お昼ご飯用意してました！午後も頑張ります！",
+            "timestamp": "2022-08-03T12:42:58.878000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "こんにちは！こちらもお昼の用意しました！よろしくお願いします。",
+            "timestamp": "2022-08-03T12:45:13.391000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "お昼はおにぎりを作ってきました！私おにぎりは鮭が一番好きですが<CI>さんは何の具が好きですか？",
+            "timestamp": "2022-08-03T12:46:26.565000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "おにぎりいいですね！私も鮭が好きです！",
+            "timestamp": "2022-08-03T12:47:03.422000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "鮭良いですよね。シーチキンも好きなのですがコンビニのと同じ味がなかなかできないのです。",
+            "timestamp": "2022-08-03T12:47:55.708000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "わかります！ツナマヨ、なかなかコンビニと同じ味にならないです！",
+            "timestamp": "2022-08-03T12:48:37.914000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "コンビニの食べ物ってすごくおいしく感じるんですよね。",
+            "timestamp": "2022-08-03T12:49:34.975000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "自分で作ると匂い嗅いじゃってるんで、おいしさが目減りする気がします！",
+            "timestamp": "2022-08-03T12:50:16.090000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "なるほど、確かにそうかもしれないです！",
+            "timestamp": "2022-08-03T12:51:04.419000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "コンビニに行くとついアイスのところに寄ってしまうのですがa_tさんは好きなアイスありますか？",
+            "timestamp": "2022-08-03T12:51:58.316000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "アイスわかります！私はバニラアイスがすごく好きです。お値段問わず好きです！",
+            "timestamp": "2022-08-03T12:53:05.964000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "バニラ、間違いない安心感がありますね！",
+            "timestamp": "2022-08-03T12:53:34.514000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "チョコとかも良いんですが結局バニラ選んじゃいます。アイス以外で好きな甘いものってありますか？",
+            "timestamp": "2022-08-03T12:54:18.902000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "私はカカオ濃いめの板チョコにハマってます！",
+            "timestamp": "2022-08-03T12:55:03.746000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "あれもおいしいですよね。出始めのころはこれおいしいのかなと思ってましたが良かったです。",
+            "timestamp": "2022-08-03T12:56:12.081000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "最近のbean to barにうっかりツラれてしまって、冷蔵庫に常備してます。",
+            "timestamp": "2022-08-03T12:57:16.194000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "そのようなチョコがあるんですね。やはりカカオ濃いめのお味なんでしょうか。",
+            "timestamp": "2022-08-03T12:58:50.087000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "基本濃いめだと思うんですけど、豆や焙煎が違うらしいです。確かに口に入れた時の香りが全然違います！",
+            "timestamp": "2022-08-03T12:59:41.690000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "そうなんですね！ちょっと気になるので探してみます。",
+            "timestamp": "2022-08-03T13:00:14.304000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "<CF>さんは他に何かお好きなスイーツありますか？",
+            "timestamp": "2022-08-03T13:00:52.749000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "私はクリームが乗ってるプリンとかが好きなんです！",
+            "timestamp": "2022-08-03T13:01:59.141000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "プリンも好きです！クリーム乗ってるとテンション上がります。",
+            "timestamp": "2022-08-03T13:02:42.970000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "プリンアラモードみたいなのがすごく好きなんですよね。カロリーが高いのですが食べちゃいます。",
+            "timestamp": "2022-08-03T13:03:25.142000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "疲れた時なんかは最高ですよね。",
+            "timestamp": "2022-08-03T13:03:54.683000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "ですよね！けどついつい自分を甘やかしてたびたび買ってしまいます。",
+            "timestamp": "2022-08-03T13:04:31.436000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "甘やかし＝ご褒美ですね！家族に見つからないで食べるのとかたまらないです。",
+            "timestamp": "2022-08-03T13:05:11.272000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "わかります！ゆっくり静かに、こっそり食べます。",
+            "timestamp": "2022-08-03T13:05:40.407000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "私も、先ほどのチョコなんかはバターの空き箱に入れ替えて冷蔵庫に隠してます。",
+            "timestamp": "2022-08-03T13:06:16.231000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "すごい！良いですねそれ。私も真似てみます。",
+            "timestamp": "2022-08-03T13:06:44.232000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "ご褒美タイムも大事ですよね。お話ありがとうございました！",
+            "timestamp": "2022-08-03T13:07:15.655000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CF",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-03T13:07:22.019000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

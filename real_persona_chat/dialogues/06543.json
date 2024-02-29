@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6543,
+    "interlocutors": [
+        "AE",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AE",
+            "text": "こんばんは～",
+            "timestamp": "2022-10-07T21:32:35.755000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんばんは",
+            "timestamp": "2022-10-07T21:32:41.175000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AE",
+            "text": "明日から3連休ですけど、なにかご予定はありますか？",
+            "timestamp": "2022-10-07T21:33:18.456000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "町内の運動会に行きます",
+            "timestamp": "2022-10-07T21:33:29.057000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AE",
+            "text": "運動会いいですね～",
+            "timestamp": "2022-10-07T21:33:49.448000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "雨が降ったら中止なので、降ってほしいと思っています。",
+            "timestamp": "2022-10-07T21:34:10.927000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AE",
+            "text": "そうなんですか。。コロナ禍で久しぶりに再会したのかなって思いましたが、面倒なのは面倒ですよね。。",
+            "timestamp": "2022-10-07T21:34:50.951000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "そうですね。早くに行ってテント立てたりとか色々と準備しないといけないので。",
+            "timestamp": "2022-10-07T21:35:07.769000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AE",
+            "text": "あ～、まぁそうですよね。朝も中々に早そうですし",
+            "timestamp": "2022-10-07T21:35:35.699000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "しかもコロナを考慮して午前中だけなので。",
+            "timestamp": "2022-10-07T21:35:47.978000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AE",
+            "text": "なるほど、それはちょっと面倒かもですね",
+            "timestamp": "2022-10-07T21:36:51.463000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "雨が降ったら中止なので、降ってほしいですね。",
+            "timestamp": "2022-10-07T21:37:01.575000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AE",
+            "text": "ちなみに明日の予報はどうですか？",
+            "timestamp": "2022-10-07T21:37:39.013000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "運動会は日曜日なのですが、曇り時々雨ですね。",
+            "timestamp": "2022-10-07T21:38:09.846000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AE",
+            "text": "微妙ですね…始まって雨降ると悲しい。。",
+            "timestamp": "2022-10-07T21:38:30.312000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "時間別で見てみたところ、午前中は晴れみたいですね。",
+            "timestamp": "2022-10-07T21:38:46.289000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AE",
+            "text": "そうなんですね…予報が変わるといいですね。",
+            "timestamp": "2022-10-07T21:39:33.611000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "今日みたいな天気が日曜日だったらよかったですね。",
+            "timestamp": "2022-10-07T21:39:51.133000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AE",
+            "text": "そうですねぇ…まぁ天気はどうしようもないですからね",
+            "timestamp": "2022-10-07T21:40:39.080000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "そちらは三連休のお天気はどんな感じですか？",
+            "timestamp": "2022-10-07T21:40:57.122000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AE",
+            "text": "明日はいいですけど、日月は雨ですね…",
+            "timestamp": "2022-10-07T21:41:38.906000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "折角のお休みなのに残念ですね。",
+            "timestamp": "2022-10-07T21:42:22.531000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AE",
+            "text": "実は日曜月曜は仕事なんですよ…",
+            "timestamp": "2022-10-07T21:42:49.604000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "そうなんですか？仕事の日に雨も嫌ですよね",
+            "timestamp": "2022-10-07T21:43:13.787000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AE",
+            "text": "基本は内勤ですけど、車通勤だと混んだりするので嫌ですねぇ…",
+            "timestamp": "2022-10-07T21:43:38.830000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "車通勤だと、三連休とかも道は混みますか？",
+            "timestamp": "2022-10-07T21:44:05.370000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AE",
+            "text": "朝は空いてるので逆にありがたいですね～",
+            "timestamp": "2022-10-07T21:44:31.968000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "なるほど。逆に通勤している人が少ないからなんですね。帰りの方が混むのかな？",
+            "timestamp": "2022-10-07T21:45:00.765000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AE",
+            "text": "帰りはみんな出かけた帰りと重なるから混むんだと思います…",
+            "timestamp": "2022-10-07T21:45:30.852000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "大変ですね。お仕事頑張ってください。",
+            "timestamp": "2022-10-07T21:45:42.447000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AE",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

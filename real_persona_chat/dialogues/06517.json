@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6517,
+    "interlocutors": [
+        "CU",
+        "GT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T13:09:21.937000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GT",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T13:09:24.059000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "コロナにかかったことありますか？",
+            "timestamp": "2022-10-05T13:09:38.241000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GT",
+            "text": "ないです。あなたは？",
+            "timestamp": "2022-10-05T13:09:48.035000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "実は今年の１月に家族全員かかっちゃいました。",
+            "timestamp": "2022-10-05T13:10:18.850000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GT",
+            "text": "そうなんですか。経緯は分かっていますか？",
+            "timestamp": "2022-10-05T13:10:27.598000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "たぶんですが、子どもが学校か遊びに行った先でもらってきました。",
+            "timestamp": "2022-10-05T13:10:52.675000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GT",
+            "text": "そうなんですね。大丈夫でした？",
+            "timestamp": "2022-10-05T13:10:59.059000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "はい、重症化はせず、後遺症もないのでよかったです。",
+            "timestamp": "2022-10-05T13:11:37.995000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GT",
+            "text": "それはよかったです。こわいですよね。",
+            "timestamp": "2022-10-05T13:11:43.987000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "はい、子どもは完全隔離が難しいので、みんな巻き込まれました。",
+            "timestamp": "2022-10-05T13:12:31.635000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GT",
+            "text": "そうですよね、世話も必要ですもんね。",
+            "timestamp": "2022-10-05T13:12:45.038000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "そうなんですよ。みんな１日半くらいは３９度くらい熱が出ました。",
+            "timestamp": "2022-10-05T13:13:13.348000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GT",
+            "text": "やっぱり結構高熱になるんですね。",
+            "timestamp": "2022-10-05T13:13:20.593000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "はい、めっちゃしんどかったです。",
+            "timestamp": "2022-10-05T13:13:43.316000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GT",
+            "text": "結構周りもかかってますね。",
+            "timestamp": "2022-10-05T13:13:48.300000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "今はもう当たり前になってきましたね。",
+            "timestamp": "2022-10-05T13:14:02.507000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GT",
+            "text": "共生的な感じですね。",
+            "timestamp": "2022-10-05T13:14:10.017000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "そうですね。このままインフルエンザみたいに定着するんでしょうかね。",
+            "timestamp": "2022-10-05T13:14:47.506000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GT",
+            "text": "ですかね。マスクも当たり前になっていますし。",
+            "timestamp": "2022-10-05T13:15:00.533000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "マスク嫌いなので、それは早く卒業したいです。",
+            "timestamp": "2022-10-05T13:15:22.203000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GT",
+            "text": "わかります。息苦しくないですか？",
+            "timestamp": "2022-10-05T13:15:40.189000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "すごく息苦しいですし、忘れないように気を付けるのもしんどいです。",
+            "timestamp": "2022-10-05T13:16:13.661000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GT",
+            "text": "あと化粧が取れるのもいやですね。",
+            "timestamp": "2022-10-05T13:16:24.383000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "それも嫌ですね！家族分となるとお金もかかりますしね。",
+            "timestamp": "2022-10-05T13:16:57.350000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GT",
+            "text": "いつも大容量で一気に購入しています。",
+            "timestamp": "2022-10-05T13:17:08.027000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "そうなんですね！今どれくらい在庫あるんですか？",
+            "timestamp": "2022-10-05T13:17:55.886000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GT",
+            "text": "今3箱くらいです。",
+            "timestamp": "2022-10-05T13:18:02.519000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "おー、たくさんありますね。私もまとめ買いするようにします！",
+            "timestamp": "2022-10-05T13:18:28.776000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GT",
+            "text": "おすすめですよ！",
+            "timestamp": "2022-10-05T13:18:31.622000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

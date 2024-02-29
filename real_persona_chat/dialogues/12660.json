@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12660,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T11:54:29.262000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんにちは。宜しくお願いします",
+            "timestamp": "2022-09-17T11:54:46.361000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "普段アニメは見ますか？",
+            "timestamp": "2022-09-17T11:55:04.340000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "アニメ見ますよ。<CS>さんはどうですか？",
+            "timestamp": "2022-09-17T11:55:30.037000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "私もよく見ます。今はメイドインアビスを見てます",
+            "timestamp": "2022-09-17T11:55:44.718000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "自分も見てます。結構グロいですよね",
+            "timestamp": "2022-09-17T11:56:10.616000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "子供にはちょっと見せられないですね・・・",
+            "timestamp": "2022-09-17T11:56:30.911000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "どのキャラが好きですか？",
+            "timestamp": "2022-09-17T11:56:44.507000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "私はレグがい一番好きです。うちの猫の名前もレグっていうんです。",
+            "timestamp": "2022-09-17T11:57:13.439000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "そうなんですか、それはメイドインアビスのレグが由来なんですか？",
+            "timestamp": "2022-09-17T11:57:33.634000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "メイドインアビス由来です",
+            "timestamp": "2022-09-17T11:57:42.082000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "じゃあ結構なファンですね！",
+            "timestamp": "2022-09-17T11:57:56.592000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんの名前もレグっぽいですが、メイドインアビス由来じゃないんですか？",
+            "timestamp": "2022-09-17T11:58:22.910000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "自分はメイドインアビス由来じゃないんです",
+            "timestamp": "2022-09-17T11:58:44.819000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "あら、そうなんですね。",
+            "timestamp": "2022-09-17T11:59:36.333000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "紛らわしいですがたまたまでした",
+            "timestamp": "2022-09-17T11:59:49.626000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんはどのキャラが好きですか？",
+            "timestamp": "2022-09-17T12:00:07.079000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "うーん、プルシュカが好きです",
+            "timestamp": "2022-09-17T12:00:25.336000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "じゃあ例のシーンは結構ショックでした…？",
+            "timestamp": "2022-09-17T12:00:50.559000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "いやぁ、衝撃でした。映画見に行ったんですがダメでした…",
+            "timestamp": "2022-09-17T12:01:26.732000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "直視できないですよね",
+            "timestamp": "2022-09-17T12:01:36.930000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "できないですね、目をそらしながら耐えました",
+            "timestamp": "2022-09-17T12:01:53.817000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "今後もっとグロいんですかね",
+            "timestamp": "2022-09-17T12:02:52.327000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "アニメが漫画に追いついちゃうので、先がわからないですね",
+            "timestamp": "2022-09-17T12:03:13.240000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "そうですよね、覚悟して待つしかないですね",
+            "timestamp": "2022-09-17T12:03:27.528000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "続きを待ちましょう…",
+            "timestamp": "2022-09-17T12:05:17.256000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "ではそろそろ失礼しますね",
+            "timestamp": "2022-09-17T12:04:32.676000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "はい、わかりました",
+            "timestamp": "2022-09-17T12:04:42.661000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-17T12:04:49.513000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-17T12:04:55.404000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

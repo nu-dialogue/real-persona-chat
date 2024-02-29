@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1025,
+    "interlocutors": [
+        "AF",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AF",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-11T17:06:24.526000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T17:06:42.702000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AF",
+            "text": "あなたは一服する時に飲む物や食べる物はありますか？",
+            "timestamp": "2022-08-11T17:07:07.357000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "チョコレートをよく食べているかもしれないです！",
+            "timestamp": "2022-08-11T17:07:36.434000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AF",
+            "text": "甘党でしょうか？",
+            "timestamp": "2022-08-11T17:07:49.299000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "甘いの苦手なほうなんですが、チョコレートは好きですね。",
+            "timestamp": "2022-08-11T17:08:20.130000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AF",
+            "text": "そうなんですね！チョコと何か一緒に飲んだりはしませんか？",
+            "timestamp": "2022-08-11T17:08:48.784000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "緑茶と合わせてるかもしれないです。意外とあいますよ！",
+            "timestamp": "2022-08-11T17:09:23.611000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AF",
+            "text": "甘いものなので、緑茶は合いそうですね。わたしはコーヒーと一緒に食べることはあります。",
+            "timestamp": "2022-08-11T17:09:46.606000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "コーヒーもあいそうですね。あとは紅茶とかも合いそうです",
+            "timestamp": "2022-08-11T17:10:32.208000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AF",
+            "text": "あなたはコーヒーは飲みませんか？",
+            "timestamp": "2022-08-11T17:10:52.903000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "ブラックが飲めないので、牛乳で割ったりして飲んでます！",
+            "timestamp": "2022-08-11T17:11:27.934000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AF",
+            "text": "わたしはブラック派ですが、たまに豆乳で割って飲むこともあります。",
+            "timestamp": "2022-08-11T17:12:03.623000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "豆乳！試したことないです。おいしいですか？",
+            "timestamp": "2022-08-11T17:12:32.714000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AF",
+            "text": "牛乳よりヘルシーなので。まろやかな味になりますが、好き嫌いするかも知れないです。",
+            "timestamp": "2022-08-11T17:12:57.014000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "今度試してみますね。コーヒーには何かこだわりとかあるんですか？豆の種類とか",
+            "timestamp": "2022-08-11T17:13:34.974000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AF",
+            "text": "こだわりはないのですが、色んなものを飲んで楽しんでいます！",
+            "timestamp": "2022-08-11T17:14:06.086000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "いいですね。私も知人がコーヒーオタクなのでいろいろ試してますが、あんまり違いがわからないです",
+            "timestamp": "2022-08-11T17:15:22.152000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AF",
+            "text": "わたしもそこまで違いは分かりません！お茶自体が好きなので色々なものを買って飲み比べます。",
+            "timestamp": "2022-08-11T17:16:13.354000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "最近買ってよかったお茶とかありますか？",
+            "timestamp": "2022-08-11T17:16:53.857000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AF",
+            "text": "そうですねー、ルイボスティーが美味しかったです。",
+            "timestamp": "2022-08-11T17:17:24.316000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "あんまり飲んだことがないです。すっきりした感じですか？",
+            "timestamp": "2022-08-11T17:18:21.980000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AF",
+            "text": "柔らかい味でノンカフェインなので寝る前にでも安心して飲めます。",
+            "timestamp": "2022-08-11T17:18:53.879000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "ノンカフェインはありがたいですね！",
+            "timestamp": "2022-08-11T17:19:14.763000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AF",
+            "text": "そうなんです、寝る前にコーヒーは飲めませんからね。",
+            "timestamp": "2022-08-11T17:19:26.638000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "紅茶はあまり飲まれませんか？",
+            "timestamp": "2022-08-11T17:20:16.779000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AF",
+            "text": "紅茶も好きです！ただ、カフェインがきついのであまり飲めないのが残念ですー。",
+            "timestamp": "2022-08-11T17:20:44.680000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "私はミルクティーが好きでがぶがぶ飲んじゃいます",
+            "timestamp": "2022-08-11T17:21:42.312000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AF",
+            "text": "ミルクティーならカフェインも少し和らぎますね！",
+            "timestamp": "2022-08-11T17:22:13.800000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "そうなんです。ではこの辺で失礼します",
+            "timestamp": "2022-08-11T17:22:39.537000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

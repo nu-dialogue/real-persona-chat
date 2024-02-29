@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5576,
+    "interlocutors": [
+        "BR",
+        "GI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！よろしくお願いいたします。",
+            "timestamp": "2022-09-26T15:30:25.942000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GI",
+            "text": "よろしくです。",
+            "timestamp": "2022-09-26T15:30:33.136000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "今日のお昼は何を召し上がられましたか？",
+            "timestamp": "2022-09-26T15:30:42.853000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GI",
+            "text": "焼きそば作りました。",
+            "timestamp": "2022-09-26T15:30:55.450000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "いいですね！ソースですか？",
+            "timestamp": "2022-09-26T15:31:01.392000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GI",
+            "text": "です！ソースが好きで。",
+            "timestamp": "2022-09-26T15:31:12.263000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "ですね！王道はソースですよね！",
+            "timestamp": "2022-09-26T15:31:33.191000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GI",
+            "text": "ですね。あなたは何を？",
+            "timestamp": "2022-09-26T15:31:39.186000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "私はタンメンでした。",
+            "timestamp": "2022-09-26T15:31:48.473000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GI",
+            "text": "ほう。おいしそうですね。",
+            "timestamp": "2022-09-26T15:31:59.460000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "ですね！ラーメンの中ではかなり好きな方です。",
+            "timestamp": "2022-09-26T15:32:08.893000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GI",
+            "text": "野菜たくさんですか？",
+            "timestamp": "2022-09-26T15:32:18.830000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "はい！もちろん！お酢もたっぷりでした。",
+            "timestamp": "2022-09-26T15:32:29.103000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GI",
+            "text": "食べたことないかもしれません。",
+            "timestamp": "2022-09-26T15:32:40.013000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "え！そうなんですか！",
+            "timestamp": "2022-09-26T15:32:48.508000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GI",
+            "text": "関西にはないのかも。あまり。",
+            "timestamp": "2022-09-26T15:32:57.480000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！たしかにうちは関東です。",
+            "timestamp": "2022-09-26T15:33:08.922000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GI",
+            "text": "店とかあるんですか？",
+            "timestamp": "2022-09-26T15:33:18.462000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "はい。中華屋さんにもメニューとしてありますね。日高屋とかもあります。",
+            "timestamp": "2022-09-26T15:33:29.951000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GI",
+            "text": "へぇー。そうなんですね。",
+            "timestamp": "2022-09-26T15:33:41.232000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "タンメン専門店はかなり少ないですが。",
+            "timestamp": "2022-09-26T15:33:49.110000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GI",
+            "text": "食べてみたくなりました。",
+            "timestamp": "2022-09-26T15:33:58.021000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "はい。ごまもタップリでおいしいですよ！スーパーにあると思います。",
+            "timestamp": "2022-09-26T15:34:18.844000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GI",
+            "text": "ほんとに見たことないんですよね。カップ麺とかですか？",
+            "timestamp": "2022-09-26T15:34:35.482000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "カップも時々食べますね。冷蔵の生めんのをうちはよく買います。",
+            "timestamp": "2022-09-26T15:34:58.366000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GI",
+            "text": "へぇ。そんなのがあるんですね。",
+            "timestamp": "2022-09-26T15:35:07.452000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "はい。緑の袋のです。マルちゃんだったかな？メーカーも何社か出してます。",
+            "timestamp": "2022-09-26T15:35:29.359000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。今度見てみます。",
+            "timestamp": "2022-09-26T15:35:39.987000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "はい！ぜひ野菜たっぷりで作ってみてください。",
+            "timestamp": "2022-09-26T15:35:48.883000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GI",
+            "text": "きいてたら食べたくなりました。",
+            "timestamp": "2022-09-26T15:36:01.646000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

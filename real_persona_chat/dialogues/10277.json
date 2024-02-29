@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10277,
+    "interlocutors": [
+        "IK",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IK",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T12:10:25.333000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T12:10:33.607000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IK",
+            "text": "お昼は何を食べる予定ですか？",
+            "timestamp": "2022-08-12T12:10:56.994000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "すでにお弁当を食べましたー",
+            "timestamp": "2022-08-12T12:11:11.476000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IK",
+            "text": "早いですね。私は数日前からお腹を壊しているので、食事を抜こうかと思っています。",
+            "timestamp": "2022-08-12T12:11:42.870000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "あれ、お大事に。食べないと夏バテ注意ですよ。",
+            "timestamp": "2022-08-12T12:12:07.941000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IK",
+            "text": "それが心配なんですが、とにかくお腹の調子が悪くて。",
+            "timestamp": "2022-08-12T12:12:40.149000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "冷たいもの取りすぎとか？",
+            "timestamp": "2022-08-12T12:12:57.659000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IK",
+            "text": "それもありますし、脂っこいものを食べすぎました。胃腸は強い方ですか？",
+            "timestamp": "2022-08-12T12:13:27.517000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "あまりお腹は壊さないですね。",
+            "timestamp": "2022-08-12T12:13:45.031000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IK",
+            "text": "良いですね。何か気をつけていることはあります？",
+            "timestamp": "2022-08-12T12:14:00.584000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "なるべく体を動かすようにしています",
+            "timestamp": "2022-08-12T12:14:24.124000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IK",
+            "text": "なるほど。ジョギングとかですか？",
+            "timestamp": "2022-08-12T12:14:38.055000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "季節性のないジムに通っています",
+            "timestamp": "2022-08-12T12:14:57.911000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IK",
+            "text": "ジムでウォーキングマシンなどを使っているのですか？",
+            "timestamp": "2022-08-12T12:15:24.966000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "はい使いますね。軽く動く程度ですが。",
+            "timestamp": "2022-08-12T12:15:44.229000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IK",
+            "text": "ジムにはいろんなトレーニング器具があるそうですね。",
+            "timestamp": "2022-08-12T12:16:11.145000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "ありますね。でもみな簡単にできていますよ",
+            "timestamp": "2022-08-12T12:16:36.114000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IK",
+            "text": "そうなんですね。体がムキムキになりそうですね。",
+            "timestamp": "2022-08-12T12:16:56.367000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "筋肉をつけるというより、落とさない程度にやってます",
+            "timestamp": "2022-08-12T12:17:24.236000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IK",
+            "text": "どのぐらいの時間、トレーニングしているのですか？",
+            "timestamp": "2022-08-12T12:17:48.103000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "やく2時間です",
+            "timestamp": "2022-08-12T12:18:01.671000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IK",
+            "text": "長いですね。一般的にはそんなものなんですか？",
+            "timestamp": "2022-08-12T12:18:38.790000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "人それぞれで、おばあちゃんなんか半日いたりして。",
+            "timestamp": "2022-08-12T12:19:06.217000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IK",
+            "text": "なるほど、若干老人の憩いの場にもなりつつあるんですね。",
+            "timestamp": "2022-08-12T12:19:37.203000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "家にいたくない人の集まりような。",
+            "timestamp": "2022-08-12T12:20:04.786000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IK",
+            "text": "最近は、ゲームセンターにも老人が溜まっていますね。",
+            "timestamp": "2022-08-12T12:20:24.627000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "へ〜そうなんだ。",
+            "timestamp": "2022-08-12T12:20:39.563000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IK",
+            "text": "老人だらけで、なんだか寂しい感じがしました。",
+            "timestamp": "2022-08-12T12:21:07.205000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "それは寂しい。。",
+            "timestamp": "2022-08-12T12:21:17.433000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IK",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

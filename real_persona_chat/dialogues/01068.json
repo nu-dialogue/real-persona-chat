@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1068,
+    "interlocutors": [
+        "CO",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:23:48.525000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:24:01.524000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "好きな食べ物ありますか？",
+            "timestamp": "2022-08-12T08:24:10.008000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "肉が大好きです！",
+            "timestamp": "2022-08-12T08:24:25.965000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "いいですね、牛ですか？",
+            "timestamp": "2022-08-12T08:24:38.772000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "基本的にどれもですが、一番食べてるのは豚ですね",
+            "timestamp": "2022-08-12T08:24:56.652000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "なるほど、どうやって食べますか？",
+            "timestamp": "2022-08-12T08:25:09.462000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "バラ肉は炒め物にしたり肉巻きにして、大きいものはとんかつとかにしてます",
+            "timestamp": "2022-08-12T08:25:50.960000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "いいですね。料理されますか？",
+            "timestamp": "2022-08-12T08:26:07.685000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "料理は毎回やってます！",
+            "timestamp": "2022-08-12T08:26:27.622000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "素晴らしい。私は生姜焼きが好きです",
+            "timestamp": "2022-08-12T08:26:45.643000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "私も大好きです！",
+            "timestamp": "2022-08-12T08:27:09.697000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "ご飯たくさん食べれますよね",
+            "timestamp": "2022-08-12T08:27:19.385000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "めちゃめちゃ進みます。",
+            "timestamp": "2022-08-12T08:27:31.837000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "焼き肉はお好きですか？",
+            "timestamp": "2022-08-12T08:27:44.877000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "２か月に１度のペースで行ってます！",
+            "timestamp": "2022-08-12T08:28:02.131000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "どこの部位が好きですか？牛で",
+            "timestamp": "2022-08-12T08:28:13.579000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "牛はタンですね",
+            "timestamp": "2022-08-12T08:28:30.409000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "おいしいですね、私はハラミです",
+            "timestamp": "2022-08-12T08:28:44.343000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "ハラミも好きです！あとはカルビとか",
+            "timestamp": "2022-08-12T08:29:03.145000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "いいですね。焼き肉のあとは冷麺とか食べますか？",
+            "timestamp": "2022-08-12T08:29:34.134000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "サイドメニューはスープくらいしか食べないですね",
+            "timestamp": "2022-08-12T08:29:50.410000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "ひたすら肉ですか？",
+            "timestamp": "2022-08-12T08:29:57.470000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "ひたすら肉ですね",
+            "timestamp": "2022-08-12T08:30:11.299000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "すばらしい。デザートは？",
+            "timestamp": "2022-08-12T08:30:23.590000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "あ、デザートは食べます！！",
+            "timestamp": "2022-08-12T08:30:47.066000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "さっぱりしますよね",
+            "timestamp": "2022-08-12T08:30:55.757000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "杏仁豆腐とか食べてます",
+            "timestamp": "2022-08-12T08:31:08.797000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "いいですね。定番ですね",
+            "timestamp": "2022-08-12T08:31:13.008000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "めちゃおいしいです",
+            "timestamp": "2022-08-12T08:31:40.034000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13984,
+    "interlocutors": [
+        "GR",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-04T22:34:56.369000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-04T22:35:00.792000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "お酒は飲めますか？",
+            "timestamp": "2022-10-04T22:35:12.834000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "あんまり飲んだことないです",
+            "timestamp": "2022-10-04T22:35:21.640000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "そうなんですね。あんまり興味がないですか？",
+            "timestamp": "2022-10-04T22:35:47.555000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "ジュースでいいんじゃないかなって思っちゃいます",
+            "timestamp": "2022-10-04T22:35:58.840000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "飲み会とかあんまりしないですか？",
+            "timestamp": "2022-10-04T22:36:10.547000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "そうですね、コロナ禍で行けてないです",
+            "timestamp": "2022-10-04T22:36:31.853000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "そうなんですね。",
+            "timestamp": "2022-10-04T22:36:42.948000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "<GR>さんはお酒飲みますか？",
+            "timestamp": "2022-10-04T22:36:59.586000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "私はそこそこの飲みますよ",
+            "timestamp": "2022-10-04T22:37:16.403000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "何のお酒が好きですか？",
+            "timestamp": "2022-10-04T22:37:27.527000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "梅酒が好きです",
+            "timestamp": "2022-10-04T22:37:35.920000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "梅酒だったら僕も好きです",
+            "timestamp": "2022-10-04T22:37:46.695000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "ジュースみたいなものですもんね",
+            "timestamp": "2022-10-04T22:37:57.123000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "飲みやすいですよね",
+            "timestamp": "2022-10-04T22:38:05.434000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "うぐいすとまりっていう梅酒がとってもおいしいのでおすすめです",
+            "timestamp": "2022-10-04T22:38:22.572000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "へー、聞いたことないです",
+            "timestamp": "2022-10-04T22:38:30.291000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "大きい酒屋さんにあるかないかって感じですね",
+            "timestamp": "2022-10-04T22:38:56.251000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "<GR>さんはどこで買ってるんですか？",
+            "timestamp": "2022-10-04T22:39:08.339000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "オンラインで買ってます",
+            "timestamp": "2022-10-04T22:39:18.233000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "お取り寄せですね",
+            "timestamp": "2022-10-04T22:39:25.845000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "そうです。店頭ではあんまり見かけないです",
+            "timestamp": "2022-10-04T22:39:38.405000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "あんまり有名じゃないんですね",
+            "timestamp": "2022-10-04T22:39:47.661000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "おいしいのになぁ",
+            "timestamp": "2022-10-04T22:39:54.530000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "<GR>さんが広めていくしかないですね",
+            "timestamp": "2022-10-04T22:40:08.523000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "いろんな人に勧めてますよ",
+            "timestamp": "2022-10-04T22:40:17.749000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "すでに勧めてるんですね",
+            "timestamp": "2022-10-04T22:40:31.066000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "飲んだ人ははまってくれてますね",
+            "timestamp": "2022-10-04T22:40:42.894000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "そうなんですね。",
+            "timestamp": "2022-10-04T22:40:48.370000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

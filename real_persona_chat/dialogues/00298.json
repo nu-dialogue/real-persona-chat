@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 298,
+    "interlocutors": [
+        "AN",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "どうも、こんにちはー！",
+            "timestamp": "2022-08-08T09:17:05.256000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T09:17:09.650000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "今日は何かご予定はあるのですか？",
+            "timestamp": "2022-08-08T09:17:19.662000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "明日から帰省するので、その準備をしようかなと。",
+            "timestamp": "2022-08-08T09:17:38.313000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "そうなのですか！ご準備頑張って下さい！",
+            "timestamp": "2022-08-08T09:17:53.769000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "はい。本当は昨日から温泉旅行行く予定だったんですが、キャンセルになって。",
+            "timestamp": "2022-08-08T09:18:12.312000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "あら、それは残念でしたね。",
+            "timestamp": "2022-08-08T09:18:23.890000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "数日前、水害が各地で発生したの知ってますか？",
+            "timestamp": "2022-08-08T09:18:43.747000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "はい。酷い水害でしたよね。",
+            "timestamp": "2022-08-08T09:18:56.303000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "福井県に旅行に行く予定だったんですが、サンダーバードが運休になったんです。",
+            "timestamp": "2022-08-08T09:19:16.933000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "サンダーバード動いていないんですか！すごい大雨でしたもんね。",
+            "timestamp": "2022-08-08T09:19:56.838000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ！行けても遊べてなかったから、行く前でよかったです。",
+            "timestamp": "2022-08-08T09:20:18.100000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "確かに、旅行中だともっと困ったことになってしまったので、ある意味ラッキーかもしれないですね。",
+            "timestamp": "2022-08-08T09:20:43.788000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "帰れないのが一番嫌ですからね。",
+            "timestamp": "2022-08-08T09:21:04.936000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "そうですね。被災地もはやく復旧すると良いですよね。",
+            "timestamp": "2022-08-08T09:21:16.624000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "それを願います。また日を改めて行こうかと。",
+            "timestamp": "2022-08-08T09:21:36.026000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "そうですね。福井に行ったら、どんなことをする予定だったんですか？",
+            "timestamp": "2022-08-08T09:21:49.408000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "海鮮もの食べて、恐竜博物館も行ってみたかったですね。",
+            "timestamp": "2022-08-08T09:22:11.885000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "恐竜博物館いいですよね。わたしも一度行ってみたかったんです。",
+            "timestamp": "2022-08-08T09:22:28.811000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "御存じで？福井は行かれたことないですか？",
+            "timestamp": "2022-08-08T09:22:44.979000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "福井には何度か行ったことあるのですが、運悪くいつも恐竜博物館が休館日の日に当ってたんですよ。",
+            "timestamp": "2022-08-08T09:23:15.573000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね！芦原温泉がメインの旅行だったんですが、そこも行かれた？",
+            "timestamp": "2022-08-08T09:23:45.521000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "たぶん芦原温泉は行ったことないと思います。",
+            "timestamp": "2022-08-08T09:24:14.640000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。温泉でゆっくりしたかったー！",
+            "timestamp": "2022-08-08T09:24:31.644000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "冬に温泉行かれるのはどうですか？カニ食べて温泉食べてゆっくりしちゃうとか。",
+            "timestamp": "2022-08-08T09:25:04.163000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "ですね！カニのシーズンに行こうと思ってます。",
+            "timestamp": "2022-08-08T09:25:22.859000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "いいですね。贅沢な旅になりそうですね。",
+            "timestamp": "2022-08-08T09:25:49.195000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "今回我慢した分、贅沢します！",
+            "timestamp": "2022-08-08T09:26:01.381000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "それ、めっちゃいいと思います！普段頑張ったご褒美ということで。",
+            "timestamp": "2022-08-08T09:26:30.770000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "はい！お話し聞いてくれて、ありがとうございました！",
+            "timestamp": "2022-08-08T09:26:44.762000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-08T09:26:52.513000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

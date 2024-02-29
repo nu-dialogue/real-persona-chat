@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9710,
+    "interlocutors": [
+        "AS",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-11T10:18:27.527000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-11T10:18:45.638000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "お昼ご飯の予定は立てましたか？",
+            "timestamp": "2022-08-11T10:19:15.166000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "バジルソースを買ったのでパスタにしようと思ってます。",
+            "timestamp": "2022-08-11T10:19:35.044000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "いいですね！洋食の方がお好きですか？",
+            "timestamp": "2022-08-11T10:19:52.462000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "和食の方が好きなんですけど、昼は麺類になりがちです。",
+            "timestamp": "2022-08-11T10:20:05.943000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "なるほど、私のお昼は炒め物が多いです",
+            "timestamp": "2022-08-11T10:20:26.346000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "炒め物も一気に色々食べられるからいいですよね。",
+            "timestamp": "2022-08-11T10:20:43.976000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "細かく切り分けてしまえば、肉や野菜をたくさん入れられますからね",
+            "timestamp": "2022-08-11T10:21:12.735000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "おすすめの炒め物とかお料理ありますか？和食じゃなくても。",
+            "timestamp": "2022-08-11T10:21:35.113000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "中華炒めです！",
+            "timestamp": "2022-08-11T10:21:57.795000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "中華炒めいいですね！どんな具材がお好きですか？",
+            "timestamp": "2022-08-11T10:22:11.615000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "ピーマン、パプリカ、たけのことかですね！",
+            "timestamp": "2022-08-11T10:22:41.055000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "パプリカ最近気をつけて食べるようにしてます！高血圧の家系なので。",
+            "timestamp": "2022-08-11T10:23:05.876000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "血圧に関わるんですか？",
+            "timestamp": "2022-08-11T10:23:26.437000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "上がりにくい、て聞いた事があって。あと玉ねぎも血液ドロドロを防げる、て聞きました。",
+            "timestamp": "2022-08-11T10:23:51.981000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "初めて聞きました。玉ねぎのその話は知ってます！",
+            "timestamp": "2022-08-11T10:24:19.344000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "パプリカは常備してます。カレーに乗せたりとか、使いやすいので",
+            "timestamp": "2022-08-11T10:24:34.338000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "彩も良くしてくれますし、便利な食材ですよね～",
+            "timestamp": "2022-08-11T10:24:55.435000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "今までマリネが多かったんで、今度炒めてみます！",
+            "timestamp": "2022-08-11T10:25:26.561000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "炒めると、いい具合に柔らかくなって食べやすくなります！",
+            "timestamp": "2022-08-11T10:25:54.956000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "柔らかいと子どもも食べてくれて助かります。",
+            "timestamp": "2022-08-11T10:26:21.416000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "子どもさんはパプリカは大丈夫な方ですか？",
+            "timestamp": "2022-08-11T10:27:00.189000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "味付けで誤魔化してますけど、割と食べてくれます。野菜食べさせるのに味付け必死です。",
+            "timestamp": "2022-08-11T10:27:24.925000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "私の弟や妹は野菜がかなり嫌いらしく、ほんとに苦労してます",
+            "timestamp": "2022-08-11T10:28:05.160000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "子どもに野菜は魅力ってなかなか伝わりにくいですよね。",
+            "timestamp": "2022-08-11T10:28:23.032000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "毎度苦労してました。母さんが",
+            "timestamp": "2022-08-11T10:29:11.367000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "わかります。私はドレッシング作りだけは腕を上げました。",
+            "timestamp": "2022-08-11T10:29:27.296000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "ドレッシングづくりですか！たのしそうですね！",
+            "timestamp": "2022-08-11T10:30:21.390000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "すぐ飽きるので開発し続けないとですね。お話ありがとうございました！",
+            "timestamp": "2022-08-11T10:31:03.897000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

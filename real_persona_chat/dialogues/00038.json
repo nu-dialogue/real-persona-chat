@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 38,
+    "interlocutors": [
+        "AB",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T10:16:08.550000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T10:16:14.687000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "最近、こちらは変なお天気でした。",
+            "timestamp": "2022-08-07T10:16:29.176000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "こちらもです、数日天気が悪い日が続いてちょっと涼しいです。",
+            "timestamp": "2022-08-07T10:16:58.425000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "確かに。朝雷雨だと思ったら、その後カンカン照りとか。",
+            "timestamp": "2022-08-07T10:17:18.264000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "蒸し蒸しするし、洗濯物もうまく乾かないので嫌ですね。",
+            "timestamp": "2022-08-07T10:17:49.345000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよね！こういう時ドラム式だと困らないんでしょうか。",
+            "timestamp": "2022-08-07T10:18:10.758000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "我が家はドラム式なんですが、古いのでいまいちの性能です。",
+            "timestamp": "2022-08-07T10:18:33.184000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。うちは、マンションなんですが、スペース的に置けないんです。",
+            "timestamp": "2022-08-07T10:18:53.022000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "ちょっと大きいですもんね！",
+            "timestamp": "2022-08-07T10:19:44.613000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ。今の洗濯機がもうすぐ10年なのでそろそろかなと。",
+            "timestamp": "2022-08-07T10:20:14.502000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "我が家のは17年目くらいです。実は次は縦型がいいなーって思ってました。",
+            "timestamp": "2022-08-07T10:20:33.720000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "長持ちですね。うちも3年程使ってない期間があるので、もうちょっと頑張ってほしい。",
+            "timestamp": "2022-08-07T10:20:57.101000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "その使ってない期間というのがちょっと気になります。",
+            "timestamp": "2022-08-07T10:21:17.042000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "海外に住んでて、トランクルームに預けてたんです。",
+            "timestamp": "2022-08-07T10:21:33.046000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "なるほどー、使ってないと家電って傷むイメージあるけどそんなことはないのでしょうか？",
+            "timestamp": "2022-08-07T10:22:19.906000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "家電量販店の人に聞いたら、寿命は長くなるかも知れませんねって言われました。",
+            "timestamp": "2022-08-07T10:22:48.861000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "むしろそうなんですね！我が家はさすがにそろそろ買い替えたいです。",
+            "timestamp": "2022-08-07T10:23:12.861000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "17年は頑張ってくれましたね！でも、その人がドラム式から縦型に戻る人が多いって言ってました。",
+            "timestamp": "2022-08-07T10:23:40.265000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "ドラム式って洗いあがりが、あんまり柔らかくないんです。",
+            "timestamp": "2022-08-07T10:24:12.299000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "そうなんですか！乾燥で傷んだりしませんでしたか？",
+            "timestamp": "2022-08-07T10:24:30.365000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "乾燥はあんまり使わないのですが、傷みはあんまり気にならなかったです。",
+            "timestamp": "2022-08-07T10:25:17.934000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。でも柔らかくは仕上げて欲しいですね。",
+            "timestamp": "2022-08-07T10:25:42.451000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "縦型で良さそうなものもたくさん出ているので、今は物色しているところです。",
+            "timestamp": "2022-08-07T10:26:13.989000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "私もやっぱり縦型かな。ドラム式で中腰になるのが嫌で。",
+            "timestamp": "2022-08-07T10:26:37.540000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "ドラム式だと、出し入れは子どもの踏み台に座って作業することが多いです。",
+            "timestamp": "2022-08-07T10:27:10.630000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "なるほど。私ぎっくり腰よくやるので。いい洗濯機に出会えますように！",
+            "timestamp": "2022-08-07T10:27:35.201000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "ええー！そうなんですか。じゃあ洗濯機選びも気を付けないといけませんね。",
+            "timestamp": "2022-08-07T10:27:56.589000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "そうなんです！また、お話聞かせて下さい。",
+            "timestamp": "2022-08-07T10:28:14.073000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "はい、こちらこそありがとうございました。",
+            "timestamp": "2022-08-07T10:28:28.429000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

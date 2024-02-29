@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11037,
+    "interlocutors": [
+        "BB",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんばんは！はじめまして。",
+            "timestamp": "2022-08-18T20:35:32.251000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-18T20:35:35.899000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "もうお盆休みも終わっちゃいましたね。少しゆっくりできましたか？",
+            "timestamp": "2022-08-18T20:35:51.272000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "かなりゆっくりできました！",
+            "timestamp": "2022-08-18T20:36:01.985000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "充実した休みだったのですね。どこかお出かけされましたか？",
+            "timestamp": "2022-08-18T20:36:19.628000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "実はコロナになっちゃったので、ずっと隔離でしたがある意味ゆっくりできたので良かったです。",
+            "timestamp": "2022-08-18T20:36:56.305000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "あららら、、、それは災難でしたね。今は回復されてますか？",
+            "timestamp": "2022-08-18T20:37:18.303000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "はい！今はもう元気です。",
+            "timestamp": "2022-08-18T20:37:29.989000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "それはよかったです！お一人暮らしとかですか？",
+            "timestamp": "2022-08-18T20:37:45.479000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "いえ、旦那と二人暮らしです。",
+            "timestamp": "2022-08-18T20:38:01.997000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "それはよかったですね。病気の時一人だと、心細いですからね。",
+            "timestamp": "2022-08-18T20:38:17.465000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "そうですね！あなたはどんなお盆を過ごされましたか？",
+            "timestamp": "2022-08-18T20:38:35.149000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "私は帰省はせず、近場でちょっとお出かけしてました。",
+            "timestamp": "2022-08-18T20:38:52.795000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "コロナの影響ですか？",
+            "timestamp": "2022-08-18T20:38:58.796000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "そうですね。あとは私も旦那も、両親がちょっと体調悪くて。",
+            "timestamp": "2022-08-18T20:39:16.531000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "そうなんですね。ご実家はどこか聞いてもいいですか？",
+            "timestamp": "2022-08-18T20:39:38.552000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "もちろんです！旦那は香川で、実は私は韓国のソウルなんです。",
+            "timestamp": "2022-08-18T20:39:55.738000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "韓国の方なんですか！それはなかなか帰れないですよね。",
+            "timestamp": "2022-08-18T20:40:22.985000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "そうですね。国際結婚家庭で、いわゆるハーフって感じです。アジア人同士だから全然分かりませんが。",
+            "timestamp": "2022-08-18T20:40:48.109000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "私も国際結婚ですよ！",
+            "timestamp": "2022-08-18T20:41:02.303000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "わあ、素敵ですね！ご主人はどちらの方なんですか？",
+            "timestamp": "2022-08-18T20:41:17.733000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "イタリアです！",
+            "timestamp": "2022-08-18T20:41:24.470000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "わお、イタリア！とても女性に優しいイメージがあります！",
+            "timestamp": "2022-08-18T20:41:43.013000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "ジェントルマンですよ。",
+            "timestamp": "2022-08-18T20:42:09.395000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "やはりご主人のそういう部分が結婚の決め手だったんですか？",
+            "timestamp": "2022-08-18T20:42:24.344000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "そうですね！優しいので、あまり喧嘩しません。",
+            "timestamp": "2022-08-18T20:42:49.665000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "それは羨ましい！ちょっとうちの旦那にも見習って欲しいですね！",
+            "timestamp": "2022-08-18T20:43:05.905000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "ははは。喧嘩は多いんですか？",
+            "timestamp": "2022-08-18T20:43:18.655000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "うちは同い年で、お互い性格が強いので、めっちゃケンカします。",
+            "timestamp": "2022-08-18T20:43:33.794000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "そうなんですね！では、またお話しましょう！",
+            "timestamp": "2022-08-18T20:43:56.950000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

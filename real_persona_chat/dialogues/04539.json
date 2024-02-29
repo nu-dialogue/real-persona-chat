@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4539,
+    "interlocutors": [
+        "EW",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T10:39:04.854000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-12T10:39:14.158000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EW",
+            "text": "休日は何をして過ごしますか？",
+            "timestamp": "2022-09-12T10:39:27.593000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "友達と遊ぶことが多いですね！",
+            "timestamp": "2022-09-12T10:39:38.395000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EW",
+            "text": "旅行とかもしますか？",
+            "timestamp": "2022-09-12T10:39:49.305000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "たまにしますよ！",
+            "timestamp": "2022-09-12T10:39:56.748000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EW",
+            "text": "この夏どこか行きましたか？",
+            "timestamp": "2022-09-12T10:40:03.433000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "鎌倉と川越に行きましたー",
+            "timestamp": "2022-09-12T10:40:14.506000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EW",
+            "text": "おお！素敵ですね。何しましたか",
+            "timestamp": "2022-09-12T10:40:28.937000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "主に観光ですね！めっちゃ歩きました！",
+            "timestamp": "2022-09-12T10:40:46.274000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EW",
+            "text": "どちらも食べ歩きとか楽しいですよね",
+            "timestamp": "2022-09-12T10:41:00.863000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "そうなんです！特に川越は向いてますね",
+            "timestamp": "2022-09-12T10:41:14.131000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EW",
+            "text": "川越って江戸小町みたいな雰囲気ですよね。好きです",
+            "timestamp": "2022-09-12T10:41:34.425000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "どこか行きました？",
+            "timestamp": "2022-09-12T10:41:41.223000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EW",
+            "text": "私は北海道に行きました",
+            "timestamp": "2022-09-12T10:41:47.787000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "いいですねー！いったことない",
+            "timestamp": "2022-09-12T10:42:27.059000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EW",
+            "text": "暑さから逃げました",
+            "timestamp": "2022-09-12T10:42:35.248000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "どこら辺に行ったんですか？",
+            "timestamp": "2022-09-12T10:42:17.929000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EW",
+            "text": "洞爺湖って札幌より少し南のところです",
+            "timestamp": "2022-09-12T10:42:30.063000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "湖なんですね！楽しそう！",
+            "timestamp": "2022-09-12T10:42:43.460000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EW",
+            "text": "そう！楽しかったです。宿で温泉も出て気持ち良かったです",
+            "timestamp": "2022-09-12T10:42:56.254000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "涼しかったですか？",
+            "timestamp": "2022-09-12T10:43:07.854000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EW",
+            "text": "涼しいです。向こう冷房がついてないんですよ！",
+            "timestamp": "2022-09-12T10:43:21.164000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "冷房なしでも行けるってことですね！",
+            "timestamp": "2022-09-12T10:43:34.116000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EW",
+            "text": "そうです。びっくりしましたね。夜は床暖つけました",
+            "timestamp": "2022-09-12T10:43:52.048000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "涼しそうで最高ですね！でも冬に行ってみたいかも",
+            "timestamp": "2022-09-12T10:44:11.259000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EW",
+            "text": "何でですか？",
+            "timestamp": "2022-09-12T10:44:26.249000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "やっぱり雪ですね！",
+            "timestamp": "2022-09-12T10:44:44.189000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EW",
+            "text": "雪ですね！私も好きです",
+            "timestamp": "2022-09-12T10:44:57.800000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "今度行ってみます！",
+            "timestamp": "2022-09-12T10:45:05.558000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

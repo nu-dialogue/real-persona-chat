@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8523,
+    "interlocutors": [
+        "DD",
+        "AO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DD",
+            "text": "こんばんはー",
+            "timestamp": "2022-08-05T21:57:47.862000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AO",
+            "text": "こんばんは！少し気温が下がってきましたかね。",
+            "timestamp": "2022-08-05T21:57:56.835000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DD",
+            "text": "そうですね！昨晩は久しぶりにクーラー無しで寝れました！",
+            "timestamp": "2022-08-05T21:58:22.569000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AO",
+            "text": "それは良かったですね！いつもはクーラーつけっぱなし？",
+            "timestamp": "2022-08-05T21:58:40.347000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DD",
+            "text": "いや、タイマーで１時間だけつけてます",
+            "timestamp": "2022-08-05T22:00:09.745000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AO",
+            "text": "私もです！でもタイマーだと切れた後、暑くなるんですよね。",
+            "timestamp": "2022-08-05T22:00:25.870000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DD",
+            "text": "そうなんですよね！でも、さすがに喉がやられちゃいますよね",
+            "timestamp": "2022-08-05T22:00:56.791000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AO",
+            "text": "たしかに！喉、弱い方なんですか？",
+            "timestamp": "2022-08-05T22:01:07.923000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DD",
+            "text": "鼻炎がひどいので、口呼吸しちゃうので人より喉やられやすいんだと思います",
+            "timestamp": "2022-08-05T22:01:45.058000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AO",
+            "text": "あー、それはしんどいですね！起きた時、声変わりしてる。",
+            "timestamp": "2022-08-05T22:02:02.936000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DD",
+            "text": "そうなんです！第一声はまず一人で出してからじゃないと、相手を驚かせちゃいます。",
+            "timestamp": "2022-08-05T22:02:38.797000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AO",
+            "text": "そんなに！私は暑がりなので、タイマーで切れた後、また付ける、また切れるの繰り返しです。",
+            "timestamp": "2022-08-05T22:02:56.277000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DD",
+            "text": "眠りが浅いですね！一度寝たら朝まで起きないです！",
+            "timestamp": "2022-08-05T22:03:28.695000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AO",
+            "text": "それは羨ましい！暑くても目覚めないってことですか？",
+            "timestamp": "2022-08-05T22:03:42"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DD",
+            "text": "ないですね！朝、起きる直前とかに暑っ！って思って起きるくらいです！",
+            "timestamp": "2022-08-05T22:04:35.580000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AO",
+            "text": "今は、それって熱中症が危険じゃありませんかね？",
+            "timestamp": "2022-08-05T22:04:53.417000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DD",
+            "text": "そっか！そうかもしれないです！おまけに新陳代謝が悪いのでのぼせやすいんですよね",
+            "timestamp": "2022-08-05T22:05:27.533000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AO",
+            "text": "えー！それはかなり危険！水もいっぱい飲まないと。",
+            "timestamp": "2022-08-05T22:05:40.839000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DD",
+            "text": "ですよね！水はかなり意識して飲むようにしてます！",
+            "timestamp": "2022-08-05T22:06:15.139000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AO",
+            "text": "大事ですよねー。私は普段水を飲むのが苦手なんです。",
+            "timestamp": "2022-08-05T22:06:33.187000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DD",
+            "text": "水分をってことですか？それとも水が苦手なんですか？",
+            "timestamp": "2022-08-05T22:07:08.367000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AO",
+            "text": "水分はコーヒーやビールで摂ってるんですけど、意味ないらしくて。",
+            "timestamp": "2022-08-05T22:07:22.860000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DD",
+            "text": "なるほど！コーヒーも意味ないんですか？結構周りにそれを水分補給と言ってる人います。",
+            "timestamp": "2022-08-05T22:08:12.937000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AO",
+            "text": "意味ないらしいです。むしろ利尿作用があるから脱水しちゃう。",
+            "timestamp": "2022-08-05T22:08:33.244000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DD",
+            "text": "確かに！味がついてない飲料が苦手な人結構いますしね。",
+            "timestamp": "2022-08-05T22:09:19.038000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AO",
+            "text": "そう、まさにそれです。飲むとお腹がたぽたぽするし。",
+            "timestamp": "2022-08-05T22:09:46.534000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DD",
+            "text": "ぽたぽた！かわいい表現ですね！",
+            "timestamp": "2022-08-05T22:10:12.184000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AO",
+            "text": "でも熱中症は危険ですからね！苦手でも頑張って飲むようにせねば！",
+            "timestamp": "2022-08-05T22:10:41.447000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DD",
+            "text": "ですね！！命の危険ともあれば、苦手はなんとか克服せねばですね！",
+            "timestamp": "2022-08-05T22:11:13.772000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AO",
+            "text": "はい！頑張ります！お互い、熱中症にはくれぐれも気をつけましょう！",
+            "timestamp": "2022-08-05T22:11:36.685000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6342,
+    "interlocutors": [
+        "HP",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HP",
+            "text": "おはようございます！",
+            "timestamp": "2022-10-06T09:47:46.952000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "おはようございます。",
+            "timestamp": "2022-10-06T09:47:52.141000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HP",
+            "text": "今日は何時に起きましたか？",
+            "timestamp": "2022-10-06T09:48:32"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "7時です。洗濯物がたまってしまって。朝苦手なんですががんばりました。",
+            "timestamp": "2022-10-06T09:48:44.652000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HP",
+            "text": "7時！お早いですね。夜型なんですね。",
+            "timestamp": "2022-10-06T09:49:21"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "夜型ですね。夜になるほど元気です。",
+            "timestamp": "2022-10-06T09:49:37.496000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HP",
+            "text": "おわあ。夜は結構遅くまで起きてられますか？",
+            "timestamp": "2022-10-06T09:50:37"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "気づいたら2時だったりします。3時過ぎると眠れなくて焦ります。",
+            "timestamp": "2022-10-06T09:51:00.279000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HP",
+            "text": "結構夜型ですね！逆に目冴えてきちゃいますよね。",
+            "timestamp": "2022-10-06T09:51:44"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "そうなんです。眠気を逃すとギンギンになっちゃうんですよね。",
+            "timestamp": "2022-10-06T09:52:19.895000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HP",
+            "text": "お仕事はあまり朝早くないんですか？",
+            "timestamp": "2022-10-06T09:53:00"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "専業主婦なのでその辺テキトーです。",
+            "timestamp": "2022-10-06T09:53:47.399000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HP",
+            "text": "なるほど！無理やり起きなくて良いならよかったです！",
+            "timestamp": "2022-10-06T09:55:17"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "はい、今はそのへん楽です。会社員の時はよく遅刻していました。",
+            "timestamp": "2022-10-06T09:55:40.019000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HP",
+            "text": "わわ、夜型だとその辺キツいですよね…",
+            "timestamp": "2022-10-06T09:56:10"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "辛かったです。朝は頭まわらないし。デスクワークだったですが朝は身体動かす方が向いてるなと今思います。",
+            "timestamp": "2022-10-06T09:57:17.455000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HP",
+            "text": "一回動いてからの方が目も冴えますしね…！",
+            "timestamp": "2022-10-06T09:58:09"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "最近ラジオ体操しているので、血が巡るとはこういうことか！と実感してます。",
+            "timestamp": "2022-10-06T09:58:23.394000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HP",
+            "text": "ラジオ体操私も一時期してました！あれ、全身に効いて良いみたいですね。",
+            "timestamp": "2022-10-06T09:59:06"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "肩こりや腰痛が辛くてやってみたら軽くなりました。",
+            "timestamp": "2022-10-06T09:59:52.341000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HP",
+            "text": "確かに効きそうです。体に良いことしてる感ありますよね。",
+            "timestamp": "2022-10-06T10:00:55"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "はい。健康に気を付けて運動とかしてますか？",
+            "timestamp": "2022-10-06T10:01:23.440000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HP",
+            "text": "大したことしてないのですが、通学で歩くようにしたり、急に思い立って筋トレとかしてます。",
+            "timestamp": "2022-10-06T10:02:24"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "筋トレですか！素晴らしいですね。私そういう運動は苦手で。",
+            "timestamp": "2022-10-06T10:02:50.249000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HP",
+            "text": "キツいので本当に思い立った時だけなんですけどね…！腹筋だと声大きくなるし一石二鳥です。",
+            "timestamp": "2022-10-06T10:03:54"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "声は小さいより大きい方がいいですもんね。",
+            "timestamp": "2022-10-06T10:04:45.194000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HP",
+            "text": "そうですね。響きますしね。ストレッチとかはしますか？",
+            "timestamp": "2022-10-06T10:05:25"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "やってたんですが続かなくて。ラジオ体操でストレッチできてるはず！と思い込むようにしてます。",
+            "timestamp": "2022-10-06T10:05:46.053000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HP",
+            "text": "ラジオ体操しておけば悪いことなさそうですよね！続かないの、わかります。",
+            "timestamp": "2022-10-06T10:06:27"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "はじめるまでが億劫なんですよねー。",
+            "timestamp": "2022-10-06T10:06:52.548000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

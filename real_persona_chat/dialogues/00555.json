@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 555,
+    "interlocutors": [
+        "BI",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-10T17:30:35.203000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんばんわ",
+            "timestamp": "2022-08-10T17:30:38.411000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "チャイムが鳴って、もう夜です。夕食はお決まりですか？",
+            "timestamp": "2022-08-10T17:30:57.565000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "いや、これから買い出しですが、たぶんもつ鍋になるかな",
+            "timestamp": "2022-08-10T17:31:13.593000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "夏にもつ鍋ですか！",
+            "timestamp": "2022-08-10T17:31:24.428000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "夏だからもつ鍋です",
+            "timestamp": "2022-08-10T17:31:30.162000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "だから、なんですね！ご自分でお作りに？",
+            "timestamp": "2022-08-10T17:31:42.743000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "うーん、出汁パックをかってやる鍋を作るといっていいものか",
+            "timestamp": "2022-08-10T17:32:07.005000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "全然いいですよ！むしろすごい！だしパックでも。",
+            "timestamp": "2022-08-10T17:32:34.323000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "モツと野菜いれて、ポイントはそうだな、柚子胡椒",
+            "timestamp": "2022-08-10T17:32:52.159000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "柚子胡椒いいですねー！",
+            "timestamp": "2022-08-10T17:33:05.436000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "定番は焼酎ですが、我が家では原酒の日本酒、アルコール２０度",
+            "timestamp": "2022-08-10T17:33:21.703000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "日本酒お好きですか？",
+            "timestamp": "2022-08-10T17:33:32.200000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "もつ鍋や豚味噌に、この原酒をきりりと冷やして、これぞ夏",
+            "timestamp": "2022-08-10T17:33:52.324000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "私も日本酒好きです！冷やして飲むの、たまりません！",
+            "timestamp": "2022-08-10T17:34:24.406000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "冬の熱燗もまた捨てがたいですが",
+            "timestamp": "2022-08-10T17:34:40.898000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "いいですねー！飲みたくなってきました！",
+            "timestamp": "2022-08-10T17:34:56.359000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "あとはなんといってもひれ酒ですよね",
+            "timestamp": "2022-08-10T17:35:07.219000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "旬のひれ酒、はずせませんね！",
+            "timestamp": "2022-08-10T17:35:25.046000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "私フグ釣りが大好きで",
+            "timestamp": "2022-08-10T17:35:34.388000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "ご自分で釣って、捌けるんですか？",
+            "timestamp": "2022-08-10T17:35:49.545000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "船長さんがさばいてくれるんですよ",
+            "timestamp": "2022-08-10T17:35:59.984000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "それはすごい！食べることもできるんでしょうか。",
+            "timestamp": "2022-08-10T17:36:21.672000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "勿論です、何がいいって、家にかえって内臓処理とかやらなくていいのが最高",
+            "timestamp": "2022-08-10T17:36:37.146000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "確かに、釣りの後の後始末って大変ですよね。",
+            "timestamp": "2022-08-10T17:36:57.005000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "刺身よし、鍋よし、から揚げよし",
+            "timestamp": "2022-08-10T17:37:11.987000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "お料理上手ですね！",
+            "timestamp": "2022-08-10T17:37:21.973000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "骨をのこして冷凍しといてね、朝冷凍ごはんと一緒にゆでると、なんと高級フグ雑炊に",
+            "timestamp": "2022-08-10T17:37:45.140000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "すごいそそられます！",
+            "timestamp": "2022-08-10T17:37:59.369000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "これはやばいですよ、高級品",
+            "timestamp": "2022-08-10T17:38:09.128000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

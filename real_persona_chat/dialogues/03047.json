@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3047,
+    "interlocutors": [
+        "CE",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-25T11:08:07.979000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-25T11:08:13.422000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "お昼ごはん何にするかもう決めてますか？",
+            "timestamp": "2022-08-25T11:08:26.809000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "今考えてるところなんです。なににしよう？",
+            "timestamp": "2022-08-25T11:08:39.495000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "私は今日和食にしようって決めてるんですよー。サバの味噌煮とおからです。",
+            "timestamp": "2022-08-25T11:09:11.598000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "いいですね！私も魚とかお野菜食べたいなと思ってます。",
+            "timestamp": "2022-08-25T11:09:27.626000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "わかります！最近ハンバーグとかカレー食べてたので、ちょっと野菜とかお魚食べたいなって。",
+            "timestamp": "2022-08-25T11:10:04.925000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "あ！いいの思いつきました。アボカドとサーモン丼にします。",
+            "timestamp": "2022-08-25T11:10:25.539000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "わーーーー！それは！絶対！おいしいーーー！",
+            "timestamp": "2022-08-25T11:10:41.157000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "さっきまでのお魚とお野菜のイメージとはちょっと違う、カロリー高めになりますけど。",
+            "timestamp": "2022-08-25T11:10:57.815000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "そのあとちょっと動けば大丈夫ですよ！タレって何にするんですか？",
+            "timestamp": "2022-08-25T11:11:41.336000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "だし醤油とワサビです。いつもどんな感じで食べてますか？",
+            "timestamp": "2022-08-25T11:11:58.197000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "実は私、回転寿司でよくアボカドサーモン見るんですけど、食べたことはなくて。",
+            "timestamp": "2022-08-25T11:12:31.555000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "そうなんですね。おいしいですよー！",
+            "timestamp": "2022-08-25T11:12:43.614000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "だいたいマヨかかってて、それにお醤油ってイメ―ジなのですが、わさび醤油よさそうですね。",
+            "timestamp": "2022-08-25T11:13:24.026000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "回転寿司だとマヨネーズですよね。マヨネーズも合うんですよ。",
+            "timestamp": "2022-08-25T11:13:40.420000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "サーモンにマヨは強いですよね。",
+            "timestamp": "2022-08-25T11:13:56.510000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "強いです。ちなみにおからはどんな味付けなんですか？",
+            "timestamp": "2022-08-25T11:14:09.458000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "おからは多分出汁とかで煮てあるんだと思います。セブンのレトルトを買いました。",
+            "timestamp": "2022-08-25T11:14:42.866000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "そんなのがあるんですね。なかなか家では作らないので外で食べたくなるんですよね。",
+            "timestamp": "2022-08-25T11:15:05.034000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "おから、自分で作ると量が多くて食べるのに時間がかかるのに傷みやすいですもんね。",
+            "timestamp": "2022-08-25T11:15:48.838000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "そういうことなんですね。一回作ってみようかな。",
+            "timestamp": "2022-08-25T11:16:07.232000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "枝豆入れると彩綺麗だと思いますー！",
+            "timestamp": "2022-08-25T11:16:32.749000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "一気においしそうになりますね。彩大事！",
+            "timestamp": "2022-08-25T11:16:51.083000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "大事ですよね。人参あんまり好きじゃないけど、彩のために入れます。",
+            "timestamp": "2022-08-25T11:17:13.813000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "わかります。ニンジン彩のためってありますよね。",
+            "timestamp": "2022-08-25T11:17:32.699000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "オレンジって入れるだけで明るくなりますもんね。",
+            "timestamp": "2022-08-25T11:17:52.381000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "そういうの大切ですよね。",
+            "timestamp": "2022-08-25T11:18:00.925000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "視覚的にもおいしそうな方がいいですよね。ありがとうございました！",
+            "timestamp": "2022-08-25T11:18:20.039000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-25T11:18:31.811000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

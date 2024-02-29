@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1234,
+    "interlocutors": [
+        "BO",
+        "CW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "お願いします！",
+            "timestamp": "2022-08-13T17:45:23.794000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CW",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-13T17:45:34.835000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "好きな芸能人とかいますか？",
+            "timestamp": "2022-08-13T17:45:52.708000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CW",
+            "text": "あまりテレビ見ないので詳しくないんですけど、お笑い芸人なら結構います！",
+            "timestamp": "2022-08-13T17:46:44.488000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "お笑い好きなんですね！",
+            "timestamp": "2022-08-13T17:47:01.225000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CW",
+            "text": "恋人に誘われて去年のM-1追ってたらはまっちゃいました！",
+            "timestamp": "2022-08-13T17:47:41.855000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね！私の友達は芸人をしててM1出てました。２回戦で落ちちゃったみたいですが。",
+            "timestamp": "2022-08-13T17:48:14.015000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CW",
+            "text": "芸人のお友達いるんですね！お話上手なんでしょうね！",
+            "timestamp": "2022-08-13T17:49:02.347000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "学生時代より格段におしゃべりになってました！",
+            "timestamp": "2022-08-13T17:49:42.911000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CW",
+            "text": "鍛えられてますね！",
+            "timestamp": "2022-08-13T17:49:58.635000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "今年もM１の予選もうやっているんでしたっけ。",
+            "timestamp": "2022-08-13T17:50:33.171000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CW",
+            "text": "恋人が話題に出してきてないのでまだなのかなと思ってました。",
+            "timestamp": "2022-08-13T17:51:42.718000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね！お互い好きなものが同じだと楽しいですよね！",
+            "timestamp": "2022-08-13T17:52:08.829000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CW",
+            "text": "楽しいですね！去年はYouTube見ながら誰が上がってくるか2人で予想したりしてました。",
+            "timestamp": "2022-08-13T17:53:02.918000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "えー楽しそう！",
+            "timestamp": "2022-08-13T17:53:32.707000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CW",
+            "text": "予想外れるとなんでー！って言って盛り上がってました！",
+            "timestamp": "2022-08-13T17:54:03.236000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "私お笑いのこと全然わからないので誰が上がるとか絶対わからないです。",
+            "timestamp": "2022-08-13T17:54:56.253000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CW",
+            "text": "いやでももう完全にネタの好みの問題なので！",
+            "timestamp": "2022-08-13T17:55:35.156000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "審査基準とかどうなっているんでしょうね。",
+            "timestamp": "2022-08-13T17:56:12.837000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CW",
+            "text": "決勝は完全に審査員の好みですからねー。予選とか気になります！",
+            "timestamp": "2022-08-13T17:56:55.410000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "ですね！お笑いつながりだと年末の笑ってはいけないとかも好きですか？",
+            "timestamp": "2022-08-13T17:57:19.263000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CW",
+            "text": "昔のを見て最近ハマりました！今年も無いようなので残念です。",
+            "timestamp": "2022-08-13T17:58:11.724000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "今は規制が厳しくなってできることが限られましたからね。。昔は超面白かったです！",
+            "timestamp": "2022-08-13T17:58:53.984000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CW",
+            "text": "まーってやらせるやつで大爆笑しました！また復活してほしいです。",
+            "timestamp": "2022-08-13T17:59:32.628000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "あー面白ったです！私は新おにいの時が一番好きでした。",
+            "timestamp": "2022-08-13T18:00:28.954000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CW",
+            "text": "あれもいいですよね！今年年末何見ようかなって思ってます。",
+            "timestamp": "2022-08-13T18:01:21.377000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "やっぱり紅白からのジャニーズですかね。",
+            "timestamp": "2022-08-13T18:01:38.828000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CW",
+            "text": "王道ですねー",
+            "timestamp": "2022-08-13T18:01:53.827000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "ガキ使が一番の楽しみでしたね。。",
+            "timestamp": "2022-08-13T18:02:18.598000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CW",
+            "text": "年末に笑える番組ほしいですよね。お話ありがとうございました！",
+            "timestamp": "2022-08-13T18:02:41.673000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

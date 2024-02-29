@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9035,
+    "interlocutors": [
+        "BB",
+        "BK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "はじめまして、今お話しいいですか？",
+            "timestamp": "2022-08-08T14:59:40.551000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BK",
+            "text": "はじめまして。大丈夫ですよー",
+            "timestamp": "2022-08-08T14:59:50.326000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "歯医者とか、病院は得意ですか？",
+            "timestamp": "2022-08-08T15:00:12.655000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BK",
+            "text": "あー、嫌いではありませんが、滅多に行かないです。<BB>さんはいかがですか？",
+            "timestamp": "2022-08-08T15:00:36.871000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "私はそれなりに痛みに強いので、あまり苦手はありませんが。歯医者のドリルの音にはどうしても慣れません。",
+            "timestamp": "2022-08-08T15:01:08.720000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BK",
+            "text": "ドリル音。あれ、耳にきますよねー",
+            "timestamp": "2022-08-08T15:01:26.773000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "耳にもきますし、削る時の感覚がどうも苦手で。",
+            "timestamp": "2022-08-08T15:01:44.887000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BK",
+            "text": "わかる気がします。大切なものを削られてる気がしちゃいます。",
+            "timestamp": "2022-08-08T15:02:09.040000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "そうなんです！このまま削っていくと歯がなくなってしまわないかという感覚。",
+            "timestamp": "2022-08-08T15:02:40.269000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BK",
+            "text": "あ、なんか、想像してぞわぞわしてきちゃいました。",
+            "timestamp": "2022-08-08T15:02:56.713000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "実は詰め物が取れちゃって、今朝歯医者に行ってきたんです。",
+            "timestamp": "2022-08-08T15:03:19.546000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BK",
+            "text": "ぎゃー！それはお疲れ様でした！",
+            "timestamp": "2022-08-08T15:03:34.335000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "取れた部分を確認するだけの気持ちで行ったら、結局治療までしてくださって。",
+            "timestamp": "2022-08-08T15:03:54.573000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BK",
+            "text": "詰め物の下って、虫歯進行してることがありますよね。",
+            "timestamp": "2022-08-08T15:04:18.297000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "幸い虫歯は大丈夫でした！いつも忙しい病院だから、治療は次回だと思ってたんですよ。",
+            "timestamp": "2022-08-08T15:04:51.268000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BK",
+            "text": "そうでしたか、良かったですね。では、再診の必要は無しで？",
+            "timestamp": "2022-08-08T15:05:22.833000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "そうですね。時間の節約になりました。",
+            "timestamp": "2022-08-08T15:05:39.482000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BK",
+            "text": "コロナ禍だと歯医者さんも通常以上に忙しそうですよね。",
+            "timestamp": "2022-08-08T15:06:01.464000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "そうなんですよね。患者さん1人診るたびに、消毒が大変そうでした。",
+            "timestamp": "2022-08-08T15:06:25.526000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BK",
+            "text": "特に、口まわりですものね。唾液とか。エアロゾルどころの騒ぎじゃないです。",
+            "timestamp": "2022-08-08T15:07:02.380000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "私も治療だから仕方なくマスク外してましたけど、なんかドキドキしました。",
+            "timestamp": "2022-08-08T15:07:22.719000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BK",
+            "text": "マスクに慣れちゃうと、マスクしてないときの心もとなさが何とも言えないですよね。",
+            "timestamp": "2022-08-08T15:07:59.791000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "大げさですけど、ちょっと服を着ていない感覚すらありますよね。",
+            "timestamp": "2022-08-08T15:08:23.220000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BK",
+            "text": "ありますあります。え、むき出しでイイの？みたいな。",
+            "timestamp": "2022-08-08T15:08:45.782000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "もうマスク着用の顔が自分のデフォルトみたいな感じがします。",
+            "timestamp": "2022-08-08T15:09:04.683000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BK",
+            "text": "ここ数年、友人との写真が全部マスクです。",
+            "timestamp": "2022-08-08T15:09:27.049000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "そうですよね。子供の友達とか、いまだに顔があまり分からない子とかいますからね。",
+            "timestamp": "2022-08-08T15:09:59.292000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BK",
+            "text": "それは不便ですね！早くマスクなしの生活に戻りたいかもしれません。",
+            "timestamp": "2022-08-08T15:10:32.488000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "いつになったらマスクを外せるんですかね。",
+            "timestamp": "2022-08-08T15:10:43"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BK",
+            "text": "ほんとにまったく、いつでしょうね。",
+            "timestamp": "2022-08-08T15:10:58.378000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BK",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3560,
+    "interlocutors": [
+        "FB",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FB",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-30T17:28:30.610000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-30T17:28:35.745000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FB",
+            "text": "お仕事もされているんですか？",
+            "timestamp": "2022-08-30T17:28:53.233000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "私は学生です！",
+            "timestamp": "2022-08-30T17:29:10.127000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FB",
+            "text": "そうなんですね。私は一応働いていますが今は夏休みです。",
+            "timestamp": "2022-08-30T17:29:34.065000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "夏休み良いですね。いつ頃までですか？",
+            "timestamp": "2022-08-30T17:29:46.621000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FB",
+            "text": "夏はあまり仕事がないので，しばらくは家での仕事が中心ですね。",
+            "timestamp": "2022-08-30T17:30:23.088000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね。私も今は夏休み中です。",
+            "timestamp": "2022-08-30T17:30:49.113000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FB",
+            "text": "学生さん，うらやましいです。どんな専攻ですか？",
+            "timestamp": "2022-08-30T17:31:08.978000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "工学系専攻です！",
+            "timestamp": "2022-08-30T17:31:23.666000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FB",
+            "text": "おお，すごい。私は数学が苦手だったので尊敬です。",
+            "timestamp": "2022-08-30T17:31:45.185000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "数学もしますが、一番やるのは物理系ですね。",
+            "timestamp": "2022-08-30T17:32:02.103000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FB",
+            "text": "物理のほうが苦手でした。力の働きとか全然わからなくて。",
+            "timestamp": "2022-08-30T17:32:28.401000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "ですよね。私も習い始めはナニコレと思っていました。",
+            "timestamp": "2022-08-30T17:32:50.915000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FB",
+            "text": "そうなんですか。でもできるようになるってすごいです。役に立つ学問ですよね。",
+            "timestamp": "2022-08-30T17:33:18.244000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "世の中の役には立つと思います。あなたは大学には行かれてましたか？",
+            "timestamp": "2022-08-30T17:33:43.824000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FB",
+            "text": "はい。社会学を専門にしていました。",
+            "timestamp": "2022-08-30T17:34:01.003000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "社会学ですか。例えばどういうことを学ぶのでしょう。",
+            "timestamp": "2022-08-30T17:34:17.208000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FB",
+            "text": "私は主に格差問題などを歴史資料や統計を使って研究していましたね。",
+            "timestamp": "2022-08-30T17:34:43.749000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "あーなるほど。聞いてみると面白そうな学問ですね。",
+            "timestamp": "2022-08-30T17:35:04.095000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FB",
+            "text": "そう思います。数学も嫌いですが，統計だけは少しできます。",
+            "timestamp": "2022-08-30T17:35:26.183000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "統計難しいです。私も研究でたまに使うときあるので、頭を悩ませます。",
+            "timestamp": "2022-08-30T17:35:50.825000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FB",
+            "text": "統計は文系にも必要な数学ですね。大事だと思います。工学ではどんな研究を？",
+            "timestamp": "2022-08-30T17:36:26.897000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "流体を専門にしていて、気泡の動きを研究してます。実験するので統計が必要なんですよ。",
+            "timestamp": "2022-08-30T17:36:56.995000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FB",
+            "text": "なるほど，いろいろな製品に役立ちそうですね。",
+            "timestamp": "2022-08-30T17:37:18.133000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "空調製品を作りたいなって思ってます。",
+            "timestamp": "2022-08-30T17:37:34.868000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FB",
+            "text": "空調製品に流体が関係するんですね。冷媒などでしょうか。面白そうです。",
+            "timestamp": "2022-08-30T17:38:10.527000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "そうですね。あとは空気の流れを見るという面では、ほぼすべてに使われています。",
+            "timestamp": "2022-08-30T17:38:35.286000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FB",
+            "text": "空気も，確かにそうですね。勉強になりました。ありがとうございました。",
+            "timestamp": "2022-08-30T17:38:57.904000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "いえいえ。ありがとうございました。",
+            "timestamp": "2022-08-30T17:39:02.638000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

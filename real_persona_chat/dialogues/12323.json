@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12323,
+    "interlocutors": [
+        "GQ",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-24T17:07:13.941000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-24T17:07:18.543000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GQ",
+            "text": "ペットは飼ってますか？",
+            "timestamp": "2022-09-24T17:07:30.245000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "いいえ、子供のころは犬を飼っていましたが、今は飼っていません。",
+            "timestamp": "2022-09-24T17:07:57.562000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GQ",
+            "text": "どんな犬でしたか？",
+            "timestamp": "2022-09-24T17:08:11.027000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "秋田犬に似ていましたが、耳がたれている雑種でした。",
+            "timestamp": "2022-09-24T17:08:37.877000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GQ",
+            "text": "うちには今、雑種がいます。黒の柴犬に似ています。",
+            "timestamp": "2022-09-24T17:09:18.919000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "主人の実家は山梨なんですが、甲斐犬を飼っています。",
+            "timestamp": "2022-09-24T17:09:54.107000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GQ",
+            "text": "すごい！甲斐犬！かっこいい！",
+            "timestamp": "2022-09-24T17:10:24.795000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "真っ黒なので、表情がわかりにくいな、というのが印象です。",
+            "timestamp": "2022-09-24T17:10:47.273000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GQ",
+            "text": "怖くはないですか？",
+            "timestamp": "2022-09-24T17:10:58.962000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "怖くないですよ。",
+            "timestamp": "2022-09-24T17:11:17.108000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GQ",
+            "text": "なんか、喧嘩するイメージがありますよね。闘犬のイメージ。",
+            "timestamp": "2022-09-24T17:11:50.481000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "それは、土佐犬ではないでしょうか。",
+            "timestamp": "2022-09-24T17:12:06.806000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GQ",
+            "text": "あっ、そうかも。すみません。昔、犬の漫画の主人公が甲斐犬だったような記憶があって。",
+            "timestamp": "2022-09-24T17:12:56.945000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "あはは。甲斐犬はもともとは狩猟犬だったようなので、動きが素早いです。",
+            "timestamp": "2022-09-24T17:13:36.900000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GQ",
+            "text": "いいなぁー。かっこいいなぁ。うちの子は大人しくて。",
+            "timestamp": "2022-09-24T17:14:17.057000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "大人しい犬もかわいいのでは？",
+            "timestamp": "2022-09-24T17:14:38.880000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GQ",
+            "text": "はい、可愛いです。外で飼っているので臭いがキツイんですけどね。",
+            "timestamp": "2022-09-24T17:15:13.725000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "今時外でかっていられるのはよいですね。",
+            "timestamp": "2022-09-24T17:16:00.590000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GQ",
+            "text": "本当は中で飼って可愛がりたいんですが、家が狭くて。",
+            "timestamp": "2022-09-24T17:16:30.944000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "昔はみんな外で飼っていましたよね。",
+            "timestamp": "2022-09-24T17:16:53.335000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GQ",
+            "text": "そうですよね。今は野良犬とかも見かけませんよね。",
+            "timestamp": "2022-09-24T17:17:19.426000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "でも、家の中で飼うと、犬が可哀そうな気がします。",
+            "timestamp": "2022-09-24T17:17:49.146000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GQ",
+            "text": "うーん、一緒にいてあげる方が喜ぶような気がしますが。",
+            "timestamp": "2022-09-24T17:18:24.424000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "私は小さい頃、学校から帰ってくると犬が喜んで飛びついてくるのでとても嬉しかったですよ。",
+            "timestamp": "2022-09-24T17:18:54.664000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GQ",
+            "text": "あっ、分かります！うちもそうでした。待っててくれるの嬉しいですよね。",
+            "timestamp": "2022-09-24T17:19:27.747000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "何十メートル先から犬がすごい勢いで走ってきたんです。",
+            "timestamp": "2022-09-24T17:19:51.351000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GQ",
+            "text": "番犬にもなるし、暑さ寒さにさえ気を使えば外飼いも良いですよね。",
+            "timestamp": "2022-09-24T17:21:14.671000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "やたら吠えなければ、外が断然よいかな、と思います。",
+            "timestamp": "2022-09-24T17:21:35.899000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

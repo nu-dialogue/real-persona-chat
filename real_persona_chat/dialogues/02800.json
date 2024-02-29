@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2800,
+    "interlocutors": [
+        "DW",
+        "DU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DW",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-23T22:28:03.807000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DU",
+            "text": "どうも。よろしくお願いします。",
+            "timestamp": "2022-08-23T22:28:15.295000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DW",
+            "text": "よろしくお願いしますー。お元気ですか？",
+            "timestamp": "2022-08-23T22:28:33.322000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DU",
+            "text": "はい。コロナにもかからず元気です。",
+            "timestamp": "2022-08-23T22:28:50.150000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DW",
+            "text": "それが一番ですね。一回もコロナにはかかっていないんですか？",
+            "timestamp": "2022-08-23T22:29:10.947000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。あなたは？",
+            "timestamp": "2022-08-23T22:29:19.296000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DW",
+            "text": "私もです。でも一応、抗原検査キットは買い置きしてます。",
+            "timestamp": "2022-08-23T22:29:52.694000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DU",
+            "text": "大阪に住んでてこの流行り方なので知らないうちに無症状でかかっているようなきもしています。",
+            "timestamp": "2022-08-23T22:30:23.002000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DW",
+            "text": "そうなんですよねー、周りにも無症状だったっていう方、結構います。",
+            "timestamp": "2022-08-23T22:30:48.401000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DU",
+            "text": "ですよね。職場でもクラスター出てますし、娘も１回なったし、むしろなぜ無事なのか。",
+            "timestamp": "2022-08-23T22:31:20.415000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DW",
+            "text": "ねー、不思議です。免疫力がすごいんじゃないでしょうか。",
+            "timestamp": "2022-08-23T22:31:43.984000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DU",
+            "text": "3回ワクチン受けた人もどんどんかかってますしね。抗原検査キットは何処で買ったんですか？",
+            "timestamp": "2022-08-23T22:32:17.055000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DW",
+            "text": "Amazonで買いました。コロナ蔓延中の時期だったんで、店頭に売ってなくて。",
+            "timestamp": "2022-08-23T22:32:54.620000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DU",
+            "text": "医療用のちゃんとしたやつも売ってますか？見つけられなくって。",
+            "timestamp": "2022-08-23T22:33:15.275000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DW",
+            "text": "いやー、それは無かったかも。簡易的なやつだけだった気がします。",
+            "timestamp": "2022-08-23T22:33:39.414000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DU",
+            "text": "何か、簡易検査キットで良いんですけど、研究用って書いてあるものは出た結果も不確実らしいです。",
+            "timestamp": "2022-08-23T22:34:08.917000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DW",
+            "text": "なるほど！そういう違いがあるんですか。",
+            "timestamp": "2022-08-23T22:34:25.738000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DU",
+            "text": "何か最近ニュースで良く言っています。もうすぐネット販売されるとか。",
+            "timestamp": "2022-08-23T22:34:49.184000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DW",
+            "text": "へぇー、私もチェックしてみます。",
+            "timestamp": "2022-08-23T22:35:06.025000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DU",
+            "text": "そもそも医療用や薬剤師の説明がないと買えないようですよ。",
+            "timestamp": "2022-08-23T22:35:21.615000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DW",
+            "text": "じゃあ、店頭じゃないと駄目なんですね。",
+            "timestamp": "2022-08-23T22:35:40.319000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DU",
+            "text": "それをネットで買えるようにするようですが、どうするのかしら。難しいですね。",
+            "timestamp": "2022-08-23T22:36:03"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DW",
+            "text": "医療に関わる方の負担が増える一方な気がしますねー。",
+            "timestamp": "2022-08-23T22:36:30.771000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DU",
+            "text": "本当に。負担軽減の為らしいですけど、軽減になるんでしょうか。",
+            "timestamp": "2022-08-23T22:36:51.137000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DW",
+            "text": "いやー、仕事増やしてる気がしてならないです。",
+            "timestamp": "2022-08-23T22:37:09.364000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DU",
+            "text": "ですよね。もう少しいい方法があればいいなぁと思いますね。",
+            "timestamp": "2022-08-23T22:37:28.656000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DW",
+            "text": "はいー、日本人、頭固いからなかなか難しいんですかね。",
+            "timestamp": "2022-08-23T22:37:51.230000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DU",
+            "text": "本当に。抗原検査キット、正確な物には体外診断用医薬品と書いてあるらしいです。",
+            "timestamp": "2022-08-23T22:38:17.208000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DW",
+            "text": "家にあるの、そんなの書いてなかった気がします。",
+            "timestamp": "2022-08-23T22:38:36.581000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DU",
+            "text": "またチェックしてみてくださいね。では気を付けて過ごしましょう。",
+            "timestamp": "2022-08-23T22:38:52.233000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

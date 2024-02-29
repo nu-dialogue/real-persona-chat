@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7167,
+    "interlocutors": [
+        "ET",
+        "AN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ET",
+            "text": "こんにちは！よろしくお願いしますー。",
+            "timestamp": "2022-08-02T10:15:09.285000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AN",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-02T10:15:18.482000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ET",
+            "text": "今日も暑いですね！朝からクーラーガンガンです。",
+            "timestamp": "2022-08-02T10:15:29.456000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AN",
+            "text": "わかります、クーラーかけないと熱中症になっちゃいますよね。",
+            "timestamp": "2022-08-02T10:15:55.665000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ET",
+            "text": "生命維持装置ですね！でも先日クーラーですごくショックなことがあって。",
+            "timestamp": "2022-08-02T10:16:13.781000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AN",
+            "text": "え、どうしたんですか？",
+            "timestamp": "2022-08-02T10:16:36.363000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ET",
+            "text": "電気代が１９０００円だったんです。",
+            "timestamp": "2022-08-02T10:16:43.780000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AN",
+            "text": "ひえー高い！！我が家冬に3万円超えてしまったことあります。",
+            "timestamp": "2022-08-02T10:17:14.800000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ET",
+            "text": "ですよね！？でも三万はすごい！やっぱり暖房の方がかかるんですね。",
+            "timestamp": "2022-08-02T10:17:37.111000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AN",
+            "text": "暖房の方がかかります。夏で電気代上がってしまったら、冬の代金どうなるのか恐ろしいですね。",
+            "timestamp": "2022-08-02T10:18:07.768000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ET",
+            "text": "確かに！先日エアコンの掃除をしたので、少しでもマシになってもらいたいんですが。",
+            "timestamp": "2022-08-02T10:18:36.236000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AN",
+            "text": "そういえば、室外機も掃除すると良いと聞いたのですが室外機もお掃除していますか？",
+            "timestamp": "2022-08-02T10:19:35.430000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ET",
+            "text": "あっ、そっちはしてないです！",
+            "timestamp": "2022-08-02T10:19:45.038000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AN",
+            "text": "わたしもしたことないんです。室外機って、どこを掃除すればいいんですかね？",
+            "timestamp": "2022-08-02T10:20:10.340000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ET",
+            "text": "ネットで調べれば出てくるのかしら。あとは業者に頼むとか？",
+            "timestamp": "2022-08-02T10:20:33.337000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AN",
+            "text": "なるほどー。業者に頼むのってちょっと勇気要りませんか？",
+            "timestamp": "2022-08-02T10:20:59.402000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ET",
+            "text": "お金もかかりますし、業者の方とはいえ自宅にあげるのも勇気がいります。",
+            "timestamp": "2022-08-02T10:21:39.341000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AN",
+            "text": "そうなんですよ。立ち合いもしないといけないし、なかなか億劫に感じてしまいます。",
+            "timestamp": "2022-08-02T10:22:22.159000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ET",
+            "text": "去年やってもらったんですが、その時の電気代は１２０００円だったかな。",
+            "timestamp": "2022-08-02T10:22:45.353000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AN",
+            "text": "電気代安いですね！お掃除の効果あるってことですかね？",
+            "timestamp": "2022-08-02T10:23:25.392000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ET",
+            "text": "ですね！おそうじ代も１２０００円でしたけど。",
+            "timestamp": "2022-08-02T10:23:43.958000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AN",
+            "text": "まぁそこは、綺麗な空気分でプライスレスということで。",
+            "timestamp": "2022-08-02T10:24:28.556000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ET",
+            "text": "そう考えることにします！何か節電対策されてますか？",
+            "timestamp": "2022-08-02T10:24:52.079000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AN",
+            "text": "ありきたりですが、使わない部屋の電気は消すとか小さなことしかしていません。あなたは何か対策講じてますか？",
+            "timestamp": "2022-08-02T10:25:29.409000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ET",
+            "text": "電気消すの大事ですよね！私はテレビをつけっぱなしにしないようにしました。",
+            "timestamp": "2022-08-02T10:25:57.395000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AN",
+            "text": "テレビつけっぱなしだと、作業効率も落ちちゃいそうですしね。ナイス判断ですね！",
+            "timestamp": "2022-08-02T10:26:31.404000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ET",
+            "text": "ワイドショーで夏のエアコンよりテレビの電気代が大きいと聞いて！ほんとかなあ。",
+            "timestamp": "2022-08-02T10:26:47.550000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AN",
+            "text": "テレビってそんなに電力消費するんですね！知らなかったです。",
+            "timestamp": "2022-08-02T10:27:10.255000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ET",
+            "text": "私もです！あとは冷蔵庫も結構らしいですねー。",
+            "timestamp": "2022-08-02T10:27:27.914000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AN",
+            "text": "なるほど、冷蔵庫も詰めすぎはよくないそうですしね。では、そろそろこの辺りで！",
+            "timestamp": "2022-08-02T10:27:58.740000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ET",
+            "text": "ありがとうございます！ではまた！",
+            "timestamp": "NaT"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

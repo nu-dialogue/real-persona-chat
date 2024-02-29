@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12218,
+    "interlocutors": [
+        "CR",
+        "DI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-06T12:03:32.565000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-06T12:03:38.707000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "何か趣味はありますか",
+            "timestamp": "2022-09-06T12:03:48.440000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DI",
+            "text": "アニメやゲームが趣味ですね。",
+            "timestamp": "2022-09-06T12:03:56.991000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "どんなゲームをしますか",
+            "timestamp": "2022-09-06T12:04:16.860000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DI",
+            "text": "モンハンとか、ＦＰＳとかいろいろやりますよ。",
+            "timestamp": "2022-09-06T12:04:33.532000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "モンハンでどんなのでしたっけ",
+            "timestamp": "2022-09-06T12:04:48.879000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DI",
+            "text": "モンスターを狩猟するゲームです。装備を強化したりして。",
+            "timestamp": "2022-09-06T12:05:07.288000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "ネットで繋ぐのですか",
+            "timestamp": "2022-09-06T12:05:19.515000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DI",
+            "text": "昔はできませんでしたが、今はインターネットで一緒にできますね。",
+            "timestamp": "2022-09-06T12:05:42.065000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "誰かと一緒にしますか",
+            "timestamp": "2022-09-06T12:05:54.449000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DI",
+            "text": "リアルの友達とやります。もちろん一人でもやりますが。",
+            "timestamp": "2022-09-06T12:06:08.491000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "強い相手を潰すと気持ちいいでしょうね",
+            "timestamp": "2022-09-06T12:06:27.356000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DI",
+            "text": "気持ちいいですね。友達と連携したりもして。",
+            "timestamp": "2022-09-06T12:06:43.490000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "モンハンのモンスターは悪なのですか",
+            "timestamp": "2022-09-06T12:07:00.567000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DI",
+            "text": "ストーリー上では悪者ですね。村をおそったりしてきます。",
+            "timestamp": "2022-09-06T12:07:20.433000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "それはやっつけなければなりませんね",
+            "timestamp": "2022-09-06T12:07:36.218000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DI",
+            "text": "そうです。基本的にストーリーはあまり見ませんけど。",
+            "timestamp": "2022-09-06T12:07:52.778000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "ストーリー一応あるのですね",
+            "timestamp": "2022-09-06T12:08:08.764000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DI",
+            "text": "ありますね。一応モンスターが悪者だっていう説明してくれてます。",
+            "timestamp": "2022-09-06T12:08:26.207000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "なろほど。アニメではイベントも行くのですか",
+            "timestamp": "2022-09-06T12:08:46.689000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DI",
+            "text": "私はあまり行かないです。インドアなもので。",
+            "timestamp": "2022-09-06T12:09:04.584000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "ネットで読むとかですか",
+            "timestamp": "2022-09-06T12:09:18.212000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DI",
+            "text": "そうですね。グッズとかネットで買ったり、VODで見たり。",
+            "timestamp": "2022-09-06T12:09:38.596000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "グッズって結構お金使うって聞いたことあります",
+            "timestamp": "2022-09-06T12:09:58.716000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DI",
+            "text": "高いですねー。Tシャツ1枚3000円とか。",
+            "timestamp": "2022-09-06T12:10:14.942000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "えー、ユニクロってわけにいかないのですね",
+            "timestamp": "2022-09-06T12:10:37.180000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DI",
+            "text": "どっちかっていうとコレクションなので。普段着はユニクロとかで十分です。",
+            "timestamp": "2022-09-06T12:11:03.339000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "どちらにしても、好きなことがあるのは大事ですね",
+            "timestamp": "2022-09-06T12:11:26.078000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DI",
+            "text": "日々のモチベーションにもつながってます。",
+            "timestamp": "2022-09-06T12:11:39.075000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

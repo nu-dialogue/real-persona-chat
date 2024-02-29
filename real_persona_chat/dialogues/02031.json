@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2031,
+    "interlocutors": [
+        "BS",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-24T08:59:39.566000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-24T08:59:45.385000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "朝ご飯はもう食べましたか？",
+            "timestamp": "2022-08-24T08:59:55.097000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "ついさっき食べたばかりで。昨日の残りの鮭でした！<BS>さんは？",
+            "timestamp": "2022-08-24T09:00:14.885000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "鮭いいですね！焼き鮭ですか？私も１時間ぐらい前に食べました！",
+            "timestamp": "2022-08-24T09:00:52.332000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "そうなんです！焼き鮭で。私のご飯の最高のお供です",
+            "timestamp": "2022-08-24T09:01:16.980000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "美味しいですよね。朝はお米のことが多いですか？",
+            "timestamp": "2022-08-24T09:01:38.286000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "そうですね。パンも大好きなのですが朝はご飯で。<BS>さんは？",
+            "timestamp": "2022-08-24T09:01:54.630000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。私もご飯のことが多いかもしれないです。お餅を食べることもあるのですが。",
+            "timestamp": "2022-08-24T09:03:01.831000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "お餅！いいですね！",
+            "timestamp": "2022-08-24T09:03:25.190000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "美味しいですよね。年始に限らず、常備してるんです。",
+            "timestamp": "2022-08-24T09:03:56.544000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "その手があったかと今お餅を買いに行きたくなりました。焼けば食べれますものね！",
+            "timestamp": "2022-08-24T09:04:34.834000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "そうなんです！最近はフライパンで数個卵と一緒に焼いてお好み焼きの味付けで食べてます。",
+            "timestamp": "2022-08-24T09:05:15.451000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "その食べ方美味しそうです！やってみたい！オリジナルのレシピですか？",
+            "timestamp": "2022-08-24T09:05:44"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "いえ、確かクックパッドで見て試してみました！簡単で美味しかったですよ！",
+            "timestamp": "2022-08-24T09:06:50.638000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "クックパッド私もお世話になってます！いろんなレシピありますよね。",
+            "timestamp": "2022-08-24T09:07:29.913000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "お仲間でしたね！そうなんですよね。困ったらすぐ見てしまいます。",
+            "timestamp": "2022-08-24T09:07:56.845000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "今ってネットでレシピを調べることができるから便利な時代ですよね",
+            "timestamp": "2022-08-24T09:08:39.721000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "本当にそうですよね。YouTubeでも知ることができますしね。",
+            "timestamp": "2022-08-24T09:09:25.137000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "youtube、どんな料理のチャンネルのご覧になられていますか？",
+            "timestamp": "2022-08-24T09:09:48.775000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "バズレシピのリュウジさんが一番多いかもです。ご存じですか？",
+            "timestamp": "2022-08-24T09:10:28.448000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "私もよく見てます！簡単だし美味しいし最高ですよね！",
+            "timestamp": "2022-08-24T09:10:48.655000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "そうなんです！主人の好きな味付けみたいで、とても助かってます！",
+            "timestamp": "2022-08-24T09:11:28.932000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "家族にも美味しいって言ってもらえるのって良いレシピの証拠だー！",
+            "timestamp": "2022-08-24T09:12:17.902000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "本当に！他の料理チャンネルは見ますか？",
+            "timestamp": "2022-08-24T09:13:07.116000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "マカロニや、平凡な夫婦、あとつくってるところが素敵なplanDをよく見てます！",
+            "timestamp": "2022-08-24T09:13:56.529000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "planDは初めて聞きました！平凡な夫婦は私もよく見ます！",
+            "timestamp": "2022-08-24T09:14:25.546000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "嬉しい！あんな風に作れるようになれたらと思いながら見ています",
+            "timestamp": "2022-08-24T09:15:12.142000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "鮮やかですもんね！私もそう思います。",
+            "timestamp": "2022-08-24T09:15:45.128000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "またお話ししましょう！",
+            "timestamp": "2022-08-24T09:15:59.068000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

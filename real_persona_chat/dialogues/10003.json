@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10003,
+    "interlocutors": [
+        "ER",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-10T15:34:32.294000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "お願いします！",
+            "timestamp": "2022-08-10T15:34:45.587000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "旅行に行くのが難しい情勢ですが、落ち着いたら行きたい場所ってありますか？",
+            "timestamp": "2022-08-10T15:35:17.103000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "落ち着いたら、まずは沖縄に行きたいです！スキューバダイビングの資格取りたくて。",
+            "timestamp": "2022-08-10T15:36:00.244000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "資格すごいですね！元々勉強してたんですか？",
+            "timestamp": "2022-08-10T15:36:25.270000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "いえ全然！ただ、もともと水泳が得意で、いつか資格取りたいなと思ってまして。",
+            "timestamp": "2022-08-10T15:37:00.064000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "水泳得意なのすごいですね。平泳ぎしかできないので尊敬します。",
+            "timestamp": "2022-08-10T15:37:27.467000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "平泳ぎができれば、何かあったときも大丈夫ですね！",
+            "timestamp": "2022-08-10T15:38:12.908000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "平泳ぎは安定した泳ぎ方だとは言われましたね。私の泳ぎはすごく遅いですが…。",
+            "timestamp": "2022-08-10T15:39:07.280000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "溺れないことが第一なので、ゆっくりでも大丈夫ですよ。でも水泳の授業では苦労されましたか？",
+            "timestamp": "2022-08-10T15:40:01.016000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "運動全般あまり得意ではないので、水泳は泳げる分楽しかったですね",
+            "timestamp": "2022-08-10T15:40:45.690000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "めちゃくちゃよくわかります！私も陸上では全く運動ダメでした。水泳のみ得意です。",
+            "timestamp": "2022-08-10T15:41:25.870000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "スキューバやれるほど得意なら充分だと思います！スキューバでこれは見たいってものありますか？",
+            "timestamp": "2022-08-10T15:42:15.614000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "ウミガメが見たいですねー！つぶらな瞳が大好きで。",
+            "timestamp": "2022-08-10T15:42:56.547000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "ウミガメいいですね！可愛いので生で見れたら感動しそうです。",
+            "timestamp": "2022-08-10T15:43:34.026000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "ですよね！あとはイルカとかマンタとかも見れるのであれば見たいですね。",
+            "timestamp": "2022-08-10T15:43:59.443000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "水族館並ですね！触れる距離にそういう生き物がいるのは楽しそうですね。",
+            "timestamp": "2022-08-10T15:44:44.515000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "水族館も大好きです！イルカとか眺めてると癒されます。",
+            "timestamp": "2022-08-10T15:45:35.642000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "水族館癒やされますね。水音とかじっと聞いてるだけで癒やされます。",
+            "timestamp": "2022-08-10T15:46:01.247000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "年間パス買って通いつめたかったんですが、片道3時間でさすがに諦めました。",
+            "timestamp": "2022-08-10T15:46:32.645000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "片道3時間はなかなか年間通して通うのには難しい距離ですね",
+            "timestamp": "2022-08-10T15:46:57.241000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよね。片道1時間までなら気合で行けたと思うんですが、往復6時間はちょっと。",
+            "timestamp": "2022-08-10T15:47:41.264000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "往復6時間だと水族館にいる時間より長くなりそうですね",
+            "timestamp": "2022-08-10T15:48:44.028000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "ちょっともったいないですよね。最後に水族館行かれたのっていつ頃ですか？",
+            "timestamp": "2022-08-10T15:49:10.590000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "一昨年くらいに行きました。少し情勢が落ち着いた時に行きました。",
+            "timestamp": "2022-08-10T15:49:40.787000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "わりと最近行かれたんですね！どのコーナーが印象に残ったとかありますか？",
+            "timestamp": "2022-08-10T15:50:09.746000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "ペンギンが好きなので、ペンギンのコーナーにずっといましたね。",
+            "timestamp": "2022-08-10T15:50:24.764000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "ペンギンかわいいですよね。個性がしっかりあって、見てておもしろいです。",
+            "timestamp": "2022-08-10T15:50:52.094000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "相関図とか貼ってあるところもあって、ああいうの見るとより楽しめますね。",
+            "timestamp": "2022-08-10T15:51:22.851000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "相関図おもしろいですよねー！ありがとうございました！",
+            "timestamp": "2022-08-10T15:51:43.268000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ER",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-10T15:51:55.528000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

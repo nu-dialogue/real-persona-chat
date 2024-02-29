@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12070,
+    "interlocutors": [
+        "FF",
+        "DC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T16:40:51.439000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DC",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-01T16:41:00.223000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "本とかは読まれますか？",
+            "timestamp": "2022-09-01T16:41:17.758000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DC",
+            "text": "本、あまりたくさんではないけど、たまに読みます！",
+            "timestamp": "2022-09-01T16:41:34.780000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "漫画を入れるとどうですか？",
+            "timestamp": "2022-09-01T16:41:42.920000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DC",
+            "text": "あ、そしたらもう、毎日読みます。",
+            "timestamp": "2022-09-01T16:42:03.726000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "良かった、同じです。何かお勧めの漫画ありますか？",
+            "timestamp": "2022-09-01T16:42:11.323000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、ずるいカウントの仕方ですね。最近は、第三のギデオンというのが面白かったです！",
+            "timestamp": "2022-09-01T16:43:01.585000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "万が結構好きかと思ってましたが、知らないものですね！ググってみます！",
+            "timestamp": "2022-09-01T16:43:15.842000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DC",
+            "text": "歴史物が好きで、私もググってたどり着いたんですが、フランス革命をテーマにしたもので。",
+            "timestamp": "2022-09-01T16:43:48.445000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "おぉ。いいですね。ベルばらなら読んだことありますよ。",
+            "timestamp": "2022-09-01T16:44:00.484000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DC",
+            "text": "ベルバラを読んだことなくて、フランス物って珍しいかも？と思って手に取ったらすごく当たりで！",
+            "timestamp": "2022-09-01T16:44:39.765000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "主人公は誰ですか？マリーアントワネットですか？",
+            "timestamp": "2022-09-01T16:44:50.250000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DC",
+            "text": "主人公は歴史上の人物ではないのですが、ルイ16世もアントワネットも出ます！",
+            "timestamp": "2022-09-01T16:45:40.969000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "なるほど！いや、漫画のおかげですが、少し詳しいですよ。フェルゼンなんかも出ますか？",
+            "timestamp": "2022-09-01T16:45:59.283000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DC",
+            "text": "出ます！そう、私も歴史からっきしなんですが漫画だとすっと読めて。漫画もバカにならない！",
+            "timestamp": "2022-09-01T16:46:32.245000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "ですね。マリーアントワネットもちょっとかわいそうですよね。",
+            "timestamp": "2022-09-01T16:46:40.699000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DC",
+            "text": "漫画になると、より親近感が湧いてかわいそう、どうしてって思いますよね。",
+            "timestamp": "2022-09-01T16:47:08.896000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "ですね。まぁちょっとぼんぼんだったのはあるのでしょうけども。",
+            "timestamp": "2022-09-01T16:47:21.164000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DC",
+            "text": "うーん、でも王室に生まれたら、そういうのが常識になっちゃうだろうし、複雑です。",
+            "timestamp": "2022-09-01T16:47:48.749000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "ですね。パンがなければホームベーカリーで作ればいいのに、でしたっけ？",
+            "timestamp": "2022-09-01T16:48:06.266000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DC",
+            "text": "多分ホームベーカリーではみんな作ってますね。ブリオッシュですね。",
+            "timestamp": "2022-09-01T16:48:29.637000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "ごめんなさい。ボケたつもりでした。ゴパンを食べればいいのに。にすればよかったです。",
+            "timestamp": "2022-09-01T16:48:49.763000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DC",
+            "text": "いえいえ、めちゃくちゃ面白いです！あ、ホームベーカリーの家電か！うふふ。すみません。",
+            "timestamp": "2022-09-01T16:49:28.941000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "金持ち解ってねぇな！みたいなことを言うつもりでした。",
+            "timestamp": "2022-09-01T16:49:43.887000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DC",
+            "text": "ホームベーカリー持ってない。うう、庶民すぎる。全く王族は。",
+            "timestamp": "2022-09-01T16:50:07.715000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "えぇ、えぇまぁ実際私は現代の奴隷ですからね！",
+            "timestamp": "2022-09-01T16:50:22.082000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DC",
+            "text": "革命しちゃいますよ？",
+            "timestamp": "2022-09-01T16:50:40.575000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "最近暴力革命みたいな事件増えてきてリアルに怖いですね。",
+            "timestamp": "2022-09-01T16:50:52.889000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DC",
+            "text": "全くです。平和が一番！ありがとうございました！",
+            "timestamp": "2022-09-01T16:51:17.536000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

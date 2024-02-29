@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10880,
+    "interlocutors": [
+        "BT",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "こんにちは、よろしくです。",
+            "timestamp": "2022-08-17T11:16:20.704000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-17T11:16:32.140000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "学生時代、得意だったり、好きだった教科ってありますか？",
+            "timestamp": "2022-08-17T11:16:51.405000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "私は、社会の地理が好きでした！",
+            "timestamp": "2022-08-17T11:17:12.678000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "おお。では、県庁所在地とか得意でした？",
+            "timestamp": "2022-08-17T11:17:50.133000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "県庁所在地は今でも言えると思います。（ちょっと自信がないですが。）",
+            "timestamp": "2022-08-17T11:18:18.542000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "地理の、特にどんなところがお好きだったんですか？？",
+            "timestamp": "2022-08-17T11:18:34.650000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "そうだなあ。地形とか気候とか、それぞれに意味があるって事が分かる事かな。",
+            "timestamp": "2022-08-17T11:19:21.287000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "なるほど。全体の関係性みたいなものが好きって感じなのかな。",
+            "timestamp": "2022-08-17T11:19:39.102000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "ブラタモリという番組を知っていますか？",
+            "timestamp": "2022-08-17T11:20:03.165000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "あ、知ってます。時々見たりします。",
+            "timestamp": "2022-08-17T11:20:16.808000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "あれって、地形と人の営みの関係を説明してくれたりするんです。例えばなぜ神戸に港があるかとか",
+            "timestamp": "2022-08-17T11:21:00.212000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。",
+            "timestamp": "2022-08-17T11:21:12.213000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "神戸に港があるのは、六甲山のきれいな水と、神戸の西側に突き出た地形が関係しているらしいです。",
+            "timestamp": "2022-08-17T11:22:00.740000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "なるほど。地形を利用して、街が出来上がっていく感じが、おもしろいってことですかね。",
+            "timestamp": "2022-08-17T11:22:40.787000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "そうなんです。一つ一つの事に意味があるのが面白いですね。",
+            "timestamp": "2022-08-17T11:23:05.495000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "ここに川があったから、今道路があるんだよーみたいな話ですよね。",
+            "timestamp": "2022-08-17T11:23:23.685000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "そうです！そうです！なんとか説明できて良かった。ぱおぞうさんの好きな教科はなんでしたか？",
+            "timestamp": "2022-08-17T11:23:53.981000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "えーっと、私は国語が好きでしたね。",
+            "timestamp": "2022-08-17T11:24:07.755000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "国語かあ。どんな部分が好きだったんですか？",
+            "timestamp": "2022-08-17T11:24:32.876000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "なんというか、勉強せずに解けたのが楽しかったんです。楽だったとも言えますが。",
+            "timestamp": "2022-08-17T11:24:59.525000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "多分それは、たくさん本を読んでいたからでは？",
+            "timestamp": "2022-08-17T11:25:21.483000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "そうかもしれません。あと、親が国語の教師だったんです。あはは。",
+            "timestamp": "2022-08-17T11:25:35.872000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "それはすごい！いろいろ影響を受けているのかもしれないですね！",
+            "timestamp": "2022-08-17T11:26:04.851000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "かもしれません。今思えば、漢字の指摘や、言葉の間違いの指摘が多い親でしたね。",
+            "timestamp": "2022-08-17T11:26:37.514000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "国語はなかなか成績が上がらない教科ですよね。日々の積み重ねが良かったのだと思います。",
+            "timestamp": "2022-08-17T11:27:15.421000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "その代わりと言うとアレなんですが、数学が壊滅的にできなくて。今でも数字苦手なんです。",
+            "timestamp": "2022-08-17T11:27:42.217000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "数学は向き不向きがあると思いますよ！私も壊滅的でした。",
+            "timestamp": "2022-08-17T11:28:10.411000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "数学得意な人は、できない私たちのことを不思議に思うらしいですね。",
+            "timestamp": "2022-08-17T11:28:31.373000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "多分頭の構造のなにかが決定的に違うのだと思います。。今日はありがとうございました。",
+            "timestamp": "2022-08-17T11:28:59.725000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

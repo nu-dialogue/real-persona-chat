@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 552,
+    "interlocutors": [
+        "AI",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-10T17:11:09.697000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T17:11:17.930000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "最近買った中で自慢の品とかありますか",
+            "timestamp": "2022-08-10T17:11:32.859000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "最近ではないですが、家庭用の蓄電池を買いました。",
+            "timestamp": "2022-08-10T17:11:51.395000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "ほう、どんなものですか",
+            "timestamp": "2022-08-10T17:12:03.402000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "停電になっても、家で電気が使えます。",
+            "timestamp": "2022-08-10T17:12:16.567000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "そりゃすごいじゃないですか",
+            "timestamp": "2022-08-10T17:12:25.523000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "一応停電対策に。",
+            "timestamp": "2022-08-10T17:12:34.748000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "停電ってどういうときになる想定ですか",
+            "timestamp": "2022-08-10T17:12:51.857000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "台風ですね！",
+            "timestamp": "2022-08-10T17:12:59.166000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "なるほど、現実路線だ",
+            "timestamp": "2022-08-10T17:13:08.096000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "２，３年前に千葉で大停電したので。",
+            "timestamp": "2022-08-10T17:13:25.617000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "ああ、あった、屋根とかふっとんだやつ",
+            "timestamp": "2022-08-10T17:13:37.067000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "そうです、ゴルフ場のポール倒れたり！",
+            "timestamp": "2022-08-10T17:13:50.134000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "白子の玉ねぎ大好きなので、心配していました",
+            "timestamp": "2022-08-10T17:14:04.951000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "今年は玉ねぎ高騰で、人が集ってましたね！",
+            "timestamp": "2022-08-10T17:14:29.390000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "そうそう、すごかったですね。私はふるさと納税していた",
+            "timestamp": "2022-08-10T17:14:46.436000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "ふるさと納税、難しくないですか？",
+            "timestamp": "2022-08-10T17:15:00.244000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "え、何がですか",
+            "timestamp": "2022-08-10T17:15:04.986000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "難しそうで、試したことないんです。",
+            "timestamp": "2022-08-10T17:15:19.962000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "全く持って簡単ですよ",
+            "timestamp": "2022-08-10T17:15:26.216000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "そうなんですか！よくわからないもので。",
+            "timestamp": "2022-08-10T17:15:38.227000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "普段確定申告されてるタイプですか",
+            "timestamp": "2022-08-10T17:15:49.281000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "しないですね。",
+            "timestamp": "2022-08-10T17:15:54.641000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "だったらなおさら、ワンストップ納税ってので調べてみてください",
+            "timestamp": "2022-08-10T17:16:06.408000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "いいことを教えていただきました！",
+            "timestamp": "2022-08-10T17:16:18.364000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "やらないと損ですよ",
+            "timestamp": "2022-08-10T17:16:25.975000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "すごくお得で、おいしいものたくさんもらえるんですよね？",
+            "timestamp": "2022-08-10T17:16:41.183000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "高額納税者ならなおさらです",
+            "timestamp": "2022-08-10T17:16:50.775000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "高額納税ではないですが、やってみます！",
+            "timestamp": "2022-08-10T17:17:02.487000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

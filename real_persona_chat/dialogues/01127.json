@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1127,
+    "interlocutors": [
+        "CO",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます",
+            "timestamp": "2022-08-15T06:15:57.187000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "おはようございます",
+            "timestamp": "2022-08-15T06:16:02.349000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "朝は何時に起きますか？",
+            "timestamp": "2022-08-15T06:16:14.658000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "朝はいつも７時なのですが、最近は５時に起きるようにしています。<CO>さんは？",
+            "timestamp": "2022-08-15T06:16:43.976000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "早いですね。普段は７時前に起きます",
+            "timestamp": "2022-08-15T06:17:08.147000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "今早起きに移行したくて修行中です。",
+            "timestamp": "2022-08-15T06:17:57.981000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "仕事のために早く起きてるんですか？",
+            "timestamp": "2022-08-15T06:18:17.057000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "健康のためなのですが、仕事があれば人に迷惑をかけたくない気持ちから絶対起きるので仕事を入れています",
+            "timestamp": "2022-08-15T06:19:18.254000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "何か理由があれば早く起きれますね",
+            "timestamp": "2022-08-15T06:19:49.087000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "そうなんです。仕事を入れなければ睡眠大好きなのでギリギリまで眠ってしまって。",
+            "timestamp": "2022-08-15T06:20:10.581000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "わかります。休みの日とかはゆっくりですか？",
+            "timestamp": "2022-08-15T06:20:32.887000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "休みの日もゆっくりだったのですが、最近体が慣れたのか目が覚めるようになってきました",
+            "timestamp": "2022-08-15T06:21:00.049000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "習慣になってきたんですね。朝は何を食べますか？",
+            "timestamp": "2022-08-15T06:21:40.786000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "朝はご飯と味噌汁ですね！<CO>さんは？",
+            "timestamp": "2022-08-15T06:21:58.204000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "パンです。",
+            "timestamp": "2022-08-15T06:22:14.771000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "パンもいいですよね！どんなパン召し上がられてますか？",
+            "timestamp": "2022-08-15T06:22:42.465000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "食パンにバターです。あとヨーグルトも",
+            "timestamp": "2022-08-15T06:23:00.599000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "食パンにバターは最高ですよね！何枚切り派ですか？",
+            "timestamp": "2022-08-15T06:23:39.210000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "６枚です。少し薄いですね。パン食べますか？",
+            "timestamp": "2022-08-15T06:23:58.738000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "朝はご飯なのですが、パンも大好きで！",
+            "timestamp": "2022-08-15T06:24:37.169000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "朝はしっかり食べるんですね。私はそんなにいらなくて。",
+            "timestamp": "2022-08-15T06:25:03.719000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "少食がいいっていうのも何かで聞きました。",
+            "timestamp": "2022-08-15T06:26:16.673000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "そうなんですね。朝に果物は食べますか？",
+            "timestamp": "2022-08-15T06:27:04.321000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "くだものは、間食でバナナを食べてます。<CO>さんは？",
+            "timestamp": "2022-08-15T06:27:50.220000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "私はヨーグルトにブルーベリー入れてます",
+            "timestamp": "2022-08-15T06:28:17.504000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "いいですね！生のですか？",
+            "timestamp": "2022-08-15T06:28:31.753000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "冷凍です。たまにバナナも入れます",
+            "timestamp": "2022-08-15T06:28:50.048000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "冷凍そうやって使えばいいんですね！おいしそう！いまの時期ならなおさら冷たいのは嬉しいです！",
+            "timestamp": "2022-08-15T06:29:37.182000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "少し凍ってて目がさえます。おすすめです",
+            "timestamp": "2022-08-15T06:30:23.793000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "ブルーベリー好きなので買ってきてやってみたいです！またお話ししましょう！",
+            "timestamp": "2022-08-15T06:30:47.383000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

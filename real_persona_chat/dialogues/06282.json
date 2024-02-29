@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6282,
+    "interlocutors": [
+        "GF",
+        "FS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GF",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T11:25:33.694000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T11:25:42.537000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GF",
+            "text": "何か趣味はありますか？",
+            "timestamp": "2022-10-05T11:26:02.298000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FS",
+            "text": "あまり無いのですが猫を飼っていて猫と過ごす時間が好きです。",
+            "timestamp": "2022-10-05T11:27:17.505000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GF",
+            "text": "猫は１匹ですか？",
+            "timestamp": "2022-10-05T11:27:27.867000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FS",
+            "text": "2匹飼っています。",
+            "timestamp": "2022-10-05T11:27:39.293000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GF",
+            "text": "やっぱり、何となく猫を飼っている方って複数猫がいるイメージででした！",
+            "timestamp": "2022-10-05T11:27:58.339000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FS",
+            "text": "ずっと1匹だったんですが去年もう1匹増えました！",
+            "timestamp": "2022-10-05T11:28:45.006000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GF",
+            "text": "買ったんですか？",
+            "timestamp": "2022-10-05T11:29:01.933000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FS",
+            "text": "2匹とも保護猫です。",
+            "timestamp": "2022-10-05T11:29:21.806000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GF",
+            "text": "保健所からですか？",
+            "timestamp": "2022-10-05T11:29:31.624000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FS",
+            "text": "1匹は保健所にいる猫を保護団体の方を通じて、もう1匹はアパートに取り残されていて管理人さんからです。",
+            "timestamp": "2022-10-05T11:30:50.837000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GF",
+            "text": "アパートに取り残されていた！それは前の住人ですか？",
+            "timestamp": "2022-10-05T11:31:22.201000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FS",
+            "text": "住んでいる所ではないんですが、高齢の方が急遽入院のまま帰れずに1か月猫だけでいたのを発見されて。",
+            "timestamp": "2022-10-05T11:33:22.818000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GF",
+            "text": "ええ！生きていたんですか？？",
+            "timestamp": "2022-10-05T11:33:43.475000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FS",
+            "text": "はい！エサの袋を自分で開けてました！",
+            "timestamp": "2022-10-05T11:34:18.559000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GF",
+            "text": "生きていたから今いるんですよね、良かった！すごい賢いのですね！",
+            "timestamp": "2022-10-05T11:34:56.606000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FS",
+            "text": "良かったです。衰弱しているのを想像して迎えに行ったら逆にすごく太っていて安心しました。",
+            "timestamp": "2022-10-05T11:35:39.908000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GF",
+            "text": "餌だけは用意されていて本当に良かったです。",
+            "timestamp": "2022-10-05T11:36:47.936000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FS",
+            "text": "そうですね。エサが袋のままじゃなく缶とかに入っていたらと思うと泣きそうになります。",
+            "timestamp": "2022-10-05T11:36:53.372000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GF",
+            "text": "本当ですね！その可能性もあったのかと思うとぞっとします。",
+            "timestamp": "2022-10-05T11:37:26.785000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FS",
+            "text": "お水もお風呂のドアが開いていたから良かったです。",
+            "timestamp": "2022-10-05T11:38:08.499000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GF",
+            "text": "ああ！お風呂のお水を飲んでいたんですか？お風呂の、どのお水ですか？気になる。",
+            "timestamp": "2022-10-05T11:38:25.503000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FS",
+            "text": "湯舟にお水が溜まっていました！",
+            "timestamp": "2022-10-05T11:39:06.767000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GF",
+            "text": "１か月、そのお水を。よく無事で！猫って、動物って強いんですかね！",
+            "timestamp": "2022-10-05T11:39:43.663000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FS",
+            "text": "そうですね！管理人さんも外に出したりせず新しい飼い主を探してくれる方で良かったです。",
+            "timestamp": "2022-10-05T11:40:39.360000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GF",
+            "text": "人間のお腹はヤワなんですね。本当ですね！あとおじいさんも気がかりだったでしょうね。",
+            "timestamp": "2022-10-05T11:41:25.672000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FS",
+            "text": "人間だったらお腹壊しますね！おじいさんはきっともっと長く一緒にいるつもりだったんでしょうね。",
+            "timestamp": "2022-10-05T11:42:56.008000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GF",
+            "text": "少し切ない、感動するお話でした。ありがとうございます。",
+            "timestamp": "2022-10-05T11:43:19.059000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FS",
+            "text": "その日を思い出すと切なくなります。",
+            "timestamp": "2022-10-05T11:43:58.778000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

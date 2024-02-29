@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8906,
+    "interlocutors": [
+        "CK",
+        "BU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CK",
+            "text": "おはようございます",
+            "timestamp": "2022-08-07T09:00:25"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BU",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-07T09:01:33.939000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CK",
+            "text": "こちらは曇りです",
+            "timestamp": "2022-08-07T09:01:43"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BU",
+            "text": "こちらはめっちゃ晴れてます。蝉の声がうるさいです。",
+            "timestamp": "2022-08-07T09:02:09.903000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CK",
+            "text": "そうですか！最近天気のせいか少し涼しいです",
+            "timestamp": "2022-08-07T09:02:25"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BU",
+            "text": "昨日まではめっちゃ涼しかったですけど、今日は暑くなりそうです",
+            "timestamp": "2022-08-07T09:02:51.930000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CK",
+            "text": "お出かけの予定はありますか？",
+            "timestamp": "2022-08-07T09:03:03"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BU",
+            "text": "今日は特にないです。",
+            "timestamp": "2022-08-07T09:03:18.489000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CK",
+            "text": "私もないです",
+            "timestamp": "2022-08-07T09:03:25"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BU",
+            "text": "家でゆっくり甲子園でも観ようかと思ってます。",
+            "timestamp": "2022-08-07T09:03:42.515000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CK",
+            "text": "うちはもう朝イチ見てる人がいますよ",
+            "timestamp": "2022-08-07T09:03:58"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BU",
+            "text": "いいですね。二回戦目がうちの地元の高校なので応援してます。",
+            "timestamp": "2022-08-07T09:04:31.281000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CK",
+            "text": "そうなんですね！それは楽しみですね",
+            "timestamp": "2022-08-07T09:04:42"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BU",
+            "text": "めっちゃ楽しみです。野球が好きなので。",
+            "timestamp": "2022-08-07T09:05:00.143000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CK",
+            "text": "実は今回母校が出るんですよ",
+            "timestamp": "2022-08-07T09:05:11"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BU",
+            "text": "おおすごい！県内では有名な高校なんですか？",
+            "timestamp": "2022-08-07T09:05:39.057000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CK",
+            "text": "そうでもないのですが、力は入れている様です",
+            "timestamp": "2022-08-07T09:05:52"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BU",
+            "text": "すごいですね。一回戦勝てるといいですね。",
+            "timestamp": "2022-08-07T09:06:19.961000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CK",
+            "text": "1回でも勝てればいいなーって感じです",
+            "timestamp": "2022-08-07T09:06:31"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BU",
+            "text": "うんうん。私のところはいつも一回戦で負けてるので、今回はって感じですね。",
+            "timestamp": "2022-08-07T09:07:11.856000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CK",
+            "text": "高校野球はつい親目線で見てしまい、どっちを応援するか迷ってしまいます。",
+            "timestamp": "2022-08-07T09:07:29"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BU",
+            "text": "そうですね。応援してない同士の戦いやと難しいですよね。",
+            "timestamp": "2022-08-07T09:07:54.039000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CK",
+            "text": "いつも負けている方を応援しがちです",
+            "timestamp": "2022-08-07T09:08:06"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BU",
+            "text": "地方大会は、弱い方を応援しがちです。",
+            "timestamp": "2022-08-07T09:08:25.231000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CK",
+            "text": "文字通り、汗と涙のって感じがまたいいですよね",
+            "timestamp": "2022-08-07T09:08:42"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BU",
+            "text": "高校野球の醍醐味ですね。",
+            "timestamp": "2022-08-07T09:09:08.103000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CK",
+            "text": "野球経験はございますか？",
+            "timestamp": "2022-08-07T09:11:03"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BU",
+            "text": "全くございません。",
+            "timestamp": "2022-08-07T09:11:18.726000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CK",
+            "text": "何かスポーツはされてましたか？",
+            "timestamp": "2022-08-07T09:11:30"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BU",
+            "text": "ずっと文化部でした。",
+            "timestamp": "2022-08-07T09:11:39.830000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

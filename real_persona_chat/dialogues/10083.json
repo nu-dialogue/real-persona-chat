@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10083,
+    "interlocutors": [
+        "CM",
+        "GJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-11T13:41:13.067000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T13:41:41.915000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CM",
+            "text": "あなたは最近趣味やハマっている事なんかはありますか？",
+            "timestamp": "2022-08-11T13:41:49.025000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GJ",
+            "text": "最近は夜走ることにハマってます！",
+            "timestamp": "2022-08-11T13:42:46.372000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CM",
+            "text": "ジョギング！健康的ですね！",
+            "timestamp": "2022-08-11T13:42:53.729000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GJ",
+            "text": "はい！仕事がテレワークで全く動かないので、このままではまずいと思い！",
+            "timestamp": "2022-08-11T13:43:48.618000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CM",
+            "text": "体の事を考えてるのは素晴らしいです！夜の方が今は涼しいですしね。",
+            "timestamp": "2022-08-11T13:44:05.213000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GJ",
+            "text": "夜は涼しいですね！走るのにちょうどよいです！なにか運動されてますか？",
+            "timestamp": "2022-08-11T13:45:14.344000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CM",
+            "text": "私は全く運動が出来ないんです。お風呂で脚を揉み解すくらいです！",
+            "timestamp": "2022-08-11T13:45:24.332000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GJ",
+            "text": "お風呂に浸かるのもよいですよね！毎日入りますか？",
+            "timestamp": "2022-08-11T13:46:09.668000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CM",
+            "text": "毎日入ります！湯船に浸かるのは本当に気持ちいいです！",
+            "timestamp": "2022-08-11T13:46:19.225000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GJ",
+            "text": "いいですね〜、私もたまに入るのですが、お風呂に入る時って何してます？",
+            "timestamp": "2022-08-11T13:47:10.586000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CM",
+            "text": "私はひたすら、上がったら何をしようか考えて過ごしてます！",
+            "timestamp": "2022-08-11T13:47:25.103000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GJ",
+            "text": "ご飯何作ろうとかですか？",
+            "timestamp": "2022-08-11T13:48:17.243000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CM",
+            "text": "お風呂はご飯の後なので、何のゲームして遊ぼうかとか、誰と話そうかとか考えます！",
+            "timestamp": "2022-08-11T13:48:36.438000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GJ",
+            "text": "なるほど！ゲームですね！ゲーム実況とかも見るんですか？",
+            "timestamp": "2022-08-11T13:49:34.364000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CM",
+            "text": "実況はあまり見ないんです。あなたは興味がありますか？",
+            "timestamp": "2022-08-11T13:49:46.655000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GJ",
+            "text": "私も見ないので、おすすめがあれば聞こうかと！やっぱり自分でやる方が楽しいですよね！！",
+            "timestamp": "2022-08-11T13:50:54.153000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、出来ないゲームのまとめ動画なんかは時々興味本位で見ます！",
+            "timestamp": "2022-08-11T13:51:11.629000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GJ",
+            "text": "まとめ動画とかもあるんですか！攻略法みたいな？",
+            "timestamp": "2022-08-11T13:51:52.935000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CM",
+            "text": "はい、裏技や小ネタのまとめ動画が最近多くて、そういうのを見てます！",
+            "timestamp": "2022-08-11T13:52:16.720000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GJ",
+            "text": "なるほど！じゃあ今攻略本とか売れないんですね。",
+            "timestamp": "2022-08-11T13:53:02.075000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CM",
+            "text": "そうかもしれません、紙で持ってる方は結構少ないんじゃないかな？",
+            "timestamp": "2022-08-11T13:53:11.748000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GJ",
+            "text": "時代も変わりましたね！知りたい情報は検索すれば大体手に入りますもんね！",
+            "timestamp": "2022-08-11T13:54:22.187000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CM",
+            "text": "インターネット検索した方が最新の情報が手に入ったりしやすいですねー！",
+            "timestamp": "2022-08-11T13:54:40.187000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GJ",
+            "text": "確かに！SNS利用すれば最新情報を誰かしら上げてくれてますもんね！",
+            "timestamp": "2022-08-11T13:55:40.913000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CM",
+            "text": "本当に便利な世の中になってありがたいです。",
+            "timestamp": "2022-08-11T13:55:45.224000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GJ",
+            "text": "本当ですよね〜、助かります！",
+            "timestamp": "2022-08-11T13:56:21.517000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CM",
+            "text": "スマホもどんどん使いやすくなって、そちらでも調べ物が捗ります！",
+            "timestamp": "2022-08-11T13:56:50.841000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GJ",
+            "text": "ですね！スマホはかかせないです！",
+            "timestamp": "2022-08-11T13:57:19.774000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

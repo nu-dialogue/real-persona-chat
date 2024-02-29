@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 924,
+    "interlocutors": [
+        "CO",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T11:34:39.190000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T11:34:44.740000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "スポーツ観戦はお好きですか？",
+            "timestamp": "2022-08-11T11:34:54.295000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "好きです！野球をよく見ますね",
+            "timestamp": "2022-08-11T11:35:03.458000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "そうですか、高校野球始まりましたね",
+            "timestamp": "2022-08-11T11:35:18.658000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "始まりましたね。出身県は早々に負けちゃいました",
+            "timestamp": "2022-08-11T11:35:32.598000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "そうでしたか、相手は強豪ですか？",
+            "timestamp": "2022-08-11T11:35:49.218000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "強豪です。見ごたえありました",
+            "timestamp": "2022-08-11T11:36:05.411000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "実際に見に行かれたりはされますか？",
+            "timestamp": "2022-08-11T11:36:17.355000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "プロ野球は見に行ってましたね",
+            "timestamp": "2022-08-11T11:36:28.663000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "そうですか、いいですね球場",
+            "timestamp": "2022-08-11T11:36:42.728000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "野球も楽しいですし、最近は球場グルメも楽しめますね",
+            "timestamp": "2022-08-11T11:36:58.869000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "球場グルメしらないです",
+            "timestamp": "2022-08-11T11:37:08.851000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "選手がプロデュースしたメニューがありますよ",
+            "timestamp": "2022-08-11T11:37:26.562000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "へえ、それは面白そう。最近いってないので知らなかったです",
+            "timestamp": "2022-08-11T11:37:51.903000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "その選手の好物とか地元の名物とかが出てます",
+            "timestamp": "2022-08-11T11:38:15.285000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "何かおすすめありますか？",
+            "timestamp": "2022-08-11T11:38:28.704000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "シーズンごとに変わりますが、唐揚げ丼が美味しかったです",
+            "timestamp": "2022-08-11T11:39:07.749000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "へえ、今度見てみます。好きな球団はありますか？",
+            "timestamp": "2022-08-11T11:39:38.861000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "カープが好きで見てますね",
+            "timestamp": "2022-08-11T11:39:54.953000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "広島出身ですか？",
+            "timestamp": "2022-08-11T11:40:03.518000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "そうです。<CO>さんは好きな球団ありますか？",
+            "timestamp": "2022-08-11T11:40:17.327000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "私は子供のころ巨人が好きでした",
+            "timestamp": "2022-08-11T11:40:29.652000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "お、今は特に決まったチームを応援してないとかですか？",
+            "timestamp": "2022-08-11T11:40:49.466000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "はい、今はサッカーになっちゃいました",
+            "timestamp": "2022-08-11T11:41:01.584000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "なるほど、サッカーはどこを見てます？",
+            "timestamp": "2022-08-11T11:41:13.656000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "海外の日本人選手の試合を見ることが多いです",
+            "timestamp": "2022-08-11T11:41:36.601000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "海外のは迫力がすごいですよね。日本のもすごいですが",
+            "timestamp": "2022-08-11T11:41:57.405000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "はい、でも試合が夜中でしんどいです。寝不足になります",
+            "timestamp": "2022-08-11T11:42:14.198000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "そうか、時差ありますもんね",
+            "timestamp": "2022-08-11T11:42:25.331000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

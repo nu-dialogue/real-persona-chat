@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2062,
+    "interlocutors": [
+        "AR",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-18T14:13:29.876000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-18T14:13:38.291000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "お盆休みはありましたか。",
+            "timestamp": "2022-08-18T14:13:48.439000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "しっかり休むことができました。どこか行かれましたか？",
+            "timestamp": "2022-08-18T14:14:06.944000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "キャンプしました。",
+            "timestamp": "2022-08-18T14:14:34.663000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "キャンプいいですね。グランピングというものに憧れます。",
+            "timestamp": "2022-08-18T14:14:58.616000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "私も憧れます。でも、設備が整ってるだけあって、値が張るので、まだ未経験です。",
+            "timestamp": "2022-08-18T14:15:36.779000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "確かに高いイメージがありますね。キャンプは泊りがけですか？",
+            "timestamp": "2022-08-18T14:15:55.939000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "はい、２泊３日です。６月に１泊しましたが、１泊はあっという間で、準備片付けが大変でした。",
+            "timestamp": "2022-08-18T14:16:45.911000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "いいですね。やはり準備などが大変なんですね。バーべーキューはやりましたか？",
+            "timestamp": "2022-08-18T14:17:17.046000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "はい。自宅が海の方なので海鮮買い込んで牡蠣や有頭エビなど、海鮮BBQ堪能しました。",
+            "timestamp": "2022-08-18T14:18:20.360000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "海に近いのは羨ましいです。炭火で焼くと一味違いますよね。",
+            "timestamp": "2022-08-18T14:18:41.147000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "そうなんですよね。だから、同じ鶏肉でもわざわざ焼き鳥屋とか行きたくなります。",
+            "timestamp": "2022-08-18T14:19:22.466000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "海鮮では何がお好きですか？",
+            "timestamp": "2022-08-18T14:19:40.233000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "もっぱら牡蠣です。でも6年前生まれて初めて食あたりしてから、生牡蠣は怖気づいてしまいます。",
+            "timestamp": "2022-08-18T14:20:24.515000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "牡蠣いいですね。食あたりになってしまうと躊躇しますね。",
+            "timestamp": "2022-08-18T14:20:54.326000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "２日くらいトイレに住んでました。悲惨でした。",
+            "timestamp": "2022-08-18T14:21:21.615000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "それは大変でしたね。貝類だとハマグリとかも美味しいですよね。",
+            "timestamp": "2022-08-18T14:21:41.149000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "美味しいですね。ご自宅は海近いですか。",
+            "timestamp": "2022-08-18T14:22:07.089000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "車で30分くらいで行きますかね。",
+            "timestamp": "2022-08-18T14:22:33.344000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "では、まぁまぁ近いですね。今年は観光客多いですか。",
+            "timestamp": "2022-08-18T14:23:50.024000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "魚市場があるんですが、結構混んでましたね。",
+            "timestamp": "2022-08-18T14:24:09.856000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "魚市場は混みますよね。私の自宅付近もこの夏は毎週末渋滞です。",
+            "timestamp": "2022-08-18T14:25:02.202000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "渋滞になるほど混むんですね。生活に支障がでませんか？",
+            "timestamp": "2022-08-18T14:25:28.919000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "でます。ちょっとコンビ二行きたいけど渋滞ですからね。車ないと生活できないまぁまぁ田舎なので渋滞は結構ストレスです。",
+            "timestamp": "2022-08-18T14:26:31.989000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "やはりそうですよね。夏場以外は落ち着く感じですか？",
+            "timestamp": "2022-08-18T14:27:27.457000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "あとは正月がまぁまぁ混みます。初日の出を見に来る方が多いです。綺麗ですけど。",
+            "timestamp": "2022-08-18T14:28:14.078000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "そうなんですね。初日の出まだ見たことないので行ってみたいです。",
+            "timestamp": "2022-08-18T14:28:35.585000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "なんだかんだ自宅にいると寝ちゃうんですよね。",
+            "timestamp": "2022-08-18T14:29:25.092000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "近いとそうかもしれませんね。ありがとうございました。",
+            "timestamp": "2022-08-18T14:29:47.542000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

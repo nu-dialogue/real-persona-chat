@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3256,
+    "interlocutors": [
+        "DU",
+        "EB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DU",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-27T14:52:56.003000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EB",
+            "text": "こんにちはーよろしくです！",
+            "timestamp": "2022-08-27T14:53:13.297000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DU",
+            "text": "健康診断って受けてますか？",
+            "timestamp": "2022-08-27T14:53:24.384000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EB",
+            "text": "健康診断うけましたよー",
+            "timestamp": "2022-08-27T14:53:42.063000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DU",
+            "text": "私今回何個か引っかかってしまって。",
+            "timestamp": "2022-08-27T14:53:56.980000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EB",
+            "text": "あらま、何が引っかかったんですか？",
+            "timestamp": "2022-08-27T14:54:09.195000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DU",
+            "text": "クレアチニン？ともう一つ何か書いてましたね。覚えられない。",
+            "timestamp": "2022-08-27T14:54:25.962000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EB",
+            "text": "クレアチニン、どこだろ、肝臓関係かな？",
+            "timestamp": "2022-08-27T14:54:48.461000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DU",
+            "text": "なんかその時調べたら腎臓系っぽかったです。でも要再検査とまでは書いてなくて。",
+            "timestamp": "2022-08-27T14:55:21.239000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EB",
+            "text": "腎臓かぁ、お酒とかってのまれます？",
+            "timestamp": "2022-08-27T14:55:53.967000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DU",
+            "text": "弱いから少しだけですけど、週末に夫に付き合って飲んでますね",
+            "timestamp": "2022-08-27T14:56:14.345000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EB",
+            "text": "ふむふむ、少量なら問題ないですね！もしかしておトイレ我慢したりしちゃいます？",
+            "timestamp": "2022-08-27T14:56:46.768000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DU",
+            "text": "いえ。全然我慢しないといけない環境ではないです。ただおトイレ近い自覚はありますね。",
+            "timestamp": "2022-08-27T14:57:10.177000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EB",
+            "text": "そうなんですね、近いのはちゃんと排出してるからいいと思うんですけどね",
+            "timestamp": "2022-08-27T14:57:49.151000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DU",
+            "text": "そうですよね。紹介状とか入っていない要観察って放置するか迷いますね。",
+            "timestamp": "2022-08-27T14:58:11.148000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EB",
+            "text": "そこが一番困りますよね、一回聞いてみたほうがいいかもしれないです",
+            "timestamp": "2022-08-27T14:58:36.675000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DU",
+            "text": "そうですよね。特に内科のかかりつけもないしわざわざ今の時期に？という気もして。",
+            "timestamp": "2022-08-27T14:59:03.480000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EB",
+            "text": "何かあったからじゃ遅いですよー！行けるときに行っとかないとってやつです",
+            "timestamp": "2022-08-27T14:59:30.226000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DU",
+            "text": "確かに、昔そういう経験もしてますしね。やっぱり行こうかしら。",
+            "timestamp": "2022-08-27T14:59:49.551000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EB",
+            "text": "絶対行ったほうがいいです、何もないならそれですっきりするしね！自分の為にも家族の為にもね",
+            "timestamp": "2022-08-27T15:00:22.783000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DU",
+            "text": "そうですよね。ちょっと病院調べてみます。どうせなら腎臓強そうなところを。",
+            "timestamp": "2022-08-27T15:00:49.218000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EB",
+            "text": "うんうん！きっと大丈夫ですよ！僕の結果はとくになにもなかったです",
+            "timestamp": "2022-08-27T15:01:13.999000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DU",
+            "text": "それは羨ましいですね。生活習慣が健康的なんでしょうか。",
+            "timestamp": "2022-08-27T15:01:30.498000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EB",
+            "text": "ただ睡眠時間はそこまで安定はしてないですけどね",
+            "timestamp": "2022-08-27T15:01:58.188000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DU",
+            "text": "そうなんですね。睡眠時間結構乱れやすいですよね。私もそうなんです。",
+            "timestamp": "2022-08-27T15:02:20.977000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EB",
+            "text": "アラームセットしないと絶対そのまま寝続けます",
+            "timestamp": "2022-08-27T15:02:41.065000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DU",
+            "text": "アラームで起きられるならセーフということで。",
+            "timestamp": "2022-08-27T15:02:57.754000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EB",
+            "text": "もうスヌーズ機能が恨めしい",
+            "timestamp": "2022-08-27T15:03:10.966000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DU",
+            "text": "確かに。つい甘えてしまいますよね。",
+            "timestamp": "2022-08-27T15:03:25.515000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EB",
+            "text": "そうなんですよねーまたお話しましょ",
+            "timestamp": "2022-08-27T15:03:37.555000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

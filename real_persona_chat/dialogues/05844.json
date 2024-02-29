@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5844,
+    "interlocutors": [
+        "AD",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは",
+            "timestamp": "2022-10-11T21:54:09.799000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんばんは",
+            "timestamp": "2022-10-11T21:54:22.350000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日1日何をされていましたか？",
+            "timestamp": "2022-10-11T21:54:27.076000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "仕事でした",
+            "timestamp": "2022-10-11T21:54:52.220000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "お仕事ですか、お疲れ様でした。",
+            "timestamp": "2022-10-11T21:55:00.559000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "あなたは何をししていましたか？",
+            "timestamp": "2022-10-11T21:55:15.053000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "私も在宅で仕事していました。",
+            "timestamp": "2022-10-11T21:55:24.186000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "在宅はいいですね",
+            "timestamp": "2022-10-11T21:55:33.908000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "はい。自由にできるのでとても良いです。",
+            "timestamp": "2022-10-11T21:55:49.154000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "私もコロナが始まったころ在宅でした。通勤がないのがいいですね",
+            "timestamp": "2022-10-11T21:56:16.989000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "今は在宅ではないのですか？",
+            "timestamp": "2022-10-11T21:56:25.068000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "はい。普通に通勤しています",
+            "timestamp": "2022-10-11T21:56:41.662000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "在宅と出勤の交互とかではないんですね",
+            "timestamp": "2022-10-11T21:56:56.120000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "週５で出勤していますが、先日濃厚接触者になった際に在宅勤務をしていました",
+            "timestamp": "2022-10-11T21:57:39.410000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "久々の在宅勤務ですか？",
+            "timestamp": "2022-10-11T21:57:53.235000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "そうですね。でも在宅は仕事をする気がなくなりますね",
+            "timestamp": "2022-10-11T21:58:08.652000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "ダラダラしてしまうのでメリハリは無くなってしまいますね",
+            "timestamp": "2022-10-11T21:58:20.668000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "先日は濃厚接触者からの陽性となったので、仕事をせずのんびりしていました",
+            "timestamp": "2022-10-11T21:59:06.330000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "それは仕方ないですね。",
+            "timestamp": "2022-10-11T21:59:28.109000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "ですよね。連休も重なったため、二週間も休んでしまいました",
+            "timestamp": "2022-10-11T21:59:52.166000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "長期休みですね。二週間も仕事しなかったら、仕事するの嫌になりそうです。",
+            "timestamp": "2022-10-11T22:00:35.915000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "と思うかなと私も思っていましたが、出勤初日はわくわくしました",
+            "timestamp": "2022-10-11T22:01:05.580000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "久々だからですか？",
+            "timestamp": "2022-10-11T22:01:15.035000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "そうです。久しぶりの外出、久しぶりの他人との会話ですから。",
+            "timestamp": "2022-10-11T22:01:39.746000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "とはいえ仕事なので、私はそのまま行きたくないってなりそうです。偉いですね。",
+            "timestamp": "2022-10-11T22:01:57.450000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "外出が出来るのであれば休みも苦にならないと思いますが、ずっと在宅は辛いです",
+            "timestamp": "2022-10-11T22:02:48.872000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "私はずっと在宅でもいいなあと思ってましたが、やっぱりメリハリはつけたいですよね。",
+            "timestamp": "2022-10-11T22:03:06.014000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "そうですね。あとは食べ物。在宅だとレトルトばかりになります",
+            "timestamp": "2022-10-11T22:03:29.931000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "仕事に行くと外食できますもんね",
+            "timestamp": "2022-10-11T22:03:41.473000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "はい。新鮮な野菜がとても食べたくなりました",
+            "timestamp": "2022-10-11T22:03:59.799000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

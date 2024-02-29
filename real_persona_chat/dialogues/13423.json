@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13423,
+    "interlocutors": [
+        "GS",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GS",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-09-22T16:04:33.810000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-09-22T16:04:39.452000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GS",
+            "text": "旅行行かれたりとかします？",
+            "timestamp": "2022-09-22T16:04:53.523000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "コロナ禍になって全然行かなくなりました。",
+            "timestamp": "2022-09-22T16:05:36.320000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GS",
+            "text": "そうですよね、私も2年くらいずっと行ってなくて、先月久しぶりに行きましたよ。",
+            "timestamp": "2022-09-22T16:06:12.255000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "お！いいですね！どちらへ行かれましたか？",
+            "timestamp": "2022-09-22T16:06:34.484000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GS",
+            "text": "東京と横浜に行きましたよ！",
+            "timestamp": "2022-09-22T16:06:51.613000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "おー！どのエリアに行かれましたか？",
+            "timestamp": "2022-09-22T16:08:07.186000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GS",
+            "text": "東京だと新宿、押上、渋谷ですね。スカイツリーも登りましたよ。",
+            "timestamp": "2022-09-22T16:08:43.929000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "スカイツリーでは景色よかったですか？",
+            "timestamp": "2022-09-22T16:09:19.423000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GS",
+            "text": "曇ってたのでいい写真は撮れなかったんですが、とても見晴らしよかったですよ。",
+            "timestamp": "2022-09-22T16:09:44.905000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "そうだったのですね！めちゃくちゃ高いですよね！",
+            "timestamp": "2022-09-22T16:10:52.551000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GS",
+            "text": "あとエレベーターもめちゃくちゃ速いです！",
+            "timestamp": "2022-09-22T16:11:07.613000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "おお！一気に最上階に到着する感じですかね。",
+            "timestamp": "2022-09-22T16:12:26.848000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GS",
+            "text": "そうですね、350ｍ地点まで体感30秒くらいでしたよ。実際はもっと長いかもしれないんですが。",
+            "timestamp": "2022-09-22T16:12:53.196000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "ひえー！速すぎです！",
+            "timestamp": "2022-09-22T16:13:13.394000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GS",
+            "text": "横浜ランドマークタワーって知ってます？",
+            "timestamp": "2022-09-22T16:13:32.010000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "半円形のような形のビル？でしたっけ？",
+            "timestamp": "2022-09-22T16:14:07.615000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GS",
+            "text": "あ！それはインターコンチネンタルホテルだと思います！",
+            "timestamp": "2022-09-22T16:14:36.095000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "あ！失礼しました！ランドマークタワーに行かれたんですね？",
+            "timestamp": "2022-09-22T16:15:24.997000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GS",
+            "text": "はい、そこも行きました！で、そのタワーのエレベーターが世界最速らしいんですよ。下りだけみたいですが",
+            "timestamp": "2022-09-22T16:16:00.520000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "おお！それはすごい！",
+            "timestamp": "2022-09-22T16:16:25.122000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GS",
+            "text": "時速40km/hで降下するらしいです！",
+            "timestamp": "2022-09-22T16:17:09.409000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "乗っていたら下に引っ張られる感覚がすごそうですね。",
+            "timestamp": "2022-09-22T16:17:40.746000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GS",
+            "text": "何といいますか、加速し始めは宙に浮いている感じがすごいですよ。",
+            "timestamp": "2022-09-22T16:18:06.654000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "そうなんですか！プチ宇宙旅行してる感覚ですね。",
+            "timestamp": "2022-09-22T16:18:55.166000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GS",
+            "text": "ちょっとそんな感覚はありますよ。大げさな表現でもなく。",
+            "timestamp": "2022-09-22T16:19:14.525000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "横浜に行く機会があったらぜひ乗ってみます！",
+            "timestamp": "2022-09-22T16:19:43.731000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GS",
+            "text": "あともちろん景色もきれいですよ！",
+            "timestamp": "2022-09-22T16:20:12.847000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね！ますます楽しみです！",
+            "timestamp": "2022-09-22T16:20:29.372000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

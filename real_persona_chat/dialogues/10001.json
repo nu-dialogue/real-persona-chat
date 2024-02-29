@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10001,
+    "interlocutors": [
+        "ER",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-10T15:01:29.380000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "はじめまして！",
+            "timestamp": "2022-08-10T15:02:01.786000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "最近暑いですが、外出時に何か対策してますか？",
+            "timestamp": "2022-08-10T15:02:38.919000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "そうですねー。水分は必ず持ち歩くようにしてますね。",
+            "timestamp": "2022-08-10T15:03:00.285000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "水分大事ですね。室内でも飲むように気をつけてます",
+            "timestamp": "2022-08-10T15:03:32.360000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "1日だいたいどれくらい水分摂られますか？",
+            "timestamp": "2022-08-10T15:03:54.911000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "なるべく2Lは摂るようにしています",
+            "timestamp": "2022-08-10T15:04:10.071000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "いいですね！理想的な摂取量！主にお水ですか？",
+            "timestamp": "2022-08-10T15:05:07.388000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "お水だと飽きてしまうので麦茶が主ですね",
+            "timestamp": "2022-08-10T15:05:24.901000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "確かに、水は無味無臭ですもんね。私はジャスミン茶が好きで結構飲んでます。",
+            "timestamp": "2022-08-10T15:05:54.004000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "ジャスミン茶いいですね。私もあの香りすごく好きです。",
+            "timestamp": "2022-08-10T15:06:16.396000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "わかります！香りがいいお茶ですよね。昔は苦手だったんですが、大人になって好きになりました。",
+            "timestamp": "2022-08-10T15:06:43.171000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "大人になってから美味しく感じるものってありますよね",
+            "timestamp": "2022-08-10T15:07:01.217000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "ありますあります。ゴーヤも苦手だったけど、食べられるようになりました。",
+            "timestamp": "2022-08-10T15:07:33.979000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "ゴーヤですか…私は未だにダメですね。出されたら食べますけど…",
+            "timestamp": "2022-08-10T15:08:08.398000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "私も自分から喜んでは食べないので、一緒ですね！",
+            "timestamp": "2022-08-10T15:08:37.984000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "大人になってから好きになったものは漬物ですね",
+            "timestamp": "2022-08-10T15:09:32.605000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "漬物！小さい頃は苦手だったんですね。浅漬けとかでしょうか？",
+            "timestamp": "2022-08-10T15:10:23.667000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "浅漬いいですね。きゅうりやナスの浅漬け大好きです",
+            "timestamp": "2022-08-10T15:10:45.569000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "美味しいですよね！ポリポリつまんじゃいます。",
+            "timestamp": "2022-08-10T15:11:03.803000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "水分も摂れるし季節的にもいいかもですね",
+            "timestamp": "2022-08-10T15:11:18.529000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "ですね。塩分も大事ですし。",
+            "timestamp": "2022-08-10T15:11:49.742000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "塩分はなかなか意識的にとれないですからね",
+            "timestamp": "2022-08-10T15:12:07.294000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "塩飴とかタブレットもありますが、あんまりああいうの好きじゃないんですよね。",
+            "timestamp": "2022-08-10T15:12:44.460000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "ああいうのは確かに私も好きじゃないですね",
+            "timestamp": "2022-08-10T15:13:00.855000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "嫌な感じの塩っぽさがあって、大量に水飲みたくなります。",
+            "timestamp": "2022-08-10T15:13:33.607000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "あれなら普通にご飯食べたいですね～",
+            "timestamp": "2022-08-10T15:13:53.724000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "ですよねー！漬物と白米で一食摂った方が満足度も高いですよね。",
+            "timestamp": "2022-08-10T15:14:27.536000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "いいですね！今晩食べたくなりました",
+            "timestamp": "2022-08-10T15:14:43.994000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "私も浅漬けのもと買って帰ろうかな！ありがとうございました！",
+            "timestamp": "2022-08-10T15:15:31.868000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

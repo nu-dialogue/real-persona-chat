@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4317,
+    "interlocutors": [
+        "FO",
+        "FN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FO",
+            "text": "こんにちわ。",
+            "timestamp": "2022-09-10T15:30:13.949000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-10T15:30:34.300000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FO",
+            "text": "欲しいものとか最近ありますか？",
+            "timestamp": "2022-09-10T15:30:57.403000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FN",
+            "text": "あります。スマートウォッチが欲しいんです。",
+            "timestamp": "2022-09-10T15:31:30.557000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FO",
+            "text": "それは一体どういうものですか？",
+            "timestamp": "2022-09-10T15:31:42.826000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FN",
+            "text": "万歩計などの機能がある時計で、スマホと連動して使えるんです。",
+            "timestamp": "2022-09-10T15:32:24.551000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FO",
+            "text": "スマホで賄えそうな機能ですが何か特殊な機能がほかにもついているのでしょうか。",
+            "timestamp": "2022-09-10T15:33:12.472000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FN",
+            "text": "スマホの通話をお知らせしてくれる機能もあります。スマホはポケットに入れるには大きいので。",
+            "timestamp": "2022-09-10T15:33:49.149000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FO",
+            "text": "成程、確かに自分も通話に気づかない時があるので便利かもしれませんね。",
+            "timestamp": "2022-09-10T15:34:20.381000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FN",
+            "text": "今購入を検討しているのは、血中酸素濃度も測れるようです。精度は不明ですが。",
+            "timestamp": "2022-09-10T15:34:49.668000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FO",
+            "text": "採血でもするのでしょうか。",
+            "timestamp": "2022-09-10T15:35:15.351000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FN",
+            "text": "しないです。指に挟んで血中酸素濃度を測るのに似た機能がついているようです。詳細勉強不足ですみません。",
+            "timestamp": "2022-09-10T15:36:37.313000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FO",
+            "text": "いえいえ、別に専門的なことはネットにも書いてあるので。",
+            "timestamp": "2022-09-10T15:37:17.022000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FN",
+            "text": "寝ている間もつけておけば、24時間の情報がスマホに連動できるらしく、健康管理にいいかと考えています。",
+            "timestamp": "2022-09-10T15:38:23.979000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FO",
+            "text": "持病をお持ちなのですか？",
+            "timestamp": "2022-09-10T15:39:14.441000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FN",
+            "text": "軽い喘息持ちですが、喘息だからというより今後の元気で年齢を重ねたいなという感じです。",
+            "timestamp": "2022-09-10T15:40:33.331000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FO",
+            "text": "誰かに勧められたのですか？",
+            "timestamp": "2022-09-10T15:41:56.384000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FN",
+            "text": "きっかけは歩数をカウントするゲームをスマホで始めたことです。その後あれこれ調べました。",
+            "timestamp": "2022-09-10T15:42:55.788000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FO",
+            "text": "ゲームですか、面白そうですね。",
+            "timestamp": "2022-09-10T15:43:31.228000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FN",
+            "text": "歩くことで育成されるゲームです。スマホを持ち歩かない時も歩数カウントできないか、と調べました",
+            "timestamp": "2022-09-10T15:44:07.057000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FO",
+            "text": "それは難しいですね。というかゲームの目的は何なんですかね。",
+            "timestamp": "2022-09-10T15:45:32.007000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FN",
+            "text": "目的はかわいいキャラを育てる、です。育成ゲームなので。散歩するなど運動量が増える付加価値ありです",
+            "timestamp": "2022-09-10T15:46:40.631000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FO",
+            "text": "車で運転とかは対策されてそうですね。",
+            "timestamp": "2022-09-10T15:47:17.330000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FN",
+            "text": "そうですね。車で移動しても歩数は増えないです。",
+            "timestamp": "2022-09-10T15:47:40.806000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FO",
+            "text": "ドラクエウォークとかはアイテムの回収だけはできたんですけどね。",
+            "timestamp": "2022-09-10T15:48:43.093000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FN",
+            "text": "そうなんですね？このゲームは移動速度が速いとカウントされない感じです。",
+            "timestamp": "2022-09-10T15:49:17.898000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FO",
+            "text": "そういえば付加価値を上げてどうするんですか？",
+            "timestamp": "2022-09-10T15:49:50.079000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FN",
+            "text": "コロナ禍で在宅勤務が多くなったので、せめて散歩でもして運動しようか、と思いました。付加価値です。",
+            "timestamp": "2022-09-10T15:51:00.565000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FO",
+            "text": "成程。奥が深い感じですね。",
+            "timestamp": "2022-09-10T15:51:23.053000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FN",
+            "text": "単にかわいい、だけじゃないので、気に入ってます。",
+            "timestamp": "2022-09-10T15:51:40.968000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FN",
+            "informativeness": 1,
+            "comprehension": 2,
+            "familiarity": 1,
+            "interest": 1,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

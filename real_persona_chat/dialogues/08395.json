@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8395,
+    "interlocutors": [
+        "AT",
+        "IK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-05T21:06:01"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IK",
+            "text": "よろしくお願い致します。",
+            "timestamp": "2022-08-05T21:06:15"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "健康に気を遣ってやられてることってありますか？",
+            "timestamp": "2022-08-05T21:06:44"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IK",
+            "text": "筋トレで体を鍛えています。",
+            "timestamp": "2022-08-05T21:07:09"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "毎日何をどれくらいやってますか？",
+            "timestamp": "2022-08-05T21:07:38"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IK",
+            "text": "毎日、15分程度ですね。短い方が良いと聞いたので。",
+            "timestamp": "2022-08-05T21:08:17"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "そうなんですね、でも15分筋トレやるのも結構大変そうです。",
+            "timestamp": "2022-08-05T21:08:41"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IK",
+            "text": "以前は、ジムに通っていましたが、今は自宅で筋トレしているので、すぐに終わりますよ。",
+            "timestamp": "2022-08-05T21:09:26"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "どこを鍛えてます？",
+            "timestamp": "2022-08-05T21:09:56"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IK",
+            "text": "主には上半身や腕回りですね。",
+            "timestamp": "2022-08-05T21:10:18"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "筋トレグッズって使ってますか？",
+            "timestamp": "2022-08-05T21:10:45"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IK",
+            "text": "ダンベルを２つ買いました。",
+            "timestamp": "2022-08-05T21:11:01"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "いいですね、何kgを買いました？",
+            "timestamp": "2022-08-05T21:11:33"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IK",
+            "text": "20kg＋20kgですね。",
+            "timestamp": "2022-08-05T21:11:52"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "結構な重さですね、相当鍛えられそうです。",
+            "timestamp": "2022-08-05T21:12:07"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IK",
+            "text": "今はこれぐらいが全身を鍛えられて丁度いい感じです。",
+            "timestamp": "2022-08-05T21:12:39"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "さすがにいきなりはキツいですよね、非力な私は5kgくらいから始めたいかなと思いました。",
+            "timestamp": "2022-08-05T21:13:13"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IK",
+            "text": "12回ぐらいを持ち上げできるぐらいの重量が、効果を出すのにベストだそうです。",
+            "timestamp": "2022-08-05T21:13:57"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "めちゃくちゃ良い情報を聞きました、とするとやはり5kgくらいがよさそうです。",
+            "timestamp": "2022-08-05T21:14:31"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IK",
+            "text": "他に何か健康のために運動をされているのですか？",
+            "timestamp": "2022-08-05T21:15:26"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "私は朝ジョギングしてます。",
+            "timestamp": "2022-08-05T21:15:34"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IK",
+            "text": "それは良いですね。朝ジョギングすると、1日が快調です。",
+            "timestamp": "2022-08-05T21:16:01"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "そうですね、終わった後は少し爽快感があります。",
+            "timestamp": "2022-08-05T21:16:20"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IK",
+            "text": "朝だとまだ涼しいので、走れます。何分ぐらい走っているのですか？",
+            "timestamp": "2022-08-05T21:17:19"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "30分弱走ってます。",
+            "timestamp": "2022-08-05T21:17:36"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IK",
+            "text": "それぐらいが一番良いそうですよ。疲労がたまらない程度で。",
+            "timestamp": "2022-08-05T21:18:05"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "最近暑くて走るのも大変ですが、今後も継続していこうと思いました！",
+            "timestamp": "2022-08-05T21:18:26"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IK",
+            "text": "継続が一番大事ですよね。熱中症には気をつけて下さい。",
+            "timestamp": "2022-08-05T21:19:03"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "分かりました、本日はありがとうございました。",
+            "timestamp": "2022-08-05T21:19:18"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IK",
+            "text": "運動を続けていきましょう。ありがとうございました！",
+            "timestamp": "2022-08-05T21:19:50"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "IK",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

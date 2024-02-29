@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1588,
+    "interlocutors": [
+        "CF",
+        "DP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-18T06:33:06.679000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DP",
+            "text": "おはようございます。よろしくお願いします。",
+            "timestamp": "2022-08-18T06:33:34.342000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "今日は久しぶりにお弁当を作りました。",
+            "timestamp": "2022-08-18T06:33:58.403000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DP",
+            "text": "お弁当ですか。メニューは何ですか？",
+            "timestamp": "2022-08-18T06:34:19.178000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "今日は豚肉焼いたやつにコロッケ，ほうれん草のお浸しとふりかけご飯です。",
+            "timestamp": "2022-08-18T06:35:12.925000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DP",
+            "text": "お弁当って準備大変ですよね。今日何時起きだったんですか？",
+            "timestamp": "2022-08-18T06:36:04.524000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "お弁当のある日は大体いつも５時くらいです。",
+            "timestamp": "2022-08-18T06:36:19.959000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DP",
+            "text": "キャラ弁とかデコ弁とか作りますか？",
+            "timestamp": "2022-08-18T06:36:54.690000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "全然作らないです！うまくできないので。",
+            "timestamp": "2022-08-18T06:37:30.450000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DP",
+            "text": "お子さんから頼まれたりしません？",
+            "timestamp": "2022-08-18T06:38:03.820000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "上の子が幼稚園のときにせがまれてピカチュウのキャラ弁作りましたがこんなの違うって言われました。",
+            "timestamp": "2022-08-18T06:39:00.538000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DP",
+            "text": "あるあるですね！うちの妻はそんなもの頼まれたら絶対ブチ切れます。",
+            "timestamp": "2022-08-18T06:40:04.982000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "ブチ切れわかります！ほんとあれ手間なので大変ですが上手な方のお弁当は本当に芸術品です。",
+            "timestamp": "2022-08-18T06:40:54.470000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DP",
+            "text": "たまにネット等に写真上げる人いますが、ほんとに職人芸ですよね。",
+            "timestamp": "2022-08-18T06:41:41.204000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "素晴らしいなと思います！見た目もですが普通においしそうだし。",
+            "timestamp": "2022-08-18T06:42:14.560000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DP",
+            "text": "見て食べるほうはテンション上がりますよね。",
+            "timestamp": "2022-08-18T06:43:09.627000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "ですよね！私はもうキャラ弁は諦めて普通のお弁当にしています。",
+            "timestamp": "2022-08-18T06:43:51.549000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DP",
+            "text": "十分です。キャラ弁撲滅運動展開しましょう。お子さんが興味持たないように。",
+            "timestamp": "2022-08-18T06:44:42.794000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "そうですね！子供のお弁当はたまになので素知らぬふりして普通のお弁当です。",
+            "timestamp": "2022-08-18T06:45:32.820000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DP",
+            "text": "普段は給食ですか？",
+            "timestamp": "2022-08-18T06:45:51.359000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "そうです！遠足と習い事の日だけお弁当ですね。",
+            "timestamp": "2022-08-18T06:46:12.465000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DP",
+            "text": "最近の給食はスゴイらしいですね。",
+            "timestamp": "2022-08-18T06:46:56.289000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "そうみたいです！給食の献立表みても想像つかないおかずもたまにあります。",
+            "timestamp": "2022-08-18T06:47:39.956000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DP",
+            "text": "日本一の給食を目指しているところが、コンビニで商品化されたってテレビで見ました。",
+            "timestamp": "2022-08-18T06:48:31.150000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "そうなんですか！ちょっと食べてみたいです。",
+            "timestamp": "2022-08-18T06:48:44.063000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DP",
+            "text": "気になりますよね。想像つかないおかずって何ですか？",
+            "timestamp": "2022-08-18T06:49:29.942000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "度々外国の郷土料理みたいなのが出てそういうのは全然わからないです。",
+            "timestamp": "2022-08-18T06:50:17.976000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DP",
+            "text": "マジですか！日本の給食恐るべし！",
+            "timestamp": "2022-08-18T06:51:48.428000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "青色した焼きそば出た日もあったので最近の給食は面白いです！お話ありがとうございました！",
+            "timestamp": "2022-08-18T06:52:37.807000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DP",
+            "text": "最後に更にビックリ！！ありがとうございました。",
+            "timestamp": "2022-08-18T06:53:03.936000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

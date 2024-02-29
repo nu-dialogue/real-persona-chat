@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6005,
+    "interlocutors": [
+        "HB",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HB",
+            "text": "こんにちはー。",
+            "timestamp": "2022-10-02T15:13:19.226000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-02T15:13:25.307000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HB",
+            "text": "あなたの趣味は何ですか？",
+            "timestamp": "2022-10-02T15:13:28.539000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "私は読書とゲームです",
+            "timestamp": "2022-10-02T15:13:36.496000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HB",
+            "text": "読書はどんな本を読みますか？",
+            "timestamp": "2022-10-02T15:13:47.849000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "政治系ですね",
+            "timestamp": "2022-10-02T15:13:59.909000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HB",
+            "text": "政治！興味おありなんですか？",
+            "timestamp": "2022-10-02T15:14:14.497000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "めちゃめちゃありますね",
+            "timestamp": "2022-10-02T15:14:22.449000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。私は疎くて。でも興味持たないといけませんよね。",
+            "timestamp": "2022-10-02T15:14:41.636000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "話が難しく感じられますから、中々持ってくれる人いないんですよね",
+            "timestamp": "2022-10-02T15:15:08.897000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HB",
+            "text": "そうですね。興味を持つきっかけとかはあったんですか？",
+            "timestamp": "2022-10-02T15:15:23.830000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "れいわ新選組を知って、はまって色々調べて、おかしいなって気づいて、もっと色々深堀した感じです",
+            "timestamp": "2022-10-02T15:16:10.674000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HB",
+            "text": "なるほど。新しい党でしたっけ？",
+            "timestamp": "2022-10-02T15:16:30.620000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "そうです。中々新党から議員になるなんてなかったのですが、人を引き付ける力がすごかったです",
+            "timestamp": "2022-10-02T15:17:04.146000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。ガーシーが当選したニュースは観ましたが、あれは何党でしたっけ？",
+            "timestamp": "2022-10-02T15:17:36.763000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "ＮＨＫ党ですね。名前がしょっちゅう変わってますが。",
+            "timestamp": "2022-10-02T15:17:59.334000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HB",
+            "text": "あ、そうか。なんか変な党がたくさん増えましたね。",
+            "timestamp": "2022-10-02T15:18:16.678000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "参政党とかごぼうとか",
+            "timestamp": "2022-10-02T15:18:44.012000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HB",
+            "text": "ごぼうの党は花束事件で私も知りました。",
+            "timestamp": "2022-10-02T15:19:02.978000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "あれは、政治団体がしていい事じゃないです。次回の選挙までに潰れると思います",
+            "timestamp": "2022-10-02T15:19:28.318000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。何がしたいかよくわからんです。",
+            "timestamp": "2022-10-02T15:19:40.686000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "要は、知られないと自分たちの政策を伝える機会がないので、炎上売名が目的です",
+            "timestamp": "2022-10-02T15:20:15.785000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。炎上して興味を持ってもらうだけか。じゃあ成功はしてるんですね。",
+            "timestamp": "2022-10-02T15:20:46.049000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "ただ、今回は燃えすぎて本末転倒な状態にまで行ってしまいました",
+            "timestamp": "2022-10-02T15:21:07.761000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HB",
+            "text": "さすがにやりすぎたって感じですよね。",
+            "timestamp": "2022-10-02T15:21:24.478000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "わざわざこっちに来てくれた人に対して、",
+            "timestamp": "2022-10-02T15:21:41.317000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。しかもボクシングの伝説のような方に。",
+            "timestamp": "2022-10-02T15:21:58.999000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "日本の恥と会長が言われてましたが、まさしくその通りでした",
+            "timestamp": "2022-10-02T15:22:19.361000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。世界的に批判されてもしょうがないです。",
+            "timestamp": "2022-10-02T15:22:31.300000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "今後の行く末を注視しておきます",
+            "timestamp": "2022-10-02T15:22:48.409000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

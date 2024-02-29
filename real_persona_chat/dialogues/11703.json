@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11703,
+    "interlocutors": [
+        "AR",
+        "FB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "こんにちは、よろしくお願いいたします。",
+            "timestamp": "2022-08-25T16:03:18.844000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FB",
+            "text": "こちらこそよろしくお願いします。今日のお天気はどんな感じですか？",
+            "timestamp": "2022-08-25T16:03:42.625000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "曇りと雨が来週までずっと続く予報です。晴れの日はなさそうですね。",
+            "timestamp": "2022-08-25T16:04:27.045000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FB",
+            "text": "雨がちなのに蒸し暑いのは辛いですね。お昼は何を召し上がりましたか？",
+            "timestamp": "2022-08-25T16:05:00.338000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "昼は海苔巻きとお湯をかけるだけのおやつラーメンです。あなたは？",
+            "timestamp": "2022-08-25T16:06:03.987000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FB",
+            "text": "私は夫も在宅勤務だったので，むかごのご飯を炊きました。",
+            "timestamp": "2022-08-25T16:06:31.981000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "むかごは住んでいる地域で摂れるのですか？",
+            "timestamp": "2022-08-25T16:07:46.622000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FB",
+            "text": "いえ，夫が職場の同僚の方からいただいて持ち帰ってきたので・・",
+            "timestamp": "2022-08-25T16:08:11.077000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "料理がお上手なのですね、私なら頂いてもどう調理したらいいの？と迷います。",
+            "timestamp": "2022-08-25T16:08:50.350000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FB",
+            "text": "私もいただいてから，ネットで検索しました。",
+            "timestamp": "2022-08-25T16:09:18.301000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "どんな味ですか？豆っぽいですか？",
+            "timestamp": "2022-08-25T16:10:57.022000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FB",
+            "text": "里芋や長いもの小さなものなので，芋の味を濃くしたような感じです。おいしいですよ。",
+            "timestamp": "2022-08-25T16:11:38.751000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "芋系なら好きな味です。八ツ頭って食べたことありますか。",
+            "timestamp": "2022-08-25T16:12:21.139000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FB",
+            "text": "一度くらいはありますね。煮つけが美味しいですね。",
+            "timestamp": "2022-08-25T16:12:50.910000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "はい、芋類なら八ツ頭が一番好きです。",
+            "timestamp": "2022-08-25T16:13:42.818000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FB",
+            "text": "いつも手に入るわけではないですよね。里芋ならいつも売っていますが。",
+            "timestamp": "2022-08-25T16:14:16.785000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "手に入るのは寒い時期ですね。道の駅とかでしか買えないかも。",
+            "timestamp": "2022-08-25T16:15:00.466000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FB",
+            "text": "そうですね。お正月前などには買ってきて炊きますね。それ以外はあまりみかけないので。",
+            "timestamp": "2022-08-25T16:15:38.697000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "何県にお住まいなのですか？",
+            "timestamp": "2022-08-25T16:16:28.142000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FB",
+            "text": "奈良県です。そちらは？",
+            "timestamp": "2022-08-25T16:16:44.074000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "茨城県です。遠いですね。",
+            "timestamp": "2022-08-25T16:16:53.340000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FB",
+            "text": "そうですね。茨城といえば納豆というイメージが非常に強いのですが。お好きですか？",
+            "timestamp": "2022-08-25T16:17:22.103000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "大好きですよー、県外のスーパー行くと納豆の種類が少ないなと思います。こちら常に１０から１５種ほど陳列してあります。",
+            "timestamp": "2022-08-25T16:18:29.299000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FB",
+            "text": "そうなんですね。私は昔は嫌いでしたが，30過ぎたころから食べられるようになってきました。",
+            "timestamp": "2022-08-25T16:19:48.770000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "食べなれていなければ独特の香りですもんね。",
+            "timestamp": "2022-08-25T16:20:04.430000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FB",
+            "text": "関西では嫌いな人が半分以上という感じでした。父も大嫌いでしたし。",
+            "timestamp": "2022-08-25T16:20:40.283000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "そうでしたか。健康には良いですけどね。匂いはキツイ！",
+            "timestamp": "2022-08-25T16:21:32.403000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FB",
+            "text": "でも最近のは匂いが控えめなものが増えていますよね。きついものは私も苦手ですね。",
+            "timestamp": "2022-08-25T16:22:09.734000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "「におわなっとう」という名前の納豆がありますね。納豆の匂いしますけど。",
+            "timestamp": "2022-08-25T16:23:07.387000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FB",
+            "text": "確かに。色々お聞きできて楽しかったです。",
+            "timestamp": "2022-08-25T16:23:26.949000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

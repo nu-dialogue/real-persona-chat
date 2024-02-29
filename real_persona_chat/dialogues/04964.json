@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4964,
+    "interlocutors": [
+        "EQ",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-18T14:25:41.127000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-18T14:25:51.174000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "飲み物はコーヒー、お茶の何が好きですか？",
+            "timestamp": "2022-09-18T14:26:24.607000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "お茶の方が飲みますね。",
+            "timestamp": "2022-09-18T14:26:38.578000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "お茶と言いますといろいろありますが、具体的には？",
+            "timestamp": "2022-09-18T14:26:56.128000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "麦茶ですかね",
+            "timestamp": "2022-09-18T14:27:03.749000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "麦茶！　夏はいいですね。",
+            "timestamp": "2022-09-18T14:27:16.280000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "はい、緑茶はお腹を壊してしまいますし大量に飲めないです",
+            "timestamp": "2022-09-18T14:27:35.557000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "そうでしたか。私は温かい緑茶を飲むとお腹が治ります。",
+            "timestamp": "2022-09-18T14:28:02.846000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "なるほど、緑茶は利尿作用もあるようなのでなかなかごくごくいけなくて",
+            "timestamp": "2022-09-18T14:28:40.390000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "便秘の時も緑茶、脱水の時も温かい緑茶がよいですよ。",
+            "timestamp": "2022-09-18T14:29:09.076000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "ほうほう、今度調べてみます",
+            "timestamp": "2022-09-18T14:29:23.256000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "私は、珈琲が好きですが、珈琲を飲むとトイレが近くなってしまいます。",
+            "timestamp": "2022-09-18T14:29:55.621000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "そうみたいですね。コーヒーは受験期に飲んでいた記憶があります",
+            "timestamp": "2022-09-18T14:30:23.186000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "お若い時から飲んでいたのですね。カフェインが効きましたか？",
+            "timestamp": "2022-09-18T14:30:45.424000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "それがそこまで効かなかったです。体質でしょうかね",
+            "timestamp": "2022-09-18T14:31:03.908000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "効かないというのは、眠気覚ましに効かなかったということでしょうか？",
+            "timestamp": "2022-09-18T14:31:29.213000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "そうです。眠い時は眠いままという感じで",
+            "timestamp": "2022-09-18T14:31:47.018000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "寝る前にコーヒーを飲んでも大丈夫な方なのですね。",
+            "timestamp": "2022-09-18T14:32:06.941000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "そうですね。問題ないと思います",
+            "timestamp": "2022-09-18T14:32:25.340000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "うらやましいです。私はまったく眠れなくなります。",
+            "timestamp": "2022-09-18T14:32:40.417000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "効きすぎるタイプですね。",
+            "timestamp": "2022-09-18T14:32:50.426000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。あとお腹が痛い時は痛みが増します。",
+            "timestamp": "2022-09-18T14:33:12.174000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "それは困りますね。好きなら辛いかもしれません",
+            "timestamp": "2022-09-18T14:33:30.777000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "好きなので、困ります。そういう時は仕方がないので緑茶を飲みます。",
+            "timestamp": "2022-09-18T14:33:56.260000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "諦めがついたというか、眠い時にコーヒーは飲まなくなりました",
+            "timestamp": "2022-09-18T14:34:21.497000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "では、何を飲みますか？",
+            "timestamp": "2022-09-18T14:34:37.914000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "水ですね。大人しく眠れるように",
+            "timestamp": "2022-09-18T14:34:55.745000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "万能の水ですね。それはいいかも。浄化してくれそう。",
+            "timestamp": "2022-09-18T14:35:19.120000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "トイレで目覚めるのも嫌なので",
+            "timestamp": "2022-09-18T14:35:28.264000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9342,
+    "interlocutors": [
+        "DG",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-07T23:07:43.766000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-07T23:07:52.160000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "今日の夕飯はなんでしたか？",
+            "timestamp": "2022-08-07T23:08:08.363000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "今日の夕飯はとんかつでした。",
+            "timestamp": "2022-08-07T23:08:20.431000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "いいですね！ヒレ、ロースどちらがお好きですか？",
+            "timestamp": "2022-08-07T23:08:37.791000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "どちらも好きですが、強いて言えばロースが好きです。",
+            "timestamp": "2022-08-07T23:08:52.904000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "ロース、ジューシーでいいですよね！ソース派ですか？",
+            "timestamp": "2022-08-07T23:09:13.578000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "ソース派です。醤油はまだ試したことないです。",
+            "timestamp": "2022-08-07T23:09:41.625000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "なるほど！私はお店で出された卸ポン酢にハマっています！",
+            "timestamp": "2022-08-07T23:10:09.288000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "ポン酢はさっぱりしそうでいいですね。",
+            "timestamp": "2022-08-07T23:10:25.920000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "大根おろしタップリだと罪悪感が減るような！",
+            "timestamp": "2022-08-07T23:10:41.753000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "確かに、カロリー気になりますもんね。中には塩で食べる人もいるらしいですね。",
+            "timestamp": "2022-08-07T23:11:06.001000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "塩！洒落てますね。びっくりしちゃうかもです！",
+            "timestamp": "2022-08-07T23:11:22.951000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "<DG>さんは何を食べられましたか？",
+            "timestamp": "2022-08-07T23:11:37.189000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "私は麻婆豆腐とサラダにしました",
+            "timestamp": "2022-08-07T23:11:53.502000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "中華いいですね。サラダもとって健康的ですね。",
+            "timestamp": "2022-08-07T23:12:13.848000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "昨日の外食を持ち帰ったのですが、油の多さにびびりましたー",
+            "timestamp": "2022-08-07T23:12:35.979000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "中華は油が命ですからね。私も最近油っぽいものが受け付けなくなりつつあります。",
+            "timestamp": "2022-08-07T23:13:09.703000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "山椒とかで好きな味なんですが、こたえます！",
+            "timestamp": "2022-08-07T23:13:33.580000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "麻婆豆腐も色々種類があって面白いですよね。",
+            "timestamp": "2022-08-07T23:14:10.671000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "そうですね！お店やレトルトもそれぞれ個性があります！",
+            "timestamp": "2022-08-07T23:14:27.667000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "この間テレビで緑の麻婆豆腐を見たときは驚きました。",
+            "timestamp": "2022-08-07T23:14:42.861000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "緑ですか！何が入ってるんでしょう？",
+            "timestamp": "2022-08-07T23:14:54.977000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "細かくは覚えていないんですが、唐辛子の色とかだった気がします。",
+            "timestamp": "2022-08-07T23:15:16.048000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "なんか逆にとても辛そうです！興味はあります。",
+            "timestamp": "2022-08-07T23:15:33.671000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "結構辛そうでしたね。辛いものはお得意ですか？",
+            "timestamp": "2022-08-07T23:16:02.685000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "シビレは得意ですがピリ！っとするものはそんなに強くないです！",
+            "timestamp": "2022-08-07T23:16:27.543000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "私はあまり辛いものが得意ではないので、中辛の素で作ったりします。",
+            "timestamp": "2022-08-07T23:17:06.319000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "そのくらいがお家ではちょうどいいかもですね！",
+            "timestamp": "2022-08-07T23:17:21.019000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "なんだかお腹がすいてきました。",
+            "timestamp": "2022-08-07T23:17:31.276000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

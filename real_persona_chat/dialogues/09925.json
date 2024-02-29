@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9925,
+    "interlocutors": [
+        "BQ",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-10T06:38:52.668000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-10T06:39:00.577000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "最近嬉しかったことってありますか？",
+            "timestamp": "2022-08-10T06:39:40.016000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "えー今思いつかない。なにかありますか？",
+            "timestamp": "2022-08-10T06:39:44.991000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "メロンをまるごと1個もらったことですかね。",
+            "timestamp": "2022-08-10T06:40:19.665000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "わー！いいですね。",
+            "timestamp": "2022-08-10T06:40:31.288000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "丸ごとは初めてなので、嬉しいです。",
+            "timestamp": "2022-08-10T06:40:54.146000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "果物はメロンがお好きですか？",
+            "timestamp": "2022-08-10T06:41:10.043000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "実は嫌いではないですが、そんなに食べないですね。",
+            "timestamp": "2022-08-10T06:41:38.299000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "何が好きですか？",
+            "timestamp": "2022-08-10T06:41:51.757000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "私はリンゴが好きです。硬くて甘いやつが特に。",
+            "timestamp": "2022-08-10T06:42:29.951000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "そうなんですね。リンゴ年中食べられるのでいいですよね。",
+            "timestamp": "2022-08-10T06:42:52.840000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "ですね。リンゴジュースとかも好きです。",
+            "timestamp": "2022-08-10T06:43:11.429000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "酸っぱいリンゴジュースもお好きですか？",
+            "timestamp": "2022-08-10T06:43:30.509000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "それはあんまり飲んだことがないです。お好きですか？",
+            "timestamp": "2022-08-10T06:43:49.334000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "私酸っぱいのが好きなんです。",
+            "timestamp": "2022-08-10T06:44:00.839000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。他に好きな果物はありますか？",
+            "timestamp": "2022-08-10T06:44:25.805000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "梨とか桃とか水分多めのが好きです！！",
+            "timestamp": "2022-08-10T06:44:42.100000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "どちらも美味しいですよね。果物全般硬めの方が好きです。",
+            "timestamp": "2022-08-10T06:45:06.786000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "とろっとしているものより硬めなんですね。",
+            "timestamp": "2022-08-10T06:45:21.890000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "熟しすぎているものは苦手ですね。",
+            "timestamp": "2022-08-10T06:45:39.723000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "食べごろって難しいですよね。",
+            "timestamp": "2022-08-10T06:45:51.660000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "冷蔵庫とかに入れててもすぐ傷んでしまうものもありますよね。",
+            "timestamp": "2022-08-10T06:46:15.199000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "そうなんですよね。あんまり大事にとっておくと食べごろ逃してしまったりしますよね。",
+            "timestamp": "2022-08-10T06:46:45.809000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "そうですよね。上手に食べられるといいんですけどね。",
+            "timestamp": "2022-08-10T06:47:12.488000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "これから秋の果物も楽しみな季節になりますね。",
+            "timestamp": "2022-08-10T06:47:28.003000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "ですね。ブドウも美味しくなりますね。",
+            "timestamp": "2022-08-10T06:47:50.651000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "いいですねー！ブドウも大好きです。",
+            "timestamp": "2022-08-10T06:48:03.915000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "皮ごと食べられるのが楽で好きです。",
+            "timestamp": "2022-08-10T06:48:18.331000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "楽さも大事ですね。ありがとうございました。",
+            "timestamp": "2022-08-10T06:48:32.798000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

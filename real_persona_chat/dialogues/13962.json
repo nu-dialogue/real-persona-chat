@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13962,
+    "interlocutors": [
+        "HQ",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-02T22:49:43.524000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-10-02T22:49:49.051000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "最近食べたおいしいものは何かありますか？",
+            "timestamp": "2022-10-02T22:50:03.242000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "おいしいものかぁ、チーズケーキを食べました",
+            "timestamp": "2022-10-02T22:50:27.736000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "どんなチーズケーキですか？",
+            "timestamp": "2022-10-02T22:50:44.709000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "普通のベイクドチーズケーキなんですけど、みちみちでおいしかったです",
+            "timestamp": "2022-10-02T22:51:02.844000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "有名店のものなんですか？",
+            "timestamp": "2022-10-02T22:51:17.562000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "もらいものなのであんまり詳しくはわからないんですけど、有名店のものみたいです",
+            "timestamp": "2022-10-02T22:51:35.740000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "ケーキもらえるっていいですね",
+            "timestamp": "2022-10-02T22:51:47.165000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "お土産でいただいちゃいました",
+            "timestamp": "2022-10-02T22:52:04.474000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "あ、りくろーおじさんですか？",
+            "timestamp": "2022-10-02T22:52:36.216000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "ではないんですよー。もっとローカルなお店みたいです",
+            "timestamp": "2022-10-02T22:52:51.055000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "おっと違いましたか",
+            "timestamp": "2022-10-02T22:53:02.844000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "りくろーおじさんのチーズケーキ食べたことありますか？",
+            "timestamp": "2022-10-02T22:53:15.577000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "ないんですよね、食べてみたいんですけど",
+            "timestamp": "2022-10-02T22:53:29.393000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "私もないです。お取り寄せできるみたいなのでちょっと悩んでます",
+            "timestamp": "2022-10-02T22:54:24.240000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "あれってどこのお土産で有名なんでしたっけ",
+            "timestamp": "2022-10-02T22:54:55.125000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "大阪だった気がしますね",
+            "timestamp": "2022-10-02T22:55:06.024000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "大阪かー、なかなか行かないなぁ",
+            "timestamp": "2022-10-02T22:55:20.846000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "大阪っておいしいものいっぱあるし、お土産悩みそうですよね",
+            "timestamp": "2022-10-02T22:55:38.644000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "大量になりそうですね",
+            "timestamp": "2022-10-02T22:55:47.022000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "チーズケーキは持って帰るうちにつぶれちゃいそうだし",
+            "timestamp": "2022-10-02T22:56:14.046000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "あーそうですね。ずっと手持ちじゃないとつぶれそう。",
+            "timestamp": "2022-10-02T22:56:34.268000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "現地に行って食べるかお取り寄せが現実的ですね",
+            "timestamp": "2022-10-02T22:56:57.971000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "そうですね。大阪で食べ歩きしたいなぁ",
+            "timestamp": "2022-10-02T22:57:13.873000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "大阪には行ったことあるんですか？",
+            "timestamp": "2022-10-02T22:57:22.985000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "小さい頃に一度行ったきりですね",
+            "timestamp": "2022-10-02T22:57:33.386000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね",
+            "timestamp": "2022-10-02T22:57:41.805000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "次の旅行先は大阪にしようかな",
+            "timestamp": "2022-10-02T22:57:52.758000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "いいと思います！",
+            "timestamp": "2022-10-02T22:57:58.301000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

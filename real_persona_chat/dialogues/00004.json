@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4,
+    "interlocutors": [
+        "AB",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "どうもです！",
+            "timestamp": "2022-08-06T15:17:10.526000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-06T15:17:11.857000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "趣味とかありますか？",
+            "timestamp": "2022-08-06T15:17:25.730000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "趣味は旅行です！",
+            "timestamp": "2022-08-06T15:17:31.263000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "いいですね！国内、海外？",
+            "timestamp": "2022-08-06T15:17:43.048000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "今は国内ですね！",
+            "timestamp": "2022-08-06T15:17:48.110000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "コロナ前はよく海外に行ってましたか？",
+            "timestamp": "2022-08-06T15:18:02.300000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "そうですね、ちょいちょい言ってました！",
+            "timestamp": "2022-08-06T15:18:11.524000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "どこに行かれたことがありますか？",
+            "timestamp": "2022-08-06T15:18:24.351000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "ヨーロッパ特に行ってましたね！",
+            "timestamp": "2022-08-06T15:18:35.786000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "いいなー！私は、イギリスとフランスだけ行ったことあります。",
+            "timestamp": "2022-08-06T15:18:51.720000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "どうしてその2か国を？",
+            "timestamp": "2022-08-06T15:19:17.079000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "夫がイギリス駐在してたので、会いに行きました。結婚前です。",
+            "timestamp": "2022-08-06T15:19:38.675000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "遠距離恋愛ですね！すごい聞きたいです！",
+            "timestamp": "2022-08-06T15:19:54.222000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "だいぶ小まめに連絡取ってました。",
+            "timestamp": "2022-08-06T15:20:14.659000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "それだと結構、不安とかなかった感じですか？",
+            "timestamp": "2022-08-06T15:20:29.229000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "別にその時はなかったですね。盛り上がってたので、はは。",
+            "timestamp": "2022-08-06T15:20:57.095000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "甘酸っぱくていいですね！幸せのおすそ分けされちゃいました",
+            "timestamp": "2022-08-06T15:21:17.142000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "お恥ずかしい。あなたはヨーロッパのどこに行かれたんですか？",
+            "timestamp": "2022-08-06T15:21:37.433000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "私はイタリアとかに行ってました。なんていうかすごく心惹かれて",
+            "timestamp": "2022-08-06T15:21:57.339000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "イタリアでは食事美味しかったですか？",
+            "timestamp": "2022-08-06T15:22:17.362000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "おいしかったです、ただ思ったのは現地の人が好む味だなって感じです。日本みたく沢山グザイを入れるんじゃくてシンプルでした",
+            "timestamp": "2022-08-06T15:22:54.214000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。イギリスも家庭料理はあんまりおいしくないみたいです。",
+            "timestamp": "2022-08-06T15:23:17.197000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "イギリス料理はあまりおいしくないって聞きます",
+            "timestamp": "2022-08-06T15:23:33.478000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "なんか家庭料理はおいしくないみたいですね。お店の料理はどこも美味しかったですよ。",
+            "timestamp": "2022-08-06T15:23:59.355000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "正直ですね！イギリスはまだ行ったことなくて",
+            "timestamp": "2022-08-06T15:24:09.593000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "ヨーロッパは観光地が魅力的ですからね！コロナ落ち着いたらどこか行きたいです。",
+            "timestamp": "2022-08-06T15:24:35.142000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "分かります。コロナが落ち着いたらって思って今バイトとかいろいろしてます。",
+            "timestamp": "2022-08-06T15:24:53.339000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "いいですね！今まで我慢した分、発散しましょう！",
+            "timestamp": "2022-08-06T15:25:18.538000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "ですね！ありがとうございました！",
+            "timestamp": "2022-08-06T15:25:25.269000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

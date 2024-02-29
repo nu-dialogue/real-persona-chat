@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5565,
+    "interlocutors": [
+        "GI",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-26T10:01:29.116000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-26T10:01:32.434000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "趣味とかありますか？",
+            "timestamp": "2022-09-26T10:01:36.498000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "競馬です！",
+            "timestamp": "2022-09-26T10:01:40.832000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "競馬ですか！好きな馬とかは？",
+            "timestamp": "2022-09-26T10:01:54.288000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "タイトルホルダーっていう馬が好きです！",
+            "timestamp": "2022-09-26T10:02:07.693000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "聞いたことがあるようなないような。",
+            "timestamp": "2022-09-26T10:02:22.489000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "来週パリの凱旋門賞に出走します。",
+            "timestamp": "2022-09-26T10:02:39.780000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "パリなんですか！",
+            "timestamp": "2022-09-26T10:02:47.828000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "はい！世界一の大会です！",
+            "timestamp": "2022-09-26T10:02:58.411000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "それってかけられるんですか？",
+            "timestamp": "2022-09-26T10:03:06.868000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "できます！",
+            "timestamp": "2022-09-26T10:03:16.924000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "えー。かける予定ですか？",
+            "timestamp": "2022-09-26T10:03:25.844000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "悩み中です。",
+            "timestamp": "2022-09-26T10:03:35.798000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "あはは。楽しそうですね。",
+            "timestamp": "2022-09-26T10:03:44.721000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "日本以外の馬に賭けて日本の馬が1着になったら悲しいなとも思うのですが。",
+            "timestamp": "2022-09-26T10:04:18.091000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "確かに！今までの収支どれくらいなんですか？",
+            "timestamp": "2022-09-26T10:04:42.646000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "生涯収支はマイナスですね。",
+            "timestamp": "2022-09-26T10:04:50.036000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね！これからですか。",
+            "timestamp": "2022-09-26T10:05:02.600000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "昨日は普通に３千円負けました。",
+            "timestamp": "2022-09-26T10:05:58.952000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "あはは。昨日もかけてたんですね。",
+            "timestamp": "2022-09-26T10:05:32.512000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "軸にしていた馬が全然ダメで。",
+            "timestamp": "2022-09-26T10:05:37.584000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。今までの最大倍率はどれくらいでした？",
+            "timestamp": "2022-09-26T10:05:54.320000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "最大でも２０倍ですね。",
+            "timestamp": "2022-09-26T10:06:08.704000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。堅実派なんですか？",
+            "timestamp": "2022-09-26T10:06:18.902000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "ビビリです。",
+            "timestamp": "2022-09-26T10:06:25.350000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "あはは。賢いかけ方ですね。",
+            "timestamp": "2022-09-26T10:06:35.494000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "その割にはマイナスというね。",
+            "timestamp": "2022-09-26T10:06:47.990000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "ギャンブルして一山当てましょ。",
+            "timestamp": "2022-09-26T10:07:02.686000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "頑張ります！",
+            "timestamp": "2022-09-26T10:07:06.430000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

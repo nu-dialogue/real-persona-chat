@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4242,
+    "interlocutors": [
+        "DE",
+        "CU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DE",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-09T19:15:13.504000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CU",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-09T19:15:20.593000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DE",
+            "text": "最近楽しかったことはありますか？",
+            "timestamp": "2022-09-09T19:15:48.982000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CU",
+            "text": "うーん、あんまりないですねー。ははは。",
+            "timestamp": "2022-09-09T19:16:14.837000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DE",
+            "text": "ご家族は何人いらっしゃいますか？",
+            "timestamp": "2022-09-09T19:16:40.555000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CU",
+            "text": "夫婦と子ども１人と犬の４人です。",
+            "timestamp": "2022-09-09T19:17:02.479000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DE",
+            "text": "お子さんは小さいですか？？",
+            "timestamp": "2022-09-09T19:17:16.376000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CU",
+            "text": "いいえ、中３の反抗期真っ只中息子です。",
+            "timestamp": "2022-09-09T19:17:34.155000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DE",
+            "text": "反抗期の息子さんとどんな会話をされるんですか？",
+            "timestamp": "2022-09-09T19:17:57.625000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CU",
+            "text": "基本的には会話は成り立ちません！",
+            "timestamp": "2022-09-09T19:18:16.026000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DE",
+            "text": "私も反抗期の頃、父と会話しなかったのを思い出しました。",
+            "timestamp": "2022-09-09T19:18:46.494000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CU",
+            "text": "たしかに、なんか親ってうっとうしい存在でしたよねー",
+            "timestamp": "2022-09-09T19:19:07.205000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DE",
+            "text": "ほんとに。でもいつのまに親が大事に思えるようになってきました。",
+            "timestamp": "2022-09-09T19:19:34.689000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CU",
+            "text": "わかります。高齢になって心配なことも多くなってきました。",
+            "timestamp": "2022-09-09T19:20:01"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DE",
+            "text": "ですよね。うちは母がひとり実家で住んでいるので心配が絶えません。",
+            "timestamp": "2022-09-09T19:20:28.963000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CU",
+            "text": "それは心配ですね。おいくつくらいですか？",
+            "timestamp": "2022-09-09T19:20:44.152000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DE",
+            "text": "76くらいだったと思います。",
+            "timestamp": "2022-09-09T19:21:10.939000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CU",
+            "text": "私の親も同じくらいです。ずっと元気だと勝手に思い込んでいました。",
+            "timestamp": "2022-09-09T19:21:44.312000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DE",
+            "text": "そうなんですよね。70で古希、生きるのが稀だという年齢だそうですね。最近は高齢化で皆さん元気ですが。",
+            "timestamp": "2022-09-09T19:22:26.041000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CU",
+            "text": "そうですね。どんなことがご心配ですか？",
+            "timestamp": "2022-09-09T19:23:20.491000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DE",
+            "text": "しょっちゅうケガをしたり、ケガの結果で別のところを悪くしたり。心配が絶えません。",
+            "timestamp": "2022-09-09T19:23:56.040000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CU",
+            "text": "それは大変ですね。私たちにとっては大したことないことでもケガをしたりしますよね。",
+            "timestamp": "2022-09-09T19:24:34.540000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DE",
+            "text": "自分の体力を過信しているところがあるようです。運転もしているのでさらに心配です。",
+            "timestamp": "2022-09-09T19:25:10.746000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CU",
+            "text": "私の母も運転が心配ですね。今、高齢者の事故も多いですしね。",
+            "timestamp": "2022-09-09T19:25:51.436000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DE",
+            "text": "本当に。免許証を返納したら不便になるのもかわいそうですよね。",
+            "timestamp": "2022-09-09T19:26:38.806000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CU",
+            "text": "そうですね。父はもっと運転が危うかったので、禁止しましたが。",
+            "timestamp": "2022-09-09T19:27:24.342000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DE",
+            "text": "禁止して分かったとなってくれればいいのですが、うちの母は聞いてくれそうにありません。",
+            "timestamp": "2022-09-09T19:27:51.317000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CU",
+            "text": "そうなんですね。もっと行政サービスが発展して、移動が楽になればいいですね。",
+            "timestamp": "2022-09-09T19:28:35.537000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DE",
+            "text": "ほんとです。バスも少ない地域なのでもっと交通手段が便利になるといいと思いました。",
+            "timestamp": "2022-09-09T19:29:11.282000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CU",
+            "text": "そう願います。",
+            "timestamp": "2022-09-09T19:29:30.163000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

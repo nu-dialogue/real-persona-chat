@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 365,
+    "interlocutors": [
+        "BB",
+        "BC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-15T20:41:18.344000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BC",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-15T20:41:23.810000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "今日も暑かったですね。最近暑すぎて、肌の調子が悪い気がします。",
+            "timestamp": "2022-08-15T20:41:39.972000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BC",
+            "text": "暑かったですね、もうエアコンの乾燥と、紫外線と汗と、お肌が混乱しちゃいます",
+            "timestamp": "2022-08-15T20:42:12.122000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "しかもマスクも付けてるから、肌がすぐ疲れちゃいますよね。",
+            "timestamp": "2022-08-15T20:42:30.983000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BC",
+            "text": "ほんとにそれ！マスクも付けたり外したり。なにか対策ってしてますか？",
+            "timestamp": "2022-08-15T20:42:58.834000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "とにかくこまめに日焼け止めぬって、夜はできるだけ毎日パックをしてます。",
+            "timestamp": "2022-08-15T20:43:21.811000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BC",
+            "text": "日焼け止め大事ですよね。でもいろいろありすぎて、何がいいのかわからなくて。日焼け止めジプシーです",
+            "timestamp": "2022-08-15T20:43:56.403000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "どんなタイプの日焼け止めがお好きですか？",
+            "timestamp": "2022-08-15T20:44:10.773000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BC",
+            "text": "割とさらっとしてて、ちょっとトーンアップしたら最高です",
+            "timestamp": "2022-08-15T20:44:37.957000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "まさに理想の日焼け止めですね。私はなんだかんだ、ビオレに定着して、もう10年ぐらい使ってます。",
+            "timestamp": "2022-08-15T20:45:01.077000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BC",
+            "text": "ビオレも色々種類ありますよね！どんなタイプのやつですか？",
+            "timestamp": "2022-08-15T20:45:32.574000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "顔はピンクの顔専用のもので、体はジェルタイプのさらっとしたものを使ってます！",
+            "timestamp": "2022-08-15T20:46:06.327000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BC",
+            "text": "体用使ってるのおんなじかもです！ジェルタイプは塗りごこちいいですよね！",
+            "timestamp": "2022-08-15T20:46:43.406000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "ジェルタイプはよく伸びるので、足とかにもぬりやすいですよね！",
+            "timestamp": "2022-08-15T20:47:00.356000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BC",
+            "text": "ですね、首とか塗って、髪の毛にちょっとついてぱさぱさする感じが苦手で",
+            "timestamp": "2022-08-15T20:47:42.664000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "ちょっと経つと乾いてくる感じですね。分かります！",
+            "timestamp": "2022-08-15T20:47:59.380000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BC",
+            "text": "それですっ。最近の日焼け止めはさらっとしてて、パサパサ感あんまりなくて優秀ですね",
+            "timestamp": "2022-08-15T20:48:58.921000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "ベタベタしないのはいいですが、違うところについた時が問題ですよね。",
+            "timestamp": "2022-08-15T20:49:33.669000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BC",
+            "text": "そうなんですよね。私はよく服に染みを作ります",
+            "timestamp": "2022-08-15T20:50:01.718000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "私もです！気づけば汗をかいて、首の後ろとか特にシミができやすいです。",
+            "timestamp": "2022-08-15T20:50:26.497000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BC",
+            "text": "超わかります！夏は汗かくのも本当になんとかしたいです",
+            "timestamp": "2022-08-15T20:50:55.570000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "なので、最近は首だけスティックタイプの日焼け止めを試してます。透明の。",
+            "timestamp": "2022-08-15T20:51:15.226000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BC",
+            "text": "え！そんなのあるんですか？",
+            "timestamp": "2022-08-15T20:51:28.550000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "海外製なので、メーカーとかは詳しくありませんが、ちょっと保湿スティックに似た感じのものがあったんです！",
+            "timestamp": "2022-08-15T20:51:55.965000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BC",
+            "text": "繰り出しタイプみたいなやつですか？",
+            "timestamp": "2022-08-15T20:52:38.334000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "そんな感じですね！",
+            "timestamp": "2022-08-15T20:52:41.763000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BC",
+            "text": "すごく気になります、調べてみます！",
+            "timestamp": "2022-08-15T20:52:53.479000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "楽天でsunstickと調べると、何種類か出てくると思います！",
+            "timestamp": "2022-08-15T20:53:18.369000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BC",
+            "text": "おおおありがとうございます！良い情報聞いちゃった",
+            "timestamp": "2022-08-15T20:53:31.145000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

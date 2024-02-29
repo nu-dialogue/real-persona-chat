@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5840,
+    "interlocutors": [
+        "AD",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T20:01:17.479000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T20:01:25.086000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日一日何をしていましたか？",
+            "timestamp": "2022-10-06T20:01:27.989000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "仕事です",
+            "timestamp": "2022-10-06T20:01:33.070000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "お仕事お疲れ様です。電車通勤ですか？",
+            "timestamp": "2022-10-06T20:01:42.239000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "ありがとうございます。電車通勤です。",
+            "timestamp": "2022-10-06T20:01:54.202000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "電車通勤大変そうです。人が多そうで",
+            "timestamp": "2022-10-06T20:02:14.431000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "疲れますね。私の乗る時間帯は満員ではないですが、座れないです",
+            "timestamp": "2022-10-06T20:02:42.210000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "乗っている時間は長いんですか？",
+            "timestamp": "2022-10-06T20:02:49.832000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "トータルで40分くらいだと思います。乗換が面倒ですね",
+            "timestamp": "2022-10-06T20:03:12.687000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "乗換もあるんですか。それは大変ですね。",
+            "timestamp": "2022-10-06T20:03:36.384000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "そうなんです。乗換さえなければ楽なんですけどね",
+            "timestamp": "2022-10-06T20:03:56.823000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "さらに座れるなら本当に楽できますね。",
+            "timestamp": "2022-10-06T20:04:16.813000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "そうですね。たまに座れることがありますが、夏は人のあとは座りません。",
+            "timestamp": "2022-10-06T20:04:51.485000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "なぜですか？",
+            "timestamp": "2022-10-06T20:04:55.864000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "温もりが残ってて暑くて気持ち悪いです。",
+            "timestamp": "2022-10-06T20:05:13.677000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "なるほど、言われてみれば確かに。逆に冬は気にならないですか？",
+            "timestamp": "2022-10-06T20:05:26.911000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "冬は暖かくて逆に気持ちいいかも",
+            "timestamp": "2022-10-06T20:05:40.678000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "人のぬくもりがないと冷たそうですもんね",
+            "timestamp": "2022-10-06T20:05:55.919000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "ですね。夏でも誰も座っていなければひんやりして気持ちいいです",
+            "timestamp": "2022-10-06T20:06:19.522000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "結構気にされているんですね。人がいるかいないか。",
+            "timestamp": "2022-10-06T20:06:31.772000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "気にしますね。",
+            "timestamp": "2022-10-06T20:06:48.726000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "そういえば、電車で人が多いとコロナとか気になりませんか？",
+            "timestamp": "2022-10-06T20:07:00.351000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "なります。咳をしている人がいたら極力避けるようにしています",
+            "timestamp": "2022-10-06T20:07:27.551000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "喘息の人とかいたとしても、見分けつかないですしね。",
+            "timestamp": "2022-10-06T20:07:41.956000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "そうですね。喘息の人はかわいそうですよね",
+            "timestamp": "2022-10-06T20:07:58.334000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "コロナ関係ないのに咳が出てしまう人は可哀相ですが、わからないので避けたいですよね",
+            "timestamp": "2022-10-06T20:08:20.701000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "今は簡単に人前で咳やくしゃみはできないですよね",
+            "timestamp": "2022-10-06T20:08:28.378000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "できないですね。花粉の時期も鼻すすってると申し訳ない気になります。",
+            "timestamp": "2022-10-06T20:08:45.490000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "そうですね",
+            "timestamp": "2022-10-06T20:08:57.401000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

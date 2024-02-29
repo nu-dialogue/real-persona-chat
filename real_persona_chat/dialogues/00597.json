@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 597,
+    "interlocutors": [
+        "AY",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AY",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-14T20:54:47.871000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-14T20:54:54.346000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AY",
+            "text": "ラーメンとかって食べますか？",
+            "timestamp": "2022-08-14T20:55:05.912000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "ラーメンは好きですけど、頻繁には食べないようにしています。",
+            "timestamp": "2022-08-14T20:55:23.537000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AY",
+            "text": "どうしてですか？",
+            "timestamp": "2022-08-14T20:55:34.560000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "ちょっと重たくて、食べるだけ太る気がするからですかね。",
+            "timestamp": "2022-08-14T20:55:47.915000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AY",
+            "text": "おお！なるほど！",
+            "timestamp": "2022-08-14T20:56:00.351000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "1ヵ月に2回程度の頻度で食べてる気がします。",
+            "timestamp": "2022-08-14T20:56:16.951000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AY",
+            "text": "そうなんですね。私も頻度はおなじくらいかもしれません。",
+            "timestamp": "2022-08-14T20:56:38.832000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "久々に食べるとよりおいしいんですよね。<AY>さんはよく食べますか？",
+            "timestamp": "2022-08-14T20:56:56.385000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AY",
+            "text": "1か月に2度ほどです！",
+            "timestamp": "2022-08-14T20:57:15.238000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "ごめんなさい、読み落としてました。何系ラーメンが好きとかありますか？",
+            "timestamp": "2022-08-14T20:57:33.318000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AY",
+            "text": "いいえ！うちの近くの味噌ラーメンが絶品なんですよ。",
+            "timestamp": "2022-08-14T20:58:15.503000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "味噌ラーメン！北海道風ですか？",
+            "timestamp": "2022-08-14T20:58:27.954000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AY",
+            "text": "どこのなんだろ。自家製の味噌ですっごくコクがあるんです。",
+            "timestamp": "2022-08-14T20:59:04.738000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "聞いただけでよだれが出てきそうですね。たまごものってますか？",
+            "timestamp": "2022-08-14T20:59:31.013000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AY",
+            "text": "はい！そこのすごいのはチャーシューですね！",
+            "timestamp": "2022-08-14T20:59:46.597000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "味噌ラーメンにはチャーシューがよく合いますもんね！",
+            "timestamp": "2022-08-14T21:00:00.997000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AY",
+            "text": "そうそう。トロトロの厚切りのチャーシューがたまんないです。",
+            "timestamp": "2022-08-14T21:00:21.499000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "一度食べてみたいな。うちの近くには醤油ラーメンの専門店があって、鶏チャーシューで美味しいです。",
+            "timestamp": "2022-08-14T21:00:55.433000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AY",
+            "text": "さっぱり系ですかね？",
+            "timestamp": "2022-08-14T21:01:12.119000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "さっぱり系ですね。また夏限定のまぜそばも美味しいです。",
+            "timestamp": "2022-08-14T21:01:43.555000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AY",
+            "text": "おお！でも鶏チャーシューってめずらしいですよね？",
+            "timestamp": "2022-08-14T21:02:10.381000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "ちょっと珍しいかもです。他ではあまり見ませんよね？",
+            "timestamp": "2022-08-14T21:02:26.240000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AY",
+            "text": "お味はどうですか？",
+            "timestamp": "2022-08-14T21:02:36.040000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "何種類か醤油をブレンドしてるみたいで、あっさりですがこくがある味です！",
+            "timestamp": "2022-08-14T21:03:05.251000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AY",
+            "text": "しょうゆラーメンも大好きなんですよ！最高ですよね？",
+            "timestamp": "2022-08-14T21:03:33.596000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "私も結局ラーメンは醤油が一番な気がします。あきが来ないですしね。",
+            "timestamp": "2022-08-14T21:03:54.043000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AY",
+            "text": "わかる。確かにしょうゆラーメンはあきないです。",
+            "timestamp": "2022-08-14T21:04:19.503000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "美味しいラーメンが食べたくなってきました。",
+            "timestamp": "2022-08-14T21:04:29.959000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13979,
+    "interlocutors": [
+        "GR",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T22:59:34.406000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T22:59:38.217000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "もう夜ですね。",
+            "timestamp": "2022-10-01T22:59:56.087000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "もう少しで日付変わりますね",
+            "timestamp": "2022-10-01T23:00:06.017000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "あっという間に一日が終わりました",
+            "timestamp": "2022-10-01T23:00:15.771000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "明日は何する予定ですか？",
+            "timestamp": "2022-10-01T23:00:28.745000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "明日も家にいる予定です",
+            "timestamp": "2022-10-01T23:00:42.565000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "出かけないんですか？",
+            "timestamp": "2022-10-01T23:00:51.399000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "スーパーに行くかどうかってくらいですね",
+            "timestamp": "2022-10-01T23:01:07.102000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "何買うんですか？",
+            "timestamp": "2022-10-01T23:09:04.499000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "牛乳とかたまごとか、食料ですね",
+            "timestamp": "2022-10-01T23:09:31.358000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "なるほど。",
+            "timestamp": "2022-10-01T23:09:51.361000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "<FU>さんは何をする予定ですか？",
+            "timestamp": "2022-10-01T23:10:05.279000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "僕は明日もダラダラ過ごす予定です",
+            "timestamp": "2022-10-01T23:10:23.247000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "休日は休む日ですからね、それが正解です。",
+            "timestamp": "2022-10-01T23:10:44.740000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "はい。じっかりダラダラします。",
+            "timestamp": "2022-10-01T23:11:08.910000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "そういえばワンピースが無料で読めるらしいので、明日はワンピースを読もうかな",
+            "timestamp": "2022-10-01T23:11:29.706000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "無料なんですか？",
+            "timestamp": "2022-10-01T23:11:41.872000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "そうみたいですよ。90巻分だったかな？",
+            "timestamp": "2022-10-01T23:12:00.033000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "ワンピースってそんなにあるんですね",
+            "timestamp": "2022-10-01T23:12:10.619000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "読むの大変そうですよね",
+            "timestamp": "2022-10-01T23:12:22.858000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "途中でしんどくなりそうです",
+            "timestamp": "2022-10-01T23:12:33.562000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "しんどくなるか、とまらなくて徹夜するはめになるかどっちかですね",
+            "timestamp": "2022-10-01T23:12:57.869000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "とまらなくなるほど夢中になる漫画ありました？",
+            "timestamp": "2022-10-01T23:13:21.548000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "最近だとランウェイで笑ってっていう漫画は止まらなくなりました",
+            "timestamp": "2022-10-01T23:13:41.345000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "僕は割と途中でやめられちゃうので、夢中になれるの羨ましいです",
+            "timestamp": "2022-10-01T23:14:07.235000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "自制できてていいじゃないですか",
+            "timestamp": "2022-10-01T23:14:22.392000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "でも夢中になってみたいです",
+            "timestamp": "2022-10-01T23:14:32.200000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "たまにはね、必要かもしれないですけど",
+            "timestamp": "2022-10-01T23:14:45.732000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "そうですよ、大事大事",
+            "timestamp": "2022-10-01T23:14:56.399000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

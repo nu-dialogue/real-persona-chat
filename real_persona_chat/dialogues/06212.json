@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6212,
+    "interlocutors": [
+        "GW",
+        "HN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GW",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-03T21:55:51.054000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HN",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-03T21:55:54.096000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GW",
+            "text": "おなかすきました",
+            "timestamp": "2022-10-03T21:56:11.944000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HN",
+            "text": "パン買いましょう",
+            "timestamp": "2022-10-03T21:56:22.750000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GW",
+            "text": "コンビニかな",
+            "timestamp": "2022-10-03T21:56:27.153000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HN",
+            "text": "だめです",
+            "timestamp": "2022-10-03T21:56:31.531000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GW",
+            "text": "だめですか",
+            "timestamp": "2022-10-03T21:56:35.474000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HN",
+            "text": "絶対だめ。",
+            "timestamp": "2022-10-03T21:56:39.352000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GW",
+            "text": "パン屋ですか？",
+            "timestamp": "2022-10-03T21:56:42.642000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HN",
+            "text": "パン屋限定です",
+            "timestamp": "2022-10-03T21:56:48.161000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GW",
+            "text": "きびしいなあ",
+            "timestamp": "2022-10-03T21:56:53.283000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HN",
+            "text": "いってほしいので",
+            "timestamp": "2022-10-03T21:56:58.803000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GW",
+            "text": "明日行きますよ",
+            "timestamp": "2022-10-03T21:57:04.278000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HN",
+            "text": "いいましたな？",
+            "timestamp": "2022-10-03T21:57:09.311000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GW",
+            "text": "約束です。",
+            "timestamp": "2022-10-03T21:57:14.973000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HN",
+            "text": "ええ、約束",
+            "timestamp": "2022-10-03T21:57:19.851000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GW",
+            "text": "ゆびきりげんまん",
+            "timestamp": "2022-10-03T21:57:24.254000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HN",
+            "text": "ゆびきった",
+            "timestamp": "2022-10-03T21:57:28.359000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GW",
+            "text": "いくしかないなあ",
+            "timestamp": "2022-10-03T21:57:32.269000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HN",
+            "text": "いってください",
+            "timestamp": "2022-10-03T21:57:39.718000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GW",
+            "text": "ぱんやさがします",
+            "timestamp": "2022-10-03T21:57:46.951000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HN",
+            "text": "お気に入りは？",
+            "timestamp": "2022-10-03T21:57:50.346000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GW",
+            "text": "ないです",
+            "timestamp": "2022-10-03T21:57:54.093000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HN",
+            "text": "つくりましょ",
+            "timestamp": "2022-10-03T21:57:57.552000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GW",
+            "text": "そんなないきが",
+            "timestamp": "2022-10-03T21:58:01.237000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HN",
+            "text": "案外ありますよ",
+            "timestamp": "2022-10-03T21:58:06.520000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GW",
+            "text": "さがしてみよ",
+            "timestamp": "2022-10-03T21:58:12.825000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HN",
+            "text": "はやく！",
+            "timestamp": "2022-10-03T21:58:16.149000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GW",
+            "text": "おちついて",
+            "timestamp": "2022-10-03T21:58:19.557000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HN",
+            "text": "おちつきます",
+            "timestamp": "2022-10-03T21:58:23.524000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

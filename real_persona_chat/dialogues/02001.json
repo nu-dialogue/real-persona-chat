@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2001,
+    "interlocutors": [
+        "CF",
+        "ED"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-22T06:09:58.004000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ED",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-22T06:10:04.733000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "突然ですがたまごサンドといったらどんなものが浮かびますか？",
+            "timestamp": "2022-08-22T06:11:06.950000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ED",
+            "text": "たまごサンド、喫茶店で食べる感じの、厚焼きが挟まってるやつですかね？",
+            "timestamp": "2022-08-22T06:11:37.571000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "おお！厚焼きのほうですか！私ゆでたまごをマヨネーズであえた方なんですよ！",
+            "timestamp": "2022-08-22T06:12:13.684000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ED",
+            "text": "あ、それも知ってます！どっちも好きです！",
+            "timestamp": "2022-08-22T06:12:31.964000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "どっちもおいしいですよね！初めて厚焼きの方を食べたとき衝撃的でした。",
+            "timestamp": "2022-08-22T06:12:54.810000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ED",
+            "text": "あれは感動しますよね！私、たまごサンドとコーヒーの組み合わせが無性に好きなんです。",
+            "timestamp": "2022-08-22T06:13:41.180000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "それは良いですね！コーヒーはよく飲まれますか？",
+            "timestamp": "2022-08-22T06:14:10.965000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ED",
+            "text": "飲みますねー。カフェイン中毒かってくらい飲んじゃいます。",
+            "timestamp": "2022-08-22T06:14:35.344000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "私もよく飲むんです。今も飲んでます。",
+            "timestamp": "2022-08-22T06:14:56.968000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ED",
+            "text": "私もです。朝は必ず飲みたくなりますよね。",
+            "timestamp": "2022-08-22T06:15:15.305000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "夏場は水出しコーヒーを作ってますがすぐなくなってしまいます。",
+            "timestamp": "2022-08-22T06:15:44.452000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ED",
+            "text": "水出しコーヒーやったことないんですが、うまく抽出できますか？",
+            "timestamp": "2022-08-22T06:16:06.223000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "寝る前に漬け込んでおいて朝飲める感じですね。結構出来ています。",
+            "timestamp": "2022-08-22T06:16:36.963000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ED",
+            "text": "それは便利ですね！アイスコーヒーで飲む感じですか？",
+            "timestamp": "2022-08-22T06:16:58.525000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "カフェオレにすることが多いですね！水出しコーヒーだとさっぱりした感じです。",
+            "timestamp": "2022-08-22T06:17:36.286000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ED",
+            "text": "なるほどです！寝ている間にできているのはすごく魅力的ですね。",
+            "timestamp": "2022-08-22T06:17:58.546000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "そうですね！水出しコーヒーと麦茶を作ってその日の家事終了という感じです。",
+            "timestamp": "2022-08-22T06:18:35.465000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ED",
+            "text": "夏はどちらも必須ですよね。我が家もその二種類は冷蔵庫に必須です。",
+            "timestamp": "2022-08-22T06:19:08.487000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "特に今年は暑かったので消費が激しかったです。",
+            "timestamp": "2022-08-22T06:19:34.108000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ED",
+            "text": "夏に麦茶を飲むのって理にかなってるなと今年改めて感じました。ミネラルが取れるというか。",
+            "timestamp": "2022-08-22T06:20:06.118000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "なるほど。どういったところで改めて感じましたか？",
+            "timestamp": "2022-08-22T06:20:40.325000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ED",
+            "text": "喉が渇いたとき、水を飲むのと麦茶では違うというか。麦茶の方がなんかスッとしたんですよね。",
+            "timestamp": "2022-08-22T06:21:41.082000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "なるほど！言われてみるとそうかもしれません。",
+            "timestamp": "2022-08-22T06:21:58.952000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ED",
+            "text": "汗と共に抜けてるミネラルとか色々なものが、補給できそうな気がしました。",
+            "timestamp": "2022-08-22T06:22:55.266000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "お茶って緑茶とか色々ありますけど麦茶ってそう考えるとすごいですね。",
+            "timestamp": "2022-08-22T06:23:20.507000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ED",
+            "text": "ほんとにそうですよね。外でも、この夏は麦茶のペットボトルをよく買いました。",
+            "timestamp": "2022-08-22T06:25:07.057000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "麦茶様様の夏でしたね！お話ありがとうございました！",
+            "timestamp": "2022-08-22T06:25:03.378000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ED",
+            "text": "こちらこそ、ありがとうございました！",
+            "timestamp": "2022-08-22T06:24:43.574000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

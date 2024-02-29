@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7715,
+    "interlocutors": [
+        "IF",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IF",
+            "text": "最近楽しかったこととかありますか？",
+            "timestamp": "2022-08-03T19:56:53.312000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "大学の先輩と久々に再会したことですかね",
+            "timestamp": "2022-08-03T19:57:23.176000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IF",
+            "text": "そうなんですね、何年ぶりですか？",
+            "timestamp": "2022-08-03T19:57:40.740000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "二年半ぶりくらいです。こういった世の中なので",
+            "timestamp": "2022-08-03T19:57:54.616000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IF",
+            "text": "なかなか会う機会なさそうですもんね",
+            "timestamp": "2022-08-03T19:58:09.220000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "そうですね。何か楽しかったイベントはありましたか？",
+            "timestamp": "2022-08-03T19:58:29.032000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IF",
+            "text": "最近すっかり出不精になってしまって、ネット通販でいろいろ見るのが楽しみです。",
+            "timestamp": "2022-08-03T19:59:07.425000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "ネット通販いいですよね。クレカ登録してから使うようになりましたね",
+            "timestamp": "2022-08-03T19:59:28.383000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IF",
+            "text": "見つづけていると欲が出てきてしまって。",
+            "timestamp": "2022-08-03T20:00:09.416000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "欲しいものが出かけずに手に入るなんて悪魔的です",
+            "timestamp": "2022-08-03T20:00:28.016000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IF",
+            "text": "もう悪魔に魂を売り渡した感じです。",
+            "timestamp": "2022-08-03T20:00:48.649000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "サイトは何を使っていますか？",
+            "timestamp": "2022-08-03T20:01:04.332000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IF",
+            "text": "もっぱらアマゾンです、買った人の評価を読むのも楽しいです",
+            "timestamp": "2022-08-03T20:01:37.416000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "無難ですよね。僕もAmazonです",
+            "timestamp": "2022-08-03T20:01:50.955000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IF",
+            "text": "最近何か購入したものはありますか？",
+            "timestamp": "2022-08-03T20:02:04.685000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "ゲームソフトを買いましたね。よくやるので",
+            "timestamp": "2022-08-03T20:02:22.903000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IF",
+            "text": "すぐ届くしいいですよね。私は歯磨き粉を購入しました。",
+            "timestamp": "2022-08-03T20:02:53.606000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "歯磨き粉ですか。マツキヨが近くにあるので通販では買わないですね",
+            "timestamp": "2022-08-03T20:03:21.705000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IF",
+            "text": "それが、歯が白くなるというものがあったので、試しに購入してみたんです。",
+            "timestamp": "2022-08-03T20:03:50.740000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "なるほど、ただ必要以上に歯を削ってしまうものもあるので有名なメーカーじゃないと買わないですね",
+            "timestamp": "2022-08-03T20:04:30.697000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IF",
+            "text": "たしかにそうですね、気をつけないとですね。",
+            "timestamp": "2022-08-03T20:05:01.796000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "ホワイトニングを歯科医院でするのは高いですからね。",
+            "timestamp": "2022-08-03T20:05:23.769000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IF",
+            "text": "一回だけやったことがありますが、何度か通わないと理想的にはならないらしく断念。",
+            "timestamp": "2022-08-03T20:05:50.256000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "芸能人の方はお金をかけてるんだなと感じますね。",
+            "timestamp": "2022-08-03T20:06:12.163000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IF",
+            "text": "えらい真っ白ですよね。",
+            "timestamp": "2022-08-03T20:06:29.526000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "凄いですよね、毎週くらいの頻度で行っているんだと思います",
+            "timestamp": "2022-08-03T20:06:54.736000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IF",
+            "text": "うわあ。大変だ",
+            "timestamp": "2022-08-03T20:07:21.256000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "テレビに映る仕事も大変ですね。",
+            "timestamp": "2022-08-03T20:07:31.093000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IF",
+            "text": "メンテナンスが大変そうだなーと思います。",
+            "timestamp": "2022-08-03T20:07:51.576000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "美容が肝心な職業ですからね。",
+            "timestamp": "2022-08-03T20:08:08.457000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

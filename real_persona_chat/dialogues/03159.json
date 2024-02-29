@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3159,
+    "interlocutors": [
+        "DN",
+        "BH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-26T10:31:07.641000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BH",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-26T10:31:17.081000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "最近何かはまっていることってありますか？",
+            "timestamp": "2022-08-26T10:31:24.164000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BH",
+            "text": "テレビドラマやネトフリよく見てます。",
+            "timestamp": "2022-08-26T10:31:48.099000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "ネットフリックスは入っていないんですがやはり便利ですか？",
+            "timestamp": "2022-08-26T10:32:08.729000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BH",
+            "text": "あるとついつい見ちゃいます。夫が特にはまって帰宅後はずっと見てます。",
+            "timestamp": "2022-08-26T10:32:29.352000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。皆さんがいいというのでネットフリックス気になっています。",
+            "timestamp": "2022-08-26T10:32:47.450000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BH",
+            "text": "携帯会社のプランに上乗せでついてるのがあるので、それで加入しています。",
+            "timestamp": "2022-08-26T10:33:08.725000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "なるほど。どんな番組を御覧になるのですか？",
+            "timestamp": "2022-08-26T10:33:25.426000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BH",
+            "text": "私は限定のドラマや、今は海外のリノベ番組をよく見ています。",
+            "timestamp": "2022-08-26T10:33:55.316000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。私はスカパーでTＢＳ系のドラマをみるのですが、どんなものがいいですか？",
+            "timestamp": "2022-08-26T10:34:23.113000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BH",
+            "text": "ドラマのジャンルですか？",
+            "timestamp": "2022-08-26T10:34:41.260000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "はい。例えばどんな番組を御覧になられますか？",
+            "timestamp": "2022-08-26T10:34:58.884000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BH",
+            "text": "地上波だとなんでも見るタイプで、警察、医療、恋愛なんでもありって感じです。",
+            "timestamp": "2022-08-26T10:35:26.896000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "私もです。最近医療が増えてきたなと感じています。",
+            "timestamp": "2022-08-26T10:35:49.995000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BH",
+            "text": "昔から必ずありますね。今やってるドラマとかはあまり見ないですか？",
+            "timestamp": "2022-08-26T10:36:14.648000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "夜は決まった時間にドラマを見るのが難しいので、いつも一気見で見てます。",
+            "timestamp": "2022-08-26T10:36:42.879000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BH",
+            "text": "そうなんですね。私もリアルはないのですが、録画して好きな時に見ています。",
+            "timestamp": "2022-08-26T10:37:07.392000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "なるほど。私がすきそうなドラマは主人が録画してくれますが、他にもいろいろと見たいので。",
+            "timestamp": "2022-08-26T10:37:46.161000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BH",
+            "text": "ですね。最近スカパーでは何をご覧になられたのですか？",
+            "timestamp": "2022-08-26T10:38:06.741000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "昨夜は渡る世間は鬼ばかりでした。",
+            "timestamp": "2022-08-26T10:38:30.921000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BH",
+            "text": "おー昔の有名作品ですね。見たことないのですが、おもしろいですか？",
+            "timestamp": "2022-08-26T10:38:47.883000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "大家族の人間関係は勉強になります。シリーズが多いので飽きません。",
+            "timestamp": "2022-08-26T10:39:18.025000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BH",
+            "text": "シリーズが続くというのはそれだけファンもいるってことですもんね。",
+            "timestamp": "2022-08-26T10:39:34.357000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "そうですね。特に「この人嫌な人」って真剣に思えるところがすごいと思います。",
+            "timestamp": "2022-08-26T10:39:56.494000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BH",
+            "text": "役者さんが素晴らしいってことですね。",
+            "timestamp": "2022-08-26T10:40:10.274000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "多分そうですね。しかもそれが現実にありそうなので共感できます。",
+            "timestamp": "2022-08-26T10:40:26.930000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BH",
+            "text": "突拍子もないのだとドラマだなーで終わりますもんね。",
+            "timestamp": "2022-08-26T10:40:42.408000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "あ、そうですね。現実味があるから見てるのかもしれません。",
+            "timestamp": "2022-08-26T10:41:05.832000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BH",
+            "text": "私も機会があれば、見てみたいと思います。",
+            "timestamp": "2022-08-26T10:41:18.146000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

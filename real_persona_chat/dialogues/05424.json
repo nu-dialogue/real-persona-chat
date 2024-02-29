@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5424,
+    "interlocutors": [
+        "DL",
+        "FZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんばんわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-23T20:39:53.435000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FZ",
+            "text": "こんばんは、こちらこそよろしくお願いします",
+            "timestamp": "2022-09-23T20:40:09.297000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "お好きな食べ物とかはありますか？",
+            "timestamp": "2022-09-23T20:40:18.448000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FZ",
+            "text": "好きな食べ物は甘いものとかが好きですね",
+            "timestamp": "2022-09-23T20:40:33.311000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "甘い物いいですねぇ！ケーキとかパフェとかですかね？",
+            "timestamp": "2022-09-23T20:40:57.647000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、チーズケーキとか甘いの好きですね、何か好きな食べ物はありますか？",
+            "timestamp": "2022-09-23T20:41:20.297000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "私も甘い物には目が無いです。ケーキ系が好きですね。フワフワの食感が大好きです。",
+            "timestamp": "2022-09-23T20:41:49.123000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、美味しいですよねー、いくらでも食べれちゃいます",
+            "timestamp": "2022-09-23T20:42:09.859000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "そうなんですよね！体重を考えなければもっと食べたい所です。",
+            "timestamp": "2022-09-23T20:42:39.229000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FZ",
+            "text": "ちゃんと筋トレなさってるので、大丈夫ですよ、私はダイエットと思いつつ実現できてません",
+            "timestamp": "2022-09-23T20:43:20.957000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "あはは。ちなみに、海外とかは行かれたことはありますか？",
+            "timestamp": "2022-09-23T20:43:44.538000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FZ",
+            "text": "ありますよ、海外旅行が好きなので",
+            "timestamp": "2022-09-23T20:44:02.253000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "ちょっと聞きたいのですが、海外のデザート系って、やはり日本とは味付けとか全然違うんですか？",
+            "timestamp": "2022-09-23T20:44:25.345000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FZ",
+            "text": "違いますね、ヨーロッパとかだと砂糖の塊みたいなケーキも多いです、私は甘いの好きなので平気ですが",
+            "timestamp": "2022-09-23T20:45:11.101000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "砂糖の塊ですか！マジパンが多いとかではなく、単純に使われている砂糖の量が多い！って感じですか？",
+            "timestamp": "2022-09-23T20:45:52.660000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FZ",
+            "text": "そうです、砂糖の量が多いのもあるので、こりゃ太るなって感じです",
+            "timestamp": "2022-09-23T20:46:13.700000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "となると、味付けが濃い！って言うか、甘さの暴力！ってイメージですか？",
+            "timestamp": "2022-09-23T20:46:43.068000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FZ",
+            "text": "そうです、そうです。もちろんものにもよりますが、ヨーロッパは甘いのが多いですよ",
+            "timestamp": "2022-09-23T20:47:13.524000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "ちなみに、そちらは日本とヨーロッパのケーキ、どちらが好みですか？",
+            "timestamp": "2022-09-23T20:47:40.266000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FZ",
+            "text": "どっちも好きですが、やはり日本のケーキの方が食べやすさはありますね",
+            "timestamp": "2022-09-23T20:48:09.812000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "なるほど。一度そう言った海外のケーキとか食べてみたいんですよね。",
+            "timestamp": "2022-09-23T20:48:49.274000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですねー、なんかその国々でアレンジがあったりしますもんね。",
+            "timestamp": "2022-09-23T20:49:35.079000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "海外とかで、これは信じられない！とか思ったデザートなんてありました？",
+            "timestamp": "2022-09-23T20:49:58.065000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FZ",
+            "text": "えー、なんでしょう。デザートではないですが、タイのフェスに行ったときにバケツみたいのに入ったビールは飲みました",
+            "timestamp": "2022-09-23T20:50:48.687000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "バケツですか！え？子供用とかの小さいバケツ。ですよね？",
+            "timestamp": "2022-09-23T20:51:12.235000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、もちろん綺麗な清潔なやつですが、バケツみたいのにストロー刺して飲みました",
+            "timestamp": "2022-09-23T20:51:52.734000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "おぉ、最初は抵抗とかありませんでした？",
+            "timestamp": "2022-09-23T20:52:16.078000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FZ",
+            "text": "全然、もちろん普通のビールもありますが、そこではバケツビールが売りだったので！",
+            "timestamp": "2022-09-23T20:52:44.229000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "画像検索しました！思ってた以上にバケツでびっくりしました。インディフェスですね。",
+            "timestamp": "2022-09-23T20:53:42.117000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FZ",
+            "text": "そうです、フルムーンパーティってのに行ったんですが、楽しかったですよー",
+            "timestamp": "2022-09-23T20:55:17.551000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

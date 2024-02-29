@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10702,
+    "interlocutors": [
+        "DH",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DH",
+            "text": "おはようございます、よろしくお願いします！",
+            "timestamp": "2022-08-17T09:41:40.617000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-17T09:41:55.052000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DH",
+            "text": "今日は、雨が降っているので比較的涼しくて助かります。",
+            "timestamp": "2022-08-17T09:42:24.119000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "今日は全国的に少し気温が下がるみたいですね。",
+            "timestamp": "2022-08-17T09:42:57.200000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DH",
+            "text": "そうなんですね、ここ数日暑かったのでそれは嬉しいです。",
+            "timestamp": "2022-08-17T09:43:24.716000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "そうですね。エアコンが手放せない状態でした。",
+            "timestamp": "2022-08-17T09:43:47.509000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DH",
+            "text": "エアコン無いともう生きていけないってくらい必需品です。",
+            "timestamp": "2022-08-17T09:44:13.742000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "ですよね。電気代が怖いですが。",
+            "timestamp": "2022-08-17T09:44:52.715000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DH",
+            "text": "電源を切った時に、リモコンに電気代が表示されるエアコンなので毎回ビクビクです。",
+            "timestamp": "2022-08-17T09:45:32.219000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "え！そんなハイテクなエアコンがあるんですね！",
+            "timestamp": "2022-08-17T09:46:20.181000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DH",
+            "text": "そうなんです！私も電気屋さんで話をきいてびっくりしました。",
+            "timestamp": "2022-08-17T09:46:43.688000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "初めて知りました。通常のエアコンより少し高価なんですか？",
+            "timestamp": "2022-08-17T09:47:32.087000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DH",
+            "text": "最近のエアコンどれも高かったので、あまり変わらない感じだったと思います。",
+            "timestamp": "2022-08-17T09:48:15.577000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。毎回電気代表示されたら、気が引き締まりそうですね。",
+            "timestamp": "2022-08-17T09:48:48.920000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DH",
+            "text": "そうなんです、つけすぎたなとか思えるので管理はしやすいですね",
+            "timestamp": "2022-08-17T09:49:14.360000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "なるほど。私のは表示されない従来のタイプなので、思うがままつけてしまってますね。",
+            "timestamp": "2022-08-17T09:50:20.807000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DH",
+            "text": "熱中症になったら病院代も結構かかるみたいなので、クーラー大事です。",
+            "timestamp": "2022-08-17T09:50:54.477000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "そうですよね。最近は救急車が走ってる音がちょこちょこ聞こえるので、熱中症には気をつけたいです。",
+            "timestamp": "2022-08-17T09:51:55.884000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DH",
+            "text": "確かに、意外と聞く気がします。ニュースでも良く聞くので気をつけたですね。",
+            "timestamp": "2022-08-17T09:52:44.280000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "そうですね。普段気をつけていることはありますか？",
+            "timestamp": "2022-08-17T09:53:03.358000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DH",
+            "text": "やっぱり水分補給ですね、水筒2回分は1日で飲むようにしています。",
+            "timestamp": "2022-08-17T09:54:09.035000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "おお！すごいですね。水筒２回分というのは１Lぐらいでしょうか、、？",
+            "timestamp": "2022-08-17T09:54:40.649000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DH",
+            "text": "そうですね、それくらいです。あとは食事のときに別に飲んでます。",
+            "timestamp": "2022-08-17T09:55:13.004000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "なるほど。お水が多いですか？",
+            "timestamp": "2022-08-17T09:55:37.577000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DH",
+            "text": "お水が多いです！ジュースはなるべく控えてますね、炭酸飲みたくなりますが。",
+            "timestamp": "2022-08-17T09:56:07.601000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "偉いですね！炭酸お好きなんですね。",
+            "timestamp": "2022-08-17T09:56:31.078000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DH",
+            "text": "熱くなると、冷えた炭酸飲料が飲みたくなります！比較的好きですね。",
+            "timestamp": "2022-08-17T09:57:02.036000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！スッキリできそうですね。",
+            "timestamp": "2022-08-17T09:57:24.646000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DH",
+            "text": "そうですね、気分爽快です！",
+            "timestamp": "2022-08-17T09:57:51.278000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "気分スッキリさせて乗り切りましょう！",
+            "timestamp": "2022-08-17T09:58:12.825000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10324,
+    "interlocutors": [
+        "CE",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんばんはー！お願いします！",
+            "timestamp": "2022-08-12T21:07:23.147000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "こんばんは！こちらこそお願いします！",
+            "timestamp": "2022-08-12T21:07:39.102000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "パンと白米、どちらがお好きですか？",
+            "timestamp": "2022-08-12T21:08:31.513000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "パンです！あなたは？",
+            "timestamp": "2022-08-12T21:08:42.435000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "私は最近白米に舞い戻ってきました！",
+            "timestamp": "2022-08-12T21:09:07.140000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "しばらく前はパンだったのですか？",
+            "timestamp": "2022-08-12T21:09:23.357000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "はい。菓子パンがとても好きで毎日のように食べてたんですが、カロリーのわりにお腹いっぱいにならなくて。",
+            "timestamp": "2022-08-12T21:09:54.180000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "あらら、カロリー高いものはお腹いっぱいになりやすいとは思うんですけどね。",
+            "timestamp": "2022-08-12T21:10:33.725000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "水分量が圧倒的に少ないのが満足感を感じにくい原因のひとつみたいです。",
+            "timestamp": "2022-08-12T21:11:13.774000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "なるほど。水分も一緒にとればマシになるんですかね？",
+            "timestamp": "2022-08-12T21:11:50.240000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "そうすればお腹の中で膨らみやすくなるとは思います！白米以外にも、オートミールも好きで食べますね。",
+            "timestamp": "2022-08-12T21:12:34.038000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "オートミールも水分と食べると満足感ある食べ物ですよね！",
+            "timestamp": "2022-08-12T21:13:13.329000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "ですね！オーバーナイトオートミールっていって、一晩牛乳に浸したものを毎朝食べます。",
+            "timestamp": "2022-08-12T21:13:51.645000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "それって料理名なんですか？初めて聞きました！",
+            "timestamp": "2022-08-12T21:14:10.142000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "です！一晩水分に浸すことで、オートミールの栄養をさらに吸収しやすくするんですよ。",
+            "timestamp": "2022-08-12T21:14:55.374000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "柔らかくなると栄養も溶けやすくなるってことですか！味って変わります？",
+            "timestamp": "2022-08-12T21:15:28.990000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "味は全然かわらないです！柔らかくなるだけですね。",
+            "timestamp": "2022-08-12T21:15:54.467000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "おいしそうですね。しかも、食べやすそうです。",
+            "timestamp": "2022-08-12T21:16:24.398000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよ。それに果物もカットして加えて、なんか朝から体にいいことしてる気分です。",
+            "timestamp": "2022-08-12T21:16:54.366000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "果物は合いそうですね！何入れるんですか？",
+            "timestamp": "2022-08-12T21:17:30.280000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "バナナと冷凍ブルーベリーですね！",
+            "timestamp": "2022-08-12T21:17:55.978000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "めちゃくちゃおいしそう。リンゴとかも合いそうですね。",
+            "timestamp": "2022-08-12T21:18:34.783000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "りんごもいいと思います！今は暑いので、キンキンに冷えたオートミールと果物最高です！",
+            "timestamp": "2022-08-12T21:19:11.837000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "めちゃくちゃいいじゃないですか！朝から食べたら目も覚めそうです！",
+            "timestamp": "2022-08-12T21:19:41.253000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "ばっちり覚めますよ！冬はミルクがゆっぽくしてもいいかなと。",
+            "timestamp": "2022-08-12T21:20:20.109000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "なるほど。体もあったまりますね。",
+            "timestamp": "2022-08-12T21:20:50.319000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "ほとんど出来上がってるものを鍋にぶち込んで温めるくらいなら、なんとかできそうですよね。",
+            "timestamp": "2022-08-12T21:21:15.606000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "オートミールってこんな万能だったんですね！",
+            "timestamp": "2022-08-12T21:21:38.970000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "めっちゃ万能ですよー！おにぎりも作れます！",
+            "timestamp": "2022-08-12T21:21:52.637000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "おにぎり！？最後に気になる言葉が出てきましたね。",
+            "timestamp": "2022-08-12T21:22:16.475000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CE",
+            "text": "今度またお話ししますね！ありがとうございました！",
+            "timestamp": "2022-08-12T21:22:35.556000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

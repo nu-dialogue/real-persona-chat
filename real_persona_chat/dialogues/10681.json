@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10681,
+    "interlocutors": [
+        "BT",
+        "EA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-15T08:22:28.884000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EA",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-15T08:22:36.915000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "学生時代、何か部活や習い事ってしてました？",
+            "timestamp": "2022-08-15T08:22:50.769000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EA",
+            "text": "学生時代はテニスをやってましたね。",
+            "timestamp": "2022-08-15T08:23:20.347000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "おお！すごい！運動神経よさそうですね。",
+            "timestamp": "2022-08-15T08:23:30.732000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EA",
+            "text": "そこまでは良くないです！あなたは何かやってました？",
+            "timestamp": "2022-08-15T08:23:55.428000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "私はスポーツはまったく。習い事で、ちょっとピアノと声楽をやってたぐらいです。",
+            "timestamp": "2022-08-15T08:24:27.305000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EA",
+            "text": "そうなんですね！音楽も習い事ではないですけど少しやってましたよ。",
+            "timestamp": "2022-08-15T08:25:05.314000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "何か楽器をやっていたとか？",
+            "timestamp": "2022-08-15T08:25:19.535000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EA",
+            "text": "独学でドラムやってましたね。",
+            "timestamp": "2022-08-15T08:25:46.081000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "ドラム！自分のドラムを持ってたんですか？",
+            "timestamp": "2022-08-15T08:26:07.493000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EA",
+            "text": "いえ、マイドラムは持ってなかったですがスタジオなどで借りてやってましたね。",
+            "timestamp": "2022-08-15T08:26:44.957000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "へえ！バンド組んでたとかですか？",
+            "timestamp": "2022-08-15T08:27:04.429000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EA",
+            "text": "文化祭でバンドをやることになって、練習したって感じです！",
+            "timestamp": "2022-08-15T08:27:35.681000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "ええ素敵！どんな曲、演奏したんですか？",
+            "timestamp": "2022-08-15T08:27:54.104000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EA",
+            "text": "そのとき流行っていた曲をやりましたね。2曲くらいでした。",
+            "timestamp": "2022-08-15T08:29:13.204000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "ドラムって、手足別々で動かすから、難しくないですか？",
+            "timestamp": "2022-08-15T08:29:38.661000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EA",
+            "text": "最初はとても難しかったですけど練習してたら慣れてきましたね。あと合わせてみると楽しくて。",
+            "timestamp": "2022-08-15T08:30:16.079000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "そうなんですね。他の楽器やボーカルの人も、初めてだったんですか？演奏は。",
+            "timestamp": "2022-08-15T08:30:57.357000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EA",
+            "text": "ベースの人だけ前から触ってましたね。とても上手だった覚えがあります。",
+            "timestamp": "2022-08-15T08:31:33.616000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "なるほど。独学でやるってすごいですよね。",
+            "timestamp": "2022-08-15T08:32:44.162000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EA",
+            "text": "独学プラスでドラムやってた先輩からも教わってましたね。",
+            "timestamp": "2022-08-15T08:34:08.085000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "ドラムって、教本とかあるんですか？",
+            "timestamp": "2022-08-15T08:34:31.320000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EA",
+            "text": "ありましたよ！CD付きのやつを買ったんですがすぐになくしちゃいましたね。",
+            "timestamp": "2022-08-15T08:35:25.548000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "そっか。CD付いてるんですね。今でも、叩けそうですか？",
+            "timestamp": "2022-08-15T08:36:03.694000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EA",
+            "text": "1時間くらいさわれば簡単なのだったら叩けると思いますね。ピアノのほうが難しいとおもいます。",
+            "timestamp": "2022-08-15T08:36:48.216000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "やっぱり忘れてないものなんですね。ピアノはもう弾ける気が全然しません。ははは。",
+            "timestamp": "2022-08-15T08:37:45.911000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EA",
+            "text": "意外と簡単ですよドラムは。どれくらいピアノやってたんですか？",
+            "timestamp": "2022-08-15T08:38:18.596000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "ピアノは、なんだかんだで7年ぐらい。でもたぶん他の人の２年分ぐらいの腕です。",
+            "timestamp": "2022-08-15T08:38:51.462000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EA",
+            "text": "結構やってたんですね。それだけピアノ難しいってことなのかも。",
+            "timestamp": "2022-08-15T08:39:12.214000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

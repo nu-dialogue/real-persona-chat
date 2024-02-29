@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9597,
+    "interlocutors": [
+        "EX",
+        "FQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EX",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-08T21:11:43.888000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FQ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-08T21:12:00.759000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EX",
+            "text": "もうご飯は食べましたか？",
+            "timestamp": "2022-08-08T21:12:11.943000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FQ",
+            "text": "はい、先ほど食べましたよ。",
+            "timestamp": "2022-08-08T21:12:35.045000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EX",
+            "text": "何食べましたー？",
+            "timestamp": "2022-08-08T21:12:41.019000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FQ",
+            "text": "面倒臭かったので、マックでドライブスルーしました。",
+            "timestamp": "2022-08-08T21:13:16.447000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EX",
+            "text": "マックいいですねー。たまに無性に食べたくなります。",
+            "timestamp": "2022-08-08T21:13:23.693000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FQ",
+            "text": "何だかポテトの塩気が恋しくて。",
+            "timestamp": "2022-08-08T21:13:52.738000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EX",
+            "text": "わかります。自分食べるタイミング失って今腹ペコです。",
+            "timestamp": "2022-08-08T21:14:12.549000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FQ",
+            "text": "そうなんですね、おなかすきますよね。",
+            "timestamp": "2022-08-08T21:15:02.246000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EX",
+            "text": "時間が時間なんで罪悪感もありつつ。。。",
+            "timestamp": "2022-08-08T21:15:07.446000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FQ",
+            "text": "この時間はまよいますね。",
+            "timestamp": "2022-08-08T21:15:28.846000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EX",
+            "text": "迷います。。。辛いラーメンがあったはずなんで食べちゃおうかな。",
+            "timestamp": "2022-08-08T21:15:58.456000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FQ",
+            "text": "ラーメンならなんとなく大丈夫な気がします。",
+            "timestamp": "2022-08-08T21:16:19.717000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EX",
+            "text": "まじですか。ラーメンは駄目な気がしてました笑",
+            "timestamp": "2022-08-08T21:16:44.134000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FQ",
+            "text": "いや、勝手な思い込みですね。",
+            "timestamp": "2022-08-08T21:17:09.884000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EX",
+            "text": "じゃあ食べちゃいます。",
+            "timestamp": "2022-08-08T21:17:23.688000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FQ",
+            "text": "辛いラーメンなら、代謝あがりそうですね！",
+            "timestamp": "2022-08-08T21:17:53.802000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EX",
+            "text": "汗でカバーしますか。なんかおすすめのトッピングとかあります？",
+            "timestamp": "2022-08-08T21:18:11.765000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FQ",
+            "text": "私はネギが大好きなので、たっぷり入れたいですね！",
+            "timestamp": "2022-08-08T21:18:35.420000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EX",
+            "text": "たしかあったはず！",
+            "timestamp": "2022-08-08T21:18:46.828000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FQ",
+            "text": "おいしいですよね！あとはゆでたまごとか。",
+            "timestamp": "2022-08-08T21:19:16.473000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EX",
+            "text": "そのへんだとヘルシーでいいですね。",
+            "timestamp": "2022-08-08T21:19:22.757000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FQ",
+            "text": "手間かかりますが、野菜炒めのせても美味しいですよね。",
+            "timestamp": "2022-08-08T21:20:00.183000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EX",
+            "text": "あーどんどんおいしそうになっていく。",
+            "timestamp": "2022-08-08T21:20:06.831000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FQ",
+            "text": "栄養もばっちりですね。",
+            "timestamp": "2022-08-08T21:20:16.754000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EX",
+            "text": "野菜炒めの案いただきます！",
+            "timestamp": "2022-08-08T21:20:30.215000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FQ",
+            "text": "ぜひぜひ。おすすめです。",
+            "timestamp": "2022-08-08T21:20:52.130000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EX",
+            "text": "よし、ちょっと作ってきます！",
+            "timestamp": "2022-08-08T21:21:00.047000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FQ",
+            "text": "いってらっしゃいー。",
+            "timestamp": "2022-08-08T21:21:24.409000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EX",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

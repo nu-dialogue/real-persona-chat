@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10908,
+    "interlocutors": [
+        "DT",
+        "AJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DT",
+            "text": "こんにちは。よろしくです。",
+            "timestamp": "2022-08-17T15:12:06.569000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AJ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-17T15:12:11.291000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DT",
+            "text": "お盆はどこか行きましたか？",
+            "timestamp": "2022-08-17T15:12:32.653000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AJ",
+            "text": "いえ、仕事でした。休みでもコロナでどこも行けなかったと思います。",
+            "timestamp": "2022-08-17T15:12:55.098000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DT",
+            "text": "確かに今コロナ多いですし。。",
+            "timestamp": "2022-08-17T15:13:32.428000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AJ",
+            "text": "大変ですよね。でもしょうがないと思います。国が何もしてこないので。",
+            "timestamp": "2022-08-17T15:14:11.967000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DT",
+            "text": "大変ですね。野放しというか。でもどうしようもないとも思います。",
+            "timestamp": "2022-08-17T15:15:02.867000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AJ",
+            "text": "私は、一度濃厚接触者になりました。",
+            "timestamp": "2022-08-17T15:15:17.630000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DT",
+            "text": "職場の人がなったりしたんですか？",
+            "timestamp": "2022-08-17T15:15:36.626000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AJ",
+            "text": "いや、知り合いと食事に行ったら、その知り合いが陽性者になってしまい、それでです。",
+            "timestamp": "2022-08-17T15:15:56.781000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DT",
+            "text": "知った時ゾッとしましたか？",
+            "timestamp": "2022-08-17T15:16:17.438000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AJ",
+            "text": "ビックリしました。急だったので。頭真っ白です。結果陰性でしたが、職場に迷惑かけてしまいました。",
+            "timestamp": "2022-08-17T15:16:58.793000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DT",
+            "text": "陰性でよかったです！食事の時間だけ一緒だったんですか？",
+            "timestamp": "2022-08-17T15:17:51.998000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AJ",
+            "text": "あと、移動時も同じ車でした。それが大きかったみたいです。あなたはまだ、大丈夫ですか？",
+            "timestamp": "2022-08-17T15:18:42.805000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DT",
+            "text": "車は確かに移りやすそうです。私は今のところ大丈夫です。人によって症状違うから怖いですよね。",
+            "timestamp": "2022-08-17T15:19:24.665000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AJ",
+            "text": "重症化しにくいですが、死亡者は増えてるそうなので、本当よくわからないですよね。",
+            "timestamp": "2022-08-17T15:19:55.020000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DT",
+            "text": "ワクチンも意味あるんだかと思ってしまいます。変異し続けてるので。",
+            "timestamp": "2022-08-17T15:21:00.393000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AJ",
+            "text": "そうですよね。でも、今はまだ無料ですし、打たないよりは打ったほうが良いかと思います。",
+            "timestamp": "2022-08-17T15:21:41.196000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DT",
+            "text": "そうですよね。ずっと無料でいてほしいです。",
+            "timestamp": "2022-08-17T15:22:05.822000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AJ",
+            "text": "確かに。話し戻りますが、あなたは、お盆どうしてました？",
+            "timestamp": "2022-08-17T15:22:30.513000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DT",
+            "text": "私も基本はお家にいましたが、リサイクルショップに何回か行きました。",
+            "timestamp": "2022-08-17T15:23:31.561000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AJ",
+            "text": "リサイクルショップ良いですよね。何か掘り出し物ありました？",
+            "timestamp": "2022-08-17T15:23:51.640000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DT",
+            "text": "なかったですがベビーのバウンサーを探してて。",
+            "timestamp": "2022-08-17T15:24:24.357000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AJ",
+            "text": "パウンサーとはなんですか？ベビパウダーとかをつけるやつですか？",
+            "timestamp": "2022-08-17T15:25:01.720000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DT",
+            "text": "えっとですね、ゆりかごのようなものです。",
+            "timestamp": "2022-08-17T15:25:36.732000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AJ",
+            "text": "全く違いますね。失礼しました。でも、なかなか無さそうですよね？",
+            "timestamp": "2022-08-17T15:26:18.344000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DT",
+            "text": "いえいえ、私も赤ちゃん生まれてから知りました。あまり種類はありませんね、なので違うお店見にいきます。",
+            "timestamp": "2022-08-17T15:27:19.084000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AJ",
+            "text": "良いのがあるといいですね。",
+            "timestamp": "2022-08-17T15:27:31.540000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DT",
+            "text": "はい。何軒かまわってみます。",
+            "timestamp": "2022-08-17T15:28:01.051000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AJ",
+            "text": "頑張ってください！",
+            "timestamp": "2022-08-17T15:28:05.472000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

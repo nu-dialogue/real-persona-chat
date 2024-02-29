@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7925,
+    "interlocutors": [
+        "AH",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-04T09:13:00.014000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-04T09:13:13.049000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "趣味などはありますか？",
+            "timestamp": "2022-08-04T09:13:22.791000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "ピアノが大好きです",
+            "timestamp": "2022-08-04T09:13:33.962000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "引く方ですか？聞く方ですか？",
+            "timestamp": "2022-08-04T09:13:43.865000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "外出自粛を好機に弾きまくってます",
+            "timestamp": "2022-08-04T09:14:06.054000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "ピアノ弾けるの羨ましいです。",
+            "timestamp": "2022-08-04T09:14:13.441000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "いや、練習すればだれでもできますよ",
+            "timestamp": "2022-08-04T09:14:26.715000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "私はカエルの歌くらいしか弾けないです。",
+            "timestamp": "2022-08-04T09:14:34.930000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "カエルの歌できればあとは何でも弾けますよ、十分",
+            "timestamp": "2022-08-04T09:14:48.871000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "練習たくさんすればいいんですかね？",
+            "timestamp": "2022-08-04T09:15:05.824000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "はい、リズム感の練習は別途やったほうがいいかもしれませんが",
+            "timestamp": "2022-08-04T09:15:21.515000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "確かに。リズム感ないとダメですもんね。",
+            "timestamp": "2022-08-04T09:15:37.297000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "あとはフレージングかなあ",
+            "timestamp": "2022-08-04T09:15:47.766000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "それもできていなかったです。",
+            "timestamp": "2022-08-04T09:16:01.887000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "あれね、先生がわるいのよ",
+            "timestamp": "2022-08-04T09:16:12.467000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "教え方の問題なのですか？",
+            "timestamp": "2022-08-04T09:16:20.379000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "はい、よく歌うように弾きましょうっていわれるじゃないですか",
+            "timestamp": "2022-08-04T09:16:33.625000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "そうですね、そうやって教えられました。",
+            "timestamp": "2022-08-04T09:16:46.138000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "それができりゃ苦労せんわって話ですよね",
+            "timestamp": "2022-08-04T09:16:54.962000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "はい、歌うのと弾くのは別の感じです。",
+            "timestamp": "2022-08-04T09:17:07.699000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "ドレミファミレド　こう弾きましょう　これでどうですか",
+            "timestamp": "2022-08-04T09:17:34.641000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "ファのあたりに指を置く感じですか？",
+            "timestamp": "2022-08-04T09:17:46.654000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "いえ、音量です　ドよりレがつよく、レよりミが強く、ファがピークで、そこからは減衰、最初と最後のドは同じ大きさ",
+            "timestamp": "2022-08-04T09:18:18.742000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "音量を変えるということだったんですね。",
+            "timestamp": "2022-08-04T09:18:43.166000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "そうなんです、となりの音との音量の相対性理論",
+            "timestamp": "2022-08-04T09:18:57.424000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "音量を意識しないといけなかったのですね。",
+            "timestamp": "2022-08-04T09:19:10.655000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "とくに本来高音が大きいのが原則なのに、ピアノは構造上高音のほうが音が小さくなるという",
+            "timestamp": "2022-08-04T09:19:37.839000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "ピアノってかわっているのですね。",
+            "timestamp": "2022-08-04T09:19:59.620000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "なので意識して弾かないと歌うようにならないと、こういう理屈なのです",
+            "timestamp": "2022-08-04T09:20:19.282000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

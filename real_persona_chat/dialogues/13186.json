@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13186,
+    "interlocutors": [
+        "GI",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-17T22:40:50.611000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-17T22:41:01.942000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "晩御飯何食べましたか？",
+            "timestamp": "2022-09-17T22:41:06.423000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "今日はチャーハンでした！",
+            "timestamp": "2022-09-17T22:41:31.054000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "チャーハンですか。自分でおつくりに？",
+            "timestamp": "2022-09-17T22:41:42.110000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "そうなんですよー！残りものでつくっちゃいました。",
+            "timestamp": "2022-09-17T22:42:15.744000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。何かトッピングしたりします？チーズとか。",
+            "timestamp": "2022-09-17T22:42:28.368000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "ん－、あまりしないかもしれません！",
+            "timestamp": "2022-09-17T22:42:54.855000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。お料理はよくやられるんですか？",
+            "timestamp": "2022-09-17T22:43:13.034000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "週に3～4回程です！多いんでしょうかね？",
+            "timestamp": "2022-09-17T22:43:48.509000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "多いと思います！私は一人暮らしなのでなかなかしなくって。",
+            "timestamp": "2022-09-17T22:44:08.389000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！",
+            "timestamp": "2022-09-17T22:44:42.360000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "そうなんですよ。程よい量を作るのも難しいんですよね。",
+            "timestamp": "2022-09-17T22:44:59.574000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "あー！分かります！",
+            "timestamp": "2022-09-17T22:45:24.976000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "あと、めったにやらないと野菜を残してダメにしちゃったりして。ありますか？",
+            "timestamp": "2022-09-17T22:45:51.847000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "あります、あります！なので最近は食べる分だけ買おう！と決めたところです。",
+            "timestamp": "2022-09-17T22:46:29.035000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "そうですよね。袋に入ってる切られた野菜とかよく買います。",
+            "timestamp": "2022-09-17T22:46:51.596000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "便利ですよね！",
+            "timestamp": "2022-09-17T22:47:02.468000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "便利です。野菜不足になりがちなので助かります。",
+            "timestamp": "2022-09-17T22:47:19.793000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "野菜って意識しないとなかなかとれないですよね。私だけですかね？",
+            "timestamp": "2022-09-17T22:47:51.712000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "そうですね。たぶん私の場合は好きじゃないからです。",
+            "timestamp": "2022-09-17T22:48:11.227000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "あらー。何かきっかけでも？",
+            "timestamp": "2022-09-17T22:48:26.666000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "いえ。あなたは野菜お好きで？",
+            "timestamp": "2022-09-17T22:48:43.246000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "普通に好きですー！トマトとかいいですね！",
+            "timestamp": "2022-09-17T22:49:10.094000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "プチトマトとかおいしいですよね。というか野菜自体高くないですか？",
+            "timestamp": "2022-09-17T22:49:36.758000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "ですね！最近さらに値上がりしている気がしますよ。",
+            "timestamp": "2022-09-17T22:50:05.704000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "そうなんですよ。それで買いにくいのもありますよね。",
+            "timestamp": "2022-09-17T22:50:23.597000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "ありますよね！",
+            "timestamp": "2022-09-17T22:50:41.063000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "安くなってほしいです。でも台風の影響でしばらくは無理ですかね。",
+            "timestamp": "2022-09-17T22:51:09.855000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "確かにそうですね！",
+            "timestamp": "2022-09-17T22:51:27.114000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

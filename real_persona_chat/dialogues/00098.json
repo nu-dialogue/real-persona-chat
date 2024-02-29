@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 98,
+    "interlocutors": [
+        "AC",
+        "AG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "どうも、こんばんはー。",
+            "timestamp": "2022-08-07T00:36:10.411000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AG",
+            "text": "こんばんはー。よろしくお願いします。",
+            "timestamp": "2022-08-07T00:36:31.934000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "夏バテ、してませんか？",
+            "timestamp": "2022-08-07T00:36:45.370000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AG",
+            "text": "今のところ大丈夫です。あなたはどうですか？",
+            "timestamp": "2022-08-07T00:37:00.703000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "私も、食欲だけはモリモリあります！",
+            "timestamp": "2022-08-07T00:37:10.762000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AG",
+            "text": "私もです。食欲こそ無ければダイエットになるのにって思ったりします。",
+            "timestamp": "2022-08-07T00:37:42.168000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "確かに思いますねー。夏はどんな物をよく食べますか？",
+            "timestamp": "2022-08-07T00:37:59.340000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AG",
+            "text": "カレーをよく食べます。",
+            "timestamp": "2022-08-07T00:38:17.189000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "カレーは食欲わきますよね！",
+            "timestamp": "2022-08-07T00:38:27.346000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AG",
+            "text": "はい。辛さとスパイスの香りで、お腹が動く感じです。お好きですか？",
+            "timestamp": "2022-08-07T00:38:52.837000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "好きです！グリーンカレーとスリランカカレーかな、が好きです。",
+            "timestamp": "2022-08-07T00:39:13.125000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AG",
+            "text": "どちらも美味しいですよねー！私、今日、グリーンカレー食べました。",
+            "timestamp": "2022-08-07T00:39:36.707000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "タイムリー！",
+            "timestamp": "2022-08-07T00:39:43.289000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AG",
+            "text": "本当に！あの味って、日本食にはないので、初めて食べた時は衝撃的でした。",
+            "timestamp": "2022-08-07T00:40:13.662000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "分かります！見た目も味も、ビックリですよね。カレーといっていいのか。",
+            "timestamp": "2022-08-07T00:40:33.136000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AG",
+            "text": "カレーと言えば茶色ですもんね。緑って！",
+            "timestamp": "2022-08-07T00:40:54.430000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "そうそう。でも、手作りすると、グリーンというより、黄色と白って感じになってしまいます。",
+            "timestamp": "2022-08-07T00:41:16.785000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AG",
+            "text": "あ！確かに！売ってるのより、ちょっと淡い色になりますよね。",
+            "timestamp": "2022-08-07T00:41:40.668000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "なりますー！そして、青唐辛子が危険です！",
+            "timestamp": "2022-08-07T00:41:54.672000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AG",
+            "text": "結構辛いですよねー。ピーマンとは大違い。",
+            "timestamp": "2022-08-07T00:42:15.152000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "はい！料理した後の指が、危険なくらい辛い！",
+            "timestamp": "2022-08-07T00:42:31.646000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AG",
+            "text": "それで目をこすったりしたら大惨事ですね！",
+            "timestamp": "2022-08-07T00:42:54.808000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "まさに！いつもカレーは手作りですか？",
+            "timestamp": "2022-08-07T00:43:10.956000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AG",
+            "text": "たまに作ることもありますが、今日のはタイで作られたレトルトです。",
+            "timestamp": "2022-08-07T00:43:41.087000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "本場の！レトルトのほうが完成度高いですよね。",
+            "timestamp": "2022-08-07T00:44:00.516000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AG",
+            "text": "はい。スリランカやインド的なのは作れるんですけど、タイカレーはやっぱり本場のが一番です。",
+            "timestamp": "2022-08-07T00:44:29.681000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "えー！スリランカの、作れるんですか？",
+            "timestamp": "2022-08-07T00:44:55.250000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AG",
+            "text": "確か、玉ねぎをひたすら炒めて、あとはスパイスをそろえれば。レシピもありますし作れますよー。",
+            "timestamp": "2022-08-07T00:45:28.041000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "今度チャレンジしてみようかなー。いつか機会があったら、作り方教えてください！",
+            "timestamp": "2022-08-07T00:45:45.178000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AG",
+            "text": "良いですよ！チャレンジしてみてください！",
+            "timestamp": "2022-08-07T00:46:11.619000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AC",
+            "text": "はい！ぜひよろしくお願いします！",
+            "timestamp": "2022-08-07T00:46:20.445000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

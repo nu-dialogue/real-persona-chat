@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10010,
+    "interlocutors": [
+        "CE",
+        "ER"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "お願いします―！",
+            "timestamp": "2022-08-10T17:41:46.250000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ER",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T17:41:53.652000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "今晩のご飯はもうお決まりですか？",
+            "timestamp": "2022-08-10T17:42:18.674000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ER",
+            "text": "家族が作ってくれるので、まだ何かわからないです。",
+            "timestamp": "2022-08-10T17:42:33.395000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "なるほど！家に帰ってくると、なんとなく匂いで察する感じでしょうか。",
+            "timestamp": "2022-08-10T17:43:05.066000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ER",
+            "text": "そうですね。今日はシチューだなとか匂いでわかるのはなんかいいですね。",
+            "timestamp": "2022-08-10T17:43:33.139000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "いいですね！カレーも一発でわかりそうですよね。",
+            "timestamp": "2022-08-10T17:43:57.094000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ER",
+            "text": "ですね、カレー大好きなのでカレーだとテンションあがります。",
+            "timestamp": "2022-08-10T17:44:12.534000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "カレーって本当にご飯もパンもナンもすすみますよね。何カレーが一番好きですか？",
+            "timestamp": "2022-08-10T17:44:44.737000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ER",
+            "text": "日本のカレーが一番好きですが、インドカレーだとサグというほうれん草系のカレーが好きですね。",
+            "timestamp": "2022-08-10T17:45:18.359000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "サグ！初めて聞きました！結構辛めですか？",
+            "timestamp": "2022-08-10T17:45:49.913000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ER",
+            "text": "いや、全然辛くはないです。むしろちょっと甘めな感じです。",
+            "timestamp": "2022-08-10T17:46:07.129000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "私甘めのカレー好きなんですよ！無印とかにありますかね、調べてみよっと。",
+            "timestamp": "2022-08-10T17:46:35.079000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ER",
+            "text": "無印にもほうれん草のカレーって名称ならありそうです。",
+            "timestamp": "2022-08-10T17:48:27.385000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "ありました！サグチキンって名前でした！",
+            "timestamp": "2022-08-10T17:48:53.738000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ER",
+            "text": "ちゃんとサグって名前になってるんですね、さすが無印。",
+            "timestamp": "2022-08-10T17:49:12.368000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "うわー！今度買ってみますね！白米がおすすめですか？",
+            "timestamp": "2022-08-10T17:49:33.485000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ER",
+            "text": "白米とも合うと思いますよ。オススメはナンです。",
+            "timestamp": "2022-08-10T17:49:51.720000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "じゃあナンで！チーズナンってなんであんなに美味しいんですかね。",
+            "timestamp": "2022-08-10T17:50:13.213000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ER",
+            "text": "チーズナン美味しいですよね。インドカレー屋行くとチーズかガーリックナンの二択です！",
+            "timestamp": "2022-08-10T17:50:58.120000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "ガーリックナン！とてもおいしそうな響きです。ガーリックトースト的なナンですか？",
+            "timestamp": "2022-08-10T17:51:43.788000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ER",
+            "text": "そうですね、ガーリックトーストに近いです。チーズが入ってるのもあります。",
+            "timestamp": "2022-08-10T17:52:01.849000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "ひえええ。いっぱい食べちゃう。",
+            "timestamp": "2022-08-10T17:52:21.056000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ER",
+            "text": "インドカレー屋さんはナンをどんどん持ってきてくるので、食べ過ぎちゃいますね。",
+            "timestamp": "2022-08-10T17:53:08.857000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "そんな、持ってこられたら、食べちゃいますね！タンドリーチキンとかも美味しいですよねぇ。",
+            "timestamp": "2022-08-10T17:53:41.428000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ER",
+            "text": "タンドリーチキン美味しいですね。ビール好きなのでおつまみとしてよく頼みます。",
+            "timestamp": "2022-08-10T17:54:01.326000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "今日はカレーにしようと決めました。",
+            "timestamp": "2022-08-10T17:54:23.394000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ER",
+            "text": "いいですね、私も近所のインドカレー屋に行きたくなりました。",
+            "timestamp": "2022-08-10T17:54:40.803000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "夕飯決めてくださってありがとうございます！",
+            "timestamp": "2022-08-10T17:54:54.298000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ER",
+            "text": "いえいえ！美味しいカレー食べられるといいですね！ありがとうございました！",
+            "timestamp": "2022-08-10T17:55:08.473000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CE",
+            "text": "ではまた！",
+            "timestamp": "2022-08-10T17:55:15.047000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

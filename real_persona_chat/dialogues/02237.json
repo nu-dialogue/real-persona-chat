@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2237,
+    "interlocutors": [
+        "EK",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EK",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-19T21:14:23.477000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T21:14:30.054000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EK",
+            "text": "今日も暑いですよね。",
+            "timestamp": "2022-08-19T21:14:49.470000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "暑いですね。暑さ対策何かされてますか？",
+            "timestamp": "2022-08-19T21:15:03.238000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EK",
+            "text": "基本冷房は24時間つけっぱなしですね。",
+            "timestamp": "2022-08-19T21:15:56.229000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "同じくです。水分は多めにとってますか？",
+            "timestamp": "2022-08-19T21:16:17.507000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EK",
+            "text": "水分補給はかなり気を付けています。経口補水液とかも。",
+            "timestamp": "2022-08-19T21:17:05.988000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "熱中症になったら経口補水液重要ですよね。常備されてますか？",
+            "timestamp": "2022-08-19T21:17:30.424000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EK",
+            "text": "常備していますね。出歩くときなどは必ず持つようにしています！",
+            "timestamp": "2022-08-19T21:18:54.404000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "いいですね！私はスポーツドリンクをよく持っていきます。",
+            "timestamp": "2022-08-19T21:19:26.754000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EK",
+            "text": "この時期必須ですよね。屋外で過ごすことは多いですか？",
+            "timestamp": "2022-08-19T21:20:12.579000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "基本は室内が多いです。あなたはどうですか？",
+            "timestamp": "2022-08-19T21:20:27.635000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EK",
+            "text": "私は半々ですね！運動が好きなので暑くてもジョギングとかもしますし。",
+            "timestamp": "2022-08-19T21:22:03.219000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "すごい！どのくらいの距離を走ってますか？",
+            "timestamp": "2022-08-19T21:22:28.786000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EK",
+            "text": "そんなにです。5kmくらいを軽く流す程度で。頑張って10kmくらいですね。あなたは運動されますか？",
+            "timestamp": "2022-08-19T21:23:41.863000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "私はウォーキングぐらいですね。夜涼しくなってからやってます。",
+            "timestamp": "2022-08-19T21:23:57.088000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EK",
+            "text": "いいですね。まだできていませんが、トレッキングとかも興味があります！",
+            "timestamp": "2022-08-19T21:24:43.357000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "トレッキングだと装備が必要そうですね。お持ちなんですか？",
+            "timestamp": "2022-08-19T21:25:11.499000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EK",
+            "text": "最近靴だけ買いました。なんだか流行ってますよね。",
+            "timestamp": "2022-08-19T21:25:44.016000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "アウトドア全般流行ってますね。キャンプとか行かれますか？",
+            "timestamp": "2022-08-19T21:26:02.817000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EK",
+            "text": "流行に乗ったわけではないですが、キャンプは最近再開しました！",
+            "timestamp": "2022-08-19T21:26:45.297000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "いいですね。最近はどこのキャンプ場に行きましたか？",
+            "timestamp": "2022-08-19T21:27:14.954000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EK",
+            "text": "軽井沢のキャンプ場に行きましたね！暑すぎて全然避暑地じゃありませんでしたが。",
+            "timestamp": "2022-08-19T21:28:07.109000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "軽井沢でも暑いんですね！最近の猛暑はすごいですね。。",
+            "timestamp": "2022-08-19T21:28:25.202000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EK",
+            "text": "10年後にはどうなってるのか不安ですよね。",
+            "timestamp": "2022-08-19T21:28:58.940000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "夏はほとんど熱帯みたいですもんね。キャンプ飯は何を作りましたか？",
+            "timestamp": "2022-08-19T21:29:32.750000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EK",
+            "text": "ただご飯を炊いて食べただけでしたが、なぜかおいしいんですよね。",
+            "timestamp": "2022-08-19T21:30:37.861000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "外で食べると妙においしいですよね。コンビニパンでも外で食べるとなんか美味しいです。",
+            "timestamp": "2022-08-19T21:31:08.653000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EK",
+            "text": "ですよね。一工夫でなんでも楽しめます。",
+            "timestamp": "2022-08-19T21:32:10.222000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "本当ですね！",
+            "timestamp": "2022-08-19T21:32:18.566000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EK",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

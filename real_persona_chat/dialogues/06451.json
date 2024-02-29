@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6451,
+    "interlocutors": [
+        "HQ",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-10T22:08:59.863000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-10T22:09:04.320000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "給料は安いけど楽しい仕事と給料は高いけどつまらない仕事だったらどちらが良いですか？",
+            "timestamp": "2022-10-10T22:09:34.334000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "給料が高いほうですかね",
+            "timestamp": "2022-10-10T22:09:45.287000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "それはどうしてですか？",
+            "timestamp": "2022-10-10T22:09:54.049000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "お金がないといろいろ我慢しなきゃいけないと思うので",
+            "timestamp": "2022-10-10T22:10:27.623000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "なるほど。でも週5でつまらない仕事し続けるの苦痛じゃないですか？",
+            "timestamp": "2022-10-10T22:10:55.421000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "お金もらえるならいいかなぁと思います",
+            "timestamp": "2022-10-10T22:11:10.393000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "お金が一番大事なんですね",
+            "timestamp": "2022-10-10T22:11:19.192000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "もちろんです。楽しいだけの仕事はやりがい搾取だと思ってます",
+            "timestamp": "2022-10-10T22:11:40.089000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "今問題になってますね",
+            "timestamp": "2022-10-10T22:11:50.109000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "楽しいことは趣味にすればいいと思ってます",
+            "timestamp": "2022-10-10T22:12:22.271000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "たしかにそうですね",
+            "timestamp": "2022-10-10T22:12:30.901000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "<HQ>さんはどっち派ですか？",
+            "timestamp": "2022-10-10T22:12:41.666000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "生活できるなら楽しい仕事のほうがいいなと思います",
+            "timestamp": "2022-10-10T22:13:00.171000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "給料低くてもですか？",
+            "timestamp": "2022-10-10T22:13:10.765000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "はい、楽しさがないと病む気がするので",
+            "timestamp": "2022-10-10T22:13:44.959000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "たしかにそうかもしれないですね",
+            "timestamp": "2022-10-10T22:13:53.210000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "お金がめちゃくちゃ稼げるならちょっと考えますけどね",
+            "timestamp": "2022-10-10T22:14:38.407000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "どっちを選んでも後悔しそうな気がします",
+            "timestamp": "2022-10-10T22:14:55.655000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "享受できなかったほうを惜しみますよね",
+            "timestamp": "2022-10-10T22:15:10.025000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "仕事があるだけありがたいと思うような状態になったら話は変わるのかもしれないですけどね",
+            "timestamp": "2022-10-10T22:15:39.097000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "そうですね。",
+            "timestamp": "2022-10-10T22:15:44.889000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "病気とか、大不況になったりとかね",
+            "timestamp": "2022-10-10T22:16:26.711000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "リーマンショックがまた来たら怖いですね",
+            "timestamp": "2022-10-10T22:16:47.698000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "リストラが恐ろしいです",
+            "timestamp": "2022-10-10T22:17:02.440000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "技術力とかスキル身につけなきゃですね",
+            "timestamp": "2022-10-10T22:17:23.750000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "あと人脈も大事な気がします",
+            "timestamp": "2022-10-10T22:17:36.722000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "人脈大事ですよね",
+            "timestamp": "2022-10-10T22:17:45.524000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "そうですねぇ",
+            "timestamp": "2022-10-10T22:17:51.717000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

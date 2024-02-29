@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7284,
+    "interlocutors": [
+        "AI",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "はじめまして、よろしくお願いいたします",
+            "timestamp": "2022-08-02T17:37:30.736000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "はじめまして。よろしくお願いいたします",
+            "timestamp": "2022-08-02T17:37:43.173000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "趣味と特技ってよくいわれますが、特技ってなんだろうっていつも不思議に思うのです",
+            "timestamp": "2022-08-02T17:38:06.774000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "どうなんでしょうね、あまり努力しなくてもできることですかね？",
+            "timestamp": "2022-08-02T17:38:50.295000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "特技ときかれるといつも返答にこまるのですよ",
+            "timestamp": "2022-08-02T17:39:04.845000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "確かに。短所長所も困る質問かもしれません。",
+            "timestamp": "2022-08-02T17:40:31.558000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "短所長所も難しいですよね",
+            "timestamp": "2022-08-02T17:40:54.141000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "特技を聞かれた時、どんな風に答えてるのですか？",
+            "timestamp": "2022-08-02T17:41:51.537000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "わりとどの国にいってもその国の料理が美味しいと思えること",
+            "timestamp": "2022-08-02T17:42:30.519000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "長所にもなりそうですね",
+            "timestamp": "2022-08-02T17:43:10.856000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "長所短所はもういうこときまっていて、集中できる没頭する⇔視野がせまい",
+            "timestamp": "2022-08-02T17:43:36.356000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "同じことを違う見方していうと短所長所になりますよね",
+            "timestamp": "2022-08-02T17:44:21.494000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "ただいわゆるテンプレ回答に近いかもしれません",
+            "timestamp": "2022-08-02T17:44:40.994000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "集中力が求められる場所では、強みになると思います",
+            "timestamp": "2022-08-02T17:46:26.051000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "<BL>さんは特技はどう回答されますか",
+            "timestamp": "2022-08-02T17:46:50.752000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "最近聞かれる場がなくて、昔は、朗読などと答えてましたね",
+            "timestamp": "2022-08-02T17:48:06.338000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "朗読ですか、なるほど、いい回答ですね",
+            "timestamp": "2022-08-02T17:48:33.113000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "あまり同じ回答をしなさそうなものがいいかと思いまして",
+            "timestamp": "2022-08-02T17:49:31.234000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "なるほど、では長所短所はどう回答されますか",
+            "timestamp": "2022-08-02T17:49:46.467000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "長所は気が長い、短所は存在感が薄いとかですね",
+            "timestamp": "2022-08-02T17:51:51.504000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "なるほど、いい回答ですね。悪い印象はうけないキレイな回答だと思います",
+            "timestamp": "2022-08-02T17:52:21.627000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "たぶん、存在感が必要な場所ではウケない回答です",
+            "timestamp": "2022-08-02T17:53:53.028000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "日本だとなかなか存在感もとめられるシーンは少ない気がします",
+            "timestamp": "2022-08-02T17:54:14.185000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "確かに。存在を消して過ごしていても困ることはないですね。",
+            "timestamp": "2022-08-02T17:56:30.460000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "和をもって貴しとなす国ですから",
+            "timestamp": "2022-08-02T17:56:47.458000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "そんな言葉があるのですね",
+            "timestamp": "2022-08-02T17:57:41.167000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "聖徳太子です",
+            "timestamp": "2022-08-02T17:58:13.686000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "歴史に興味がおありですか？",
+            "timestamp": "2022-08-02T17:58:54.885000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "はい、とってもあります",
+            "timestamp": "2022-08-02T17:59:06.229000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね。こんどまたお話を聞かせてください",
+            "timestamp": "2022-08-02T17:59:48.781000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

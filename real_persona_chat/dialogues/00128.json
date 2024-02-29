@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 128,
+    "interlocutors": [
+        "AA",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-09T07:12:37.887000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-09T07:12:43.557000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "今週はどのように過ごされますか？",
+            "timestamp": "2022-08-09T07:12:50.945000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "週末にちょいと野菜や果物の買い出しにいこうかなと",
+            "timestamp": "2022-08-09T07:13:13.008000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "ああ、いいですね。何か決めている野菜などありますか？",
+            "timestamp": "2022-08-09T07:13:43.060000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "果物は決めています、ぶどう",
+            "timestamp": "2022-08-09T07:14:01.980000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "おお、シャインマスカットとかですか？",
+            "timestamp": "2022-08-09T07:14:13.772000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "シャインマスカットはまだ早いかな、秩父ルビーってのを狙ってます",
+            "timestamp": "2022-08-09T07:14:31.978000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "秩父ルビー！なんか去年テレビで放映されたかなにかで人気になったやつですね",
+            "timestamp": "2022-08-09T07:14:59.302000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "ああそうなんですか、あんま人気なると困るなあ",
+            "timestamp": "2022-08-09T07:15:15.934000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "よく召し上がるんですか？",
+            "timestamp": "2022-08-09T07:15:56.044000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "いや、去年知ったんですが、買いそびれちゃったんですよ",
+            "timestamp": "2022-08-09T07:16:11.395000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "ああ、そうなんですね。楽しみですね",
+            "timestamp": "2022-08-09T07:16:22.878000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "そう、今年はなんとか入手してやろうかなと",
+            "timestamp": "2022-08-09T07:16:05.532000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "どこで購入するかも決めているんですか？",
+            "timestamp": "2022-08-09T07:16:57.927000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "はい、今のところ狙いを定めています",
+            "timestamp": "2022-08-09T07:16:38.005000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "お！それであればなんか買えそうですね！",
+            "timestamp": "2022-08-09T07:16:54.309000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "ダメでもあきらめない、不屈の精神です",
+            "timestamp": "2022-08-09T07:17:05.375000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "とても良い精神ですね、頑張ってください！",
+            "timestamp": "2022-08-09T07:17:22.061000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "あとはふるさと納税ですね",
+            "timestamp": "2022-08-09T07:17:33.043000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "ああ、母がやっていて今年桃とかマンゴーが届きました",
+            "timestamp": "2022-08-09T07:17:50.098000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "そうそう、そろそろ夏なので果物の募集が始まるから",
+            "timestamp": "2022-08-09T07:18:09.093000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "いいでですね。そこでも果物を？",
+            "timestamp": "2022-08-09T07:18:52.662000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "まずはプラムかなって",
+            "timestamp": "2022-08-09T07:18:52.726000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "ほお、プラム。生で召し上がるんですか？",
+            "timestamp": "2022-08-09T07:18:45.978000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "はい、ジューシーで大好きです",
+            "timestamp": "2022-08-09T07:18:58.330000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "いいですね！プラムというとなんだかドライのほうがイメージがあったので",
+            "timestamp": "2022-08-09T07:19:14.744000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "これからぶどうにりんごに、やっぱ秋はいいですよね",
+            "timestamp": "2022-08-09T07:19:37.731000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "今年は豊作だと嬉しいですね",
+            "timestamp": "2022-08-09T07:19:51.554000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "どこに行こうか今悩み中です",
+            "timestamp": "2022-08-09T07:20:03.627000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

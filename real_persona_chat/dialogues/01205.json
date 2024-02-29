@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1205,
+    "interlocutors": [
+        "BT",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "こんにちは。よろしくでーす。",
+            "timestamp": "2022-08-13T08:53:30.439000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "よろしくお願いしますー！",
+            "timestamp": "2022-08-13T08:53:37.280000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "子どもの頃、何か部活や習い事してました？",
+            "timestamp": "2022-08-13T08:53:50.044000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "ピアノと水泳を習ってました。",
+            "timestamp": "2022-08-13T08:53:59.959000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "おぉ。ピアノ。けっこう弾けるんですか？",
+            "timestamp": "2022-08-13T08:54:19.514000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "いやー。それが全然で。あまり長続きしなかったです。",
+            "timestamp": "2022-08-13T08:54:36.558000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "じゃあ水泳は、けっこう続きました？",
+            "timestamp": "2022-08-13T08:54:50.786000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "水泳は、四年くらい通いました。こっちのほうがあってた！",
+            "timestamp": "2022-08-13T08:55:08.408000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "へえ。私はプールに行っても、浮き輪で浮いてるぐらいしかできないので、うらやましいです。",
+            "timestamp": "2022-08-13T08:55:33.641000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "そうなんですねー。いやでも、私も学校で泳げないから教室入れられたという。",
+            "timestamp": "2022-08-13T08:55:52.037000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "やっぱり通うと、泳げるようになるもんですか？",
+            "timestamp": "2022-08-13T08:56:13.297000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "なりますね。なんでか。",
+            "timestamp": "2022-08-13T08:56:18.670000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "一番得意な泳法って、何ですか？",
+            "timestamp": "2022-08-13T08:56:31.024000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "背泳ぎです！",
+            "timestamp": "2022-08-13T08:56:40.292000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "へえ！水が入ってきそうですけど、大丈夫なんですね。",
+            "timestamp": "2022-08-13T08:57:03.666000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "顔を水につけないので、空気吸い放題であんまり疲れないんですよ。",
+            "timestamp": "2022-08-13T08:57:31.274000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "のんびり、スイーっと泳ぐ感じなのかな。",
+            "timestamp": "2022-08-13T08:57:48.038000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "ガチで泳いでも、わりと水が来るのはこの時だけみたいのがあってですねー。",
+            "timestamp": "2022-08-13T08:58:08.529000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。気を付ける瞬間が、わかるんですか。",
+            "timestamp": "2022-08-13T08:58:29.830000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "そうなんです。そのときだけ、鼻をフンってします。",
+            "timestamp": "2022-08-13T08:58:46.442000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "フンって。あはは。おもしろい表現。",
+            "timestamp": "2022-08-13T08:59:05.658000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "なんかそういう感じなんです。口を閉じてフンみたいな。",
+            "timestamp": "2022-08-13T08:59:21.801000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "へえ。タイミングがあるんですね。ちなみにバタフライも泳げますか？",
+            "timestamp": "2022-08-13T08:59:42.088000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "バタフライは無理です。あれ、難しすぎます。",
+            "timestamp": "2022-08-13T08:59:57.110000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "やっぱり難しいものなんですね。私、あれ、意味がわからないですよ。",
+            "timestamp": "2022-08-13T09:00:24.026000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "私もわからないです。先生からは、おぼれているようにしか見えんといわれてました。",
+            "timestamp": "2022-08-13T09:00:38.515000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "あはは。溺れてるって。ひどい言い方。",
+            "timestamp": "2022-08-13T09:00:53.368000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "ほんとひどいですよねー！　いやでも、あれはほんと無理です。",
+            "timestamp": "2022-08-13T09:01:14.856000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "そもそも、肩がまわらない気がします。私は。",
+            "timestamp": "2022-08-13T09:01:27.730000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "あれはほんと、水泳の中でも一番難しいと思います！　できなくても仕方ない！",
+            "timestamp": "2022-08-13T09:02:02.062000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

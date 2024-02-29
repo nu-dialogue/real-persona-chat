@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11849,
+    "interlocutors": [
+        "EJ",
+        "IN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-27T17:50:23.253000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IN",
+            "text": "こんにちは",
+            "timestamp": "2022-08-27T17:50:33.674000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EJ",
+            "text": "最近、どこかお出かけしましたか？",
+            "timestamp": "2022-08-27T17:50:51.923000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IN",
+            "text": "伊勢丹行ったくらいですかね。",
+            "timestamp": "2022-08-27T17:51:09.195000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですね！何かを買いに行ったんですか？",
+            "timestamp": "2022-08-27T17:51:25.035000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IN",
+            "text": "服を買いに行きました。",
+            "timestamp": "2022-08-27T17:52:06.954000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EJ",
+            "text": "いいですね！普段通販なので、私もたまにはお店に行こうかな。",
+            "timestamp": "2022-08-27T17:52:18.124000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IN",
+            "text": "実店舗はやはり楽しいですよ。",
+            "timestamp": "2022-08-27T17:52:37.337000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EJ",
+            "text": "そうですね！実際見てみないと分からない事も多いですしね。",
+            "timestamp": "2022-08-27T17:53:09.364000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IN",
+            "text": "質感とかサイズ感とか見ないとやっぱ不安です。",
+            "timestamp": "2022-08-27T17:53:22.813000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EJ",
+            "text": "ですよね。私も出来れば実店舗に毎回行きたいんですが、田舎住で。",
+            "timestamp": "2022-08-27T17:53:59.974000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IN",
+            "text": "地方だと服を買うためだけにいちいち都心部に出るのは大変ですよね。",
+            "timestamp": "2022-08-27T17:54:32.703000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですよね。買った服持って帰って来るのも大変ですし。",
+            "timestamp": "2022-08-27T17:56:01.321000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IN",
+            "text": "ですね。自分も東京住んでなかったら通販に頼っていたと思います。",
+            "timestamp": "2022-08-27T17:56:32.331000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EJ",
+            "text": "そういう利便性はやっぱり都心に住む利点ですよね。",
+            "timestamp": "2022-08-27T17:56:53.542000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IN",
+            "text": "そうですね、買い物が便利というのはいい点ですね。",
+            "timestamp": "2022-08-27T17:57:14.582000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EJ",
+            "text": "田舎とはいえ、生活には困らないんですが、やっぱりそれでも不便ですね。",
+            "timestamp": "2022-08-27T17:58:18.648000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IN",
+            "text": "正直地方生活に憧れもあるんですが、現実的には色々と制約がありそうですね。",
+            "timestamp": "2022-08-27T17:58:46.936000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EJ",
+            "text": "そうですね。趣味によっては制限されることもありますね。",
+            "timestamp": "2022-08-27T17:59:35.430000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IN",
+            "text": "そうですね。やっぱ現実的には移住は難しいか。",
+            "timestamp": "2022-08-27T18:00:00.050000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EJ",
+            "text": "通販で済ませられるなら、ありだとは思います！後はご近所づきあいですかね。",
+            "timestamp": "2022-08-27T18:00:43.737000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IN",
+            "text": "地方だとご近所付き合いとかやっぱ大変ですか？",
+            "timestamp": "2022-08-27T18:00:51.749000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EJ",
+            "text": "そうですね。独特なルールとか、土地関係の問題とかあるので。",
+            "timestamp": "2022-08-27T18:01:18.605000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IN",
+            "text": "マジですか.",
+            "timestamp": "2022-08-27T18:01:39.611000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EJ",
+            "text": "後者はともかく、前者はよそから来る人には結構大変な問題かもしれませんね。",
+            "timestamp": "2022-08-27T18:02:08.812000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IN",
+            "text": "独特なルールかあ、聞きたいような怖いようなデス。",
+            "timestamp": "2022-08-27T18:03:11.019000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EJ",
+            "text": "と言っても、とんでもなくヤバいわけじゃなくて、暗黙の了解的な意味でですね。",
+            "timestamp": "2022-08-27T18:03:47.208000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IN",
+            "text": "なるほど。",
+            "timestamp": "2022-08-27T18:04:15.594000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EJ",
+            "text": "新しく着た人には言わなきゃ分からないようなことも、教えてくれなかったりとか。",
+            "timestamp": "2022-08-27T18:04:54.178000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IN",
+            "text": "そういうのってやっぱりあるんですね。",
+            "timestamp": "2022-08-27T18:05:18.226000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "IN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

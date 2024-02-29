@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11692,
+    "interlocutors": [
+        "ED",
+        "CB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ED",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-25T00:25:18.032000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CB",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-25T00:25:22.341000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ED",
+            "text": "今日の晩ご飯は何でした？",
+            "timestamp": "2022-08-25T00:25:31.190000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CB",
+            "text": "カレーととりかわでした",
+            "timestamp": "2022-08-25T00:25:39.113000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ED",
+            "text": "えー美味しそう！鶏皮は焼いたんですか？",
+            "timestamp": "2022-08-25T00:25:58.049000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CB",
+            "text": "ボイルのをかいました。あっさりポン酢でたべました",
+            "timestamp": "2022-08-25T00:26:13.668000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ED",
+            "text": "めちゃくちゃ美味しそうですねー！",
+            "timestamp": "2022-08-25T00:26:27.108000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CB",
+            "text": "すもつとかも好きで、夏にはまってます",
+            "timestamp": "2022-08-25T00:26:42.481000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ED",
+            "text": "さっぱりしていて夏に食べやすそうですねー！",
+            "timestamp": "2022-08-25T00:27:04.554000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CB",
+            "text": "そうですね。そちらは何でしたか？",
+            "timestamp": "2022-08-25T00:27:17.857000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ED",
+            "text": "私は麻婆豆腐の豆腐ぬきでした。",
+            "timestamp": "2022-08-25T00:27:38.033000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CB",
+            "text": "豆腐ぬきですか。ひき肉炒めみたいな感じでしょうか。",
+            "timestamp": "2022-08-25T00:28:01.518000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ED",
+            "text": "買い忘れました。そうですね、餡だけをご飯にかけて食べました。",
+            "timestamp": "2022-08-25T00:28:26.120000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CB",
+            "text": "それもおいしそうですね。辛さはどのくらいですか",
+            "timestamp": "2022-08-25T00:28:56.590000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ED",
+            "text": "割と辛めが好きなので、ラー油をたっぷりかけました。",
+            "timestamp": "2022-08-25T00:29:16.016000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CB",
+            "text": "ラー油おいしいですよね",
+            "timestamp": "2022-08-25T00:29:31.092000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ED",
+            "text": "美味しいですよね。辛いのお好きですか？",
+            "timestamp": "2022-08-25T00:29:42.337000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CB",
+            "text": "大好きです。",
+            "timestamp": "2022-08-25T00:30:12.889000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ED",
+            "text": "韓国料理とか、中華とかよく食べられます？",
+            "timestamp": "2022-08-25T00:30:39.180000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CB",
+            "text": "最近韓国料理は食べてないですけど、どちらも好きで食べます",
+            "timestamp": "2022-08-25T00:31:03.941000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ED",
+            "text": "私、火鍋が好きで。",
+            "timestamp": "2022-08-25T00:31:16.435000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CB",
+            "text": "火鍋いいですね。外食ですか？自宅でもしますか",
+            "timestamp": "2022-08-25T00:31:44.873000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ED",
+            "text": "外食ですねー。自宅でもできるんでしょうか。",
+            "timestamp": "2022-08-25T00:32:03.205000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CB",
+            "text": "鍋必要ですもんね",
+            "timestamp": "2022-08-25T00:32:16.639000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ED",
+            "text": "あの鍋独特ですよね。",
+            "timestamp": "2022-08-25T00:32:25.913000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CB",
+            "text": "そうですよね。家でもっていたらレアですよね",
+            "timestamp": "2022-08-25T00:32:56.407000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ED",
+            "text": "あと、薬味的なのもたくさんいりそうです。",
+            "timestamp": "2022-08-25T00:33:13.507000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CB",
+            "text": "そうですね。いきつけのお店があるんですか",
+            "timestamp": "2022-08-25T00:33:28.940000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ED",
+            "text": "はい、一軒あるんです。美味しくって。",
+            "timestamp": "2022-08-25T00:33:43.904000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CB",
+            "text": "いいですね！　食べたくなってきました",
+            "timestamp": "2022-08-25T00:33:55.184000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

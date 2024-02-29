@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13446,
+    "interlocutors": [
+        "GT",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-22T18:39:28.442000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T18:39:35.850000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "今日何をしましたか？",
+            "timestamp": "2022-09-22T18:39:45.089000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "今日はいつも通り研究室に行きました。",
+            "timestamp": "2022-09-22T18:39:59.140000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "学生さんですか？",
+            "timestamp": "2022-09-22T18:40:08.458000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "そうです！",
+            "timestamp": "2022-09-22T18:40:14.660000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "忙しそうですね。",
+            "timestamp": "2022-09-22T18:40:21.121000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "そうですね、でも毎日楽しいですよ。そちらは今日何をされたんですか？",
+            "timestamp": "2022-09-22T18:40:44.894000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "働いています。",
+            "timestamp": "2022-09-22T18:40:56.058000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "なるほど、そういえば、私の周りはみんな就活中で忙しそうです。",
+            "timestamp": "2022-09-22T18:41:19.977000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "就活大変でした。",
+            "timestamp": "2022-09-22T18:41:28.851000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "どれくらいエントリーシート送りましたか？",
+            "timestamp": "2022-09-22T18:41:40.145000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "文系なのでかなり多く出しましたね。",
+            "timestamp": "2022-09-22T18:41:53.819000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "それは大変でしたね！",
+            "timestamp": "2022-09-22T18:42:04.348000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "これからですか？",
+            "timestamp": "2022-09-22T18:42:09.441000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "私は大学院に進学するのでしばらく就活はしません。",
+            "timestamp": "2022-09-22T18:42:22.238000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "どんなことを研究していますか？",
+            "timestamp": "2022-09-22T18:42:32.521000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "理学部で、物理の研究をしています。物の性質を調べるっていう。",
+            "timestamp": "2022-09-22T18:42:54.458000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "難しそうですね。",
+            "timestamp": "2022-09-22T18:43:02.839000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "難しいですね、でもおもしろいのでやみつきです。",
+            "timestamp": "2022-09-22T18:43:19.823000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "いいですね、私も学生に戻りたいです。",
+            "timestamp": "2022-09-22T18:43:29.168000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "学生の頃、何に熱中してました？",
+            "timestamp": "2022-09-22T18:43:41.669000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "私はピアノをしていました！",
+            "timestamp": "2022-09-22T18:43:56.140000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "ピアノですか！すてきですね！",
+            "timestamp": "2022-09-22T18:44:04.088000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "弾いていると落ち着きます。",
+            "timestamp": "2022-09-22T18:44:17.689000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "好きな曲はなんですか？",
+            "timestamp": "2022-09-22T18:44:25.782000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "ショパンなどが好きです。",
+            "timestamp": "2022-09-22T18:44:37.801000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "ショパンですか、弾けるの尊敬します。",
+            "timestamp": "2022-09-22T18:44:50.652000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "今は全然やっていないんですけどね。",
+            "timestamp": "2022-09-22T18:45:01.518000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "いえいえ、弾けるだけすてきですー！",
+            "timestamp": "2022-09-22T18:45:13.424000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

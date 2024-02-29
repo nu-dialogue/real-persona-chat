@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7463,
+    "interlocutors": [
+        "CJ",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CJ",
+            "text": "はじめまして、よろしくお願いします。",
+            "timestamp": "2022-08-05T11:30:06.780000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "こちらこそお願いします。",
+            "timestamp": "2022-08-05T11:30:16.917000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CJ",
+            "text": "私、国内旅行が好きなんですけど、旅行はお好きですか？",
+            "timestamp": "2022-08-05T11:30:36.341000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "好きですよ、最近はあまり行けてないですが。",
+            "timestamp": "2022-08-05T11:30:56.162000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CJ",
+            "text": "お気に入りの旅行先ってありますか？",
+            "timestamp": "2022-08-05T11:31:16.352000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "あまり無いですね、行ったことないところへ行こうとします。",
+            "timestamp": "2022-08-05T11:31:53.626000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CJ",
+            "text": "最近航空会社とかで行き先がシークレットのチケットを販売してますけど、そういうのいいんじゃないですか？",
+            "timestamp": "2022-08-05T11:32:40.670000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "あれかなりお得ですよね。",
+            "timestamp": "2022-08-05T11:32:57.245000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CJ",
+            "text": "面白いなあ、と思ってるんですけど。いまいちシステムが良くわからなくて。",
+            "timestamp": "2022-08-05T11:33:18.430000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "行先はランダムだけど、普通に計画するより安いっていう感じと思ってます。",
+            "timestamp": "2022-08-05T11:33:58.241000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CJ",
+            "text": "ですよね。あれってチケットだけなんですか？宿とか自分で取るのかな？",
+            "timestamp": "2022-08-05T11:34:24.427000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "どうなんでしょうね、どっちのケースもあるかもしれませんね。",
+            "timestamp": "2022-08-05T11:34:41.476000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CJ",
+            "text": "そうなんだ。パックになっているんならいいなあと思ってるんですけどね。",
+            "timestamp": "2022-08-05T11:35:10.947000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "その方が計画は楽ですよね。",
+            "timestamp": "2022-08-05T11:35:31.222000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CJ",
+            "text": "そうなんですよ。チケットだけあってもその他のものがうまく手配できなければ、楽しめませんからね。",
+            "timestamp": "2022-08-05T11:36:00.045000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "たしかに、宿も安くないとトータルで高かったら嫌ですもんね。",
+            "timestamp": "2022-08-05T11:36:16.805000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CJ",
+            "text": "私は近場で旅行するのも好きで、東北のドライブ旅とかよく出かけます。",
+            "timestamp": "2022-08-05T11:37:02.746000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "近くに出かけられるところがあるといいですね、しかも車だと人混み回避できて良いです。",
+            "timestamp": "2022-08-05T11:37:41.133000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CJ",
+            "text": "そうですね。時刻表を気にしながらってのが苦手なので車は好きです。",
+            "timestamp": "2022-08-05T11:38:08.479000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "好きなところ寄れますしね。",
+            "timestamp": "2022-08-05T11:38:42.492000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CJ",
+            "text": "そうですよね。気分次第で行き先を決められるのもいいです。遠い場所もレンタカーで回ったりして。",
+            "timestamp": "2022-08-05T11:39:31.260000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "レンタカーだと色んな車に乗れる楽しみもありますね。",
+            "timestamp": "2022-08-05T11:39:54.749000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CJ",
+            "text": "ときどき素晴らしい当たりがあります。",
+            "timestamp": "2022-08-05T11:40:12.208000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "その時めちゃくちゃうれしくないですか？",
+            "timestamp": "2022-08-05T11:40:31.077000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CJ",
+            "text": "嬉しかったです！青森に行った時、予約していた車が使えないて言われて、スカイラインが出てきました。",
+            "timestamp": "2022-08-05T11:41:06.996000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "それで値段が変わらないならめっちゃお得です！",
+            "timestamp": "2022-08-05T11:41:30.408000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CJ",
+            "text": "普通なら倍以上するグレードなんで、思わずガッツポースです！",
+            "timestamp": "2022-08-05T11:41:51.283000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "お店側も元々のより低いグレードの車はお客さんに出せないですよね。",
+            "timestamp": "2022-08-05T11:42:17.065000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CJ",
+            "text": "そういうことです。また当たるといいなあ。さて旅行の計画を立てるかな。",
+            "timestamp": "2022-08-05T11:42:40.744000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "いいですね、私も行きたいところピックアップしておきます。",
+            "timestamp": "2022-08-05T11:43:13.347000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CJ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

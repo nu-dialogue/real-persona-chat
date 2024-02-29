@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12342,
+    "interlocutors": [
+        "AR",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-08T10:29:16.088000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-08T10:29:30.751000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "お仕事はされていますか。",
+            "timestamp": "2022-09-08T10:29:35.573000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "今は休職中です。",
+            "timestamp": "2022-09-08T10:29:47.473000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "そうなんですね。長いのですか？",
+            "timestamp": "2022-09-08T10:30:04.866000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "2年半くらいになりました。",
+            "timestamp": "2022-09-08T10:30:12.854000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "まぁまぁ長いですね。体調崩されましたか？",
+            "timestamp": "2022-09-08T10:30:43.635000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "そうです。精神を病みました。",
+            "timestamp": "2022-09-08T10:30:53.188000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "自分のペースでゆっくり療養されてください。職場はストレスがたまる場所でしたか？",
+            "timestamp": "2022-09-08T10:31:26.502000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "コロナで外に出るのが辛くなってしまいました。",
+            "timestamp": "2022-09-08T10:31:46.166000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "目に見えないものですからね。ワクチンは打ちましたか？",
+            "timestamp": "2022-09-08T10:32:12.904000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "ワクチンは4回打ちました。",
+            "timestamp": "2022-09-08T10:32:27.431000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "多少は気持ちが安心ですね。私はアナフィラキシーショックの経験があるので１回も打てていません。",
+            "timestamp": "2022-09-08T10:32:56.588000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "少し落ち着きました。それは心配ですね。",
+            "timestamp": "2022-09-08T10:33:15.316000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "アレルギー検査を今までにしましたが、決定的な原因がわからなかったので何に反応するか怖いです。",
+            "timestamp": "2022-09-08T10:34:00.591000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "コロナもワクチンも怖いですね。",
+            "timestamp": "2022-09-08T10:34:23.938000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "とにかく特効薬だけでも出てくれれば。３年間もこの状況は長いですよね。",
+            "timestamp": "2022-09-08T10:35:05.376000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "いつまでこの状況が続くのやらって感じです。",
+            "timestamp": "2022-09-08T10:35:21.224000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "１年はとりあえずかなり自粛しましたが、２年目からは頭がおかしくなりそうで、最近はキャンプなどしています。",
+            "timestamp": "2022-09-08T10:36:09.257000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "そういうことをしていかないとメンタルヘルスの問題が出ますね。",
+            "timestamp": "2022-09-08T10:36:28.798000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "はい。とにかく人間最低限日光にあたらないと気分が落ちますね。",
+            "timestamp": "2022-09-08T10:37:11.401000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "そうですね。私も朝の散歩は欠かさずするようになりました。",
+            "timestamp": "2022-09-08T10:37:26.538000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "夜は眠れていますか？",
+            "timestamp": "2022-09-08T10:37:43.882000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "睡眠薬を飲んで寝ています。",
+            "timestamp": "2022-09-08T10:37:52.532000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "瞑想すると良いですよ。私も１０年ほど不眠に悩み、睡眠薬が手放せませんでした。",
+            "timestamp": "2022-09-08T10:38:26.053000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "少しずつ減らしているところです。",
+            "timestamp": "2022-09-08T10:38:37.784000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "飲んだ方が気分が安心なんですよね。",
+            "timestamp": "2022-09-08T10:39:11.593000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "でも寝過ぎてしまうので、最近減らしています。",
+            "timestamp": "2022-09-08T10:39:22.811000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "朝というか午前中までぼーっとしてしまう時ありますもんね。お大事になさってください。",
+            "timestamp": "2022-09-08T10:39:49.296000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-09-08T10:39:58.365000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6269,
+    "interlocutors": [
+        "GV",
+        "GL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GV",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-10-03T23:52:57.656000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GL",
+            "text": "こんばんは、よろしくお願いいたします。！",
+            "timestamp": "2022-10-03T23:53:03.232000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GV",
+            "text": "話題が思い浮かびません。何か面白そうな話題ありますか？",
+            "timestamp": "2022-10-03T23:53:31.562000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GL",
+            "text": "そうですね。私もあまりボキャブラリーないのですが！野球とか見ますか？",
+            "timestamp": "2022-10-03T23:54:08.194000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GV",
+            "text": "あまり分からないですね。オリックス優勝みたいな話は聞きました。",
+            "timestamp": "2022-10-03T23:54:40.938000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GL",
+            "text": "そうでしたか！そうですね！オリックスも逆転優勝しましたね。",
+            "timestamp": "2022-10-03T23:55:33.119000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GV",
+            "text": "セリーグの優勝はどのチームでしたっけ？",
+            "timestamp": "2022-10-03T23:55:51.394000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GL",
+            "text": "だんとつのヤクルトでした！",
+            "timestamp": "2022-10-03T23:56:04.384000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GV",
+            "text": "ヤクルトは確か村上選手が大活躍しているチームですね。",
+            "timestamp": "2022-10-03T23:56:24.292000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GL",
+            "text": "はい、村上選手本当にすごいですよね。22歳とは思えない。。。",
+            "timestamp": "2022-10-03T23:56:46.334000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GV",
+            "text": "私と同じ年齢の人でであんな怪物がいるのは信じられません。",
+            "timestamp": "2022-10-03T23:57:20.869000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GL",
+            "text": "そうですよね。野球選手ってすごい若い時から活躍できるから夢あるなと思います！",
+            "timestamp": "2022-10-03T23:57:42.675000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GV",
+            "text": "あとは、大谷選手の話題はかなり頻繁に聞きますよね。",
+            "timestamp": "2022-10-03T23:58:08.797000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GL",
+            "text": "はい、やはり大谷選手も二刀流ですごい活躍されていて、、、この時代に見れてよかったなと思います！",
+            "timestamp": "2022-10-03T23:58:52.716000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GV",
+            "text": "本当にそう思います。この先も中々大谷選手みたいなプレイヤーは出ないでしょうね。",
+            "timestamp": "2022-10-03T23:59:33.952000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GL",
+            "text": "はい、日本人の誇りです。ほんとうに。",
+            "timestamp": "2022-10-03T23:59:57.130000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GV",
+            "text": "故障だけ本当に気を付けながらこれからも頑張ってほしいと思います。",
+            "timestamp": "2022-10-04T00:00:28.454000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GL",
+            "text": "はい、野球観戦は行ったことはありますか？",
+            "timestamp": "2022-10-04T00:00:39.269000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GV",
+            "text": "記憶の限りはないですね。幼少期に1回あるらしいです。",
+            "timestamp": "2022-10-04T00:00:59.953000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GL",
+            "text": "そうでしたか！私も幼いころからいっているのですが、最近はまた違った楽しみもあります！",
+            "timestamp": "2022-10-04T00:01:27.098000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GV",
+            "text": "具体的にどういったことでしょうか？",
+            "timestamp": "2022-10-04T00:01:49.777000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GL",
+            "text": "そうですね。やはりアルコールやお弁当を食べながら観戦できることですかね！",
+            "timestamp": "2022-10-04T00:02:29.319000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GV",
+            "text": "お酒飲めるようになったのは確かにかなり大きいですね。私も一度ビール飲みながら野球観戦してみたいです。",
+            "timestamp": "2022-10-04T00:03:11.903000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GL",
+            "text": "はい、野球も盛り上がりますし、場内のグルメも堪能出来て一石二鳥かなと！野球知らない方でもおすすめです！",
+            "timestamp": "2022-10-04T00:04:06.201000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GV",
+            "text": "いつか友達とかと一緒に行きたいです。",
+            "timestamp": "2022-10-04T00:04:36.768000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GL",
+            "text": "そうですね。応援しているチームがいなければお友達といけますよね！",
+            "timestamp": "2022-10-04T00:04:55.967000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GV",
+            "text": "因みにどのチーム応援していますか？",
+            "timestamp": "2022-10-04T00:05:13.520000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GL",
+            "text": "セリーグの阪神タイガースです！父の影響ですけど！",
+            "timestamp": "2022-10-04T00:05:32.666000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GV",
+            "text": "阪神ファンは熱心な方多いですよね！",
+            "timestamp": "2022-10-04T00:05:49.867000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GL",
+            "text": "はい、引くほど周りがに熱心で笑っちゃいます！",
+            "timestamp": "2022-10-04T00:06:09.738000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

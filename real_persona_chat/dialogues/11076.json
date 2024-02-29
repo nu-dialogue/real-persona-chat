@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11076,
+    "interlocutors": [
+        "EZ",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T13:51:16.766000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T13:51:22.307000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "お昼ご飯はもう食べましたか？",
+            "timestamp": "2022-08-19T13:51:35.480000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "食べました！今日はチキンカレーとチーズナンでした。",
+            "timestamp": "2022-08-19T13:51:44.956000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "すごい本格的なカレー料理ですね。",
+            "timestamp": "2022-08-19T13:51:59.887000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "いえいえ。冷凍のものをチンしただけですが。",
+            "timestamp": "2022-08-19T13:52:10.956000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "カレーはご自分でおつくりになったのですか？",
+            "timestamp": "2022-08-19T13:52:27.013000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "いえ、カレーも冷凍でした！夏はあまり料理したくなくて。",
+            "timestamp": "2022-08-19T13:52:38.726000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "わかります！火を使うと暑いですよね。",
+            "timestamp": "2022-08-19T13:52:51.896000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "<EZ>さんはもうお昼ご飯済みましたか？",
+            "timestamp": "2022-08-19T13:53:02.084000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "コンビニで冷やしパスタなるものを買ってきました。",
+            "timestamp": "2022-08-19T13:53:16.005000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "最近のコンビニパスタ、美味しいですよね！",
+            "timestamp": "2022-08-19T13:53:27.456000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですよ！種類もいっぱいあるし。",
+            "timestamp": "2022-08-19T13:53:41.289000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "しかも冷やしパスタ、夏っぽくていいですね。",
+            "timestamp": "2022-08-19T13:53:56.958000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "初めて買いましたが、普通においしかったです。",
+            "timestamp": "2022-08-19T13:54:15.721000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "味付けはどんな感じでしたか？",
+            "timestamp": "2022-08-19T13:54:22.965000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "納豆と温泉卵がついていて、めんつゆはそうめんのようなものですかねたぶん。",
+            "timestamp": "2022-08-19T13:54:55.075000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "和風ですね！美味しそう。コンビニ飯なら、どのコンビニが一番好きですか？",
+            "timestamp": "2022-08-19T13:55:11.015000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "近くにファミリーマートしかないのですが、セブン好きです。",
+            "timestamp": "2022-08-19T13:55:31.129000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "分かります！私もセブンが好きです。種類も豊富ですしね。",
+            "timestamp": "2022-08-19T13:55:45.700000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "でもローソンのおにぎりも捨てがたいんですよね。",
+            "timestamp": "2022-08-19T13:56:02.870000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "ローソンはデザートも美味しいですよね。",
+            "timestamp": "2022-08-19T13:56:12.568000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "そうですよね。最近店内弁当とかも増えてきた気がします。",
+            "timestamp": "2022-08-19T13:56:40.694000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "たしかに！コンビニでも結構本格的なものが食べれたりしますよね。",
+            "timestamp": "2022-08-19T13:56:59.072000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "店内で作っている弁当だと、変な成分が入ってなさそうでいいですよね。",
+            "timestamp": "2022-08-19T13:57:20.029000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "コンビニのおにぎりとかって、美味しいけど、保存料とか時々気になりますもんね。",
+            "timestamp": "2022-08-19T13:57:37.896000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "そうなんです！結構毎日食べているので、最近は一日一つまでにしてます。",
+            "timestamp": "2022-08-19T13:58:07.021000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "コンビニ飯お好きなのですね。",
+            "timestamp": "2022-08-19T13:58:15.503000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "というか作る時間も食べる時間もあまりないので仕方なくって感じです。",
+            "timestamp": "2022-08-19T13:58:41.248000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "お忙しいからだったのですね。くれぐれも健康には気を付けてくださいね！",
+            "timestamp": "2022-08-19T13:58:53.331000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

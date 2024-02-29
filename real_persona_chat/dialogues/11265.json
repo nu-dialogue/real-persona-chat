@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11265,
+    "interlocutors": [
+        "EM",
+        "CV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EM",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-20T20:36:35.130000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CV",
+            "text": "よろしくお願いいたしますー！",
+            "timestamp": "2022-08-20T20:36:42.239000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EM",
+            "text": "寿司は好きですか？",
+            "timestamp": "2022-08-20T20:36:50.297000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CV",
+            "text": "お寿司大好きです！",
+            "timestamp": "2022-08-20T20:37:06.905000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EM",
+            "text": "ネタで言うと？",
+            "timestamp": "2022-08-20T20:37:11.160000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CV",
+            "text": "サーモンと、ハマチが好きですね！",
+            "timestamp": "2022-08-20T20:37:25.226000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EM",
+            "text": "いいですね、サーモン好きです。マグロよりも好きですね。",
+            "timestamp": "2022-08-20T20:37:41.379000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CV",
+            "text": "マグロは、ちょっと血？っぽいクセがありますよね",
+            "timestamp": "2022-08-20T20:38:15.703000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EM",
+            "text": "臭みがありますね。回転ずしなんかで食べるならわかりやすいほうがうまく感じます。",
+            "timestamp": "2022-08-20T20:38:33.718000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CV",
+            "text": "おすすめネタはありますか？",
+            "timestamp": "2022-08-20T20:38:53.460000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EM",
+            "text": "アジが大好きですね。",
+            "timestamp": "2022-08-20T20:38:59.204000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CV",
+            "text": "アジ！美味しいですね。アジは干物も大好きですが。",
+            "timestamp": "2022-08-20T20:39:15.848000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EM",
+            "text": "ええ、何にしてもあれはうまいです。",
+            "timestamp": "2022-08-20T20:39:24.525000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CV",
+            "text": "近所に美味しいお魚やさんがあって、お刺身盛りを買って海鮮丼をたまにやります",
+            "timestamp": "2022-08-20T20:40:18.848000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EM",
+            "text": "素晴らしいですね。私は魚をさばくことが出来るので釣りなんかに行くといい思いが出来ますね。",
+            "timestamp": "2022-08-20T20:40:44.551000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CV",
+            "text": "すごい！釣ってさばいてができると、お寿司も海鮮丼も好きなように作れますね",
+            "timestamp": "2022-08-20T20:41:33.579000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EM",
+            "text": "そうですね、小さい魚は難しいですが、釣りをするなら捌けた方がいいですね。",
+            "timestamp": "2022-08-20T20:41:50.360000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CV",
+            "text": "釣りは、何釣りをされるのですか？川？",
+            "timestamp": "2022-08-20T20:42:14.101000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EM",
+            "text": "海の方がうまい魚が釣れるので楽しいですよ。",
+            "timestamp": "2022-08-20T20:42:30.618000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CV",
+            "text": "海ですか！漁場に行くのが大変ではないですか？",
+            "timestamp": "2022-08-20T20:42:53.700000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EM",
+            "text": "カッコつけてしまった後ですが、釣り好きな友人のフォロワーなのでお任せです。",
+            "timestamp": "2022-08-20T20:43:23.824000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CV",
+            "text": "詳しいお友達がいるといいですね！海でよく釣れるのはどんな魚ですか？",
+            "timestamp": "2022-08-20T20:44:00.747000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EM",
+            "text": "それこそアジは良く釣りますよ。",
+            "timestamp": "2022-08-20T20:44:09.004000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CV",
+            "text": "アジ釣れるのいいですねえ、、。たたきとかで食べたいです！",
+            "timestamp": "2022-08-20T20:44:27.877000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EM",
+            "text": "なめロウにしたりしますよ。友人が。",
+            "timestamp": "2022-08-20T20:44:39.826000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CV",
+            "text": "美味しそう、、ごはんが進みそうです！！",
+            "timestamp": "2022-08-20T20:45:05.976000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EM",
+            "text": "カッコつけまくりましたが、大体友人のちからですね！",
+            "timestamp": "2022-08-20T20:45:21.236000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CV",
+            "text": "釣り、一度やってみたいです。道具とかが大変そうですが。",
+            "timestamp": "2022-08-20T20:45:45.629000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EM",
+            "text": "それも借りればいいのですよ。詳しい友人に笑",
+            "timestamp": "2022-08-20T20:45:59.790000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CV",
+            "text": "確かに。詳しいお友達紹介してくださいー！！",
+            "timestamp": "2022-08-20T20:46:19.597000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

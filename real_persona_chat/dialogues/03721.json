@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3721,
+    "interlocutors": [
+        "CE",
+        "FD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-09-01T11:31:36.120000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FD",
+            "text": "こちらこそよろしくお願いします。ちなみになんとお読みすれば良いでしょうか?",
+            "timestamp": "2022-09-01T11:32:00.491000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "<CE>、と申します。",
+            "timestamp": "2022-09-01T11:32:22.548000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FD",
+            "text": "なるほど、思いつきませんでした。",
+            "timestamp": "2022-09-01T11:32:48.776000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "完全に当て字なのですが、なんとなくこの名前にしました。",
+            "timestamp": "2022-09-01T11:33:19.337000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FD",
+            "text": "なかなか苗字や名前は読むのが難しいとか、読み間違いが多いのですね",
+            "timestamp": "2022-09-01T11:33:59.706000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "多いですね。そちらは名前に関して何かエピソードってありますか？",
+            "timestamp": "2022-09-01T11:34:34.515000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FD",
+            "text": "全くないと思いますよ。",
+            "timestamp": "2022-09-01T11:35:01.712000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "そうなんですね。今何かご趣味とかってありますか？",
+            "timestamp": "2022-09-01T11:35:31.496000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FD",
+            "text": "散歩しながら、スマートフォンで写真撮るくらいですね。何か、趣味はありますでしょうか",
+            "timestamp": "2022-09-01T11:36:04.239000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "風景の写真でしょうか？私はゲームが好きですね。",
+            "timestamp": "2022-09-01T11:36:27.769000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FD",
+            "text": "風景が多いですね人は撮影しないです、面倒なので",
+            "timestamp": "2022-09-01T11:36:56.461000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "確かに、人だと色々面倒そうです。最近撮られた中で何かお気に入りの写真はありますか？",
+            "timestamp": "2022-09-01T11:37:47.327000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FD",
+            "text": "夕暮れ近くの時間帯で雲の写真でしょうか。",
+            "timestamp": "2022-09-01T11:39:01.372000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "あ！いいですね、夕暮れ時はいい雰囲気の写真が撮れそうです。",
+            "timestamp": "2022-09-01T11:39:34.821000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FD",
+            "text": "ところで、ゲームといえば、やはりコンピュータでのゲームですか。",
+            "timestamp": "2022-09-01T11:40:05.138000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "私はSwitchでゲームしてますね！",
+            "timestamp": "2022-09-01T11:40:34.013000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FD",
+            "text": "そうなんですね。今はわからないですけど、出始めの頃はswitchの入手に苦労されましたか",
+            "timestamp": "2022-09-01T11:43:15.687000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "それがそうでもなくて。普通に欲しいときに買えたのでラッキーでしたね。品薄といえばPS5ですね。",
+            "timestamp": "2022-09-01T11:43:22.412000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FD",
+            "text": "そのようですね。まだ品不足は続いているんですね。私はその手の情報に疎いので",
+            "timestamp": "2022-09-01T11:43:06.287000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "品薄で手に入れられないまま値上げになりそうで、色々ストレスが溜まります。",
+            "timestamp": "2022-09-01T11:43:28.193000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FD",
+            "text": "ゲームメーカーも大変なんでしょう。どんなゲームが好みなんでしょうか",
+            "timestamp": "2022-09-01T11:44:15.649000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "アクションゲームが好きですね。モンハンってご存知ですか？",
+            "timestamp": "2022-09-01T11:44:34.914000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FD",
+            "text": "名前は聞いたことあります。モンスターハンターの略でしたか",
+            "timestamp": "2022-09-01T11:44:54.915000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "そうですそうです。モンハンが今一番好きで、よくプレイしてます。",
+            "timestamp": "2022-09-01T11:45:39.472000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FD",
+            "text": "私はほとんどゲームはしないのですが、ゲーム機だけじゃなく、椅子や机やヘッドフォンなど、何やら業界の裾野も広そうですね",
+            "timestamp": "2022-09-01T11:46:41.603000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "確かにそうかもしれませんね。FPSのような瞬発的な動作が求められるものは動作環境も大事なので。",
+            "timestamp": "2022-09-01T11:47:32.709000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FD",
+            "text": "ゲームそのものも、プログラムだけじゃなくて、音楽やアクションなどそれぞれ作成者がいますから",
+            "timestamp": "2022-09-01T11:48:07.351000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "そうですね。お話ありがとうございました。",
+            "timestamp": "2022-09-01T11:48:27.774000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FD",
+            "text": "ありがとうございました",
+            "timestamp": "2022-09-01T11:48:31.603000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

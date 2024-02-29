@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3126,
+    "interlocutors": [
+        "BF",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんにちは、今日はよろしくお願いします！",
+            "timestamp": "2022-08-26T13:00:18.648000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんにちは。こちらこそお願いします。",
+            "timestamp": "2022-08-26T13:00:31.030000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "お昼ごはんはもう食べましたか？",
+            "timestamp": "2022-08-26T13:00:44.775000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "はい。12時に食べました。もう食べましたか？",
+            "timestamp": "2022-08-26T13:01:09.957000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "食べました！今日はカツ丼にしました。",
+            "timestamp": "2022-08-26T13:01:29.580000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "いいですね。私は味噌ラーメンでした。",
+            "timestamp": "2022-08-26T13:01:45.730000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "美味しそう！ご自分で作られたんですか？",
+            "timestamp": "2022-08-26T13:02:03.704000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "市販の袋生めんです。ゆでるだけです。",
+            "timestamp": "2022-08-26T13:02:34.837000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "袋麺、手軽で美味しいですよね。私もよく作ります。",
+            "timestamp": "2022-08-26T13:02:52.707000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "手軽でいいですよね。ゆで時間には少しこだわってます。",
+            "timestamp": "2022-08-26T13:03:36.208000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "へー！どんなこだわりがあるんですか？",
+            "timestamp": "2022-08-26T13:03:53.927000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "麺がふやけるのがいやなので、３分ゆでる場合は２分半とかにしてます",
+            "timestamp": "2022-08-26T13:04:26.538000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "短めに茹でて、硬めに仕上げるんですね！",
+            "timestamp": "2022-08-26T13:04:43.995000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "そうです、少し硬めが好みです。",
+            "timestamp": "2022-08-26T13:05:01.147000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "なるほど。麺は細めと太めどちらが好きですか？",
+            "timestamp": "2022-08-26T13:05:21.785000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "私は細めが好きです。そちらはどっちがお好きですか？",
+            "timestamp": "2022-08-26T13:05:50.323000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "私も断然細麺派ですね。",
+            "timestamp": "2022-08-26T13:06:09.761000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "いいですよね。外でもラーメン食べたりしますか？",
+            "timestamp": "2022-08-26T13:06:35.687000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "しますよ！近所に美味しいラーメン屋さんがあるんです。",
+            "timestamp": "2022-08-26T13:07:17.292000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "いいですね！私も外に行きます。どんなラーメンですか？",
+            "timestamp": "2022-08-26T13:07:37.971000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "とんこつラーメンです。結構本格的でおいしいんです。",
+            "timestamp": "2022-08-26T13:08:05.626000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "豚骨美味しいですよね！うちの近くにも豚骨で行列ができるお店がありますよ。",
+            "timestamp": "2022-08-26T13:08:48.157000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "いいですねー！行ったことありますか？",
+            "timestamp": "2022-08-26T13:09:14.203000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "はい。でもだいぶん前です。近所で並ぶのが少し恥ずかしくて。ははは。",
+            "timestamp": "2022-08-26T13:09:47.916000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "たしかに。でもそんな行列ができるほど人気なら、一度行ってみたい！",
+            "timestamp": "2022-08-26T13:10:38.197000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "結構近所がラーメン屋さん激戦区なのでぜひ行ってみて欲しいです。",
+            "timestamp": "2022-08-26T13:11:47.168000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "ラーメン激戦区とは！ラーメン好きにはたまりませんね！",
+            "timestamp": "2022-08-26T13:12:02.415000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "なぜかラーメン、インド料理、美容院の激戦区でもあります。",
+            "timestamp": "2022-08-26T13:12:32.156000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "あはは！すごい！今度ぜひ行ってみたいです。",
+            "timestamp": "2022-08-26T13:12:48.538000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "ぜひまた！",
+            "timestamp": "2022-08-26T13:12:57.326000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

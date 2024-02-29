@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6781,
+    "interlocutors": [
+        "HT",
+        "DC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HT",
+            "text": "こんにちわ！",
+            "timestamp": "2022-10-07T10:54:49.036000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DC",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-07T10:55:00.287000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HT",
+            "text": "この連休はどこか行かれるんですか？",
+            "timestamp": "2022-10-07T10:55:16.663000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DC",
+            "text": "ん！連休なんですか！？",
+            "timestamp": "2022-10-07T10:55:27.266000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HT",
+            "text": "月曜日が祝日です！",
+            "timestamp": "2022-10-07T10:55:45.822000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DC",
+            "text": "あちゃー。全然すっかり忘れてました。ノープランです！",
+            "timestamp": "2022-10-07T10:56:01.745000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HT",
+            "text": "お天気もあんまりですしねー。。",
+            "timestamp": "2022-10-07T10:56:18.923000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DC",
+            "text": "ね！寒いし、雨みたいだし。",
+            "timestamp": "2022-10-07T10:56:28.969000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HT",
+            "text": "家でぬくぬくですね！",
+            "timestamp": "2022-10-07T10:56:41.826000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DC",
+            "text": "本当、そうですね！映画とか、読書とか",
+            "timestamp": "2022-10-07T10:56:57.096000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HT",
+            "text": "読書されるんですね！何系読まれるんですか？",
+            "timestamp": "2022-10-07T10:57:14.931000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DC",
+            "text": "えっと、ミステリーとか好きです！",
+            "timestamp": "2022-10-07T10:57:29.381000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HT",
+            "text": "おー！洋物ですか？日本の？？",
+            "timestamp": "2022-10-07T10:57:45.371000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DC",
+            "text": "あ、最近ハマったのはエラリイ・クイーンという海外の作家のシリーズで",
+            "timestamp": "2022-10-07T10:58:03.285000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HT",
+            "text": "ほうほう、初めて聞きます！",
+            "timestamp": "2022-10-07T10:58:17.173000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DC",
+            "text": "ね！私も古本屋で見つけたのがきっかけで、舞台はアメリカなんですが",
+            "timestamp": "2022-10-07T10:58:38.129000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HT",
+            "text": "アメリカなんですね！",
+            "timestamp": "2022-10-07T10:58:51.463000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DC",
+            "text": "アメリカだとこう、ミステリーの規模も大きいというか",
+            "timestamp": "2022-10-07T10:59:06.351000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HT",
+            "text": "たしかに！スケールすごそう！",
+            "timestamp": "2022-10-07T10:59:19.436000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DC",
+            "text": "そうそう！スケール感の大きさにちょっとびっくりして、ハマりました",
+            "timestamp": "2022-10-07T10:59:36.108000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HT",
+            "text": "日本のとはまた違って楽しそうですね！",
+            "timestamp": "2022-10-07T10:59:58.685000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DC",
+            "text": "日本のも面白いですけどね！古本屋はそういう偶然の出会いがあって好きです！",
+            "timestamp": "2022-10-07T11:00:17.396000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HT",
+            "text": "たしかに！本屋さんでの出会いって結構侮れないですよね！",
+            "timestamp": "2022-10-07T11:00:37.196000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DC",
+            "text": "そうそう、ジャケ買いみたいなのも楽しいし",
+            "timestamp": "2022-10-07T11:00:55.731000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HT",
+            "text": "わかりますー！！外れてもそれはそれで楽しいですよね！",
+            "timestamp": "2022-10-07T11:01:15.911000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DC",
+            "text": "ね！でも買っただけで満足してる積読もいっぱいあるから",
+            "timestamp": "2022-10-07T11:01:36.447000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HT",
+            "text": "うんうん！揃えたくなりますなります！",
+            "timestamp": "2022-10-07T11:02:05.860000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DC",
+            "text": "月曜が祝日なら、そういうのを消化する日にしてもいいですね！",
+            "timestamp": "2022-10-07T11:02:27.912000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HT",
+            "text": "そうですね！読書の秋ですし！",
+            "timestamp": "2022-10-07T11:02:40.192000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DC",
+            "text": "あったかくして過ごしましょー！",
+            "timestamp": "2022-10-07T11:02:54.091000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

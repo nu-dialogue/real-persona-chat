@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 856,
+    "interlocutors": [
+        "CF",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "おはようございます。今朝は晴れていて清々しいですね。",
+            "timestamp": "2022-08-14T05:55:30.441000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "おはようございます。こちらは雨が降っています。",
+            "timestamp": "2022-08-14T05:55:41.014000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "台風ですか？",
+            "timestamp": "2022-08-14T05:55:58.536000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "その影響もあるかもしれません。",
+            "timestamp": "2022-08-14T05:56:15.174000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "なるほど。昨日こちらは雨が激しかったですのでそちらもお気を付けください。",
+            "timestamp": "2022-08-14T05:56:39.441000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "ありがとうございます。最近各地で豪雨が多いですよね。",
+            "timestamp": "2022-08-14T05:57:13.924000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "そうですね。身近なところだと冠水が怖いです。",
+            "timestamp": "2022-08-14T05:57:49.491000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "洪水被害などに遭われたことはありますか？",
+            "timestamp": "2022-08-14T05:58:10.189000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "近所の川の橋が落ちたことがありますがそれくらいですね。あなたはありますか？",
+            "timestamp": "2022-08-14T05:58:41.841000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "私の町は大丈夫なのですが、隣町は特に水害に弱いくらいですかね。",
+            "timestamp": "2022-08-14T05:59:08.841000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "そうなのですね。水害は水が引いたあとの掃除などがとても苦労されますよね。",
+            "timestamp": "2022-08-14T05:59:39.375000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "そうですね。匂いもすごいと聞きます。",
+            "timestamp": "2022-08-14T05:59:53.654000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "特に夏場はすぐにものが腐りますものね。",
+            "timestamp": "2022-08-14T06:00:13.640000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "水害って保険がおりるんでしょうかね？",
+            "timestamp": "2022-08-14T06:00:36.197000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "どうなんでしょう。おりると思ってましたが不安です。",
+            "timestamp": "2022-08-14T06:00:57.906000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "火災とかだと全焼でなければおりないと聞いたので、少し不安です。",
+            "timestamp": "2022-08-14T06:01:20.702000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "そうなんですか！それは困りますね。",
+            "timestamp": "2022-08-14T06:01:36.691000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "災害対策など何かされていますか？",
+            "timestamp": "2022-08-14T06:02:05.912000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "いやあまりしてないかもしれません。備蓄を用意するくらいです。",
+            "timestamp": "2022-08-14T06:02:25.614000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "私も特にしてないです。備蓄用意するべきですよね。",
+            "timestamp": "2022-08-14T06:02:53.926000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "あると良いですよね。５年保存できるクッキーとかあります。",
+            "timestamp": "2022-08-14T06:03:15.174000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "水で戻せるやつとかもありますよね。結構美味しいみたいで。",
+            "timestamp": "2022-08-14T06:03:45.941000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "最近のはとても工夫されてるそうで美味しいんだそうで一度食べてみたいです。",
+            "timestamp": "2022-08-14T06:04:12.860000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "味に慣れておくことは大事ですね。本当に使うことがないといいのですが。",
+            "timestamp": "2022-08-14T06:04:42.071000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "そうですね。水害も怖いですが地震が一番怖いかも。",
+            "timestamp": "2022-08-14T06:05:00.203000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "また大きな地震がくると言われていますもんね。避けては通れないからこそ対策しとかないとですね。",
+            "timestamp": "2022-08-14T06:05:29.531000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "毎年、今年は来る！と思って生活してる割に備蓄がいまいちなので反省です。",
+            "timestamp": "2022-08-14T06:05:51.820000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "災害とかを考えたくないって気持ちもありますよね。",
+            "timestamp": "2022-08-14T06:06:13.224000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "現実からつい目をそらしがちです。お話ありがとうございました！",
+            "timestamp": "2022-08-14T06:06:29.162000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-14T06:06:37.164000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

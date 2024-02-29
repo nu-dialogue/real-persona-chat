@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4303,
+    "interlocutors": [
+        "EV",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-10T14:14:59.377000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-10T14:14:59.696000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "お昼はもう済ませましたか？",
+            "timestamp": "2022-09-10T14:15:08.694000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "済ませましたー",
+            "timestamp": "2022-09-10T14:15:14.788000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "メニューを伺ってもいいですか？",
+            "timestamp": "2022-09-10T14:15:20.870000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "明太パスタを少しだけですね",
+            "timestamp": "2022-09-10T14:15:33.459000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "おお、いいですね。自炊ですか？",
+            "timestamp": "2022-09-10T14:15:46.610000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "いえ、作ってもらいました",
+            "timestamp": "2022-09-10T14:15:53.790000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "なるほど、明太パスタは好きなので羨ましいです",
+            "timestamp": "2022-09-10T14:16:12.821000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "普段は自分で作るのも好きなんですけどね",
+            "timestamp": "2022-09-10T14:16:25.461000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "いいですね。アレンジ出来て",
+            "timestamp": "2022-09-10T14:16:34.723000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "今は隔離期間でしてなかなか食べたいモノ食べれないですね",
+            "timestamp": "2022-09-10T14:16:58.873000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。濃厚接触ですか？",
+            "timestamp": "2022-09-10T14:17:16.032000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "陽性でしたね、、",
+            "timestamp": "2022-09-10T14:17:38.026000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "あら、お大事になさってください",
+            "timestamp": "2022-09-10T14:17:49.540000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "はい、、",
+            "timestamp": "2022-09-10T14:17:53.479000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "症状はありますか？",
+            "timestamp": "2022-09-10T14:18:03.325000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "最初の方が結構ありましたね",
+            "timestamp": "2022-09-10T14:18:13.555000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "良くなったのですね。",
+            "timestamp": "2022-09-10T14:18:27.488000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "昨日くらいにほとんど治りましたね。３日くらいかかりました",
+            "timestamp": "2022-09-10T14:18:49.268000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。体重が落ちやすいらしいのでたくさん食べてくださいね",
+            "timestamp": "2022-09-10T14:19:13.323000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "なかなか食事の量が少なくて困ってますよー",
+            "timestamp": "2022-09-10T14:19:27.184000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "病気になるとそうなりますよね。",
+            "timestamp": "2022-09-10T14:19:39.096000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "でもダイエットだと思って頑張ってます",
+            "timestamp": "2022-09-10T14:19:52.461000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "確かに、食生活を見直すいい機会かもしれません",
+            "timestamp": "2022-09-10T14:20:11.713000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "はい！あと４日間くらいですね",
+            "timestamp": "2022-09-10T14:20:29.159000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "隔離期間が短くなるようですね。",
+            "timestamp": "2022-09-10T14:20:42.878000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "らしいですね。少し短くなるかな",
+            "timestamp": "2022-09-10T14:21:00.481000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "はい、少しですけどね",
+            "timestamp": "2022-09-10T14:21:13.016000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "もうちょっと頑張ります",
+            "timestamp": "2022-09-10T14:21:21.002000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

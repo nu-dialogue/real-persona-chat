@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5490,
+    "interlocutors": [
+        "CN",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-24T16:08:46.663000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-24T16:08:55.412000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "音楽は聴きますか？",
+            "timestamp": "2022-09-24T16:09:04.271000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "めっちゃ聞きます！",
+            "timestamp": "2022-09-24T16:09:13.306000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "どんなジャンルをよく聞いてますか？",
+            "timestamp": "2022-09-24T16:09:25.139000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "邦楽がメインで，ロックからヒップホップまでなんでもききますね",
+            "timestamp": "2022-09-24T16:10:01.285000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "色々ですね！Spotifyとか使ってます？",
+            "timestamp": "2022-09-24T16:10:32.131000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "amazonMusicを契約してます！",
+            "timestamp": "2022-09-24T16:10:48.152000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "いいですね！",
+            "timestamp": "2022-09-24T16:11:03.691000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "Spotifyはいろんなアーティストとコラボしてますよね！",
+            "timestamp": "2022-09-24T16:11:26.569000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "ですね。私はSpotifyで色々聞いてます",
+            "timestamp": "2022-09-24T16:11:45.978000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "最近のお気に入りは誰ですか？",
+            "timestamp": "2022-09-24T16:12:03.881000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "K-POPのBLACKPINKをよく聞いてます",
+            "timestamp": "2022-09-24T16:12:21.889000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "かっこいいですよね！！有名な曲しか知りませんが！",
+            "timestamp": "2022-09-24T16:12:39.308000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "かっこいい曲多いですね！",
+            "timestamp": "2022-09-24T16:12:53.365000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "K-POPがお好きなんですか？",
+            "timestamp": "2022-09-24T16:13:05.833000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "BLACKPINK以外はあまりよく知らないんですがお勧めで出てくるのは聞きますね",
+            "timestamp": "2022-09-24T16:13:29.008000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "おすすめで新しい発見がありますよね！",
+            "timestamp": "2022-09-24T16:13:56.774000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "好みと似てるものを勧めてくれますもんね！いい機能ですよね",
+            "timestamp": "2022-09-24T16:14:22.844000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "レッドベルベットというK-POPアイドルもおすすめです！",
+            "timestamp": "2022-09-24T16:14:53.746000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "ちょっと聞いたことあります！レッドベルベットもかっこいい系ですよね",
+            "timestamp": "2022-09-24T16:15:10.400000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "ですね！気分を上げたいときに聞いてます",
+            "timestamp": "2022-09-24T16:15:29.743000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "テンポいいの多いですよね",
+            "timestamp": "2022-09-24T16:15:45.584000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "K-POPのいいところですね．韓国語はわかりませんが",
+            "timestamp": "2022-09-24T16:16:13.676000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "私もです。雰囲気で聞いてます",
+            "timestamp": "2022-09-24T16:16:29.437000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "同じくです．韓国ブームもあって韓国語が理解できる人は増えているらしいですね",
+            "timestamp": "2022-09-24T16:17:06.450000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "習う人は増えてると聞きますね！",
+            "timestamp": "2022-09-24T16:17:20.193000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "英語より簡単そうな雰囲気がありますね！",
+            "timestamp": "2022-09-24T16:17:46.754000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "言葉の並び方は似てるそうです",
+            "timestamp": "2022-09-24T16:18:01.526000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "すこし齧るのも良さそうですね！",
+            "timestamp": "2022-09-24T16:18:28.535000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

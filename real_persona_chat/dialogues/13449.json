@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13449,
+    "interlocutors": [
+        "FE",
+        "GT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-22T18:59:36.034000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-22T18:59:39.835000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "最近どこか行かれましたか？",
+            "timestamp": "2022-09-22T18:59:51.718000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GT",
+            "text": "石川に行きました。",
+            "timestamp": "2022-09-22T19:00:00.624000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "おおお！どこを観光されました？",
+            "timestamp": "2022-09-22T19:00:16"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GT",
+            "text": "近江市場とか。どうしても海鮮丼が食べたくなって。",
+            "timestamp": "2022-09-22T19:00:33.291000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "すてきですね！海鮮丼おいしいですし！",
+            "timestamp": "2022-09-22T19:00:45.925000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GT",
+            "text": "しかも安かったです。",
+            "timestamp": "2022-09-22T19:00:51.845000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "そうなんですか！やっぱり海が近いからですかね。",
+            "timestamp": "2022-09-22T19:01:06.627000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GT",
+            "text": "ですかね、すごくお得な気分になりました。",
+            "timestamp": "2022-09-22T19:01:32.079000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "しかも新鮮そうです。",
+            "timestamp": "2022-09-22T19:01:38.595000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GT",
+            "text": "とっても新鮮でした。",
+            "timestamp": "2022-09-22T19:01:49.235000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "いいですね！ちなみにどの辺にお住まいなんですか？",
+            "timestamp": "2022-09-22T19:02:12.038000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GT",
+            "text": "愛知です。あなたは？",
+            "timestamp": "2022-09-22T19:02:18.540000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "お！私も愛知ですよ！",
+            "timestamp": "2022-09-22T19:02:29.337000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GT",
+            "text": "そうなんですね、案外近いかもですね。",
+            "timestamp": "2022-09-22T19:02:39.009000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "そうですね！石川はどうやって行かれたんですか？",
+            "timestamp": "2022-09-22T19:03:00.744000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GT",
+            "text": "車で行きましたよ。",
+            "timestamp": "2022-09-22T19:03:08.039000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "車ですか！どれくらいかかりました？",
+            "timestamp": "2022-09-22T19:03:39.904000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GT",
+            "text": "4時間くらいですかね。",
+            "timestamp": "2022-09-22T19:03:45.645000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "1人で運転されたんですか？",
+            "timestamp": "2022-09-22T19:04:18.169000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GT",
+            "text": "友人と交代だったので思ったより早かったです！",
+            "timestamp": "2022-09-22T19:04:34.523000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！それなら疲れなさそうです。",
+            "timestamp": "2022-09-22T19:04:48.878000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GT",
+            "text": "車は運転しますか？",
+            "timestamp": "2022-09-22T19:04:57.810000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "実はまだ免許を持っていません。",
+            "timestamp": "2022-09-22T19:05:17.372000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GT",
+            "text": "これからとる予定ですか？",
+            "timestamp": "2022-09-22T19:05:26.908000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "そうですね！学生が終わって社会人になる直前にとろうかと！",
+            "timestamp": "2022-09-22T19:05:42.687000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GT",
+            "text": "あったほうが便利ですもんね。",
+            "timestamp": "2022-09-22T19:05:52.076000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "何かと便利です。今は自転車と電車で頑張ってます。",
+            "timestamp": "2022-09-22T19:06:05.855000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GT",
+            "text": "それも健康的でいいですね。",
+            "timestamp": "2022-09-22T19:06:17.176000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4428,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T17:15:27.025000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T17:15:33.048000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "ディズニー好きですか？",
+            "timestamp": "2022-09-17T17:15:43.808000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "あんまり詳しくないです。ランドも数年に一回くらいです",
+            "timestamp": "2022-09-17T17:16:04.296000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね、最近入場料どんどん値上げして行きにくくなりましたもんね",
+            "timestamp": "2022-09-17T17:16:25.832000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "今1万近いんですよね確か。ますます足が遠のきそうです",
+            "timestamp": "2022-09-17T17:16:53.491000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "そうですよね。",
+            "timestamp": "2022-09-17T17:17:09.571000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "<CS>さんはディズニーお好きなんですか？",
+            "timestamp": "2022-09-17T17:17:22.704000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "私はまあまあ行きますね。",
+            "timestamp": "2022-09-17T17:17:36.350000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "ランドとシーだったらどっち派ですか？",
+            "timestamp": "2022-09-17T17:17:51.177000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "うーん、悩みますね…シーかなぁ",
+            "timestamp": "2022-09-17T17:18:08.244000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "なんでシーのほうが好きなんですか？",
+            "timestamp": "2022-09-17T17:18:27.978000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "シーのほうが大人向けというか、雰囲気が良い気がするんですよね",
+            "timestamp": "2022-09-17T17:18:49.389000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "たしかにお酒も飲めるし、大人はシーのほうがすきそうですね",
+            "timestamp": "2022-09-17T17:19:17.920000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "だと思いますね。あとはダッフィーがシーにしかいないので、シーのほうが好きですね",
+            "timestamp": "2022-09-17T17:19:46.660000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "ダッフィーってなんでしたっけ",
+            "timestamp": "2022-09-17T17:20:18.536000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "くまのキャラがいるんですよ。ご存知ないですか？",
+            "timestamp": "2022-09-17T17:20:34.009000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "あんまりピンときてないですね、新キャラかな？",
+            "timestamp": "2022-09-17T17:20:52.895000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "初期からいるキャラではないと思います",
+            "timestamp": "2022-09-17T17:21:09.180000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "ディズニーも進化してますね。",
+            "timestamp": "2022-09-17T17:21:22.286000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "ついてきてください！",
+            "timestamp": "2022-09-17T17:21:35.210000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "自分は亀と喋るアトラクションが気になってます",
+            "timestamp": "2022-09-17T17:21:52.650000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "タートルトークですかね。",
+            "timestamp": "2022-09-17T17:22:04.034000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "動画で流れてきて知ったんですよ",
+            "timestamp": "2022-09-17T17:22:31.387000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "あー、あげてる人いますね",
+            "timestamp": "2022-09-17T17:22:52.006000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "面白くてしゃべってみたいなぁと思ってます",
+            "timestamp": "2022-09-17T17:23:09.379000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "あれ指名制なので当ててもらわないとしゃべれないんですよね",
+            "timestamp": "2022-09-17T17:23:27.161000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "運ですよね",
+            "timestamp": "2022-09-17T17:23:33.804000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "頑張って目立つしかないですね",
+            "timestamp": "2022-09-17T17:23:43.744000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "そこはがんばります",
+            "timestamp": "2022-09-17T17:23:50.993000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13068,
+    "interlocutors": [
+        "DN",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T12:23:11.127000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T12:23:52.878000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "今日は何かご予定ありますか？",
+            "timestamp": "2022-09-16T12:24:07.536000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "特にないですかね。",
+            "timestamp": "2022-09-16T12:24:18.611000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "まだ大学は始まっていないのですか？",
+            "timestamp": "2022-09-16T12:24:47.385000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "そうですね、なので時間を有効活用してます。",
+            "timestamp": "2022-09-16T12:25:13.135000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "そうですね。始まると毎日すごく忙しくなりますか？",
+            "timestamp": "2022-09-16T12:25:29.588000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "うーん、まぁまぁって感じですかね。",
+            "timestamp": "2022-09-16T12:25:53.736000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "私の息子たちは毎日たくさん授業があって大変だなと思います。",
+            "timestamp": "2022-09-16T12:26:22.133000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "時間割びっしり埋まってる感じですか？",
+            "timestamp": "2022-09-16T12:26:48.543000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "前期びっしり埋めたらたくさん単位を落としてきてしまいました。",
+            "timestamp": "2022-09-16T12:27:08.374000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "あー、そういう人もいると大学で聞きました。",
+            "timestamp": "2022-09-16T12:27:33.295000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "息子の学校は留年する人も多いようなので、覚悟して授業に行かないといけません。",
+            "timestamp": "2022-09-16T12:27:55.682000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "大変ですね。",
+            "timestamp": "2022-09-16T12:28:08.564000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "能力の問題もあると思うのですが、親としてはかわいそうに思います。",
+            "timestamp": "2022-09-16T12:28:23.524000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "能力ですか？",
+            "timestamp": "2022-09-16T12:29:05.967000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "多分、授業に出ていても、大事なところがわからないままになっているのではと思うんです。",
+            "timestamp": "2022-09-16T12:29:21.318000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "大学で教えてくれるところとかはないんですか？",
+            "timestamp": "2022-09-16T12:30:09.177000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "ありそうではありますが、多分、それでは間に合わないと思っています。",
+            "timestamp": "2022-09-16T12:30:28.012000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "勉強が苦手なんですか？",
+            "timestamp": "2022-09-16T12:31:08.470000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "おそらくそうと思います。自分で思いつくときはいいのですが、人から学ぶことができていないです。",
+            "timestamp": "2022-09-16T12:31:32.079000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "ちょっとわかる気がします。",
+            "timestamp": "2022-09-16T12:32:19.792000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "そんなご経験ありますか？",
+            "timestamp": "2022-09-16T12:32:29.621000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "プログラミングとか自分で書くのも難しいのに誰かが書いたものを理解するのは難しくて。",
+            "timestamp": "2022-09-16T12:33:01.246000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "なるほど。プログラミングは一種の言語ですものね。",
+            "timestamp": "2022-09-16T12:33:22.112000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "そうなんですか？",
+            "timestamp": "2022-09-16T12:33:52.146000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "一定の文法や規則があるので、言語を学んだ私にはやりやすい分野だと教えられました。",
+            "timestamp": "2022-09-16T12:34:26.284000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "なるほど。",
+            "timestamp": "2022-09-16T12:34:50.399000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "ご自分でプログラム書くのはお好きですか？",
+            "timestamp": "2022-09-16T12:35:07.201000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "そこそこ。",
+            "timestamp": "2022-09-16T12:35:31.608000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

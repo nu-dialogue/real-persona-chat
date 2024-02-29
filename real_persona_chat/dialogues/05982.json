@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5982,
+    "interlocutors": [
+        "GX",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "こんにちはー。",
+            "timestamp": "2022-10-01T17:42:16.062000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-01T17:42:21.064000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "映画とかよく見ますか？",
+            "timestamp": "2022-10-01T17:42:24.438000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "よくは見ないですね、たまに見ます。",
+            "timestamp": "2022-10-01T17:42:34.441000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。ネトフリとか契約してます？",
+            "timestamp": "2022-10-01T17:42:47.966000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "いえしてません。そういうのも影響してるかもです。",
+            "timestamp": "2022-10-01T17:43:06.349000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。なにかサブスクしてるサービスはありますか？",
+            "timestamp": "2022-10-01T17:43:21.781000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "Youtubeはプレミアム契約してますね。あとはしてないです。",
+            "timestamp": "2022-10-01T17:43:35.371000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "広告が出ないやつですね。あとオフラインで観れる！",
+            "timestamp": "2022-10-01T17:43:56.358000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "そうですね、あとバックグラウンドとか使えるのでそれで音楽とか聞いてます。",
+            "timestamp": "2022-10-01T17:44:12.667000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "音楽聴くのいいですよね。何を聴くのが多いですか？",
+            "timestamp": "2022-10-01T17:44:34.444000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "J-POPをよく聴きますね。",
+            "timestamp": "2022-10-01T17:44:44.633000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。どのアーティストが好きとかありますか？",
+            "timestamp": "2022-10-01T17:45:01.358000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "いろんな方を聞きます。ちょっと古い年代の曲が好きです。",
+            "timestamp": "2022-10-01T17:45:23.073000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。YouTubeはメドレーとかありますよね。",
+            "timestamp": "2022-10-01T17:45:38.458000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "ありますね、それでずっと聞いてたりもしますね。",
+            "timestamp": "2022-10-01T17:45:49.534000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "いいですよね。新たな曲に出あえたりしますし。",
+            "timestamp": "2022-10-01T17:46:15.651000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "そうですね。あなたはどんな曲聴きますか？",
+            "timestamp": "2022-10-01T17:46:28.228000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "私もj-popとか、歌ってみたもよく聞きますね。",
+            "timestamp": "2022-10-01T17:46:45.587000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "あー、歌ってみたは一時期ちょいちょい聴きましたね。",
+            "timestamp": "2022-10-01T17:47:03.958000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "そうですね。うまい人が多くて、いいんですよね。",
+            "timestamp": "2022-10-01T17:47:25.227000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "確かに。好きな歌い手さんとかいるんですか？",
+            "timestamp": "2022-10-01T17:47:39.751000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "そうですね。ボーカロイドの歌ってみたを出してるvtuberとかの曲を聴きます。",
+            "timestamp": "2022-10-01T17:48:30.166000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "なるほど、私はVtuberというのがいまいちわからないんですよね。",
+            "timestamp": "2022-10-01T17:48:50.637000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "顔の動きに合わせて絵が動くんですよ。",
+            "timestamp": "2022-10-01T17:49:13.439000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "ソフトとかでやるんですよね？",
+            "timestamp": "2022-10-01T17:49:24.650000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "そうですね。専用のやつがあるみたいです。",
+            "timestamp": "2022-10-01T17:49:36.610000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "友人がやってるみたいなんですが、色々難しそうです。",
+            "timestamp": "2022-10-01T17:49:49.935000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "え、そうなんですか。すごい！！",
+            "timestamp": "2022-10-01T17:49:58.545000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "そんなにガチではないですが、やってるみたいです。",
+            "timestamp": "2022-10-01T17:50:19.577000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

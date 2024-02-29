@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12670,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T13:37:07.681000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T13:37:14.011000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "今日の予定は何かありますか？",
+            "timestamp": "2022-09-17T13:37:26.796000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "今日は衣替えをする予定です",
+            "timestamp": "2022-09-17T13:37:56.915000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "もう夏服終わりそうですもんね",
+            "timestamp": "2022-09-17T13:38:15.127000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "そうですね、まだ暑いですがそろそろ秋服を出そうかなと",
+            "timestamp": "2022-09-17T13:38:37.325000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "好きなブランドとかあるんですか？",
+            "timestamp": "2022-09-17T13:38:48.420000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "いえ、ブランドにはあまり興味ないのでデザインで選んでます",
+            "timestamp": "2022-09-17T13:39:10.810000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "普段の服装はジャンルでいうとどんな感じですか？",
+            "timestamp": "2022-09-17T13:39:29.110000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "どうなんだろう…量産系？ですかね",
+            "timestamp": "2022-09-17T13:39:44.968000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "なるほど、私も普段着は量産系だと思います。",
+            "timestamp": "2022-09-17T13:41:10.211000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "無難なのが一番です",
+            "timestamp": "2022-09-17T13:41:28.200000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "着心地とかは結構重視してるかもしれないです",
+            "timestamp": "2022-09-17T13:41:49.224000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "着心地も大事ですね",
+            "timestamp": "2022-09-17T13:42:01.497000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "あと靴にこだわりがあります",
+            "timestamp": "2022-09-17T13:42:25.961000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "どんなふうにこだわるんですか？",
+            "timestamp": "2022-09-17T13:42:41.378000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "足にあう靴があまり見つからなくて、靴擦れしやすいのでやわらかめの靴を買うようにしてます",
+            "timestamp": "2022-09-17T13:43:26.534000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "靴擦れ地味にストレスですよね。",
+            "timestamp": "2022-09-17T13:43:45.318000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよね。靴によって靴擦れの場所も変わるし結構悩みです",
+            "timestamp": "2022-09-17T13:44:17.474000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "高い靴だと変わったりしますか？",
+            "timestamp": "2022-09-17T13:44:34.560000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "値段はあんまり関係ないですね、足に合うかどうかがすべてな気がします",
+            "timestamp": "2022-09-17T13:44:53.004000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "じゃあ試着して試していくしかないですね",
+            "timestamp": "2022-09-17T13:45:10.451000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "でも朝と夕方で足のサイズ変わるらしいんですよ、むくみとかで。",
+            "timestamp": "2022-09-17T13:45:34.214000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "靴選び難しいですね。自分はそんなに靴擦れしないんですが、パンプスとかサンダルとかで靴擦れします？",
+            "timestamp": "2022-09-17T13:46:32.091000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "パンプスが特に多いです。サンダルは足に合わないと脱げたりしますね。",
+            "timestamp": "2022-09-17T13:46:58.040000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "脱げるのは嫌ですね",
+            "timestamp": "2022-09-17T13:47:11.419000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "足くじいたりもよくあります",
+            "timestamp": "2022-09-17T13:47:22.742000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "女性は大変ですね",
+            "timestamp": "2022-09-17T13:47:32.338000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "大変です・・・",
+            "timestamp": "2022-09-17T13:47:42.527000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "お話しいただきありがとうございました。",
+            "timestamp": "2022-09-17T13:47:53.532000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

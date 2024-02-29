@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10013,
+    "interlocutors": [
+        "CP",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CP",
+            "text": "こんにちは。よろしくお願いしますねー！",
+            "timestamp": "2022-08-10T14:20:49.217000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こちらこそよろしくお願いいたします。",
+            "timestamp": "2022-08-10T14:20:58.142000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CP",
+            "text": "甘いものってお好きですか？",
+            "timestamp": "2022-08-10T14:21:11.283000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "大好きです。",
+            "timestamp": "2022-08-10T14:21:17.785000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CP",
+            "text": "最近、お菓子作りにはまってるんです。",
+            "timestamp": "2022-08-10T14:21:34.249000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "すごいですね。何をおつくりになるのですか？",
+            "timestamp": "2022-08-10T14:21:49.523000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CP",
+            "text": "おもに冷たいものですね。",
+            "timestamp": "2022-08-10T14:22:08.925000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "わらびもちとか、プリントかでしょうか？",
+            "timestamp": "2022-08-10T14:22:21.958000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CP",
+            "text": "アイスクリームとか、プリンとかゼリーとかですね！",
+            "timestamp": "2022-08-10T14:22:38.642000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "アイスクリームはどんなものを作るのでしょうか？",
+            "timestamp": "2022-08-10T14:23:01.682000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CP",
+            "text": "アイスクリームメーカーを買っちゃいまして、材料入れて混ぜるだけです。",
+            "timestamp": "2022-08-10T14:23:25.377000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか、もっと難しいものだと思っていました。",
+            "timestamp": "2022-08-10T14:23:44.752000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CP",
+            "text": "いえいえ。ジュースだけでシャーベット状のものができます。",
+            "timestamp": "2022-08-10T14:24:12.431000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "うらやましい！他には季節の果物なんかも入れることができるのですか？",
+            "timestamp": "2022-08-10T14:24:41.221000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CP",
+            "text": "果物はできた後に混ぜる感じですね。最近は野菜ジュースで作るシャーベットにはまってます。",
+            "timestamp": "2022-08-10T14:24:59.155000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "キャロットジュースとか青汁とかも？",
+            "timestamp": "2022-08-10T14:27:13.171000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CP",
+            "text": "青汁は作ったことないです。人参入りの混合野菜ジュースはおいしいですよー。",
+            "timestamp": "2022-08-10T14:27:36.253000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。さすがに青汁はちょっと。",
+            "timestamp": "2022-08-10T14:27:51.759000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CP",
+            "text": "牛乳と砂糖入れたら、抹茶風味になるかも。",
+            "timestamp": "2022-08-10T14:28:05.778000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "すごい！抹茶ならおいしいですよね。",
+            "timestamp": "2022-08-10T14:28:20.776000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CP",
+            "text": "青汁プリンは微妙に抹茶っぽい感じあります！",
+            "timestamp": "2022-08-10T14:28:40.725000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか！びっくりです。野菜ジュースは便利なんですね。",
+            "timestamp": "2022-08-10T14:28:58.496000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CP",
+            "text": "なんとなく野菜を取れた感じになってお得なのもいいですよね。",
+            "timestamp": "2022-08-10T14:29:19.575000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "では、もしかしたらゼリーでも野菜ジュースは使えるのですか？",
+            "timestamp": "2022-08-10T14:29:36.955000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CP",
+            "text": "使います！　小さな子も野菜ジュースゼリーはだまされてくれますよー！",
+            "timestamp": "2022-08-10T14:29:56.859000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "それはすごいですね。プリンはミルクプリンというものが昔流行りましたが作られますか？",
+            "timestamp": "2022-08-10T14:30:24.339000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CP",
+            "text": "ミルクプリン！　私のはミルクゼリーって感じですが、それっぽいのを作ります。",
+            "timestamp": "2022-08-10T14:30:50.528000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "すごい。なんでも作ってしまわれるのですね。",
+            "timestamp": "2022-08-10T14:31:12.293000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CP",
+            "text": "ゼリーの元とアイスクリームメーカーが万能すぎるんですー！",
+            "timestamp": "2022-08-10T14:31:31.163000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか！アイスクリームメーカーは最強なんですね。",
+            "timestamp": "2022-08-10T14:31:57.153000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CP",
+            "text": "はいー。よかったらぜひお試しくださいー！",
+            "timestamp": "2022-08-10T14:32:12.169000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

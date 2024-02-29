@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12688,
+    "interlocutors": [
+        "FU",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-21T13:53:41.999000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-21T13:53:46.950000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "友人にタカナシミルクレストランって店に誘われたんですけど、知ってますか？",
+            "timestamp": "2022-09-21T13:54:18.525000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "知らないです。有名な店なんですか？",
+            "timestamp": "2022-09-21T13:54:29.995000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "友人曰く有名な店みたいです。",
+            "timestamp": "2022-09-21T13:54:46.161000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "へー、どこにあるんですか？",
+            "timestamp": "2022-09-21T13:54:56.659000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "神奈川県のみなとみらいですね",
+            "timestamp": "2022-09-21T13:55:09.353000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "みなとみらいですか、タカナシって牛乳のメーカーですよね？",
+            "timestamp": "2022-09-21T13:55:47.478000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "そうですね。牛乳を使った料理を出すレストランみたいです。",
+            "timestamp": "2022-09-21T13:56:19.386000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "面白そうですね",
+            "timestamp": "2022-09-21T13:56:41.343000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "ちょっと調べたらイタリアンみたいです",
+            "timestamp": "2022-09-21T13:57:22.397000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "あ、そうなんですね",
+            "timestamp": "2022-09-21T13:57:29.463000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "牛乳というよりチーズみたいですね",
+            "timestamp": "2022-09-21T13:57:58.158000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "なるほどー。ピザとかあるとおいしそうですね",
+            "timestamp": "2022-09-21T13:58:14.166000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "マルゲリータがあるみたいです。",
+            "timestamp": "2022-09-21T13:58:51.600000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "絶対おいしいやつですね",
+            "timestamp": "2022-09-21T13:59:00.935000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "乳製品好きな人にはたまらないでしょうね",
+            "timestamp": "2022-09-21T13:59:26.262000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "<FU>さんは乳製品あんまり好きじゃないですか？",
+            "timestamp": "2022-09-21T13:59:41.011000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "普通ですね。チーズは料理に使われてるものは好きです",
+            "timestamp": "2022-09-21T14:00:24.225000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "そのままではあんまり食べないですか？",
+            "timestamp": "2022-09-21T14:00:35.083000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "そうですね、<FT>さんはどうですか？",
+            "timestamp": "2022-09-21T14:00:58.738000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "自分もそのままではあんまり。カプレーゼが好きなので、トマトと一緒にたべたりとかはします",
+            "timestamp": "2022-09-21T14:01:23.977000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "カプレーゼおいしいですよね",
+            "timestamp": "2022-09-21T14:01:34.199000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "ですね。モッツアレラチーズがわりと食べやすいですし。",
+            "timestamp": "2022-09-21T14:02:07.617000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "クセないですもんね",
+            "timestamp": "2022-09-21T14:02:17.138000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "正直味もあんまりないですよね",
+            "timestamp": "2022-09-21T14:02:27.873000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "たしかに",
+            "timestamp": "2022-09-21T14:02:33.781000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "食感メインみたいな",
+            "timestamp": "2022-09-21T14:02:46.889000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "さっぱりしてますね",
+            "timestamp": "2022-09-21T14:03:00.404000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "そうですね",
+            "timestamp": "2022-09-21T14:03:07.656000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

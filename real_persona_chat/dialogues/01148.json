@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1148,
+    "interlocutors": [
+        "AT",
+        "BU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-13T13:20:55.266000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BU",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-13T13:21:02.178000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "もう夕食のメニューは決まっていますか？",
+            "timestamp": "2022-08-13T13:21:16.993000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BU",
+            "text": "まだ決まってませんね。決まってますか？",
+            "timestamp": "2022-08-13T13:21:25.703000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "私も悩み中です。昨日は何を食べましたか？",
+            "timestamp": "2022-08-13T13:21:51.160000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BU",
+            "text": "昨日はサラダと味噌汁、ポテトサラダ、餃子です。",
+            "timestamp": "2022-08-13T13:22:19.704000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "炭水化物は摂取しなかったのですか？",
+            "timestamp": "2022-08-13T13:22:46.949000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BU",
+            "text": "はい、あまり食べないですね。",
+            "timestamp": "2022-08-13T13:22:56.089000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "朝昼晩で1回食べれば栄養としては足りてるかと思います。",
+            "timestamp": "2022-08-13T13:23:23.287000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BU",
+            "text": "夕食しか食べないです。米はスーパーでわざわざ買わないです。",
+            "timestamp": "2022-08-13T13:23:45.768000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "米はどのように入手しているのですか？",
+            "timestamp": "2022-08-13T13:24:02.181000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BU",
+            "text": "食べないですね。",
+            "timestamp": "2022-08-13T13:24:08.866000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "なるほど、1日1食ですか？",
+            "timestamp": "2022-08-13T13:24:23.670000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BU",
+            "text": "そうです。いつもスーパー行って決める感じです。",
+            "timestamp": "2022-08-13T13:24:37.030000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "起きてから夕飯までにお腹空きませんか？",
+            "timestamp": "2022-08-13T13:25:08.363000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BU",
+            "text": "この生活に慣れたら、我慢できますよ！",
+            "timestamp": "2022-08-13T13:25:26.152000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "おやつとかも食べない感じですか？",
+            "timestamp": "2022-08-13T13:25:44.132000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BU",
+            "text": "好んでは食べないですね。",
+            "timestamp": "2022-08-13T13:25:53.710000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "でもそれなら太る心配がなくて良さそうです。",
+            "timestamp": "2022-08-13T13:26:33.528000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BU",
+            "text": "太りはしないですけど、食べるの好きな人はつらいと思います。",
+            "timestamp": "2022-08-13T13:26:56.932000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "食と体重の両立は永遠の課題です。",
+            "timestamp": "2022-08-13T13:27:32.930000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BU",
+            "text": "自己管理出来やん人はいっぱいいますからねー。",
+            "timestamp": "2022-08-13T13:27:51.957000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "私もサラダはできるだけ食べるようにしています。",
+            "timestamp": "2022-08-13T13:28:21.479000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BU",
+            "text": "食物繊維は大事ですね。腸内フローラ。",
+            "timestamp": "2022-08-13T13:28:32.458000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "はい、栄養のバランスを考えても大事です。野菜もそれなりに好きですしね。",
+            "timestamp": "2022-08-13T13:29:06.164000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BU",
+            "text": "野菜美味しいですね。食べることよりも空腹を意識しています。",
+            "timestamp": "2022-08-13T13:29:34.790000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "わざと少し空腹気味にするということですか？",
+            "timestamp": "2022-08-13T13:29:58.120000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BU",
+            "text": "内臓を休ませてあげてますね。",
+            "timestamp": "2022-08-13T13:30:09.814000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "なるほど、そういった体調管理もあるのですね。タメになりました。",
+            "timestamp": "2022-08-13T13:30:33.854000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BU",
+            "text": "はい。いろんな健康法があるので、ぜひ興味があれば！ありがとうございました！",
+            "timestamp": "2022-08-13T13:30:55.471000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9611,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-08T21:59:30.144000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-08T22:01:29.824000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "今日は何されてましたか？",
+            "timestamp": "2022-08-08T22:02:13.707000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "今日は仕事でした",
+            "timestamp": "2022-08-08T22:02:55.613000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "お疲れ様です。なんのお仕事されているんですか？",
+            "timestamp": "2022-08-08T22:03:01.899000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "エンジニアやってます",
+            "timestamp": "2022-08-08T22:03:18.065000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "プログラミングとかですか？",
+            "timestamp": "2022-08-08T22:03:36.065000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "そうですそうです",
+            "timestamp": "2022-08-08T22:03:48.205000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "へー、かっこいいですね！",
+            "timestamp": "2022-08-08T22:04:04.259000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "ありがとうございます。<CS>さんはなんのお仕事されてるんですか？",
+            "timestamp": "2022-08-08T22:04:36.019000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "私はヘルプデスクで働いてます",
+            "timestamp": "2022-08-08T22:04:53.217000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "結構大変そうじゃないですか？",
+            "timestamp": "2022-08-08T22:05:20.720000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "忙しいときは一息つく暇もないほど忙しいです",
+            "timestamp": "2022-08-08T22:05:48.696000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "つぎつぎさばいていく能力必要ですよね",
+            "timestamp": "2022-08-08T22:06:26.593000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "そうですね。要領よくないと厳しいかもしれないです",
+            "timestamp": "2022-08-08T22:07:13.331000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "私は腰を据えて問題解決したいのでヘルプデスクは厳しそうです",
+            "timestamp": "2022-08-08T22:07:49.237000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "エンジニアのほうがいいですよ。市場価値高そうだし。",
+            "timestamp": "2022-08-08T22:08:15.482000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "うーん、でも意外と給料低かったりしますよ",
+            "timestamp": "2022-08-08T22:08:38.306000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "ほんとですか？意外です",
+            "timestamp": "2022-08-08T22:09:01.264000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "めちゃめちゃできる人とかだと1000万近く稼いでるみたいですけど、普通の人はそれなりです",
+            "timestamp": "2022-08-08T22:10:22.759000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "結構難しい業務内容なイメージですけど、割に合います？",
+            "timestamp": "2022-08-08T22:10:54.584000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "うちはまぁホワイトなほうで残業もないので、そこはマシですかね",
+            "timestamp": "2022-08-08T22:12:05.518000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "残業ないの羨ましいです。うちは普通にあるので…",
+            "timestamp": "2022-08-08T22:12:00.827000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "みなし残業とかだときついですよね",
+            "timestamp": "2022-08-08T22:12:42.824000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "まさにみなし残業です",
+            "timestamp": "2022-08-08T22:12:57.390000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "あー、じゃあ残れば残るほど損した感じになりますね",
+            "timestamp": "2022-08-08T22:13:59.990000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよね、早く帰りたいです",
+            "timestamp": "2022-08-08T22:14:07.554000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "早く帰れることを祈ります…",
+            "timestamp": "2022-08-08T22:14:32.893000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございます。お互い頑張りましょう",
+            "timestamp": "2022-08-08T22:14:47.417000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "はい",
+            "timestamp": "2022-08-08T22:14:56.363000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

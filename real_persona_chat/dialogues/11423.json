@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11423,
+    "interlocutors": [
+        "DM",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-22T11:48:23.191000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-22T11:48:29.628000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "今日のご予定はありますか？",
+            "timestamp": "2022-08-22T11:48:43.851000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "今日は特にないので、課題やろうかなとぼんやり思っているところです。",
+            "timestamp": "2022-08-22T11:49:08.479000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "勤勉ですね！課題はたくさんありますか？",
+            "timestamp": "2022-08-22T11:49:32.091000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "テストよりレポートの授業ばかりなので、積み重なっています。",
+            "timestamp": "2022-08-22T11:49:57.959000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "それはきついですね．夏休み明け提出ですか？",
+            "timestamp": "2022-08-22T11:50:20.167000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "それが夏休み中に期限があるんです。最終日まで残しておけない、、",
+            "timestamp": "2022-08-22T11:50:50.957000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "なかなか鬼畜ですね．テストとレポートどっちが良いですか？",
+            "timestamp": "2022-08-22T11:51:08.649000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "1回で終わる点ではテストもいいですよね。でも失敗した時が怖いです。",
+            "timestamp": "2022-08-22T11:51:38.236000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "おっしゃる通りですね．ただ，私は緊張に弱いんですよね．",
+            "timestamp": "2022-08-22T11:52:10.834000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "そうなんですね。ではあなたはレポートの方がいい感じですか？",
+            "timestamp": "2022-08-22T11:52:32.582000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "そうですね．黙々と書いたら終わるレポートが好きです．",
+            "timestamp": "2022-08-22T11:53:04.932000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "確かに。とにかく書けば一応終わりますもんね。割合的にはどちらが多いですか？",
+            "timestamp": "2022-08-22T11:53:31.763000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "私は大学院生なので，レポートの方が多いかも知れません．テストは1,2科目かも",
+            "timestamp": "2022-08-22T11:54:14.801000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "院生でしたか。すごいですね。レポートの量も私なんかは比にならなさそうです。",
+            "timestamp": "2022-08-22T11:55:00.156000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "いえいえ，理系と文系でもレポートの量が違いそうですね．文系は多そうなイメージあります．",
+            "timestamp": "2022-08-22T11:55:46.643000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "そうですね。文献使うものが多いので読むのにも時間がかかります。",
+            "timestamp": "2022-08-22T11:56:14.593000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "とんでもない労力がかかりますね．いまやっているレポートも重たいですか？",
+            "timestamp": "2022-08-22T11:56:55.292000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "今のレポートもコミュニケーションについての記事を探して書くものなので、探すのに時間がかかっています。",
+            "timestamp": "2022-08-22T11:57:34.840000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "参考文献が見つからないなんてこともありそうですね．",
+            "timestamp": "2022-08-22T11:58:01.236000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "そうなんですよね。コロナで図書館が休館になった時は困りました。",
+            "timestamp": "2022-08-22T11:58:33.833000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "課題をやるときは基本的にはお家でやる派ですか？",
+            "timestamp": "2022-08-22T11:58:58.317000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "はい、家でやるのが一番落ち着きます。",
+            "timestamp": "2022-08-22T11:59:18.816000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "私は学校では勉強，家では遊ぶみたいにしています．",
+            "timestamp": "2022-08-22T11:59:48.230000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "切り替えなさっているんですね。私は大学と家が少し離れているので終わったらすぐに帰っています。",
+            "timestamp": "2022-08-22T12:00:36.902000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "高校は私も1時間ほどかけて通っていました．大変ですよね．",
+            "timestamp": "2022-08-22T12:01:11.003000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "1時間の通学は大変ですよね。田舎で電車もバスも少ないので特にです。",
+            "timestamp": "2022-08-22T12:01:37.003000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "私は大学の近くで一人暮らしなので，最近は楽ちんです．",
+            "timestamp": "2022-08-22T12:02:06.105000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "それはいいですね。こちらは寝坊したらもう終わりです。",
+            "timestamp": "2022-08-22T12:02:25.461000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12403,
+    "interlocutors": [
+        "FA",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんにちは",
+            "timestamp": "2022-09-08T22:55:44.601000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんばんわー",
+            "timestamp": "2022-09-08T22:55:52.602000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "この夏は特別なイベントとか何かありましたか？",
+            "timestamp": "2022-09-08T22:56:34.622000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "詳しくは言えませんが、大学の活動で面白いものがありました。",
+            "timestamp": "2022-09-08T22:57:16.946000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "面白いのは何よりいいですね。",
+            "timestamp": "2022-09-08T22:57:37.454000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "そうですね、そちらはどうでしたか？",
+            "timestamp": "2022-09-08T22:58:03.067000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "特になしです！でもジョギングを沢山しました！",
+            "timestamp": "2022-09-08T22:59:09.766000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "健康的でとてもいいですね、部活とかの関係ですか？",
+            "timestamp": "2022-09-08T22:59:34.084000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "そんな感じです！もっぱら体力作りのためですかね。",
+            "timestamp": "2022-09-08T23:00:08.698000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "一杯食べてください。",
+            "timestamp": "2022-09-08T23:00:34.367000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "はい！モリモリ食べます！",
+            "timestamp": "2022-09-08T23:01:11.222000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "納豆と味噌汁おすすめです。",
+            "timestamp": "2022-09-08T23:01:22.604000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "ありがとうございます！最高の組み合わせですよね！",
+            "timestamp": "2022-09-08T23:01:51.132000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "組み合わせとして最高かどうかは知りませんが和食仲間ですね。",
+            "timestamp": "2022-09-08T23:02:31.757000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "失礼しました。和食ですね。和食お好きですか？",
+            "timestamp": "2022-09-08T23:03:14.043000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "いえいえ。昨日お寿司食べましたがおいしかったですね。",
+            "timestamp": "2022-09-08T23:03:53.692000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "いいですね！お寿司のネタは何がお好きですか？",
+            "timestamp": "2022-09-08T23:04:14.071000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "納豆巻きとか卵焼きとかですかね。",
+            "timestamp": "2022-09-08T23:04:35.082000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "おいしそうです！私も好きですよ！",
+            "timestamp": "2022-09-08T23:05:14.903000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "意外です、多くの人は魚が好きかと思いましたが。",
+            "timestamp": "2022-09-08T23:05:56.268000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "確かにそうですよね。",
+            "timestamp": "2022-09-08T23:06:40.298000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "最近僕おかしいのかマグロのぶつ切りとか苦手になってきちゃって。",
+            "timestamp": "2022-09-08T23:07:22.193000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "何かあったんですか？",
+            "timestamp": "2022-09-08T23:07:55.194000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "特になかったけどいつの間にかマグロ食ってくるとゼリー食ってる感じがするっていうか。",
+            "timestamp": "2022-09-08T23:08:31.581000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "なんか分かる気がします！",
+            "timestamp": "2022-09-08T23:08:54.668000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "なんか喜んでいいのかわかりませんが嬉しいですね。",
+            "timestamp": "2022-09-08T23:09:15.503000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "ですね。",
+            "timestamp": "2022-09-08T23:09:40.620000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "まぁそういう理由で最近料理に入ってるもの以外は豆腐なんかもダメになっちゃって。",
+            "timestamp": "2022-09-08T23:10:09.614000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "あらー。固めのものだったら大丈夫なのでしょうかねー。",
+            "timestamp": "2022-09-08T23:11:13.750000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "多分味を強く感じるようになってるんだと思います。",
+            "timestamp": "2022-09-08T23:11:41.033000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 1,
+            "familiarity": 1,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 1
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

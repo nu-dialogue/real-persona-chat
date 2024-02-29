@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7396,
+    "interlocutors": [
+        "AN",
+        "BW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "こんばんは。",
+            "timestamp": "NaT"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BW",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-04T20:59:32.975000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "今日はそちらは雨が降りましたか？",
+            "timestamp": "2022-08-04T20:59:53.071000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BW",
+            "text": "今日は降らなかったですね。降りましたか？",
+            "timestamp": "2022-08-04T21:00:08.827000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "はい、今も降っています。",
+            "timestamp": "2022-08-04T21:00:21.680000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BW",
+            "text": "そうなんですね、全然違うものですね。",
+            "timestamp": "2022-08-04T21:00:39.863000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "そうですね。わたしの住んでいる地域はしばらく雨の日が続きそうです。",
+            "timestamp": "2022-08-04T21:00:57.349000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BW",
+            "text": "暑いより雨が降ってる方が涼しくて良さそうです。",
+            "timestamp": "2022-08-04T21:01:17.573000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "雨が降り始めちゃうと、気温下がって涼しいですよね。",
+            "timestamp": "2022-08-04T21:01:51.201000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BW",
+            "text": "そうですね、涼しくて風邪を引きそうなので気を付けないといけません。",
+            "timestamp": "2022-08-04T21:02:28.899000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "最近風邪とかひかれましたか？",
+            "timestamp": "2022-08-04T21:02:52.380000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BW",
+            "text": "私は今の所大丈夫です、あなたはどうですか？",
+            "timestamp": "2022-08-04T21:03:08.771000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "わたしも今のところ大丈夫です。結構周りでもコロナに感染する人が増えてきました。",
+            "timestamp": "2022-08-04T21:03:56.258000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BW",
+            "text": "そうですね、風邪と区別つかないようですが。",
+            "timestamp": "2022-08-04T21:04:26.283000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "最近は検査キットもなかなか手に入り辛いみたいですよね。",
+            "timestamp": "2022-08-04T21:04:53.209000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BW",
+            "text": "検査キットはなかなかいい加減なので、なくてもいいと思ってしまいます。",
+            "timestamp": "2022-08-04T21:05:22.597000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "結構精度低いのでしょうか？",
+            "timestamp": "2022-08-04T21:06:06.790000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BW",
+            "text": "もともと病気を特定するものではないんですよね、日本はかなりCT値が高いので精度低いそうです。",
+            "timestamp": "2022-08-04T21:06:44.485000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "そうだったんですね。詳しく教えて下さってありがとうございます！",
+            "timestamp": "2022-08-04T21:07:14.468000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BW",
+            "text": "検査すると商品券がもらえるので、かなり受けに行ってると聞きました。",
+            "timestamp": "2022-08-04T21:07:56.148000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "えー、税金の無駄遣いじゃないですか。",
+            "timestamp": "2022-08-04T21:08:14.565000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BW",
+            "text": "そうなんですよ、なにもかも税金の無駄遣いなんです。",
+            "timestamp": "2022-08-04T21:08:44.266000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "こんなことに貴重な財源を投資しないでほしいですね。",
+            "timestamp": "2022-08-04T21:09:03.752000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BW",
+            "text": "ですね、国民には規制をさせるのに、止めてほしいです。",
+            "timestamp": "2022-08-04T21:09:27.875000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "令和になってからあまりいいことないですね。早く平穏な日々に戻って欲しいです。",
+            "timestamp": "2022-08-04T21:09:53.839000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BW",
+            "text": "そうですね、急にいろいろ起こってて怖いです。",
+            "timestamp": "2022-08-04T21:10:17.251000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "気象しかり、疫病しかり、凶悪な事件も多いですもんね。",
+            "timestamp": "2022-08-04T21:10:56.723000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BW",
+            "text": "怖いですね、気を付けないといけませんね。",
+            "timestamp": "2022-08-04T21:11:23.912000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "そうですね。お互い気を付けて過ごしましょうね。では、また。",
+            "timestamp": "2022-08-04T21:11:39.041000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BW",
+            "text": "ではまたさようなら。",
+            "timestamp": "2022-08-04T21:12:04.785000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "はい、さようなら。",
+            "timestamp": "2022-08-04T21:12:09.077000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 929,
+    "interlocutors": [
+        "BQ",
+        "AK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-11T00:51:38.798000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AK",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-11T00:51:41.554000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "何かご趣味はありますか？",
+            "timestamp": "2022-08-11T00:51:52.521000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AK",
+            "text": "わたしはドラマや映画を観ることが多いです！",
+            "timestamp": "2022-08-11T00:52:05.734000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "私もドラマ見るの好きです。どんなのを見られますか？",
+            "timestamp": "2022-08-11T00:52:23.347000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AK",
+            "text": "海外ドラマをよくみます！",
+            "timestamp": "2022-08-11T00:52:31.990000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "海外ドラマですか。私は国内ドラマ専門です。",
+            "timestamp": "2022-08-11T00:52:49.923000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AK",
+            "text": "そうなんですね。今やっているドラマも見ているんですか？",
+            "timestamp": "2022-08-11T00:53:04.298000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "朝ドラとか見てます。",
+            "timestamp": "2022-08-11T00:53:27.201000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AK",
+            "text": "朝ドラってNHKですっけ。今はどんな話なんですか？",
+            "timestamp": "2022-08-11T00:53:45.835000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "沖縄出身の女の子が料理人をめざすっていう話です。",
+            "timestamp": "2022-08-11T00:54:07.562000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AK",
+            "text": "料理人ですか！沖縄料理は出て来るんですか？",
+            "timestamp": "2022-08-11T00:54:22.050000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "毎週絶対でてきますね。沖縄料理お好きですか？",
+            "timestamp": "2022-08-11T00:54:45.116000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AK",
+            "text": "昔沖縄に遊びに行ったことがあって。沖縄料理美味しいです！",
+            "timestamp": "2022-08-11T00:55:08.671000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "沖縄行ったことがなくて、サーターアンダギーとか食べてみたいです。",
+            "timestamp": "2022-08-11T00:55:30.692000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AK",
+            "text": "サーターアンダギーはどうだったかな。美味しいイメージはありますよね。",
+            "timestamp": "2022-08-11T00:55:55.482000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "ドーナツみたいな感じなんですかね。あとはソーキそば食べてみたいです。",
+            "timestamp": "2022-08-11T00:56:18.437000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AK",
+            "text": "ソーキそばめっちゃ美味しかったですよ！また食べたい！",
+            "timestamp": "2022-08-11T00:56:35.463000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "羨ましいです。味はどんな感じなんですか？",
+            "timestamp": "2022-08-11T00:56:52.711000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AK",
+            "text": "意外とあっさりしていたような。お肉も柔らかくて美味しかったです！",
+            "timestamp": "2022-08-11T00:57:23.195000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "結構脂っぽいのかと思ってました。あっさりならいいですね。",
+            "timestamp": "2022-08-11T00:57:54.745000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AK",
+            "text": "たしかそうでした。あとは海ぶどうも食べましたよ！",
+            "timestamp": "2022-08-11T00:58:08.545000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "海ブドウってプチプチしてるやつですよね。いいですね。",
+            "timestamp": "2022-08-11T00:58:41.053000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AK",
+            "text": "あれは美味しかったです！長崎が舞台の朝ドラってまだ先なんですかね？知ってます？",
+            "timestamp": "2022-08-11T00:59:05.192000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "長崎が舞台っていうのはまだ先だと思います。調べてみますね。",
+            "timestamp": "2022-08-11T00:59:39.053000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AK",
+            "text": "ありがとうございます。朝ドラ、一気に見れるなら見てみたいなー。",
+            "timestamp": "2022-08-11T00:59:56.507000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "調べてみたら、丁度次の作品でした。福原遥さんが主演らしいです。",
+            "timestamp": "2022-08-11T01:00:30.654000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AK",
+            "text": "もう調べてくれたんですね！次はわたしも見てみようかと思います。",
+            "timestamp": "2022-08-11T01:00:52.420000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "ぜひ見てみてください。過去作はNHKのサブスクだったかで見られると思います。",
+            "timestamp": "2022-08-11T01:01:20.855000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AK",
+            "text": "おお！色んな情報ありがとうございました。見てみますね。",
+            "timestamp": "2022-08-11T01:01:32.727000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AK",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

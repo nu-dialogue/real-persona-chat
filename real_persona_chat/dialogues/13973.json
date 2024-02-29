@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13973,
+    "interlocutors": [
+        "FU",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T21:24:02.694000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T21:24:04.892000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T21:24:07.479000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "何かペットは飼ってますか？",
+            "timestamp": "2022-10-01T21:24:18.386000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "犬飼ってます",
+            "timestamp": "2022-10-01T21:24:25.133000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "どんな犬ですか？",
+            "timestamp": "2022-10-01T21:24:36.616000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "シベリアンハスキーです",
+            "timestamp": "2022-10-01T21:27:41.927000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "大きい犬ですね！",
+            "timestamp": "2022-10-01T21:28:04.067000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "かわいいですよ！",
+            "timestamp": "2022-10-01T21:28:20.450000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "広い家じゃないと無理ですよね",
+            "timestamp": "2022-10-01T21:29:22.710000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "そうですね、うちは戸建てなのでいいんですけどマンションだと厳しそうです",
+            "timestamp": "2022-10-01T21:29:43.365000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "大型犬はお金持ちのペットっていいますもんね",
+            "timestamp": "2022-10-01T21:30:01.465000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "地域によるかもしれないです",
+            "timestamp": "2022-10-01T21:30:40.522000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "<FU>さんはどのあたりにお住みなんですか？",
+            "timestamp": "2022-10-01T21:31:00.178000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "僕は東京です",
+            "timestamp": "2022-10-01T21:31:09.624000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "東京で戸建てですか？",
+            "timestamp": "2022-10-01T21:31:20.071000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "そうです。でも立地は微妙ですよ",
+            "timestamp": "2022-10-01T21:31:38.004000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "でも羨ましいです",
+            "timestamp": "2022-10-01T21:31:53.442000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "<GR>さんは何かペット飼ってますか？",
+            "timestamp": "2022-10-01T21:32:07.377000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "私は飼ってないんですよ。",
+            "timestamp": "2022-10-01T21:32:20.449000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "飼いたいと思ったことありますか？",
+            "timestamp": "2022-10-01T21:32:31.665000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "もちろんありますよ！でもペット可の物件があんまりないんですよね",
+            "timestamp": "2022-10-01T21:32:56.949000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "高めになりますよね",
+            "timestamp": "2022-10-01T21:33:06.439000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "そうなんですよ、敷金プラス一か月とられたりします",
+            "timestamp": "2022-10-01T21:33:40.111000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "まぁ汚すからしかたないのかなぁ",
+            "timestamp": "2022-10-01T21:34:36.609000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "部屋に見合わないような値段になるので、買ったほうが安いまでありますね",
+            "timestamp": "2022-10-01T21:35:15.559000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "ペット飼いの宿命ですね",
+            "timestamp": "2022-10-01T21:35:29.479000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "持ち家ほしいです",
+            "timestamp": "2022-10-01T21:35:36.750000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "僕もほしいです",
+            "timestamp": "2022-10-01T21:35:42.969000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "いつか買えるといいですね",
+            "timestamp": "2022-10-01T21:35:58.919000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

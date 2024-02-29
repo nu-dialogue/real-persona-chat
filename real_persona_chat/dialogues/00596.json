@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 596,
+    "interlocutors": [
+        "BB",
+        "AY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "はじめまして、<BB>です！",
+            "timestamp": "2022-08-14T20:45:41.061000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AY",
+            "text": "はじめまして！<AY>と申します。",
+            "timestamp": "2022-08-14T20:45:57.713000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "今日はよろしくお願いします。最近なんか悩んでることはありませんか？",
+            "timestamp": "2022-08-14T20:46:15.656000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AY",
+            "text": "うーん。痩せたいなってことですかね。",
+            "timestamp": "2022-08-14T20:46:30.656000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "夏は洋服も薄手になって、ダイエットしたくなりますよね。",
+            "timestamp": "2022-08-14T20:46:51.871000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AY",
+            "text": "はい。私、いらないとこばっかにお肉がつくんです。",
+            "timestamp": "2022-08-14T20:47:19.687000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "私もどちらかというと、お腹周りとかお尻につきやすいタイプです。",
+            "timestamp": "2022-08-14T20:47:40.884000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AY",
+            "text": "私もです！あと太もも！",
+            "timestamp": "2022-08-14T20:48:00.373000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "そうそう。しかも一度太るとだんだん痩せにくくなりますしね。",
+            "timestamp": "2022-08-14T20:48:19.654000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AY",
+            "text": "そうなんですよ！なにしても変わんないです。",
+            "timestamp": "2022-08-14T20:48:33.280000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "ちなみに<AY>さんは20代の方ですか？",
+            "timestamp": "2022-08-14T20:48:44.794000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AY",
+            "text": "あはは！まさかー！あなたは？",
+            "timestamp": "2022-08-14T20:49:00.082000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "私は30代です。20代より確かに脂肪が落ちにくいなと感じるこのころです。",
+            "timestamp": "2022-08-14T20:49:22.606000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AY",
+            "text": "ですよね！20代は何食べても太らなかったのに。",
+            "timestamp": "2022-08-14T20:49:50.201000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "本当にそうです。夜食とか食べても平気だったのに。今は太る以前に消化ができません。",
+            "timestamp": "2022-08-14T20:50:11.063000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AY",
+            "text": "胃が苦しい感じですか？",
+            "timestamp": "2022-08-14T20:50:24.656000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "そうですね。なので、夜ご飯は早めに食べようとしています。",
+            "timestamp": "2022-08-14T20:50:39.071000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AY",
+            "text": "え！何時ぐらいですか？",
+            "timestamp": "2022-08-14T20:50:49.080000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "午後4時とか5時とかですね。その方が胃が空っぽになって、眠りやすいです。",
+            "timestamp": "2022-08-14T20:51:05.400000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AY",
+            "text": "おお！早いですねー！",
+            "timestamp": "2022-08-14T20:51:18.540000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "<AY>さんは何時ごろに食べますか？",
+            "timestamp": "2022-08-14T20:51:31.408000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AY",
+            "text": "私は19時とか20時とかですね。",
+            "timestamp": "2022-08-14T20:51:45.176000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "ちょどいい時間帯ですね。なんかダイエットのために運動とかされてますか？",
+            "timestamp": "2022-08-14T20:52:04.947000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AY",
+            "text": "なるべく無駄な動きをするようにはしています。",
+            "timestamp": "2022-08-14T20:52:28.382000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "日常にちょっとずつ動きを入れていくのはいいですね。",
+            "timestamp": "2022-08-14T20:52:43.445000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AY",
+            "text": "ゴミ拾う時、片足上げてとったりとか。",
+            "timestamp": "2022-08-14T20:53:03.674000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "おお、それは運動になりそうですね！",
+            "timestamp": "2022-08-14T20:53:15.157000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AY",
+            "text": "はい！けっこうお薦めですよ！無駄な動きダイエット！",
+            "timestamp": "2022-08-14T20:53:32.029000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "私も明日から実践してみようかな。",
+            "timestamp": "2022-08-14T20:53:45.489000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AY",
+            "text": "はい。ぜひぜひ！",
+            "timestamp": "2022-08-14T20:53:57.829000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

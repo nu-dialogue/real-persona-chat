@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 13,
+    "interlocutors": [
+        "AC",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "こんにちは！宜しくですー。",
+            "timestamp": "2022-08-06T16:28:06.038000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-06T16:28:08.676000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "ところでなんですが、保険って入ってますか？",
+            "timestamp": "2022-08-06T16:28:23.364000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "ああ、入っていた気が",
+            "timestamp": "2022-08-06T16:28:31.913000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "気が？自分で入ったのではなくて？",
+            "timestamp": "2022-08-06T16:28:46.521000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "実は、母が入れてくれたのがまだある的な感じです",
+            "timestamp": "2022-08-06T16:29:05.046000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "母、やさしいー！頼れるー！",
+            "timestamp": "2022-08-06T16:29:15.859000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "でも結構、だまされやすい人なので",
+            "timestamp": "2022-08-06T16:29:30.417000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "そうなんですか？",
+            "timestamp": "2022-08-06T16:29:37.071000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "そうなんだと、私は思ってます。ちなみにそちらは？",
+            "timestamp": "2022-08-06T16:29:58.524000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "私は、一個だけようやく入りました。",
+            "timestamp": "2022-08-06T16:30:19.700000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "ちなみに何の保険ですか？",
+            "timestamp": "2022-08-06T16:30:27.913000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "入院保険です。ほんとは貯蓄系にしようか迷ったんですけど。",
+            "timestamp": "2022-08-06T16:30:42.040000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "入院保険！ああ、今の時期だと必要そうです",
+            "timestamp": "2022-08-06T16:30:58.380000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "あー、コロナってどうなんでしょうね？保障対象外？",
+            "timestamp": "2022-08-06T16:31:28.502000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "どうなんでしょう？でも対象外だったらひどいですね",
+            "timestamp": "2022-08-06T16:31:23.650000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "ねー！入院ってしたことあります？",
+            "timestamp": "2022-08-06T16:31:47.646000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "ないんですよ、実は。健康体そのもので",
+            "timestamp": "2022-08-06T16:32:02.883000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "良いことです！私は1回だけありますよ。",
+            "timestamp": "2022-08-06T16:32:18.854000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "およ！何で入院を？",
+            "timestamp": "2022-08-06T16:32:26.099000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "盲腸ですね。だからすぐ退院できたんですが、コロナだと長引くなって。",
+            "timestamp": "2022-08-06T16:32:48.893000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "それはさぞ痛かったでしょう。",
+            "timestamp": "2022-08-06T16:33:01.178000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "まあ、でもすぐに良くなるし。コロナで入院だと数週間ですよね。",
+            "timestamp": "2022-08-06T16:33:20.249000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "確かにそうですよね。まあそもそもベッドがあるかどうかなんでしょうけど",
+            "timestamp": "2022-08-06T16:33:39.200000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "あ、それ、いまヤバいらしいですね。",
+            "timestamp": "2022-08-06T16:33:48.170000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "やばいらしいですね、満床って聞きました",
+            "timestamp": "2022-08-06T16:34:04.870000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "ひえー！怖すぎる！めっちゃ気をつけなきゃ。",
+            "timestamp": "2022-08-06T16:34:20.017000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "でも気を付けたところで、ですけどねえ",
+            "timestamp": "2022-08-06T16:34:30.796000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "まあ、基礎体力つけとく、栄養取っとくって感じでしょうかね。",
+            "timestamp": "2022-08-06T16:34:48.774000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "最善を尽くしましょう、あちがとうございました",
+            "timestamp": "2022-08-06T16:35:02.781000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AC",
+            "text": "こちらこそ、ありがとうございました！",
+            "timestamp": "2022-08-06T16:35:10.184000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

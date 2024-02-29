@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10252,
+    "interlocutors": [
+        "BM",
+        "EA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-12T01:21:47.139000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EA",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-12T01:22:29.178000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "いつも何時に寝るのですか？",
+            "timestamp": "2022-08-12T01:22:41.177000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EA",
+            "text": "いつもは1時くらいですね。休みの日だと夜更かししちゃいますが。",
+            "timestamp": "2022-08-12T01:23:16.712000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "今日はお休みの日でしょうか？",
+            "timestamp": "2022-08-12T01:23:30.615000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EA",
+            "text": "そうですね、連休なのでがっつり夜更かしです。",
+            "timestamp": "2022-08-12T01:24:06.725000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "夜更かしする時はいつも何してるんですか？",
+            "timestamp": "2022-08-12T01:24:19.431000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EA",
+            "text": "YouTubeとかをみたり漫画を読んだりしてますね。",
+            "timestamp": "2022-08-12T01:24:45.153000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "わかります。私もyoutube見て夜更かしすることはよくあります。",
+            "timestamp": "2022-08-12T01:25:14.132000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EA",
+            "text": "普段も夜寝る前に携帯を触っていつの間にか時間がたってたなんてこともよくあります。",
+            "timestamp": "2022-08-12T01:25:54.830000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "夜って寝るだけなので、気がついたら時間が過ぎてしまいますよね。",
+            "timestamp": "2022-08-12T01:26:29.725000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EA",
+            "text": "そうですよね。そういえば、好きなYouTuberとかはいますか？",
+            "timestamp": "2022-08-12T01:27:19.120000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "youtuberといえるかはわかりませんが、ゲーム配信をよく見るのでそのあたりの方々は好きですね。",
+            "timestamp": "2022-08-12T01:28:02.952000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EA",
+            "text": "なるほど。ゲーム配信の方だとツイッチとかもありますよね。",
+            "timestamp": "2022-08-12T01:28:58.427000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "今は少なくなりましたけど、ミルダムとかもありますよね。",
+            "timestamp": "2022-08-12T01:29:33.825000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EA",
+            "text": "ミルダムも聞いたことがあります。ゲーム配信者はいろんな人がいて面白いですよね。",
+            "timestamp": "2022-08-12T01:30:17.137000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "面白いです。しかも、人気な人はほぼ必ず喋りが楽しいんですよね。",
+            "timestamp": "2022-08-12T01:30:50.484000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EA",
+            "text": "確かにそうですね。ゲームが補助でしゃべりがメインな人も多い気がします。でもゲームがうまい人もいますよね？",
+            "timestamp": "2022-08-12T01:32:04.972000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "います。ゲーム上手くて、喋りがうまい人はいつまでも見ていられますね。",
+            "timestamp": "2022-08-12T01:32:27.708000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EA",
+            "text": "わかります。ゲームが好きなんですか？",
+            "timestamp": "2022-08-12T01:33:35.877000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "見るのが好きですね。あまりプレイはしてません。",
+            "timestamp": "2022-08-12T01:33:55.203000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EA",
+            "text": "そうなんですね。見るのが面白いゲームは、やっぱり対戦するゲームとかですか？",
+            "timestamp": "2022-08-12T01:35:09.118000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "マイクラとかが好きですね。",
+            "timestamp": "2022-08-12T01:35:24.801000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EA",
+            "text": "作っていくゲームですね。",
+            "timestamp": "2022-08-12T01:35:54.353000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "そうです！対戦ゲームは理解するのが難しいので、あまり見ないかもです。",
+            "timestamp": "2022-08-12T01:36:16.068000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EA",
+            "text": "確かにそうかもしれないですね。作っていくゲームもその人の色があらわれて楽しそうですね。",
+            "timestamp": "2022-08-12T01:37:05.223000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "そうなんです。個性が光るゲームでそれだけで面白いです。",
+            "timestamp": "2022-08-12T01:37:32.437000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EA",
+            "text": "今はいろんなゲームがあるのでその分楽しみがありますね。",
+            "timestamp": "2022-08-12T01:39:10.624000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "そうなんです。いくらでも見るものがあって困ります。",
+            "timestamp": "2022-08-12T01:39:28.950000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EA",
+            "text": "楽しめるものが増えていいですよね。",
+            "timestamp": "2022-08-12T01:40:00.930000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

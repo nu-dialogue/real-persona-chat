@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11000,
+    "interlocutors": [
+        "EV",
+        "EJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-18T19:52:48.641000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-18T19:52:53.456000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "体調の方はどうですか？",
+            "timestamp": "2022-08-18T19:53:02.675000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EJ",
+            "text": "最近は体調崩してしまっていますね。気圧の変化が辛いです。",
+            "timestamp": "2022-08-18T19:53:26.734000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。僕も頭痛もちなので少しつらいです",
+            "timestamp": "2022-08-18T19:53:43.309000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EJ",
+            "text": "辛いですよね。台風が来た後はいつも頭が痛くなります。",
+            "timestamp": "2022-08-18T19:54:06.635000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "今年は梅雨に雨が少なくて助かりました",
+            "timestamp": "2022-08-18T19:54:27.597000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EJ",
+            "text": "確かに。明確に梅雨みたいな期間は短かったですよね。",
+            "timestamp": "2022-08-18T19:54:51.588000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "そうなんですよね。いつの間にか終わっていました",
+            "timestamp": "2022-08-18T19:55:04.093000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EJ",
+            "text": "その代わりにずっとジメジメしている気がします。",
+            "timestamp": "2022-08-18T19:55:18.365000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "揺り戻しというか、夏に雨が多いかもしれないですね。",
+            "timestamp": "2022-08-18T19:55:36.423000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EJ",
+            "text": "高温多湿はきついですよね。",
+            "timestamp": "2022-08-18T19:55:53.163000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "カラカラしているほうが楽なんですけどね。きついです",
+            "timestamp": "2022-08-18T19:56:52.370000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EJ",
+            "text": "ヨーロッパの夏みたいな高温だけど湿度が低いのは一度体験してみたいですね。",
+            "timestamp": "2022-08-18T19:57:00.440000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "乾燥していれば日陰に移動して暑さを凌げますからね。",
+            "timestamp": "2022-08-18T19:57:10.834000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EJ",
+            "text": "そうですよね。アジアだとそうはいきませんよね。",
+            "timestamp": "2022-08-18T19:57:31.007000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "逃げ場のない暑さを感じますね",
+            "timestamp": "2022-08-18T19:57:46.280000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EJ",
+            "text": "どこにいても暑いですよね。除湿するには除湿器必要ですし。",
+            "timestamp": "2022-08-18T19:58:05.981000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "機械を頼らずにはいられませんね。",
+            "timestamp": "2022-08-18T19:58:21.533000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EJ",
+            "text": "そのためのエアコンですからね。存分に頼っています。",
+            "timestamp": "2022-08-18T19:58:38.737000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "僕はエアコンが苦手ですが、頼るしかないです。",
+            "timestamp": "2022-08-18T19:58:53.168000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EJ",
+            "text": "私もエアコン独特の空気が苦手なんですよね。",
+            "timestamp": "2022-08-18T19:59:15.632000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "空気もそうですし、冷えすぎてしまうというか",
+            "timestamp": "2022-08-18T19:59:30.328000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EJ",
+            "text": "確かに、足元が冷えすぎてしまうときがあります。",
+            "timestamp": "2022-08-18T19:59:56.609000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "そうなんですよね。四肢が過剰に冷えてしまって",
+            "timestamp": "2022-08-18T20:00:15.432000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EJ",
+            "text": "冷やしすぎは良くないですよね。難しいですね。",
+            "timestamp": "2022-08-18T20:00:37.287000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "かといって扇風機だと物足りないので、難しいです",
+            "timestamp": "2022-08-18T20:00:53.499000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EJ",
+            "text": "この酷暑は扇風機だけだと厳しいですよね。",
+            "timestamp": "2022-08-18T20:01:11.631000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "汗が止まらないです。大変",
+            "timestamp": "2022-08-18T20:01:26.505000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EJ",
+            "text": "ベタベタですよね。",
+            "timestamp": "2022-08-18T20:01:39.736000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

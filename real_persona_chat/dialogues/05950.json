@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5950,
+    "interlocutors": [
+        "EV",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-10-01T14:53:03.948000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "こんにちは。宜しくおねがいします。",
+            "timestamp": "2022-10-01T14:53:16.029000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "好きな食べ物、またはきらいなたべものはありますか？",
+            "timestamp": "2022-10-01T14:53:23.598000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "好きなのはチーズですね。嫌いなのはエビとカニとピーマンです。",
+            "timestamp": "2022-10-01T14:54:31.469000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "なるほど、ちなみに僕はそれ全部好きな方です。",
+            "timestamp": "2022-10-01T14:54:49.723000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "そうなんですか！ピーマンはなんとか食べられるんですが、甲殻類はたぶんアレルギーです。",
+            "timestamp": "2022-10-01T14:55:29.897000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "あぁ、アレルギーですか。それはつらいですね",
+            "timestamp": "2022-10-01T14:55:40.277000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "どうしてかおいしいと思った事無いんです。吐いちゃうので受け付けないんですよね。不思議です。",
+            "timestamp": "2022-10-01T14:56:26.967000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "僕もアボカドはそんな感じなので、アレルギーなのかもしれません",
+            "timestamp": "2022-10-01T14:57:00.027000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "なんか体が拒否してる感じですよね。刻んで混ざっててもにおいですぐ分かります。",
+            "timestamp": "2022-10-01T14:57:59.200000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "においで判別出来てしまうあたり、本能で拒絶してそうですね",
+            "timestamp": "2022-10-01T14:58:26.027000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "幸い旦那がエビ好きなので助かってます。",
+            "timestamp": "2022-10-01T14:58:48.550000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "処理してもらえるのはありがたいですね",
+            "timestamp": "2022-10-01T14:59:03.284000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "やっぱり食材なので捨てるのはしのびないですからね。",
+            "timestamp": "2022-10-01T14:59:20.527000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "もったいないですね。チーズは何が好きですか？",
+            "timestamp": "2022-10-01T14:59:55.796000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "さけるチーズが好きです。とけるチーズも。",
+            "timestamp": "2022-10-01T15:00:14.901000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "さけるチーズいいですよね。一時期はまっていました",
+            "timestamp": "2022-10-01T15:00:36.226000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "じゃがりこにお湯を入れて混ぜるやつ、ついやっちゃいます。",
+            "timestamp": "2022-10-01T15:01:10.342000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "僕もやったことあります。お湯多すぎて失敗しましたが",
+            "timestamp": "2022-10-01T15:01:24.019000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "あれ入れすぎるとスープみたいになるんですか？",
+            "timestamp": "2022-10-01T15:02:08.262000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうですね。食感がなくなります",
+            "timestamp": "2022-10-01T15:02:32.943000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "ポタージュと思えばおいしそうな気もしますね。",
+            "timestamp": "2022-10-01T15:03:10.763000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "薄味なので、おいしくないですよ",
+            "timestamp": "2022-10-01T15:03:34.867000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "ああ、それはおいしくなさそうです。",
+            "timestamp": "2022-10-01T15:04:07.310000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "いつかリベンジしようと思います。",
+            "timestamp": "2022-10-01T15:04:19.745000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "是非。あと、さかずにホタテっぽい繊維を楽しむのも好きです。",
+            "timestamp": "2022-10-01T15:05:02.605000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "いいですね。安かったら買う予定です",
+            "timestamp": "2022-10-01T15:05:36.691000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "お菓子だと思うと高めですよね。これでポテチ買えるなあと思ったら迷います。",
+            "timestamp": "2022-10-01T15:06:24.791000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "まあカルシウム源と思えば手は伸びます",
+            "timestamp": "2022-10-01T15:06:48.789000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "確かに！",
+            "timestamp": "2022-10-01T15:07:07.814000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

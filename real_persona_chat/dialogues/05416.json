@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5416,
+    "interlocutors": [
+        "GG",
+        "GK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GG",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-23T18:08:01.996000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GK",
+            "text": "こんばんは",
+            "timestamp": "2022-09-23T18:09:13.190000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GG",
+            "text": "今日は何をされていましたか？",
+            "timestamp": "2022-09-23T18:09:36.042000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GK",
+            "text": "勉強してました。",
+            "timestamp": "2022-09-23T18:09:44.118000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GG",
+            "text": "何のですか？",
+            "timestamp": "2022-09-23T18:09:53.098000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GK",
+            "text": "ITです！",
+            "timestamp": "2022-09-23T18:10:09.008000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GG",
+            "text": "難しそうですね。",
+            "timestamp": "2022-09-23T18:10:14.006000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GK",
+            "text": "ITの国家試験は難易度別にたくさんあるので、まずは簡単な資格から勉強しています。",
+            "timestamp": "2022-09-23T18:10:54.243000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GG",
+            "text": "国家資格ってなんかかっこいいですね。",
+            "timestamp": "2022-09-23T18:11:03.454000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GK",
+            "text": "何か国家資格はお持ちですか？",
+            "timestamp": "2022-09-23T18:11:19.884000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GG",
+            "text": "運転免許持ってます。",
+            "timestamp": "2022-09-23T18:11:29.684000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GK",
+            "text": "国家資格ではないですね。",
+            "timestamp": "2022-09-23T18:11:46.648000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GG",
+            "text": "違うのですか？",
+            "timestamp": "2022-09-23T18:11:55.366000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GK",
+            "text": "調べたら国家資格でした。無知ですいません。",
+            "timestamp": "2022-09-23T18:12:43.460000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GG",
+            "text": "あなたは免許持ってますか？",
+            "timestamp": "2022-09-23T18:12:47.588000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GK",
+            "text": "自動車免許持ってます",
+            "timestamp": "2022-09-23T18:13:05.948000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GG",
+            "text": "AT限定ですか？",
+            "timestamp": "2022-09-23T18:13:21.550000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GK",
+            "text": "限定解除してます",
+            "timestamp": "2022-09-23T18:13:41.864000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GG",
+            "text": "すごいですね！",
+            "timestamp": "2022-09-23T18:13:46.496000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GK",
+            "text": "運転する機会ないですけどね",
+            "timestamp": "2022-09-23T18:13:59.386000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GG",
+            "text": "車持っていないのですか？",
+            "timestamp": "2022-09-23T18:14:06.120000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GK",
+            "text": "そうなんですよ",
+            "timestamp": "2022-09-23T18:14:28.373000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GG",
+            "text": "買う予定は？",
+            "timestamp": "2022-09-23T18:14:31.048000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GK",
+            "text": "お金があれば今すぐにでも買いたいです。",
+            "timestamp": "2022-09-23T18:14:52.281000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GG",
+            "text": "いくらくらいのを買いたいですか？",
+            "timestamp": "2022-09-23T18:15:00.153000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GK",
+            "text": "安いのでいいです！",
+            "timestamp": "2022-09-23T18:15:24.705000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GG",
+            "text": "じゃあ軽自動車でも良いのですか？",
+            "timestamp": "2022-09-23T18:15:35.810000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GK",
+            "text": "高速道路でしっかり走れる車がいいです",
+            "timestamp": "2022-09-23T18:15:59.562000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GG",
+            "text": "それならトラックとかオススメです！",
+            "timestamp": "2022-09-23T18:16:11.908000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GK",
+            "text": "参考します！",
+            "timestamp": "2022-09-23T18:16:24.278000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GK",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

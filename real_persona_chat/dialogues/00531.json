@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 531,
+    "interlocutors": [
+        "BP",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "はじめまして。宜しくお願いいたします！",
+            "timestamp": "2022-08-13T11:43:28.986000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "はじめまして！お願いします。",
+            "timestamp": "2022-08-13T11:43:40.019000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "こちらは昨日から断続的に雨が降り続いています。",
+            "timestamp": "2022-08-13T11:43:50.608000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "こちらもです。先ほどから大粒の雨が降ってきました！",
+            "timestamp": "2022-08-13T11:44:12.300000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "こちらは小雨ですが、夕方どうなるのか心配です。",
+            "timestamp": "2022-08-13T11:44:26.229000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "はい、こちらは台風直撃っぽいですが、そちらはどうですか？",
+            "timestamp": "2022-08-13T11:44:54.535000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "関東圏なので、台風の目は通りそうな気がします。",
+            "timestamp": "2022-08-13T11:45:10.780000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "同じです、うちも関東で。朝はすこし晴れてもいたんですけどねー！",
+            "timestamp": "2022-08-13T11:45:38.535000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "晴れ間もあったんですか？こっちは曇りか雨ですね。水不足は解消されそうです。",
+            "timestamp": "2022-08-13T11:46:04.319000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "水不足でしたか！今度は水害が心配なレベルかもですね。",
+            "timestamp": "2022-08-13T11:46:33.342000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "本当ですね。先週は東北が大変な様子でしたが、今度は東日本全体が大変そうです。",
+            "timestamp": "2022-08-13T11:47:04.904000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "はい、実家が秋田なのですが、今日は朝からニュースですごいことになってます。",
+            "timestamp": "2022-08-13T11:47:32.297000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "それはご実家がとても心配ですね！",
+            "timestamp": "2022-08-13T11:47:44.196000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "まだ、ニュースの地域とは離れていそうですが、雨はすごそうですね。",
+            "timestamp": "2022-08-13T11:48:08.495000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "今や水害などの災害はどこでも発生するので、いつわが身になるかわかりませんね。",
+            "timestamp": "2022-08-13T11:48:50.654000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "ほんとですね！何か災害の対策はされていますか？",
+            "timestamp": "2022-08-13T11:49:11.094000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "一応、防災用具は家の玄関の棚上に置いてあります。",
+            "timestamp": "2022-08-13T11:49:27.546000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "おお、すばらしい！日頃の備えが大切と言いますものね。",
+            "timestamp": "2022-08-13T11:49:48.523000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "そうですね。これまで活躍はしていませんが、これからも使う機会がないことを願っています。",
+            "timestamp": "2022-08-13T11:50:05.601000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "そうですね、使わずに済むのが一番です。今日も何もないといいですね！",
+            "timestamp": "2022-08-13T11:50:38.196000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "本当ですねー。あと、車の中にも非常食とお水を常備していますよ。",
+            "timestamp": "2022-08-13T11:50:53.498000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "それはまた、準備万端ですね！車の中というのは考えが及びませんでした。",
+            "timestamp": "2022-08-13T11:51:25.874000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "子どもが生まれてから、万一のことに備えておくようになったんですよ。",
+            "timestamp": "2022-08-13T11:51:45.310000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "お子様、まだ小さいですか？",
+            "timestamp": "2022-08-13T11:52:01.666000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "今はもう小学校高学年ですが、習慣で常備し続けています。",
+            "timestamp": "2022-08-13T11:52:28.510000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "子どもを連れての避難は大変ですものね！私も見習わねば！",
+            "timestamp": "2022-08-13T11:52:53.186000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "東日本大震災の時、停電でしばらく不自由だったので、それもきっかけになりました。",
+            "timestamp": "2022-08-13T11:53:19.883000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "その頃も関東でした？",
+            "timestamp": "2022-08-13T11:53:29.370000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "その頃も関東にいて、かなり揺れましたね！",
+            "timestamp": "2022-08-13T11:53:39.891000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "あれは衝撃的でしたよね！",
+            "timestamp": "2022-08-13T11:53:52.220000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BP",
+            "text": "本当に。もう経験はしたくないものです。",
+            "timestamp": "2022-08-13T11:54:02.627000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

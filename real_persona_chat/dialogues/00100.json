@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 100,
+    "interlocutors": [
+        "AC",
+        "AG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "どうもですー。こんばんは。",
+            "timestamp": "2022-08-07T00:58:28.481000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AG",
+            "text": "こんばんはー！どうもですー。",
+            "timestamp": "2022-08-07T00:58:39.647000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "最近、学生時代の友達に会ったりしてますか？",
+            "timestamp": "2022-08-07T00:58:57.218000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AG",
+            "text": "会ってないですねー。そういえば、最後にあったのは１０年くらい前かもしれません。",
+            "timestamp": "2022-08-07T00:59:26.188000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "結構経ってますねー。",
+            "timestamp": "2022-08-07T00:59:36.642000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AG",
+            "text": "はい。連絡は取ってるんですけど、実際には会ってないかな。あなたはどうですか？",
+            "timestamp": "2022-08-07T01:00:00.556000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "私も全然ですねー。連絡すら取ってないです。",
+            "timestamp": "2022-08-07T01:00:12.371000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AG",
+            "text": "学生時代って、友達多い方でしたか？",
+            "timestamp": "2022-08-07T01:00:28.772000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "多くはないですが、部活の友達とか、居たはずなんですけどねー。",
+            "timestamp": "2022-08-07T01:00:46.080000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AG",
+            "text": "わかります！その居たはずっていう表現、良いですね。どこへ行ったんだろう、あの人たちは。",
+            "timestamp": "2022-08-07T01:01:24.413000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "ね！年賀状というシステムが崩壊してから、あっという間に疎遠になりました。",
+            "timestamp": "2022-08-07T01:01:42.986000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AG",
+            "text": "あ！確かに！年賀状がなくなると、メール、ライン、そして送らなくなる。",
+            "timestamp": "2022-08-07T01:02:14.510000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "そうなんですよ。送る内容がなくなるとも言うかな。",
+            "timestamp": "2022-08-07T01:02:30.315000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AG",
+            "text": "なんとなく、ラインだといつでも話せるしって思って、放置しちゃったりして。",
+            "timestamp": "2022-08-07T01:02:56.301000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "そうそう、それあります！ラインって、そういえば、既読無視とか気にされますか？",
+            "timestamp": "2022-08-07T01:03:11.612000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AG",
+            "text": "弟にはよくやられますが、友達からはあまりないですね。ありますか？",
+            "timestamp": "2022-08-07T01:03:40.502000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "私はなんて返そうか悩んだ末、スタンプを送って、終わりにしてくれオーラを醸します。",
+            "timestamp": "2022-08-07T01:04:05.787000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AG",
+            "text": "あはは！スタンプって、そういう時便利ですよね。私もよくやります。",
+            "timestamp": "2022-08-07T01:04:30.694000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "やっぱり？なんか、ラインのラリーになると、終わるタイミングが分からなくて。",
+            "timestamp": "2022-08-07T01:04:56.179000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AG",
+            "text": "分からないですよね！年賀状とか手紙って、送りあって終わるから楽なんですけど。",
+            "timestamp": "2022-08-07T01:05:26.544000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "そうですよね！そういう、一方通行的な気軽さがありましたね！",
+            "timestamp": "2022-08-07T01:05:46.692000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AG",
+            "text": "ありましたねー。相手も忘れてるだろうタイミングでこっちが送ってみたり。そのくらいのペースが良いです。",
+            "timestamp": "2022-08-07T01:06:14.968000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "分かります。あと、文章を長く書かなくても良いのがいいですね！",
+            "timestamp": "2022-08-07T01:06:36.443000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AG",
+            "text": "そうですね！文章の長さ、ラインって逆によくわからなくて。",
+            "timestamp": "2022-08-07T01:07:12.871000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "同感です。そっけないと怒らせちゃうかなーとか気になる。",
+            "timestamp": "2022-08-07T01:07:26.982000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよね。若い人たちは、一文字でやりとりしてたりして。",
+            "timestamp": "2022-08-07T01:07:48.546000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "それ、聞きますね！了解の、りょ、とかね！",
+            "timestamp": "2022-08-07T01:08:05.622000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AG",
+            "text": "りょ、って！それ押したら、予測変換で了解って出てるのに！って。",
+            "timestamp": "2022-08-07T01:08:33.112000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "やっぱもう、スタンプで逃げる策が一番な気がします！",
+            "timestamp": "2022-08-07T01:08:57.456000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AG",
+            "text": "スタンプ、便利だなぁ。再確認しました。",
+            "timestamp": "2022-08-07T01:09:13.354000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 1140,
+    "interlocutors": [
+        "AT",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-13T09:59:43.918000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-13T09:59:52.430000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "普段何か健康で気にかけていることってありますか？",
+            "timestamp": "2022-08-13T10:00:12.551000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "それがないんですよー。むしろ不健康で。",
+            "timestamp": "2022-08-13T10:00:30.392000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "特に気になっていることってありますか？",
+            "timestamp": "2022-08-13T10:00:47.019000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "それはダイエット！でも、お酒飲みまくりで痩せるわけがないんですよねー。",
+            "timestamp": "2022-08-13T10:01:14.725000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "お酒飲むと食べたくなりますよね。",
+            "timestamp": "2022-08-13T10:01:34.733000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "そうなんです！ついつい何かをつまむ手が止まらない！",
+            "timestamp": "2022-08-13T10:01:54.774000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "お酒好きなんですか？",
+            "timestamp": "2022-08-13T10:02:24.063000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "大好きで、毎晩晩酌してます。飲まれますか？",
+            "timestamp": "2022-08-13T10:02:40.651000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "好きですよ、私は外で誰かとお酒を飲むことが多いです。",
+            "timestamp": "2022-08-13T10:02:58.082000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "それは楽しそうですね！私は毎日夕飯作りながら飲み始めます。",
+            "timestamp": "2022-08-13T10:03:27.709000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "火の傍にいるので、冷えたお酒は最高ですよね。",
+            "timestamp": "2022-08-13T10:03:49.472000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "たまらないです！どんな種類のお酒がお好きですか？",
+            "timestamp": "2022-08-13T10:04:11.141000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "何でも好きですが、最初はやっぱりビールですね！",
+            "timestamp": "2022-08-13T10:04:24.221000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "同意です！特に夏にキンキンに冷えたビール、最高です！",
+            "timestamp": "2022-08-13T10:04:51.444000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "間違いないです、ビールはよく何を飲みますか？",
+            "timestamp": "2022-08-13T10:05:08.620000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "飲む量が多すぎて、うちは普段は第3のビールなんです。",
+            "timestamp": "2022-08-13T10:05:47.400000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "第三のビールだと本麒麟が一番好きです。",
+            "timestamp": "2022-08-13T10:06:14.979000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "おいしいですよね！私は少しだけ気を遣って、糖質ゼロタイプです。",
+            "timestamp": "2022-08-13T10:07:03.805000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "糖質ゼロは飲んだことないんですよね、やっぱり違いますか？",
+            "timestamp": "2022-08-13T10:07:26.459000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "違いがあるかわからないけど、1箱2週間持たないので、気持ちだけでも。",
+            "timestamp": "2022-08-13T10:08:03.596000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "継続して飲みたいものなので、それで少しでも飲めるなら価値はあると思います。",
+            "timestamp": "2022-08-13T10:09:21.672000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "そういってもらえると気分が軽くなりますね！ビール以外は何を？",
+            "timestamp": "2022-08-13T10:09:48.798000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "日本酒、焼酎、ワインも飲みますし、ハイボールやチューハイも飲みますよ！",
+            "timestamp": "2022-08-13T10:10:21.621000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "おお、なんでもこい！ですね。お好きな日本酒の銘柄とかありますか？",
+            "timestamp": "2022-08-13T10:10:47.393000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "スーパーにあるのだと辛口一献とか上善如水とか好きです。",
+            "timestamp": "2022-08-13T10:11:13.100000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "上善！あれはすいすい飲めちゃって、やばいですね！止まらない。",
+            "timestamp": "2022-08-13T10:11:42.491000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "本当に水のようです。飲み過ぎないように気をつけます。",
+            "timestamp": "2022-08-13T10:11:59.974000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "私も気を付けなくては、です。ありがとうございました。",
+            "timestamp": "2022-08-13T10:12:21.788000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AT",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-13T10:12:33.125000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

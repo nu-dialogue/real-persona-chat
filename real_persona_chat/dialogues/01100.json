@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1100,
+    "interlocutors": [
+        "BU",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T14:11:19.826000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T14:11:27.527000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "お昼ごはんたべました？",
+            "timestamp": "2022-08-12T14:11:40.386000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "食べましたよ",
+            "timestamp": "2022-08-12T14:11:51.827000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "何食べましたか？",
+            "timestamp": "2022-08-12T14:11:57.505000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "カレールーです",
+            "timestamp": "2022-08-12T14:12:11.822000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "ルーだけですか？？",
+            "timestamp": "2022-08-12T14:12:19.684000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "ルーと、おせんべいです",
+            "timestamp": "2022-08-12T14:12:32.148000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "レトルトですか？",
+            "timestamp": "2022-08-12T14:13:15.265000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "レトルトです",
+            "timestamp": "2022-08-12T14:13:01.121000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "レトルトは湯煎、レンチンどちらですか？",
+            "timestamp": "2022-08-12T14:13:47.081000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "レンチンのが早いので、レンチン派です",
+            "timestamp": "2022-08-12T14:13:49.640000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "なるほど、レトルトカレー美味しいですよね。",
+            "timestamp": "2022-08-12T14:14:11.767000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "ですね、スパイスが効いてて最高です",
+            "timestamp": "2022-08-12T14:14:35.861000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "はい。たまにすごく食べたくなります。",
+            "timestamp": "2022-08-12T14:14:51.304000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "ですよね",
+            "timestamp": "2022-08-12T14:15:00.739000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "レトルト食品を多く食べますか？",
+            "timestamp": "2022-08-12T14:15:17.068000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、よく食べます",
+            "timestamp": "2022-08-12T14:15:38.093000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "好きなレトルト食品ありますか？？",
+            "timestamp": "2022-08-12T14:15:56.831000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "カレーが一番です",
+            "timestamp": "2022-08-12T14:16:08.157000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "レトルトとカレールーどっちがすきですか？",
+            "timestamp": "2022-08-12T14:16:39.470000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "レトルトのカレーの方が美味しく感じます",
+            "timestamp": "2022-08-12T14:17:02.821000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "そうなんですね。うちはカレー屋さんのカレーがすきです。カレー屋さん行かれますか？",
+            "timestamp": "2022-08-12T14:17:36.430000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "高いので、あまり行かないですね",
+            "timestamp": "2022-08-12T14:17:47.896000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "いくらぐらいから高いって感じます？",
+            "timestamp": "2022-08-12T14:18:08.235000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "500円超えると高く感じます",
+            "timestamp": "2022-08-12T14:18:29.747000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "毎食ですか？",
+            "timestamp": "2022-08-12T14:18:42.376000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、できれば1食500円以内ですかね",
+            "timestamp": "2022-08-12T14:19:03.188000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "たしかに、１日３食だと１日で1,500円ですからね。そう考えればたかい。",
+            "timestamp": "2022-08-12T14:19:38.430000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "そうですよね、何度も外食するとすぐお金なくなります",
+            "timestamp": "2022-08-12T14:20:24.468000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

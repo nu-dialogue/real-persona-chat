@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6010,
+    "interlocutors": [
+        "AS",
+        "HB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-02T16:07:40.687000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HB",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T16:08:00.953000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "朝ごはんは普段食べますか？",
+            "timestamp": "2022-10-02T16:08:16.207000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HB",
+            "text": "食べません。あなたは？",
+            "timestamp": "2022-10-02T16:08:33.975000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "私は食べますね",
+            "timestamp": "2022-10-02T16:08:55.240000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HB",
+            "text": "何食べるんですか？",
+            "timestamp": "2022-10-02T16:09:03.318000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "目玉焼きとか、和です",
+            "timestamp": "2022-10-02T16:09:19.639000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HB",
+            "text": "ごはんとか？",
+            "timestamp": "2022-10-02T16:09:25.062000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "そうです。あと、味噌汁とか",
+            "timestamp": "2022-10-02T16:09:36.669000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HB",
+            "text": "いいですね！自分で作るんですか？",
+            "timestamp": "2022-10-02T16:09:45.590000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "自作です！",
+            "timestamp": "2022-10-02T16:09:51.903000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HB",
+            "text": "手間かけますね！朝強いんですか？",
+            "timestamp": "2022-10-02T16:10:03.438000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "朝は強めですね",
+            "timestamp": "2022-10-02T16:10:25.367000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HB",
+            "text": "うらやましい。私はもう一秒でも長く布団にいたいです。",
+            "timestamp": "2022-10-02T16:10:42.754000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "それは私もそうです。でも、一限から授業があるので頑張って起きないと",
+            "timestamp": "2022-10-02T16:11:09.156000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。何時くらいに家でないといけないんですか？",
+            "timestamp": "2022-10-02T16:11:20.969000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "9時開始なので、遅くとも8：50までには",
+            "timestamp": "2022-10-02T16:11:35.705000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HB",
+            "text": "早い！冬が近づくにつれ厳しいですね。",
+            "timestamp": "2022-10-02T16:11:52.657000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "去年は逆に寒すぎて目が覚めてしまうくらいでした",
+            "timestamp": "2022-10-02T16:12:11.382000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HB",
+            "text": "え、そうなんですね。でも布団が暖かくて出れないことないですか？",
+            "timestamp": "2022-10-02T16:12:34.280000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "なんだか、眠気が吹っ飛んでしまうんです",
+            "timestamp": "2022-10-02T16:13:16.598000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HB",
+            "text": "強い。寝起きもよさそうですね。",
+            "timestamp": "2022-10-02T16:13:32.150000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "ただ、睡眠時間が充分じゃないと寝起きめちゃめちゃ悪いです",
+            "timestamp": "2022-10-02T16:14:12.566000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HB",
+            "text": "睡眠時間はどれくらい必要ですか？",
+            "timestamp": "2022-10-02T16:14:26.641000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "6-7時間必要です",
+            "timestamp": "2022-10-02T16:14:39.200000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HB",
+            "text": "私も同じです。平均くらいでしょうね！",
+            "timestamp": "2022-10-02T16:14:59.975000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "ですね！ショートでもロングでもないです",
+            "timestamp": "2022-10-02T16:15:14.948000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HB",
+            "text": "ショートうらやましいですよね。",
+            "timestamp": "2022-10-02T16:15:23.243000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "使える時間が長いのホントにうらやましいです",
+            "timestamp": "2022-10-02T16:15:40.108000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HB",
+            "text": "わかります。",
+            "timestamp": "2022-10-02T16:15:46.232000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3209,
+    "interlocutors": [
+        "CI",
+        "DY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-26T22:18:22.413000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DY",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-26T22:18:26.947000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-08-26T22:18:36.950000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DY",
+            "text": "はい、今日は仕事で1日テレワークをしていました。",
+            "timestamp": "2022-08-26T22:18:48.001000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "お疲れ様です。在宅でお仕事できるんですね。",
+            "timestamp": "2022-08-26T22:19:01.504000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DY",
+            "text": "はい、システムエンジニアなので、コロナもあって在宅中心になりました。",
+            "timestamp": "2022-08-26T22:19:20.309000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "SEさん、普通にハードですもんね。通勤時間が減っても大変そうです。",
+            "timestamp": "2022-08-26T22:19:46.158000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DY",
+            "text": "そうですね、昔はめちゃくちゃに残業していました。今はそういう部署から離れて楽に仕事してます！",
+            "timestamp": "2022-08-26T22:20:14.175000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "残業とか、メンテとかトラブル、よく聞きますよね。今はそういうのないんですか？",
+            "timestamp": "2022-08-26T22:21:02.873000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DY",
+            "text": "ある部署はありますね。今は管理だったり予算策定であったりの部署にいて、そういうのはないです",
+            "timestamp": "2022-08-26T22:21:44.423000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "会社だと部署によって色々違うんですね。",
+            "timestamp": "2022-08-26T22:23:04.417000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DY",
+            "text": "そうですね。だいぶ違います。そちらは今日はお仕事でしたか？",
+            "timestamp": "2022-08-26T22:23:29.542000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "半々な感じです。昼は長めランチで外出しました。",
+            "timestamp": "2022-08-26T22:24:05.588000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DY",
+            "text": "そうなんですね。ランチは何食べられたんですか？",
+            "timestamp": "2022-08-26T22:24:36.407000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "またカレーなんですけど、子どもがハマってしまって、ネパール料理屋さんのカレーランチに行きました。",
+            "timestamp": "2022-08-26T22:25:05.163000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DY",
+            "text": "あー、インドカレー系大好きです。ナンで食べるやつ。",
+            "timestamp": "2022-08-26T22:25:26.801000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "ナン私も好きです。美味しいですよね。",
+            "timestamp": "2022-08-26T22:25:54.184000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DY",
+            "text": "ナンってなかなか家では食べられないですしね。本当に好きです。",
+            "timestamp": "2022-08-26T22:26:12.371000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "家で作れないですよね。お店の焼き立てが美味しくて。",
+            "timestamp": "2022-08-26T22:26:42.424000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DY",
+            "text": "アツアツの焼き立てナンがいいですよね！食べたくなってきました。",
+            "timestamp": "2022-08-26T22:27:00.816000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "この時間にご飯の話、危険ですね。",
+            "timestamp": "2022-08-26T22:27:15.367000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DY",
+            "text": "危険ですね。夕飯は食べたのに、もうちょっとお腹が空いてきます。",
+            "timestamp": "2022-08-26T22:27:31.304000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "わかります、そろそろ自制心との戦いが始まりそうです。",
+            "timestamp": "2022-08-26T22:27:47.744000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DY",
+            "text": "普段お風呂上がりにアイスを食べてしまいます。間食は普段されないですか？",
+            "timestamp": "2022-08-26T22:28:10.192000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "お風呂上がりのアイスは食べます！この時期はお風呂の一環ですね。",
+            "timestamp": "2022-08-26T22:28:44.675000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DY",
+            "text": "そうですよね！どういう系のアイスが好きですか？",
+            "timestamp": "2022-08-26T22:28:57.097000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "最近は暑すぎて、果汁多めのシャーベット系を選びがちです。",
+            "timestamp": "2022-08-26T22:29:16.068000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DY",
+            "text": "わかります、バニラやチョコ系より、あっさりさっぱりがいいですよね！",
+            "timestamp": "2022-08-26T22:29:32.940000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "今日はガツンとみかんでした。今日はもうアイスは食べましたか？",
+            "timestamp": "2022-08-26T22:30:07.687000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DY",
+            "text": "自分は箱で買ってあったマンゴーアイスを食べました！",
+            "timestamp": "2022-08-26T22:30:24.350000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

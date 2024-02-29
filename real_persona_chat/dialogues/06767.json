@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6767,
+    "interlocutors": [
+        "HH",
+        "HS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HH",
+            "text": "こんにちは",
+            "timestamp": "2022-10-06T14:24:03.906000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HS",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-06T14:24:09.957000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HH",
+            "text": "あなたは四季でいつが一番好きですか？",
+            "timestamp": "2022-10-06T14:24:14.879000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HS",
+            "text": "春が好きです。暖かいし。",
+            "timestamp": "2022-10-06T14:24:34.357000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HH",
+            "text": "春は過ごしやすいですよね。私は花粉があるので得意ではありませんが。",
+            "timestamp": "2022-10-06T14:24:58.070000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HS",
+            "text": "確かに、花粉症の方は大変ですね。幸い私は花粉症ではないので気楽です。",
+            "timestamp": "2022-10-06T14:25:30.208000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HH",
+            "text": "花粉症でないのは羨ましいです。花粉がなければ私も春が好きだったと思います。",
+            "timestamp": "2022-10-06T14:25:43.158000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HS",
+            "text": "あなたはどの季節が好きですか？",
+            "timestamp": "2022-10-06T14:25:58.156000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HH",
+            "text": "私は冬ですね",
+            "timestamp": "2022-10-06T14:26:13.201000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HS",
+            "text": "なるほど。何か理由とかはありますか？",
+            "timestamp": "2022-10-06T14:26:48.042000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HH",
+            "text": "キャンプが趣味で、冬がキャンプの季節だからですね",
+            "timestamp": "2022-10-06T14:27:00.611000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HS",
+            "text": "そうなんですか？私はキャンプとか行かないので知らなかったです。",
+            "timestamp": "2022-10-06T14:27:28.729000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HH",
+            "text": "夏のイメージが多いと思いますが、暑くてとてもじゃないけどテントにいられないです。",
+            "timestamp": "2022-10-06T14:27:54.743000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HS",
+            "text": "確かに。でも冬って寒くないですか？",
+            "timestamp": "2022-10-06T14:28:09.942000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HH",
+            "text": "電気毛布とかヒーターを入れれば寒いどころか暑いです。",
+            "timestamp": "2022-10-06T14:28:35.147000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HS",
+            "text": "なるほど、涼しくするより暖かくするほうが簡単ですね。",
+            "timestamp": "2022-10-06T14:29:09.022000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HH",
+            "text": "夏は扇風機くらいしか入れられないと思います。",
+            "timestamp": "2022-10-06T14:29:28.806000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HS",
+            "text": "じゃあ、これからキャンプの季節なのですね。楽しみですね。",
+            "timestamp": "2022-10-06T14:29:47.391000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HH",
+            "text": "はい。真冬は虫もいないので、本当に過ごしやすいです。",
+            "timestamp": "2022-10-06T14:29:57.620000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HS",
+            "text": "夏は確かに、虫がたくさん出るのはちょっと嫌ですね。",
+            "timestamp": "2022-10-06T14:30:16.922000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HH",
+            "text": "秋もまだ虫がいるので、どちらかというと冬の方がありがたいですね。",
+            "timestamp": "2022-10-06T14:30:27.002000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HS",
+            "text": "冬に遊ぶとなると、スキーやスノボくらいしか思いつきませんでした。",
+            "timestamp": "2022-10-06T14:31:20.342000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HH",
+            "text": "ウィンタースポーツですね。確かに冬の定番ですね",
+            "timestamp": "2022-10-06T14:31:44.350000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HS",
+            "text": "といっても私自身は最後に行ったのはもう8年くらい前になりますが。またスキーとかに行きたいものです。",
+            "timestamp": "2022-10-06T14:32:20.906000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HH",
+            "text": "まだコロナ流行ってますが、感染に気を付けて行ってみるのもいいかもしれないですね",
+            "timestamp": "2022-10-06T14:33:14.281000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HS",
+            "text": "そうですね、でも今年の冬は忙しくて無理かも。卒論を書かなければならないので……。",
+            "timestamp": "2022-10-06T14:33:53.459000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HH",
+            "text": "卒業の時期なのですね。もうすぐですね。",
+            "timestamp": "2022-10-06T14:34:07.389000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HS",
+            "text": "そろそろ卒業も近くなってきてるので、真面目に準備をしないといけなさそうです。",
+            "timestamp": "2022-10-06T14:34:35.361000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HH",
+            "text": "卒論大変そうです。頑張ってください。",
+            "timestamp": "2022-10-06T14:34:43.382000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HS",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-10-06T14:34:51.125000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

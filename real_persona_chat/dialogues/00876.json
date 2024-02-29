@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 876,
+    "interlocutors": [
+        "BT",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-10T18:22:59.497000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T18:23:07.954000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "今日はお昼ご飯、何食べました？",
+            "timestamp": "2022-08-10T18:23:18.566000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "お昼は、この暑いのに肉まんを食べました。",
+            "timestamp": "2022-08-10T18:24:03.950000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "おぉ。おいしそう！お店の肉まんですか？スーパーとかで買えるやつですか？",
+            "timestamp": "2022-08-10T18:24:34.933000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "スーパーのやつです。値引きになっていたので。",
+            "timestamp": "2022-08-10T18:25:06.023000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "いいですよね。私も値引きになってる肉まん、けっこう買います。",
+            "timestamp": "2022-08-10T18:25:15.876000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "値引き嬉しいですよね。夏に買ったのはさすがに初めてかもしれません",
+            "timestamp": "2022-08-10T18:25:51.766000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "嬉しいですよね！ちなみに、肉まんには何かつけて食べますか？",
+            "timestamp": "2022-08-10T18:26:14.449000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "何かつけようという発想がありませんでした！何かつけるのですか？",
+            "timestamp": "2022-08-10T18:26:42.600000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "私、関西なんですけど、関西はからしが多いですね。",
+            "timestamp": "2022-08-10T18:26:53.940000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "からしはおでんにつけるイメージです",
+            "timestamp": "2022-08-10T18:27:20.474000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "あはは。そうかも。コンビニで肉まん買っても、からしもらえるんですよ。",
+            "timestamp": "2022-08-10T18:27:40.026000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね！地域によって面白いですね。",
+            "timestamp": "2022-08-10T18:27:59.147000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "名古屋は、おみそだったかな。しょうゆのところもあるらしいです。",
+            "timestamp": "2022-08-10T18:28:21.753000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "いろいろな楽しみ方があるのですね。今度試してみたいです。",
+            "timestamp": "2022-08-10T18:28:54.497000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "お好きな調味料ってありますか？",
+            "timestamp": "2022-08-10T18:29:10.100000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "私は白だしをよく使います",
+            "timestamp": "2022-08-10T18:29:31.960000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "へえ。白だしって、何で取るんですか？",
+            "timestamp": "2022-08-10T18:30:00.211000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "ずぼらなのでボトルで売ってるのを使ってます。",
+            "timestamp": "2022-08-10T18:30:33.612000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "便利ですよね！私も粉末だし使いますよー！",
+            "timestamp": "2022-08-10T18:30:56.015000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "粉末も便利ですよね！",
+            "timestamp": "2022-08-10T18:31:16.749000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "コンソメとかも、常備してます。たまに、使うの忘れて固まってるけど。",
+            "timestamp": "2022-08-10T18:31:49.138000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "コンソメの期限間近なのをもらったんですが、そのまま期限が切れてしまいました。",
+            "timestamp": "2022-08-10T18:32:27.039000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "あはは。意外と使いどころ難しいかもですね。スープぐらい？",
+            "timestamp": "2022-08-10T18:32:51.748000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "冬ならポトフなどに使えますね",
+            "timestamp": "2022-08-10T18:33:18.765000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "いいですね、ポトフ。私も冬になると、よく作ります。",
+            "timestamp": "2022-08-10T18:33:54.426000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "具は何を入れますか？",
+            "timestamp": "2022-08-10T18:34:12.538000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "じゃがいもと、ウィンナーと、キャベツかな。鉄板構成！",
+            "timestamp": "2022-08-10T18:34:31.411000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "鉄板ですね！私も同様です！",
+            "timestamp": "2022-08-10T18:34:55.469000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

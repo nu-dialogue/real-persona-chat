@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 560,
+    "interlocutors": [
+        "AB",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-09T14:24:06.189000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-09T14:24:10.842000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "スイーツは食べますか？",
+            "timestamp": "2022-08-09T14:24:16.923000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "スイーツ好きです。たまにケーキを買って食べたりします。",
+            "timestamp": "2022-08-09T14:24:35.487000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "どんなケーキが好きですか？",
+            "timestamp": "2022-08-09T14:24:44.900000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "定番ですが、イチゴのショートケーキが好きです。",
+            "timestamp": "2022-08-09T14:24:57.612000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "美味しいですよね！私はチーズケーキが大好きです。",
+            "timestamp": "2022-08-09T14:25:16.978000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "チーズケーキも色々種類がでてますよね。バスクとか。",
+            "timestamp": "2022-08-09T14:25:33.355000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "バスクはやってましたね。何度か作りました。",
+            "timestamp": "2022-08-09T14:25:44.963000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "ご自宅で作れるんですね。難しかったですか？",
+            "timestamp": "2022-08-09T14:25:59.617000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "意外に簡単でしたよ。お店の物を食べたことないです。",
+            "timestamp": "2022-08-09T14:26:15.782000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "ケーキってしっかり分量を量らないと美味しくできないと聞いたことがあります。",
+            "timestamp": "2022-08-09T14:26:34.302000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "たぶんバスクは大丈夫な気がします。ガーっと混ぜて、高温で焼くだけ。",
+            "timestamp": "2022-08-09T14:26:59.216000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "そうなんですね。他にもお菓子を作られたりするんですか？",
+            "timestamp": "2022-08-09T14:27:18.127000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "お菓子作りが好きで、プリンとか、シフォンケーキとかたまに焼きます。",
+            "timestamp": "2022-08-09T14:27:32.414000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "すごいですね。一番難しかったお菓子は何ですか？",
+            "timestamp": "2022-08-09T14:27:52.486000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "スフレチーズケーキと台湾カステラです！",
+            "timestamp": "2022-08-09T14:28:05.558000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "どちらもふわふわが命ですもんね。",
+            "timestamp": "2022-08-09T14:28:21.582000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ！焼いた後すぐは膨れてるんですが、時間が経つと悲しいことになります。",
+            "timestamp": "2022-08-09T14:28:43.154000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "メレンゲとか難しそうです。",
+            "timestamp": "2022-08-09T14:28:56.673000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "メレンゲとケーキ液を混ぜ合わせるのが下手なんだと思います。",
+            "timestamp": "2022-08-09T14:29:18.417000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "初心者でも作りやすいお菓子ってありますか？",
+            "timestamp": "2022-08-09T14:29:45.324000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "焼かないで、冷やして作れるレアチーズケーキとかかな？",
+            "timestamp": "2022-08-09T14:30:06.608000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。今度作ってみます。",
+            "timestamp": "2022-08-09T14:30:21.707000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "お菓子作りはあまりしないですか？",
+            "timestamp": "2022-08-09T14:30:29.210000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "まったく挑戦したことがないですね。フルーチェは料理じゃないですもんね。",
+            "timestamp": "2022-08-09T14:30:51.027000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "簡単で美味しいが一番です！杏仁豆腐もすぐ作れるやつ買います。",
+            "timestamp": "2022-08-09T14:31:18.543000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "幅広くお菓子を作られるんですね。尊敬します。",
+            "timestamp": "2022-08-09T14:31:37.100000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "食い意地があるだけです。もしチャレンジする気になったら、何か作ってみて下さい。",
+            "timestamp": "2022-08-09T14:32:08.881000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "はい、やってみます。ありがとうございました。",
+            "timestamp": "2022-08-09T14:32:16.401000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

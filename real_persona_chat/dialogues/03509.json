@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3509,
+    "interlocutors": [
+        "CB",
+        "EK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-29T22:04:37.383000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EK",
+            "text": "こんばんは！よろしくおねがいします",
+            "timestamp": "2022-08-29T22:04:47.649000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "家事ってどのくらいされますか？",
+            "timestamp": "2022-08-29T22:05:01.581000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EK",
+            "text": "家事はかなり好きで、掃除洗濯は私担当です",
+            "timestamp": "2022-08-29T22:05:17.968000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね。かなり好きって言えるって珍しいですね",
+            "timestamp": "2022-08-29T22:05:37.255000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EK",
+            "text": "食器洗いも好きなので、食洗器は導入したくない派ですねー",
+            "timestamp": "2022-08-29T22:06:04.248000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "なるほどー。食洗器ほしいですが、家族から反対されます。邪魔だと",
+            "timestamp": "2022-08-29T22:06:24.538000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EK",
+            "text": "あったら便利って言いますからねえ",
+            "timestamp": "2022-08-29T22:06:46.634000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "そうですよね。でも皿洗い好きなんだったらいいですよね。",
+            "timestamp": "2022-08-29T22:07:00.973000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EK",
+            "text": "そうなんですよね、実は食洗器あるんですが、私は使わないです",
+            "timestamp": "2022-08-29T22:07:26.221000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "あるんですね！！　ご家族は使われているんですか？",
+            "timestamp": "2022-08-29T22:07:44.712000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EK",
+            "text": "使ってますねえ。私が喜んで洗ってあげるのに",
+            "timestamp": "2022-08-29T22:08:14.764000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "おもしろいです。想像すると。苦手な家事、やりたくない家事はありますか",
+            "timestamp": "2022-08-29T22:08:54.753000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EK",
+            "text": "やりたくない家事はないですが、料理はあまり得意じゃなくて",
+            "timestamp": "2022-08-29T22:09:15.640000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね。飯盒飯たけるのに。今日のおかずはなんでしたか？",
+            "timestamp": "2022-08-29T22:09:38.572000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EK",
+            "text": "今日はカレーです",
+            "timestamp": "2022-08-29T22:09:57.770000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "それは鉄板ですね。",
+            "timestamp": "2022-08-29T22:10:03.500000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EK",
+            "text": "ですねー！家事ってお好きですか？",
+            "timestamp": "2022-08-29T22:10:13.540000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "嫌いでもないですけど、好きでもないっていう感じです。料理は好きです",
+            "timestamp": "2022-08-29T22:10:39.629000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EK",
+            "text": "必要に迫られてやるってのもありますしね。料理ができるのがうらやましいです",
+            "timestamp": "2022-08-29T22:11:15.479000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "もとめるレベルが高いのでは？",
+            "timestamp": "2022-08-29T22:11:39.968000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EK",
+            "text": "いやー、そんなことはないと思います",
+            "timestamp": "2022-08-29T22:12:02.923000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "得意なメニューをあえてあげるならなんですか",
+            "timestamp": "2022-08-29T22:12:22.482000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EK",
+            "text": "カレーです。すみません、なんでもかんでもカレーで",
+            "timestamp": "2022-08-29T22:12:39.628000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "バリエーションはあるんですか？",
+            "timestamp": "2022-08-29T22:12:48.358000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EK",
+            "text": "ルーが違うくらいですね",
+            "timestamp": "2022-08-29T22:13:06.744000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "ルーはお気に入りってありますか？",
+            "timestamp": "2022-08-29T22:13:15.720000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EK",
+            "text": "ジャワカレーですね。バーモントも。常に６０箱ほどストックして眺めてます",
+            "timestamp": "2022-08-29T22:13:45.123000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "すごい！６０個もストックとは。はじめて聞きました。",
+            "timestamp": "2022-08-29T22:14:04.114000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EK",
+            "text": "引き出しが一つカレーでびっしりです。",
+            "timestamp": "2022-08-29T22:14:29.735000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

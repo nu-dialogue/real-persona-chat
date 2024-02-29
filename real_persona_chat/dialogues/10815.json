@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10815,
+    "interlocutors": [
+        "DQ",
+        "BW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DQ",
+            "text": "おはようございます、宜しくお願いします。",
+            "timestamp": "2022-08-17T10:10:32.704000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BW",
+            "text": "おはようございます！お願いします。",
+            "timestamp": "2022-08-17T10:10:52.686000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DQ",
+            "text": "最近、美味しかったお勧めの食べ物とかありますか？",
+            "timestamp": "2022-08-17T10:11:19.594000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BW",
+            "text": "なんでしょう、ジャンラーメンでしょうか。辛みそラーメンです。",
+            "timestamp": "2022-08-17T10:11:48.625000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DQ",
+            "text": "ジャージャー面ではなくて、ジャンラーメンなんですね。",
+            "timestamp": "2022-08-17T10:12:02.120000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BW",
+            "text": "はい、辛いのが好きなので、なんでも辛いのを注文してしまいます。",
+            "timestamp": "2022-08-17T10:12:30.489000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DQ",
+            "text": "暑いときは辛いもので食が進みますよね。",
+            "timestamp": "2022-08-17T10:12:43.464000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、あなたはどんな食べ物が好きですか？",
+            "timestamp": "2022-08-17T10:13:12.216000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DQ",
+            "text": "最近、あずきがとても美味しくて、甘くない小豆を炊いてみようと思っています。",
+            "timestamp": "2022-08-17T10:13:34.179000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BW",
+            "text": "甘くないのは美味しいですよね、小豆は健康に良さそうです。",
+            "timestamp": "2022-08-17T10:13:57.754000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DQ",
+            "text": "たんぱく質が豊富だと聞いたので、健康にも本当に良いと思います。",
+            "timestamp": "2022-08-17T10:14:12.679000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BW",
+            "text": "私も豆乳を飲んでます、植物性たんぱく質は大事ですね。",
+            "timestamp": "2022-08-17T10:14:34.223000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DQ",
+            "text": "豆乳！最近、子供が買ってきて、私もコーヒーに入れてみたら、すごくおいしかったです。",
+            "timestamp": "2022-08-17T10:14:54.172000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BW",
+            "text": "私も豆乳コーヒーにはまって、毎日飲んでます。",
+            "timestamp": "2022-08-17T10:15:10.891000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DQ",
+            "text": "私もそれ以降、豆乳は箱買いです。",
+            "timestamp": "2022-08-17T10:15:19.507000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BW",
+            "text": "私もです、飲みすぎてすぐなくなります。",
+            "timestamp": "2022-08-17T10:15:35.149000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DQ",
+            "text": "意外と子供からの影響があって、子供が大きくなってきたなぁ、と感じる最近です。",
+            "timestamp": "2022-08-17T10:15:51.127000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BW",
+            "text": "お子さんでも豆乳が好きなのは、大人びてますね。",
+            "timestamp": "2022-08-17T10:16:16.413000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DQ",
+            "text": "最近は、オートミールで色々作るのが楽しいみたいです。",
+            "timestamp": "2022-08-17T10:16:30.697000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BW",
+            "text": "オートミールは豆乳を入れるんですね、よく聞きますが。",
+            "timestamp": "2022-08-17T10:16:53.940000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DQ",
+            "text": "中学生のくせに、健康おたくみたいなんです。",
+            "timestamp": "2022-08-17T10:17:03.931000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BW",
+            "text": "いいですよ、早いうちから美と健康を目指すのは。",
+            "timestamp": "2022-08-17T10:17:23.995000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DQ",
+            "text": "携帯で情報があふれてますからね。。",
+            "timestamp": "2022-08-17T10:17:37.765000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BW",
+            "text": "ですよね、いろいろ分かるけど、間違ってるのも多くありそうです。",
+            "timestamp": "2022-08-17T10:18:05.070000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DQ",
+            "text": "昔は雑誌とかで入手していた内容を、今や携帯です。",
+            "timestamp": "2022-08-17T10:18:22.251000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BW",
+            "text": "そうです、雑誌や本から得てましたね。知った気になりそうなんですよね、携帯って。",
+            "timestamp": "2022-08-17T10:18:48.728000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DQ",
+            "text": "意外と危険だけど、子供は分かっていないような。。",
+            "timestamp": "2022-08-17T10:19:05.749000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BW",
+            "text": "便利な方が先に立つので、あまり意識してないですね。",
+            "timestamp": "2022-08-17T10:19:25.884000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DQ",
+            "text": "確かに、便利の裏も知ってほしいですね。",
+            "timestamp": "2022-08-17T10:19:45.797000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BW",
+            "text": "そうですね、いろいろ気を付けないとですね。",
+            "timestamp": "2022-08-17T10:20:03.236000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "DQ",
+            "text": "ですね。ありがとうございました！",
+            "timestamp": "2022-08-17T10:20:11.736000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

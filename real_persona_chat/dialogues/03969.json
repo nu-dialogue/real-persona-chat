@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3969,
+    "interlocutors": [
+        "BF",
+        "FJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんにちは、よろしくお願いしますね。",
+            "timestamp": "2022-09-06T10:43:06.070000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FJ",
+            "text": "こんにちは、こちらこそお願いします。",
+            "timestamp": "2022-09-06T10:43:16.052000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "食べ物の好き嫌いってありますか？",
+            "timestamp": "2022-09-06T10:43:27.697000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FJ",
+            "text": "子どものころは色々苦手でした、今はあまりないです。",
+            "timestamp": "2022-09-06T10:43:41.759000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "あ、わかります！大人になるとなぜか食べられるようになるものってありますよね。",
+            "timestamp": "2022-09-06T10:44:09.145000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FJ",
+            "text": "慣れるんですかね、給食の肉まんが食べれなくて、今にして思うとなぜってなります。",
+            "timestamp": "2022-09-06T10:44:37.144000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "肉まん！というか給食に肉まんが出てたんですね！",
+            "timestamp": "2022-09-06T10:45:08.675000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FJ",
+            "text": "そうっぽいですね、やたらと覚えてます。あとはカレーを嫌がったことがあったのも覚えてます。",
+            "timestamp": "2022-09-06T10:45:53.477000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "肉まんにカレー、子どもが好きそうなメニューなんですけどね。",
+            "timestamp": "2022-09-06T10:46:33.951000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FJ",
+            "text": "今では大好きです、自分で作るようになったのも苦手がなくなった理由かもです。",
+            "timestamp": "2022-09-06T10:46:58.183000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "なるほど。私はアサリと椎茸が苦手でした。今は全然食べられるんですけどね。",
+            "timestamp": "2022-09-06T10:47:38.612000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FJ",
+            "text": "椎茸は苦手な人よくいますね、アサリはなんでしょう、砂っぽかったとかかな。",
+            "timestamp": "2022-09-06T10:48:08.131000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "まさにです！食べた時にジャリってなったのがきっかけで敬遠してましたね。",
+            "timestamp": "2022-09-06T10:48:36.002000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FJ",
+            "text": "砂抜き難しいですもんね、あれがなければダシの味わいとか最高なんですけど。",
+            "timestamp": "2022-09-06T10:49:17.602000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "たしかに！あ、私、今でも嫌いなものありました。セロリとか、パクチーとか。",
+            "timestamp": "2022-09-06T10:50:35.869000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FJ",
+            "text": "セロリは私も、食べれますけど好んでは食べないですね、食感も匂いも独特なの食べにくいですよね。",
+            "timestamp": "2022-09-06T10:51:10.087000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "香りが強いものってちょっと苦手かもしれません。茗荷もあまり得意じゃないし。",
+            "timestamp": "2022-09-06T10:51:39.306000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FJ",
+            "text": "わかります、私も薬味はあまり使わず素のまま食べることが多いです。",
+            "timestamp": "2022-09-06T10:52:19.467000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "逆に好きな食べ物って何ですか？",
+            "timestamp": "2022-09-06T10:52:43.335000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FJ",
+            "text": "そうですね、ラーメンとかがっつりしたのが好きです。",
+            "timestamp": "2022-09-06T10:53:31.398000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "ラーメン！美味しいですよね。何味が好きですか？",
+            "timestamp": "2022-09-06T10:53:50.463000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FJ",
+            "text": "塩も好きなんですけど、最近は豚骨にハマってます。",
+            "timestamp": "2022-09-06T10:54:11.783000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "豚骨、美味しいですよね。あの細麺の感じがたまらないです。",
+            "timestamp": "2022-09-06T10:54:39.468000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FJ",
+            "text": "スープと合わせるといくらでも食べたくなります。そちらは好きな味はありますか？",
+            "timestamp": "2022-09-06T10:55:26.995000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "私も豚骨かなあ。なぜか我が家の周り、豚骨ラーメンのお店が多いんですよ。",
+            "timestamp": "2022-09-06T10:56:02.156000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FJ",
+            "text": "流行ってるんですかね、味がしっかりしてるから豚骨は印象に残りますよね。",
+            "timestamp": "2022-09-06T10:56:35.244000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "そうですね！ラーメンの話をしてたら、お腹が減ってきました。",
+            "timestamp": "2022-09-06T10:57:05.490000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FJ",
+            "text": "わかります！お昼に食べたくなってきました！",
+            "timestamp": "2022-09-06T10:57:16.336000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "今日はラーメンにしようかな！では、今日はこの辺りでー！",
+            "timestamp": "2022-09-06T10:57:37.438000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FJ",
+            "text": "はい、ありがとうございました！",
+            "timestamp": "2022-09-06T10:57:46.133000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

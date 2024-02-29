@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13649,
+    "interlocutors": [
+        "GR",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T13:50:47.204000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T13:50:54.735000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "昨日はお仕事でしたか？",
+            "timestamp": "2022-10-01T13:51:04.529000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "仕事でした。4時間くらい残業でした。",
+            "timestamp": "2022-10-01T13:51:23.239000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "忙しそうですね。何のお仕事されてるんですか？",
+            "timestamp": "2022-10-01T13:51:40.255000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "エンジニアやってます",
+            "timestamp": "2022-10-01T13:51:59.309000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "何のエンジニアですか？",
+            "timestamp": "2022-10-01T13:52:11.057000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "パソコンのシステム作ったりいろいろしてます",
+            "timestamp": "2022-10-01T13:52:26.624000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "すごい！かっこいいですね",
+            "timestamp": "2022-10-01T13:52:38.892000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "そうでもないですよー",
+            "timestamp": "2022-10-01T13:53:32.303000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "残業多いイメージですけど、いつも残業多いんですか？",
+            "timestamp": "2022-10-01T13:54:04.147000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "納期間際とかは多いですね。でも定時で帰れるときもあります。",
+            "timestamp": "2022-10-01T13:54:23.586000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "そうなんですね。それはよかったです。",
+            "timestamp": "2022-10-01T13:54:39.340000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "運用とかやってる人のほうがしんどそうです",
+            "timestamp": "2022-10-01T13:54:53.584000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "運用っていうのは？",
+            "timestamp": "2022-10-01T13:55:02.761000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "バグとかの対応をしたり、問い合わせを受けたりする人ですね",
+            "timestamp": "2022-10-01T13:55:27.385000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "なるほど。そっちのほうが大変なんですか？",
+            "timestamp": "2022-10-01T13:55:45.898000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "なるべく早く直してね、になるので、毎日納期みたいなものです。",
+            "timestamp": "2022-10-01T13:56:16.201000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "それはしんどいですね",
+            "timestamp": "2022-10-01T13:56:26.922000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "だいぶきついと思います",
+            "timestamp": "2022-10-01T13:56:38.790000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "仕事は楽しいですか？",
+            "timestamp": "2022-10-01T13:56:54.675000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "苦しいときのほうが多いですよ",
+            "timestamp": "2022-10-01T13:57:08.346000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "そうなんですね。",
+            "timestamp": "2022-10-01T13:57:18.370000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "仕事楽しいと思ったことありますか？",
+            "timestamp": "2022-10-01T13:57:38.523000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "割とありますよ。",
+            "timestamp": "2022-10-01T13:57:49.292000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "いいなぁ、私はないです。",
+            "timestamp": "2022-10-01T13:58:01.524000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "どの仕事をしててもですか？",
+            "timestamp": "2022-10-01T13:58:12.432000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "ないですね。労働向いてないのかも。",
+            "timestamp": "2022-10-01T13:58:24.730000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "それは大変ですね",
+            "timestamp": "2022-10-01T13:58:36.910000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "大変です",
+            "timestamp": "2022-10-01T13:58:44.595000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

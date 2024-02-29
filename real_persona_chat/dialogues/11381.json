@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11381,
+    "interlocutors": [
+        "FA",
+        "ED"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんばんは！何してましたか",
+            "timestamp": "2022-08-22T00:23:53.282000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ED",
+            "text": "こんばんはー！漫画を読んでいました！",
+            "timestamp": "2022-08-22T00:24:00.431000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "いいですね！どんなジャンルかうかがっても？",
+            "timestamp": "2022-08-22T00:24:18.560000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ED",
+            "text": "進撃の巨人です！なんていうジャンルになるんでしょうか。",
+            "timestamp": "2022-08-22T00:24:38.560000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "なんでしょうか。",
+            "timestamp": "2022-08-22T00:24:54.443000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ED",
+            "text": "少年漫画とか、アクション、でしょうかね。",
+            "timestamp": "2022-08-22T00:25:03.554000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "でしょうかね。何巻読んでますか？",
+            "timestamp": "2022-08-22T00:25:23.536000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ED",
+            "text": "2巻です。ご存じですか？",
+            "timestamp": "2022-08-22T00:25:37.567000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "知ってます！有名ですよね！",
+            "timestamp": "2022-08-22T00:25:50.713000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ED",
+            "text": "ですよね！一度最後まで読んで、もう一回最初から読んでます。",
+            "timestamp": "2022-08-22T00:26:15.238000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "そうなんですか！おすすめは何巻ですか",
+            "timestamp": "2022-08-22T00:26:50.561000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ED",
+            "text": "んー難しいですね。選びにくい。最終巻が好きですかね。",
+            "timestamp": "2022-08-22T00:27:11.712000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "そうですか！最終巻。見てみますよー",
+            "timestamp": "2022-08-22T00:27:44.877000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ED",
+            "text": "色んな伏線が回収されるので、好きです。",
+            "timestamp": "2022-08-22T00:28:10.721000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "伏線ですか？",
+            "timestamp": "2022-08-22T00:28:38.858000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ED",
+            "text": "はい、話の中で、実は1話目からの話とつながっている、みたいな。",
+            "timestamp": "2022-08-22T00:29:07.377000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "あれがつながってたのか、みたいな感じですかね。",
+            "timestamp": "2022-08-22T00:29:39.343000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ED",
+            "text": "そうですそうです！あ、そうだったのか！みたいな。",
+            "timestamp": "2022-08-22T00:29:52.134000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "どの登場人物がお好きなんですか",
+            "timestamp": "2022-08-22T00:30:28.516000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ED",
+            "text": "リヴァイ兵長ですね。ベタですが。",
+            "timestamp": "2022-08-22T00:30:42.730000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね。今度見てみます！",
+            "timestamp": "2022-08-22T00:31:17.119000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ED",
+            "text": "あなたは何か漫画とか読まれますか？？",
+            "timestamp": "2022-08-22T00:31:36.065000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "はい、読みます。でも無料部分だけという。異世界転生ものを読みます。",
+            "timestamp": "2022-08-22T00:32:07.549000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ED",
+            "text": "無料というと、アプリですか？",
+            "timestamp": "2022-08-22T00:32:27.318000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "あのブラウザだけです。アプリは入れてなくて。",
+            "timestamp": "2022-08-22T00:33:06.736000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ED",
+            "text": "なるほど！異世界物、おもしろいですよね！",
+            "timestamp": "2022-08-22T00:33:33.114000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "はい！転生をして女王になってたり、王子になってたり、めちゃくちゃ引き込まれちゃいます！",
+            "timestamp": "2022-08-22T00:34:19.974000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ED",
+            "text": "あーそういうの、読んだことあります！転生先の周りの人間と恋愛関係になったり。",
+            "timestamp": "2022-08-22T00:34:58.236000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！転生先でいろいろあるんですよねー。",
+            "timestamp": "2022-08-22T00:36:02.908000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ED",
+            "text": "面白いですよねー！",
+            "timestamp": "2022-08-22T00:36:09.298000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

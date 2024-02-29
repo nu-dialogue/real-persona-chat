@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4000,
+    "interlocutors": [
+        "CR",
+        "DA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T13:38:34.376000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DA",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T13:38:38.991000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "コーヒー紅茶は飲みますか",
+            "timestamp": "2022-09-05T13:38:53.514000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DA",
+            "text": "紅茶よく飲みます！",
+            "timestamp": "2022-09-05T13:39:05.243000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "コーヒーより紅茶派でしょうか",
+            "timestamp": "2022-09-05T13:39:23.318000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DA",
+            "text": "コーヒーのカフェインが合わなくて具合悪くなってしまうんです",
+            "timestamp": "2022-09-05T13:39:45.462000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "カフェインがNGですか",
+            "timestamp": "2022-09-05T13:40:01.765000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DA",
+            "text": "コーヒーだけなんです、紅茶は平気でした",
+            "timestamp": "2022-09-05T13:40:19.268000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "紅茶もカフェインはありますよね",
+            "timestamp": "2022-09-05T13:40:34.236000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DA",
+            "text": "そうなんですよね、でもデカフェにしたらコーヒー飲めるので、よくわかりません",
+            "timestamp": "2022-09-05T13:40:57.455000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "紅茶は何か銘柄の好きなものがありますか",
+            "timestamp": "2022-09-05T13:41:25.422000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DA",
+            "text": "最近は面白いフレーバーを選んでみています",
+            "timestamp": "2022-09-05T13:41:44.876000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "いくつか飲み比べているのですね",
+            "timestamp": "2022-09-05T13:42:02.915000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DA",
+            "text": "そうですね、クッキー風味とか",
+            "timestamp": "2022-09-05T13:42:12.300000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "えっ、そんなのあるんですか",
+            "timestamp": "2022-09-05T13:42:29.166000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DA",
+            "text": "甘くないのですが、香りがクッキーなんです",
+            "timestamp": "2022-09-05T13:42:42.615000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "それにクッキーは合うのですか",
+            "timestamp": "2022-09-05T13:42:54.373000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DA",
+            "text": "あいます、食べたくなりますよ",
+            "timestamp": "2022-09-05T13:43:07.210000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "それは試してみたいです",
+            "timestamp": "2022-09-05T13:43:19.178000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DA",
+            "text": "おすすめです。紅茶派ですか？",
+            "timestamp": "2022-09-05T13:43:31.844000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "どちらにしてミルクと砂糖を入れて飲むタイプです",
+            "timestamp": "2022-09-05T13:43:58.546000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね、甘党なんですか？",
+            "timestamp": "2022-09-05T13:44:09.990000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "というより、ブラックが飲めないんでね",
+            "timestamp": "2022-09-05T13:44:31.210000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね、紅茶もストレートにはしないんですか？",
+            "timestamp": "2022-09-05T13:44:52.570000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "確かに紅茶の時の方がストレート平気ですね。ケーキに合わせるとか。",
+            "timestamp": "2022-09-05T13:45:19.839000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DA",
+            "text": "最高ですね、ティータイムって感じで",
+            "timestamp": "2022-09-05T13:45:41.221000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "クッキーとか甘いものと紅茶はいいですね",
+            "timestamp": "2022-09-05T13:45:59.699000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DA",
+            "text": "食べたくなってしまいますね",
+            "timestamp": "2022-09-05T13:46:11.533000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "今はコーヒー飲んでますが笑",
+            "timestamp": "2022-09-05T13:46:26.054000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DA",
+            "text": "そうだったんですか笑！",
+            "timestamp": "2022-09-05T13:46:37.055000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

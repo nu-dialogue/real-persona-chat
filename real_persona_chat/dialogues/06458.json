@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6458,
+    "interlocutors": [
+        "HQ",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんにちは",
+            "timestamp": "2022-10-08T18:30:10.840000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんにちは",
+            "timestamp": "2022-10-08T18:30:15.869000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "普段車の運転されますか？",
+            "timestamp": "2022-10-08T18:30:32.246000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "私免許持ってないんですよー",
+            "timestamp": "2022-10-08T18:30:48.390000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "そうなんですか。取ろうとは思わないんですか？",
+            "timestamp": "2022-10-08T18:31:00.391000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "東京に住んでるとあんまり必要性を感じなくて",
+            "timestamp": "2022-10-08T18:31:22.150000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "あー、まぁそうですよね",
+            "timestamp": "2022-10-08T18:31:30.104000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "<HQ>さんは運転されますか？",
+            "timestamp": "2022-10-08T18:32:04.420000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "私は免許は持ってるんですけどあんまり運転はしないです",
+            "timestamp": "2022-10-08T18:32:22.838000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "車欲しいと思います？",
+            "timestamp": "2022-10-08T18:32:33.483000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "あると便利かなとは思うんですけど維持費がばかにならないですよね",
+            "timestamp": "2022-10-08T18:32:53.585000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "そうですね、家族連れとかなら重宝しそうですけど",
+            "timestamp": "2022-10-08T18:33:16.825000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "ですよね。車が趣味なら買うんですがそうでもないし。",
+            "timestamp": "2022-10-08T18:33:38.187000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "私は自動運転がデフォルトの世界になったら車買います",
+            "timestamp": "2022-10-08T18:33:53.973000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "自分で運転はしたくない感じですか？",
+            "timestamp": "2022-10-08T18:34:04.708000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "そうですね、轢いちゃったら怖いですし",
+            "timestamp": "2022-10-08T18:34:26.812000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "事故は絶対1回は起きそうですよね",
+            "timestamp": "2022-10-08T18:34:41.755000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "どこかにぶつけたりとかならいいんですけど、死亡事故起こしたらシャレにならないので運転したくないです",
+            "timestamp": "2022-10-08T18:35:32.830000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "捕まりますもんね",
+            "timestamp": "2022-10-08T18:35:42.137000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "そうなんですよね",
+            "timestamp": "2022-10-08T18:35:48.777000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "人とか自転車が悪くても車のせいにされますし",
+            "timestamp": "2022-10-08T18:36:04.700000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "そこが嫌なところなんですよね",
+            "timestamp": "2022-10-08T18:36:20.175000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "結構理不尽ですよね",
+            "timestamp": "2022-10-08T18:36:30.304000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "理不尽だと思います",
+            "timestamp": "2022-10-08T18:36:37.545000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "変な話飛び込んできた人がいたとしてもこっちが責められるし",
+            "timestamp": "2022-10-08T18:36:56.232000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "親族にめちゃくちゃ責められそうですね",
+            "timestamp": "2022-10-08T18:37:09.282000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "ですよね。しかも目撃しちゃってるから絶対PTSDになりそう",
+            "timestamp": "2022-10-08T18:37:28.705000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "よくみんな運転できるなぁ",
+            "timestamp": "2022-10-08T18:37:41"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "慣れっていいますけどね",
+            "timestamp": "2022-10-08T18:37:55.706000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "慣れなさそうだなぁ",
+            "timestamp": "2022-10-08T18:38:02.789000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

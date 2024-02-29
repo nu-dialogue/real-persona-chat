@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10752,
+    "interlocutors": [
+        "DR",
+        "BR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DR",
+            "text": "よろしくお願いします！！！",
+            "timestamp": "2022-08-15T17:10:40.383000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-15T17:10:46.650000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DR",
+            "text": "夏休みは何されて過ごしてますか？",
+            "timestamp": "2022-08-15T17:10:56.300000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BR",
+            "text": "一週間後に習い事の試験があるので、ほぼ試験勉強ですね～！",
+            "timestamp": "2022-08-15T17:11:14.333000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DR",
+            "text": "お！何を習ってるのですか？",
+            "timestamp": "2022-08-15T17:12:07.656000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BR",
+            "text": "あまりメジャーじゃないですが、エネルギーワーク…ヒーリングと呼ばれる類のものです。",
+            "timestamp": "2022-08-15T17:12:23.497000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DR",
+            "text": "全く聞いたことないですね、、どのようなことをするんですか？",
+            "timestamp": "2022-08-15T17:12:45.186000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BR",
+            "text": "そうですよね。気功みたいなもので、エネルギーを整えて心身共に健康を目指します。",
+            "timestamp": "2022-08-15T17:13:07.421000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DR",
+            "text": "それのテストがあるんですね！難しそう、、、",
+            "timestamp": "2022-08-15T17:13:31.629000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BR",
+            "text": "そうなんです。筆記と実技があるのですが、筆記がどんな問題がでるのか見当がつかず…",
+            "timestamp": "2022-08-15T17:13:49.819000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DR",
+            "text": "それは想像つかないですね、、、合格すると何かあるんですか？",
+            "timestamp": "2022-08-15T17:14:49.149000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BR",
+            "text": "はい。一応その学校認定のヒーラーを名乗ることができます。民間の資格なので効力はあまりないですが。",
+            "timestamp": "2022-08-15T17:15:14.031000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DR",
+            "text": "そうなんですね、、、テスト頑張ってください！",
+            "timestamp": "2022-08-15T17:15:50.173000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BR",
+            "text": "ありがとうございます！海外では病院でも働けるくらいの資格なので、がんばります！",
+            "timestamp": "2022-08-15T17:16:06.823000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DR",
+            "text": "海外でも働けるんですね！それはすごいです！",
+            "timestamp": "2022-08-15T17:16:34.341000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BR",
+            "text": "これを持っていると海外で働けるわけではないですが、海外の認知度的にそれくらいってことですね。",
+            "timestamp": "2022-08-15T17:16:54.614000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DR",
+            "text": "日本での知名度が低いってことですか、、、日本でも上がるといいですね",
+            "timestamp": "2022-08-15T17:17:40.588000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BR",
+            "text": "本当にそう願います。日本だと怪しい世界のことみたいな感じに思われてることが多いです…",
+            "timestamp": "2022-08-15T17:18:08.026000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DR",
+            "text": "ちなみにいつから習ってるんですか？",
+            "timestamp": "2022-08-15T17:18:31.700000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BR",
+            "text": "他の先生に初めて習ったのは3年前で、今の先生の今のコースは1月からです。",
+            "timestamp": "2022-08-15T17:19:01.821000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DR",
+            "text": "３年もやってるんですね。長いですね！週何回くらいなんですか？",
+            "timestamp": "2022-08-15T17:19:28.346000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BR",
+            "text": "クラス自体は月に2日か3日なので少ないですが、宿題がたくさん出ます。",
+            "timestamp": "2022-08-15T17:19:51.935000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DR",
+            "text": "なんか学校みたいですね、、、クラスメイトとかもいる感じですか？",
+            "timestamp": "2022-08-15T17:20:24.225000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BR",
+            "text": "もちろんいますよ！今のクラスは30人ちょっといます。仲間感覚が強いですね。",
+            "timestamp": "2022-08-15T17:20:43.013000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DR",
+            "text": "ホントに学校みたいですね！楽しそうです",
+            "timestamp": "2022-08-15T17:21:00.696000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BR",
+            "text": "そうですね。とても楽しいので、8月で卒業試験なのが寂しいです。",
+            "timestamp": "2022-08-15T17:21:16.722000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DR",
+            "text": "卒業しちゃうと辞めちゃうんですね、、あと少し楽しみましょう！",
+            "timestamp": "2022-08-15T17:21:52.765000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BR",
+            "text": "はい。ありがとうございます！仲間とはその後も続いていくので、それも楽しみです。",
+            "timestamp": "2022-08-15T17:22:09.870000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DR",
+            "text": "そうですね！友達たくさんできて羨ましいです！",
+            "timestamp": "2022-08-15T17:22:47.124000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BR",
+            "text": "コミュニティって大事ですね！友達大事にしていきます。",
+            "timestamp": "2022-08-15T17:22:58.822000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

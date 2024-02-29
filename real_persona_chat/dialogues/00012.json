@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12,
+    "interlocutors": [
+        "AA",
+        "AC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-06T16:20:44.890000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AC",
+            "text": "どうもー！",
+            "timestamp": "2022-08-06T16:20:50.107000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "家にテレビとかありますか？",
+            "timestamp": "2022-08-06T16:20:54.247000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AC",
+            "text": "ありますよ！ないんですか？",
+            "timestamp": "2022-08-06T16:21:03.012000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "一人暮らしなのでないんですよ",
+            "timestamp": "2022-08-06T16:21:09.400000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AC",
+            "text": "えー！ちょっと今どき珍しいっていわれません？",
+            "timestamp": "2022-08-06T16:21:27.259000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "いえいえそんなことなくて、私の友人もテレビないんですよ",
+            "timestamp": "2022-08-06T16:21:41.901000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AC",
+            "text": "そうなんですか！もしや、スマホとタブレットで代用？",
+            "timestamp": "2022-08-06T16:21:58.337000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "そうですそうです。テレビってなくても困らないよねって。",
+            "timestamp": "2022-08-06T16:22:17.432000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AC",
+            "text": "確かに、そんな時代ですねー。ニュースとかも？",
+            "timestamp": "2022-08-06T16:22:30.246000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "そうですね、ネットで拾って読んじゃいます",
+            "timestamp": "2022-08-06T16:22:44.853000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AC",
+            "text": "まあ、そのほうが効率もいいですしね！",
+            "timestamp": "2022-08-06T16:22:57.328000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "まあ普通に知り逃しちゃうこともおおいんですけどね",
+            "timestamp": "2022-08-06T16:23:15.812000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AC",
+            "text": "それ、私も心配で、なんとなくテレビのニュースを流してる感じです。",
+            "timestamp": "2022-08-06T16:23:33.813000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "その方がいいですよ！逃すよりずっといい",
+            "timestamp": "2022-08-06T16:23:47.430000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AC",
+            "text": "ね！最近、逃しそうになったのは、マイナポイント第二弾。",
+            "timestamp": "2022-08-06T16:24:06.405000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "え、なんと！！",
+            "timestamp": "2022-08-06T16:24:14.318000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AC",
+            "text": "今、またやってるんですよ。1万5千ポイントの。",
+            "timestamp": "2022-08-06T16:24:26.185000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "ええ、ちょっと確認しなければ",
+            "timestamp": "2022-08-06T16:24:34.434000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AC",
+            "text": "してください！私も、スーパーの広告で気づいた感じ。",
+            "timestamp": "2022-08-06T16:24:52.402000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "そういう情報って流れてきにくいですよね",
+            "timestamp": "2022-08-06T16:25:06.959000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AC",
+            "text": "はい。コロナになって、友達と会う機会が減ったから、余計ですかね。",
+            "timestamp": "2022-08-06T16:25:29.293000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "確かに、情報って友人からも来てました",
+            "timestamp": "2022-08-06T16:25:43.811000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AC",
+            "text": "ですです。あと、電車のつり広告も情報源にしてました。",
+            "timestamp": "2022-08-06T16:26:01.235000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "あれって役に立つんですね、初めて知りました",
+            "timestamp": "2022-08-06T16:26:17.880000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AC",
+            "text": "芸能情報って、普段テレビでは興味ないんで、週刊誌のつり広告で知る、みたいな。",
+            "timestamp": "2022-08-06T16:26:41.341000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "確かに。いい情報源ですね私も注意します",
+            "timestamp": "2022-08-06T16:27:06.157000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AC",
+            "text": "ぜひ。テレビなくても話題についていかねば！",
+            "timestamp": "2022-08-06T16:27:19.298000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "たしかに！ありがとうございます！",
+            "timestamp": "2022-08-06T16:27:32.145000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AC",
+            "text": "いえいえ！ではまたお話しましょう！",
+            "timestamp": "2022-08-06T16:27:41.081000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

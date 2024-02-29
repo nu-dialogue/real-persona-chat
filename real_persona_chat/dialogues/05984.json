@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5984,
+    "interlocutors": [
+        "GX",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "こんばんは。",
+            "timestamp": "2022-10-01T17:58:32.434000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんばんは。",
+            "timestamp": "2022-10-01T17:58:39.784000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "あなたの趣味は何ですか？",
+            "timestamp": "2022-10-01T17:58:42.698000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "私は本を読むことが趣味ですかね。",
+            "timestamp": "2022-10-01T17:59:05.545000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "本なんですね。小説とかですか？",
+            "timestamp": "2022-10-01T17:59:17.280000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "小説も読みます。あと心理学の本とか読みますね。",
+            "timestamp": "2022-10-01T17:59:35.123000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。毎日読むんですか？",
+            "timestamp": "2022-10-01T17:59:46.356000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "毎日ではないですが、2、3日に少しは読んでますかね。",
+            "timestamp": "2022-10-01T18:00:15.564000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね。心理学の本は、どういうことが書かれてるんですか？",
+            "timestamp": "2022-10-01T18:00:35.739000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "うーん、かなり幅広いですね。教育のこととか社会問題のこととか。",
+            "timestamp": "2022-10-01T18:01:01.409000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "ほうほう。そういうのには、もともと興味をもってたんですか？",
+            "timestamp": "2022-10-01T18:01:30.345000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "はい、大学で専攻していて学び直しています。",
+            "timestamp": "2022-10-01T18:01:40.480000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "そうなんですね！仕事もそういう系の？",
+            "timestamp": "2022-10-01T18:01:55.896000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "今はしていませんが、これからそういうお仕事ができたらいいなと思っています。",
+            "timestamp": "2022-10-01T18:02:13.760000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "いいですね！どういう職業になるんでしょうか。",
+            "timestamp": "2022-10-01T18:02:32.022000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "将来的にはメンタルヘルスの大切さを広める仕事がしたいです。",
+            "timestamp": "2022-10-01T18:03:05.799000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "なるほど。この世の中、病んでる人も多いですよね。",
+            "timestamp": "2022-10-01T18:03:33.122000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "日本は元々メンタル悪くさせやすいのに景気やコロナ禍でさらに悪くなりました。",
+            "timestamp": "2022-10-01T18:04:01.599000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "そうですよね。コロナの影響は大きそうです。",
+            "timestamp": "2022-10-01T18:04:15.990000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "収束しても景気がだいぶ悪くなって、しんどさを感じる人が増えると思います。",
+            "timestamp": "2022-10-01T18:04:40.934000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "確かに。景気も悪いですね。いいニュースを聞きません最近。",
+            "timestamp": "2022-10-01T18:04:59.671000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "本当にそう思います。閉塞感がすごいありますね。",
+            "timestamp": "2022-10-01T18:05:12.994000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "そうですね。悪循環を感じます。",
+            "timestamp": "2022-10-01T18:05:35.854000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "良い仕事をしたいなら海外に行くのが今はベストみたいですね。",
+            "timestamp": "2022-10-01T18:05:53.638000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "海外ですよね。英語ができないと！",
+            "timestamp": "2022-10-01T18:06:07.536000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "そうなんですよね、英語が必要になってきますね。",
+            "timestamp": "2022-10-01T18:06:21.298000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "英語得意ですか？",
+            "timestamp": "2022-10-01T18:06:30.262000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "読むのはある程度できますが、話すのは難しいです。",
+            "timestamp": "2022-10-01T18:06:40.902000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "話すの難しいですよね。実際に経験しないと。",
+            "timestamp": "2022-10-01T18:06:54.501000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "そうなんですよね、その辺の英語教育も日本の問題です。",
+            "timestamp": "2022-10-01T18:07:12.521000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

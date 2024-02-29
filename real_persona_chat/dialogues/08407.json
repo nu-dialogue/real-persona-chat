@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8407,
+    "interlocutors": [
+        "AD",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-05T14:32:01.629000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-05T14:32:12.687000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "最近どこか旅行されました？",
+            "timestamp": "2022-08-05T14:32:18.577000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "高校生の修学旅行で沖縄いったきり、ないですね",
+            "timestamp": "2022-08-05T14:32:38.749000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね。今の職場で夏休みとかはないんですか？",
+            "timestamp": "2022-08-05T14:32:54.062000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "今日が夏休みです、来週にも1日だけ取得しました",
+            "timestamp": "2022-08-05T14:33:30.508000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "今日夏休みなんですね！いいなあ。どこか行く予定はないんですか？",
+            "timestamp": "2022-08-05T14:33:41.115000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "ずっと家ですね、在宅ワークスの案件をするか、業務で必要な学習をするか、ゲームするかになりそうです",
+            "timestamp": "2022-08-05T14:34:24.357000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね。必要な学習をするって向上心高くていいですね。身になる夏休みですね",
+            "timestamp": "2022-08-05T14:34:52.169000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "まだ、新人なのでやっておかないと苦しい思いをしそうで、先に進めています",
+            "timestamp": "2022-08-05T14:35:57.257000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "偉いですね。仕事の事考えていると、休みの日も休めた気しなくないですか？大丈夫ですか？",
+            "timestamp": "2022-08-05T14:36:28.142000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "言語の学習をしないとシステムを組めないので、やるしかないですね。",
+            "timestamp": "2022-08-05T14:37:30.783000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "システム関係のお仕事だと、色々学ばないと仕事にならないんですかね？大変だ。",
+            "timestamp": "2022-08-05T14:38:05.306000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "プログラミングは理解できているうちは楽しいのですが、分からないことが分からない、解決できない時間が長いのでそこが苦痛になりますね",
+            "timestamp": "2022-08-05T14:39:26.567000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "そうなると、理解するまで勉強しなければならないってことなんですね。",
+            "timestamp": "2022-08-05T14:40:04.879000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、覚える必要はないのですが、コードを読んで何が起きているのか全体の流れと細かい部分ごとで理解する必要があります",
+            "timestamp": "2022-08-05T14:41:01.558000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "プログラミング関係は全く知らない分野なので、未知の世界ですね。話聞くだけでも大変そう",
+            "timestamp": "2022-08-05T14:41:26.827000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "でも、しっかり動くものが作れると楽しいですよ。ネットにもサンプルが転がっているのでいつでも始められます！",
+            "timestamp": "2022-08-05T14:42:22.356000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "素人でもできるんですか？",
+            "timestamp": "2022-08-05T14:42:40.131000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "大丈夫ですよ、自分も最初は全くわからなかったので、調べていくうちに色んなものが作れるようになるかと思います。。。",
+            "timestamp": "2022-08-05T14:43:51.924000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "全くそういう専門出たりもしていないので不安ですが、そういう人でも始められるものなんですね。",
+            "timestamp": "2022-08-05T14:44:12.163000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "文系大学卒の方が多い印象です",
+            "timestamp": "2022-08-05T14:44:47.654000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "そうなんですか！？理系の方が多いと勝手に思っていました。",
+            "timestamp": "2022-08-05T14:45:10.031000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "大学までの勉強と実際の業務はかけ離れているので、文理で差がでることはなさそうです。",
+            "timestamp": "2022-08-05T14:46:47.197000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "それこそシステム関係の分野を学んだ人が行く業種かと思っていました。文系でも活躍できるんですね。",
+            "timestamp": "2022-08-05T14:47:10.413000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "できますよ！自分も金融系興味ありますが、転職とかはできるんですかね？",
+            "timestamp": "2022-08-05T14:48:12.779000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "中途の人もちろんいらっしゃいますよ！ただ、経験者の人が多いイメージです。他社とかからの。",
+            "timestamp": "2022-08-05T14:48:48.291000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、ありがとうございます。",
+            "timestamp": "2022-08-05T14:49:02.079000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "金融系も最近だとシステム関係の部署への募集が多いので、もし機会があれば是非！",
+            "timestamp": "2022-08-05T14:50:07.033000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "社内システムとかですかね、経験積んでから機械があればですね！",
+            "timestamp": "2022-08-05T14:50:39.693000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

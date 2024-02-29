@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13588,
+    "interlocutors": [
+        "DB",
+        "GQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-26T21:24:53.203000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GQ",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-26T21:25:04.225000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "甘い物って好きですか？",
+            "timestamp": "2022-09-26T21:25:13.342000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GQ",
+            "text": "大好きです！",
+            "timestamp": "2022-09-26T21:25:24.169000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "何が一番好きですか？",
+            "timestamp": "2022-09-26T21:25:35.079000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GQ",
+            "text": "チョコレートです。",
+            "timestamp": "2022-09-26T21:25:43.967000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "バレンタインの時期は催事場に行ったりします？",
+            "timestamp": "2022-09-26T21:26:06.588000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GQ",
+            "text": "昔は行ってました。20代の頃。",
+            "timestamp": "2022-09-26T21:26:29.814000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "最近食べたチョコで美味しかったものってありますか？",
+            "timestamp": "2022-09-26T21:26:53.878000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GQ",
+            "text": "子どもたちのおやつ用の駄菓子ばっかりです。",
+            "timestamp": "2022-09-26T21:27:21.862000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "駄菓子は最近食べてないです。ケーキとかは食べたりしますか？",
+            "timestamp": "2022-09-26T21:27:45.310000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GQ",
+            "text": "食べます。でも最近は私か娘が作る方が多いです。",
+            "timestamp": "2022-09-26T21:28:15.567000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "作るのすごいですね！どんなの作ったんですか？",
+            "timestamp": "2022-09-26T21:28:29.557000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GQ",
+            "text": "家族の誕生日は本人のリクエストに合わせて作ります。",
+            "timestamp": "2022-09-26T21:28:56.443000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "ショートケーキとか？",
+            "timestamp": "2022-09-26T21:29:10.064000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GQ",
+            "text": "生クリーム、チョコクリーム、チーズケーキなどなど色々です。",
+            "timestamp": "2022-09-26T21:29:37.442000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "すごいですね！お菓子作り得意なんですか？",
+            "timestamp": "2022-09-26T21:29:49.184000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GQ",
+            "text": "下手の横好きですが、子どもの頃から好きでした。",
+            "timestamp": "2022-09-26T21:30:15.174000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "ずっと続けてるのがすごいですね。私もたまにお菓子作りますよ。",
+            "timestamp": "2022-09-26T21:30:36.325000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GQ",
+            "text": "どんなのが得意ですか？",
+            "timestamp": "2022-09-26T21:30:48.859000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "クッキーとかバレンタインのときにトリュフとかボンボン作ったりします。",
+            "timestamp": "2022-09-26T21:31:10.161000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GQ",
+            "text": "いいですねー。クッキーもよく作ります。",
+            "timestamp": "2022-09-26T21:31:43.171000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "クッキーは種類もいっぱいあって作るの楽しいですよね。",
+            "timestamp": "2022-09-26T21:32:01.169000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GQ",
+            "text": "はい、子どもと作ると簡単じゃないと、たいへんなので、クッキーが多くなります。",
+            "timestamp": "2022-09-26T21:32:28.589000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "スノーボールクッキーとかおすすめです！",
+            "timestamp": "2022-09-26T21:32:55.601000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GQ",
+            "text": "あっ、先日小学生の息子がこっそり作ってくれていました。",
+            "timestamp": "2022-09-26T21:33:21.483000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "息子さんが！それはめちゃくちゃ嬉しいですね。",
+            "timestamp": "2022-09-26T21:33:34.767000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GQ",
+            "text": "はい、レンジで簡単！ってYouTubeで見たみたいです。",
+            "timestamp": "2022-09-26T21:33:57.398000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "最近はYoutubeでレシピ動画も見れるので便利ですよね、ありがたいです。",
+            "timestamp": "2022-09-26T21:34:18.605000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GQ",
+            "text": "本当に便利になりましたよね。",
+            "timestamp": "2022-09-26T21:34:44.666000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

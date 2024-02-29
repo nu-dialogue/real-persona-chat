@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8683,
+    "interlocutors": [
+        "BZ",
+        "DU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BZ",
+            "text": "こんにちわ。よろしくお願いします。",
+            "timestamp": "2022-08-06T13:44:16.822000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DU",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-06T13:44:13.446000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BZ",
+            "text": "何か夏のご予定立てられてますか？",
+            "timestamp": "2022-08-06T13:44:27.077000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DU",
+            "text": "一応旅行をしたいなと思って予定しているのですが、今の状況で迷っています。",
+            "timestamp": "2022-08-06T13:44:49.223000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BZ",
+            "text": "今は微妙ですよねー。制限ないとはいえちょっと怖いですよね。",
+            "timestamp": "2022-08-06T13:45:10.901000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。職場でもクラスター起きてましたし、どうしたものかなぁと。あなたは予定あるのですか？",
+            "timestamp": "2022-08-06T13:45:36.194000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BZ",
+            "text": "ほぼないですねー。近場でみつけようかと。",
+            "timestamp": "2022-08-06T13:46:26.295000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DU",
+            "text": "そうなんですね。ご家族は旅行に行きたがらないですか？",
+            "timestamp": "2022-08-06T13:46:47.601000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BZ",
+            "text": "子どもは行きたいのかもしれません。友達が行った話なんか聞くでしょうから。",
+            "timestamp": "2022-08-06T13:47:26.337000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DU",
+            "text": "そうですよね。近場で喜ぶところが見つかると良いですね。",
+            "timestamp": "2022-08-06T13:47:46.733000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BZ",
+            "text": "遠くなくても温泉とかなら大人も子供も楽しそうです。",
+            "timestamp": "2022-08-06T13:48:06.207000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DU",
+            "text": "確かにそうですね。プールもあると尚良い気がします。",
+            "timestamp": "2022-08-06T13:48:33.057000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BZ",
+            "text": "プールも確かによろこびますね！",
+            "timestamp": "2022-08-06T13:48:56.395000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DU",
+            "text": "私も子供が小さい時は夏と言えばプールがノルマでしたよ。",
+            "timestamp": "2022-08-06T13:49:15.024000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BZ",
+            "text": "本当に子どもが小さい時は家でプールするんですけど、ちょっと大きくなってしまいました。",
+            "timestamp": "2022-08-06T13:49:45.910000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DU",
+            "text": "確かに少し大きくなると家でプールは難しくなりますね。",
+            "timestamp": "2022-08-06T13:50:06.428000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BZ",
+            "text": "しばらく行ってませんがちょっと考えてみたいと思います。",
+            "timestamp": "2022-08-06T13:50:50.046000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DU",
+            "text": "浅瀬の川で遊ぶのもいいですけど、大きいとスライダーとかがないと喜ばないかもしれませんね。",
+            "timestamp": "2022-08-06T13:51:27.128000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BZ",
+            "text": "なんにせよ出費が結構ですね！",
+            "timestamp": "2022-08-06T13:52:01.823000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DU",
+            "text": "確かにそうですね。川は無料ですけど、そこだけで終われないですしね。",
+            "timestamp": "2022-08-06T13:52:30.444000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BZ",
+            "text": "あなたの旅行計画は1泊ですか？",
+            "timestamp": "2022-08-06T13:52:41.228000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DU",
+            "text": "今年は遠出を計画していて、車内１～２泊、宿１泊のつもりなんです。",
+            "timestamp": "2022-08-06T13:53:16.735000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BZ",
+            "text": "おお。結構な工程ですね。車中泊できるものですか？",
+            "timestamp": "2022-08-06T13:53:54.366000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DU",
+            "text": "我が家は基本車中泊かキャンプをしています。車には最近ベッドキットを購入しました。",
+            "timestamp": "2022-08-06T13:54:22.632000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BZ",
+            "text": "すごい！子どもが絶対よろこぶやつですね！",
+            "timestamp": "2022-08-06T13:54:41.614000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DU",
+            "text": "それが、子供は成人したので夫婦と犬で気ままに旅しています。夏場は暑いので宿取りますが。",
+            "timestamp": "2022-08-06T13:55:09.158000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BZ",
+            "text": "ああ。お子さん大きいんですね。でも、その装備ならテンションあがりますね！",
+            "timestamp": "2022-08-06T13:55:36.400000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。気温に問題なく休みさえあればどこにでも行けますよ。",
+            "timestamp": "2022-08-06T13:56:02.555000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BZ",
+            "text": "せっかく買ったベッドキットですからぜひ使ってください。",
+            "timestamp": "2022-08-06T13:56:22.076000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DU",
+            "text": "はい。また旅行の話も聞いてくださいね。",
+            "timestamp": "2022-08-06T13:56:41.029000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BZ",
+            "text": "ありがとうございます。ではまた！",
+            "timestamp": "2022-08-06T13:56:50.960000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 483,
+    "interlocutors": [
+        "BK",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BK",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-18T12:30:11.925000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "はじめまして！",
+            "timestamp": "2022-08-18T12:30:15.208000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BK",
+            "text": "突然ですが、スマホで撮った写真の整理って、どうしてますか？",
+            "timestamp": "2022-08-18T12:30:54.664000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "容量がいっぱいになってきたら、ちょっと削除したり、SDカードに移しています！",
+            "timestamp": "2022-08-18T12:31:26.860000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BK",
+            "text": "写真の取捨選択で悩んだりはしますか？",
+            "timestamp": "2022-08-18T12:31:54.132000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "そうですね。小さい子供がいて、写真とか動画がいつもたくさんなので。",
+            "timestamp": "2022-08-18T12:32:15.464000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BK",
+            "text": "そうなんですね。そうすると、よほどのピンボケでもない限り、一枚も消したくないですよね！",
+            "timestamp": "2022-08-18T12:32:59.208000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "残しておくからって、毎日見るわけでもないですが。何だが削除をためらっちゃいますね。",
+            "timestamp": "2022-08-18T12:33:24.239000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BK",
+            "text": "わかります！いつ見返すかわからないけど、大切に保存してバックアップまでとったりして！",
+            "timestamp": "2022-08-18T12:33:58.625000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "だから、最近は写真共有アプリを使って、家族の間で共有するようにしてます！",
+            "timestamp": "2022-08-18T12:34:32.738000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BK",
+            "text": "写真共有アプリって、インスタとかとは別ですか？",
+            "timestamp": "2022-08-18T12:34:55.139000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "そうですね。私が使ってるのはみてね、というアプリです。家族だけが見れる設定もできます！",
+            "timestamp": "2022-08-18T12:35:24.665000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BK",
+            "text": "へえ。ストレージサービスも兼ねてる感じですかね。",
+            "timestamp": "2022-08-18T12:35:53.483000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "そうですね。普通のインスタみたいに公開された空間でなく、鍵アカにアップする感じですね。",
+            "timestamp": "2022-08-18T12:36:21.758000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BK",
+            "text": "みてね、ですか。やっぱり無料とか有料とかでサービス内容変わりますか？",
+            "timestamp": "2022-08-18T12:36:55.185000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "幸い、使用自体は無料なんですが。保存してる写真をアルバムにするためには、料金がかかるシステムです。",
+            "timestamp": "2022-08-18T12:37:27.597000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BK",
+            "text": "あはは！なるほど、そうやって運営費を回収してるんですね！",
+            "timestamp": "2022-08-18T12:37:57.051000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "しかも印刷形式がそのアプリ専用で、それを保管するためには専用のアルバムが必要なんですよね。",
+            "timestamp": "2022-08-18T12:38:25.697000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BK",
+            "text": "専用の、アルバム？印刷形式？なんだか複雑にできてますね。",
+            "timestamp": "2022-08-18T12:39:46.152000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "写真印刷にこだわる方にはちょっと向かないかもです。データ保存だけなら、とても優秀なアプリです！",
+            "timestamp": "2022-08-18T12:40:21.963000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BK",
+            "text": "そうなんですね。見てみます。今はグーグルフォトを使っているのですが、画質を落とさず保存すると、すぐいっぱいになってしまって。",
+            "timestamp": "2022-08-18T12:41:22.789000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "グーグルにもそういうサービスあるんですね！しかし、容量に制限があるのですね。",
+            "timestamp": "2022-08-18T12:41:45.257000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BK",
+            "text": "制限、あります。動画なんかを保存すると、すぐにいっぱいになっちゃいます。",
+            "timestamp": "2022-08-18T12:42:40.764000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "みてねは容量は制限ないんですが、動画は3分までだし、画質がちょっと悪くなるかもです。",
+            "timestamp": "2022-08-18T12:43:09.044000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BK",
+            "text": "なるほど。なかなか悩ましいです！",
+            "timestamp": "2022-08-18T12:43:42.901000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "結局きれいに保存するためには、多少の費用が必要かもですね。",
+            "timestamp": "2022-08-18T12:43:58.065000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BK",
+            "text": "そうですね。外付けHDDを買うとか、オンラインストレージに年会費払うとか、必要になりますね。",
+            "timestamp": "2022-08-18T12:44:40.961000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "昔は紙のアルバムの保管に悩まされましたが。デジタル保存も本質は変わりませんね。",
+            "timestamp": "2022-08-18T12:45:11.151000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BK",
+            "text": "そうですね。究極的には、全部保存しようとせず、ある程度取捨選択しないとキリがないのかもしれません！",
+            "timestamp": "2022-08-18T12:45:57.110000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "思い切って断捨離するのが一番いいかもですね！",
+            "timestamp": "2022-08-18T12:46:13.186000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BK",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

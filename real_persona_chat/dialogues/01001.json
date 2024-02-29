@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1001,
+    "interlocutors": [
+        "CN",
+        "AH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:34:05.511000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T15:34:54.821000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "最近何か美味しいもの食べましたか？",
+            "timestamp": "2022-08-11T15:35:10.041000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AH",
+            "text": "美味しいチャーハンを食べました。",
+            "timestamp": "2022-08-11T15:35:16.520000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "いいですね！自分で作られたんですか？",
+            "timestamp": "2022-08-11T15:35:30.825000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AH",
+            "text": "いえ、お店で食べたものです。",
+            "timestamp": "2022-08-11T15:35:38.826000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "具材は何でしたか？",
+            "timestamp": "2022-08-11T15:35:56.430000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AH",
+            "text": "卵とかお肉とかよくあるチャーハンでした。",
+            "timestamp": "2022-08-11T15:36:18.950000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "お店のチャーハンはぱらっとしてて美味しいですよね",
+            "timestamp": "2022-08-11T15:36:33.278000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AH",
+            "text": "はい、パラパラしていて脂っぽくて好きです。",
+            "timestamp": "2022-08-11T15:36:45.573000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "近所の中華屋さんにレタスチャーハンというのがあってそれが好きです",
+            "timestamp": "2022-08-11T15:37:02.941000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AH",
+            "text": "レタスチャーハン、レタスの入ったチャーハンですか？",
+            "timestamp": "2022-08-11T15:37:17.454000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "そうですね。レタスが意外と合います",
+            "timestamp": "2022-08-11T15:37:39.512000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AH",
+            "text": "シャキシャキ食感とか確かに会いそうです！",
+            "timestamp": "2022-08-11T15:37:50.865000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "ちょっとしんなりしてるけどシャキシャキ感も残ってますね",
+            "timestamp": "2022-08-11T15:38:08.039000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AH",
+            "text": "そっか、いためてるからシャキシャキとかではないのですかね。",
+            "timestamp": "2022-08-11T15:38:27.486000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "そうですね、でも生ほどではないけど結構食感は残ってます",
+            "timestamp": "2022-08-11T15:38:47.241000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AH",
+            "text": "聞いているだけで食べたくなってきました。",
+            "timestamp": "2022-08-11T15:38:59.950000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "美味しいものの話はそうなりますよねー。",
+            "timestamp": "2022-08-11T15:39:16.737000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AH",
+            "text": "はい、お腹が空いてしまいます。",
+            "timestamp": "2022-08-11T15:39:27.660000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "話していたらだんだんお腹がすいてきました。",
+            "timestamp": "2022-08-11T15:39:50.995000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AH",
+            "text": "まだ夕飯には早いのに。",
+            "timestamp": "2022-08-11T15:39:59.861000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "おやつにはちょうどいい時間ですね",
+            "timestamp": "2022-08-11T15:40:12.303000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AH",
+            "text": "確かに、おやつ食べたいです。",
+            "timestamp": "2022-08-11T15:40:21.219000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "夏なので最近はよくアイスを食べます",
+            "timestamp": "2022-08-11T15:40:32.599000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AH",
+            "text": "私もアイス大好きです！",
+            "timestamp": "2022-08-11T15:40:39.296000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "色々フレーバーがあって美味しいですよね",
+            "timestamp": "2022-08-11T15:40:52.255000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AH",
+            "text": "はい、そのおかげで飽きないです！",
+            "timestamp": "2022-08-11T15:41:09.275000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "分かります。期間限定品とかもありますしね！",
+            "timestamp": "2022-08-11T15:41:22.502000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AH",
+            "text": "期間限定というだけで食べてみたい！",
+            "timestamp": "2022-08-11T15:41:31.414000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

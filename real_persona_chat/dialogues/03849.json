@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3849,
+    "interlocutors": [
+        "CH",
+        "FF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CH",
+            "text": "どうも、はじめまして！",
+            "timestamp": "2022-09-03T09:46:30.824000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FF",
+            "text": "初めまして！",
+            "timestamp": "2022-09-03T09:46:39.857000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CH",
+            "text": "もうすぐ秋ですが、わたしは何より食べ物が楽しみですよ。",
+            "timestamp": "2022-09-03T09:46:57.499000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FF",
+            "text": "そうなんですね。具体的に言うと何が楽しみですか？",
+            "timestamp": "2022-09-03T09:47:14.196000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CH",
+            "text": "栗が好きなので、それが楽しみですね。甘栗とかは年中売ってますが。",
+            "timestamp": "2022-09-03T09:47:52.506000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FF",
+            "text": "栗ですか！いいですね。甘いものお好きですか？",
+            "timestamp": "2022-09-03T09:48:08.715000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CH",
+            "text": "好きですよ。さつまいもなども好物です。",
+            "timestamp": "2022-09-03T09:48:36.938000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FF",
+            "text": "それは秋が楽しみですね。私は甘いものはそこまでですね。",
+            "timestamp": "2022-09-03T09:48:53.405000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CH",
+            "text": "お酒はいかがですか？わたしは好きですが超がつく下戸なので量は全く飲まないですが。",
+            "timestamp": "2022-09-03T09:49:45.879000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FF",
+            "text": "お酒は好きですね。ビールと日本酒ですかね。あまり強くないのも同じです。",
+            "timestamp": "2022-09-03T09:50:11.295000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CH",
+            "text": "おお、そうですか。まぁ強くなければ少量で済むので、経済的かもしれません。",
+            "timestamp": "2022-09-03T09:50:48.855000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FF",
+            "text": "それは友人に言われますね。あっさり酔えるので。",
+            "timestamp": "2022-09-03T09:51:08.836000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CH",
+            "text": "それにしても、友人と飲みに行く頻度もめっきり下がって、そろそろ以前のようにしたいですねぇ。",
+            "timestamp": "2022-09-03T09:51:54.433000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FF",
+            "text": "ですね。もう全然友人に会えていませんね。",
+            "timestamp": "2022-09-03T09:52:05.630000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CH",
+            "text": "やはりそうですか。こういうのは意識的に戻すようにしないと、自然には戻りませんねぇ。",
+            "timestamp": "2022-09-03T09:52:34.395000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FF",
+            "text": "うーん。ですね。政府のせいとも思いませんが、この空気感は中々払拭できなさそうですね。",
+            "timestamp": "2022-09-03T09:53:10.117000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CH",
+            "text": "わかりやすいきっかけでもないと、難しい所ですね。",
+            "timestamp": "2022-09-03T09:53:58.011000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FF",
+            "text": "ですね。飲み薬ですかね。やはり。",
+            "timestamp": "2022-09-03T09:54:12.970000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CH",
+            "text": "ドラッグストアで買って飲めばいい、となればかなり平常に戻る気はしますね。",
+            "timestamp": "2022-09-03T09:54:37.629000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FF",
+            "text": "ですよね。まぁまだ数年かかりそうですが。",
+            "timestamp": "2022-09-03T09:54:51.045000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CH",
+            "text": "売れるのが確定しているので製薬企業も開発は全力をあげてるでしょうけど、いかんせん新しい症状ですからね。",
+            "timestamp": "2022-09-03T09:55:32.625000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FF",
+            "text": "ですね。塩野義が頑張ってると聞きましたね。",
+            "timestamp": "2022-09-03T09:55:51.306000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CH",
+            "text": "塩野義への期待はよく耳にしますよ。",
+            "timestamp": "2022-09-03T09:56:10.435000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FF",
+            "text": "私も実際期待しています。ワクチンだけでは心もとない。",
+            "timestamp": "2022-09-03T09:56:32.459000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CH",
+            "text": "そうですね。対処薬ができれば、一番いいですから。",
+            "timestamp": "2022-09-03T09:57:00.367000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FF",
+            "text": "本当に待たれますね。ちなみにかかったことありますか？",
+            "timestamp": "2022-09-03T09:57:14.832000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CH",
+            "text": "いえ、今のところ大丈夫です。友人・知人にはちらほらいますが。",
+            "timestamp": "2022-09-03T09:57:42.889000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FF",
+            "text": "こちらは友人はかなりかかってますね。",
+            "timestamp": "2022-09-03T09:57:57.919000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CH",
+            "text": "そうでしたか、幸い私の周囲は暇が圧倒的に辛かった、で済んでいるので良かったです。",
+            "timestamp": "2022-09-03T09:58:26.217000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FF",
+            "text": "それは平和な範囲ですね！",
+            "timestamp": "2022-09-03T09:58:42.130000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

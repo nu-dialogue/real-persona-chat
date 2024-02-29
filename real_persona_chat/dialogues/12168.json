@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12168,
+    "interlocutors": [
+        "EV",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-04T16:17:04.135000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。お願いします。",
+            "timestamp": "2022-09-04T16:17:11.064000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "昼食はとりましたか？",
+            "timestamp": "2022-09-04T16:17:21.085000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "はい。先ほど食べました。",
+            "timestamp": "2022-09-04T16:17:34.119000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "メニューを伺ってもいいですか？",
+            "timestamp": "2022-09-04T16:17:42.381000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "納豆入りきのこスパゲッティでした。",
+            "timestamp": "2022-09-04T16:17:55.836000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "納豆とスパゲティって合いますか？",
+            "timestamp": "2022-09-04T16:18:06.222000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "ねばねばしますが、私はOKです。",
+            "timestamp": "2022-09-04T16:18:26.256000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "そうですか。和風パスタってやつですかね",
+            "timestamp": "2022-09-04T16:18:44.986000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "実は、息子が作ってくれたのです。",
+            "timestamp": "2022-09-04T16:19:02.449000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "おお、親孝行ですね",
+            "timestamp": "2022-09-04T16:19:13.505000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "だいぶ慣れてきましたが、毎週のように同じメニューを作ってくれるのです。",
+            "timestamp": "2022-09-04T16:19:44.611000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "同じメニューでも、子供が作ってくれるのはありがたいですね",
+            "timestamp": "2022-09-04T16:20:11.502000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。唐辛子もちょっと入っているのでピリ辛です。",
+            "timestamp": "2022-09-04T16:20:26.535000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "夏なので、いいかもしれませんね",
+            "timestamp": "2022-09-04T16:20:40.872000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "確かにたんぱく質もとれますし。",
+            "timestamp": "2022-09-04T16:20:53.953000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "きのこと納豆なので栄養価は高そうです",
+            "timestamp": "2022-09-04T16:21:08.217000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。毎週頑張って食べます。",
+            "timestamp": "2022-09-04T16:21:25.516000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "僕は夏バテ気味なので、辛い物を食べてみようと思います",
+            "timestamp": "2022-09-04T16:21:49.277000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "辛いものとはカレーとか唐辛子系でしょうか。",
+            "timestamp": "2022-09-04T16:22:05.993000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "豚キムを作ろうと思っています",
+            "timestamp": "2022-09-04T16:22:19.704000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "キムチ、私も好きですよ。あまり辛くなければですが。",
+            "timestamp": "2022-09-04T16:22:39.676000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "はい、激辛は僕も苦手なので中辛くらいのものを",
+            "timestamp": "2022-09-04T16:23:02.214000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "最近は自分でぬかみそを漬けるようになったので、キムチ食べていませんでした。",
+            "timestamp": "2022-09-04T16:23:36.257000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "漬物ですか。地下に置いておく感じですか？",
+            "timestamp": "2022-09-04T16:23:59.921000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "いえいえ、地下なんてないので、冷蔵庫です。",
+            "timestamp": "2022-09-04T16:24:13.526000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "なるほど、結構簡単に漬物ってできるのでしょうか",
+            "timestamp": "2022-09-04T16:24:36.500000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "できますね。ただ、先日入れすぎて発酵が進み、開けた途端にぬかが飛び散って驚きました！",
+            "timestamp": "2022-09-04T16:25:23.762000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "それは大変ですね。掃除とかが。臭いもつきそうです",
+            "timestamp": "2022-09-04T16:26:05.051000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "そうなんです。気を付けなくては、と思います。",
+            "timestamp": "2022-09-04T16:25:59.890000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

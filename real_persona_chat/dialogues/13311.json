@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13311,
+    "interlocutors": [
+        "DN",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-20T12:12:12.147000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-20T12:12:15.670000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "台風の影響はありませんでしたか？",
+            "timestamp": "2022-09-20T12:12:32.805000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "今のところは、静かなものです。",
+            "timestamp": "2022-09-20T12:12:39.058000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "今日これからやってくるのでしょうか？",
+            "timestamp": "2022-09-20T12:13:00.772000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "よくわからないですが、なんか少しそれてる感じでしょうか。",
+            "timestamp": "2022-09-20T12:13:08.152000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。私のところは明け方の予定だったんです。",
+            "timestamp": "2022-09-20T12:13:36.702000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "なるほど、私は朝二度寝してしまい、ピークはすぎてしまったかもです。",
+            "timestamp": "2022-09-20T12:13:55.912000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "それはよかったですよね。怖い思いをしなくて済んだのですね。",
+            "timestamp": "2022-09-20T12:14:13.877000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "雨風は少し強めだったかも？程度でした。",
+            "timestamp": "2022-09-20T12:14:33.730000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "それはよかったですね。私は台風が来る直前に大雨にあいました！",
+            "timestamp": "2022-09-20T12:14:56.384000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "沖縄とか九州はひどかったんですかね。",
+            "timestamp": "2022-09-20T12:15:13.709000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "はい。こちらは愛知県なのですが、関西からの電車の運休で大騒ぎしていたので覚悟していました。",
+            "timestamp": "2022-09-20T12:15:46.902000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "なるほど、ちょっと前評判がすごかったので、身構えてしまってました。",
+            "timestamp": "2022-09-20T12:16:09.044000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "はい。デパートも午後からお休みになったので、やっぱり外出しないほうがよいのかと思いまして。",
+            "timestamp": "2022-09-20T12:16:40.458000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "買いだめとかはされました？",
+            "timestamp": "2022-09-20T12:16:46.432000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "私はしなかったのですが、午後スーパーに行ったら買いだめしている人が多かったです。",
+            "timestamp": "2022-09-20T12:17:19.117000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "なるほど、結構品薄になってるんですかね。",
+            "timestamp": "2022-09-20T12:17:42.417000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "はい。早めからセールになっていました。",
+            "timestamp": "2022-09-20T12:17:59.004000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "なるほど、スーパーも大変ですね。",
+            "timestamp": "2022-09-20T12:18:31.235000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "お刺身なんか良い感じでゲットできたからちょっとハッピーでした。",
+            "timestamp": "2022-09-20T12:18:58.030000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "お客さん減ったら、売れ残っちゃいますもんね、それよりは安く出したほうがいいですね。",
+            "timestamp": "2022-09-20T12:19:25.453000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。でも夕方から夜間にかけてはさほど問題なかったのでちょっとラッキーでした。",
+            "timestamp": "2022-09-20T12:19:48.900000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "甘く見るよりは、台風がすごいという想定で色々やった方が結果的にはいいですよね。",
+            "timestamp": "2022-09-20T12:20:24.423000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "そうなのかもしれませんよね。皆さん早めに帰る感じでしたので。",
+            "timestamp": "2022-09-20T12:20:47.471000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "備えあれば憂いなしとかではないですが。",
+            "timestamp": "2022-09-20T12:20:54.923000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "お住まいのところはあまり影響なかったですか？",
+            "timestamp": "2022-09-20T12:21:18.051000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "そうですね、山に囲まれてますので、昨夜から朝にかけて、風と雨があったくらいで。",
+            "timestamp": "2022-09-20T12:21:33.067000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。地盤がしっかりしていれば、むしろ安全ですよね。",
+            "timestamp": "2022-09-20T12:21:56.190000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "はい、逆に子供のころは休みにならなかったので損した気分でした。",
+            "timestamp": "2022-09-20T12:22:12.428000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

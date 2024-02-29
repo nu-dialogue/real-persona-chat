@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 736,
+    "interlocutors": [
+        "BX",
+        "AO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T08:01:30.083000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AO",
+            "text": "おはようございます！よろしくお願いします。",
+            "timestamp": "2022-08-11T08:01:39.843000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "朝ごはんは毎日食べておりますか？",
+            "timestamp": "2022-08-11T08:01:53.159000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AO",
+            "text": "あまりなんですよねー、ホントは食べたほうが良いんでしょうが。",
+            "timestamp": "2022-08-11T08:02:13.218000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "私もです。ついコーヒーだけで済ませてしまいます。",
+            "timestamp": "2022-08-11T08:02:32.690000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AO",
+            "text": "朝は時間が惜しいですしね。",
+            "timestamp": "2022-08-11T08:02:45.586000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "お仕事朝早いですか？",
+            "timestamp": "2022-08-11T08:02:58.012000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AO",
+            "text": "そんなこともないですよ。",
+            "timestamp": "2022-08-11T08:03:06.913000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "朝お忙しいというのは、ではお子様とか？",
+            "timestamp": "2022-08-11T08:03:22.456000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AO",
+            "text": "いや、単に寝坊助なだけです！",
+            "timestamp": "2022-08-11T08:03:36.723000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "あはは。私も同じかもしれません。",
+            "timestamp": "2022-08-11T08:03:46.652000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AO",
+            "text": "コーヒーってでも、淹れるのに時間がかかりませんか？",
+            "timestamp": "2022-08-11T08:04:02.344000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "インスタントの物なので本当にすぐはいりますよ！",
+            "timestamp": "2022-08-11T08:04:21.509000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AO",
+            "text": "インスタントなんですね。粉のですか？それともドリップタイプ？",
+            "timestamp": "2022-08-11T08:04:36.446000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "粉ですね。ちゃんとした物を飲みたいときはゴリゴリすることもあります。",
+            "timestamp": "2022-08-11T08:04:53.953000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AO",
+            "text": "ゴリゴリするの、私持ってないんですよね。ほしいんですけど。",
+            "timestamp": "2022-08-11T08:05:10.744000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "そんなに高くないですし、豆にもよりますがとてもおいしいですよ！",
+            "timestamp": "2022-08-11T08:05:39.115000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AO",
+            "text": "やっぱ挽きたては格別ですよね。たまにお店でちゃんと飲みたくなります。",
+            "timestamp": "2022-08-11T08:05:52.802000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "おしゃれなお店に行くのもいいですよね！",
+            "timestamp": "2022-08-11T08:06:19.044000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AO",
+            "text": "そうですね。ただ、スタバのメニューはいつも難しいと感じます。",
+            "timestamp": "2022-08-11T08:06:43.088000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "確かに。いつもメニューに書いてある通りしか頼みません。",
+            "timestamp": "2022-08-11T08:07:06.094000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AO",
+            "text": "私もですー。何なら指差しで注文するヘタレです。",
+            "timestamp": "2022-08-11T08:07:27.012000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "本日のコーヒーは何ですか？とか聞いてる人すごいなって思います。",
+            "timestamp": "2022-08-11T08:07:48.663000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AO",
+            "text": "ねー！店員さんとのプライドの戦いに挑む！",
+            "timestamp": "2022-08-11T08:08:09.025000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "店員さんも私みたいな困ったお客だとたいへんですね！",
+            "timestamp": "2022-08-11T08:08:40.139000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AO",
+            "text": "うん？困ったお客さんなんですか？",
+            "timestamp": "2022-08-11T08:08:57.602000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "聞き返されたりすると何もわからないので",
+            "timestamp": "2022-08-11T08:09:19.611000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AO",
+            "text": "あー、私もですよ！しどろもどろになっちゃいます。",
+            "timestamp": "2022-08-11T08:09:32.202000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "え？え？ってなっちゃいますね。",
+            "timestamp": "2022-08-11T08:09:41.923000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AO",
+            "text": "はい。でも美味しいからまた行っちゃいますけどね！では、今日はこのへんで。",
+            "timestamp": "2022-08-11T08:10:06.421000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

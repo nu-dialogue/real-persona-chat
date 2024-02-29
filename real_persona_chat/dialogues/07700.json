@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7700,
+    "interlocutors": [
+        "EX",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EX",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T21:07:40.252000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T21:07:42.246000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EX",
+            "text": "今度親と久しぶりに会うのですが何したら喜んでくれますかね。",
+            "timestamp": "2022-08-11T21:08:08.714000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "そうゆうこと考えてる時点で、もう嬉しいと思います。",
+            "timestamp": "2022-08-11T21:08:32.536000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EX",
+            "text": "そうですかね。食事に行こうと思っているんですが何にしようか迷っていて。",
+            "timestamp": "2022-08-11T21:09:21.149000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "どのくらいぶりに会うんですか？",
+            "timestamp": "2022-08-11T21:10:10.177000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EX",
+            "text": "5年ぶりくらいです！",
+            "timestamp": "2022-08-11T21:10:19.808000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "え！ホントですか！",
+            "timestamp": "2022-08-11T21:10:51.596000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EX",
+            "text": "コロナもあって帰省できずって感じでした！",
+            "timestamp": "2022-08-11T21:11:08.303000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "それはちょっとサプライズしたいですね。",
+            "timestamp": "2022-08-11T21:11:28.213000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EX",
+            "text": "サプライズですか！ちょっと恥ずかしいですね。",
+            "timestamp": "2022-08-11T21:11:53.710000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "一緒に考えてもいいですか？",
+            "timestamp": "2022-08-11T21:12:16.556000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EX",
+            "text": "是非お願いします。",
+            "timestamp": "2022-08-11T21:12:25.857000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "お食事は、高級感なとこが良いですか？それともカジュアル？",
+            "timestamp": "2022-08-11T21:12:53.460000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EX",
+            "text": "カジュアルめですかね！",
+            "timestamp": "2022-08-11T21:13:27.513000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "ご両親はお酒好きですか？",
+            "timestamp": "2022-08-11T21:13:49.496000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EX",
+            "text": "結構飲みます！",
+            "timestamp": "2022-08-11T21:14:17.227000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "お！では、ちょっと特別なお酒をプレゼントするのはどうでしょう？",
+            "timestamp": "2022-08-11T21:14:45.575000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EX",
+            "text": "なるほど！地酒好きなんでそれいいかもです！",
+            "timestamp": "2022-08-11T21:15:05.493000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "コロナもありますので、お家で晩酌でもいいかもしれないです。",
+            "timestamp": "2022-08-11T21:15:30.321000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EX",
+            "text": "たしかに軽く外で食べてそのあとまったりも良さそうです。",
+            "timestamp": "2022-08-11T21:15:53.178000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "ありきたりすぎますかね？",
+            "timestamp": "2022-08-11T21:16:04.725000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EX",
+            "text": "いやもうそれにします！ありがとうございます！",
+            "timestamp": "2022-08-11T21:16:27.082000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "本当ですか！喜んでくれるといいですね。",
+            "timestamp": "2022-08-11T21:16:39.485000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EX",
+            "text": "はい！さっそく探してみます。",
+            "timestamp": "2022-08-11T21:16:52.553000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "反応教えて下さいね。",
+            "timestamp": "2022-08-11T21:17:06.848000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EX",
+            "text": "もちろん！また連絡しますね！",
+            "timestamp": "2022-08-11T21:17:24.178000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "今から楽しみにしてます！",
+            "timestamp": "2022-08-11T21:17:31.928000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EX",
+            "text": "相談してよかったー。",
+            "timestamp": "2022-08-11T21:17:41.638000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "そう言ってもらって嬉しいです。",
+            "timestamp": "2022-08-11T21:17:53.877000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

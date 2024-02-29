@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1406,
+    "interlocutors": [
+        "CR",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-14T14:59:36.650000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-14T14:59:55.838000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "この夏の暑さ対策はされてますか？",
+            "timestamp": "2022-08-14T15:00:27.500000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "南側の窓にすだれを掛けました！",
+            "timestamp": "2022-08-14T15:00:45.259000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "日陰は有効ですか？",
+            "timestamp": "2022-08-14T15:00:57.376000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "かなり涼しいです！エアコンの設定、28.5でいけます！",
+            "timestamp": "2022-08-14T15:01:16.791000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "２８度設定は意外と暑いと思いますが。",
+            "timestamp": "2022-08-14T15:01:37.497000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "けっこう寒がりなのでいけますねー。家族には暑い！って言われますが。",
+            "timestamp": "2022-08-14T15:02:04.952000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "ですよね。２７度以下にしちゃいます",
+            "timestamp": "2022-08-14T15:02:22.925000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "何か対策されてますか？",
+            "timestamp": "2022-08-14T15:02:35.108000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "外に出て暑さに慣れようとしています。",
+            "timestamp": "2022-08-14T15:02:55.959000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "外の暑さ、異常すぎてムリですー！外では何か対策を？",
+            "timestamp": "2022-08-14T15:03:41.730000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "ひたすら絶えます！",
+            "timestamp": "2022-08-14T15:04:00.125000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "えー！熱中症になっちゃいますよー！",
+            "timestamp": "2022-08-14T15:04:14.974000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "そうですよね。水と塩を欠かさないように",
+            "timestamp": "2022-08-14T15:04:35.593000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "暑いの平気なほうですか？",
+            "timestamp": "2022-08-14T15:05:00.863000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "寒いのよりマシかと思っています",
+            "timestamp": "2022-08-14T15:05:16.232000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "そうなんですね！ところで台風は大丈夫でした？",
+            "timestamp": "2022-08-14T15:05:34.637000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "関東なので若干の影響ですみました。",
+            "timestamp": "2022-08-14T15:05:56.531000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "あら、偶然！私も関東です。思ったより平気でしたね！",
+            "timestamp": "2022-08-14T15:06:29.705000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "電車が止まるなどほぼなくてよかったですよね",
+            "timestamp": "2022-08-14T15:06:40.533000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "ほんとです！シャッター閉めたりして警戒してたんですけど。",
+            "timestamp": "2022-08-14T15:06:59.661000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "ちょっとそれた感じなのですかね",
+            "timestamp": "2022-08-14T15:07:20.076000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "どうなんでしょう？雨は全然、風がちょっと強いくらいでしたね。",
+            "timestamp": "2022-08-14T15:07:48.357000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "関東は影響少なめですよね",
+            "timestamp": "2022-08-14T15:08:13.588000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "はい。むしろ東北とか今大変ですよね！",
+            "timestamp": "2022-08-14T15:08:33.932000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "今年の東北は大変な大雨ですね",
+            "timestamp": "2022-08-14T15:08:51.611000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "出身が東北なので、心配です。",
+            "timestamp": "2022-08-14T15:09:05.311000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "親戚のご無事を祈念いたします",
+            "timestamp": "2022-08-14T15:09:31.336000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "ありがとうございます、では、また。",
+            "timestamp": "2022-08-14T15:09:41.960000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

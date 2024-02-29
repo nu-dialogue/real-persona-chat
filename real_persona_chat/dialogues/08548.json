@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8548,
+    "interlocutors": [
+        "BY",
+        "AU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BY",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T13:00:21.353000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-14T13:00:26.093000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BY",
+            "text": "私、最近メルカリを始めてみたんですが、使われていますか？",
+            "timestamp": "2022-08-14T13:00:40.805000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AU",
+            "text": "メルカリ買った事はありますが、出品したことないです。　売れ行きはどうですか？",
+            "timestamp": "2022-08-14T13:01:16.451000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BY",
+            "text": "あ、実は私も、買ってみただけでして。",
+            "timestamp": "2022-08-14T13:01:35.571000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AU",
+            "text": "出品は、ちょっとハードル高いですよね。",
+            "timestamp": "2022-08-14T13:01:56.059000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BY",
+            "text": "そうなんですよ。見ているとみなさんきれいに写真撮られているし、私にはちょっと、と。",
+            "timestamp": "2022-08-14T13:02:21.811000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AU",
+            "text": "たしかに、写真をうまく撮れないです。　何を買われたのですか？",
+            "timestamp": "2022-08-14T13:02:49.035000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BY",
+            "text": "読みたかった本と、ずっと前にほしかった洋服です。あなたは？",
+            "timestamp": "2022-08-14T13:03:25.866000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AU",
+            "text": "私は、海外のステッカーブックを買いました。　紙モノがいろいろ入ってておトクに買えましたよ。",
+            "timestamp": "2022-08-14T13:04:19.058000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BY",
+            "text": "わあ、それは紙好きにはいい品ですね！",
+            "timestamp": "2022-08-14T13:04:37.405000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AU",
+            "text": "洋服は買った事がないんですが、イメージどおりのモノが届きましたか？",
+            "timestamp": "2022-08-14T13:05:12.937000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BY",
+            "text": "そうですね、何年か前に実物を見ていたので、そこは大丈夫でしたね。",
+            "timestamp": "2022-08-14T13:05:33.519000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AU",
+            "text": "それは良かったですね。　他にも何か買われました？",
+            "timestamp": "2022-08-14T13:05:57.168000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BY",
+            "text": "本と服以外にはないんですよ。でも見ていると、え！？と思うものまで売っていて面白いですね。",
+            "timestamp": "2022-08-14T13:06:41.960000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AU",
+            "text": "たしかに、ゴミと思えるモノでも売れる時代なんですよね。　すごく感心します。",
+            "timestamp": "2022-08-14T13:07:20.760000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BY",
+            "text": "いや、ほんと、それを売る勇気もすごいなと思いますが、需要があることにも驚きました。",
+            "timestamp": "2022-08-14T13:07:39.001000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AU",
+            "text": "ほんとそうですね。　ヤフオクは利用した事ありますか？",
+            "timestamp": "2022-08-14T13:08:06.787000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BY",
+            "text": "ヤフオクはまだないんですよ。ありますか？",
+            "timestamp": "2022-08-14T13:08:15.779000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AU",
+            "text": "ヤフオクは、かなり前は出品もしていました。なので私は、メルカリよりヤフオクの方が使いやすいかもしれないです。",
+            "timestamp": "2022-08-14T13:08:56.583000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BY",
+            "text": "そうなんですね！ヤフオクは、自分で時間や値段を設定できるんですか？",
+            "timestamp": "2022-08-14T13:09:20.367000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AU",
+            "text": "はい、自分で出来ます。後は欲しい方が値段をつり上げてくれるので、私はその方が儲かる？気がしますね。",
+            "timestamp": "2022-08-14T13:10:14.734000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BY",
+            "text": "なるほど、うまくつりあげてもらえるものを出さないといけませんね！",
+            "timestamp": "2022-08-14T13:10:50.345000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AU",
+            "text": "そうですね。　だから当時は売れそうなモノをフリマで仕入れ？するようにしていました。",
+            "timestamp": "2022-08-14T13:11:44.202000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BY",
+            "text": "ほおー！自分のものだけでなく、仕入れもするんですね！",
+            "timestamp": "2022-08-14T13:12:18.316000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AU",
+            "text": "当時はやってましたね。フリマも好きで行ってたのでついでにって仕入れって感じです。",
+            "timestamp": "2022-08-14T13:12:50.085000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BY",
+            "text": "期限内に売れないという結果もありますか？すいません根掘り葉掘り。",
+            "timestamp": "2022-08-14T13:13:15.817000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AU",
+            "text": "あー、たまにありましたね。そういう時は値段下げて売ったりとか。",
+            "timestamp": "2022-08-14T13:13:53.278000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BY",
+            "text": "なるほど、そこは駆け引きの腕が必要なんですね！勉強になりました、ありがとうございます！",
+            "timestamp": "2022-08-14T13:14:29.119000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AU",
+            "text": "またお話しましょう。",
+            "timestamp": "2022-08-14T13:14:41.036000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BY",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6739,
+    "interlocutors": [
+        "HR",
+        "GW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HR",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-07T18:02:03.907000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GW",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-07T18:02:07.748000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HR",
+            "text": "なにたべますか",
+            "timestamp": "2022-10-07T18:02:13.611000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GW",
+            "text": "今日ですかー",
+            "timestamp": "2022-10-07T18:02:16.905000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HR",
+            "text": "はい！",
+            "timestamp": "2022-10-07T18:02:20.431000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GW",
+            "text": "なにつくろうかな",
+            "timestamp": "2022-10-07T18:02:26.638000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HR",
+            "text": "冷蔵庫の中身は",
+            "timestamp": "2022-10-07T18:02:31.535000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GW",
+            "text": "なんか色々あります",
+            "timestamp": "2022-10-07T18:02:36.705000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HR",
+            "text": "残り物とかは？",
+            "timestamp": "2022-10-07T18:02:43.288000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GW",
+            "text": "きょうはないですねー",
+            "timestamp": "2022-10-07T18:02:46.372000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HR",
+            "text": "ないですかー",
+            "timestamp": "2022-10-07T18:02:49.515000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GW",
+            "text": "かなしいことに",
+            "timestamp": "2022-10-07T18:02:52.684000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HR",
+            "text": "最初から調理ですね",
+            "timestamp": "2022-10-07T18:02:58.616000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GW",
+            "text": "そうなっちゃいますね",
+            "timestamp": "2022-10-07T18:03:02.112000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HR",
+            "text": "やばいなあ",
+            "timestamp": "2022-10-07T18:03:05.966000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GW",
+            "text": "めんどうです",
+            "timestamp": "2022-10-07T18:03:10.238000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HR",
+            "text": "なりますね",
+            "timestamp": "2022-10-07T18:03:14.214000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GW",
+            "text": "作り置きしないので",
+            "timestamp": "2022-10-07T18:03:18.322000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HR",
+            "text": "そっちですか",
+            "timestamp": "2022-10-07T18:03:26.651000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GW",
+            "text": "します？",
+            "timestamp": "2022-10-07T18:03:30.227000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HR",
+            "text": "しますします",
+            "timestamp": "2022-10-07T18:03:35.107000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GW",
+            "text": "たまにです？",
+            "timestamp": "2022-10-07T18:03:37.772000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HR",
+            "text": "いつもです",
+            "timestamp": "2022-10-07T18:03:41.508000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GW",
+            "text": "いつも多めに？",
+            "timestamp": "2022-10-07T18:03:46.791000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HR",
+            "text": "そうです、いつも多め",
+            "timestamp": "2022-10-07T18:03:54.145000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GW",
+            "text": "楽ですね",
+            "timestamp": "2022-10-07T18:03:59.135000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HR",
+            "text": "楽ですが、",
+            "timestamp": "2022-10-07T18:04:03.184000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GW",
+            "text": "飽きるとか？",
+            "timestamp": "2022-10-07T18:04:08.366000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HR",
+            "text": "ほんとそれです",
+            "timestamp": "2022-10-07T18:04:14.014000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GW",
+            "text": "あーなりそう。",
+            "timestamp": "2022-10-07T18:04:20.739000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1365,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-16T23:28:25.440000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-16T23:28:33.504000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-16T23:28:39.113000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "いつも何時に寝ていますか？",
+            "timestamp": "2022-08-16T23:28:56.149000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "2時くらいですね。",
+            "timestamp": "2022-08-16T23:29:11.220000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "結構遅めですね！",
+            "timestamp": "2022-08-16T23:29:24.470000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "<CS>さんは何時くらいに寝ていますか？",
+            "timestamp": "2022-08-16T23:30:14.224000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "私は0時くらいに寝てますよ",
+            "timestamp": "2022-08-16T23:30:32.562000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "朝早いんですか？",
+            "timestamp": "2022-08-16T23:30:53.272000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "朝は6時くらいに起きてます",
+            "timestamp": "2022-08-16T23:31:08.804000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "早いですね。私は7時半くらいです。",
+            "timestamp": "2022-08-16T23:31:29.684000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "朝は得意ですか？",
+            "timestamp": "2022-08-16T23:31:40.431000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "苦手です。早起き苦手で、休みの日は昼頃まで寝てます",
+            "timestamp": "2022-08-16T23:32:03.152000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。休みの日はごろごろしちゃいますよね",
+            "timestamp": "2022-08-16T23:32:19.665000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "ついついダラダラして1日終わっちゃいますね",
+            "timestamp": "2022-08-16T23:32:39.303000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "外出はあまりされないんですか？",
+            "timestamp": "2022-08-16T23:32:51.721000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "しないですね。一人だと本当に必要最小限です",
+            "timestamp": "2022-08-16T23:33:09.446000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "お友達とかとは会うんですか？",
+            "timestamp": "2022-08-16T23:33:24.436000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "会っても居酒屋とかが多いですねー",
+            "timestamp": "2022-08-16T23:33:41.755000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "なるほど、大人ですね",
+            "timestamp": "2022-08-16T23:33:52.843000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "<CS>さんはよく外出されますか？",
+            "timestamp": "2022-08-16T23:34:07.673000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "私もあんまりですね、夏と冬は特に引きこもっちゃいます",
+            "timestamp": "2022-08-16T23:34:36.482000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "なかなか屋外で過ごしづらいですもんね",
+            "timestamp": "2022-08-16T23:35:03.817000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "冬は特に家にいたいです",
+            "timestamp": "2022-08-16T23:35:20.641000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "うちはこたつがあるのでますます出たくなくなります",
+            "timestamp": "2022-08-16T23:35:47.123000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "こたついいですねーうちは壊れて捨てちゃいました",
+            "timestamp": "2022-08-16T23:36:09.320000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "買いなおしましょう！",
+            "timestamp": "2022-08-16T23:36:18.068000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "それも検討ですね",
+            "timestamp": "2022-08-16T23:36:27.936000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい、ぜひ！",
+            "timestamp": "2022-08-16T23:36:39.120000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "それでは失礼いたします。",
+            "timestamp": "2022-08-16T23:36:46.920000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6695,
+    "interlocutors": [
+        "AS",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-06T09:50:16.769000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-06T09:50:21.118000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-10-06T09:50:33.358000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "最近は漫画とアニメにどっぷりです！",
+            "timestamp": "2022-10-06T09:50:45.691000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "なに見てるんです？",
+            "timestamp": "2022-10-06T09:50:58.580000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "チェンソーマンという漫画を読んでます",
+            "timestamp": "2022-10-06T09:51:14.274000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "あー、最近アニメ化されるという",
+            "timestamp": "2022-10-06T09:51:32.242000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "ですです！来週くらいから放送で，楽しみにしています",
+            "timestamp": "2022-10-06T09:51:52.590000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "秋アニメ私も楽しみです",
+            "timestamp": "2022-10-06T09:52:00.850000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "何を見る予定なんですか？",
+            "timestamp": "2022-10-06T09:52:10.269000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "スパイファミリーです",
+            "timestamp": "2022-10-06T09:52:41.541000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "私も2期の一話みましたよ！！",
+            "timestamp": "2022-10-06T09:53:04.034000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "今回も期待です",
+            "timestamp": "2022-10-06T09:53:17.379000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "アーニャ可愛いですよね",
+            "timestamp": "2022-10-06T09:53:31.136000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "私も好きです。漫画でもともと好きでしたが",
+            "timestamp": "2022-10-06T09:53:44.556000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "漫画は読んだことないんです！漫画の方が好きですか？",
+            "timestamp": "2022-10-06T09:54:06.833000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "アニメですね、漫画を上回ってくれます",
+            "timestamp": "2022-10-06T09:54:32.034000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね！やっぱり声優さんの力ですかね",
+            "timestamp": "2022-10-06T09:54:48.755000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "それもありますし、いい方向に原作改変してくれたので",
+            "timestamp": "2022-10-06T09:55:30.511000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "改変が入っているんですね",
+            "timestamp": "2022-10-06T09:55:46.778000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "ちょこちょこみてると違うんです",
+            "timestamp": "2022-10-06T09:56:09.924000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "話がわかりやすくなっているってことですか？",
+            "timestamp": "2022-10-06T09:56:22.854000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "そうですね、あと漫画中のセリフの解釈をやってたりとか",
+            "timestamp": "2022-10-06T09:57:04.194000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "解釈をやるのは大事ですね！！",
+            "timestamp": "2022-10-06T09:57:23.089000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "個々人に任せるのもいいですが、公式が示すのもいいなと思いました",
+            "timestamp": "2022-10-06T09:57:50.519000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "今期は何話やるかわかりませんが，長くやってくれると嬉しいですね！",
+            "timestamp": "2022-10-06T09:58:23.418000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "多分８巻までかなーと思ってます",
+            "timestamp": "2022-10-06T09:58:41.846000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "まだそんなに巻数でてないですっけ？",
+            "timestamp": "2022-10-06T09:59:00.662000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "確かついこの間10巻が出たと思います",
+            "timestamp": "2022-10-06T09:59:31.525000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "あ，じゃあ追いつきそうなんですね",
+            "timestamp": "2022-10-06T09:59:49.626000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

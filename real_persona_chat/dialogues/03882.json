@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3882,
+    "interlocutors": [
+        "DE",
+        "DA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-03T18:14:01.607000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DA",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-03T18:14:11.615000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DE",
+            "text": "夕食はもう済みましたか？",
+            "timestamp": "2022-09-03T18:14:20.257000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DA",
+            "text": "まだです。もうお済ですか？",
+            "timestamp": "2022-09-03T18:14:34.390000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DE",
+            "text": "まだです。まだ献立も未定なのです。",
+            "timestamp": "2022-09-03T18:14:52.608000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！食べたいものはありますか？",
+            "timestamp": "2022-09-03T18:15:08.273000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DE",
+            "text": "焼き魚だということだけは決まっているので、和食系にしたいと思います。",
+            "timestamp": "2022-09-03T18:15:41.389000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！お魚はもう家にあるってことですか？",
+            "timestamp": "2022-09-03T18:16:00.223000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DE",
+            "text": "そうですね。ホッケの干物を買ってあります。",
+            "timestamp": "2022-09-03T18:16:19.403000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DA",
+            "text": "いいですねー！ホッケ好きです！",
+            "timestamp": "2022-09-03T18:16:37.535000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DE",
+            "text": "大根おろしと一緒に食べるの美味しいです。ホッケ美味しいですよね！",
+            "timestamp": "2022-09-03T18:17:00.865000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DA",
+            "text": "焼き魚よく食べるんですか？うちはあまり出ないので、、",
+            "timestamp": "2022-09-03T18:17:20.746000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DE",
+            "text": "基本肉魚を交互にしたいと思っているので、よく食べる方でしょうか。煮物より焼きの方が多いです。",
+            "timestamp": "2022-09-03T18:18:09.399000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！秋はサンマが楽しみですねー！",
+            "timestamp": "2022-09-03T18:18:38.384000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DE",
+            "text": "今年のサンマの相場が気になります。去年は高かったので。",
+            "timestamp": "2022-09-03T18:19:06.521000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DA",
+            "text": "毎年高いっていうニュースが流れてくる気がします",
+            "timestamp": "2022-09-03T18:19:29.153000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DE",
+            "text": "ですよねー。最近は何でも値上がりしてますし。でもサンマ食べたいですね。",
+            "timestamp": "2022-09-03T18:20:12.390000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DA",
+            "text": "この前の土用のウナギは食べましたか？？",
+            "timestamp": "2022-09-03T18:20:44.645000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DE",
+            "text": "いえ、食べてないですウナギ。なんだか忙しくて丑の日を流してしまいました。",
+            "timestamp": "2022-09-03T18:21:17.987000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DA",
+            "text": "私も食べてないです。スーパーではたくさん見かけましたね、高いです笑",
+            "timestamp": "2022-09-03T18:21:48.631000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DE",
+            "text": "ほんとに。びっくりするような価格だったと思います。では肉でもいいじゃないかって気になります。",
+            "timestamp": "2022-09-03T18:22:37.583000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DA",
+            "text": "そうですよねー！お肉だとどんな料理が多いですか？",
+            "timestamp": "2022-09-03T18:23:34.352000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DE",
+            "text": "お肉、ステーキでいただくのが至福の時です。",
+            "timestamp": "2022-09-03T18:24:10.186000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DA",
+            "text": "最高ですね、おうちでのステーキするのいいですね",
+            "timestamp": "2022-09-03T18:24:24.399000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DE",
+            "text": "ですです。お店で食べるより安く済むし、ちょっといい肉を食べられます！",
+            "timestamp": "2022-09-03T18:24:56.056000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DA",
+            "text": "やってみたいです！おなかすきました、、",
+            "timestamp": "2022-09-03T18:25:29.754000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DE",
+            "text": "おなかすきましたね。お肉とお魚だとお肉が多いですか？",
+            "timestamp": "2022-09-03T18:25:57.346000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DA",
+            "text": "圧倒的にお肉多いです。魚はたまにシシャモとか出ます",
+            "timestamp": "2022-09-03T18:26:34.742000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DE",
+            "text": "お肉万歳ですね！焼肉行きたいです。",
+            "timestamp": "2022-09-03T18:27:03.965000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DA",
+            "text": "食べたいです！最近いってないなあ、、",
+            "timestamp": "2022-09-03T18:27:27.217000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 1,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 1
+        }
+    ]
+}

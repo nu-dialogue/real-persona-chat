@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 972,
+    "interlocutors": [
+        "BM",
+        "CG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T11:57:41.626000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CG",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T11:57:49.072000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "最近旅行には行かれましたか？",
+            "timestamp": "2022-08-11T11:58:04.477000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CG",
+            "text": "先日、佐賀に行ってきました！",
+            "timestamp": "2022-08-11T11:58:20.966000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "おお！観光ですか？",
+            "timestamp": "2022-08-11T11:58:35.171000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CG",
+            "text": "はい、チームラボってご存じですか？",
+            "timestamp": "2022-08-11T11:58:55.752000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "わかります。それを見に行ったのですか？",
+            "timestamp": "2022-08-11T11:59:05.776000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CG",
+            "text": "はい、とても綺麗でした！",
+            "timestamp": "2022-08-11T11:59:24.225000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "うらやましいです！他はどこか行かれましたか？",
+            "timestamp": "2022-08-11T11:59:54.330000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CG",
+            "text": "いえ、日帰りで観光しました、あなたはどこか行かれましたか？",
+            "timestamp": "2022-08-11T12:01:04.428000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "最近は感染症の影響で、行けてないんですよね。どこか行きたいです。",
+            "timestamp": "2022-08-11T12:02:04.944000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CG",
+            "text": "私も海外に行きたかったんですけど残念です。。",
+            "timestamp": "2022-08-11T12:02:02.537000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "海外はしばらく行けなそうですよね。",
+            "timestamp": "2022-08-11T12:02:28.047000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CG",
+            "text": "早く収まってほしいものです。。",
+            "timestamp": "2022-08-11T12:03:08.945000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "ですね。でもまだ日本でも行きたいところはたくさんあるので我慢ですかね。",
+            "timestamp": "2022-08-11T12:03:55.799000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CG",
+            "text": "行きたいところはどこですか？",
+            "timestamp": "2022-08-11T12:04:19.679000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "北海道とか行きたいですね。",
+            "timestamp": "2022-08-11T12:04:44.410000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CG",
+            "text": "あー、いいですね！私も北海道の海鮮食べたいです。",
+            "timestamp": "2022-08-11T12:05:21.855000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "北海道は海鮮おいしいですよね！いくら丼食べたいです。",
+            "timestamp": "2022-08-11T12:05:40.133000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CG",
+            "text": "いいですね、いつか鮭の親子丼食べてみたいです。",
+            "timestamp": "2022-08-11T12:06:17.508000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "贅沢ですね。時間も時間なのでお腹が空いてきました。",
+            "timestamp": "2022-08-11T12:06:46.890000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CG",
+            "text": "最近で一番おいしかったものは何ですか？",
+            "timestamp": "2022-08-11T12:07:29.188000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "餃子ですかね。餃子を出しているBarの餃子が美味しかったです。",
+            "timestamp": "2022-08-11T12:08:13.847000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CG",
+            "text": "餃子いいですね、チーズ入りとかを自分で作って食べてました。笑",
+            "timestamp": "2022-08-11T12:09:15.852000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "チーズ入り私も好きです！チーズならあえて皮をパリッとさせてます。",
+            "timestamp": "2022-08-11T12:09:27.424000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CG",
+            "text": "上手ですね、誰か作ってくれる人欲しいです、めんどくさすぎるので。笑",
+            "timestamp": "2022-08-11T12:10:26.660000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "ちなみに、餃子の皮ってトースターで焼くだけでも美味しいですよ！",
+            "timestamp": "2022-08-11T12:10:57.501000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CG",
+            "text": "ピザみたいな感じですか？",
+            "timestamp": "2022-08-11T12:11:26.241000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "そうです。チーズとかピザソースのせると、まさにミニピザですね。",
+            "timestamp": "2022-08-11T12:11:43.925000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CG",
+            "text": "今度作ってみます！",
+            "timestamp": "2022-08-11T12:12:15.690000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CG",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

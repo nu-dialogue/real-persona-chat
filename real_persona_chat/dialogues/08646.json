@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8646,
+    "interlocutors": [
+        "AX",
+        "DC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AX",
+            "text": "お疲れ様です。暑くなりましたね。",
+            "timestamp": "2022-08-06T16:01:04.347000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DC",
+            "text": "暑くなりましたね。",
+            "timestamp": "2022-08-06T18:34:25.083000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AX",
+            "text": "天候が不安定ですが、そちらの方は大丈夫ですか？",
+            "timestamp": "2022-08-06T16:01:25.350000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DC",
+            "text": "こちらは雷雨が突然来ることがあって、びっくりします。そちらはどうですか？",
+            "timestamp": "2022-08-06T18:34:28.376000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AX",
+            "text": "ここは大阪ですが、昨日なんかはやはり急に雨が酷くなりましたね。",
+            "timestamp": "2022-08-06T16:02:09.812000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DC",
+            "text": "うちの地域は床下浸水がしょっちゅう起きて困ります。",
+            "timestamp": "2022-08-06T18:34:32.482000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AX",
+            "text": "えっ！それは本当に大変ですね。ニュースでも報道されていましたね。",
+            "timestamp": "2022-08-06T16:03:21.875000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DC",
+            "text": "といっても、それほど深刻なものではないのですが。土嚢でも買ってみるかなぁと思ったりしています。",
+            "timestamp": "2022-08-06T16:04:07.770000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AX",
+            "text": "どのうは結構重いから作業も骨が折れますね。",
+            "timestamp": "2022-08-06T16:04:27.442000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DC",
+            "text": "そうなんです。大袈裟すぎる気もしますし、迷います。",
+            "timestamp": "2022-08-06T16:04:43.221000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AX",
+            "text": "まぁ迷いますが、購入できるなら準備に越した事は無いのかもですね。",
+            "timestamp": "2022-08-06T16:05:19.373000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DC",
+            "text": "そうですねぇ。災害、最近多い気がしませんか？",
+            "timestamp": "2022-08-06T16:05:46.208000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AX",
+            "text": "多いですね。仕事柄災害の情報が入るのですが、年々増加していると思います。",
+            "timestamp": "2022-08-06T16:06:06.766000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DC",
+            "text": "災害というと、地震がやっぱり一番怖いです。防災準備色々しないといけませんね。",
+            "timestamp": "2022-08-06T16:06:49.027000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AX",
+            "text": "防災の準備色々なに買うか迷いますよね。バッテリーとか。",
+            "timestamp": "2022-08-06T16:07:10.464000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DC",
+            "text": "防災グッズ買うとなると意外に出費が嵩みますよね。",
+            "timestamp": "2022-08-06T16:07:43.121000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AX",
+            "text": "そうそう。持ち出せるものか家で待機用かも迷いますし。",
+            "timestamp": "2022-08-06T16:08:01.474000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DC",
+            "text": "やっぱり、安かろう悪かろうなんでしょうか。",
+            "timestamp": "2022-08-06T16:08:20.205000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AX",
+            "text": "あーそれ自分もよく思います。ソーラ充電とかもどうなのかなとか。",
+            "timestamp": "2022-08-06T16:08:41.435000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DC",
+            "text": "私は懐中電灯とかすごく悩みます。明るさとか。",
+            "timestamp": "2022-08-06T16:09:13.643000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AX",
+            "text": "最近はLＥＤのもたくさんありますしね。それはありますね。",
+            "timestamp": "2022-08-06T16:09:37.746000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DC",
+            "text": "あとは、何が必要なんだろう。",
+            "timestamp": "2022-08-06T16:09:56.416000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AX",
+            "text": "軍手？安全手袋とか安全靴の方が良いのかなと最近は思い直しています。",
+            "timestamp": "2022-08-06T16:10:23.990000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DC",
+            "text": "ううーん、なるほど。あったかくなる毛布？とかもあった方が良いんでしょうね。",
+            "timestamp": "2022-08-06T16:10:53.216000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AX",
+            "text": "寒い時期は確かにそれも必要かも。最近特殊なシートもありますよね防寒用の。",
+            "timestamp": "2022-08-06T16:11:13.973000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DC",
+            "text": "とかいって、私何一つ用意していないんですけど！だめですね。",
+            "timestamp": "2022-08-06T16:11:43.877000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AX",
+            "text": "自分もほんと最小限ですね。食べるものとかもですし。メンテが必要ですからね。",
+            "timestamp": "2022-08-06T16:12:15.145000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DC",
+            "text": "命が一番大事ですし、出費も心配だけど、準備するようにします！",
+            "timestamp": "2022-08-06T16:12:49.251000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AX",
+            "text": "自分もちょっとAmazonとか検索し直してみようかな。",
+            "timestamp": "2022-08-06T16:13:02.473000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DC",
+            "text": "Amazon、そうですね！私も検索してみます！",
+            "timestamp": "2022-08-06T16:13:26.688000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

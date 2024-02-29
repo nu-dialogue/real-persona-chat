@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 90,
+    "interlocutors": [
+        "AA",
+        "AG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いいたします",
+            "timestamp": "2022-08-09T18:43:09.760000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AG",
+            "text": "こちらこそ、よろしくお願いします！",
+            "timestamp": "2022-08-09T18:43:21.844000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "最近はまっているものはありますか？",
+            "timestamp": "2022-08-09T18:43:24.969000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AG",
+            "text": "最近ハマっているのは、カレー作りです！",
+            "timestamp": "2022-08-09T18:43:52.030000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "おお、カレーつくり！",
+            "timestamp": "2022-08-09T18:44:00.111000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AG",
+            "text": "スパイスカレーにハマっていて、色々、試しているんです。",
+            "timestamp": "2022-08-09T18:44:22.873000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "ええ、すごい！じゃあ、市販のルーは買わないんですか？",
+            "timestamp": "2022-08-09T18:44:45.121000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AG",
+            "text": "そうですね。ルーは買わないです。トマト缶と、玉ねぎが主役のカレーです。",
+            "timestamp": "2022-08-09T18:45:17.077000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "おいしそう！え、すごい",
+            "timestamp": "2022-08-09T18:45:28.107000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AG",
+            "text": "美味しいんですよー。やっぱりルーのカレーとは全然違う仕上がりです。",
+            "timestamp": "2022-08-09T18:45:51.933000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "ええいいですね！最近も作られたんですか？",
+            "timestamp": "2022-08-09T18:46:07.170000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AG",
+            "text": "はい！先日は、ゴマペーストを入れて作ってみました。",
+            "timestamp": "2022-08-09T18:46:27.705000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "ゴマ？カレーにゴマですか？",
+            "timestamp": "2022-08-09T18:46:35.573000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AG",
+            "text": "そうなんです。インドカレーで、カシューナッツペーストを入れるんですが、似てるかな？って。",
+            "timestamp": "2022-08-09T18:47:01.475000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "へえ、確かに向こうのカレーってナッツを入れたりすると聞いたことがあります。",
+            "timestamp": "2022-08-09T18:47:23.192000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AG",
+            "text": "あと、タイカレーだとココナッツミルク入れますし。ということで、とろみと味付けに。",
+            "timestamp": "2022-08-09T18:47:49.532000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "ええ、おいしそう！じゃあ味も甘めになったんですか？",
+            "timestamp": "2022-08-09T18:48:07.864000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AG",
+            "text": "甘めというより、コクが出ました！ゴマの香ばしさが加わって、奥深い味に。",
+            "timestamp": "2022-08-09T18:48:33.853000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "いいですね！何かきっかけがあるんですか？",
+            "timestamp": "2022-08-09T18:48:47.150000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AG",
+            "text": "スパイスカレーにハマったきっかけですか？",
+            "timestamp": "2022-08-09T18:49:00.616000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "そうですそうです",
+            "timestamp": "2022-08-09T18:49:13.265000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AG",
+            "text": "きっかけは色々あるんですが、大元は、母が小麦アレルギーを発症したことですね。",
+            "timestamp": "2022-08-09T18:49:48.173000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "小麦アレルギー。それであればカレールーの中に入っているから食べられませんね",
+            "timestamp": "2022-08-09T18:50:08.253000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよー。それで、小麦を使ってないカレーを作ってみよう！という所から始まりました。",
+            "timestamp": "2022-08-09T18:50:36.373000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "お母様思いですね、優しい",
+            "timestamp": "2022-08-09T18:50:45.425000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AG",
+            "text": "一緒に作ってみたんですけどね。そしたら、そっちの方が美味しくて、ハマってしまったというわけです。",
+            "timestamp": "2022-08-09T18:51:12.466000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "たしかに、おいしそうです！聞いただけで食欲が。",
+            "timestamp": "2022-08-09T18:51:32.624000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AG",
+            "text": "カレーって、夏場、食欲ない時にも食欲出てくるし、とても体にいい食べ物ですよね。",
+            "timestamp": "2022-08-09T18:51:59.790000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "そうなんですか？体に良いとは知らなかったです",
+            "timestamp": "2022-08-09T18:52:18.944000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AG",
+            "text": "スパイスが漢方薬みたいなものなので、体にいいんですよー。これからも、色々作っていきたいです！",
+            "timestamp": "2022-08-09T18:52:47.227000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

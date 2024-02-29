@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4500,
+    "interlocutors": [
+        "AW",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-27T21:03:13.151000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-27T21:03:18.109000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "普段運動されますか？",
+            "timestamp": "2022-09-27T21:03:27.502000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "全くしないです",
+            "timestamp": "2022-09-27T21:03:34.848000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "私もです。ジムに行こうか迷ってます。",
+            "timestamp": "2022-09-27T21:03:49.495000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "近所にあるんですか？",
+            "timestamp": "2022-09-27T21:03:56.871000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "エニタイムがあるんですよ、24時間あいてるやつ",
+            "timestamp": "2022-09-27T21:04:10.897000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "いいじゃないですか。",
+            "timestamp": "2022-09-27T21:04:18.651000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "初心者向けではないみたいなんですよね",
+            "timestamp": "2022-09-27T21:04:30.581000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "そうなんですか？",
+            "timestamp": "2022-09-27T21:04:38.934000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "トレーナーがいないみたいなので、器具の使い方を教えてくれる人がいないんです",
+            "timestamp": "2022-09-27T21:05:07.248000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "それは初心者にはきついですね",
+            "timestamp": "2022-09-27T21:05:20.047000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "初心者はゴールドジムってところがいいみたいです",
+            "timestamp": "2022-09-27T21:05:35.128000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "へー、それは近所にないんですか？",
+            "timestamp": "2022-09-27T21:05:45.912000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "ないです…",
+            "timestamp": "2022-09-27T21:05:52.387000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "残念ですね",
+            "timestamp": "2022-09-27T21:05:59.559000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "運動しないと老いるのが早くなるみたいですよ",
+            "timestamp": "2022-09-27T21:06:22.350000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "お金払ってでも運動したほうがいいらしいですね",
+            "timestamp": "2022-09-27T21:06:44.364000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "そうそう。",
+            "timestamp": "2022-09-27T21:06:55.570000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "メンタルも安定しそうですよね",
+            "timestamp": "2022-09-27T21:07:04.509000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "ジム通ってる人メンタル強いイメージあります",
+            "timestamp": "2022-09-27T21:07:16.978000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "ほんとに強いんですかね？",
+            "timestamp": "2022-09-27T21:07:34.276000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "どうなんだろう、私の周りで通ってる人はみんな強いかも",
+            "timestamp": "2022-09-27T21:07:54.556000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "へー、ジムいいですね",
+            "timestamp": "2022-09-27T21:08:05.579000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "<FU>さんは運動されないんですか？",
+            "timestamp": "2022-09-27T21:08:32.861000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "しようと思ったことあんまりないです",
+            "timestamp": "2022-09-27T21:08:44.381000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "運動苦手ですか？",
+            "timestamp": "2022-09-27T21:08:55.420000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "苦手です",
+            "timestamp": "2022-09-27T21:09:01.952000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "私もです。",
+            "timestamp": "2022-09-27T21:09:08.998000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "運動というか、体育が苦手でした",
+            "timestamp": "2022-09-27T21:09:20.372000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

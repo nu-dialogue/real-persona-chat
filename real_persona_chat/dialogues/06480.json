@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6480,
+    "interlocutors": [
+        "FU",
+        "HQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-09T02:55:03.088000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-09T02:55:08.810000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "これからやってみたいことはありますか？",
+            "timestamp": "2022-10-09T02:55:38.783000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HQ",
+            "text": "毎日刺激がないので、何か新しいことは始めたいです",
+            "timestamp": "2022-10-09T02:55:43.878000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "どんなことをしたいですか？",
+            "timestamp": "2022-10-09T02:56:00.958000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HQ",
+            "text": "熱中できそうなことが思いつかないんですよね",
+            "timestamp": "2022-10-09T02:56:17.136000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "今まで全く興味もなかったようなことをやってみるとかどうですか？",
+            "timestamp": "2022-10-09T02:56:56.596000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HQ",
+            "text": "そうなるとお裁縫とかになりそうです",
+            "timestamp": "2022-10-09T02:57:10.373000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "ハンドメイドとか流行ってるしいいんじゃないですか？",
+            "timestamp": "2022-10-09T02:57:52.622000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HQ",
+            "text": "はまるかなぁ。ちょっとやってみようかなとおもいます",
+            "timestamp": "2022-10-09T02:58:21.343000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "意外と面白いかもしれませんよ",
+            "timestamp": "2022-10-09T02:58:31.845000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HQ",
+            "text": "<FU>さんは何かやりたいことありますか？",
+            "timestamp": "2022-10-09T02:58:51.685000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "投資の勉強はしたいなって思いました",
+            "timestamp": "2022-10-09T02:59:14.257000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HQ",
+            "text": "お、いいですね",
+            "timestamp": "2022-10-09T02:59:20.195000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "慎重でリスク取れないタイプなので、多分大きく増やすことはできないかなとは思うんですけど",
+            "timestamp": "2022-10-09T03:00:24.548000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HQ",
+            "text": "ちょっとでも増えたらいいですよね",
+            "timestamp": "2022-10-09T03:00:35.904000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "貯金して眠らせておくだけよりはよさそうです",
+            "timestamp": "2022-10-09T03:00:51.937000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HQ",
+            "text": "まずはNISA口座作っておくといいですよ",
+            "timestamp": "2022-10-09T03:01:19.378000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "そうなんですか。",
+            "timestamp": "2022-10-09T03:01:28.436000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HQ",
+            "text": "一定額まで税金かからなくなります",
+            "timestamp": "2022-10-09T03:01:42.207000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "普通の口座だと税金かかるんですね",
+            "timestamp": "2022-10-09T03:01:54.862000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HQ",
+            "text": "はい、結構持ってかれます",
+            "timestamp": "2022-10-09T03:02:03.669000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "こんなところでも税金なんですね",
+            "timestamp": "2022-10-09T03:02:18.122000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HQ",
+            "text": "搾り取ってくるので、うまく回避していきましょう",
+            "timestamp": "2022-10-09T03:02:31.471000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "そうですね",
+            "timestamp": "2022-10-09T03:02:39.198000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HQ",
+            "text": "投資は始めるの若ければ若いほどいいですよ",
+            "timestamp": "2022-10-09T03:03:03.013000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "そうなんですね。",
+            "timestamp": "2022-10-09T03:03:16.341000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HQ",
+            "text": "はい、うまく投資できれば25歳で700万くらい稼げてる人もいます",
+            "timestamp": "2022-10-09T03:03:56.460000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "勉強次第ですね",
+            "timestamp": "2022-10-09T03:04:04.416000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HQ",
+            "text": "その人奨学金溶かしてるのでなんともいえないですけどね",
+            "timestamp": "2022-10-09T03:04:19.852000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9369,
+    "interlocutors": [
+        "BF",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-08T17:44:04.342000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんばんは、よろしくです！",
+            "timestamp": "2022-08-08T17:44:12.990000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "突然ですけど、食べ物だと何が好きですか？",
+            "timestamp": "2022-08-08T17:44:26.735000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "餃子ですかねえー",
+            "timestamp": "2022-08-08T17:44:38.181000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "餃子いいですねー！自分で作ったりもします？",
+            "timestamp": "2022-08-08T17:44:58.757000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "自分でも作ります！家族でよく作ってました。",
+            "timestamp": "2022-08-08T17:45:11.135000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "え！素敵！うちはもっぱら味の素の冷凍餃子です。",
+            "timestamp": "2022-08-08T17:45:33.953000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "冷凍も最近はクオリティ高いですもんね。",
+            "timestamp": "2022-08-08T17:45:54.587000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "そうなんですよ。水も油もいらないなんて革命起きた！と思いました。",
+            "timestamp": "2022-08-08T17:46:25.703000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "確かに便利だ。何が好きですか？食べ物",
+            "timestamp": "2022-08-08T17:46:38.584000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "ベタですけど、お寿司とかですかね。",
+            "timestamp": "2022-08-08T17:46:58.029000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "いいですねえ。どのネタが一番ですか",
+            "timestamp": "2022-08-08T17:47:14.978000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "私は白身が好きで、鯛とかヒラメとかかなあ。",
+            "timestamp": "2022-08-08T17:47:40.483000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "おーー渋い！鯛私も大好きです",
+            "timestamp": "2022-08-08T17:47:56.738000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "一緒！あなたもお寿司好きですか？",
+            "timestamp": "2022-08-08T17:48:43.028000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "好きですね！でも回転寿司は少しだけ苦手です",
+            "timestamp": "2022-08-08T17:48:59.248000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "あらら、どの辺が苦手ですか？",
+            "timestamp": "2022-08-08T17:49:29.317000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "なんか、あんまり長居するところじゃない感じしません？",
+            "timestamp": "2022-08-08T17:50:18.428000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "あはは！わかります！並んでいるお客さんがいると萎縮しちゃいますよね。",
+            "timestamp": "2022-08-08T17:50:45.210000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "そうなんですよ。なんかせわしないというか。早く食べて早く帰れって言われてるみたいで",
+            "timestamp": "2022-08-08T17:51:20.767000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "わかるー！でも、自分が並んでいる時もそういうオーラ出ちゃってるかも。",
+            "timestamp": "2022-08-08T17:51:48.602000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "分かります。私も出してます。　実は回転寿司ってギスギスしてますよね",
+            "timestamp": "2022-08-08T17:52:34.819000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "ですよねー！最近の回転寿司はどこも混んでますしね！",
+            "timestamp": "2022-08-08T17:53:00.299000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "そうそう。だからせっかく寿司ならいいところに行きたいですね！",
+            "timestamp": "2022-08-08T17:53:18.775000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "いいお寿司、子どもができてからあんまり言ってないかも。",
+            "timestamp": "2022-08-08T17:54:05.186000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "あーでもお子さんいらっしゃったら回転寿司は喜びそうですね！",
+            "timestamp": "2022-08-08T17:54:25.213000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "そうなんですよ、いくら食べてもいいよ！っていつも言ってます。",
+            "timestamp": "2022-08-08T17:54:38.477000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "子供の時は確かに、寿司は回ってなんぼだったなあ",
+            "timestamp": "2022-08-08T17:54:56.070000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "いいお寿司は大人になってから十分！さて、では、今日はこの辺で！",
+            "timestamp": "2022-08-08T17:55:20.506000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-08T17:55:29.542000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

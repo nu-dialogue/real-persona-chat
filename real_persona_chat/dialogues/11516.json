@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11516,
+    "interlocutors": [
+        "DW",
+        "EM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DW",
+            "text": "おはようございますー！",
+            "timestamp": "2022-08-23T09:51:40.406000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EM",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-23T09:51:46.092000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DW",
+            "text": "朝はしっかりご飯は食べました？",
+            "timestamp": "2022-08-23T09:51:58.831000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EM",
+            "text": "いえ、どちらかと言うと適当なタイプな物で今日も適当に済ませてしまいました。",
+            "timestamp": "2022-08-23T09:52:23.581000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DW",
+            "text": "そうなんですね！でも私も朝はボリューム少な目ですね。",
+            "timestamp": "2022-08-23T09:52:56.132000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EM",
+            "text": "パン派ですか？ご飯派ですか？",
+            "timestamp": "2022-08-23T09:53:11.695000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DW",
+            "text": "ごはんですー。あなたは？",
+            "timestamp": "2022-08-23T09:53:20.119000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EM",
+            "text": "どちらかと言うとパンですね。コーンフレークなんかが多いです。",
+            "timestamp": "2022-08-23T09:53:37.496000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DW",
+            "text": "最近、オートミールとかも流行ってますけど、食べます？",
+            "timestamp": "2022-08-23T09:53:59.973000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EM",
+            "text": "食べますね。ミューズリーなんかも。",
+            "timestamp": "2022-08-23T09:54:09.168000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DW",
+            "text": "ミューズリーって何ですか？",
+            "timestamp": "2022-08-23T09:54:22.664000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EM",
+            "text": "うーん、オートミールみたいなのですね！",
+            "timestamp": "2022-08-23T09:54:34.690000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DW",
+            "text": "なるほど。今、いろんな種類ありますもんね！",
+            "timestamp": "2022-08-23T09:54:56.856000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EM",
+            "text": "はい。グラノーラなんかも好きですが、ちょっとお高い。",
+            "timestamp": "2022-08-23T09:55:08.205000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DW",
+            "text": "あー、わかります。でも手軽で美味しい！",
+            "timestamp": "2022-08-23T09:55:20.975000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EM",
+            "text": "ですね。朝はもう本当に面倒な時はコーヒーだけでも構いません。",
+            "timestamp": "2022-08-23T09:55:36.143000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DW",
+            "text": "バターコーヒーって知ってます？",
+            "timestamp": "2022-08-23T09:55:51.874000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EM",
+            "text": "わかりますよ。普段ブラックなので飲んだことはないですが。",
+            "timestamp": "2022-08-23T09:56:06.668000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DW",
+            "text": "エネルギー取れていいらしいんですけど、やってみたら飲みにくかったです。",
+            "timestamp": "2022-08-23T09:56:30.709000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EM",
+            "text": "聞いた感じあまりうまいと思わなかったのもあります。ウィンナーコーヒーはどうですか？",
+            "timestamp": "2022-08-23T09:56:57.134000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DW",
+            "text": "ウインナーコーヒー、好きですよ！あなたは？",
+            "timestamp": "2022-08-23T09:57:14.435000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EM",
+            "text": "嫌いではないです。良く飲まれますか？",
+            "timestamp": "2022-08-23T09:57:28.505000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DW",
+            "text": "生クリームがある時は飲みますね。",
+            "timestamp": "2022-08-23T09:57:44.790000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EM",
+            "text": "一手間かけるのはいい事ですよね。",
+            "timestamp": "2022-08-23T09:58:04.444000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DW",
+            "text": "そうですね！朝飲むとコーヒーの香りで目が覚めます。",
+            "timestamp": "2022-08-23T09:58:48.103000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EM",
+            "text": "コーヒーにはそういうのを望んでいるところありますね。切り替わるきっかけにしています。",
+            "timestamp": "2022-08-23T09:59:08.768000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DW",
+            "text": "お出かけ前にも飲んだりします？",
+            "timestamp": "2022-08-23T09:59:25.962000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EM",
+            "text": "しますね。一日中だらだら飲んでしまいます。",
+            "timestamp": "2022-08-23T09:59:42.713000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DW",
+            "text": "一日3杯ぐらいが体にいいって言いますね。",
+            "timestamp": "2022-08-23T10:00:01.819000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EM",
+            "text": "かなり薄いのを飲んでるのでセーフだと信じたいです。",
+            "timestamp": "2022-08-23T10:00:14.963000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

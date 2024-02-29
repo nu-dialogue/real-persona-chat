@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11021,
+    "interlocutors": [
+        "DW",
+        "BW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DW",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T14:23:36.971000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BW",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-19T14:23:47.987000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DW",
+            "text": "今日の夜何食べるかは決めていますか？",
+            "timestamp": "2022-08-19T14:24:17.597000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BW",
+            "text": "まだ決めてないんですよね、あなたは決まってましたか？",
+            "timestamp": "2022-08-19T14:24:40.938000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DW",
+            "text": "いえー、鶏肉があるので、とりあえず鶏肉料理の予定です。",
+            "timestamp": "2022-08-19T14:25:04.885000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BW",
+            "text": "いいですね、毎日だと何を作ったらいいのか分からなくなりますね。",
+            "timestamp": "2022-08-19T14:25:39.043000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DW",
+            "text": "ほんと、ほんとそれです！",
+            "timestamp": "2022-08-19T14:25:47.714000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BW",
+            "text": "人に作ってもらったものの方が美味しく感じます。",
+            "timestamp": "2022-08-19T14:26:13.840000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DW",
+            "text": "同感です！実家に帰って母のご飯食べたいです。",
+            "timestamp": "2022-08-19T14:26:57.450000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BW",
+            "text": "私は家が近いので、たまに帰って食べさせてもらってますね。",
+            "timestamp": "2022-08-19T14:27:27.764000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DW",
+            "text": "いいですねー！お好きなおかずは何ですか？",
+            "timestamp": "2022-08-19T14:27:43.540000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BW",
+            "text": "和食は全般的に好きですね、あとはトマトの料理でしょうか。",
+            "timestamp": "2022-08-19T14:28:08.978000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DW",
+            "text": "トマトの料理ですか？",
+            "timestamp": "2022-08-19T14:28:21.458000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BW",
+            "text": "イタリアンや、トマトを炒めたりした料理ですかね。",
+            "timestamp": "2022-08-19T14:28:53.464000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DW",
+            "text": "な、なんてオシャレな！",
+            "timestamp": "2022-08-19T14:29:07.576000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BW",
+            "text": "トマトがすごい好きなんですよね、あなたは何が好きなんですか？",
+            "timestamp": "2022-08-19T14:29:26.963000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DW",
+            "text": "私もトマト好きですけど、基本生食ですね！",
+            "timestamp": "2022-08-19T14:29:44.204000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BW",
+            "text": "生でも食べますね、普段は和食が多いんですか？",
+            "timestamp": "2022-08-19T14:30:16.390000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DW",
+            "text": "うーん、割とそうですね。疲れると炊き込みご飯が食べたくなるんですよ。",
+            "timestamp": "2022-08-19T14:30:48.865000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BW",
+            "text": "炊き込みご飯、美味しいですね！いろいろ入れられますよね。",
+            "timestamp": "2022-08-19T14:31:12.067000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DW",
+            "text": "はい、椎茸たくさん入れたのが好きで。",
+            "timestamp": "2022-08-19T14:31:28.521000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BW",
+            "text": "美味しそうです、椎茸をいっぱい入れたのは食べたことないかもです。",
+            "timestamp": "2022-08-19T14:31:55.381000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DW",
+            "text": "椎茸とか、秋は他のきのこ類もたっぷり入れて作ります。",
+            "timestamp": "2022-08-19T14:32:23.723000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BW",
+            "text": "きのこは味が染みそうで、美味しそうですね。",
+            "timestamp": "2022-08-19T14:32:47.407000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DW",
+            "text": "はい、美味しいですよー！",
+            "timestamp": "2022-08-19T14:32:58.294000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BW",
+            "text": "今度、椎茸をたっぷり入れて炊いてみます。",
+            "timestamp": "2022-08-19T14:33:21.006000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DW",
+            "text": "ぜひ！お吸い物の素とか入れると簡単に出来るそうです。",
+            "timestamp": "2022-08-19T14:33:50.098000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BW",
+            "text": "ああ、あれには椎茸が入ってましたかね、味が出て良さそうですね。",
+            "timestamp": "2022-08-19T14:34:17.811000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DW",
+            "text": "元々味が決まってるので、失敗がないんですよね。",
+            "timestamp": "2022-08-19T14:34:42.269000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BW",
+            "text": "今度やってみますね！",
+            "timestamp": "2022-08-19T14:34:53.882000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

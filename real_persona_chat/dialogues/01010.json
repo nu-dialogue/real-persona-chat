@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1010,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "はじめまして",
+            "timestamp": "2022-08-11T17:54:05.135000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "はじめまして",
+            "timestamp": "2022-08-11T17:54:09.324000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-11T17:54:13.169000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "今夏休みですか？",
+            "timestamp": "2022-08-11T17:54:33.625000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "いえ、明日は出勤です",
+            "timestamp": "2022-08-11T17:54:45.189000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "そうでしたか、夏休みはとられないんですか？",
+            "timestamp": "2022-08-11T17:55:02.486000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "9月の連休にあわせてとろうかとおもいます",
+            "timestamp": "2022-08-11T17:55:18.940000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "大型連休ですね！",
+            "timestamp": "2022-08-11T17:55:34.021000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "はい、どこにも行く予定はないんですけどね",
+            "timestamp": "2022-08-11T17:56:04.045000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "ずっとおうちですか？",
+            "timestamp": "2022-08-11T17:56:20.973000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "近場に出かけるかどうするかくらいですね。",
+            "timestamp": "2022-08-11T17:56:43.329000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。",
+            "timestamp": "2022-08-11T17:56:52.903000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "あなたは夏休みとりましたか？",
+            "timestamp": "2022-08-11T17:57:07.418000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "私は今夏休み中ですよ。",
+            "timestamp": "2022-08-11T17:57:21.837000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "お出かけはしないんですか？",
+            "timestamp": "2022-08-11T17:57:35.398000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "旅行の予定があったんですが、コロナが悪化してきたので中止にしました",
+            "timestamp": "2022-08-11T17:58:00.063000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "たしかにコロナ、最近また感染者増えましたよね",
+            "timestamp": "2022-08-11T17:58:22.849000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "友人が感染したんですが、高熱にうなされたみたいで大変そうでした",
+            "timestamp": "2022-08-11T17:58:47.651000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "インフルエンザみたいな感じですか？",
+            "timestamp": "2022-08-11T17:59:04.516000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "そうですね、40度近い熱が数日続いたみたいです",
+            "timestamp": "2022-08-11T17:59:36.777000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "しんどそうですね、、、",
+            "timestamp": "2022-08-11T17:59:47.454000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "検査受けるのも大変だったそうです",
+            "timestamp": "2022-08-11T18:00:03.800000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "たらい回しにされるみたいな噂は聞きました",
+            "timestamp": "2022-08-11T18:01:04.843000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "整理券配られて数時間待たされるみたいですよ",
+            "timestamp": "2022-08-11T18:01:26.662000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "熱あるのにそれはきついですね",
+            "timestamp": "2022-08-11T18:01:44.134000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "感染しないようにお互い気を付けましょう",
+            "timestamp": "2022-08-11T18:02:02.327000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "そうですね、気を付けましょう",
+            "timestamp": "2022-08-11T18:02:12.393000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "では、そろそろ失礼します",
+            "timestamp": "2022-08-11T18:02:26.492000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "ありがとうございました",
+            "timestamp": "2022-08-11T18:02:33.456000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございました",
+            "timestamp": "2022-08-11T18:02:39.854000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

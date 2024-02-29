@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1477,
+    "interlocutors": [
+        "DI",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-15T20:04:44.993000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-15T20:04:47.382000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "この夏、どこかに行かれたり、行く予定はあったりしますか？",
+            "timestamp": "2022-08-15T20:05:03.330000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "近場ばかりですね。どこか行かれますか？",
+            "timestamp": "2022-08-15T20:05:19.135000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "そうなんですね。私は諏訪湖の花火を先日見に行ってきました。",
+            "timestamp": "2022-08-15T20:05:39.745000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "いいですね！きれいでしたか？",
+            "timestamp": "2022-08-15T20:05:53.122000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "きれいでしたよ！短縮版でしたが。",
+            "timestamp": "2022-08-15T20:06:02.777000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "ちなみに諏訪湖ってどちらですか？",
+            "timestamp": "2022-08-15T20:06:16.562000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "長野県の南の方にある湖です。",
+            "timestamp": "2022-08-15T20:06:33.485000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "長野ですか。あまり地理に詳しくなくてお恥ずかしいです。",
+            "timestamp": "2022-08-15T20:06:56.179000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "いえいえ、私もたまたま長野にゆかりがあっただけで、それがなければ知らなかったと思います。",
+            "timestamp": "2022-08-15T20:07:12.505000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "長野は割と涼しい方でしょうか。",
+            "timestamp": "2022-08-15T20:07:24.360000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "東京や大阪と比べたら涼しいですね。湿気が少ないです。",
+            "timestamp": "2022-08-15T20:07:53.347000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "昔スキーに行ったことがあります。",
+            "timestamp": "2022-08-15T20:08:06.077000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "いいですね。長野のどちらに行かれたんですか",
+            "timestamp": "2022-08-15T20:08:24.913000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "なんてところだったか忘れてしまいました。オリンピックがあったところだったかと。",
+            "timestamp": "2022-08-15T20:08:47.137000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "白馬ですかね？スノーレジャーだと有名ですね。",
+            "timestamp": "2022-08-15T20:09:07.944000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "たぶんそうだったと思います。",
+            "timestamp": "2022-08-15T20:09:26.071000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "私も去年行きました。最近はスキー行かれないんですか？",
+            "timestamp": "2022-08-15T20:09:47.650000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "実はあんまり得意じゃなくて。雪は大好きなんですけど。",
+            "timestamp": "2022-08-15T20:10:04.076000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "そうなんですね。雪は不便も多いですけど、大人になってもワクワクしますよね。",
+            "timestamp": "2022-08-15T20:10:29.371000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "普段雪が降らないところに住んでいるので、見るだけで楽しくなります。",
+            "timestamp": "2022-08-15T20:10:48.686000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "そうですか　雪合戦とかしたくなりますよね。",
+            "timestamp": "2022-08-15T20:11:10.217000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "いいですよね。童心に帰りますね。",
+            "timestamp": "2022-08-15T20:11:20.762000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "小さい頃は雪遊びとかできましたか？",
+            "timestamp": "2022-08-15T20:11:40.006000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "いえ、地元は全然降らなかったので遠くにあそびにいったときくらいだけです。",
+            "timestamp": "2022-08-15T20:12:05.944000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "そうなりますよね。私も同じ感じだったので、今になっても雪で遊びたくなります。",
+            "timestamp": "2022-08-15T20:12:37.057000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "そうなんですよね。特別感がいまでもありますね。",
+            "timestamp": "2022-08-15T20:12:50.874000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "ありますねー。　ありがとうございました。",
+            "timestamp": "2022-08-15T20:13:06.716000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-15T20:13:13.326000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

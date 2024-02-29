@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1274,
+    "interlocutors": [
+        "BI",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-13T15:32:07.318000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-13T15:32:14.950000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "お酒はお好きですか？",
+            "timestamp": "2022-08-13T15:32:21.598000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "すきですよ。",
+            "timestamp": "2022-08-13T15:32:30.536000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "どんな種類を飲まれます？",
+            "timestamp": "2022-08-13T15:32:42.606000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "まずはビールですかね。",
+            "timestamp": "2022-08-13T15:32:55.143000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "ですよねー！では次は？",
+            "timestamp": "2022-08-13T15:33:07.558000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "家で飲むならハイボールを作って飲んでます。",
+            "timestamp": "2022-08-13T15:33:27.139000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "ご自宅にウィスキー常備、な感じでしょうか。",
+            "timestamp": "2022-08-13T15:33:44.804000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "そうですね。おいてます。",
+            "timestamp": "2022-08-13T15:33:54.728000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "ハイボールは簡単に作れて、そしておいしいですよね！",
+            "timestamp": "2022-08-13T15:34:17.016000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "量を調節できるのでちょこちょこ飲んでますね。",
+            "timestamp": "2022-08-13T15:34:39.243000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "そうですね。濃いめ、とか自由ですもんね。おつまみはどんなものを？",
+            "timestamp": "2022-08-13T15:35:12.162000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "ナッツとかポップコーンですね。",
+            "timestamp": "2022-08-13T15:35:32.930000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "乾きもの系ですね。食事しながらではないんですね！",
+            "timestamp": "2022-08-13T15:36:02.444000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "食事中はあまり飲まないですね。あなたは？",
+            "timestamp": "2022-08-13T15:36:16.688000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "私は夕飯作りながら飲み始めて、ずっと飲んでます。",
+            "timestamp": "2022-08-13T15:36:37.588000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "どんなものを飲まれますか？",
+            "timestamp": "2022-08-13T15:36:49.958000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "ビールに始まり、最近は日本酒やスパークリングワインが多いです。",
+            "timestamp": "2022-08-13T15:37:13.909000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "おつまみはどんなですか？",
+            "timestamp": "2022-08-13T15:37:56.714000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "休みに入って、夫がチーズやウィンナーをスモークしてくれます。",
+            "timestamp": "2022-08-13T15:38:24.975000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "おお！いいですね。燻製ですね。",
+            "timestamp": "2022-08-13T15:38:37.899000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "はい！夫もよく飲むので、おつまみに食べたいということで。",
+            "timestamp": "2022-08-13T15:39:00.460000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "なにかこれはおいしかったというものはありましたか。",
+            "timestamp": "2022-08-13T15:39:22.546000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "コストコで買ったチーズがおいしかったです。銘柄とかわからないんですけど。",
+            "timestamp": "2022-08-13T15:39:59.021000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "おいしいおつまみがあるとお酒も進みますよね。",
+            "timestamp": "2022-08-13T15:40:21.736000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "ですね。止まらなくなります。次の日お酒臭さが残って後悔することも度々。",
+            "timestamp": "2022-08-13T15:40:51.373000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "それはそれは。おたがいほどほどにしないとですね。",
+            "timestamp": "2022-08-13T15:41:12.242000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "そうですね、健康のためにはほどほどが大事ですね！",
+            "timestamp": "2022-08-13T15:41:32.596000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-13T15:41:42.426000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

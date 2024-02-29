@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 1585,
+    "interlocutors": [
+        "CF",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "こんばんは、もう少しで明日になってしまいますね。",
+            "timestamp": "2022-08-16T23:33:44.363000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "そうですね。今日も一日終わってしまいました",
+            "timestamp": "2022-08-16T23:34:04.067000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "お疲れ様です。夜の静かな時間帯にはゆっくりしたいところです。",
+            "timestamp": "2022-08-16T23:34:42.204000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "そいう時間には普段何をされますか？",
+            "timestamp": "2022-08-16T23:35:00.314000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "今は仕事に関する試験勉強をしてますが普段は本を読みます。",
+            "timestamp": "2022-08-16T23:35:24.196000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "読書家ですか？",
+            "timestamp": "2022-08-16T23:35:56.797000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "どうでしょう、自分では読書家な方だとは思ってますが。",
+            "timestamp": "2022-08-16T23:36:21.879000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "小説とか読みますか？",
+            "timestamp": "2022-08-16T23:36:36.368000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "読みます！",
+            "timestamp": "2022-08-16T23:36:46.272000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "司馬遼太郎とかよみますか？",
+            "timestamp": "2022-08-16T23:37:09.646000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "すごい懐かしいですね。燃えよ剣は司馬遼太郎でしたっけ？",
+            "timestamp": "2022-08-16T23:37:39.890000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "はい、そうだったと思います。たぶん",
+            "timestamp": "2022-08-16T23:38:15.146000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "そうですよね確か。司馬先生のはこれしか読んだことがないのですが、高校生のとき読みました。",
+            "timestamp": "2022-08-16T23:38:57.638000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "そうなんですね。私は疎いのですが近所に先生の博物館があります",
+            "timestamp": "2022-08-16T23:39:38.230000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "大阪ですかね。行ってみたいところのひとつです。",
+            "timestamp": "2022-08-16T23:40:18.479000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "本読んでたら行きたくなるんでしょうが、私は全然で。",
+            "timestamp": "2022-08-16T23:40:50.316000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "所謂聖地巡礼というやつですね。",
+            "timestamp": "2022-08-16T23:41:23.408000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "ですかね。それで読もうとしてさ坂の上の雲ってのを借りたんですが最後まで読めませんでした",
+            "timestamp": "2022-08-16T23:42:13.968000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "ありましたね。そういうことがあっても全然いいと思いますよ。",
+            "timestamp": "2022-08-16T23:42:59.750000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "いいんですかね。面白い本ありますか？初心者でも読めそうな",
+            "timestamp": "2022-08-16T23:43:40.041000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "なんでもよければエッセイとかはどうでしょう？最近は芸人さんとかも書いてますし。",
+            "timestamp": "2022-08-16T23:44:07.879000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "なるほど。それなら読めそうですね",
+            "timestamp": "2022-08-16T23:44:56.152000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "エッセイは途中で読むのやめたりかいつまんで読んでも楽しめますしね。",
+            "timestamp": "2022-08-16T23:45:20.874000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "そうなんですね。ちょっと探してみます。小説で読んで面白かったのは何ですか？",
+            "timestamp": "2022-08-16T23:45:59.504000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "うーん、色々ありますが、私は警察小説が好きなのでこの手の本は大体どれも好きです。",
+            "timestamp": "2022-08-16T23:46:32.880000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "ドラマとか映画になったりしてますか？",
+            "timestamp": "2022-08-16T23:47:01.181000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "最近読んだのではドラマ化などはしてないですね。面白かったんですが。",
+            "timestamp": "2022-08-16T23:47:31.921000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "そうですか。時間ある時に探してみます。本読んでる人賢そうに見えますよね",
+            "timestamp": "2022-08-16T23:48:13.380000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "そうですね。私は全然賢くないのですが。",
+            "timestamp": "2022-08-16T23:48:38.238000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "きっとそんなことないと思います。ありがとうございました。",
+            "timestamp": "2022-08-16T23:48:54.259000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CF",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-16T23:49:05.995000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

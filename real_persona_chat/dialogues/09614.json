@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9614,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-08T22:46:08.108000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-08T22:46:19.135000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "本日はよろしくお願いします。",
+            "timestamp": "2022-08-08T22:58:25.196000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします。芦川さんは何か趣味はありますか？",
+            "timestamp": "2022-08-08T22:59:24.975000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "なろう系小説にはまってます",
+            "timestamp": "2022-08-08T23:00:36.869000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "なろう系小説ってなんですか？",
+            "timestamp": "2022-08-08T23:01:00.483000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "小説家になろうというサイトに載っている小説のことです。異世界転生ものが多いです",
+            "timestamp": "2022-08-08T23:02:10.807000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "そうなんですね。おすすめはありますか？",
+            "timestamp": "2022-08-08T23:02:28.618000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "転生したらスライムだった件とか面白いですよ",
+            "timestamp": "2022-08-08T23:03:31.415000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "それ知ってます。なろう系小説だったんですね。",
+            "timestamp": "2022-08-08T23:03:58.237000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよ。アニメも漫画もありますよね",
+            "timestamp": "2022-08-08T23:04:40.539000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "小説家になろうっていうサイトは有料サイトですか？",
+            "timestamp": "2022-08-08T23:05:34.576000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "基本ただで読めますよ。",
+            "timestamp": "2022-08-08T23:05:52.843000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "そうなんですか？",
+            "timestamp": "2022-08-08T23:06:23.679000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "素人が書いて売れたらアニメ化とかコミカライズする流れみたいです",
+            "timestamp": "2022-08-08T23:06:58.439000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "なるほど。投稿もできる感じなんですかね。",
+            "timestamp": "2022-08-08T23:07:30.508000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "そうです。創作とかご興味あります？",
+            "timestamp": "2022-08-08T23:07:55.113000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "昔ちょっと漫画を描いてた時期があるんですけど、黒歴史ですね",
+            "timestamp": "2022-08-08T23:08:52.695000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "漫画描けるんですか？すごい！",
+            "timestamp": "2022-08-08T23:09:17.081000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "いやー、昔の話です。今はもう気力も体力も熱意もないですね",
+            "timestamp": "2022-08-08T23:10:30.985000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "創作ってエネルギー必要そうですもんね",
+            "timestamp": "2022-08-08T23:10:47.026000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "<CS>さんは読む専門ですか？",
+            "timestamp": "2022-08-08T23:11:02.744000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "そうですね。創作したことないです。",
+            "timestamp": "2022-08-08T23:12:01.294000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "挑戦してみたら意外と人気になるかもしれないですよ",
+            "timestamp": "2022-08-08T23:12:37.979000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "いやー、たぶん三日坊主で終わる気がします",
+            "timestamp": "2022-08-08T23:13:25.571000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "社会人だとなかなか時間もとれないですもんね",
+            "timestamp": "2022-08-08T23:13:48.976000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "社会人やりながら創作活動してる人もいますけど、ほんとに尊敬です",
+            "timestamp": "2022-08-08T23:14:50.146000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "書き続ける気力を保つ方法が知りたいです",
+            "timestamp": "2022-08-08T23:15:28.899000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "ですね。あと時間管理も。",
+            "timestamp": "2022-08-08T23:15:48.382000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "そうですねぇ",
+            "timestamp": "2022-08-08T23:15:59.393000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

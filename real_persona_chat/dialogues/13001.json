@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13001,
+    "interlocutors": [
+        "FR",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T15:06:32.174000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-09-15T15:06:41.668000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "今日は天気良いですね。",
+            "timestamp": "2022-09-15T15:06:49.617000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "はい、こちらも快晴です",
+            "timestamp": "2022-09-15T15:07:10.028000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "洗濯物を先ほど干しました。",
+            "timestamp": "2022-09-15T15:07:19.688000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "私も今日は洗濯したのですが、完了せず、外出してきてしまいました。",
+            "timestamp": "2022-09-15T15:07:46.326000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "まだ洗濯機の中にありますか？",
+            "timestamp": "2022-09-15T15:08:01.804000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "はい。毛布を洗ったら洗濯機の調子がいまいちで、心配です。",
+            "timestamp": "2022-09-15T15:08:24.919000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。私も良く回しっぱなしになっちゃいます。",
+            "timestamp": "2022-09-15T15:08:40.974000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "洗濯機、便利ですよね、毛布は重量に偏りが出て、脱水が上手くいかないことがあるそうです。",
+            "timestamp": "2022-09-15T15:09:09.663000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "なるほど。壊れないか心配ですね。",
+            "timestamp": "2022-09-15T15:09:29.023000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "そうなんです。買い替えたばかりなのでしばらくはよいと思うのですが、壊れると大変です。",
+            "timestamp": "2022-09-15T15:09:48.122000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "そうですよね。買い換えたばかりなのですか！",
+            "timestamp": "2022-09-15T15:10:07.537000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "8年使っていて、寿命がきたようでした。この夏買い換えました。",
+            "timestamp": "2022-09-15T15:10:32.037000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。何か新しい機能はついてますか？",
+            "timestamp": "2022-09-15T15:10:46.157000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "子供が県外に出ましたので、ランクダウンにしました。前の方がよかったです。",
+            "timestamp": "2022-09-15T15:11:13.811000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。少し小さめでしょうか？",
+            "timestamp": "2022-09-15T15:11:29.506000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "はい。ペットが汚すようになったので、小さくしなくてもよかったのに。",
+            "timestamp": "2022-09-15T15:11:53.886000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "ペット飼ってるんですね。なんですか？",
+            "timestamp": "2022-09-15T15:12:11.055000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "猫4匹飼っています。",
+            "timestamp": "2022-09-15T15:12:25.605000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "四匹ですか！大家族ですね。",
+            "timestamp": "2022-09-15T15:12:41.543000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "はい。前は7匹いたんです。",
+            "timestamp": "2022-09-15T15:12:57.214000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "すごいですね。お世話大変そうです。",
+            "timestamp": "2022-09-15T15:13:10.254000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "はい。だんだん年をとってきたので、いろいろと汚すようになってきて大変になりました。",
+            "timestamp": "2022-09-15T15:13:28.872000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。その四匹はみな同じくらいの年齢なんですか？",
+            "timestamp": "2022-09-15T15:13:45.848000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "1匹はお父さん猫で他3匹は子供です。",
+            "timestamp": "2022-09-15T15:14:00.060000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "なるほど。そういうことなんですね。",
+            "timestamp": "2022-09-15T15:14:15.467000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "でもお父さんは若い時に子供を作ったので年齢的にはあんまり変わらないです。",
+            "timestamp": "2022-09-15T15:14:35.092000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "なるほど。飼ったことないので、きっと一匹でも私では手一杯です。",
+            "timestamp": "2022-09-15T15:15:02.188000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "子供を育てるよりは楽ですが。",
+            "timestamp": "2022-09-15T15:15:20.263000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

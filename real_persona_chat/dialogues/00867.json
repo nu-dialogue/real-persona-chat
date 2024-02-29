@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 867,
+    "interlocutors": [
+        "BE",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BE",
+            "text": "こんにちは",
+            "timestamp": "2022-08-10T17:24:23.424000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-10T17:24:31.874000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BE",
+            "text": "ペットは飼っていますか？",
+            "timestamp": "2022-08-10T17:24:39.541000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "ペットと言いますか、魚と昆虫は飼育しています。",
+            "timestamp": "2022-08-10T17:24:58.117000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BE",
+            "text": "魚と昆虫ですか。なんだかすごそうです。",
+            "timestamp": "2022-08-10T17:25:19.921000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "昆虫は子供ので、水槽は熱帯魚と金魚に２台置いてます。",
+            "timestamp": "2022-08-10T17:25:50.418000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BE",
+            "text": "管理が大変なのではないですか？",
+            "timestamp": "2022-08-10T17:26:08.974000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "そうなんですよねー、途中から水槽の掃除は夫の仕事になりました。",
+            "timestamp": "2022-08-10T17:26:33.363000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BE",
+            "text": "水質管理は気を使いますよね、うちも昔飼育していました。",
+            "timestamp": "2022-08-10T17:27:12.695000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "そうなんです。何を飼ってたのでしょうか？",
+            "timestamp": "2022-08-10T17:27:37.451000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BE",
+            "text": "熱帯魚です！たしかグッピーとか？",
+            "timestamp": "2022-08-10T17:27:55.149000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "小さいのですね。熱帯魚は小さいほうが可愛いと思います！",
+            "timestamp": "2022-08-10T17:28:15.785000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BE",
+            "text": "大きいのを飼育してるんですか？",
+            "timestamp": "2022-08-10T17:28:43.211000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "以前はピラニア飼ってましたが、今は小さい熱帯魚しかいません。",
+            "timestamp": "2022-08-10T17:29:18.631000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BE",
+            "text": "ピラニアですか！すごい！",
+            "timestamp": "2022-08-10T17:29:34.543000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "実はずっと飼ってみたくって。夢だったのもあります。",
+            "timestamp": "2022-08-10T17:29:51.962000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BE",
+            "text": "ピラニアって餌は何なんでしょうか？",
+            "timestamp": "2022-08-10T17:30:21.243000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "赤虫も食べますが、水槽が臭くなるので肉食用の固形のエサを食べるんです。",
+            "timestamp": "2022-08-10T17:30:51.072000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BE",
+            "text": "そういうのがあるんですね、生物を食べているのかと。",
+            "timestamp": "2022-08-10T17:31:12.480000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "生魚食べますよ！グッピーが増えすぎた時に、エサにしたこともあります。",
+            "timestamp": "2022-08-10T17:31:40.430000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BE",
+            "text": "グッピーがえさになるなんて！",
+            "timestamp": "2022-08-10T17:32:02.730000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "ちょっと可哀そうですが。本当は小魚買ってきて、エサ用の水槽で飼ったりするのかと。",
+            "timestamp": "2022-08-10T17:32:36.006000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BE",
+            "text": "結構えさにも手間がかかるんですね。",
+            "timestamp": "2022-08-10T17:33:00.288000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "多分、体も生魚のほうが大きくなるのかも知れませんねー。",
+            "timestamp": "2022-08-10T17:33:35.559000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BE",
+            "text": "なるほど、そういうのって大きくしたいんでしょうか？",
+            "timestamp": "2022-08-10T17:34:04.146000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "大きくなる魚は、やっぱり大きくなるまで育てたい！って思いますよ。",
+            "timestamp": "2022-08-10T17:34:45.145000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BE",
+            "text": "育ってるのみると嬉しく思いますよね。",
+            "timestamp": "2022-08-10T17:35:07.767000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "けっこう大きくなったのに、急死しちゃった時はすごく悲しかったです。",
+            "timestamp": "2022-08-10T17:35:33.617000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BE",
+            "text": "それはショックが大きいです、、",
+            "timestamp": "2022-08-10T17:35:47.789000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "なので今は小さいのしか飼ってないんですよね。それではまた！",
+            "timestamp": "2022-08-10T17:36:17.175000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "dialogue_id": 13039,
+    "interlocutors": [
+        "FA",
+        "GJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-16T00:13:44.339000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-16T00:14:00.575000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "海外に行ったことはございましたか？",
+            "timestamp": "2022-09-16T00:14:21.464000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GJ",
+            "text": "はい。ありますよ！だいぶ前ですが。",
+            "timestamp": "2022-09-16T00:14:45.184000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "いいですね！私はないんです。どちらの国へ行かれたのですか？",
+            "timestamp": "2022-09-16T00:15:13.001000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GJ",
+            "text": "イギリス、オランダ、ドイツ、ブラジル、インドです！",
+            "timestamp": "2022-09-16T00:15:44.730000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "わー！色々行かれたんですね！",
+            "timestamp": "2022-09-16T00:16:21.787000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GJ",
+            "text": "はい！どこか行きたい国はありますか？",
+            "timestamp": "2022-09-16T00:16:52.925000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "インドに行ってみたいと思いますよー！",
+            "timestamp": "2022-09-16T00:17:05.674000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GJ",
+            "text": "インドなんですね！良かったですよ！",
+            "timestamp": "2022-09-16T00:17:46.740000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！おすすめのスポットってありますか？",
+            "timestamp": "2022-09-16T00:18:41.855000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GJ",
+            "text": "んー、ガンジス川は見に行ってほしいです！入らなくてもいいですが。",
+            "timestamp": "2022-09-16T00:19:23.143000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "ガンジス川！沐浴する人が多いんですよね！",
+            "timestamp": "2022-09-16T00:20:00.636000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GJ",
+            "text": "はい！自分も入りました！入ってもいいと思えるなら入ることをお勧めします！",
+            "timestamp": "2022-09-16T00:20:34.951000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "そうだったんですね！水はやっぱり濁ってましたか？",
+            "timestamp": "2022-09-16T00:21:53.553000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GJ",
+            "text": "はい。濁ってますし、少し離れたところでは実際に死体を流してるところも見ました。",
+            "timestamp": "2022-09-16T00:22:38.096000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "わー！そ、そうでしたか！知れてよかったです！",
+            "timestamp": "2022-09-16T00:23:28.519000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GJ",
+            "text": "日本とは違う文化だったりに触れられたのは良かったです！あとカレーは美味しいですよ！",
+            "timestamp": "2022-09-16T00:24:35.689000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！カレーはやっぱり辛いんでしょうか？",
+            "timestamp": "2022-09-16T00:26:23.475000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GJ",
+            "text": "辛くないカレーもあります！辛いの苦手ですか？",
+            "timestamp": "2022-09-16T00:27:07.624000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "辛いの好きです！",
+            "timestamp": "2022-09-16T00:27:21.549000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GJ",
+            "text": "好きならいいですね！きっと美味しく食べられますよ！あとラッシーは格別です！",
+            "timestamp": "2022-09-16T00:27:50.195000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "よかったです！ラッシー？何でしょう？",
+            "timestamp": "2022-09-16T00:28:14.366000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GJ",
+            "text": "はい！飲み物です！日本のインドカレー屋さんにもあるので、機会があれば飲んでみてください！",
+            "timestamp": "2022-09-16T00:29:11.042000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "分かりました！楽しみが増えました！",
+            "timestamp": "2022-09-16T00:29:28.859000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GJ",
+            "text": "甘いものが好きならきっと好きなはずです！",
+            "timestamp": "2022-09-16T00:30:10.354000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "わー！早く飲んでみたいですよー！",
+            "timestamp": "2022-09-16T00:30:29.164000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GJ",
+            "text": "きっと気に入ります！ありがとうございました！",
+            "timestamp": "2022-09-16T00:30:49.634000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-09-16T00:30:55.862000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11602,
+    "interlocutors": [
+        "EV",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-23T20:50:44.073000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんばんは。よろしくお願いします。",
+            "timestamp": "2022-08-23T20:50:57.109000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "夕飯はもう食べましたか？",
+            "timestamp": "2022-08-23T20:51:07.029000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "はい。食べました。",
+            "timestamp": "2022-08-23T20:51:21.530000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "メニューは何でしたか？",
+            "timestamp": "2022-08-23T20:51:33.412000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "ゴーヤチャンプルーでした。",
+            "timestamp": "2022-08-23T20:51:49.579000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "沖縄っぽいですね。ゴーヤはお好きですか？",
+            "timestamp": "2022-08-23T20:52:04.457000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "はい。ゴーヤ好きです。にがいですけど。",
+            "timestamp": "2022-08-23T20:52:32.285000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "珍しいですね。僕はさすがに苦すぎて無理です",
+            "timestamp": "2022-08-23T20:52:53.348000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "珍しいですか。やっぱりにがいですしね。",
+            "timestamp": "2022-08-23T20:53:18.913000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "僕もピーマンは結構好きですが、ゴーヤが好きな方は珍しいと思いますよ",
+            "timestamp": "2022-08-23T20:53:44.571000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね。へー。相当珍しいんですね。",
+            "timestamp": "2022-08-23T20:54:13.079000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "僕の周りにはいないです。少なくとも",
+            "timestamp": "2022-08-23T20:54:28.782000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "すごいなー。",
+            "timestamp": "2022-08-23T20:54:48.713000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "自炊は結構されますか？",
+            "timestamp": "2022-08-23T20:55:05.613000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "あまりしないです。あなたは？",
+            "timestamp": "2022-08-23T20:55:38.559000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "僕もあまりしないです。惣菜や宅配弁当で済ませてしまいます",
+            "timestamp": "2022-08-23T20:55:58.813000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね。最近は総菜も宅配もおいしいですよね。",
+            "timestamp": "2022-08-23T20:56:24.623000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "はい、クオリティの高さによく驚かされます。",
+            "timestamp": "2022-08-23T20:56:39.086000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "ウーバーイーツは使いますか？",
+            "timestamp": "2022-08-23T20:56:54.211000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "いいえ、使ったことないです",
+            "timestamp": "2022-08-23T20:57:05.285000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね。今日の夕飯メニューは何でしたか？",
+            "timestamp": "2022-08-23T20:57:42.825000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "アジフライでした。スーパーで買いました",
+            "timestamp": "2022-08-23T20:57:54.475000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "アジいいですね。アジフライ好きですよ。",
+            "timestamp": "2022-08-23T20:58:19.806000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "魚は食べたいけど刺身の気分では無かったのですが、ちょうどいいものがありました",
+            "timestamp": "2022-08-23T20:58:44.775000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "そういう日もありますよね。",
+            "timestamp": "2022-08-23T20:59:02.151000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "なかなかね。ウーバーは高いけど便利なので依存してしまいそう",
+            "timestamp": "2022-08-23T20:59:25.342000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "高いですよね。",
+            "timestamp": "2022-08-23T20:59:47.732000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "はい、びっくりするお値段でした。",
+            "timestamp": "2022-08-23T20:59:58.134000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "ほんとに！",
+            "timestamp": "2022-08-23T21:00:16.093000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 1,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

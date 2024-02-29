@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 231,
+    "interlocutors": [
+        "AT",
+        "AU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "初めまして、よろしくお願いします。",
+            "timestamp": "2022-08-11T13:00:28.028000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AU",
+            "text": "はじめまして！　よろしくお願いします。",
+            "timestamp": "2022-08-11T13:00:41.863000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "本日も暑いですね！",
+            "timestamp": "2022-08-11T13:01:00.437000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AU",
+            "text": "ほんと毎日暑くてイヤになりますね。　夏バテしていないですか？",
+            "timestamp": "2022-08-11T13:01:25.357000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "今のところ大丈夫です、あなたはどうですか？",
+            "timestamp": "2022-08-11T13:01:42.593000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AU",
+            "text": "私は、毎日クーラーの効いた部屋で仕事しているので、なんとか元気に過ごせていますよ。",
+            "timestamp": "2022-08-11T13:02:32.129000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "それなら安心ですね、私は今年まだ一度も家でクーラー使ってないです。",
+            "timestamp": "2022-08-11T13:02:58.773000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AU",
+            "text": "えー！？　それは、すごいですね！　暑さに強いんですか？",
+            "timestamp": "2022-08-11T13:03:31.352000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "もしかしたらそうかもしれません、夏は好きです。",
+            "timestamp": "2022-08-11T13:03:56.563000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AU",
+            "text": "私なら耐えられません。　では、扇風機で過ごされてる感じなんですか？",
+            "timestamp": "2022-08-11T13:04:37.391000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "はい、扇風機は常時稼働しています。それでちょうど良いって感じです。",
+            "timestamp": "2022-08-11T13:04:58.903000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AU",
+            "text": "それは、節電にもなりますね。　気温は、それほど暑くない地域なのですか？",
+            "timestamp": "2022-08-11T13:05:38.647000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "いえ、今日も猛暑日です。外はとても暑そうです。",
+            "timestamp": "2022-08-11T13:06:22.664000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AU",
+            "text": "こちらは、24時間エアコンつけっぱなしなので、電気代が怖いです。",
+            "timestamp": "2022-08-11T13:06:48.623000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "今年電気代高いですよね。",
+            "timestamp": "2022-08-11T13:07:18.727000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AU",
+            "text": "電気代ほんと高くなりましたね。　10月からはまたいろいろ値上がりするそうですね。",
+            "timestamp": "2022-08-11T13:07:50.374000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "たまには色々値下がりするというニュースを見たいです。",
+            "timestamp": "2022-08-11T13:08:25.922000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AU",
+            "text": "ほんとそうです。　たまには、いろいろ値下がりしますよーって良いニュースあるといいですよねー。",
+            "timestamp": "2022-08-11T13:09:03.776000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "そのとおりですね、でもエアコンも他も高いからといって止めれるものでもないですよね。",
+            "timestamp": "2022-08-11T13:09:49.759000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AU",
+            "text": "そうなんです、エアコン切ったら夜でも眠るどころじゃなく、発狂しそうです。",
+            "timestamp": "2022-08-11T13:10:28.859000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "私も一度エアコンの生活に慣れると扇風機には戻れないと思います。",
+            "timestamp": "2022-08-11T13:11:00.243000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AU",
+            "text": "そうなんですよね、こちらは扇風機にすると温風で全然涼しくないんですよね。",
+            "timestamp": "2022-08-11T13:11:54.057000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "なるほど、扇風機とエアコンを一緒に使うと電気代の節約になると聞きました。",
+            "timestamp": "2022-08-11T13:12:27.791000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AU",
+            "text": "そうらしいですね。　なのでうちもサーキュレーターと一緒に使ってますがあまり実感はないんですよー。",
+            "timestamp": "2022-08-11T13:13:06.303000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "サーキュレーターを上に向けても実感無しでしょうか？",
+            "timestamp": "2022-08-11T13:13:56.250000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AU",
+            "text": "あまり効果実感までは、感じてないですね。　扇風機の前に凍らせたペットボトルを置くといいらしいですね。",
+            "timestamp": "2022-08-11T13:14:48.158000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "確かに効果ありそうですね、溶けてきたら床がびしょびしょになりそうですが。",
+            "timestamp": "2022-08-11T13:16:04.321000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AU",
+            "text": "洗面器みたいなのに入れて置くといいかもですね。　気化熱で、涼しくなるらしいです。",
+            "timestamp": "2022-08-11T13:17:16.867000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "それだけでも効果ありそうですね、有益な情報ありがとうございます。",
+            "timestamp": "2022-08-11T13:17:21.932000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AU",
+            "text": "いえいえ、またお話しましょう。",
+            "timestamp": "2022-08-11T13:17:40.536000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

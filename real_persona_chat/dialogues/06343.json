@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6343,
+    "interlocutors": [
+        "GD",
+        "HP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GD",
+            "text": "おはようございますー。",
+            "timestamp": "2022-10-06T10:07:32.730000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HP",
+            "text": "おはようございます！",
+            "timestamp": "2022-10-06T10:07:45"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GD",
+            "text": "明後日から連休ですね。お出かけの予定はありますか？",
+            "timestamp": "2022-10-06T10:08:31.944000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HP",
+            "text": "ですね！バイトと、友人と遊ぶ予定があります！",
+            "timestamp": "2022-10-06T10:09:09"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GD",
+            "text": "忙しくなりそうですね。バイトは何をしているんですか？",
+            "timestamp": "2022-10-06T10:09:26.882000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HP",
+            "text": "最近はイベントスタッフのバイトを単発でしています。",
+            "timestamp": "2022-10-06T10:10:00.092000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GD",
+            "text": "へえ！イベントスタッフってライブの警備員さんみたいなことですか？",
+            "timestamp": "2022-10-06T10:11:08.190000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HP",
+            "text": "そうです！あとは来場者の受付とかもしますね。",
+            "timestamp": "2022-10-06T10:11:52"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GD",
+            "text": "イベントはどんなものが多いですか？お芝居とかですか？",
+            "timestamp": "2022-10-06T10:12:38.835000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HP",
+            "text": "お祭りとか、展示会が多い気がします。お芝居もあったら是非やりたいんですけどね…！",
+            "timestamp": "2022-10-06T10:13:59"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GD",
+            "text": "舞台お好きなんですか？",
+            "timestamp": "2022-10-06T10:14:19.259000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HP",
+            "text": "実は演劇サークルに入っていて、結構見に行くんです。",
+            "timestamp": "2022-10-06T10:15:01"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GD",
+            "text": "おお！自分たちで公演打ったりするんですか？私も少しかじってました。",
+            "timestamp": "2022-10-06T10:15:31.670000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HP",
+            "text": "本当ですか！年３回、小劇場で公演してます。",
+            "timestamp": "2022-10-06T10:16:15"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GD",
+            "text": "結構やってますねー。私は声優の養成所に行っていたことがあって、何度か舞台やりました。",
+            "timestamp": "2022-10-06T10:17:05.793000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HP",
+            "text": "えええ、すごい！養成所…！演劇みたいなことをするんですか？",
+            "timestamp": "2022-10-06T10:18:02"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GD",
+            "text": "舞台役者ではないので、声の表現の事が多かったですが、年に一回演技の勉強で舞台やってました。",
+            "timestamp": "2022-10-06T10:18:38.993000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HP",
+            "text": "そうなんですね！アフレコとかもするんですか？",
+            "timestamp": "2022-10-06T10:19:15"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GD",
+            "text": "レッスンで数回しました。楽しかったです。",
+            "timestamp": "2022-10-06T10:20:06.078000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HP",
+            "text": "楽しそうです…！アニメとかお好きですか？",
+            "timestamp": "2022-10-06T10:21:08"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GD",
+            "text": "好きです。最近は数が多くてあまり見れてないですけど。",
+            "timestamp": "2022-10-06T10:21:29.272000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HP",
+            "text": "10月いっぱい始まったみたいですよね！何のアニメが好きですか？",
+            "timestamp": "2022-10-06T10:22:16"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GD",
+            "text": "来年の吸血鬼すぐ死ぬを楽しみにしてます。スパイファミリーも見てます。",
+            "timestamp": "2022-10-06T10:23:05.681000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HP",
+            "text": "スパイファミリー、一期見ました！面白いですよね。",
+            "timestamp": "2022-10-06T10:23:48"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GD",
+            "text": "もうアーニャが可愛くて！あと星野源さん好きなのでエンディングほっこりします。",
+            "timestamp": "2022-10-06T10:24:12.114000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HP",
+            "text": "アーーニャ！すごい可愛くて真似したくなります。あのエンディングも良いですよね！",
+            "timestamp": "2022-10-06T10:25:00"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GD",
+            "text": "2期がはじまりましたが歌が変わったのが残念です。でも良いEDだったのでよしとします。",
+            "timestamp": "2022-10-06T10:25:51.619000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HP",
+            "text": "まだ見てないんですけど、歌変わっちゃったんですか…！ED楽しみです！",
+            "timestamp": "2022-10-06T10:26:31"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GD",
+            "text": "1期はキラキラな感じでしたが、今回は色鮮やかでおいしそう！って感じです。",
+            "timestamp": "2022-10-06T10:26:54.745000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HP",
+            "text": "おいしそう！早く見たいです…！",
+            "timestamp": "2022-10-06T10:27:35"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

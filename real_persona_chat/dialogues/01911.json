@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1911,
+    "interlocutors": [
+        "BX",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-17T12:28:08.180000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-17T12:28:17.437000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "何か趣味とかってありますか？",
+            "timestamp": "2022-08-17T12:28:22.606000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "音楽を勉強しています。",
+            "timestamp": "2022-08-17T12:28:44.657000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "それは楽器でしょうか？",
+            "timestamp": "2022-08-17T12:28:51.296000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "はい。チェンバロというピアノの前の楽器を勉強しています。",
+            "timestamp": "2022-08-17T12:29:03.677000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "おお！とてもおしゃれですね！",
+            "timestamp": "2022-08-17T12:29:13.991000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "マイナーな楽器なのですが、ご存知でしょうか。",
+            "timestamp": "2022-08-17T12:29:44.572000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "いいえ、疎いもので",
+            "timestamp": "2022-08-17T12:29:59.953000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "古い時代のギターに似た楽器です。",
+            "timestamp": "2022-08-17T12:30:44.688000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "普通のギターであれば少しですが弾けます！",
+            "timestamp": "2022-08-17T12:31:06.982000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "形はピアノなんですが、音はギターみたいな感じです。",
+            "timestamp": "2022-08-17T12:31:49.516000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "弦をはじく構造が原始的なんですかね？",
+            "timestamp": "2022-08-17T12:32:03.626000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "そうなんです。鍵盤を弾くと弦をはじくという楽器です。",
+            "timestamp": "2022-08-17T12:32:28.543000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "なるほど！独特そうです！",
+            "timestamp": "2022-08-17T12:32:38.715000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "ご趣味をお伺いしてもよろしいでしょうか",
+            "timestamp": "2022-08-17T12:33:04.212000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "しいて言えば最近はパンを焼いたりしてます！",
+            "timestamp": "2022-08-17T12:33:20.030000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "おお！私も以前ホームベーカリー愛用していました。",
+            "timestamp": "2022-08-17T12:33:44.175000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "最近手で焼いてみるようになったんです！",
+            "timestamp": "2022-08-17T12:33:54.142000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "それは、どのようにして？強力粉からということですか？",
+            "timestamp": "2022-08-17T12:34:11.012000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "はい、捏ねて発酵させてー、です！",
+            "timestamp": "2022-08-17T12:34:24.014000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "普通の食パンを作るのですか？",
+            "timestamp": "2022-08-17T12:34:42.923000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "食パンも作りますし、ベーグルなんかも作りました！",
+            "timestamp": "2022-08-17T12:34:58.084000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "それはすごいですね。ピザなんかも強力粉から？",
+            "timestamp": "2022-08-17T12:35:22.937000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "はい、混ぜて作りました！",
+            "timestamp": "2022-08-17T12:35:40.852000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "すごいですね。私はクロワッサンが大好きなんですが作ることできますか？",
+            "timestamp": "2022-08-17T12:36:01.236000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "本には載ってます！まだ試しておりません。",
+            "timestamp": "2022-08-17T12:36:18.823000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。ちょっとふわふわして作りにくそうなので。",
+            "timestamp": "2022-08-17T12:36:45.881000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "次はちょっと試してみたいと思います！",
+            "timestamp": "2022-08-17T12:36:55.279000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "またお聞かせくださいね！",
+            "timestamp": "2022-08-17T12:37:05.885000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

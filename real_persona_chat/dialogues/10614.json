@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10614,
+    "interlocutors": [
+        "DI",
+        "DK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-14T23:42:39.432000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DK",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-14T23:42:46.704000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "なにかご趣味はありますか？",
+            "timestamp": "2022-08-14T23:42:56.141000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DK",
+            "text": "昔からパソコンが趣味で、仕事でもあります",
+            "timestamp": "2022-08-14T23:43:26.984000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "パソコンが趣味いいですね、パソコン組んだりとかですか？？",
+            "timestamp": "2022-08-14T23:43:56.111000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DK",
+            "text": "はい　ずっと組んでますよ　30年くらい前から？",
+            "timestamp": "2022-08-14T23:44:23.488000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "プロですね、実はパソコン組みたいなって考えてるんです。",
+            "timestamp": "2022-08-14T23:44:52.253000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DK",
+            "text": "今は自分で組むより、組み合わせを選んで買う方が安上がりだと思います",
+            "timestamp": "2022-08-14T23:45:28.839000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "そうなんですか？BTOというやつですかね？",
+            "timestamp": "2022-08-14T23:45:59.775000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DK",
+            "text": "そうです　お店が組んでOSやらを設定してくれます",
+            "timestamp": "2022-08-14T23:46:26.905000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "それは便利でいいですね、今はそれの方が安上がりなんて意外ですね。",
+            "timestamp": "2022-08-14T23:46:50.163000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DK",
+            "text": "よほどのこだわりがあるなら自分で組む必要がありますが、大抵はBTOの方がいいです",
+            "timestamp": "2022-08-14T23:47:31.071000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "ただ時世的にパーツはまだ高いんじゃないですか？",
+            "timestamp": "2022-08-14T23:48:08.544000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DK",
+            "text": "円安ですからね　半導体不足は少し改善されたみたいですけど",
+            "timestamp": "2022-08-14T23:48:32.527000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "半導体不足は改善されてるんですね、ゲームやるのでいいグラボほしいんですが高くて",
+            "timestamp": "2022-08-14T23:49:08.198000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DK",
+            "text": "PCでゲームされるんですか？",
+            "timestamp": "2022-08-14T23:49:34.941000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "PCゲームがメインですね、１タイトルをやりこんでる感じですが。",
+            "timestamp": "2022-08-14T23:50:02.535000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DK",
+            "text": "グラボの価格は、ビットコインの影響も受けてるみたいですね…",
+            "timestamp": "2022-08-14T23:50:42.182000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "ビットコインですかー、一時期話題になりましたがよくわかってないんですよね。",
+            "timestamp": "2022-08-14T23:51:11.887000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DK",
+            "text": "ビットコインのマイニングする人がグラボを買ってやるらしいです",
+            "timestamp": "2022-08-14T23:51:48.402000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "そういうことなんですね、CPUとかではマイニングできないんですかね？",
+            "timestamp": "2022-08-14T23:52:21.172000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DK",
+            "text": "電気代よりマイニングで得られるビットコインが高くないとダメなので、GPU有利です",
+            "timestamp": "2022-08-14T23:53:00.354000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "さすが、専門知識がすごいですね。やっぱり電気代はたくさんかかるんですね。",
+            "timestamp": "2022-08-14T23:53:37.580000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DK",
+            "text": "高性能グラボを積む時は、電源も選びますね。ゲーミングPCのBTOならそこもきっちりしてくれますが。",
+            "timestamp": "2022-08-14T23:54:45.020000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "そうなんですね、そのあたりは難しそうなので、時間効率とかも踏まえてBTOの方がよさそうですねー",
+            "timestamp": "2022-08-14T23:55:33.640000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DK",
+            "text": "自作は組んでみてのトラブルが怖いですからね",
+            "timestamp": "2022-08-14T23:56:03.757000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "高いパーツ壊しちゃうとか、考えただけで怖いです",
+            "timestamp": "2022-08-14T23:56:28.428000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DK",
+            "text": "そこは覚悟が必要です笑",
+            "timestamp": "2022-08-14T23:56:53.514000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "ですね 時間なので失礼しますね、ありがとうございました！",
+            "timestamp": "2022-08-14T23:57:17.661000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DK",
+            "text": "ありがとうございました",
+            "timestamp": "2022-08-14T23:57:23.903000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

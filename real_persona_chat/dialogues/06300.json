@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6300,
+    "interlocutors": [
+        "AD",
+        "DH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T23:54:29.427000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DH",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-03T23:54:36.392000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "もうすっかり秋になりましたが、この秋どこかに旅行に行ったりする予定はありますか？",
+            "timestamp": "2022-10-03T23:54:47.832000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DH",
+            "text": "今年はまだないですね。コロナが心配で。",
+            "timestamp": "2022-10-03T23:55:04.915000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "やっぱり心配ですよね。全国旅行支援とか、Ｇｏｔｏに変わるものが始まりますが。",
+            "timestamp": "2022-10-03T23:55:20.592000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DH",
+            "text": "そちらはどこかに行かれますか？",
+            "timestamp": "2022-10-03T23:55:31.723000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "私は今月に京都に行く予定です。",
+            "timestamp": "2022-10-03T23:55:42.357000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DH",
+            "text": "良いですね！京都一度行きましたがまた行きたいです。",
+            "timestamp": "2022-10-03T23:55:55.763000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "京都は見どころが多くて、何回行っても飽きないですね。",
+            "timestamp": "2022-10-03T23:56:03.197000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DH",
+            "text": "和菓子も美味しいもの多いですし。",
+            "timestamp": "2022-10-03T23:56:14.341000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "和雑貨とかもオシャレなもの多いですしね。",
+            "timestamp": "2022-10-03T23:56:27.693000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DH",
+            "text": "そうですね！買いたくなってしまいます。",
+            "timestamp": "2022-10-03T23:56:41.801000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "京都に行ったら生絞りモンブランが食べたいと思ってます。ちょうど時期ですし。",
+            "timestamp": "2022-10-03T23:57:05.540000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DH",
+            "text": "テレビで見て美味しそうだなと思ってました。",
+            "timestamp": "2022-10-03T23:57:22.163000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "食べた事ないので、食べてみたいです。１つ1500円くらいするみたいですが。",
+            "timestamp": "2022-10-03T23:57:32.262000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DH",
+            "text": "見た目のインパクトがすごいです。",
+            "timestamp": "2022-10-03T23:57:49.270000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "モンブランで有名なのが、京都の紗織ってお店なのですが、ここはとても美味しいようですよ",
+            "timestamp": "2022-10-03T23:58:07.971000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DH",
+            "text": "そうなんですね！食べたくなってきました。",
+            "timestamp": "2022-10-03T23:58:29.409000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "この時間に食べ物の話は危険ですね。",
+            "timestamp": "2022-10-03T23:58:38.059000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DH",
+            "text": "お腹空いてきますよね！寝る時間なのに。",
+            "timestamp": "2022-10-03T23:58:53.006000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "お腹空いてきちゃいました。しかも甘いものが食べたい気分です。",
+            "timestamp": "2022-10-03T23:59:01.199000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DH",
+            "text": "なにかちょうどいいものが見つかると良いですね。",
+            "timestamp": "2022-10-03T23:59:16.075000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "食べると太るので、我慢して寝ようと思います。",
+            "timestamp": "2022-10-03T23:59:26.406000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DH",
+            "text": "凄いです！ホットミルクでも飲もうと思います。",
+            "timestamp": "2022-10-03T23:59:43.140000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "ホットミルクいいですね。寝つきもよくなりますしね。",
+            "timestamp": "2022-10-03T23:59:53.284000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DH",
+            "text": "よくききますよね！お手軽ですし。",
+            "timestamp": "2022-10-04T00:00:07.805000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "はちみつ入れて飲んだりしてました。",
+            "timestamp": "2022-10-04T00:00:12.244000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DH",
+            "text": "私もはちみつ入れてました！",
+            "timestamp": "2022-10-04T00:00:23.514000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "いいですよね。ホットミルク用に私も牛乳買っておこうと思います。",
+            "timestamp": "2022-10-04T00:00:35.190000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DH",
+            "text": "牛乳いつも常備してます！",
+            "timestamp": "2022-10-04T00:00:53.851000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DH",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

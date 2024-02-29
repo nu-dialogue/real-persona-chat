@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 234,
+    "interlocutors": [
+        "AU",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AU",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-11T13:51:41.878000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-11T13:51:50.828000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AU",
+            "text": "ところで、テレビ番組は見られますか？",
+            "timestamp": "2022-08-11T13:52:05.216000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "はい、テレビはそれなりに見ます。",
+            "timestamp": "2022-08-11T13:52:28.385000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AU",
+            "text": "どんな番組が、好きですか？",
+            "timestamp": "2022-08-11T13:52:41.151000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "スポーツとバラエティとニュースを見ることが多いです。",
+            "timestamp": "2022-08-11T13:53:17.125000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AU",
+            "text": "バラエティって、何にも考えずに楽しめるものがいいですよね。",
+            "timestamp": "2022-08-11T13:53:45.747000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "はい、私楽しい空間が好きなのでそれで見てるところはあります。",
+            "timestamp": "2022-08-11T13:54:13.740000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AU",
+            "text": "私は、地元の食べ物屋さんの番組とかもよく見ています。　自分でも行けそうなお店を知りたいなって。",
+            "timestamp": "2022-08-11T13:54:57.961000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "その番組いいですね、ローカル局の番組ということですか？",
+            "timestamp": "2022-08-11T13:55:21.893000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AU",
+            "text": "はい、東京のグルメはおしゃれだけど、行く事は出来ないので地元のグルメ番組とかよく見ますね。",
+            "timestamp": "2022-08-11T13:55:56.226000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "なるほど、たしかにそうですね。ただ、私はどうしても民法放送見ちゃいますね。",
+            "timestamp": "2022-08-11T13:57:01.527000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AU",
+            "text": "ニュースとかスポーツが、特に好きなジャンルなのですか？",
+            "timestamp": "2022-08-11T13:57:37.995000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "ニュースは朝ご飯食べながら見てます。スポーツは好きですね。",
+            "timestamp": "2022-08-11T13:58:01.257000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AU",
+            "text": "ドラマみたいなのでは、見られたりしますか？",
+            "timestamp": "2022-08-11T13:58:22.861000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "前は見てましたが、今は見てないですね。ドラマ見てますか？",
+            "timestamp": "2022-08-11T13:58:43.490000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AU",
+            "text": "私は、朝ドラとか気になるのは、録画して見ますが、リアルタイムではほとんどテレビ見ないですね。",
+            "timestamp": "2022-08-11T13:59:27.350000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "それはいいですね、私録画ツールを持ってないんです。",
+            "timestamp": "2022-08-11T14:00:12.762000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AU",
+            "text": "ニュースは、朝家事をしながら見るって感じで。　スポーツは何が好きですか？",
+            "timestamp": "2022-08-11T14:01:00.313000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "テレビでよくやってるのは野球とかサッカーですね、その辺りを見ることが多いです。",
+            "timestamp": "2022-08-11T14:01:26.892000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AU",
+            "text": "野球もサッカーも、やはりどこかに観戦しに行ったりもするのですか？",
+            "timestamp": "2022-08-11T14:02:04.532000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "最近は行ってないですが、過去に数回行ったことがあります。",
+            "timestamp": "2022-08-11T14:02:33.139000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AU",
+            "text": "コロナ禍になってから、私もどこにも行けていないです。　気軽に行けないのは、ちょっと残念ですよね。",
+            "timestamp": "2022-08-11T14:03:25.067000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "はい、あとは一緒に行く人が減りましたね。",
+            "timestamp": "2022-08-11T14:03:41.155000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AU",
+            "text": "私もです。　いろいろ心配で友達も気軽に誘えなくなりました。",
+            "timestamp": "2022-08-11T14:04:06.712000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "私はそれに加えて結婚して子育てで忙しいって感じで誘いずらくなりました。",
+            "timestamp": "2022-08-11T14:04:39.622000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AU",
+            "text": "それは、ありますね。　結婚するとなんとなく制約があって。　子育てはホントに忙しいですし。",
+            "timestamp": "2022-08-11T14:05:29.118000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "そうですよね、なので私から誘うことはせず相手からの誘いを待つことにしました。",
+            "timestamp": "2022-08-11T14:05:58.668000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AU",
+            "text": "私は結婚する前からそんな感じです。　誘うより誘われる側でした。",
+            "timestamp": "2022-08-11T14:06:35.724000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "私もどちらかというそうかもです、ではまた！",
+            "timestamp": "2022-08-11T14:07:00.104000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

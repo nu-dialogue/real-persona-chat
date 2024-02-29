@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10552,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-14T10:01:19.002000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんにちは。よろしくお願いします",
+            "timestamp": "2022-08-14T10:01:28.481000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-14T10:01:36.840000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-08-14T10:01:47.404000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "食パンと目玉焼き食べました",
+            "timestamp": "2022-08-14T10:02:03.203000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "朝食らしくていいですね！",
+            "timestamp": "2022-08-14T10:02:16.581000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "<AW>さんは何を食べましたか？",
+            "timestamp": "2022-08-14T10:02:30.364000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "私は朝は食べないんですよ",
+            "timestamp": "2022-08-14T10:02:40.752000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "あら、そうなんですね。おなかすきませんか？",
+            "timestamp": "2022-08-14T10:02:55.870000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "はい。<CS>さんは朝はパン派ですか？",
+            "timestamp": "2022-08-14T10:03:46.231000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "そうですね、パンが多いです。",
+            "timestamp": "2022-08-14T10:04:01.350000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "米よりパンがお好きなんですか？",
+            "timestamp": "2022-08-14T10:05:24.290000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "米だとおかず用意しなきゃいけなくて大変なんですよね",
+            "timestamp": "2022-08-14T10:05:43.345000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "たしかに。パンだったらジャムとかバターで食べられますもんね",
+            "timestamp": "2022-08-14T10:05:15.242000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "腹持ちはあんまりよくないですけどね",
+            "timestamp": "2022-08-14T10:05:39.904000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "私はパンだとカレーパンが好きです。",
+            "timestamp": "2022-08-14T10:06:06.990000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "おいしいですよね。こだわりとかあるんですか？",
+            "timestamp": "2022-08-14T10:06:25.792000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "辛めのほうがすきですね",
+            "timestamp": "2022-08-14T10:06:35.344000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "辛党なんですね。最近たべた塩クロワッサンがおいしかったです。",
+            "timestamp": "2022-08-14T10:07:10.776000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "へー、知らないです。しょっぱいんですか？",
+            "timestamp": "2022-08-14T10:07:24.468000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "はい、トリュフ塩がつかわれてておいしかったです",
+            "timestamp": "2022-08-14T10:07:51.756000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "食べてみたいです。スープとあいそうですね。",
+            "timestamp": "2022-08-14T10:08:09.045000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "イタリアン系とあいそうな味でしたよ",
+            "timestamp": "2022-08-14T10:08:31.366000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "うちは近所にパン屋がなくて、なかなかおいしいパンに出会えないです",
+            "timestamp": "2022-08-14T10:08:57.607000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "じゃあ基本スーパーですか？",
+            "timestamp": "2022-08-14T10:09:12.907000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "そうですね。あんまりパンは食べないかもしれないです。",
+            "timestamp": "2022-08-14T10:09:38.288000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。あまりお好きじゃない？",
+            "timestamp": "2022-08-14T10:09:53.578000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "トースターがなくて、おいしく焼けないんです",
+            "timestamp": "2022-08-14T10:10:09.035000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "そういうことでしたか。",
+            "timestamp": "2022-08-14T10:10:16.346000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "そうなんです。早く買わなきゃ。",
+            "timestamp": "2022-08-14T10:10:29.280000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

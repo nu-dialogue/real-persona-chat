@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13269,
+    "interlocutors": [
+        "FV",
+        "GI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T14:12:40.454000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GI",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-19T14:12:45.206000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "犬と猫ならどちら派ですか？",
+            "timestamp": "2022-09-19T14:13:00.725000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GI",
+            "text": "犬ですね。",
+            "timestamp": "2022-09-19T14:13:04.847000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "理由伺ってもよろしいでしょうか？",
+            "timestamp": "2022-09-19T14:13:16.259000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GI",
+            "text": "どちらも飼ったことはないのですが、散歩行ったりしたいからですね。",
+            "timestamp": "2022-09-19T14:13:47.549000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "なるほど！猫は自由に行って帰ってきそうですもんね。",
+            "timestamp": "2022-09-19T14:14:03.264000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。あとどちらもかわいいですが、犬のほうがかわいらしいというか。",
+            "timestamp": "2022-09-19T14:14:26.289000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "猫は女王様、犬は従順な子って感じがあります。",
+            "timestamp": "2022-09-19T14:14:49.696000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GI",
+            "text": "そうですね。あなたはどうです？",
+            "timestamp": "2022-09-19T14:14:59.391000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "私は、犬飼っていたのですが、最近はお部屋で猫と暮らしたいと思うようになりました。",
+            "timestamp": "2022-09-19T14:15:19.790000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。犬は大変でした？",
+            "timestamp": "2022-09-19T14:15:32.347000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "犬は、ハスキー犬でしたが、大きくて可愛かったですよ。頭もよかったです。",
+            "timestamp": "2022-09-19T14:15:55.693000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GI",
+            "text": "へぇー頭いいんですね。すごい！",
+            "timestamp": "2022-09-19T14:16:09.415000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "感情も結構ありました。嫉妬とかもしました。",
+            "timestamp": "2022-09-19T14:16:22.255000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GI",
+            "text": "すごい！人みたいですね。",
+            "timestamp": "2022-09-19T14:16:34.338000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "雌のわんちゃんだったんですよ。",
+            "timestamp": "2022-09-19T14:16:50.699000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GI",
+            "text": "なるほど。猫ちゃんはどうして飼ってみたいと？",
+            "timestamp": "2022-09-19T14:17:09.958000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "なんか、TwitterとかのTL見ていると、かわいいなーて、あとは尻に敷かれてみたいな、と。",
+            "timestamp": "2022-09-19T14:17:29.311000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GI",
+            "text": "あはは。尻に敷かれたいんですね。",
+            "timestamp": "2022-09-19T14:17:43.883000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "なんか、猫様のいいなりになりたいですね。",
+            "timestamp": "2022-09-19T14:17:55.514000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GI",
+            "text": "確かに。それもいいですね。",
+            "timestamp": "2022-09-19T14:18:05.802000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "なんか猫は自分がかわいいの分かってる気がします。",
+            "timestamp": "2022-09-19T14:18:32.652000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GI",
+            "text": "そうなんですねぇ。飼うならどの種類とかありますか？",
+            "timestamp": "2022-09-19T14:19:09.562000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "うーん、かわいければなんでもって感じで。",
+            "timestamp": "2022-09-19T14:19:21.812000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GI",
+            "text": "確かに。ペットショップとかで見ればいいんですかね。",
+            "timestamp": "2022-09-19T14:19:44.773000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "一応友人の猫さんに赤ちゃんが生まれたら、譲っていただく約束をしてます。",
+            "timestamp": "2022-09-19T14:20:04.561000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GI",
+            "text": "お！そうなんですね。それは楽しみですね。",
+            "timestamp": "2022-09-19T14:20:20.354000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "はい、子猫ってすごく小さくて可愛くて、好きです。",
+            "timestamp": "2022-09-19T14:20:31.444000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GI",
+            "text": "うらやましいです。",
+            "timestamp": "2022-09-19T14:20:40.052000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

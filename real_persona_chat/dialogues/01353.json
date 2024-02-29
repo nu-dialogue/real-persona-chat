@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1353,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-14T11:44:32.478000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-08-14T11:44:45.928000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "好きなお菓子とかありますか？",
+            "timestamp": "2022-08-14T11:45:22.515000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "琥珀糖にはまってます",
+            "timestamp": "2022-08-14T11:45:50.287000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "おしゃれですね！",
+            "timestamp": "2022-08-14T11:46:06.358000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "通販で取り寄せていただいてます",
+            "timestamp": "2022-08-14T11:46:47.493000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "店頭で売っているの見たことないかもしれないです",
+            "timestamp": "2022-08-14T11:47:05.403000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "そうですよね。和菓子屋さんとかにも意外となくて。",
+            "timestamp": "2022-08-14T11:47:23.194000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "結構流行ってるのに売らないんですかね。",
+            "timestamp": "2022-08-14T11:47:45.742000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "置けば売れそうですよね",
+            "timestamp": "2022-08-14T11:48:10.935000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "そう思いますね",
+            "timestamp": "2022-08-14T11:48:24.526000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "<AW>さんは何がお好きなんですか？",
+            "timestamp": "2022-08-14T11:48:41.262000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "私は暴君ハバネロというお菓子が好きです",
+            "timestamp": "2022-08-14T11:49:26.563000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "辛そうですね！",
+            "timestamp": "2022-08-14T11:49:44.493000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "それが年々辛くなくなってるんです",
+            "timestamp": "2022-08-14T11:50:45.216000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "そうなんですか",
+            "timestamp": "2022-08-14T11:50:56.739000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "激辛を期待すると肩透かし食らうレベルです",
+            "timestamp": "2022-08-14T11:51:29.988000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "辛すぎるってクレームでもきたんですかね",
+            "timestamp": "2022-08-14T11:51:58.132000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "どうなんでしょう。私は元に戻してほしいです",
+            "timestamp": "2022-08-14T11:52:36.214000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "カラムーチョよりは辛いですよね？",
+            "timestamp": "2022-08-14T11:52:59.678000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "うーん、同じくらいの辛さかもしれないです",
+            "timestamp": "2022-08-14T11:53:16.667000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "あ、じゃあ全然ですね",
+            "timestamp": "2022-08-14T11:53:30.076000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "そうなんですよ。たぶんカラムーチョのほうがおいしいですし。",
+            "timestamp": "2022-08-14T11:54:09.352000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "でもカラムーチョって結構翌朝までにおいがのこりませんか？",
+            "timestamp": "2022-08-14T11:54:46.188000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "口の中にずっといる感じしますね",
+            "timestamp": "2022-08-14T11:55:05.453000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "そうですよね、口臭が気になってあまり食べられなくて",
+            "timestamp": "2022-08-14T11:56:03.529000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "休みの日の前日とかに食べるしかないですね",
+            "timestamp": "2022-08-14T11:56:24.234000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "あとはブレスケアするとかですね",
+            "timestamp": "2022-08-14T11:56:40.647000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "ですね。ではそろそろ失礼しますね。",
+            "timestamp": "2022-08-14T11:56:56.009000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "はい、ありがとうございました",
+            "timestamp": "2022-08-14T11:57:09.768000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

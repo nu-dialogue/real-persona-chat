@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8359,
+    "interlocutors": [
+        "HZ",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HZ",
+            "text": "お願いします！",
+            "timestamp": "2022-08-09T17:00:08.809000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "お願いします！",
+            "timestamp": "2022-08-09T17:00:21.951000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HZ",
+            "text": "今どこか行きたいところあります？",
+            "timestamp": "2022-08-09T17:00:29.113000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "私は避暑地に行きたいです",
+            "timestamp": "2022-08-09T17:00:42.722000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HZ",
+            "text": "どのへんですかね？",
+            "timestamp": "2022-08-09T17:00:51.897000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "山奥でも、冷たい水があるところでも、どこでもいいです",
+            "timestamp": "2022-08-09T17:01:14.006000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HZ",
+            "text": "とにかく暑いんですね、ははは",
+            "timestamp": "2022-08-09T17:01:27.920000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "ホントに暑いです。感染状況を見てどこに行くか決めようと思ってます",
+            "timestamp": "2022-08-09T17:01:53.199000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HZ",
+            "text": "そうですね",
+            "timestamp": "2022-08-09T17:02:05.149000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "私のところは少ないので、出来る限り人が集まってないようなところにしようと思います",
+            "timestamp": "2022-08-09T17:02:43.496000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HZ",
+            "text": "それがいいと思います。観光地となると難しいですが。",
+            "timestamp": "2022-08-09T17:02:57.396000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "そうなんですよね~　山とか川であれば、秘境みたいなところなら人はいなさそうですが",
+            "timestamp": "2022-08-09T17:03:48.698000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HZ",
+            "text": "秘境は車がないと行くの難しいですね。私は車ないので、なかなか。",
+            "timestamp": "2022-08-09T17:04:16.916000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "交通あたりで不便なんですよね",
+            "timestamp": "2022-08-09T17:05:15.944000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HZ",
+            "text": "はい、車は運転されますか？",
+            "timestamp": "2022-08-09T17:05:22.090000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "持っていませんが、レンタカーをして時々運転しています",
+            "timestamp": "2022-08-09T17:05:42.197000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HZ",
+            "text": "じゃあ、かなり行動範囲は広がりますね",
+            "timestamp": "2022-08-09T17:05:49.203000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "ただ、そういうところに借り物で行くとなるとちょっと怖いんですよね",
+            "timestamp": "2022-08-09T17:06:47.303000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HZ",
+            "text": "運転がですか？",
+            "timestamp": "2022-08-09T17:06:55.917000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "ぶつけたり、脱輪したり、事故したりしやすそうな気がして",
+            "timestamp": "2022-08-09T17:07:40.019000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HZ",
+            "text": "たしかにそうかもですね",
+            "timestamp": "2022-08-09T17:07:46.678000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "秘境というと、道が整備されていないような場所ですからね",
+            "timestamp": "2022-08-09T17:08:09.954000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HZ",
+            "text": "でも、秘境に向かうと、渋滞にははまりにくいですかね？",
+            "timestamp": "2022-08-09T17:08:26.741000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "そうですね、基本的に田舎なので車は少ないですね",
+            "timestamp": "2022-08-09T17:09:02.024000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HZ",
+            "text": "私はもっぱら公共交通機関で移動です",
+            "timestamp": "2022-08-09T17:09:18.351000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "時間どおりですし、便利ですもんね",
+            "timestamp": "2022-08-09T17:09:35.933000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HZ",
+            "text": "そうですね。移動は疲れますけど。",
+            "timestamp": "2022-08-09T17:09:45.669000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "荷物は持ったままですし、座れるとは限りませんからね",
+            "timestamp": "2022-08-09T17:10:09.678000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HZ",
+            "text": "はい、乗り継ぎとか調べたり、いろいろ面倒も多いです。",
+            "timestamp": "2022-08-09T17:10:21.603000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "そういうのも含めて、検討してみます！",
+            "timestamp": "2022-08-09T17:10:40.878000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

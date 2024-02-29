@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 9156,
+    "interlocutors": [
+        "AO",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-09T21:59:39.624000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-09T21:59:50.684000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "もう夕飯は食べましたか？",
+            "timestamp": "2022-08-09T22:00:00.940000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "はい、もう食べました。<AO>さんは召し上がりましたか？",
+            "timestamp": "2022-08-09T22:00:21.906000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "はい、私も。今夜のおかずは何でしたか？",
+            "timestamp": "2022-08-09T22:00:34.739000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "今日は、鯵のひらきとメンチカツでした。",
+            "timestamp": "2022-08-09T22:00:57.078000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "わあ、豪勢ですね！",
+            "timestamp": "2022-08-09T22:01:06.694000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "あ、どっちも残りだったので、ちょっとずつ家族と分けた感じです。",
+            "timestamp": "2022-08-09T22:01:24.276000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "仲が良いですね！魚と肉の両方が食べられるなんて、うちじゃ滅多にない。",
+            "timestamp": "2022-08-09T22:01:49.037000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "たまたまですね。家族の好みがバラバラなので、とりあえず色々出す、てなってます。",
+            "timestamp": "2022-08-09T22:02:31.980000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "ホテルのビュッフェみたいだなあ。好き嫌いはありますか？",
+            "timestamp": "2022-08-09T22:02:47.602000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "品数が多く見えますけど、冷凍とか湯煎多いです。好き嫌いもすごくハッキリしてます。",
+            "timestamp": "2022-08-09T22:03:21.545000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "へえ！特に嫌いなものってあるんですか？",
+            "timestamp": "2022-08-09T22:03:39.863000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "私は辛いものが苦手です。<AO>さんは苦手な食べ物ありますか？",
+            "timestamp": "2022-08-09T22:04:16.709000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "私は比較的なんでも食べますね。ただ、年齢とともに苦手になってきたものも。",
+            "timestamp": "2022-08-09T22:04:35.335000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "年齢とともに、というと、私は甘いものと油っこいものが食べられなくなってきました。",
+            "timestamp": "2022-08-09T22:05:04.213000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "同じです！私も、脂っぽいのがダメになっちゃって。",
+            "timestamp": "2022-08-09T22:05:21.373000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "わかります！なんか消化し切れないというか、翌日に残る感じになりました。",
+            "timestamp": "2022-08-09T22:05:41.005000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "まったく同じですね！胃腸が弱ったんですかねえ？",
+            "timestamp": "2022-08-09T22:05:52.831000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "私もそれ思いました。消化器の衰えですかね。好みが変わったと信じたい所ですが。",
+            "timestamp": "2022-08-09T22:06:25.208000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "そうですよねー。食事と一緒にお酒を飲んだりしますか？",
+            "timestamp": "2022-08-09T22:06:42.714000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "家では飲まないんですけど、外食の時はほぼほぼ飲みます。",
+            "timestamp": "2022-08-09T22:07:03.568000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "へー！私は家でも外食でも飲んでしまう！",
+            "timestamp": "2022-08-09T22:07:17.599000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "どんなお酒がお好きですか？",
+            "timestamp": "2022-08-09T22:07:27.246000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "焼酎が多いです。あなたは？",
+            "timestamp": "2022-08-09T22:07:35.602000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "割と何でも飲みます。焼酎も飲みます。何焼酎がお好きですか？",
+            "timestamp": "2022-08-09T22:08:04.103000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "芋焼酎ばっかりですよ。",
+            "timestamp": "2022-08-09T22:08:13.456000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "私も詳しくはないですけど、芋焼酎好きです。何かお気に入りの銘柄などありますか？",
+            "timestamp": "2022-08-09T22:08:37.026000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "黒伊佐っていう九州のをよく飲んでます！",
+            "timestamp": "2022-08-09T22:08:57.040000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "九州の焼酎美味しいですよね！今度黒伊佐を探してみます。お話ありがとうございました。",
+            "timestamp": "2022-08-09T22:09:22.453000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AO",
+            "text": "こちらこそ！では！",
+            "timestamp": "2022-08-09T22:09:28.683000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

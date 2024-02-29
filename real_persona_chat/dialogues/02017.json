@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2017,
+    "interlocutors": [
+        "BX",
+        "BA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "こんにちは",
+            "timestamp": "2022-08-18T08:58:13.267000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-18T08:58:19.712000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "趣味はおありですか？",
+            "timestamp": "2022-08-18T08:58:24.002000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BA",
+            "text": "旅行かな",
+            "timestamp": "2022-08-18T08:58:31.053000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "最近行かれましたか？",
+            "timestamp": "2022-08-18T08:58:35.659000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BA",
+            "text": "６月にオーストラリアに",
+            "timestamp": "2022-08-18T08:58:47.137000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "どちらでしょうか？昔シドニーには行った事があります。",
+            "timestamp": "2022-08-18T08:59:11.941000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BA",
+            "text": "ゴールドコーストです",
+            "timestamp": "2022-08-18T08:59:25.285000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "いいですね！",
+            "timestamp": "2022-08-18T08:59:31.073000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BA",
+            "text": "楽しかったです",
+            "timestamp": "2022-08-18T08:59:42.924000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "グレートバリアリーフは見ましたか？",
+            "timestamp": "2022-08-18T08:59:49.299000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BA",
+            "text": "それはケアンズなので、見てないんです",
+            "timestamp": "2022-08-18T09:00:03.718000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "ではウルルにも行ってないでしょうか？",
+            "timestamp": "2022-08-18T09:00:14.530000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BA",
+            "text": "ゴールドコーストのみ滞在です",
+            "timestamp": "2022-08-18T09:00:25.900000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "そうでしたか、私はシドニーと言いましたが、観光には弾丸でいってきました。",
+            "timestamp": "2022-08-18T09:00:53.486000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BA",
+            "text": "すごい！フィジーにも行ってみたいな",
+            "timestamp": "2022-08-18T09:00:59.520000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "オーストラリアからは近くですよ！",
+            "timestamp": "2022-08-18T09:01:08.675000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BA",
+            "text": "ですよね！４歳の時に一度行ってるんですけど記憶になくて",
+            "timestamp": "2022-08-18T09:01:39.306000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "そうなんですね。ではいつか行ってみるのもいいかもしれません。",
+            "timestamp": "2022-08-18T09:01:50.418000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BA",
+            "text": "行ったことあります？",
+            "timestamp": "2022-08-18T09:02:06.062000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "はい。夫の都合で少し住んでいました。",
+            "timestamp": "2022-08-18T09:02:13.650000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BA",
+            "text": "何年！？",
+            "timestamp": "2022-08-18T09:02:22.510000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "夫は1年、私は3か月ほどですかね？半年もいませんでした。",
+            "timestamp": "2022-08-18T09:02:40.616000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BA",
+            "text": "そこからオーストラリアに行ったんですか？",
+            "timestamp": "2022-08-18T09:02:51.255000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "はい、ニュージーランドも行きました。",
+            "timestamp": "2022-08-18T09:03:03.097000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BA",
+            "text": "へー直行便があるんですか？",
+            "timestamp": "2022-08-18T09:03:13.325000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "ありますよ！",
+            "timestamp": "2022-08-18T09:03:17.974000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BA",
+            "text": "いいですねーーいきたいな",
+            "timestamp": "2022-08-18T09:03:29.719000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "友人がいたのも大きいですが、あちこち行くことが出来ました！",
+            "timestamp": "2022-08-18T09:03:42.329000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BA",
+            "text": "楽しそう",
+            "timestamp": "2022-08-18T09:03:53.379000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

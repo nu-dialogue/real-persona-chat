@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10806,
+    "interlocutors": [
+        "EZ",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-16T11:21:53.727000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こちらこそよろしくお願いいたします。",
+            "timestamp": "2022-08-16T11:21:57.563000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "お昼ご飯はもう食べましたか？",
+            "timestamp": "2022-08-16T11:22:14.581000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "いいえ、12時過ぎに食べようと思います。",
+            "timestamp": "2022-08-16T11:22:27.267000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね。何を食べる予定ですか？",
+            "timestamp": "2022-08-16T11:22:43.750000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "今日はいつもと同じお弁当なんです。あなたは？",
+            "timestamp": "2022-08-16T11:22:59.582000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "私は先ほどお弁当を食べました。チキンタルタルです。",
+            "timestamp": "2022-08-16T11:23:18.993000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "おいしそうですね！ご自分で作られたのですか？",
+            "timestamp": "2022-08-16T11:23:35.332000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "コンビニで買いました！お弁当自分で作るの大変じゃないですか？",
+            "timestamp": "2022-08-16T11:23:54.941000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。コンビニのお弁当、おいしいですよね。",
+            "timestamp": "2022-08-16T11:24:05.685000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "できるだけ自分で作りたいのですが、朝が弱いんですよね。おいしいですよね！",
+            "timestamp": "2022-08-16T11:24:33.421000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "朝はやることがたくさんあるので、お弁当どころではないですよね。",
+            "timestamp": "2022-08-16T11:24:54.566000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですよ。あなたもコンビニ弁当ですか？",
+            "timestamp": "2022-08-16T11:25:09.800000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "いいえ、私は自分でいつも同じものを作っています。",
+            "timestamp": "2022-08-16T11:25:21.112000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "すごいですね。どんなものをおかずに入れているのですか？",
+            "timestamp": "2022-08-16T11:25:41.616000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "おにぎりと、スープジャーに野菜を入れ、ミカンの缶詰を冷凍にしたものを１つです。",
+            "timestamp": "2022-08-16T11:26:18.915000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "すぐに作れそうで、なおかつ体によさそうでいいですね！",
+            "timestamp": "2022-08-16T11:26:45.510000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "今ダイエット中なので、野菜をたくさん入れて、おやつにミカンを食べています。",
+            "timestamp": "2022-08-16T11:27:15.153000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "おやつにミカンいいですね。私は一人暮らしなのですが、なかなかフルーツを食べる機会がなくてとてもうらやましいです。",
+            "timestamp": "2022-08-16T11:27:47.623000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "ミカンの缶詰1缶を２つのパックに入れて、冷凍し、それを保冷パックに入れて持ってきています。",
+            "timestamp": "2022-08-16T11:28:25.659000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "ミカンの缶詰、私も真似しようと思います。普通のフルーツだと痛めてしまうんですよね。",
+            "timestamp": "2022-08-16T11:29:00.835000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。でも体によいかな、若い方にはちょっと心配です。",
+            "timestamp": "2022-08-16T11:29:22.894000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "確かにどうなんですかね。おいしいけどすごく甘いイメージがあります。",
+            "timestamp": "2022-08-16T11:29:48.429000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "少量ならば甘すぎることなく、すっきりいただけますね。",
+            "timestamp": "2022-08-16T11:30:11.964000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "冷凍するのもいいですね。最近暑いですから。",
+            "timestamp": "2022-08-16T11:30:28.072000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "はい。お昼までであれば、スープジャー用の保冷のきく布に入れれば冷たいですよ！",
+            "timestamp": "2022-08-16T11:30:53.704000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "参考にさせていただきます！コンビニ弁当ばかりだとそれこそ体に悪いんですよね。",
+            "timestamp": "2022-08-16T11:31:19.704000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "少し味が濃いめでしょうか？やはり時々は私も違うフルーツにした方がよいですね！",
+            "timestamp": "2022-08-16T11:31:53.284000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "味濃いめですね！あとは保存料が怖いです。違うフルーツいいですね。どんな缶詰があるのでしょう？",
+            "timestamp": "2022-08-16T11:32:27.105000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "パインもなかなかおいしかったです。でもこれも缶詰ですね。",
+            "timestamp": "2022-08-16T11:32:47.335000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

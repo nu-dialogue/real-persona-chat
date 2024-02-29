@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12811,
+    "interlocutors": [
+        "FE",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-12T21:34:23.446000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ。",
+            "timestamp": "2022-09-12T21:34:28.436000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "もうご飯食べられました？",
+            "timestamp": "2022-09-12T21:34:51.886000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "はい、頂きました。",
+            "timestamp": "2022-09-12T21:34:57.488000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "何を食べたんですか？",
+            "timestamp": "2022-09-12T21:35:07.534000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "以前の残りとかパンとかえのきとかですね。よくわかりません。",
+            "timestamp": "2022-09-12T21:35:42.352000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "なるほど。えのきってそのまま、じゃないですよね。",
+            "timestamp": "2022-09-12T21:36:10.599000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "生食は危険です、きのこは。",
+            "timestamp": "2022-09-12T21:36:26.640000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "ですよね！えのきはどのように食べられたんです？",
+            "timestamp": "2022-09-12T21:36:52.333000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "キノコスパゲッティのスパゲッティないバージョンに近いかと思ったんですけど、味は結構お酒っぽいというか。",
+            "timestamp": "2022-09-12T21:37:28.141000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "お酒っぽい味ですか。なかなか想像しにくいです。自分で作ったんですか？",
+            "timestamp": "2022-09-12T21:38:04.823000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "いえ、父が。",
+            "timestamp": "2022-09-12T21:38:13.028000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "なるほど！お父さんが作るってすてきですね。",
+            "timestamp": "2022-09-12T21:38:38.848000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "そうかもしれません。",
+            "timestamp": "2022-09-12T21:39:04.834000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "自分で料理したりしますか？",
+            "timestamp": "2022-09-12T21:39:23.842000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "はい、ごくたまに。",
+            "timestamp": "2022-09-12T21:39:42.413000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "おお、得意な方ですかね？",
+            "timestamp": "2022-09-12T21:39:58.734000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "いえ、レシピ通りです、基本は。",
+            "timestamp": "2022-09-12T21:40:26.990000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "最近はスマホですぐ調べられますもんね。",
+            "timestamp": "2022-09-12T21:40:49.526000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "そうなんです、夜中調べてじゅるりと。",
+            "timestamp": "2022-09-12T21:41:03.653000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "夜中に調べるんですか！なかなかな飯テロですね。",
+            "timestamp": "2022-09-12T21:41:24.228000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "まぁ飯テロだけが目的ではないんですけど、むろん。",
+            "timestamp": "2022-09-12T21:41:46.443000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "夜中にご飯を作ったりするんですか？",
+            "timestamp": "2022-09-12T21:42:11.636000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "いえ、流石に体に悪いのではと。",
+            "timestamp": "2022-09-12T21:42:28.270000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "間違いないですね。",
+            "timestamp": "2022-09-12T21:42:54.693000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "規則正しく３食ですよね、これが正しいのか基本的過ぎて僕にはわかりませんが。",
+            "timestamp": "2022-09-12T21:43:30.348000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "ダイエットしてても3食取りなさいとよく言いますしね。時間も重要みたいです。",
+            "timestamp": "2022-09-12T21:43:59.284000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "ダイエットしてるんですか？失礼ですが。",
+            "timestamp": "2022-09-12T21:44:13.118000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "すこし。でも夏バテで勝手に痩せていきますね。",
+            "timestamp": "2022-09-12T21:44:31.906000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "そういうこともあるのですね。",
+            "timestamp": "2022-09-12T21:44:45.087000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

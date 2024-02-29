@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4799,
+    "interlocutors": [
+        "FK",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-14T17:25:50.949000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-14T17:26:05.534000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "何か習慣にしてることとかありますか？",
+            "timestamp": "2022-09-14T17:26:11.569000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "ランニングしてます！",
+            "timestamp": "2022-09-14T17:26:20.500000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "いいですね！どれくらいです？",
+            "timestamp": "2022-09-14T17:26:52.397000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "大体１０キロくらいですね",
+            "timestamp": "2022-09-14T17:27:07.853000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "すごいですね、むりです、、、！",
+            "timestamp": "2022-09-14T17:27:13.980000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "陸上部だったんで名残で走ってます",
+            "timestamp": "2022-09-14T17:27:24.932000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "おお、すごい！疲れませんか",
+            "timestamp": "2022-09-14T17:27:49.551000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "スピード上げなきゃ疲れませんよ",
+            "timestamp": "2022-09-14T17:28:09.937000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "おお、靴いいの持ってます？",
+            "timestamp": "2022-09-14T17:28:15.995000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "もってますよー",
+            "timestamp": "2022-09-14T17:28:23.358000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "どこのやつです？",
+            "timestamp": "2022-09-14T17:28:37.007000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "ＮＩＫＥですね厚底のやつです",
+            "timestamp": "2022-09-14T17:28:53.698000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "zoom搭載のやつです？",
+            "timestamp": "2022-09-14T17:29:01.918000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "zoomってなんです？",
+            "timestamp": "2022-09-14T17:29:16.895000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "なんか靴底にある反発材みたいなやつです！",
+            "timestamp": "2022-09-14T17:29:36.878000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "あ！ついてます僕持ってるのズームフライなので！",
+            "timestamp": "2022-09-14T17:29:51.491000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "お！！あれすごい反発しますよね！",
+            "timestamp": "2022-09-14T17:29:58.247000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "始めてはいた時衝撃やばかったです",
+            "timestamp": "2022-09-14T17:30:11.404000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "僕ももってるんですが、三日坊主でほとんど使ってないです！",
+            "timestamp": "2022-09-14T17:30:22.017000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "足が勝手に進みますよ！ぜひはいてあげてください！",
+            "timestamp": "2022-09-14T17:30:39.031000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "もう少し涼しくなったらランニングしてみようかな！！",
+            "timestamp": "2022-09-14T17:30:55.694000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "僕も最近は暑くて中断してましたね",
+            "timestamp": "2022-09-14T17:31:08.666000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "やっぱりそうですよね、日焼けもやばそうです",
+            "timestamp": "2022-09-14T17:31:15.011000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "時計の跡ができちゃいます",
+            "timestamp": "2022-09-14T17:31:24.880000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "測定とかされてます？",
+            "timestamp": "2022-09-14T17:31:33.438000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "タイムははかってますよ",
+            "timestamp": "2022-09-14T17:31:40.609000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "おお、いいですよね",
+            "timestamp": "2022-09-14T17:31:46.822000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "一応競技でやってるので！",
+            "timestamp": "2022-09-14T17:32:06.715000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12005,
+    "interlocutors": [
+        "DV",
+        "EI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-30T21:31:37.015000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EI",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-30T21:32:51.347000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "好きなおかずってお肉系ですか？魚系ですか？",
+            "timestamp": "2022-08-30T21:33:23.581000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EI",
+            "text": "お肉です！",
+            "timestamp": "2022-08-30T21:33:30.041000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "和食ですか？洋食ですか？",
+            "timestamp": "2022-08-30T21:33:43.123000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EI",
+            "text": "洋食ですかね！いきなりステーキとか好きです！",
+            "timestamp": "2022-08-30T21:34:16.732000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "結構がっつり系が好きなんですねー",
+            "timestamp": "2022-08-30T21:34:32.345000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EI",
+            "text": "はい、ウエイトトレーニングを結構やっているので、タンパク質大好きです",
+            "timestamp": "2022-08-30T21:34:59.569000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "ということはささみも好きですか？",
+            "timestamp": "2022-08-30T21:35:11.937000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EI",
+            "text": "はい！安いので肉買うときは基本胸肉ですが！",
+            "timestamp": "2022-08-30T21:35:31.458000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "確かにささみは量のわりにいいお値段しますよねー",
+            "timestamp": "2022-08-30T21:35:47.315000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EI",
+            "text": "そうなんです、でも幼少の頃はささみの良さがわからなかったです",
+            "timestamp": "2022-08-30T21:36:17.731000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "むね肉だとぱさぱさですが、ささみって少ししっとりしてる感じがします",
+            "timestamp": "2022-08-30T21:36:36.842000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EI",
+            "text": "そうですね！今は低温調理とかありますが、胸肉は好き嫌いわかれますよね",
+            "timestamp": "2022-08-30T21:37:06.937000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "そうですね、私はもも肉派ですね",
+            "timestamp": "2022-08-30T21:37:28.351000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EI",
+            "text": "もも肉おいしいですよね、柔らかいし皮とったら胸肉と脂質もそんなに変わらないみたいですし",
+            "timestamp": "2022-08-30T21:38:04.908000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "ささみはチーズカツにして食べるのもすきです！",
+            "timestamp": "2022-08-30T21:38:28.992000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EI",
+            "text": "チーズは最高ですね！梅大葉とかもいいです！",
+            "timestamp": "2022-08-30T21:39:01.949000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "いいですね、でも自分で梅大葉を作るのは手間なので買って食べる専門です",
+            "timestamp": "2022-08-30T21:39:29.242000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EI",
+            "text": "そうですね！一番好きなお肉はなんですか？",
+            "timestamp": "2022-08-30T21:39:55.391000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "豚肉ですねー",
+            "timestamp": "2022-08-30T21:40:08.025000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EI",
+            "text": "豚肉いいですね！しゃぶしゃぶとか鍋とか",
+            "timestamp": "2022-08-30T21:40:28.989000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "酢豚が好きなんです",
+            "timestamp": "2022-08-30T21:40:37.105000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EI",
+            "text": "酢豚！あまり食べる機会がないです、作られるんですか？",
+            "timestamp": "2022-08-30T21:41:12.678000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "たまにやる気があるときに作ります、結構手間がかかるので",
+            "timestamp": "2022-08-30T21:41:27.521000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EI",
+            "text": "そうなんですね！たしかに工程複雑そうです！",
+            "timestamp": "2022-08-30T21:41:57.326000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "酢豚の話をしたら食べたくなってきました",
+            "timestamp": "2022-08-30T21:42:05.083000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EI",
+            "text": "僕も最後に食べたの思い出せないくらいなので、買ってみます！",
+            "timestamp": "2022-08-30T21:42:36.374000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "明日頑張って作りたいと思います",
+            "timestamp": "2022-08-30T21:42:47.450000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EI",
+            "text": "いいですね！",
+            "timestamp": "2022-08-30T21:43:06.647000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

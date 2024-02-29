@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1366,
+    "interlocutors": [
+        "AT",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "初めまして、本日はよろしくお願いします。",
+            "timestamp": "2022-08-14T09:59:38.718000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "こちらこそよろしくお願いします！",
+            "timestamp": "2022-08-14T09:59:47.998000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "お住まいは関東ですか？",
+            "timestamp": "2022-08-14T10:00:01.407000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "いえ。九州です。",
+            "timestamp": "2022-08-14T10:00:07.877000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "九州だと、水害とか火山の噴火とか大丈夫でしたか？",
+            "timestamp": "2022-08-14T10:00:44.142000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "私の住んでるところは大丈夫ですね。火山はとくに活発みたいで。",
+            "timestamp": "2022-08-14T10:01:06.240000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "それは良かったです、火山の話は緊急速報がテレビで入ったので大変な事態ですよね。",
+            "timestamp": "2022-08-14T10:01:47.886000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "ご心配ありがとうございます。私も驚いてます。",
+            "timestamp": "2022-08-14T10:02:04.306000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "私は関東で災害といえば昨日の台風くらいですかね。",
+            "timestamp": "2022-08-14T10:03:02.940000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "関東なんですね！　台風はどうでしたか？",
+            "timestamp": "2022-08-14T10:03:20.927000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "私のところは意外と被害が少なかったです。少し強い雨が短時間降ったくらいでした。",
+            "timestamp": "2022-08-14T10:03:57.678000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "よかったです！　昔は台風といえば九州、沖縄って感じでしたけどね。",
+            "timestamp": "2022-08-14T10:04:19.307000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "たしかに、6月とかに多いイメージです。",
+            "timestamp": "2022-08-14T10:04:34.014000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "お天気の分布が変わってきたんですかねー。",
+            "timestamp": "2022-08-14T10:04:59.203000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "梅雨もすぐに明けましたしね。",
+            "timestamp": "2022-08-14T10:05:11.257000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "ですよね。梅雨の後のほうが雨が多かったです。",
+            "timestamp": "2022-08-14T10:05:25.460000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "私もそれ思いました、しかも水害級。",
+            "timestamp": "2022-08-14T10:05:39.870000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "ですよね。今年は雨多い印象ですね。そちらはどうですか？",
+            "timestamp": "2022-08-14T10:05:56.178000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "不安定な天気が多い印象です、それから関東は暑さがヤバいですね。",
+            "timestamp": "2022-08-14T10:06:19.227000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "あー。確かに暑いです。夜寝苦しいですよね。",
+            "timestamp": "2022-08-14T10:06:32.845000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "はい、3時間に1回くらい起きてしまいます。",
+            "timestamp": "2022-08-14T10:06:58.818000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "ですよねー。クーラー切れたらてきめんに目が覚めます。",
+            "timestamp": "2022-08-14T10:07:12.498000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "ずっとONだと体が冷えるし、タイマーでOFFになるとすぐ目が覚めます。",
+            "timestamp": "2022-08-14T10:08:07.719000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "ですです。朝まで入れてると、風邪ひきそうですよね。",
+            "timestamp": "2022-08-14T10:08:26.996000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "そうなんです、なので私今年は一度もエアコンつけてないです。",
+            "timestamp": "2022-08-14T10:08:45.327000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "おーすごいです！　扇風機とかは使ってます？",
+            "timestamp": "2022-08-14T10:09:12.648000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "はい、扇風機は常にONしてます。それでちょうどいい感じです。",
+            "timestamp": "2022-08-14T10:09:30.838000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "朝方とかは、私もそれでちょうどいいですねー。できるだけクーラー使わずにいたいんですが。",
+            "timestamp": "2022-08-14T10:09:49.678000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "体に慣れることが大事かもですね、お互い体調には気を付けていきましょう。",
+            "timestamp": "2022-08-14T10:11:18.231000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "そうですね。体調管理頑張りましょう！",
+            "timestamp": "2022-08-14T10:11:28.455000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2851,
+    "interlocutors": [
+        "DG",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-24T16:28:46.511000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-24T16:28:56.236000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "今日はさっきから雷がなりだしました",
+            "timestamp": "2022-08-24T16:29:07.633000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "こちらもですが、もう止みました。小鳥がないています。",
+            "timestamp": "2022-08-24T16:29:29.014000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "そういえばセミが静かになっちゃいました。もう9月ですね",
+            "timestamp": "2022-08-24T16:29:53.661000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "もうそんな季節ですね。今年は気温が少しおかしかったですね。",
+            "timestamp": "2022-08-24T16:30:14.419000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "すっごい暑さでしたよね。燃えそうな。",
+            "timestamp": "2022-08-24T16:30:26.782000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "うちの方はそんなに気温が上がらなかったのですが、そちらは暑かったのですか？",
+            "timestamp": "2022-08-24T16:30:52.237000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "本当ですかー！こちら神奈川ですがひどいとき３８度とかでした",
+            "timestamp": "2022-08-24T16:31:15.718000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "こちらも神奈川です！こちらは33度くらいが最高でした。",
+            "timestamp": "2022-08-24T16:31:38.478000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "場所によるんですね！同じ県内なのはなんだか親近感があります！",
+            "timestamp": "2022-08-24T16:31:58.725000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。ちなみにこちらは湘南地方です。",
+            "timestamp": "2022-08-24T16:32:16.077000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "あれ、同じ！じゃあ温度計なのか！なぜだ！",
+            "timestamp": "2022-08-24T16:32:36.762000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "あれ？　おかしいですね。",
+            "timestamp": "2022-08-24T16:33:00.667000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "車に乗っていたら外気温４０とか出た日がありました",
+            "timestamp": "2022-08-24T16:33:20.325000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "気温というより湿度がきつかったです。",
+            "timestamp": "2022-08-24T16:33:42.050000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "本当に外に出れないレベルでしたね。いや、家にいてもずっとドライで",
+            "timestamp": "2022-08-24T16:34:04.702000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "今日も気温は30度いっていないですが、湿度でむんむんしています。",
+            "timestamp": "2022-08-24T16:34:25.877000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "そうですねーエアコン止めると不快です。",
+            "timestamp": "2022-08-24T16:34:47.096000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "エアコンないといられませんね。",
+            "timestamp": "2022-08-24T16:35:04.062000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "ほんとですね。電気代がつらいです",
+            "timestamp": "2022-08-24T16:35:35.315000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "電気代、確認していないです！　怖いです。",
+            "timestamp": "2022-08-24T16:35:53.762000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "夏になってから恐怖です。ホラーよりぞっとする",
+            "timestamp": "2022-08-24T16:36:14.718000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "朝から晩までずっとエアコンつけているのは今年が初めてかも。",
+            "timestamp": "2022-08-24T16:36:35.499000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "我が家も同じです。止めても止めるだけ無駄みたいになりましたよね",
+            "timestamp": "2022-08-24T16:36:51.485000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "始めは電気不足だったのでいない部屋は消していたんですけどね。",
+            "timestamp": "2022-08-24T16:37:13.244000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "ああ、テレビとかでも呼びかけていましたね！",
+            "timestamp": "2022-08-24T16:37:29.449000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "途中から解消されたようですね。",
+            "timestamp": "2022-08-24T16:37:41.147000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "そういえばそんなことあったなと思っちゃいました！",
+            "timestamp": "2022-08-24T16:37:52.266000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "そういえば、ですね。",
+            "timestamp": "2022-08-24T16:37:58.800000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

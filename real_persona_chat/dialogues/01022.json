@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1022,
+    "interlocutors": [
+        "AW",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-11T16:16:24.639000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-11T16:16:26.672000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "今年の夏どこかにお出かけする予定はありますか？",
+            "timestamp": "2022-08-11T16:17:02.607000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "今年はプールに行くくらいですね、秋くらいにはまたどこかに行きたいです。",
+            "timestamp": "2022-08-11T16:17:31.623000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "プールいいですね！最後に行ったの、記憶がないくらい昔です",
+            "timestamp": "2022-08-11T16:18:08.766000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "本当ですか？たまにはいいですよー、海はどうですか？",
+            "timestamp": "2022-08-11T16:18:47.184000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "海は数年前に行きました！",
+            "timestamp": "2022-08-11T16:19:31.221000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "海は暑いですけどね。秋頃には川へキャンプでも行きたいと考えてます。",
+            "timestamp": "2022-08-11T16:20:02.710000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "いいですね、キャンプには結構行くんですか？",
+            "timestamp": "2022-08-11T16:20:57.849000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "いえ、実は一度も！あなたはどうですか？",
+            "timestamp": "2022-08-11T16:21:15.861000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "私は子供のころはよく家族と行ってましたが、大人になってからはないですねー",
+            "timestamp": "2022-08-11T16:21:48.963000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "そうですよねー、わたしも子どもの頃行ったきりです。",
+            "timestamp": "2022-08-11T16:22:15.150000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "道具をそろえるのが大変なんですよね、車も必要ですし",
+            "timestamp": "2022-08-11T16:22:42.809000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "今は手ぶらで行けるキャンプ場があるので、そこに行こうかと。",
+            "timestamp": "2022-08-11T16:23:05"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "そういうのがあるんですね！",
+            "timestamp": "2022-08-11T16:23:16.654000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "ただ、そういう所は割と人気で予約が10月くらいまで埋まってました。",
+            "timestamp": "2022-08-11T16:23:53.085000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "すごい人気ですね！キャンプ流行ってますもんね",
+            "timestamp": "2022-08-11T16:24:59.099000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "あなた自身は、どこかへ行きたいとか考えてないですか？",
+            "timestamp": "2022-08-11T16:25:23.086000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "北海道でカニが食べたいですねー",
+            "timestamp": "2022-08-11T16:26:30.343000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "いいですねー、北海道。わたしも海鮮丼食べたいですね！",
+            "timestamp": "2022-08-11T16:26:49.585000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "海鮮丼もいいですね！グルメの旅がしたいです",
+            "timestamp": "2022-08-11T16:27:20.431000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "そうですねー、食べ歩きとかも楽しそうです。",
+            "timestamp": "2022-08-11T16:27:59.891000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "好きな食べ物とかありますか？",
+            "timestamp": "2022-08-11T16:28:41.952000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "辛いものが好きです！暑い季節に辛いもの食べて汗かくのがいいですねー。",
+            "timestamp": "2022-08-11T16:29:13.710000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "私も同じです！辛いラーメンとかカレーとか汗だくで食べてます",
+            "timestamp": "2022-08-11T16:30:01.328000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "たまにむしょうに担々麺などが食べたくなります。",
+            "timestamp": "2022-08-11T16:30:19.891000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "担々麵ってしびれる系と辛い系がありますよね、どっち派ですか？",
+            "timestamp": "2022-08-11T16:31:28.223000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "しびれる系ってかなり辛いのでしょうか？担々麺は醤油よりゴマ味噌が好きです。",
+            "timestamp": "2022-08-11T16:32:09.845000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "しびれる系は舌が麻痺して味がわからなくなるレベルでした",
+            "timestamp": "2022-08-11T16:33:22.059000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "それは醤油系かも知れないですね！今日はありがとうございました。",
+            "timestamp": "2022-08-11T16:33:45.540000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

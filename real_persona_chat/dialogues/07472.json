@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7472,
+    "interlocutors": [
+        "BT",
+        "IF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BT",
+            "text": "私、麺なら、やっぱりうどんが好きかも。",
+            "timestamp": "2022-08-02T19:14:16.913000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IF",
+            "text": "冷たいと温かいなら、どちらが好きですか？",
+            "timestamp": "2022-08-02T19:14:38.099000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BT",
+            "text": "悩みますが、あったかいのがいいかな",
+            "timestamp": "2022-08-02T19:14:53.883000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IF",
+            "text": "あったかいうどん、いいですよね。トッピングに何かのせますか？",
+            "timestamp": "2022-08-02T19:15:39.048000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BT",
+            "text": "贅沢に、えび天がいい！",
+            "timestamp": "2022-08-02T19:15:56.108000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IF",
+            "text": "ゴージャス。他になにもいらない",
+            "timestamp": "2022-08-02T19:16:18.653000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BT",
+            "text": "好きなトッピングありますか？",
+            "timestamp": "2022-08-02T19:16:29.951000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IF",
+            "text": "地味に天かすか、わかめとかも好き",
+            "timestamp": "2022-08-02T19:16:49.234000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BT",
+            "text": "たっぷりわかめもおいしいですよね。たまごもつけたい！",
+            "timestamp": "2022-08-02T19:17:03.597000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IF",
+            "text": "栄養しっかりとれそうですね。",
+            "timestamp": "2022-08-02T19:17:17.723000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BT",
+            "text": "ちくわ天も好きだし、うどんが見えなくなりそう。",
+            "timestamp": "2022-08-02T19:17:37.397000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IF",
+            "text": "豪華なうどん、一度味わってみたいものです。",
+            "timestamp": "2022-08-02T19:18:18.519000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BT",
+            "text": "安いけど、贅沢な感じがしていいですよね。山盛りトッピング！",
+            "timestamp": "2022-08-02T19:18:39.894000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IF",
+            "text": "大食い挑戦メニューになりそう",
+            "timestamp": "2022-08-02T19:18:59.797000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BT",
+            "text": "食べきれないかも。ははは。",
+            "timestamp": "2022-08-02T19:19:13.026000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IF",
+            "text": "なんか食べてみたくなったので、こんど自分で作ってみようと思います",
+            "timestamp": "2022-08-02T19:19:47.162000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BT",
+            "text": "いいですね！　ところで、麺なら何でも好きなんですか？ラーメンとかも。",
+            "timestamp": "2022-08-02T19:20:11.838000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IF",
+            "text": "ラーメンは、ちょっとハードル高いんですよね。ラーメン屋に入りづらくて。",
+            "timestamp": "2022-08-02T19:20:49.612000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BT",
+            "text": "え？　なんでなんで？？",
+            "timestamp": "2022-08-02T19:20:57.984000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IF",
+            "text": "うーん、ラーメン屋、なんか入りづらいんです。食べるとしたら作ります。",
+            "timestamp": "2022-08-02T19:22:03.916000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BT",
+            "text": "男の人ばっかりだからかな？　作るのは得意ですか？",
+            "timestamp": "2022-08-02T19:22:26.938000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IF",
+            "text": "そうですね、あまり手をかけない程度に作るって感じです。",
+            "timestamp": "2022-08-02T19:23:30.460000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BT",
+            "text": "自分で作ると、好きなもの入れられますもんね。嫌いなものも抜けるし！",
+            "timestamp": "2022-08-02T19:23:52.713000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IF",
+            "text": "そうですよね、量も調節できるし。好きなものに偏っちゃいますけれど。",
+            "timestamp": "2022-08-02T19:24:28.046000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BT",
+            "text": "いいですねー。おなかすいてきました。",
+            "timestamp": "2022-08-02T19:25:13.010000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IF",
+            "text": "そういえば夕食はまだですか？",
+            "timestamp": "2022-08-02T19:25:27.321000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BT",
+            "text": "まだです。食欲ないかなって思ってたけど、しゃべってるうちに麺が食べたくなってきました！",
+            "timestamp": "2022-08-02T19:25:47.150000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IF",
+            "text": "それはよかった！",
+            "timestamp": "2022-08-02T19:26:00.474000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BT",
+            "text": "おいしい話、ありがたいです！",
+            "timestamp": "2022-08-02T19:26:14.640000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IF",
+            "text": "夏バテしないようにしっかり食べないといけないですね。",
+            "timestamp": "2022-08-02T19:26:36.958000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

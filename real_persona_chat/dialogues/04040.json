@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4040,
+    "interlocutors": [
+        "AJ",
+        "FL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-06T15:31:02.625000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-06T15:31:10.618000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AJ",
+            "text": "サッカーは興味ありますか？",
+            "timestamp": "2022-09-06T15:31:51.019000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FL",
+            "text": "サッカーですか。高校生の体育の授業が最後ですかね。",
+            "timestamp": "2022-09-06T15:31:55.842000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AJ",
+            "text": "そうですか。テレビで試合を観たことはありますか？",
+            "timestamp": "2022-09-06T15:32:27.365000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FL",
+            "text": "なんか日本代表がどっかと戦うってなって、話題になっているときは見たりしますね。",
+            "timestamp": "2022-09-06T15:32:53.914000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AJ",
+            "text": "なら、今年はワールドカップがありますよ。",
+            "timestamp": "2022-09-06T15:33:07.441000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FL",
+            "text": "ほうほう。今の日本はどんな感じなんですか？",
+            "timestamp": "2022-09-06T15:33:25.082000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AJ",
+            "text": "あまりニュースになってないですが、今年は厳しいと思います。対戦相手が悪いです。",
+            "timestamp": "2022-09-06T15:33:48.743000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FL",
+            "text": "あーなるほど。ちなみに相手は？",
+            "timestamp": "2022-09-06T15:33:59.290000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AJ",
+            "text": "ドイツ、スペイン、コスタリカです。やばいですよ",
+            "timestamp": "2022-09-06T15:34:12.850000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FL",
+            "text": "ほうほう。ドイツスペインはよく聞くイメージですね。",
+            "timestamp": "2022-09-06T15:34:32.571000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AJ",
+            "text": "どちらも優勝候補ですからね。運良ければ、行けるかもですが、まず厳しいでしょうね。",
+            "timestamp": "2022-09-06T15:35:03.709000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FL",
+            "text": "グループから何チームあがれるんですか？",
+            "timestamp": "2022-09-06T15:35:27.334000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AJ",
+            "text": "基本２チームですが、グループによっては３チーム上がれます",
+            "timestamp": "2022-09-06T15:35:58.986000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FL",
+            "text": "厳しいですね。がんばってほしい！",
+            "timestamp": "2022-09-06T15:36:04.523000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AJ",
+            "text": "そうでうすね。でも場所がカタールで、日本で見れるかどうか実は、不明なんです。",
+            "timestamp": "2022-09-06T15:36:24.409000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FL",
+            "text": "えぇ！放送がないかもってことですか？",
+            "timestamp": "2022-09-06T15:36:37.089000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AJ",
+            "text": "あると思いますが、時間帯が深夜とかになるかもです。",
+            "timestamp": "2022-09-06T15:36:52.309000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FL",
+            "text": "なるほど。それは厳しいですね。",
+            "timestamp": "2022-09-06T15:37:12.311000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AJ",
+            "text": "時間があえば、観ますが。確実に寝不足ですね。",
+            "timestamp": "2022-09-06T15:37:28.160000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FL",
+            "text": "確かに。しかも負けてたりしたら、やる気なくなりそうです。",
+            "timestamp": "2022-09-06T15:37:45.657000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AJ",
+            "text": "次の日の仕事は、手につかないと思います。",
+            "timestamp": "2022-09-06T15:38:11.998000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FL",
+            "text": "わかります。jリーグもごらんになるのですか？",
+            "timestamp": "2022-09-06T15:38:48.396000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AJ",
+            "text": "jリーグは、あまりですかね。ニュースとか結果はたまに観ますが。何か興味あるスポーツありますか？",
+            "timestamp": "2022-09-06T15:39:30.808000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FL",
+            "text": "私はテニスをしてたので、テニス位ですかね。",
+            "timestamp": "2022-09-06T15:39:43.170000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AJ",
+            "text": "ああ、ジョコビッチ大丈夫ですか？",
+            "timestamp": "2022-09-06T15:39:57.747000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FL",
+            "text": "え！なんかあったんですか？",
+            "timestamp": "2022-09-06T15:40:08.924000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AJ",
+            "text": "オーストラリアかな？！入国できなかったですよね？",
+            "timestamp": "2022-09-06T15:40:25.787000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FL",
+            "text": "あぁ。でもなんか前もなかったですか？",
+            "timestamp": "2022-09-06T15:40:55.021000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

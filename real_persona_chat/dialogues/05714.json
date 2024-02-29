@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5714,
+    "interlocutors": [
+        "HB",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HB",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-28T15:03:20.132000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-28T15:03:24.151000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HB",
+            "text": "あなたは趣味とかありますか？",
+            "timestamp": "2022-09-28T15:03:32.231000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "私は本を読むことですかね。",
+            "timestamp": "2022-09-28T15:03:44.512000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HB",
+            "text": "本ですか。私もたまに読みますよ。",
+            "timestamp": "2022-09-28T15:03:56.431000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "どんな本を読みますか？",
+            "timestamp": "2022-09-28T15:04:04.787000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HB",
+            "text": "専門書とかが多いかもしれません。",
+            "timestamp": "2022-09-28T15:04:15.326000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "ほぉ。どんな分野ですか？",
+            "timestamp": "2022-09-28T15:04:22.344000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HB",
+            "text": "最近はカーボンニュートラルに関する本を読んでいました。",
+            "timestamp": "2022-09-28T15:04:38.647000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "うお。すごい専門的な感じですね。",
+            "timestamp": "2022-09-28T15:04:49.432000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HB",
+            "text": "カーボンの排出量の総和を0にする取り組みです。",
+            "timestamp": "2022-09-28T15:05:12.392000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "なるほど。大学の専攻もそういう感じですか？",
+            "timestamp": "2022-09-28T15:05:24.170000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HB",
+            "text": "どちらかというと就職したい分野がそういう取り組みをしている企業です。",
+            "timestamp": "2022-09-28T15:05:49.676000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "あぁ、なるほど。それ用にそういう本を読まれるって感じですか？",
+            "timestamp": "2022-09-28T15:06:06.627000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HB",
+            "text": "そです。あなたはどんな本を？",
+            "timestamp": "2022-09-28T15:06:24.322000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "私は心理学の本とかを最近読んでます。",
+            "timestamp": "2022-09-28T15:06:36.669000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。興味があるんですか？",
+            "timestamp": "2022-09-28T15:06:56.495000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "大学の時に心理学専攻していて、学び直してます。",
+            "timestamp": "2022-09-28T15:07:10.162000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HB",
+            "text": "なるほど。占いにも活かせるんですかね。",
+            "timestamp": "2022-09-28T15:07:29.171000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "占いとかお好きなんですか？",
+            "timestamp": "2022-09-28T15:07:42.548000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HB",
+            "text": "いえ、占い師はどういう風にして占っているのか気になって。",
+            "timestamp": "2022-09-28T15:08:08.215000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "あぁ、心理学のテクニックとかを使う占い師もいますね。",
+            "timestamp": "2022-09-28T15:08:33.704000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HB",
+            "text": "相手に占いを信じ込ませるためにどういうテクニックを使うのか気になります。",
+            "timestamp": "2022-09-28T15:08:59.251000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "最初に当たりそうなことを言うと、引き込まれやすいみたいですね。心理学とはあまり関係ありませんが。",
+            "timestamp": "2022-09-28T15:09:56.064000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HB",
+            "text": "あとは最近話題の宗教とかも、ひとがどういう心理状況で引き込まれていくのか、気になったり。",
+            "timestamp": "2022-09-28T15:10:40.513000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "なるほど。そのあたりは心理学とか社会学とかになりますかね。",
+            "timestamp": "2022-09-28T15:10:59.087000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。面白そうです。",
+            "timestamp": "2022-09-28T15:11:15.329000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "知識として持っておくと使える部分があったりするかもです。",
+            "timestamp": "2022-09-28T15:11:30.535000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。いい勉強になりそうです。",
+            "timestamp": "2022-09-28T15:11:53.138000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "少しばかり学ぶには向いてると思います。心理学とか。",
+            "timestamp": "2022-09-28T15:12:07.845000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

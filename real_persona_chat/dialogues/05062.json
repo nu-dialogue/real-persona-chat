@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5062,
+    "interlocutors": [
+        "FV",
+        "FF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-19T11:04:45.114000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T11:04:50.201000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "お昼ごはんは何を食べますか？",
+            "timestamp": "2022-09-19T11:04:58.735000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FF",
+            "text": "今のところは昨日の残りの肉じゃがになるかと思われます。",
+            "timestamp": "2022-09-19T11:05:12.778000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "なるほど、肉じゃがいいですね！和っぽくて。和洋、中華などでは何が好きですか？",
+            "timestamp": "2022-09-19T11:05:40.541000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FF",
+            "text": "どれも好きですが、あえて言うならやはり和食ですね。変わったところならメキシコ料理好きです！",
+            "timestamp": "2022-09-19T11:06:00.893000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "メキシコというと、ステーキとか、タコスとかのイメージがあります。",
+            "timestamp": "2022-09-19T11:06:30.126000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FF",
+            "text": "そうですね！タコ美味しいですね。基本的に野菜類好きなのでメキシコ料理はそう言うのが多くていいですね。",
+            "timestamp": "2022-09-19T11:06:53.900000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "あー、あとはスパイシーだったり、辛いイメージがあります。",
+            "timestamp": "2022-09-19T11:07:12.761000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FF",
+            "text": "辛いのもいけますね。パクチーもいけるのでタコソースはどれでも好きです。",
+            "timestamp": "2022-09-19T11:07:35.003000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "パクチーってメキシコ料理とかにもあるんですか？タイやベトナムのイメージでした。",
+            "timestamp": "2022-09-19T11:07:50.660000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FF",
+            "text": "入ってますね！トラユダスと言う大きなあげたトルティーヤにたくさん乗せるのがあります。",
+            "timestamp": "2022-09-19T11:08:21.410000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "トルトゥーヤにもサイズがあったりして、呼び名が違うのですか？",
+            "timestamp": "2022-09-19T11:08:45.146000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FF",
+            "text": "そうですね。半分にすればタコ、丸めてブリトーなどですね。",
+            "timestamp": "2022-09-19T11:09:10.619000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "へぇ、全然知りませんでした！ほかにはメキシコで変わった料理はありますか？",
+            "timestamp": "2022-09-19T11:09:44.101000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FF",
+            "text": "モレ料理と言うチョコレートのソースがあってそれもうまいですね。",
+            "timestamp": "2022-09-19T11:10:01.741000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "チョコレートソース！？チョコ大好きなので、気になりました。何にかけるんですか？",
+            "timestamp": "2022-09-19T11:10:26.658000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FF",
+            "text": "それこそ先ほどのトラユダスにはかかってますね。地方の名産料理ですね！",
+            "timestamp": "2022-09-19T11:10:52.862000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "ほぇぇ、まだまだ全く知らない料理はたくさんありますね！あとで調べます。",
+            "timestamp": "2022-09-19T11:11:31.433000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FF",
+            "text": "ぜひぜひ！あと有名なのはチリコンカンですかね！豆のトマト煮込み的な。",
+            "timestamp": "2022-09-19T11:11:52.011000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "あ、チリコンカンは食べたことあります！なんか、前菜というかお通しのイメージです。",
+            "timestamp": "2022-09-19T11:12:18.667000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FF",
+            "text": "そうですか！結構ボールで食べるイメージもありますね。あとはワカモレのディップとかですね！",
+            "timestamp": "2022-09-19T11:12:52.299000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "ワカモレ！？なんですかそれ？",
+            "timestamp": "2022-09-19T11:13:02.038000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FF",
+            "text": "アボカドをペーストにしたものでナチョスと一緒につけて食べます！",
+            "timestamp": "2022-09-19T11:13:19.475000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "アボカドって、人間は好きみたいですが、動物は吐いたり、死んだりしてしまうという記事を最近見ました。",
+            "timestamp": "2022-09-19T11:14:00.052000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FF",
+            "text": "はい。とても毒性が強くてなぜか人間は平気みたいですね。",
+            "timestamp": "2022-09-19T11:14:21.658000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "毒性があるんですね！すでに皮の段階で結構防御力高そうなのに。",
+            "timestamp": "2022-09-19T11:14:45.701000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FF",
+            "text": "不思議な進化ですよね。まぁそのうえで乱獲されてますが。",
+            "timestamp": "2022-09-19T11:15:05.822000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "森のバターってネーミングセンス、ピンときません。",
+            "timestamp": "2022-09-19T11:15:26.653000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FF",
+            "text": "うーん。確かに。美味しいですけどね。",
+            "timestamp": "2022-09-19T11:15:37.130000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

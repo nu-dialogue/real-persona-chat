@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13985,
+    "interlocutors": [
+        "FU",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-04T22:42:48.928000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-04T22:42:54.651000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "肉と魚どっちが好きですか？",
+            "timestamp": "2022-10-04T22:43:55.519000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "肉のほうがすきかなぁ。魚はあんまり食べないです",
+            "timestamp": "2022-10-04T22:44:13.560000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "魚高いですもんね",
+            "timestamp": "2022-10-04T22:44:27.109000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "そうですね。寄生虫もいるし。",
+            "timestamp": "2022-10-04T22:44:49.380000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "たしかに、魚は寄生虫問題ありますね",
+            "timestamp": "2022-10-04T22:45:06.047000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "前見ちゃってトラウマです",
+            "timestamp": "2022-10-04T22:45:20.280000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "生きてるやつですか？",
+            "timestamp": "2022-10-04T22:45:28.745000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "はい。うねってるアニサキスを見ました",
+            "timestamp": "2022-10-04T22:45:42.714000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "うわぁ、きついですね",
+            "timestamp": "2022-10-04T22:45:50.168000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "それ以降魚があんまり食べられないです",
+            "timestamp": "2022-10-04T22:46:09.846000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "アニサキスって焼けば問題ないんでしたっけ",
+            "timestamp": "2022-10-04T22:46:29.627000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "問題はないと思うんですけど、気持ち悪くないですか？",
+            "timestamp": "2022-10-04T22:46:47.026000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "死んでても寄生虫食べようとは思えないですね",
+            "timestamp": "2022-10-04T22:47:08.390000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "そうなんですよ。",
+            "timestamp": "2022-10-04T22:47:21.732000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "僕も肉派です",
+            "timestamp": "2022-10-04T22:47:34.251000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "肉料理だと何が好きですか？",
+            "timestamp": "2022-10-04T22:47:46.697000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "焼き肉が好きです",
+            "timestamp": "2022-10-04T22:50:08.736000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "安定においしいですよね",
+            "timestamp": "2022-10-04T22:50:17.042000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "なんだかんだ焼き肉が一番おいしいです",
+            "timestamp": "2022-10-04T22:50:29.048000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "よく食べに行くんですか？",
+            "timestamp": "2022-10-04T22:50:41.141000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "はい。家でもよく作ります",
+            "timestamp": "2022-10-04T22:50:50.880000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "家でも作るんですね",
+            "timestamp": "2022-10-04T22:51:00.223000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "<GR>さんはどの肉料理が好きですか？",
+            "timestamp": "2022-10-04T22:51:12.120000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "んー、しゃぶしゃぶかな",
+            "timestamp": "2022-10-04T22:51:21.254000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "しゃぶしゃぶもいいですね",
+            "timestamp": "2022-10-04T22:51:28.889000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "さっぱりしてて好きです",
+            "timestamp": "2022-10-04T22:51:44.445000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "ヘルシーですよね",
+            "timestamp": "2022-10-04T22:51:51.940000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "そうですね。",
+            "timestamp": "2022-10-04T22:52:00.058000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 456,
+    "interlocutors": [
+        "BI",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-10T13:59:17.950000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちは、お願いします！",
+            "timestamp": "2022-08-10T13:59:30.135000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "今日も晴天ですが、そちらも暑いですか？",
+            "timestamp": "2022-08-10T13:59:45.256000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "朝は暑かったんですが、通り雨が降ってから湿気がすごいです。",
+            "timestamp": "2022-08-10T14:00:15.433000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "雨が降ったんですね！湿度が高まるとなおさら過ごしにくいですね。",
+            "timestamp": "2022-08-10T14:00:43.767000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "最近はほぼ一日エアコンの部屋で過ごしているので、あまり関係ないとも言えますけどね。",
+            "timestamp": "2022-08-10T14:01:24.135000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "確かに！私も廊下に出て暑さを感じるくらいです。",
+            "timestamp": "2022-08-10T14:01:41.712000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "我が家ではそれが嫌で、ドアを開けてエアコンを入れるようにしています。",
+            "timestamp": "2022-08-10T14:02:05.082000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "そうなんですね！家中涼しくなりますか？",
+            "timestamp": "2022-08-10T14:02:28.183000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "はい、1階だけですがどこに行っても涼しいので気温差がなくて過ごしやすいですよ。",
+            "timestamp": "2022-08-10T14:03:00.322000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "それはいいです！うちは2階からの熱気が下りてきて、廊下はやばいです。",
+            "timestamp": "2022-08-10T14:03:41.538000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "そうなりますねー、最近の家だともっと断熱機能高くって2階からの熱気も防げるんでしょうか。",
+            "timestamp": "2022-08-10T14:04:12.286000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "どうなんでしょう。そんな家だったら最高なんですけれど。",
+            "timestamp": "2022-08-10T14:04:43.721000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "我が家はエアコンが古いので、そろそろ買い替えたいなって思っています。",
+            "timestamp": "2022-08-10T14:05:24.856000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "エアコン、今はお値段お高そうですね。",
+            "timestamp": "2022-08-10T14:06:00.336000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "でもどれも節電効果が高いって聞きました。",
+            "timestamp": "2022-08-10T14:06:26.742000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "聞きますね！毎年性能も良くなってるようで。",
+            "timestamp": "2022-08-10T14:06:51.661000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "我が家のは17年くらいになるので、多分かなり電力を消費していると思います。",
+            "timestamp": "2022-08-10T14:07:20.493000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "物持ちが良いですね！それは電力がかなり変わってきそうです。",
+            "timestamp": "2022-08-10T14:07:44.654000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "電気屋さんにもそろそろ買い替えた方がいって言われちゃいました。",
+            "timestamp": "2022-08-10T14:08:06.001000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "では、けっこうお探しになっているんですか？",
+            "timestamp": "2022-08-10T14:08:21.279000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "それが全く。エアコンが動いているうちって、買い替えに二の足を踏んでしまいますね。",
+            "timestamp": "2022-08-10T14:08:48.870000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "家電って、変えたいと思いつつ、壊れるまでは、ってなっちゃいます。",
+            "timestamp": "2022-08-10T14:09:16.415000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "そうなんです。同じ理由で洗濯機もなかなか買い替えができません。",
+            "timestamp": "2022-08-10T14:09:35.747000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "うちも洗濯機です！変えたいけど、まだ動くんですよねー。",
+            "timestamp": "2022-08-10T14:10:01.955000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "最近のは温水洗浄もあると聞いたので、それが気になっています。",
+            "timestamp": "2022-08-10T14:10:23.601000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "そんなのがあるんですね！汚れがよく落ちそうです！",
+            "timestamp": "2022-08-10T14:10:41.478000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "もし買い替えるとしたらエコアンより洗濯機のほうが先になりそうです。",
+            "timestamp": "2022-08-10T14:10:59.848000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "そうなんですか。いいお買い物ができるといいですね！",
+            "timestamp": "2022-08-10T14:11:15.638000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "はい、ありがとうございます。それではまた！",
+            "timestamp": "2022-08-10T14:11:26.793000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

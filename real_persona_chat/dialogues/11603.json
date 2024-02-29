@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11603,
+    "interlocutors": [
+        "FA",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんばんは。明日はお仕事ですか？",
+            "timestamp": "2022-08-23T21:01:01.655000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんばんは。はい、そうですよ",
+            "timestamp": "2022-08-23T21:01:12.091000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね。私もです。通勤時間は長い方ですか？",
+            "timestamp": "2022-08-23T21:01:40.169000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "40分くらいです。電車で",
+            "timestamp": "2022-08-23T21:01:56.984000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "いい感じですね。",
+            "timestamp": "2022-08-23T21:02:11.023000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "まあまあって感じですよね。職場の近くは家賃が高くて",
+            "timestamp": "2022-08-23T21:02:39.329000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "家賃は重要ですよね。",
+            "timestamp": "2022-08-23T21:03:06.835000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "そうですね。あとは周囲にお店があるかどうかを重視します",
+            "timestamp": "2022-08-23T21:03:27.316000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "使い勝手が良いお店とか大事ですよね。",
+            "timestamp": "2022-08-23T21:03:56.517000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "はい、幅広い品ぞろえの店が近所にあれば事足りるかなと思うので",
+            "timestamp": "2022-08-23T21:04:23.045000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "品ぞろえが豊富な方が便利ですよね。",
+            "timestamp": "2022-08-23T21:04:58.006000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "はい、いちいち店を回るのは面倒ですからね。",
+            "timestamp": "2022-08-23T21:05:21.983000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "ほんとに。1回で買い物が済むと便利ですよね。",
+            "timestamp": "2022-08-23T21:05:53.846000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "最寄り駅と自宅の直線上にあればなおよしです",
+            "timestamp": "2022-08-23T21:06:19.946000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "理想ですわー。",
+            "timestamp": "2022-08-23T21:06:43.971000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "店選びでは何を重視していますか？",
+            "timestamp": "2022-08-23T21:07:14.439000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "食料品だと新鮮さですかね。",
+            "timestamp": "2022-08-23T21:07:57.730000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "なるほど、確かにそうですね。お値段は重視しますか？",
+            "timestamp": "2022-08-23T21:08:18.433000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "はい。手頃だとなおよしです。",
+            "timestamp": "2022-08-23T21:09:10.493000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "なるほど、参考になります",
+            "timestamp": "2022-08-23T21:09:21.095000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "私はまとめ買いするタイプですが、そちらはいかがですか",
+            "timestamp": "2022-08-23T21:10:11.469000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "僕もそうですね。一気に買ってしまいます。買いなおすのは面倒ですし",
+            "timestamp": "2022-08-23T21:10:33.055000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "効率良いですよね。",
+            "timestamp": "2022-08-23T21:10:49.677000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "はい、不要なものを買ってしまうリスクもありますけどね",
+            "timestamp": "2022-08-23T21:11:09.097000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "ありますよねー。",
+            "timestamp": "2022-08-23T21:11:21.513000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "余ってしまったり、全く使わなかったりします",
+            "timestamp": "2022-08-23T21:11:36.310000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "私も結構あります。買いたいという欲望が勝つのかな？",
+            "timestamp": "2022-08-23T21:12:20.836000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "そうでしょうね。大量に買うものの中に紛れてしまえば値段は目立たないですし",
+            "timestamp": "2022-08-23T21:12:48.624000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "分かる気がします。",
+            "timestamp": "2022-08-23T21:13:06.717000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "一長一短ですね。",
+            "timestamp": "2022-08-23T21:13:14.910000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

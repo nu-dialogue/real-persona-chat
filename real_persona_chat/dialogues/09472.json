@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9472,
+    "interlocutors": [
+        "EQ",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-08T15:15:35.148000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！お願いします！",
+            "timestamp": "2022-08-08T15:15:39.418000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "チャットはふだんよくしますか？",
+            "timestamp": "2022-08-08T15:15:08.259000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "チャット結構使いますね。そちらはどうですか？",
+            "timestamp": "2022-08-08T15:16:14.661000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "仕事で使うくらいです。",
+            "timestamp": "2022-08-08T15:16:45.815000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "なるほど。Zoomとかのオンライン上の対面ツールの方が多いですか？",
+            "timestamp": "2022-08-08T15:17:19.435000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "そうでもないです。",
+            "timestamp": "2022-08-08T15:17:49.004000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "私はコロナが流行ってからかなりZoom使うようになったのですが、最初のころは慣れなくて大変でした",
+            "timestamp": "2022-08-08T15:18:26.356000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "私は最近までよくdiscordを使っていましたが、なかなか難しかったです。",
+            "timestamp": "2022-08-08T15:18:59.240000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "discord！私まだ使ったことないんですけど、使いたいと思ってました！難しいんですね",
+            "timestamp": "2022-08-08T15:19:43.665000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "管理者の方が難しいかもしれないですね。",
+            "timestamp": "2022-08-08T15:20:12.659000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "管理者が部屋作って、そこにメンバーが参加する感じなんですか？",
+            "timestamp": "2022-08-08T15:20:35.525000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "チャンネルを作るので、slackに似ているところもあります。",
+            "timestamp": "2022-08-08T15:21:13.416000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "なるほど。じゃあ最初は参加させてもらう形でいきたいと思います！",
+            "timestamp": "2022-08-08T15:22:04.421000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "そうですね。招待された人しか入れないようになっています。",
+            "timestamp": "2022-08-08T15:22:26.383000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "色々教えてもらえてイメージつかめてきました！ありがとうございます！",
+            "timestamp": "2022-08-08T15:23:02.713000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "いえいえ。discordは右側にメンバーがずらっと並ぶのが苦手だったのです。",
+            "timestamp": "2022-08-08T15:23:42.659000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "右側にずっと表示されてるんですか？邪魔そうな気がします。",
+            "timestamp": "2022-08-08T15:24:17.488000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "そうなんです。ちょっと監視されているような気がしちゃって。",
+            "timestamp": "2022-08-08T15:24:45.102000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "あ、それはすごく嫌ですね。見えない圧を感じます。",
+            "timestamp": "2022-08-08T15:25:07.884000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "メンバーによっては、ずっとオフラインでいる人もいます。",
+            "timestamp": "2022-08-08T15:25:29.650000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "それが精神健康上良い気がします。そういう監視の文化嫌だなー",
+            "timestamp": "2022-08-08T15:26:07.984000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "オフラインのまま作業しているのって変ですよね。",
+            "timestamp": "2022-08-08T15:26:33.118000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "変だけど、気持ちは察せるって感じですよね。",
+            "timestamp": "2022-08-08T15:26:56.053000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "私も結局最後はオフラインが増えました。",
+            "timestamp": "2022-08-08T15:27:13.256000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "監視文化への密かな抵抗、ですね！",
+            "timestamp": "2022-08-08T15:27:38.078000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "そうそう、やっぱり仕事は楽しくやりたいですものね。",
+            "timestamp": "2022-08-08T15:28:06.918000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "ですね！どうせやるなら楽しくやりたいです！",
+            "timestamp": "2022-08-08T15:28:22.988000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "チャットも有意義になるように使いましょう！",
+            "timestamp": "2022-08-08T15:28:50.740000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "色々なツールで快適なお仕事！ですね。ありがとうございました！",
+            "timestamp": "2022-08-08T15:29:12.178000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

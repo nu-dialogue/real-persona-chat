@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11071,
+    "interlocutors": [
+        "EZ",
+        "AL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T12:51:04.558000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AL",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-19T12:51:05.329000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "今日暑いですね。",
+            "timestamp": "2022-08-19T12:51:25.111000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AL",
+            "text": "朝は涼しかったのですが、暑いですねえ",
+            "timestamp": "2022-08-19T12:51:29.094000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "クーラーつけてますか？",
+            "timestamp": "2022-08-19T12:51:48.462000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AL",
+            "text": "ガンガンにつけています。そちらは？",
+            "timestamp": "2022-08-19T12:51:56.682000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "もちろんつけています。何度に設定していますか？",
+            "timestamp": "2022-08-19T12:52:19.508000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AL",
+            "text": "言いにくいのですが、21度です",
+            "timestamp": "2022-08-19T12:52:25.492000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "やばいですね。逆に寒くないですか？",
+            "timestamp": "2022-08-19T12:52:42.652000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AL",
+            "text": "家族5人いるので、だいぶ熱量が",
+            "timestamp": "2022-08-19T12:52:51.193000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。私は一人暮らしなのでもう少し高めですね。",
+            "timestamp": "2022-08-19T12:53:08.063000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AL",
+            "text": "エネルギー保存の法則ですね、適当にいうと",
+            "timestamp": "2022-08-19T12:53:21.648000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "難しい。部屋の広さとかもありますもんね。",
+            "timestamp": "2022-08-19T12:53:42.319000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AL",
+            "text": "今日、子供3人とも登校日だったので、熱を持ち帰った感もありました",
+            "timestamp": "2022-08-19T12:53:57.187000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "こんな日に学校あるんですね。夏休みは？",
+            "timestamp": "2022-08-19T12:54:22.466000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AL",
+            "text": "登校日でした。小学校は全員来たみたいで、中学は8人休みだったと、クラスで",
+            "timestamp": "2022-08-19T12:54:38.231000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "夏休みの間にそういう日があるってことですか？",
+            "timestamp": "2022-08-19T12:54:56.805000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AL",
+            "text": "あれ、登校日、ありませんでしたか？",
+            "timestamp": "2022-08-19T12:55:05.685000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "私が子供のころはなかった気がします。",
+            "timestamp": "2022-08-19T12:55:22.245000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AL",
+            "text": "OH、世代でしょうか。私は、飴とかアイスとか食べた記憶があります",
+            "timestamp": "2022-08-19T12:55:45.514000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "私が忘れているだけかもしれません。",
+            "timestamp": "2022-08-19T12:56:03.017000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AL",
+            "text": "私も、夢だったのかもしれません。",
+            "timestamp": "2022-08-19T12:56:12.708000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "最近はコロナで登校日数がーってのはありそうですけどね。",
+            "timestamp": "2022-08-19T12:56:36.747000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AL",
+            "text": "いやほんとに。あと、不登校もあるので、特に休みの理由は公開されないんですよ、今",
+            "timestamp": "2022-08-19T12:56:56.084000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "そんな時代なんですね。不登校とかあまりなかったなぁ。",
+            "timestamp": "2022-08-19T12:57:15.679000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AL",
+            "text": "なんか、休むと親とか先生が怖くて、頑張って行ってましたねえ",
+            "timestamp": "2022-08-19T12:57:31.511000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですよね！休みたいときはたくさんありましたけど。",
+            "timestamp": "2022-08-19T12:57:52.062000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AL",
+            "text": "あはは！体温計、こすりました！",
+            "timestamp": "2022-08-19T12:58:00.004000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "私はストーブの前であたためてました！",
+            "timestamp": "2022-08-19T12:58:14.604000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AL",
+            "text": "やりますよねえ",
+            "timestamp": "2022-08-19T12:58:24.962000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

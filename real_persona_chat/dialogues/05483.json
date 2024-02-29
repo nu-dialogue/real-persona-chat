@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5483,
+    "interlocutors": [
+        "GL",
+        "GV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GL",
+            "text": "こんにちは、よろしくお願いいたします。",
+            "timestamp": "2022-09-24T16:31:46.622000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GV",
+            "text": "こんにちは。こちらこそよろしくお願いします。",
+            "timestamp": "2022-09-24T16:31:47.891000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GL",
+            "text": "本日のお昼はなにを召し上がりましたか？",
+            "timestamp": "2022-09-24T16:33:42.673000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GV",
+            "text": "冷凍のパスタですね。雨降っていたので、外に出て食べる気になりませんでした。",
+            "timestamp": "2022-09-24T16:33:51.305000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GL",
+            "text": "冷凍のパスタおいしいですよね！何を食べましたか？",
+            "timestamp": "2022-09-24T16:34:16.806000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GV",
+            "text": "明太子味です！",
+            "timestamp": "2022-09-24T16:34:29.840000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GL",
+            "text": "明太子味良いですよね！！！私も好きです！",
+            "timestamp": "2022-09-24T16:34:57.732000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GV",
+            "text": "控えめな味付けなので食べやすいですよね。",
+            "timestamp": "2022-09-24T16:35:31.899000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GL",
+            "text": "はい！私濃厚なパスタよりもちょっと控えめな味付けのほうが好きです！",
+            "timestamp": "2022-09-24T16:36:04.452000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GV",
+            "text": "そちらはお昼何を食べられましたか？",
+            "timestamp": "2022-09-24T16:36:22.741000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GL",
+            "text": "お寿司を食べました！",
+            "timestamp": "2022-09-24T16:36:36.227000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GV",
+            "text": "いいですね！回転ずしとかですか？",
+            "timestamp": "2022-09-24T16:37:07.110000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GL",
+            "text": "はい！スシローです！",
+            "timestamp": "2022-09-24T16:37:20.080000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GV",
+            "text": "最近の回転ずしってすし以外のサイドメニューもかなり充実してていいですよねー！",
+            "timestamp": "2022-09-24T16:38:03.833000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GL",
+            "text": "はい！スシローのうどん結構おすすめです！",
+            "timestamp": "2022-09-24T16:38:21.793000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GV",
+            "text": "スシローは近くになくてあまり行かないんですが、そのうち食べてみたいです！",
+            "timestamp": "2022-09-24T16:38:50.772000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。普段どの回転寿司のお店に行きますか？",
+            "timestamp": "2022-09-24T16:39:08.313000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GV",
+            "text": "家の近くのくら寿司によく行きます！魚介ラーメンがおいしいです。",
+            "timestamp": "2022-09-24T16:39:47.851000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GL",
+            "text": "くら寿司よいですね！いつもあるサイドメニューですか？",
+            "timestamp": "2022-09-24T16:40:25.328000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GV",
+            "text": "そうですね！期間限定とかではないはずです",
+            "timestamp": "2022-09-24T16:40:47.480000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GL",
+            "text": "今度食べてみます！ラーメン結構好きです！",
+            "timestamp": "2022-09-24T16:41:19.812000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GV",
+            "text": "好きなラーメンのジャンルとかってありますか？",
+            "timestamp": "2022-09-24T16:41:41.889000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GL",
+            "text": "九州とんこつの細麺が好きです！",
+            "timestamp": "2022-09-24T16:42:07.930000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GV",
+            "text": "とんこついいですね！私は担々麵が1番好きです。",
+            "timestamp": "2022-09-24T16:42:45.971000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GL",
+            "text": "タンタンメンも好きです！おいしいお店ありますか？",
+            "timestamp": "2022-09-24T16:43:12.382000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GV",
+            "text": "石庫門って聞いたことありますか？チェーン店なんですが、本当に美味しいのでぜひ行ってみてください！",
+            "timestamp": "2022-09-24T16:43:54.957000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GL",
+            "text": "初めて聞きました！専門店があってうらやましいです！",
+            "timestamp": "2022-09-24T16:44:19.429000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GV",
+            "text": "以前は家系ラーメンにかなりはまっていたんですが、最近は全く食べなくなって、むしろ少し苦手になりました。",
+            "timestamp": "2022-09-24T16:45:48.068000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GL",
+            "text": "あー、私も好きですけど、最近は胃がもたれえてきます！たまに食べたいです！",
+            "timestamp": "2022-09-24T16:46:15.676000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GV",
+            "text": "私も味覚が変わってきたのか、最近はあまり重いものは食べれないです。",
+            "timestamp": "2022-09-24T16:46:46.072000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

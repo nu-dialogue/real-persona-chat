@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6718,
+    "interlocutors": [
+        "AS",
+        "DC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-06T12:07:09.545000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DC",
+            "text": "こんにちはー！",
+            "timestamp": "2022-10-06T12:07:19.726000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "夜ご飯の予定はありますか？",
+            "timestamp": "2022-10-06T12:07:25.163000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DC",
+            "text": "夜ご飯、今日は寒いので鍋物でもと思うのですが、実はお蕎麦を食べに行く約束があって",
+            "timestamp": "2022-10-06T12:07:50.364000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "蕎麦ですか、珍しいですね",
+            "timestamp": "2022-10-06T12:08:10.770000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DC",
+            "text": "いやぁ、数日前の暑い日に約束したので、今日はもうそういう気分じゃなくなっちゃいましたね！",
+            "timestamp": "2022-10-06T12:08:35.767000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "蕎麦は冷えますよね～",
+            "timestamp": "2022-10-06T12:08:46.607000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DC",
+            "text": "鴨そばとかもあるっちゃあるけど、せっかく美味しいお店だからザルで行きたいという気持ちもある",
+            "timestamp": "2022-10-06T12:09:15.066000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "素の味を食したいということですね",
+            "timestamp": "2022-10-06T12:09:45.540000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DC",
+            "text": "そうそう。でも今日冷たいそばはお腹冷えちゃいそうです！そちらは今日のご飯は？",
+            "timestamp": "2022-10-06T12:10:08.181000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "私は未定ですが、鍋にしようかなと思い始めました",
+            "timestamp": "2022-10-06T12:10:32.602000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、それがきっと最適解ですよ！何鍋が好きとかありますか？",
+            "timestamp": "2022-10-06T12:10:51.359000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "私はトマト鍋ですね",
+            "timestamp": "2022-10-06T12:11:02.113000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DC",
+            "text": "おおー！？トマト鍋！おしゃれ！おうちで作られるのですか？",
+            "timestamp": "2022-10-06T12:11:20.183000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "そうです！ほぼほぼトマト煮込みですが、味付け変えたりして作ってます",
+            "timestamp": "2022-10-06T12:11:42.005000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DC",
+            "text": "ええー！いいな！美味しそう！トマト系の料理、私はあまり作ったことがなく。味付けのバリエーションが",
+            "timestamp": "2022-10-06T12:12:10.250000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "煮込みはコンソメ使ったりして洋風にしますが、鍋はだしとか使って和風に仕上げるという感じです",
+            "timestamp": "2022-10-06T12:12:53.357000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DC",
+            "text": "へぇ！和風に、というのは意外です。だしも合うんですね！",
+            "timestamp": "2022-10-06T12:13:16.729000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "合います！鍋ならではの味わいがあっておいしいですよ",
+            "timestamp": "2022-10-06T12:13:49.515000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DC",
+            "text": "ええー！美味しそう。鍋だといろんな食材の味も混ざり合うし、すごく美味しそう！",
+            "timestamp": "2022-10-06T12:14:14.437000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "ちなみに実家ではキムチ鍋が多かったです",
+            "timestamp": "2022-10-06T12:14:37.910000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DC",
+            "text": "どっちも赤い！",
+            "timestamp": "2022-10-06T12:14:46.451000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "見た目はそっくりですが、味は全然違います",
+            "timestamp": "2022-10-06T12:15:11.443000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DC",
+            "text": "ふふふ、匂いも違いますからまあ間違えることはないでしょうが。キムチ鍋も美味しいですよねー！",
+            "timestamp": "2022-10-06T12:15:36.474000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "冷めた体にはよく効きます",
+            "timestamp": "2022-10-06T12:15:52.791000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DC",
+            "text": "そうそう、一気にホカホカになりますよね！いいな、食べたくなってきた。",
+            "timestamp": "2022-10-06T12:16:15.889000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "自分もです。確定ですね",
+            "timestamp": "2022-10-06T12:16:25.452000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DC",
+            "text": "うーん、今日はちょっと行き先変更するしかない！鍋屋さん探します！",
+            "timestamp": "2022-10-06T12:16:42.120000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "ぜひ温めてあげてください！",
+            "timestamp": "2022-10-06T12:16:55.932000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DC",
+            "text": "はい！ホカホカになってきます！",
+            "timestamp": "2022-10-06T12:17:05.842000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

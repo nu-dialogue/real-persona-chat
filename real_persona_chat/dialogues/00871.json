@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 871,
+    "interlocutors": [
+        "AV",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AV",
+            "text": "こんばんは。よろしくお願いします。",
+            "timestamp": "2022-08-15T22:22:39.618000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-15T22:22:51.827000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AV",
+            "text": "世間はお盆休み中ですが、あなたはゆっくり休暇を過ごされていますか？",
+            "timestamp": "2022-08-15T22:23:19.380000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "忙しいほどではないのですが、だらだらと仕事してます。",
+            "timestamp": "2022-08-15T22:23:44.840000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AV",
+            "text": "お仕事されているんですね。それはそれはお疲れ様です。",
+            "timestamp": "2022-08-15T22:24:05.614000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "<AV>さんは、夏休みは取れましたか？",
+            "timestamp": "2022-08-15T22:24:23.803000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AV",
+            "text": "はい、昨日までキャンプに行っていました。",
+            "timestamp": "2022-08-15T22:24:37.386000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "いいですね！どちらのキャンプ場に行かれたんですか？",
+            "timestamp": "2022-08-15T22:24:56.615000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AV",
+            "text": "兵庫県北部の高原ですね。冬場はスキー場になるところです。",
+            "timestamp": "2022-08-15T22:25:20.320000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "冬にスキーができるような所なのですね。気持ちよさそうですね。",
+            "timestamp": "2022-08-15T22:25:42.953000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AV",
+            "text": "涼を求めて高原にしたのですが、残念ながらとても暑かったです。",
+            "timestamp": "2022-08-15T22:26:17.063000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "あらら、そちらも暑かったんですね。こちら関東ですが、やはりとても暑いです。",
+            "timestamp": "2022-08-15T22:26:27.593000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AV",
+            "text": "今年の夏は異常な暑さに加え天候も予測できないことが多いですよね。",
+            "timestamp": "2022-08-15T22:26:59.580000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "こちらはあまり影響がなかったのですが、台風とか、豪雨とか、困りますね。",
+            "timestamp": "2022-08-15T22:27:24.329000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AV",
+            "text": "明日の関東は４０度を超えるかも！とのニュースにも驚きました。",
+            "timestamp": "2022-08-15T22:27:48.396000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "そうなんです、そんな日に限って外出の用事が何軒か重なって、今から憂鬱です。",
+            "timestamp": "2022-08-15T22:28:17.112000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AV",
+            "text": "明日はお忙しいのですね。",
+            "timestamp": "2022-08-15T22:28:35.803000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "小刻みに出かける感じです。もう家帰ったら外に出たくなくなりそうなのですが。",
+            "timestamp": "2022-08-15T22:29:03.544000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AV",
+            "text": "外ですか？確かに家の中の快適さが心地よいですね。",
+            "timestamp": "2022-08-15T22:29:31.855000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "屋内なのですが、移動が電車に乗るとかえって時間がかかる所なので、徒歩が面倒になってます。",
+            "timestamp": "2022-08-15T22:30:13.949000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AV",
+            "text": "徒歩はきついですね。汗だくになりそうです。",
+            "timestamp": "2022-08-15T22:30:45.164000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "家に帰ってシャワー浴びて、アイス食べる事しか考えられなくなりそうです。",
+            "timestamp": "2022-08-15T22:31:07.169000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AV",
+            "text": "普段甘いもの食べないんですが今年はかき氷のようなアイスを食べるようになりました。",
+            "timestamp": "2022-08-15T22:31:42.787000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "私もこの暑さで、氷〜シャーベット系をよく食べてます！",
+            "timestamp": "2022-08-15T22:32:06.982000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AV",
+            "text": "身体の内側から冷える感じがたまらないですよね。",
+            "timestamp": "2022-08-15T22:32:35.677000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "生き返る感じがしますね。何かお気に入りのアイスありますか？",
+            "timestamp": "2022-08-15T22:32:50.830000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AV",
+            "text": "サクレってご存知ですか？冷凍庫に今４つ入っています。",
+            "timestamp": "2022-08-15T22:33:13.694000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "サクレいいですよね！レモンをよく買って食べてます。",
+            "timestamp": "2022-08-15T22:33:46.782000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AV",
+            "text": "うちもレモン派ですねー！やっぱりさっぱりしたくなります、この季節。",
+            "timestamp": "2022-08-15T22:34:14.314000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "輪切りのレモン入ってるのがポイント高いです！お話ありがとうございました。",
+            "timestamp": "2022-08-15T22:34:30.820000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

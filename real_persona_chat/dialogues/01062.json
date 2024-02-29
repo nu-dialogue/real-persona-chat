@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1062,
+    "interlocutors": [
+        "BB",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちは、<BB>です。",
+            "timestamp": "2022-08-12T07:16:15.839000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！<CA>です。",
+            "timestamp": "2022-08-12T07:16:28.071000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "休日は何をして過ごされることが多いですか？",
+            "timestamp": "2022-08-12T07:16:49.352000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "休みの日は、植物の世話をしたりテレビでドラマを見たりが多いですね",
+            "timestamp": "2022-08-12T07:17:30.674000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "植物のお世話！ガーデニングとかをされてるんですか？",
+            "timestamp": "2022-08-12T07:17:47.656000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "プランターでトマトやシソなど食べられるものを栽培しているんです",
+            "timestamp": "2022-08-12T07:18:53.891000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "素敵ですね。私は植物をよく枯らしてしますので、そういうことに憧れがあります。",
+            "timestamp": "2022-08-12T07:19:16.415000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "植物が枯れちゃうときって、家の人に元気を与えてくれてるってどこかで聞きました",
+            "timestamp": "2022-08-12T07:20:06.113000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "あら、素敵ですね。なんか心が温まりますね。",
+            "timestamp": "2022-08-12T07:20:35.888000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "確かにそういうことあるのかもしれないって思うことがあって",
+            "timestamp": "2022-08-12T07:21:11.972000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "私が枯らしてしまったバジルも元気を与えてくれてたんですかね。次はちゃんとお世話しなくちゃ。",
+            "timestamp": "2022-08-12T07:21:49.685000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "バジル栽培されてたんですね！わたしも今家にあります",
+            "timestamp": "2022-08-12T07:22:05.226000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "ハーブ類が好きで、挑戦してたんです。すぐダメになりましたが。",
+            "timestamp": "2022-08-12T07:22:23.380000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "虫がついちゃったりしたのかな。我が家のも梅雨時期ごたくさん食べられてました",
+            "timestamp": "2022-08-12T07:23:50.036000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "お水は毎朝あげてたんですが、なんだかだんだん元気がなくなってきて。水のやりすぎですかね。",
+            "timestamp": "2022-08-12T07:24:18.174000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "水が好きなイメージがあるのでどうしてだろう？苗で買われましたか？",
+            "timestamp": "2022-08-12T07:25:01.452000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "そうです。苗で買って、プランターに植えました。",
+            "timestamp": "2022-08-12T07:25:20.518000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "今年は暑かったからそういうのもあるかもしれませんね",
+            "timestamp": "2022-08-12T07:26:35.875000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "暑すぎたのも影響ありますかね。勉強になります！",
+            "timestamp": "2022-08-12T07:26:51.265000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "我が家も、２本買ったうちのシソがもうすでに枯れちゃいました",
+            "timestamp": "2022-08-12T07:27:17.040000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "あらら。暑すぎる時は、日陰に逃がしてあげても大丈夫ですか？",
+            "timestamp": "2022-08-12T07:27:41.460000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "植物によって日陰に逃がしてあげたほうがいいものもあるかもしれませんね",
+            "timestamp": "2022-08-12T07:28:59.344000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "ちょっと調べてみないとですね。お家で育てやすいお野菜とか、おすすめありますか？",
+            "timestamp": "2022-08-12T07:29:26.475000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "ミニトマトはとっても育てやすかったのでオススメです！",
+            "timestamp": "2022-08-12T07:30:12.699000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "ミニトマト、いいですね！トマトが好きで毎日スーパーで買ってるので。もう一度挑戦してみようかな。",
+            "timestamp": "2022-08-12T07:30:36.974000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "苗で購入して、日当たりの良いところに置いてあげるのを気をつければ実がなりますよ",
+            "timestamp": "2022-08-12T07:31:17.462000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "多少ほっといても育ってくれるんですね。それはいいですね。",
+            "timestamp": "2022-08-12T07:31:35.012000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "私みたいにズボラなのでも大丈夫だったので、トマトお好きならなおさらおすすめです",
+            "timestamp": "2022-08-12T07:32:41.216000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "おすすめありがとうございます！また植物の話、聞かせてくださいね。",
+            "timestamp": "2022-08-12T07:33:01.193000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "こちらこそありがとうございます！またお話ししましょう。",
+            "timestamp": "2022-08-12T07:33:18.529000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6633,
+    "interlocutors": [
+        "FA",
+        "HA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんばんは。",
+            "timestamp": "2022-10-06T22:02:44.818000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HA",
+            "text": "今日はよろしくお願いします！",
+            "timestamp": "2022-10-06T22:02:55.669000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "明日のご予定は何かございますか？",
+            "timestamp": "2022-10-06T22:03:03.927000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HA",
+            "text": "明日はそうですね、いつも通り幼稚園の送迎が入っていますね。",
+            "timestamp": "2022-10-06T22:03:26.035000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "そうだったのですね。",
+            "timestamp": "2022-10-06T22:03:46.321000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HA",
+            "text": "何かそちらはありますか？",
+            "timestamp": "2022-10-06T22:03:55.981000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "仕事がお休みでして、ゆっくりする予定です。",
+            "timestamp": "2022-10-06T22:04:37.272000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HA",
+            "text": "家でお過ごしになるんですか？",
+            "timestamp": "2022-10-06T22:04:52.774000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "そうですね。",
+            "timestamp": "2022-10-06T22:05:10.176000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HA",
+            "text": "何か家でこれがしたいということはありますか？",
+            "timestamp": "2022-10-06T22:05:26.945000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "掃除がたまっているので、掃除ですかね。",
+            "timestamp": "2022-10-06T22:05:43.719000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HA",
+            "text": "掃除！主にどの辺をする予定ですか？",
+            "timestamp": "2022-10-06T22:05:57.108000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "キッチンです！",
+            "timestamp": "2022-10-06T22:06:10.601000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HA",
+            "text": "あーキッチンすごく汚れますよね。",
+            "timestamp": "2022-10-06T22:06:25.280000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "はい。",
+            "timestamp": "2022-10-06T22:06:37.655000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HA",
+            "text": "うちも油汚れとかひどいかもしれない。",
+            "timestamp": "2022-10-06T22:06:53.412000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "こちらもです。毎日お料理されます？",
+            "timestamp": "2022-10-06T22:07:23.639000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HA",
+            "text": "毎日しますね。たまに外食に逃げますが。",
+            "timestamp": "2022-10-06T22:07:38.769000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "そういう時もありますよね。",
+            "timestamp": "2022-10-06T22:08:09.857000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HA",
+            "text": "作りたくないときはどうしてもあります。",
+            "timestamp": "2022-10-06T22:08:19.562000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "あります、あります。",
+            "timestamp": "2022-10-06T22:08:37.218000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HA",
+            "text": "近くに外食するところはありますか？",
+            "timestamp": "2022-10-06T22:08:53.304000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "割とあります！とても助かります。",
+            "timestamp": "2022-10-06T22:09:14.471000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HA",
+            "text": "そうなんですね！どういったところがあるんでしょうか？",
+            "timestamp": "2022-10-06T22:09:25.824000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "ファミレスとか、うどん専門店とか、ラーメン屋とかがあります。",
+            "timestamp": "2022-10-06T22:09:51.909000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HA",
+            "text": "なるほど！では気分によって選べていいですね！",
+            "timestamp": "2022-10-06T22:10:09.022000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "まさしくそんな感じです！",
+            "timestamp": "2022-10-06T22:10:34.279000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HA",
+            "text": "うちも比較的近くにはありますが、やはり車は動かさなければいけない距離です。",
+            "timestamp": "2022-10-06T22:11:00.079000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！",
+            "timestamp": "2022-10-06T22:11:13.127000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HA",
+            "text": "そうなんです！",
+            "timestamp": "2022-10-06T22:11:20.053000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "HA",
+            "informativeness": 1,
+            "comprehension": 1,
+            "familiarity": 1,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 1
+        }
+    ]
+}

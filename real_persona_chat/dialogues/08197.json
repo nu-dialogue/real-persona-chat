@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8197,
+    "interlocutors": [
+        "AU",
+        "II"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AU",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-07T14:49:25.370000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "II",
+            "text": "よろしくお願いいたします！",
+            "timestamp": "2022-08-07T14:49:37.150000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AU",
+            "text": "ところで、回転寿司とか行きますか？",
+            "timestamp": "2022-08-07T14:50:09.843000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "II",
+            "text": "私はかなり行きます！<AU>さんはどうですか？",
+            "timestamp": "2022-08-07T14:50:42.554000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AU",
+            "text": "私も、子供が押すし好きなのでよく行きますよ。",
+            "timestamp": "2022-08-07T14:51:00.648000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "II",
+            "text": "なるほど！どんなネタが好きですか？",
+            "timestamp": "2022-08-07T14:51:21.297000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AU",
+            "text": "私は、エンガワが大好きで毎回必ず食べます。　何が好きですか？",
+            "timestamp": "2022-08-07T14:51:56.137000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "II",
+            "text": "私はサーモンが大好きです！毎回何貫でも食べれます。",
+            "timestamp": "2022-08-07T14:52:34.777000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AU",
+            "text": "サーモンは、みんな人気ですよね。",
+            "timestamp": "2022-08-07T14:52:48.032000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "II",
+            "text": "ですよね。お子さんもよく食べたりします？",
+            "timestamp": "2022-08-07T14:53:50.993000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AU",
+            "text": "子供達は、サーモンの他にいくらや鉄火巻きが好きですね。",
+            "timestamp": "2022-08-07T14:54:18.073000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "II",
+            "text": "いくらも美味しいですね！",
+            "timestamp": "2022-08-07T14:55:53.550000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AU",
+            "text": "美味しいですね。　私は、ウニも好きですが回転寿司のうにって少ししかのってないんですよね",
+            "timestamp": "2022-08-07T14:56:30.831000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "II",
+            "text": "ウニですか！確かに、値段の割に量少ない感じしますよね。",
+            "timestamp": "2022-08-07T14:56:55.182000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AU",
+            "text": "そうなんです、それがちょっと残念。",
+            "timestamp": "2022-08-07T14:57:09.013000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "II",
+            "text": "でもウニってそういうお店じゃないとなかなか食べられないので、まあ美味しくいただきますよねー。",
+            "timestamp": "2022-08-07T14:58:44.062000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AU",
+            "text": "そうなんです。　逆に苦手なネタありますか？",
+            "timestamp": "2022-08-07T14:58:59.921000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "II",
+            "text": "私は結構あるんです。タコやイカが食べられなくて。",
+            "timestamp": "2022-08-07T14:59:48.545000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AU",
+            "text": "私は苦手ではないですが、わざわざタコやイカは注文しないですね。",
+            "timestamp": "2022-08-07T15:00:25.964000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "II",
+            "text": "そちらは何か苦手なものありますか？",
+            "timestamp": "2022-08-07T15:01:06.322000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AU",
+            "text": "私は、シャコとかあまり好みじゃないです。",
+            "timestamp": "2022-08-07T15:01:38.922000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "II",
+            "text": "シャコ、私食べたことがないのですが、どんな味なんですか？",
+            "timestamp": "2022-08-07T15:03:27.742000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AU",
+            "text": "食感は、エビに近い感じ　味はうっすらしかないのでお醤油つけてって感じです。",
+            "timestamp": "2022-08-07T15:04:09.734000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "II",
+            "text": "そうなんですね！食感が苦手という感じですか？",
+            "timestamp": "2022-08-07T15:04:48.052000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AU",
+            "text": "どちらかというと、見た目ですね、足がいっぱいついて見えるようで。",
+            "timestamp": "2022-08-07T15:05:16.023000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "II",
+            "text": "あー確かに、虫っぽくて気持ち悪いですよねー。",
+            "timestamp": "2022-08-07T15:05:52.276000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AU",
+            "text": "そうなんですよ、見た目も大事ですよね。",
+            "timestamp": "2022-08-07T15:06:07.737000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "II",
+            "text": "食べ物といっても、見た目が嫌だと敬遠しちゃいますよね。甲殻類は特にそんな傾向がある気がします。",
+            "timestamp": "2022-08-07T15:07:26.082000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AU",
+            "text": "ほんとそうです。　やはり美味しそうに見えないと食欲もわかないですもんね。",
+            "timestamp": "2022-08-07T15:08:03.176000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "II",
+            "text": "ですよね。見た目で避けるのも良くないとは思うのですが。",
+            "timestamp": "2022-08-07T15:08:39.322000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "II",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

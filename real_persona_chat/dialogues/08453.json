@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8453,
+    "interlocutors": [
+        "AT",
+        "BX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-06T20:15:57.483000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BX",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-06T20:16:10.226000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "<BX>さんの趣味は何ですか？",
+            "timestamp": "2022-08-06T20:16:21.509000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BX",
+            "text": "うーん、最近はパンを作るのが結構楽しいです！",
+            "timestamp": "2022-08-06T20:16:33.165000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "パン作りいいですね！",
+            "timestamp": "2022-08-06T20:16:42.852000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BX",
+            "text": "ホームベーカリーだったんですが、ついに自分でこねています。",
+            "timestamp": "2022-08-06T20:17:00.167000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "味とか触感とかやっぱり違いますか？",
+            "timestamp": "2022-08-06T20:17:20.553000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BX",
+            "text": "一番の違いはいろんな形のを焼ける事ですね！",
+            "timestamp": "2022-08-06T20:17:37.182000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "かわいい形のを焼いたら写真撮りたくなりますね。",
+            "timestamp": "2022-08-06T20:17:57.979000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BX",
+            "text": "最近だとベーグルがいい感じです！",
+            "timestamp": "2022-08-06T20:18:10.060000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "ベーグル作るの難しくないですか？",
+            "timestamp": "2022-08-06T20:18:38.384000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BX",
+            "text": "意外と簡単ですよ！そして写真に映えます！",
+            "timestamp": "2022-08-06T20:18:53.268000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "どんな形のベーグルとか作るんですか？",
+            "timestamp": "2022-08-06T20:19:08.695000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BX",
+            "text": "丸い一般的なものです、そしていろいろ挟みます！",
+            "timestamp": "2022-08-06T20:19:25.696000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "オススメの組み合わせはありますか？",
+            "timestamp": "2022-08-06T20:19:40.452000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BX",
+            "text": "うーん、シンプルにハムチーズレタスですかね？",
+            "timestamp": "2022-08-06T20:19:53.768000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "間違いないですね、その組み合わせは最高です。",
+            "timestamp": "2022-08-06T20:20:17.371000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BX",
+            "text": "チーズをクリームチーズにしてもいいかもしれません！",
+            "timestamp": "2022-08-06T20:20:26.450000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "クリームチーズの方がいいかもです！",
+            "timestamp": "2022-08-06T20:20:45.037000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BX",
+            "text": "あまいものお好きですか？",
+            "timestamp": "2022-08-06T20:20:51.822000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "好きですよ、パンなら菓子パンも総菜パンもどっちも食べます。",
+            "timestamp": "2022-08-06T20:21:12.765000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BX",
+            "text": "私はどちらかと言うと総菜パンの方が好みです。サンドイッチとか。",
+            "timestamp": "2022-08-06T20:21:33.447000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "サンドイッチも色々な組み合わせがあっていいですよね。",
+            "timestamp": "2022-08-06T20:22:04.805000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BX",
+            "text": "はい。そして家で作るのが結構大変なので外で買いたくなります。",
+            "timestamp": "2022-08-06T20:22:24.839000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "サンドイッチ用のパン買ったら後はバター塗って挟むくらいで作れません？",
+            "timestamp": "2022-08-06T20:23:00.229000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BX",
+            "text": "そんなの持ってないよって言うおしゃれなサンドイッチたくさんありませんか？",
+            "timestamp": "2022-08-06T20:23:21.063000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "たしかにそうですね、いつも手抜きなサンドイッチしか食べてないです。",
+            "timestamp": "2022-08-06T20:23:53.535000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BX",
+            "text": "家で作るときはシンプルイズザベストな感じになりがちです。",
+            "timestamp": "2022-08-06T20:24:15.077000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "手間をかけてまで作りたいかどうかですよね、私は食べられればOK派です！",
+            "timestamp": "2022-08-06T20:24:38.866000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BX",
+            "text": "趣味の範囲でやる感じですね！",
+            "timestamp": "2022-08-06T20:24:50.679000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

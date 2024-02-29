@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 472,
+    "interlocutors": [
+        "BB",
+        "BK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-17T12:14:33.476000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BK",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-17T12:14:42.323000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "なんだか最近、周りの年配の方でご病気になる方が多くて。",
+            "timestamp": "2022-08-17T12:15:11.560000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BK",
+            "text": "そうなんですか。厳しい季節だからなおさらですよね。心配ですね。",
+            "timestamp": "2022-08-17T12:15:36.797000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "そうですね。自分の親も体調が悪いので、自分ももう若くないんだなって実感してます。",
+            "timestamp": "2022-08-17T12:16:10"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BK",
+            "text": "ご両親もですか。それはますます心配です。",
+            "timestamp": "2022-08-17T12:16:49.730000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "そうですね。深刻ではないですが、加齢による病気みたいで。",
+            "timestamp": "2022-08-17T12:17:11.110000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BK",
+            "text": "そうですか。私のまわりでも、加齢の不調の話、しばしば出てます。",
+            "timestamp": "2022-08-17T12:17:51.892000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "<BK>さんは最近、健康診断行かれましたか？",
+            "timestamp": "2022-08-17T12:18:09.101000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BK",
+            "text": "去年、行きました。数年ぶりに。",
+            "timestamp": "2022-08-17T12:18:25.423000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "行かれたのですね！検査結果は大丈夫でしたか？",
+            "timestamp": "2022-08-17T12:18:51.270000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BK",
+            "text": "検査結果は意外と大丈夫だったのですが、たしかその時期に、いろいろコワイ不調があったような気がします。",
+            "timestamp": "2022-08-17T12:19:38.836000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "あら、ちょっと体調崩されたりしたんですか？",
+            "timestamp": "2022-08-17T12:19:51.594000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BK",
+            "text": "黒内障ってご存じですか？",
+            "timestamp": "2022-08-17T12:20:06.814000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "あまり聞いたことないです。どんな症状ですか？",
+            "timestamp": "2022-08-17T12:20:24.048000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BK",
+            "text": "一過性のものなのですが、片目だけ真っ暗になって見えなくなるんです。",
+            "timestamp": "2022-08-17T12:20:52.327000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "あらら、それは本当に怖いですね！もう同じような症状は出てないですか？",
+            "timestamp": "2022-08-17T12:21:16.076000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BK",
+            "text": "幸い、一度きりだったのですが、知り合いに相談したら、すごい勢いで脳神経外科に行けと言われました。",
+            "timestamp": "2022-08-17T12:21:56.860000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "たしか、脳関係のものではないかと思っちゃいますよね。",
+            "timestamp": "2022-08-17T12:22:19.945000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BK",
+            "text": "そうなんです。なんでも、血管の詰まりが何かの拍子に流れて、視神経付近の血管を詰まらせると、視界が暗くなるんだったか。",
+            "timestamp": "2022-08-17T12:23:08.282000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "血管の詰まりが原因なんですね。レントゲンとか、MRIとかで検査されたんですか？",
+            "timestamp": "2022-08-17T12:23:41.037000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BK",
+            "text": "もう、全部検査されました。MRIもエコーも。",
+            "timestamp": "2022-08-17T12:24:01.354000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "結果は異状なしだったのですね？",
+            "timestamp": "2022-08-17T12:24:14.543000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BK",
+            "text": "そうなんです。拍子抜けするくらい、血管も脳もきれいで。",
+            "timestamp": "2022-08-17T12:24:34.704000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "それは本当に良かった。でも1度経験してしまったら、またあるんじゃないかと怖いですよね。",
+            "timestamp": "2022-08-17T12:24:54.519000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BK",
+            "text": "私は一度きりでしたが、私に脳神経外科を勧めてくれた知り合いは、黒内障の症状が頻発してるらしいです。",
+            "timestamp": "2022-08-17T12:25:34.563000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "お知合いの方はご自身の経験から受診を進めてくれたんですね！",
+            "timestamp": "2022-08-17T12:25:58.418000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BK",
+            "text": "そうなんです。私より10歳くらい年上の方で。血管の老化が原因だと言ってました。",
+            "timestamp": "2022-08-17T12:26:53.944000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "加齢って色々と怖いですね。でも自分の身はしっかり自分で把握しないとですね！",
+            "timestamp": "2022-08-17T12:27:27.613000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BK",
+            "text": "そうですね。本当にそう思います。",
+            "timestamp": "2022-08-17T12:27:47.832000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BK",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

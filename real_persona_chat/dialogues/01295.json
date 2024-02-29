@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1295,
+    "interlocutors": [
+        "CX",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "よろしくお願いします。明日は何かご予定ありますか？",
+            "timestamp": "2022-08-13T17:56:37.352000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "お願いします。明日は今のところ予定無しです。あなたはどうですか？",
+            "timestamp": "2022-08-13T17:56:58.773000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "僕も予定なしなので、今日と同じようにまったり過ごす予定です。",
+            "timestamp": "2022-08-13T17:57:17.192000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "私もその予定です、月曜仕事なので日曜はまったりすることが多いです。",
+            "timestamp": "2022-08-13T17:58:17.224000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "お仕事は何系のお仕事ですか？",
+            "timestamp": "2022-08-13T17:58:34.791000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "システムエンジニアです。デスクワークがメインですね。",
+            "timestamp": "2022-08-13T17:58:56.439000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "だいぶ肩や目が辛そうなお仕事ですね。",
+            "timestamp": "2022-08-13T17:59:20.168000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "肩と腰が固まりますね、時々動かすようにしてます。",
+            "timestamp": "2022-08-13T17:59:53.597000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "デスクワークって以前やってたことありますが、身体にきますよね。",
+            "timestamp": "2022-08-13T18:00:15.942000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "触ると固くなってるのが明らかで、普段から違和感があって嫌な感じです。",
+            "timestamp": "2022-08-13T18:00:56.643000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "あんまり自分で揉んではいけないらしいですが、ゴリゴリやってしまいます。",
+            "timestamp": "2022-08-13T18:01:25.234000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "私はマッサージ器を買ったり整体に通ったりしてます。",
+            "timestamp": "2022-08-13T18:01:56.664000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "そういうものが必要になりますよね。自分は小豆であっためるやつよく使ってました。",
+            "timestamp": "2022-08-13T18:02:36.917000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "それ初めて知りました、どんなやつですか？",
+            "timestamp": "2022-08-13T18:03:08.960000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "レンジでチンするやつです。それで温めて目や肩周りとかに乗せます。",
+            "timestamp": "2022-08-13T18:03:50.570000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "血行が良くなるから効き目ありそうですね！",
+            "timestamp": "2022-08-13T18:04:26.111000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "そうですね、あと結構繰り返し使えるのが良いですね！",
+            "timestamp": "2022-08-13T18:04:56.048000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "たしかに、本とか読んでても体が凝ったりしませんか？",
+            "timestamp": "2022-08-13T18:05:37.802000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "凝りますね。そういう時はストレッチしてほぐします。",
+            "timestamp": "2022-08-13T18:06:00.130000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "やっぱりストレッチは必要ですよね、会社内だと人の目があってやりにくいですが。",
+            "timestamp": "2022-08-13T18:07:00.422000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "そうですね。首を回したり、腕を後ろに引っ張ったりするストレッチとかなら大丈夫ですかね。",
+            "timestamp": "2022-08-13T18:07:30.281000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "それくらいなら大丈夫そうです、在宅ワーク時は頻繁に動かすようにします。",
+            "timestamp": "2022-08-13T18:07:55.117000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "お仕事で会社に行かず自宅でできるようになりましたか？リモートとか。",
+            "timestamp": "2022-08-13T18:08:29.891000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "今は出社とリモートが半々くらいですね。",
+            "timestamp": "2022-08-13T18:08:52.411000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "コロナ禍で唯一良くなったのは自宅で仕事ができるようになったことでしょうか。",
+            "timestamp": "2022-08-13T18:09:20.120000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "それはありますね、通勤ラッシュとか通勤時間がカットできるのは嬉しいです。",
+            "timestamp": "2022-08-13T18:09:40.878000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "満員電車とかも大変ですよね。",
+            "timestamp": "2022-08-13T18:10:08.448000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "そうなんですよね、コロナもあるし今以上に在宅を活用できるように調整してみます。",
+            "timestamp": "2022-08-13T18:11:07.028000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "もっと在宅ワークが普及することを願います。",
+            "timestamp": "2022-08-13T18:11:32.964000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "そうですね、ありがとうございます！",
+            "timestamp": "2022-08-13T18:11:55.229000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

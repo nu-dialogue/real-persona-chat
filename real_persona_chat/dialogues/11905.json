@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11905,
+    "interlocutors": [
+        "CU",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T16:54:53.176000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T16:55:05.889000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "今日の夕食のメニューはおきまりですか？",
+            "timestamp": "2022-08-28T16:55:41.240000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "まだ検討中です。候補はピーマンの肉詰めですが。",
+            "timestamp": "2022-08-28T16:55:56.867000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "おいしそうですね！お子さんもピーマン食べられるんですね。",
+            "timestamp": "2022-08-28T16:56:21.245000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "ひき肉を詰めると食べますね。",
+            "timestamp": "2022-08-28T16:56:37.077000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "お肉の力は偉大ですね。",
+            "timestamp": "2022-08-28T16:56:57.598000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "最後にマヨネーズとケチャップを混ぜたのをかけるとなおよいようです。",
+            "timestamp": "2022-08-28T16:57:29.304000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "おいしそうですね！今度やってみたいです！",
+            "timestamp": "2022-08-28T16:58:08.013000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "あなたのお子さんは何のメニューが好きですか？",
+            "timestamp": "2022-08-28T16:58:35.074000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "ハンバーグが大好きですねー。",
+            "timestamp": "2022-08-28T16:58:51.395000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "うちもハンバーグ、好きですよ。",
+            "timestamp": "2022-08-28T16:59:13.230000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "びっくりドンキーのハンバーグ再現レシピがネットに出ていて、それが我が家で人気です。",
+            "timestamp": "2022-08-28T16:59:49.635000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "それ、初めて聞きました！私も作りたいです！",
+            "timestamp": "2022-08-28T17:00:17.318000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "元店長、とかのワードで検索したらすぐ見つかると思います。",
+            "timestamp": "2022-08-28T17:00:47.598000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "元店長ですか。面白いですね。",
+            "timestamp": "2022-08-28T17:01:33.272000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "情報流出ですよねー。みそとかコーヒーフレッシュとか入れるので独特です。",
+            "timestamp": "2022-08-28T17:02:08.352000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "やっぱり元店長が情報流しているのですね。でも、これは嬉しいかも。",
+            "timestamp": "2022-08-28T17:02:42.031000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "はい、すごく美味しいですよ。ぜひやってみてください。",
+            "timestamp": "2022-08-28T17:03:00.405000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "情報ありがとうございます。楽しみです。",
+            "timestamp": "2022-08-28T17:03:14.580000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "我が家は今晩は外食になりそうな感じです。",
+            "timestamp": "2022-08-28T17:03:38.151000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "それもよいですね。ちょくちょく外食するのですか？",
+            "timestamp": "2022-08-28T17:03:55.305000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "はい、外食好きでして。周りにもたくさん店があるので誘惑が多いです。",
+            "timestamp": "2022-08-28T17:04:26.843000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "うちも引っ越したらだいぶお店が増えました！いろいろ開拓したくなりました。",
+            "timestamp": "2022-08-28T17:04:52.984000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "そうなんですね。ではこれから外食が増えちゃいそうですね。",
+            "timestamp": "2022-08-28T17:05:13.556000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "でも、運動しないで外食するとすぐ体重が増えてしまうから、様子を見ながらですね。",
+            "timestamp": "2022-08-28T17:05:45.215000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "たしかにー。私も外食すると罪悪感がハンパないです。",
+            "timestamp": "2022-08-28T17:06:08.984000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "消化も追いつかないのでね。ほどほどに楽しめれば、と思います。",
+            "timestamp": "2022-08-28T17:06:33.061000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "そうですね。今夜もなるべくヘルシーなものを食べてきます！",
+            "timestamp": "2022-08-28T17:07:04.503000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "はい。楽しんできてくださいね。",
+            "timestamp": "2022-08-28T17:07:17.382000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13927,
+    "interlocutors": [
+        "GV",
+        "HF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GV",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-09-29T23:26:28.739000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HF",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-09-29T23:26:42.059000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GV",
+            "text": "現在は大学とかに通われていますか？",
+            "timestamp": "2022-09-29T23:27:15.070000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HF",
+            "text": "大学生です！大学生ですか？",
+            "timestamp": "2022-09-29T23:27:17.912000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GV",
+            "text": "はい！私は大学4年です",
+            "timestamp": "2022-09-29T23:27:43.583000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HF",
+            "text": "僕も大学4年生です！",
+            "timestamp": "2022-09-29T23:29:12.736000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GV",
+            "text": "大学院に行かれますか？就職されますか？",
+            "timestamp": "2022-09-29T23:28:35.244000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HF",
+            "text": "就職です！就職されますか？",
+            "timestamp": "2022-09-29T23:28:53.721000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GV",
+            "text": "私も就職します！10/1に内定式を控えています。",
+            "timestamp": "2022-09-29T23:29:12.658000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HF",
+            "text": "自分は10/3に内定式です！",
+            "timestamp": "2022-09-29T23:29:31.290000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GV",
+            "text": "どんな感じの企業に就職されますか？差し支えなければお伺いしたいです。",
+            "timestamp": "2022-09-29T23:30:04.707000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HF",
+            "text": "広くいうとITです！何系でしょうか？",
+            "timestamp": "2022-09-29T23:30:22.984000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GV",
+            "text": "詳しくは申し上げられませんが、自動車会社ですね",
+            "timestamp": "2022-09-29T23:30:50.002000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！車お好きなのですか？",
+            "timestamp": "2022-09-29T23:31:07.007000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GV",
+            "text": "微妙ですね。免許とかまだ持っていません",
+            "timestamp": "2022-09-29T23:31:40.308000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HF",
+            "text": "そうなんですね！免許とられる予定はありますか？",
+            "timestamp": "2022-09-29T23:32:02.736000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GV",
+            "text": "ぼちぼち教習所通わないとなぁって思っているところです。",
+            "timestamp": "2022-09-29T23:32:21.778000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HF",
+            "text": "教習所の方意外と優しいので大丈夫ですよ！",
+            "timestamp": "2022-09-29T23:32:50.386000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GV",
+            "text": "ありがとうございます！アタリの方を引きたいです。",
+            "timestamp": "2022-09-29T23:33:22.104000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HF",
+            "text": "そうですね！オートマとマニュアルどちらですか？",
+            "timestamp": "2022-09-29T23:33:45.789000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GV",
+            "text": "オートマの予定ですね。マニュアル操れるほど器用ではないと自分で思っています。",
+            "timestamp": "2022-09-29T23:34:14.108000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HF",
+            "text": "オートマで十分ですよね！自分もオートマです。",
+            "timestamp": "2022-09-29T23:34:34.836000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GV",
+            "text": "車もオートマが主流のようですよね。",
+            "timestamp": "2022-09-29T23:35:09.201000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HF",
+            "text": "そうですね。免許取ったら行ってみたいところとかあるんですか？",
+            "timestamp": "2022-09-29T23:35:30.574000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GV",
+            "text": "今のところ何も考えていません。まずは県内で練習してみようかなと思います。",
+            "timestamp": "2022-09-29T23:36:06.693000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HF",
+            "text": "良いですね！慣れた土地で練習するのが良いと思います！",
+            "timestamp": "2022-09-29T23:37:51.100000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GV",
+            "text": "本当にその通りだと思います。知らない土地は勇気いりますよね",
+            "timestamp": "2022-09-29T23:37:09.926000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HF",
+            "text": "わかります！免許取得頑張ってください",
+            "timestamp": "2022-09-29T23:37:33.850000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GV",
+            "text": "ありがとうございます！頑張ります。",
+            "timestamp": "2022-09-29T23:37:56.257000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HF",
+            "text": "応援してます",
+            "timestamp": "2022-09-29T23:38:09.320000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

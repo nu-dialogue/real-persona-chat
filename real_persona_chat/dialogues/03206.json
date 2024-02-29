@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3206,
+    "interlocutors": [
+        "DY",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DY",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-26T21:40:13.549000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-26T21:40:25.118000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DY",
+            "text": "夕飯はなにを食べられましたか？",
+            "timestamp": "2022-08-26T21:40:33.273000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "夕飯は豚肉のピカタもどきみたいのを食べました。",
+            "timestamp": "2022-08-26T21:41:00.649000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DY",
+            "text": "ピカタって聞いたことはあるのですが、どういう料理でしたっけ？",
+            "timestamp": "2022-08-26T21:41:17.581000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "豚肉に卵付けて塩胡椒で焼く感じです。",
+            "timestamp": "2022-08-26T21:41:45.066000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DY",
+            "text": "おいしそうですね！食べたことないので、レシピ調べてみようと思います",
+            "timestamp": "2022-08-26T21:42:06.077000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "多分、真面目に作ると美味しいと思います！",
+            "timestamp": "2022-08-26T21:42:31.126000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DY",
+            "text": "あまり料理は得意ではないのですが、難しいですかね？",
+            "timestamp": "2022-08-26T21:42:48.020000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "私も料理苦手なので、大丈夫だと思います！",
+            "timestamp": "2022-08-26T21:43:12.209000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DY",
+            "text": "そうなんですね！普段から料理はよくされますか？",
+            "timestamp": "2022-08-26T21:43:25.929000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "仕方ないので、毎日イヤイヤやります。許される事ならやりたくないです。",
+            "timestamp": "2022-08-26T21:43:51.706000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DY",
+            "text": "なるほど、そうですよね。自分も生協のミールキットみたいなのでよく手抜きします。",
+            "timestamp": "2022-08-26T21:44:15.945000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "うちも生協使ってます。それこそお惣菜を注文しちゃったり。",
+            "timestamp": "2022-08-26T21:44:40.318000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DY",
+            "text": "わかります！普通においしいんですよね。自分で作ると手間ですし。",
+            "timestamp": "2022-08-26T21:44:54.882000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "そうなんですよ。材料も全部揃えたら大変なので、助かります。",
+            "timestamp": "2022-08-26T21:45:14.884000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DY",
+            "text": "最近値上げが続いて買うのをためらうこともあるのですが、やはり楽さには勝てません。",
+            "timestamp": "2022-08-26T21:45:47.170000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "もう、お金で時間を買う、と言い聞かせてます。",
+            "timestamp": "2022-08-26T21:46:03.677000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DY",
+            "text": "その考えわかります！時短家電系も買いたいと思っているのですが、なにか使ってますか？",
+            "timestamp": "2022-08-26T21:46:51.346000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "時短家電て程ではないんですけど、保温鍋は手放せないです。",
+            "timestamp": "2022-08-26T21:47:19.492000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DY",
+            "text": "保温鍋っていうのがあるんですか。圧力鍋とはまた別物ですよね？",
+            "timestamp": "2022-08-26T21:47:38.283000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "沸騰させた余熱で時間かけて加熱するタイプです。放置して他の事ができるので、便利です。",
+            "timestamp": "2022-08-26T21:48:13.104000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DY",
+            "text": "それ、便利ですね。ちょっと調べてみます。",
+            "timestamp": "2022-08-26T21:48:36.472000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "多分、ガス代も節約できると思うので是非！",
+            "timestamp": "2022-08-26T21:48:52.202000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DY",
+            "text": "最近なんでも値上げで困ってます。暑くて電気代も高くなりますし。",
+            "timestamp": "2022-08-26T21:49:09.333000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "電気代は次の請求が怖いですね。",
+            "timestamp": "2022-08-26T21:49:23.998000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DY",
+            "text": "この前請求が1万超えていたので、うわあって感じでした！",
+            "timestamp": "2022-08-26T21:49:44.554000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "この暑さだと健康と引き換えに、とはわかっていても、衝撃ですよね。",
+            "timestamp": "2022-08-26T21:50:10.250000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DY",
+            "text": "早く涼しくなって欲しいです。電気代も節約できますし！",
+            "timestamp": "2022-08-26T21:50:37.060000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "そうですね、このまま早く秋に入って欲しいと淡い期待をしてます。",
+            "timestamp": "2022-08-26T21:50:55.588000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

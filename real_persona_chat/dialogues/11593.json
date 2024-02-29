@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11593,
+    "interlocutors": [
+        "DV",
+        "DS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "こんばんは、よろしくおねがいします",
+            "timestamp": "2022-08-23T20:01:30.962000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DS",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-23T20:01:43.514000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "趣味ってなにかおありですか？",
+            "timestamp": "2022-08-23T20:01:46.744000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DS",
+            "text": "ラーメン巡りです！",
+            "timestamp": "2022-08-23T20:01:56.691000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "おお！いいですね、全国各地ですか？",
+            "timestamp": "2022-08-23T20:02:03.758000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DS",
+            "text": "一都三県ですね！全国は厳しいです！",
+            "timestamp": "2022-08-23T20:02:27.599000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "何ラーメンが一番好きなんですか？",
+            "timestamp": "2022-08-23T20:02:34.758000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DS",
+            "text": "その質問一番困るんですよねー気分で違うんです！",
+            "timestamp": "2022-08-23T20:02:58.771000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "今日は塩！今日はしょうゆ！っていう感じなんですか？",
+            "timestamp": "2022-08-23T20:03:10.161000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DS",
+            "text": "ですね！塩はあまり食べないかもです！",
+            "timestamp": "2022-08-23T20:03:28.710000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "私はとんこつラーメンが好きです",
+            "timestamp": "2022-08-23T20:03:46.424000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DS",
+            "text": "いいですね！九州の方ですか？",
+            "timestamp": "2022-08-23T20:03:58.735000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "出身は九州です",
+            "timestamp": "2022-08-23T20:04:05.831000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DS",
+            "text": "なるほどです！九州は全域でとんこつですよね！",
+            "timestamp": "2022-08-23T20:04:25.281000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "そうです、どこのラーメン屋いってもとんこつですねー",
+            "timestamp": "2022-08-23T20:04:31.878000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DS",
+            "text": "九州出て美味しい豚骨ラーメンありましたか？",
+            "timestamp": "2022-08-23T20:05:01.318000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "ないですねー、やっぱり地元のラーメンが一番です",
+            "timestamp": "2022-08-23T20:05:03.646000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DS",
+            "text": "やっぱ九州が一番なんですね！",
+            "timestamp": "2022-08-23T20:05:21.264000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "子供のころから食べなれた味だからっていうのもあるかもしれません",
+            "timestamp": "2022-08-23T20:05:31.549000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DS",
+            "text": "それはありそうですね！逆に趣味はありますか？",
+            "timestamp": "2022-08-23T20:05:50.422000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "ネットショップをウィンドウショッピングすることですね",
+            "timestamp": "2022-08-23T20:06:02.725000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DS",
+            "text": "あー確かに楽しいですね！",
+            "timestamp": "2022-08-23T20:06:14.021000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "見てるだけで時間があっという間に過ぎちゃいます",
+            "timestamp": "2022-08-23T20:06:25.859000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DS",
+            "text": "わかります。お気に入りのサイトあるんですか？",
+            "timestamp": "2022-08-23T20:06:38.208000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "楽天市場は毎日チェックしてますね",
+            "timestamp": "2022-08-23T20:06:50.124000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DS",
+            "text": "楽天市場もいろいろありますもんね！",
+            "timestamp": "2022-08-23T20:07:06.819000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "セールをやってると気づいたらポチってるときあります",
+            "timestamp": "2022-08-23T20:07:16.783000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DS",
+            "text": "何をポチッとしちゃいます？？",
+            "timestamp": "2022-08-23T20:07:29.155000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "お洋服ですね、買いすぎないようにしたいです",
+            "timestamp": "2022-08-23T20:07:37.437000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DS",
+            "text": "気をつけないとですね！",
+            "timestamp": "2022-08-23T20:07:46.378000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 242,
+    "interlocutors": [
+        "AS",
+        "AN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T13:13:51.162000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AN",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-08T13:13:55.837000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "夜ご飯のご予定はどうですか？",
+            "timestamp": "2022-08-08T13:14:26.526000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AN",
+            "text": "悩んでいるんですよ。あなたはもう献立決まっていますか？",
+            "timestamp": "2022-08-08T13:14:55.568000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "私は天ぷらでも作ろうかと思ってます！",
+            "timestamp": "2022-08-08T13:15:15.922000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AN",
+            "text": "天ぷらですか、いいですね。わたしは牛すじがあるので、煮込み料理でも作ろうかなぁ。",
+            "timestamp": "2022-08-08T13:15:33.780000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "いいですね！牛筋を使った煮込み料理は、おでんくらいしか知らないですが何かあるんですか？",
+            "timestamp": "2022-08-08T13:16:33.296000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AN",
+            "text": "カレーが食べたいと家族が言っているので、牛すじカレーにしようかなと考えています。",
+            "timestamp": "2022-08-08T13:17:09.722000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "なるほど、その手がありましたか。私は鶏肉派です！",
+            "timestamp": "2022-08-08T13:17:37.412000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AN",
+            "text": "鶏肉もおいしいですよね。",
+            "timestamp": "2022-08-08T13:17:59.965000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "撮り皮からいい味が出るんです！ただ、硬くなってしまうのが難点ですね",
+            "timestamp": "2022-08-08T13:18:52.920000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AN",
+            "text": "確かに煮込むと固くなっちゃいますよね。鶏肉をソテーした後は取り出した方がいいのかな？",
+            "timestamp": "2022-08-08T13:19:37.322000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "かもしれませんね、でも人に出すものじゃないからいいかなーと思って毎回そのままです",
+            "timestamp": "2022-08-08T13:20:17.419000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AN",
+            "text": "確かに、自分たちが美味しく食べられればそれでよしですよ。家庭料理ですしね。",
+            "timestamp": "2022-08-08T13:20:42.607000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "来客とか、友人に出すときはある程度こだわります",
+            "timestamp": "2022-08-08T13:21:31.594000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AN",
+            "text": "結構人にお料理をふるまうことは多いのですか？",
+            "timestamp": "2022-08-08T13:21:47.223000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "いえ、友達は少ないので滅多に来ませんね",
+            "timestamp": "2022-08-08T13:22:23.804000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AN",
+            "text": "そうなんですか。お料理は毎日されているんですか？",
+            "timestamp": "2022-08-08T13:22:51.455000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "ほぼ毎日ですね！外食とかはほとんどしないです",
+            "timestamp": "2022-08-08T13:23:08.150000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AN",
+            "text": "同じくです。わたしも外食はあまりしなくって。",
+            "timestamp": "2022-08-08T13:23:23.382000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "コロナ前からですか？",
+            "timestamp": "2022-08-08T13:24:04.775000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AN",
+            "text": "コロナ前からですね。子どもが生まれる前は夫婦でよく外食をしていたんですが。",
+            "timestamp": "2022-08-08T13:24:22.793000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "子どもを連れていくとなるとちょっと難しいですし、何より出費が痛いですね",
+            "timestamp": "2022-08-08T13:25:25.954000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AN",
+            "text": "そうなんです、子連れの外食疲れちゃうので。子どもが大きくなると出費もかさむんだろうな、と思います。",
+            "timestamp": "2022-08-08T13:26:12.443000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "私の実家も、３人目が生まれてからは控えるようになりましたね",
+            "timestamp": "2022-08-08T13:26:38.087000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AN",
+            "text": "そうなんですか！今子供が5歳と2歳なのですが、もう毎日ひっちゃかめっちゃかです。",
+            "timestamp": "2022-08-08T13:27:19.645000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "５歳ずつ離れて下に２人いて、みんなの面倒見てたので家は混乱しなかったですね",
+            "timestamp": "2022-08-08T13:27:52.625000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AN",
+            "text": "5歳ずつとなると、一番上と下は結構お年が離れていらっしゃったんですね。",
+            "timestamp": "2022-08-08T13:28:26.128000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "10歳差ですね！",
+            "timestamp": "2022-08-08T13:28:58.573000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AN",
+            "text": "そうですよね。すごい！あ、そろそろお時間ですね。お話ありがとうございました。",
+            "timestamp": "2022-08-08T13:29:15.893000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

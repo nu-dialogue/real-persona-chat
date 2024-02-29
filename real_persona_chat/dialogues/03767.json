@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3767,
+    "interlocutors": [
+        "DY",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DY",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-01T21:11:35.120000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こちらこそよろしくお願いします！",
+            "timestamp": "2022-09-01T21:11:43.317000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DY",
+            "text": "今日の夕飯はなにを食べられましたか？",
+            "timestamp": "2022-09-01T21:11:48.753000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "今日の夕飯は悲しくも菓子パンでした。",
+            "timestamp": "2022-09-01T21:12:02.072000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DY",
+            "text": "そうだったんですね、うちも冷凍うどんなので、めちゃめちゃ手抜きしました。",
+            "timestamp": "2022-09-01T21:12:33.280000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "冷凍うどん、私大好きですよ！普通にうってるうどんよりおいしい気がして。",
+            "timestamp": "2022-09-01T21:13:08.924000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DY",
+            "text": "味は違いがわからないかもです。ゆでたりしないでレンチンで済むので楽ですよね。",
+            "timestamp": "2022-09-01T21:13:39.797000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "冷凍してる分コシが出てるような気もします。それは私が知らないやつかもです！便利！",
+            "timestamp": "2022-09-01T21:14:26.833000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DY",
+            "text": "自分が買うのはいつもレンチンで済むやつです。本当に楽です！でも菓子パン美味しいですよね。",
+            "timestamp": "2022-09-01T21:15:06.297000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "そうなんですね！今度スーパーで探してみます！私パン好きなんですよ。",
+            "timestamp": "2022-09-01T21:15:29.730000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DY",
+            "text": "パン美味しいですよね。でも夕飯よりは昼ごはんで食べることが多いです。",
+            "timestamp": "2022-09-01T21:15:57.485000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "私もそうですかね。特別な日はパン屋さんで買ったパンを食べるようにしてます。",
+            "timestamp": "2022-09-01T21:16:41.340000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DY",
+            "text": "いいですね！そういえば、近くにパン屋がなくてパン食べる機会が減ったことに気づきました。",
+            "timestamp": "2022-09-01T21:17:03.273000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "そうなんですね！スーパーとかでは買ったりしませんか？",
+            "timestamp": "2022-09-01T21:17:36.569000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DY",
+            "text": "スーパーは食パンは買います。最近ガーリックマーガリンを買ったのでよく塗って食べてます！",
+            "timestamp": "2022-09-01T21:17:57.349000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "食パンは毎朝食べてます！ただのマーガリンじゃなくてガーリックなのいいですね。",
+            "timestamp": "2022-09-01T21:18:27.378000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DY",
+            "text": "はい！普段テレワークで外でなくなったので、ガーリックマーガリンでもよくなりました！",
+            "timestamp": "2022-09-01T21:18:53.462000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "普段テレワークなんですね、体疲れたりしませんか？",
+            "timestamp": "2022-09-01T21:19:12.828000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DY",
+            "text": "出社していた頃よりは全然楽です！疲れたら休憩でベッドで一休みできますし！",
+            "timestamp": "2022-09-01T21:19:42.139000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "たしかにベッドがあるのは強いですね。運動とかしてます？",
+            "timestamp": "2022-09-01T21:20:06.468000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DY",
+            "text": "運動不足です。1年で2kgくらい増えてしまいました。",
+            "timestamp": "2022-09-01T21:20:29.600000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "私も普段運動しないので気持ちわかります！テレワークではないときはしてたんですか？",
+            "timestamp": "2022-09-01T21:20:56.712000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DY",
+            "text": "出勤で少しは歩いてたので、それが運動になっていたというか。今はそれすらないのでヤバいですね。",
+            "timestamp": "2022-09-01T21:21:20.169000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "なるほど。運動不足だと、体調もあまりよくなくなるんですけど、それは大丈夫そうですか？",
+            "timestamp": "2022-09-01T21:22:07.987000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DY",
+            "text": "それは今のところ大丈夫です。ただこのまま運動不足のままなのも良くないので、運動はしたいと思ってます",
+            "timestamp": "2022-09-01T21:22:45.948000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "それならよかったです！いいですね、何かしてみたい運動ありますか？",
+            "timestamp": "2022-09-01T21:23:04.686000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DY",
+            "text": "ジムは昔通っていたので、また運動するならまたジム通ってマシンで鍛えるのがいいかなと思ってます",
+            "timestamp": "2022-09-01T21:23:44.567000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "ジム通ってたんですね！結構鍛えられますか？",
+            "timestamp": "2022-09-01T21:24:14.591000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DY",
+            "text": "昔は鍛えてました！でも飽きてやめてしまうんです。",
+            "timestamp": "2022-09-01T21:24:33.023000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "続けるのって難しいですよね。",
+            "timestamp": "2022-09-01T21:24:51.659000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DY",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

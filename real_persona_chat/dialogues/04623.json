@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4623,
+    "interlocutors": [
+        "EW",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T20:59:12.132000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T20:59:19.113000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EW",
+            "text": "旅行は好きですか？",
+            "timestamp": "2022-09-12T20:59:22.051000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "最近は全然行ってませんね。",
+            "timestamp": "2022-09-12T20:59:38.114000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EW",
+            "text": "行きたい場所ありますか？",
+            "timestamp": "2022-09-12T20:59:46.380000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "博多とか行きたいです。",
+            "timestamp": "2022-09-12T21:00:00.713000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EW",
+            "text": "私も行きたいです！九州行ったことないです",
+            "timestamp": "2022-09-12T21:00:18.055000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "私も数回しかないです。おいしいものたくさんあります。",
+            "timestamp": "2022-09-12T21:00:33.148000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EW",
+            "text": "博多無限に食べれそうです",
+            "timestamp": "2022-09-12T21:00:44.352000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "やっぱり欠かせないのはラーメンですね。",
+            "timestamp": "2022-09-12T21:00:55.449000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EW",
+            "text": "そうですね！ラーメン何味が好きですか？",
+            "timestamp": "2022-09-12T21:01:13.039000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "醤油とんこつか白湯ですかね。",
+            "timestamp": "2022-09-12T21:01:27.817000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EW",
+            "text": "こってりですね",
+            "timestamp": "2022-09-12T21:01:43.038000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "こってりでいうと、家系ラーメンも好きです。",
+            "timestamp": "2022-09-12T21:01:59.422000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EW",
+            "text": "食べたことないんですが、強烈ですか？",
+            "timestamp": "2022-09-12T21:02:10.496000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "強烈ですよ。単体では厳しいです。",
+            "timestamp": "2022-09-12T21:02:24.148000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EW",
+            "text": "単体ではというと、白米なども頼むということですか？",
+            "timestamp": "2022-09-12T21:02:38.726000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "そうです。ごはんが大切です。",
+            "timestamp": "2022-09-12T21:02:47.992000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EW",
+            "text": "そうですか、量がすごいことになりそうです",
+            "timestamp": "2022-09-12T21:02:58.355000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "そうですね。がっつり食べたいときに行きます。",
+            "timestamp": "2022-09-12T21:03:15.166000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EW",
+            "text": "なるほど。気合が必要そうです",
+            "timestamp": "2022-09-12T21:03:23.789000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "あなたは何ラーメンをよく食べますか？",
+            "timestamp": "2022-09-12T21:03:34.414000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EW",
+            "text": "私は味噌が好きです",
+            "timestamp": "2022-09-12T21:03:43.322000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "味噌ですか。味噌も味は濃いですよね。",
+            "timestamp": "2022-09-12T21:04:02.801000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EW",
+            "text": "味が濃いって考えたことなかったので、こってりの濃いのもいけるかもしれません",
+            "timestamp": "2022-09-12T21:04:26.756000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "でもこってりの濃さと、少し違うかもしれません。",
+            "timestamp": "2022-09-12T21:04:51.094000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EW",
+            "text": "こってりってずっしりきます",
+            "timestamp": "2022-09-12T21:05:00.548000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "あと、油がすごいですね。",
+            "timestamp": "2022-09-12T21:05:11.682000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EW",
+            "text": "次の日胃がもたれるの確定しそう",
+            "timestamp": "2022-09-12T21:05:26.009000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "だいたい後で後悔します。",
+            "timestamp": "2022-09-12T21:05:34.694000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

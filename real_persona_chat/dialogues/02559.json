@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2559,
+    "interlocutors": [
+        "DE",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DE",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-22T15:02:55.869000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-22T15:03:08.858000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DE",
+            "text": "秋にお出かけの予定はありますか？",
+            "timestamp": "2022-08-22T15:03:12.426000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "旅行に行きたいとは思っているのですが",
+            "timestamp": "2022-08-22T15:04:50.075000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DE",
+            "text": "いいですね。コロナがどうなっているでしょうかね。",
+            "timestamp": "2022-08-22T15:04:06.661000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "はい。落ち着いてほしい。",
+            "timestamp": "2022-08-22T15:05:07.402000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DE",
+            "text": "本当ですね。どちらに行かれるのかお考えはあるのですか？",
+            "timestamp": "2022-08-22T15:05:28.897000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "能登に行ってみたいと思っているのですが。",
+            "timestamp": "2022-08-22T15:05:45.808000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DE",
+            "text": "能登、富山でしたっけ？",
+            "timestamp": "2022-08-22T15:06:14.826000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "はい。行ったことがないので。",
+            "timestamp": "2022-08-22T15:06:31.009000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DE",
+            "text": "お魚が美味しかった記憶があります。甘えびとか鰤とか。",
+            "timestamp": "2022-08-22T15:06:54.508000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "そうですか。ぜひ魚食べたいですね。",
+            "timestamp": "2022-08-22T15:07:20.868000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DE",
+            "text": "日本海のお魚美味しいですよね。",
+            "timestamp": "2022-08-22T15:07:39.247000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "そうですね。種類も豊富だし",
+            "timestamp": "2022-08-22T15:07:52.404000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DE",
+            "text": "北陸新幹線でですか？",
+            "timestamp": "2022-08-22T15:08:22.453000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "そこが迷いどころですね。飛行機か新幹線か。",
+            "timestamp": "2022-08-22T15:08:44.378000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DE",
+            "text": "そうなんですね。北陸新幹線一度も乗ったことがないので乗ってみたいです。飛行機は早いから楽ですね。",
+            "timestamp": "2022-08-22T15:09:24.089000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "私もないですね。あまり早くないのかな？",
+            "timestamp": "2022-08-22T15:09:42.109000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DE",
+            "text": "空港がどこにあるのかにもよりますね。",
+            "timestamp": "2022-08-22T15:09:56.406000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "微妙なんですよ。ほんとに。",
+            "timestamp": "2022-08-22T15:10:18.553000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DE",
+            "text": "お車に乗られるのならレンタカー借りるのも手ですね。",
+            "timestamp": "2022-08-22T15:10:42.655000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "空港からレンタカーパターンは楽ですよね",
+            "timestamp": "2022-08-22T15:11:12.107000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DE",
+            "text": "ですね、いろんなところに行かれますし。",
+            "timestamp": "2022-08-22T15:11:32.558000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "小さい場所でも面白いところがあってよりたいものです",
+            "timestamp": "2022-08-22T15:12:08.455000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DE",
+            "text": "そうですよね。北陸旅行いいですね。金沢も行かれますか？",
+            "timestamp": "2022-08-22T15:12:48.552000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "２泊するなら金沢も寄りたいです",
+            "timestamp": "2022-08-22T15:13:07.534000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DE",
+            "text": "城下町で良いところでした。兼六園とか。",
+            "timestamp": "2022-08-22T15:13:30.248000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "ですね。ただ金沢は行った事があるのでどうするか。",
+            "timestamp": "2022-08-22T15:13:56.794000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DE",
+            "text": "なるほど。旅程を考えるのも楽しみの一つですよね。",
+            "timestamp": "2022-08-22T15:14:25.357000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "あとはコロナくん大人しくしてて。",
+            "timestamp": "2022-08-22T15:14:42.908000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

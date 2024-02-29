@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 934,
+    "interlocutors": [
+        "BI",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:21:14.597000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:21:16.036000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "お好きな食べ物は何ですか？",
+            "timestamp": "2022-08-11T16:21:27.294000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "そうだなあ、タンパク質全般",
+            "timestamp": "2022-08-11T16:21:42.636000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "お肉やお魚、卵とかですかね？",
+            "timestamp": "2022-08-11T16:21:59.128000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "はい、どれも甲乙つけがたい",
+            "timestamp": "2022-08-11T16:22:09.142000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "なかでも一番は？",
+            "timestamp": "2022-08-11T16:22:17.464000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "ステーキは大好きです、赤身",
+            "timestamp": "2022-08-11T16:22:25.935000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "がっつりお肉ですね！",
+            "timestamp": "2022-08-11T16:22:37.106000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "鶏肉もいいですね、焼いてよし、似てよし、和食でも中華でも洋でもなんでもこい",
+            "timestamp": "2022-08-11T16:22:59.105000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "どんな料理もお作りになりますか？",
+            "timestamp": "2022-08-11T16:23:15.969000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "はい、見よう見まねで知らない国の料理をトライする趣味が",
+            "timestamp": "2022-08-11T16:23:35.950000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "それはいいですね！奥様も喜ばれるでしょう！",
+            "timestamp": "2022-08-11T16:23:52.555000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "結構気に入ってくれるものもあります",
+            "timestamp": "2022-08-11T16:24:05.030000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "例えば最近の自信作は？",
+            "timestamp": "2022-08-11T16:24:17.766000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "定番だとステーキやムニエルは私担当、あとは自信作といえば中東風のパエリア",
+            "timestamp": "2022-08-11T16:24:42.793000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "パエリア！おうちで作れるものなんですか！",
+            "timestamp": "2022-08-11T16:24:59.864000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "ストウブって鍋があるので、あとはオーブンがあればいけます",
+            "timestamp": "2022-08-11T16:25:15.712000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "ストウブって、アウトドアとかで使うのですかね？",
+            "timestamp": "2022-08-11T16:25:41.937000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "家で普通に使ってます",
+            "timestamp": "2022-08-11T16:25:57.147000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "そうなんですね！しかも中東風。スペインとは違うものですか？",
+            "timestamp": "2022-08-11T16:26:17.276000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "はい、スパイスがはいって、カレー的というか、ビリヤニに近い感じ",
+            "timestamp": "2022-08-11T16:26:31.142000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "へー、そういうのは、調べて作るんですか？",
+            "timestamp": "2022-08-11T16:26:51.400000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "YouTubeに転がってますよ",
+            "timestamp": "2022-08-11T16:27:00.527000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "まずメニューを思いつかない！",
+            "timestamp": "2022-08-11T16:27:12.516000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "WILDERNESS COOKINGあたりからまずはどうぞ",
+            "timestamp": "2022-08-11T16:27:53.945000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "いろいろメニューが載ってるサイトでしょうか。",
+            "timestamp": "2022-08-11T16:28:10.446000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "アゼルバイジャン料理、っというか全部手作り、ガス無し状態からの",
+            "timestamp": "2022-08-11T16:28:29.723000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "難しそうだけど、できたら夫に褒められそう！",
+            "timestamp": "2022-08-11T16:28:49.438000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "こういうの見てると、むしろあこがれちゃいます",
+            "timestamp": "2022-08-11T16:29:06.163000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5381,
+    "interlocutors": [
+        "GT",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-23T09:43:23.668000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T09:43:33.574000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "甘いもの好きですか？",
+            "timestamp": "2022-09-23T09:43:38.524000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "甘いもの大好きです！",
+            "timestamp": "2022-09-23T09:43:54.691000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "よく食べますか？",
+            "timestamp": "2022-09-23T09:44:03.559000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "はい、コンビニスイーツとかアイスとか、よく買っちゃいます。",
+            "timestamp": "2022-09-23T09:44:20.491000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "わかります、けっこうおいしいですよね。",
+            "timestamp": "2022-09-23T09:44:26.926000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "はい！あなたはどんなスイーツよく食べますか？",
+            "timestamp": "2022-09-23T09:44:53.552000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "シュークリームとか好きですね。",
+            "timestamp": "2022-09-23T09:44:59.898000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "あー！美味しいですよね！私はチョコ系が好きです！",
+            "timestamp": "2022-09-23T09:45:30.633000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "チョコ系もいいですね。甘めが好きです。",
+            "timestamp": "2022-09-23T09:45:49.458000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "いいですね！最近は、チョコはダーク系もハマってます。",
+            "timestamp": "2022-09-23T09:46:22.932000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "つかれたときにはいいですね。",
+            "timestamp": "2022-09-23T09:46:38.244000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "そうですね！ダークだと、ちょっと罪悪感も薄れるというか、、",
+            "timestamp": "2022-09-23T09:47:05.254000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "たしかに。抹茶もすごく好きです。",
+            "timestamp": "2022-09-23T09:47:10.935000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "抹茶もいいですね！季節的に最近さつまいもとかかぼちゃ系をよく見かけます。",
+            "timestamp": "2022-09-23T09:47:46.457000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "サツマイモ大好きです。",
+            "timestamp": "2022-09-23T09:47:54.146000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "おいしいですよねー！焼き芋とかも。",
+            "timestamp": "2022-09-23T09:48:35.190000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "家でやったりします、オーブンレンジですが",
+            "timestamp": "2022-09-23T09:48:55.353000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "種類によっては結構甘くなりますよね！",
+            "timestamp": "2022-09-23T09:49:21.608000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "そうなんですよ、オーブンの機能もなんかよくなってる気がします。",
+            "timestamp": "2022-09-23T09:49:31.655000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "そうですね！私もこの前作って冷凍しました。",
+            "timestamp": "2022-09-23T09:49:54.424000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "冷凍したことないです。長期保管できそうでいいですね。",
+            "timestamp": "2022-09-23T09:50:04.143000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "冷やし焼き芋的な感じで、甘味感じやすいかもです。",
+            "timestamp": "2022-09-23T09:50:25.119000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "たしかに、たまに冷やしで売っているの見たりもします。",
+            "timestamp": "2022-09-23T09:50:39.093000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "そんな感じです。私はあっためましたが、半解凍くらいで食べてもいいみたいですね。",
+            "timestamp": "2022-09-23T09:51:16.496000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "いいですね、秋っておいしいもの多いですよね。",
+            "timestamp": "2022-09-23T09:51:26.098000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "食欲の秋ですね！",
+            "timestamp": "2022-09-23T09:51:39.615000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "サンマとかもおいしいです。",
+            "timestamp": "2022-09-23T09:51:49.868000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "うんうん！朝ですけど、お腹空いてきましたー。",
+            "timestamp": "2022-09-23T09:52:12.317000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

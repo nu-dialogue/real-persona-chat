@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12344,
+    "interlocutors": [
+        "AR",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "こんにちは、お願いします。",
+            "timestamp": "2022-09-08T10:54:22.430000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは、お願いします。",
+            "timestamp": "2022-09-08T10:54:30.381000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "これまで旅行した中で良かった場所はありますか。",
+            "timestamp": "2022-09-08T10:54:48.900000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "昨年岐阜に行きましたが自然が綺麗で良かったです。",
+            "timestamp": "2022-09-08T10:55:12.445000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "岐阜ですか。まだ行ったことないなぁ。海と山どちらが好きですか？",
+            "timestamp": "2022-09-08T10:55:44.041000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "海と山でどちらが、っていうのはあまりないですね。",
+            "timestamp": "2022-09-08T10:56:02.256000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "どちらもそれなりに好きなのですね。温泉は？",
+            "timestamp": "2022-09-08T10:56:25.560000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "温泉も機会があれば入りますが、特別好みではないですかね。",
+            "timestamp": "2022-09-08T10:56:50.778000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "そうですか。私はずっと登山がしたいです。でも一緒に行ってくれる方がなかなかいない。",
+            "timestamp": "2022-09-08T10:57:37.738000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "登山ですか。軽いレベルの登山ならできそうですが、しっかりしたのは難しそうです。",
+            "timestamp": "2022-09-08T10:58:09.796000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "軽くてもいいんです。山頂でおむすび食べたい。",
+            "timestamp": "2022-09-08T10:58:33.250000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "それは楽しくて美味しそうですね。",
+            "timestamp": "2022-09-08T10:59:06.751000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "中学の合宿で初めて登山して、あの時の銀ｼｬﾘの味と達成感がいつまでも思い出です。",
+            "timestamp": "2022-09-08T10:59:56.813000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "運動して少し疲れたところに自然の空気と一緒に食べるおにぎりは美味しいでしょうね。",
+            "timestamp": "2022-09-08T11:00:21.104000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "はい、なんか、空気が薄いところではいつもより塩分多くした方がおいしく感じるらしいです。",
+            "timestamp": "2022-09-08T11:01:05.825000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "ほう、それは初耳でした。",
+            "timestamp": "2022-09-08T11:01:18.050000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "ってミステリー小説にかいてありました。",
+            "timestamp": "2022-09-08T11:01:50.540000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "なるほど、それは実際はどうなんでしょうね。",
+            "timestamp": "2022-09-08T11:02:16.554000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "でもたしかに一理あるかも。私OS１嫌いなんですが、登山中ごくごく飲めたんですよ。",
+            "timestamp": "2022-09-08T11:03:38.427000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "汗で塩分がなくなるのも関係するのかもです。",
+            "timestamp": "2022-09-08T11:03:58.267000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "それもあるかもしれませんね。あなたの趣味はなんですか。",
+            "timestamp": "2022-09-08T11:04:44.522000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "私は最近は漫画を読むのが趣味かもしれません。",
+            "timestamp": "2022-09-08T11:05:05.621000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "どんな漫画が好きですか。",
+            "timestamp": "2022-09-08T11:05:17.888000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "野球の漫画が好きです。",
+            "timestamp": "2022-09-08T11:05:51.566000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "タッチとか、巨人の星？あれ、古いかしら？",
+            "timestamp": "2022-09-08T11:06:27.693000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "ドカベンとか読みますね。",
+            "timestamp": "2022-09-08T11:06:46.480000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "あー！！知ってます！！懐かしいですね。",
+            "timestamp": "2022-09-08T11:07:12.192000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "作者の方が亡くなられて残念でした。",
+            "timestamp": "2022-09-08T11:07:31.108000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "好きな方の死はたとえ他人であっても悲しいですよね。",
+            "timestamp": "2022-09-08T11:08:13.001000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "はい、最近は有名な方の死が多く辛いです。",
+            "timestamp": "2022-09-08T11:08:28.528000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 2
+        }
+    ]
+}

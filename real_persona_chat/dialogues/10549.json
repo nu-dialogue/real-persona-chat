@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10549,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-13T23:25:47.556000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-13T23:25:54.411000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "ご家族はいますか？",
+            "timestamp": "2022-08-13T23:26:17.318000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "一人暮らしです。あなたは？",
+            "timestamp": "2022-08-13T23:26:31.830000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "私は実家暮らしです。一人暮らし楽しそうですね",
+            "timestamp": "2022-08-13T23:26:52.023000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "楽しいです。彼氏が頻繁に来て、ちょっと口うるさいくらいです",
+            "timestamp": "2022-08-13T23:28:12.868000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "というと？",
+            "timestamp": "2022-08-13T23:28:25.852000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "物の場所とか口出されたり、勝手に片付けられたり。",
+            "timestamp": "2022-08-13T23:28:58.037000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "彼氏さんの家じゃないのにちょっといやですね",
+            "timestamp": "2022-08-13T23:29:16.399000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "そうなんですよ！私の家なのに、、、",
+            "timestamp": "2022-08-13T23:29:31.651000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "でも片付けてあげたって思ってそうですね",
+            "timestamp": "2022-08-13T23:30:01.596000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "まさにです。やめてとも言えないし、モヤモヤします",
+            "timestamp": "2022-08-13T23:30:25.608000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "うーん、家に呼ばないようにするとかですかね",
+            "timestamp": "2022-08-13T23:30:55.872000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "最悪それですよね",
+            "timestamp": "2022-08-13T23:31:12.510000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "手伝ってくれなくなるのを覚悟してはっきり言うか、どっちかですね",
+            "timestamp": "2022-08-13T23:31:54.592000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "ですねー、<CS>さんは恋人いますか？",
+            "timestamp": "2022-08-13T23:32:13.518000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "最近別れちゃいました",
+            "timestamp": "2022-08-13T23:32:24.760000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "そうなんですか、なぜですか？",
+            "timestamp": "2022-08-13T23:32:37.097000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "結婚願望ないみたいで、時間の無駄だなぁと思っちゃって",
+            "timestamp": "2022-08-13T23:32:56.981000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "<CS>さんは結婚願望強いんですか？",
+            "timestamp": "2022-08-13T23:33:14.097000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "今すぐめちゃくちゃしたい！ってわけではないですが、いつかはしたいですね",
+            "timestamp": "2022-08-13T23:33:49.204000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "私もそんな感じです。いつかはしたいですよね",
+            "timestamp": "2022-08-13T23:34:28.982000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "一人も気楽でいいんでしょうけどね",
+            "timestamp": "2022-08-13T23:34:46.688000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "離婚してもいいけど一回くらいは結婚してみたいって思ってます",
+            "timestamp": "2022-08-13T23:35:08.808000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "人生経験として？",
+            "timestamp": "2022-08-13T23:35:21.017000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "ですです。",
+            "timestamp": "2022-08-13T23:35:26.947000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "私は困ったとき支えあえる人が欲しいんですよね。",
+            "timestamp": "2022-08-13T23:36:07.591000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "たしかにそれは欲しいですね。",
+            "timestamp": "2022-08-13T23:36:20.803000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "結婚しないと病院とか引っ越しとか重要書類に名前書けないですし、結婚したいです",
+            "timestamp": "2022-08-13T23:37:14.320000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "いい人が現れるといいですね",
+            "timestamp": "2022-08-13T23:37:26.709000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

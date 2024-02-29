@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8221,
+    "interlocutors": [
+        "BZ",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BZ",
+            "text": "こんばんわ！よろしくお願いします。",
+            "timestamp": "2022-08-06T20:00:12.952000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-06T20:00:48.127000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BZ",
+            "text": "今日はどんな一日でしたか？",
+            "timestamp": "2022-08-06T20:01:01.958000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "自宅でごろごろです",
+            "timestamp": "2022-08-06T20:01:10.660000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BZ",
+            "text": "お休みってことですね？",
+            "timestamp": "2022-08-06T20:01:21.611000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "そうです",
+            "timestamp": "2022-08-06T20:02:32.507000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BZ",
+            "text": "私も今日はやすみだったのでごろごろでした。",
+            "timestamp": "2022-08-06T20:03:26.697000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "同じですね",
+            "timestamp": "2022-08-06T20:03:26.621000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BZ",
+            "text": "とりあえず日中外にでると異常にあついので。",
+            "timestamp": "2022-08-06T20:03:41.515000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "同感です、外は暑いですよね",
+            "timestamp": "2022-08-06T20:03:57.962000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BZ",
+            "text": "雨が降ってもすごい勢いですし、なんか過ごしにくいです。",
+            "timestamp": "2022-08-06T20:04:20.812000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "外へ行くならどこ行きたいですか？",
+            "timestamp": "2022-08-06T20:04:46.768000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BZ",
+            "text": "こどもとプールでも行きたいです。",
+            "timestamp": "2022-08-06T20:04:59.598000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "それは良いですね、お子さんは何歳なんですか？",
+            "timestamp": "2022-08-06T20:05:23.825000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BZ",
+            "text": "上は17歳ですが一番下は9歳です。",
+            "timestamp": "2022-08-06T20:06:06.742000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "結構、差が開いてますね、喧嘩とかはないですか？",
+            "timestamp": "2022-08-06T20:06:02.002000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BZ",
+            "text": "全部で4人いるので。それぞれは近いんです。",
+            "timestamp": "2022-08-06T20:06:24.112000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、僕は3人兄弟の長男で次女とは8歳差です。",
+            "timestamp": "2022-08-06T20:07:12.483000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BZ",
+            "text": "差がありますね。それこそ喧嘩とかないですか？",
+            "timestamp": "2022-08-06T20:07:43.077000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "自分の部屋があるので、各自こもりっぱなしなので大丈夫です",
+            "timestamp": "2022-08-06T20:08:04.707000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BZ",
+            "text": "私は小さいときなかったので。あると最高ですよね。",
+            "timestamp": "2022-08-06T20:08:31.743000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "そうですよね、前に住んでいた家はなかったので物の取り合いが酷かったです",
+            "timestamp": "2022-08-06T20:09:01.430000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BZ",
+            "text": "3人兄弟ということはもう一人おられるんですね。離れてらっしゃるんですか？",
+            "timestamp": "2022-08-06T20:09:44.556000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "自分の下に高校2年生の長女がいます。僕は20歳の社会人です",
+            "timestamp": "2022-08-06T20:10:19.399000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BZ",
+            "text": "とってもお若いんですね！社会人なり立てに近いですね。",
+            "timestamp": "2022-08-06T20:11:03.297000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、今年入社したばかりです！",
+            "timestamp": "2022-08-06T20:11:24.191000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BZ",
+            "text": "毎日が新鮮じゃないですか。",
+            "timestamp": "2022-08-06T20:11:50.709000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "分からないことを質問し続ける毎日です。",
+            "timestamp": "2022-08-06T20:12:20.236000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BZ",
+            "text": "最初は仕方ないですね。頑張っていきましょう。",
+            "timestamp": "2022-08-06T20:12:34.565000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、ありがとうございます。",
+            "timestamp": "2022-08-06T20:12:52.123000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

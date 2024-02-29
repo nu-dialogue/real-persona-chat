@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1567,
+    "interlocutors": [
+        "CO",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T14:10:32.717000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "こんにちは。宜しくお願いいたします。",
+            "timestamp": "2022-08-15T14:10:42.009000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "運動とかはされますか？",
+            "timestamp": "2022-08-15T14:10:51.122000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "あまりしないです。たまにウォーキングしたり、スパに行ったりするくらいなんですよ。",
+            "timestamp": "2022-08-15T14:11:12.863000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "ウォーキングいいですね。どれくらい歩きますか？",
+            "timestamp": "2022-08-15T14:11:37.875000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "そうですね、できる時に30分から1時間くらい歩きます。本当はもっと頻繁に歩きたいのですが。",
+            "timestamp": "2022-08-15T14:12:15.770000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "結構がっつり歩かれますね。私も３０分ほど週２，３日で歩きます",
+            "timestamp": "2022-08-15T14:12:59.257000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "いいですね！普段、車社会の地域に生きているので、気をつけないと中々歩かないのです。",
+            "timestamp": "2022-08-15T14:13:23.690000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "なるほど。普段の足は車ですか？",
+            "timestamp": "2022-08-15T14:13:37.615000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "そうですね。たまに自転車も乗りますが、ほぼ車です。",
+            "timestamp": "2022-08-15T14:14:06.497000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "なるほど。車乗り出すと確かに運動しなくなる気がします",
+            "timestamp": "2022-08-15T14:14:37.187000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "そうなんですよねー。東京に１年ほど住んでいたのですが、その頃は自然にたくさん歩いていたなと思います。",
+            "timestamp": "2022-08-15T14:15:05.860000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "東京は交通の便が良さそうで車はいらないような気がします",
+            "timestamp": "2022-08-15T14:15:41.735000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "そうですね。駐車場の関係もあって、車は使わず電車やバスで移動していました。",
+            "timestamp": "2022-08-15T14:16:01.948000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "なるほど。スパは良くいかれるんですか？",
+            "timestamp": "2022-08-15T14:16:24.673000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "スパが近くの地域にあるので、年数回行きますよー。",
+            "timestamp": "2022-08-15T14:16:52.011000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "いいですね。温泉や銭湯はお好きですか？",
+            "timestamp": "2022-08-15T14:17:14.759000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "はい、好きです。変わり湯が楽しめたり、リラクゼーションも併設されたりしているのでいいですよね。",
+            "timestamp": "2022-08-15T14:17:40.291000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "ですね。私も好きでスーパー銭湯にはよく行ってました",
+            "timestamp": "2022-08-15T14:18:13.008000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "私も久々にこの間銭湯に行ったのですが、今はおしゃれなところも多いですよねー。",
+            "timestamp": "2022-08-15T14:18:44.749000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "そうですか、今はどんなのが流行ってるんでしょうか？",
+            "timestamp": "2022-08-15T14:19:24.307000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "私が行った銭湯には、広いサウナがあって、あと上部におもちゃのＳＬ走ってました。",
+            "timestamp": "2022-08-15T14:20:17.146000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "サウナよくテレビでやってますよね。特集",
+            "timestamp": "2022-08-15T14:20:28.140000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "そうですね。ただ私はサウナ苦手で、岩盤浴くらいがちょうど良いです。",
+            "timestamp": "2022-08-15T14:20:44.038000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "そうでしたか。おもちゃのSLとはテーマパークみたいな感じですかね？",
+            "timestamp": "2022-08-15T14:21:16.648000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "店主の遊び心だと思いますが、色々工夫してるんだなと思いました。露天風呂に盆栽もありました。",
+            "timestamp": "2022-08-15T14:21:51.120000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "へえ、すごいですね。遊び心の幅が広いですね",
+            "timestamp": "2022-08-15T14:22:21.637000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "そうですね。意外に若い人たちがいて、驚いたのもありますね。",
+            "timestamp": "2022-08-15T14:22:45.384000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "また行きたくなりました。ありがとうございました",
+            "timestamp": "2022-08-15T14:23:01.859000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "はい、またお話ししましょう。",
+            "timestamp": "2022-08-15T14:23:11.756000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

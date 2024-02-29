@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11486,
+    "interlocutors": [
+        "DM",
+        "EJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-22T19:58:20.908000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-22T19:58:28.372000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "夜ご飯は食べましたか？",
+            "timestamp": "2022-08-22T19:58:43.606000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EJ",
+            "text": "はい！もう食べました！",
+            "timestamp": "2022-08-22T19:59:00.213000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "何を食べましたか？",
+            "timestamp": "2022-08-22T19:59:13.110000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EJ",
+            "text": "カレーうどんを食べました！",
+            "timestamp": "2022-08-22T19:59:22.686000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "いいですね！しばらく食べていないです．",
+            "timestamp": "2022-08-22T19:59:36.309000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EJ",
+            "text": "あまり食べる機会が無いですよね。",
+            "timestamp": "2022-08-22T19:59:46.090000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "うどん屋さんで食べたカレーうどんが美味しすぎて忘れられません．",
+            "timestamp": "2022-08-22T20:00:13.143000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EJ",
+            "text": "すごくおいしそうです！うどん屋さん行きたいな。",
+            "timestamp": "2022-08-22T20:00:30.933000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "外食はよくされます？",
+            "timestamp": "2022-08-22T20:00:41.699000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EJ",
+            "text": "しますが、チェーン店で済ませちゃうことが多いですね。",
+            "timestamp": "2022-08-22T20:00:57.429000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね．定番で絶対美味しいですもんね．",
+            "timestamp": "2022-08-22T20:01:19.331000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですよね、外れが無いので。",
+            "timestamp": "2022-08-22T20:01:33.487000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "私はラーメン屋さんが好きで，結構開拓していますよ．",
+            "timestamp": "2022-08-22T20:02:00.625000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EJ",
+            "text": "いいですね！あまりラーメン屋さん行かないので、気になります。",
+            "timestamp": "2022-08-22T20:02:23.981000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "最近は煮干しで出汁をとったラーメンがお気に入りです．",
+            "timestamp": "2022-08-22T20:03:09.466000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EJ",
+            "text": "煮干しラーメンいいですね！通って感じがします。",
+            "timestamp": "2022-08-22T20:03:23.269000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "好きな食べ物は何かありますか？",
+            "timestamp": "2022-08-22T20:03:43.539000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EJ",
+            "text": "甘い物全般大好きですね！",
+            "timestamp": "2022-08-22T20:03:52.846000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "私もです！今日もシュークリームを買ってしまいました．",
+            "timestamp": "2022-08-22T20:04:16.180000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EJ",
+            "text": "美味しそう！カスタードとホイップどちらが好みですか？",
+            "timestamp": "2022-08-22T20:04:38.418000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "私はカスタード派です！",
+            "timestamp": "2022-08-22T20:04:48.875000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EJ",
+            "text": "私もです！シュークリームと言ったらカスタードみたいなところありますよね。",
+            "timestamp": "2022-08-22T20:05:08.425000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "ですね！普段はコンビニで買うのですが，お菓子屋さんのシュークリームも格別ですよね．",
+            "timestamp": "2022-08-22T20:05:42.668000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EJ",
+            "text": "お菓子屋さんはやっぱり美味しいですよね！コンビニでは味わえないあじですね。",
+            "timestamp": "2022-08-22T20:06:09.183000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "今日買ったのはセブンイレブンですが，またお菓子屋さんに買いに行きたいな．",
+            "timestamp": "2022-08-22T20:06:35.857000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EJ",
+            "text": "お高い所も多いので、たまのご褒美にいいですね！",
+            "timestamp": "2022-08-22T20:07:05.698000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "そうですね！お話ししていただきありがとうございました！",
+            "timestamp": "2022-08-22T20:07:16.748000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EJ",
+            "text": "こちらこそ！シュークリーム食べたくなってきました。",
+            "timestamp": "2022-08-22T20:07:27.988000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

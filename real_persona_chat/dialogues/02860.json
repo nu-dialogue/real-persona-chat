@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2860,
+    "interlocutors": [
+        "EM",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EM",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-24T14:18:05.896000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-24T14:18:09.309000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EM",
+            "text": "好きな果物はありますか？",
+            "timestamp": "2022-08-24T14:18:14.708000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "メロンやマンゴーが好きです。",
+            "timestamp": "2022-08-24T14:18:31.123000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EM",
+            "text": "マンゴーはいいですね。私も好きです。",
+            "timestamp": "2022-08-24T14:18:42.796000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "完熟のはとくに美味しいですね。",
+            "timestamp": "2022-08-24T14:19:05.604000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EM",
+            "text": "柔らかいほうが好みです。桃なんかにも言えますね。",
+            "timestamp": "2022-08-24T14:19:17.238000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "桃はこれから旬ですね。",
+            "timestamp": "2022-08-24T14:19:39.890000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EM",
+            "text": "そうなんですか？初夏ごろかと思っておりました。",
+            "timestamp": "2022-08-24T14:19:58.711000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "場所によるのでしょうか？初夏もビワなど売っているのでもしかしたら桃も初夏なのかもですね。",
+            "timestamp": "2022-08-24T14:20:54.502000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EM",
+            "text": "物に寄るのかもしれませんが、送られてくるので。そうかと思います。",
+            "timestamp": "2022-08-24T14:21:08.070000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "農家さんにお知り合いがいるのですか？",
+            "timestamp": "2022-08-24T14:21:24.785000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EM",
+            "text": "はい。親戚が山梨におります。",
+            "timestamp": "2022-08-24T14:21:32.124000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "そうすると、ぶどうも送られてきたりしますか？",
+            "timestamp": "2022-08-24T14:21:53.347000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EM",
+            "text": "いえ、主に桃ですね。",
+            "timestamp": "2022-08-24T14:22:22.657000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "桃を主に作っている方なんですね。",
+            "timestamp": "2022-08-24T14:22:38.604000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EM",
+            "text": "そのように思います。親戚などに農家がおりますか？",
+            "timestamp": "2022-08-24T14:22:57.098000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "特に居ませんねー。",
+            "timestamp": "2022-08-24T14:23:16.982000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EM",
+            "text": "そうなんですね。",
+            "timestamp": "2022-08-24T14:23:21.986000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "お米を作っている人が親戚にいたら助かる気がします。",
+            "timestamp": "2022-08-24T14:23:58.973000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EM",
+            "text": "あぁそれはいいですね。食費が浮きそうです。",
+            "timestamp": "2022-08-24T14:24:08.147000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "新鮮なのが届きそうなのも良いです。",
+            "timestamp": "2022-08-24T14:24:46.498000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EM",
+            "text": "ですね。普段からお米を中心に食べていますか？",
+            "timestamp": "2022-08-24T14:25:18.530000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "最近はなるべくお米を食べるようにしています。",
+            "timestamp": "2022-08-24T14:25:39.832000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EM",
+            "text": "それは何か理由がありますか？",
+            "timestamp": "2022-08-24T14:25:48.799000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "そのほうが体調に良さそうだからです。",
+            "timestamp": "2022-08-24T14:26:10.672000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EM",
+            "text": "そうなんですね。最近は炭水化物抜きなどあるので。",
+            "timestamp": "2022-08-24T14:26:27.465000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "炭水化物抜きはやりすぎると危険らしいですね。",
+            "timestamp": "2022-08-24T14:27:11.655000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EM",
+            "text": "それは知りませんでした。",
+            "timestamp": "2022-08-24T14:27:16.943000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "ほどほどが良いみたいです。",
+            "timestamp": "2022-08-24T14:27:36.150000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

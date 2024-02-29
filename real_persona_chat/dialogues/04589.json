@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4589,
+    "interlocutors": [
+        "CB",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T17:21:23.673000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T17:21:29.230000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "晩御飯は何食べますか",
+            "timestamp": "2022-09-12T17:21:38.819000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "考え中です。どうしようかと。",
+            "timestamp": "2022-09-12T17:21:51.555000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "自分もです。",
+            "timestamp": "2022-09-12T17:22:02.771000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "ごはんはあるので、おかずを何か作ろうかなと。",
+            "timestamp": "2022-09-12T17:22:26.994000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "なるほどー。焼きそばにでもしようかなと思いました",
+            "timestamp": "2022-09-12T17:22:41.102000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "いいですね。私は冷凍餃子の余りがあるから、それとかかな。",
+            "timestamp": "2022-09-12T17:22:59.823000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "餃子もいいですね！　冷凍餃子は便利ですよね",
+            "timestamp": "2022-09-12T17:23:23.180000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "便利です。レトルトカレーがあったから、カレー餃子とかどうでしょう。",
+            "timestamp": "2022-09-12T17:23:43.402000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "なるほど。アレンジですね！",
+            "timestamp": "2022-09-12T17:24:10.887000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "したことないですが、挑戦しすぎですかね。",
+            "timestamp": "2022-09-12T17:24:25.135000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "ありだと思います！うちはチーズマシマシでつくります",
+            "timestamp": "2022-09-12T17:24:38.045000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "おいしそうですね！チーズカレー。",
+            "timestamp": "2022-09-12T17:24:53.213000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "カレーとチーズは合います。餃子をつくるときもチーズ必ずいれます",
+            "timestamp": "2022-09-12T17:25:14.362000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "餃子を自分で作られるのですか？",
+            "timestamp": "2022-09-12T17:25:30.236000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "つくりますよ。",
+            "timestamp": "2022-09-12T17:25:38.910000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "いいですね！意外に簡単に作れますよね。",
+            "timestamp": "2022-09-12T17:25:55.374000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "そうですね。最近は小６の息子も包むのが上手になったので、かなり楽になりました",
+            "timestamp": "2022-09-12T17:26:16.554000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "いいですね！お手伝い。",
+            "timestamp": "2022-09-12T17:26:35.336000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "自分は小学生のときにこんなに上手に包めなかったなと思います",
+            "timestamp": "2022-09-12T17:26:54.072000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "私も親に仕込まれた記憶があります。チーズはいれたことなかったです。",
+            "timestamp": "2022-09-12T17:27:30.082000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "チーズと紫蘇をたっぷりいれると、バランスよくなって家族にも好評です",
+            "timestamp": "2022-09-12T17:27:58.212000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "それなんて読むんですか？",
+            "timestamp": "2022-09-12T17:28:17.021000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "紫蘇ですか？シソです",
+            "timestamp": "2022-09-12T17:28:33.354000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "しそですか！しそ餃子は食べます。おいしいですよね！",
+            "timestamp": "2022-09-12T17:28:50.513000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "おいしいですよね。ニラよりもシソがすきで",
+            "timestamp": "2022-09-12T17:29:17.116000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "しそとチーズが最強なんですね？",
+            "timestamp": "2022-09-12T17:29:29.981000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "自分的にはそうです！",
+            "timestamp": "2022-09-12T17:29:47.348000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "今度試してみます。",
+            "timestamp": "2022-09-12T17:29:56.345000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

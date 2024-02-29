@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2050,
+    "interlocutors": [
+        "AJ",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T20:46:13.784000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-28T20:46:18.028000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AJ",
+            "text": "好きな食べ物とかありますか？",
+            "timestamp": "2022-08-28T20:46:26.083000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "そうめん好きですね。",
+            "timestamp": "2022-08-28T20:46:32.173000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AJ",
+            "text": "夏にぴったりですね。私はカレーが好きです。",
+            "timestamp": "2022-08-28T20:46:49.548000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "カレーもいいですよね！カレーは二日目以降のアレンジも楽しみです。",
+            "timestamp": "2022-08-28T20:47:14.625000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AJ",
+            "text": "良いですね。カレーはやっぱ二日目ですよね。結構自炊されるのですか？",
+            "timestamp": "2022-08-28T20:47:44.043000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "忙しい時以外はするようにしています。",
+            "timestamp": "2022-08-28T20:48:04.619000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AJ",
+            "text": "凄いですね。私はあまり得意ではなくて。やっても炒めておしまいです。",
+            "timestamp": "2022-08-28T20:48:35.268000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "そうなんですね。私も簡単なのしか作りませんが。カレーは簡単で良いですよね！",
+            "timestamp": "2022-08-28T20:49:14.445000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AJ",
+            "text": "実は、３回チャレンジして、３回失敗した経験があります。",
+            "timestamp": "2022-08-28T20:49:37.498000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "そうなんですね。どのようなところで失敗してしまったのですか？",
+            "timestamp": "2022-08-28T20:50:07.944000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AJ",
+            "text": "うーん。一回目は粉っぽくて、２回目は水ぽくって、三回目は酸っぱかったです。なのでよくわかりません。",
+            "timestamp": "2022-08-28T20:50:38.408000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "1回目と2回目は水の量が違ったんですかね？私も前は水っぽいのばかり作ってました。",
+            "timestamp": "2022-08-28T20:51:14.594000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AJ",
+            "text": "ルーを調整すれば良いですかね？！",
+            "timestamp": "2022-08-28T20:51:34.491000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "パッケージの裏の分量を細かく守ってみたら、美味しいのが作れるようになりました！調整は水の量ですかね。",
+            "timestamp": "2022-08-28T20:52:04.822000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AJ",
+            "text": "なるほど。いつも計らずに適当でした。外食でカレーとかは食べたりしますか？",
+            "timestamp": "2022-08-28T20:52:38.205000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "よく食べます！店によっても味違うので、外食のカレーは好きですね。",
+            "timestamp": "2022-08-28T20:53:04.894000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AJ",
+            "text": "私もです。私はインドカレー派ですね。あなたは？",
+            "timestamp": "2022-08-28T20:53:28.860000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "そんなに考えずに食べてます。何でも好きです！",
+            "timestamp": "2022-08-28T20:53:53.363000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AJ",
+            "text": "良いですね。私はインドカレーが好きで、ナンにつけて食べると最高です。",
+            "timestamp": "2022-08-28T20:55:08.565000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "インド系のカレー屋さんってナン食べ放題もあるとこありません？昔はよく行ってたときありました！",
+            "timestamp": "2022-08-28T20:55:52.726000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AJ",
+            "text": "よくあります。それも狙いです。最高３枚食べました。",
+            "timestamp": "2022-08-28T20:56:13.972000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "高校の時が一番食べてたので、その時の5枚が最高です。",
+            "timestamp": "2022-08-28T20:57:06.616000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AJ",
+            "text": "５枚！！！凄いです。結構自慢だったのに。",
+            "timestamp": "2022-08-28T20:57:22.836000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "そうなんですね。失礼しました。",
+            "timestamp": "2022-08-28T20:57:41.489000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AJ",
+            "text": "いえいえ、全く気にしないでください。たくさん食べる方好きですよ。",
+            "timestamp": "2022-08-28T20:58:11.616000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "ありがとうございます。あまり食べた枚数の話することは無いので、すごいことも知りませんでした。",
+            "timestamp": "2022-08-28T20:58:40.954000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AJ",
+            "text": "自慢できると思いますよ。昔の話でも。",
+            "timestamp": "2022-08-28T20:58:59.643000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "では、今度友達に自慢してみます。",
+            "timestamp": "2022-08-28T20:59:13.570000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

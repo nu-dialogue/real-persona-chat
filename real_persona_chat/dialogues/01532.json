@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1532,
+    "interlocutors": [
+        "DM",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DM",
+            "text": "こんばんは．",
+            "timestamp": "2022-08-15T21:24:11.509000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-15T21:24:17.705000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DM",
+            "text": "よろしくお願いします．",
+            "timestamp": "2022-08-15T21:24:26.611000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "こちらこそです。夜ご飯は食べましたか？",
+            "timestamp": "2022-08-15T21:24:46.701000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DM",
+            "text": "まだ食べてないんです．",
+            "timestamp": "2022-08-15T21:25:05.038000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "それはお腹が空きますねー。大丈夫ですか？",
+            "timestamp": "2022-08-15T21:25:27.496000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DM",
+            "text": "お昼が少し遅めだったのでなんとか笑",
+            "timestamp": "2022-08-15T21:25:40.073000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "先日ズッキーニをもらったので、わが家はラタトゥイユを食べました。",
+            "timestamp": "2022-08-15T21:26:00.963000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DM",
+            "text": "夏野菜いいですね！！",
+            "timestamp": "2022-08-15T21:26:13.247000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "そうなんです。夏野菜たっぷりで、夏バテや風邪防止になっていいですよー。",
+            "timestamp": "2022-08-15T21:26:30.977000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DM",
+            "text": "やっぱり旬の野菜ってとても美味しく感じますよね．",
+            "timestamp": "2022-08-15T21:26:49.296000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "本当ですよね。うちには圧力なべがあるので、ラタトゥイユもすぐにできちゃいます。",
+            "timestamp": "2022-08-15T21:27:22.801000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DM",
+            "text": "普通は調理に時間がかかる料理なんですか？",
+            "timestamp": "2022-08-15T21:27:45.231000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "煮詰める料理なので放置はできますが、少し時間がかかりますね。",
+            "timestamp": "2022-08-15T21:28:03.464000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね．旬の野菜といえば，このまえとうもろこしご飯を炊きました",
+            "timestamp": "2022-08-15T21:28:50.983000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "それは美味しそうですね！普通に炊飯器で炊くんですか？",
+            "timestamp": "2022-08-15T21:29:14.411000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DM",
+            "text": "そうですね．生のとうもろこしを買ってきて炊飯器に入れて炊きました．",
+            "timestamp": "2022-08-15T21:29:43.793000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "そうなんですね。今度作ってみようかしら。",
+            "timestamp": "2022-08-15T21:30:08.533000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DM",
+            "text": "芯ごと入れるのがポイントらしいですよ！",
+            "timestamp": "2022-08-15T21:30:32.338000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "へー、実だけ取って入れるんだと思ってました！",
+            "timestamp": "2022-08-15T21:30:47.172000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DM",
+            "text": "出汁が出るらしいです．比較はしてないですけど．",
+            "timestamp": "2022-08-15T21:31:06.606000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "なるほど。子どもたちコーン好きなので、やってみます。情報ありがとうございます！",
+            "timestamp": "2022-08-15T21:31:19.841000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DM",
+            "text": "あと夏の野菜といえば何がありますか？",
+            "timestamp": "2022-08-15T21:31:42.379000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "トマト、ナス、オクラ、ゴーヤなどでしょうか。",
+            "timestamp": "2022-08-15T21:32:04.446000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DM",
+            "text": "トマト好きです！どうやって食べることが多いですか？",
+            "timestamp": "2022-08-15T21:32:42.176000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "そのままとか、今日のラタトゥイユにも沢山いれましたよ。",
+            "timestamp": "2022-08-15T21:32:57.560000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DM",
+            "text": "いいですね．缶詰めのトマトで作るより断然美味しそうですね．",
+            "timestamp": "2022-08-15T21:33:36.986000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "そうなんですよー。今年は野菜も高めですが、夏野菜美味しいのでたくさん食べたいですね！",
+            "timestamp": "2022-08-15T21:34:03.350000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DM",
+            "text": "夏バテに気をつけましょうね！ありがとうございました！",
+            "timestamp": "2022-08-15T21:34:25.186000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "お互いに気を付けましょう。ありがとうございました！",
+            "timestamp": "2022-08-15T21:34:35.885000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

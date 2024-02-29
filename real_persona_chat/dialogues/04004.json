@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4004,
+    "interlocutors": [
+        "FE",
+        "CH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-09-05T13:58:01.451000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CH",
+            "text": "こんにちは。こちらこそよろしくです。",
+            "timestamp": "2022-09-05T13:58:16.314000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "休みの日とか何されてますか？",
+            "timestamp": "2022-09-05T13:58:26.579000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CH",
+            "text": "最近は配信サービスの映画を観たり、あとはゲームする機会が増えましたね。",
+            "timestamp": "2022-09-05T13:58:52.981000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "映画とゲームですか！すてきですね！映画は何を見られましたか？",
+            "timestamp": "2022-09-05T13:59:41.577000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CH",
+            "text": "先日は夏なのでサメ映画を観ましたよ。",
+            "timestamp": "2022-09-05T13:59:58.755000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "サメ映画というと、ジョーズとかですか？",
+            "timestamp": "2022-09-05T14:00:19.955000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CH",
+            "text": "いえ、ディープブルーというタイトルです。ネタ枠のサメ映画ではなく、ちゃんとした方です。",
+            "timestamp": "2022-09-05T14:00:48.058000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "なるほど！見たことないのですが、面白いですか？",
+            "timestamp": "2022-09-05T14:01:31.367000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CH",
+            "text": "面白かったですよ。ジョーズ以外のサメ映画では一番評価されているみたいですし。",
+            "timestamp": "2022-09-05T14:02:00.071000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "おおお！それは知りませんでした！私も見てみます！ゲームは何をされるんですか？",
+            "timestamp": "2022-09-05T14:02:25.362000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CH",
+            "text": "ゲームは今エルデンリングというアクション系のゲームを遊んでます。",
+            "timestamp": "2022-09-05T14:02:45.473000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "聞いたことないです。switchですか？",
+            "timestamp": "2022-09-05T14:03:29.047000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CH",
+            "text": "プレステとＰＣですね。わりとがっつりゲームをする人向けのタイトルですから。",
+            "timestamp": "2022-09-05T14:04:05.760000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "それは本格的ですね！大好きなんですね。",
+            "timestamp": "2022-09-05T14:04:29.501000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CH",
+            "text": "そうですね。やっぱり外出が減ってから、ゲーム熱が再燃した感じなんですよ。",
+            "timestamp": "2022-09-05T14:04:53.867000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "再燃となると、以前も結構やってたんですね。",
+            "timestamp": "2022-09-05T14:05:21.757000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CH",
+            "text": "学生の頃なんかは色々とやってましたね。就職してからは寝落ちすることばっかりだったので。",
+            "timestamp": "2022-09-05T14:06:01.495000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！就職するとやっぱり大変ですね。学生の頃は何に熱中してたんですか？",
+            "timestamp": "2022-09-05T14:06:48.237000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CH",
+            "text": "勉強も真面目にやりましたが、部活で弓道をやっていて、だいぶ熱中しましたね。",
+            "timestamp": "2022-09-05T14:07:43.584000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "弓道部でしたか！走り込みとか結構やってました？",
+            "timestamp": "2022-09-05T14:08:02.297000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CH",
+            "text": "いえ、弓道の時はあんまり走りませんでした。とにかく弓を引いていましたね。",
+            "timestamp": "2022-09-05T14:08:28.093000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "そうなんですね！中学校のときに弓道部へ体験で行ったことがあるのですがひたすら走り込みでした。",
+            "timestamp": "2022-09-05T14:08:57.747000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CH",
+            "text": "うーんなぜだろう。まぁ中学生だと基礎体力作りというのもあったのでしょうね。",
+            "timestamp": "2022-09-05T14:09:23.858000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "あとは入部人数を減らしたいというのもあったかもしれません。",
+            "timestamp": "2022-09-05T14:10:02.771000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CH",
+            "text": "ふるいにかけてたのかも、ということですか。弓道は大学弓道だったので、中高と大分様子が違うかもしれませんね。",
+            "timestamp": "2022-09-05T14:10:42.435000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "そうですね。大学で弓道ですか！高校生までは違うことやってたんですか？",
+            "timestamp": "2022-09-05T14:11:08.301000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CH",
+            "text": "中学で柔道、高校でバレーボールと、色々やりました。スポーツが基本好きなので。",
+            "timestamp": "2022-09-05T14:11:40.374000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "幅広い！すてきですね！",
+            "timestamp": "2022-09-05T14:12:05.852000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CH",
+            "text": "懐かしいですね。今でもたまにスポーツをやらないといけないなぁ。",
+            "timestamp": "2022-09-05T14:12:34.959000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

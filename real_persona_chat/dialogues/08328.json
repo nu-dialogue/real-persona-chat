@@ -1,0 +1,203 @@
+{
+    "dialogue_id": 8328,
+    "interlocutors": [
+        "CQ",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T11:23:10.724000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T11:23:26.902000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CQ",
+            "text": "学生時代の思い出を話しましょう！",
+            "timestamp": "2022-08-05T11:23:49.123000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "私は合唱祭が楽しかったです。",
+            "timestamp": "2022-08-05T11:24:09.151000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CQ",
+            "text": "合唱祭、いいですね！どんな歌を歌いました？",
+            "timestamp": "2022-08-05T11:24:33.246000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "マイナーかもですが「信じる」という歌を歌いました。",
+            "timestamp": "2022-08-05T11:24:52.561000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CQ",
+            "text": "あ、知ってるかもしれないです。サビに信じる、信じると繰り返すフレーズがあったような",
+            "timestamp": "2022-08-05T11:25:27.263000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "それで合ってます。実は歌ったというより伴奏を担当しました。",
+            "timestamp": "2022-08-05T11:25:48.130000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CQ",
+            "text": "ピアノですよね！すごいです",
+            "timestamp": "2022-08-05T11:26:05.963000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-08-05T11:26:18.334000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CQ",
+            "text": "楽譜通りに弾くんですか？アレンジとかできるんでしょうか？",
+            "timestamp": "2022-08-05T11:26:46.865000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "アレンジなんてまだまだで楽譜通りに弾きました。",
+            "timestamp": "2022-08-05T11:27:05.084000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、部活動はされてましたか？",
+            "timestamp": "2022-08-05T11:27:26.273000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "部活は帰宅部でしたがそちらは何部でしたか？",
+            "timestamp": "2022-08-05T11:27:46.820000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CQ",
+            "text": "中学は、卓球、高校がサイエンス部でした",
+            "timestamp": "2022-08-05T11:28:08.242000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "サイエンス部って素敵ですね。",
+            "timestamp": "2022-08-05T11:28:24.966000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CQ",
+            "text": "ありがとうございます。でも活動的でなかったので、先生が忙しいときはおしゃべりか帰宅でしたよ",
+            "timestamp": "2022-08-05T11:29:07.150000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "ゆったりな部活いいですね。実験とかはされたんですか？",
+            "timestamp": "2022-08-05T11:29:41.806000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CQ",
+            "text": "してました。液体窒素に周辺の物を入れてみたり豚の肺を購入して膨らませたり",
+            "timestamp": "2022-08-05T11:30:54.581000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "授業ではできない、めずらしいものを体験させてもらいました。",
+            "timestamp": "2022-08-05T11:30:58.215000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CQ",
+            "text": "豚の肺の実験気になります。すごい体験ですね。",
+            "timestamp": "2022-08-05T11:31:13.224000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "そうですね、思い返すとものすごい事をしてました",
+            "timestamp": "2022-08-05T11:31:47.954000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CQ",
+            "text": "部活入っとけばよかったと思いました。",
+            "timestamp": "2022-08-05T11:32:23.838000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "話題変わりますが、夏休みは、どう過ごしてました？",
+            "timestamp": "2022-08-05T11:32:53.543000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CQ",
+            "text": "高校時代はバイトとかしてましたよ。",
+            "timestamp": "2022-08-05T11:33:09.966000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "なんのバイトですか？",
+            "timestamp": "2022-08-05T11:33:32.878000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CQ",
+            "text": "皿洗いとかスーパーとか色々やりました。",
+            "timestamp": "2022-08-05T11:33:51.654000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "良い、経験ですね",
+            "timestamp": "2022-08-05T11:34:09.442000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CQ",
+            "text": "本当に、良い社会経験になったと思います。",
+            "timestamp": "2022-08-05T11:34:26.998000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

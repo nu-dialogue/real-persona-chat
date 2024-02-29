@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 990,
+    "interlocutors": [
+        "AH",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T18:27:41.109000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T18:27:47.790000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "毎日どのくらいの時間に寝ますか？",
+            "timestamp": "2022-08-11T18:27:48.991000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "いつも夜中の12時くらいです。",
+            "timestamp": "2022-08-11T18:28:03.534000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "私も同じくらいです！",
+            "timestamp": "2022-08-11T18:28:09.060000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "朝は何時くらいに起きますか？",
+            "timestamp": "2022-08-11T18:28:23.450000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "いつもは六時くらいですかね。",
+            "timestamp": "2022-08-11T18:28:30.854000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "同じくらいです！猫が早いともう少し早まりますが。",
+            "timestamp": "2022-08-11T18:28:49.458000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "猫によって変わるのですね！",
+            "timestamp": "2022-08-11T18:29:00.421000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "はい、猫が頭突きで起こしに来ると、寝てられないです。",
+            "timestamp": "2022-08-11T18:29:19.164000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "確かに、それじゃ寝てられないですね。",
+            "timestamp": "2022-08-11T18:29:28.864000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "夏は明るくなるのが早いので、早く起こされがちです。",
+            "timestamp": "2022-08-11T18:29:47.279000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "明るくなると目が覚める、健康的な気がします。",
+            "timestamp": "2022-08-11T18:30:01.458000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "健康的なんですが、もっと寝ていたい！みたいな感じです。",
+            "timestamp": "2022-08-11T18:30:21.954000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "お昼寝でカバーするしか無いですかね。",
+            "timestamp": "2022-08-11T18:30:34.419000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "そうなんです。ついついお昼寝して、寝過ごして後悔すること多しです。",
+            "timestamp": "2022-08-11T18:30:56.584000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "寝過ごすとすごい時間を無駄にした気分になります。",
+            "timestamp": "2022-08-11T18:31:08.061000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "思います！損した気分になるのに、やめられない。",
+            "timestamp": "2022-08-11T18:31:27.760000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "短い時間でもっとよく寝れればいいんですけどね。",
+            "timestamp": "2022-08-11T18:31:48.731000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "眠りは浅い方ですか？",
+            "timestamp": "2022-08-11T18:31:59.436000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "私は結構深いです。",
+            "timestamp": "2022-08-11T18:32:17.220000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "それなら、よく眠れそうですね！私は夜中に猫が騒ぐのですぐ目が覚めます。",
+            "timestamp": "2022-08-11T18:32:48.263000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "ただ、深いせいで長い時間寝ないと目覚めが不快になります。",
+            "timestamp": "2022-08-11T18:32:51.502000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "6時間くらいでは足らないですか。",
+            "timestamp": "2022-08-11T18:33:09.297000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "全然足りないです！",
+            "timestamp": "2022-08-11T18:33:16.675000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "8時間くらい必要でしょうか。",
+            "timestamp": "2022-08-11T18:33:30.025000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "それくらいあればゆっくり眠れそうです。",
+            "timestamp": "2022-08-11T18:33:41.049000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "毎日ゆっくり眠れるだけゆとりがあるといいんですけれど。",
+            "timestamp": "2022-08-11T18:33:59.255000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "はい、現実を考えると。",
+            "timestamp": "2022-08-11T18:34:06.796000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "なかなか難しいですね！",
+            "timestamp": "2022-08-11T18:34:17.405000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

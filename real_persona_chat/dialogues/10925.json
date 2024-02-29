@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10925,
+    "interlocutors": [
+        "ED",
+        "CM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ED",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T15:46:54.239000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-19T15:46:59.936000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ED",
+            "text": "何か趣味はありますか？",
+            "timestamp": "2022-08-19T15:47:09.610000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CM",
+            "text": "私はとにかくゲームが好きで、ずっと家で遊んでるかなという感じです！",
+            "timestamp": "2022-08-19T15:47:30.727000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ED",
+            "text": "ゲームお好きなんですね！インドア派って感じですか？",
+            "timestamp": "2022-08-19T15:47:46.229000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、基本的にあまり外に出なくて。エアコンの恩恵にあやかってます！",
+            "timestamp": "2022-08-19T15:48:08.115000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ED",
+            "text": "その方が、この時期は健康のためかもしれません。",
+            "timestamp": "2022-08-19T15:48:29.636000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CM",
+            "text": "熱中症もコロナも怖いですし、家が一番落ち着きます！",
+            "timestamp": "2022-08-19T15:48:48.152000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ED",
+            "text": "家、ほんと落ち着きますよね。私も、割と家にこもってます。",
+            "timestamp": "2022-08-19T15:49:15.326000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CM",
+            "text": "でも、本当はあちこち出かけたいんです。",
+            "timestamp": "2022-08-19T15:49:27.980000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ED",
+            "text": "そうなんですね！どこに行きたいとかってあるんですか？",
+            "timestamp": "2022-08-19T15:49:58.420000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CM",
+            "text": "東京に行って、関東の友人達と食事したいです！",
+            "timestamp": "2022-08-19T15:50:13.228000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ED",
+            "text": "いいですねー！東京って美味しいものやオシャレなレストランとかカフェがいっぱいありそうです！",
+            "timestamp": "2022-08-19T15:51:02.817000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、地方に住んでいるので東京が本当に憧れで！何でもそろうイメージです！",
+            "timestamp": "2022-08-19T15:51:22.864000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ED",
+            "text": "何でもありそうですよねー！日本の中心ってイメージがあります。",
+            "timestamp": "2022-08-19T15:52:04.202000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CM",
+            "text": "友人達が皆関東在住なので、早く会いに行きたいです、もう寂しい！",
+            "timestamp": "2022-08-19T15:52:32.499000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ED",
+            "text": "それは，会えないの寂しいですねー！早く普通に会える世の中に戻って欲しいですね。",
+            "timestamp": "2022-08-19T15:53:18.559000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CM",
+            "text": "本当にそう思います。後は好きなゲームのイベントも東京であるので、それが無事に開催されてほしいなと。",
+            "timestamp": "2022-08-19T15:53:50.169000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ED",
+            "text": "あー、そういうのもやっぱり東京なんですね。イベントが開催されれば行かれるんですか？",
+            "timestamp": "2022-08-19T15:54:20.548000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CM",
+            "text": "行きたいです！チケットが取れればなのですが。",
+            "timestamp": "2022-08-19T15:54:34.122000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ED",
+            "text": "チケットの競争率って、やっぱり高いんですか？",
+            "timestamp": "2022-08-19T15:54:54.290000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CM",
+            "text": "はい、ゲームそのものが人気なので、チケットが全然取れなくて。",
+            "timestamp": "2022-08-19T15:55:10.418000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ED",
+            "text": "なるほどー、ファンがたくさんいらっしゃるんですね！",
+            "timestamp": "2022-08-19T15:55:40.314000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CM",
+            "text": "私もファンのひとりとして、会場の皆さんと一緒に楽しみたいです！",
+            "timestamp": "2022-08-19T15:56:01.051000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ED",
+            "text": "もし行けたら、絶対楽しいでしょうねー！！",
+            "timestamp": "2022-08-19T15:56:18.287000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CM",
+            "text": "その前にコロナが落ち着いて、旅行しやすくなってくれると嬉しいです！",
+            "timestamp": "2022-08-19T15:56:41.423000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ED",
+            "text": "確かに！不安なく行けますもんね！",
+            "timestamp": "2022-08-19T15:57:01.434000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CM",
+            "text": "家族への配慮とかを考えると、一刻も早く前の日常が戻ってほしいです。",
+            "timestamp": "2022-08-19T15:57:28.938000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ED",
+            "text": "自分は良くても、周りに迷惑かけると思うと、色々我慢しちゃいますもんね。",
+            "timestamp": "2022-08-19T15:58:00.466000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CM",
+            "text": "そうなんです、気にせず行けるようになるといいなあ。",
+            "timestamp": "2022-08-19T15:58:16.759000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

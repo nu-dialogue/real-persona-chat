@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1006,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-11T16:56:08.238000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:56:35.893000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-11T16:56:45.658000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いしますー",
+            "timestamp": "2022-08-11T16:56:57.973000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "今日は何をして過ごしましたか？",
+            "timestamp": "2022-08-11T16:59:00.289000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "今日は猫と遊んでました！",
+            "timestamp": "2022-08-11T16:59:51.196000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "いいですね！",
+            "timestamp": "2022-08-11T17:00:05.111000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "ペット飼ってますか？",
+            "timestamp": "2022-08-11T17:01:12.016000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "うちも猫を飼い始めましたよ",
+            "timestamp": "2022-08-11T17:01:25.065000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "いいですね、何の種類ですか？",
+            "timestamp": "2022-08-11T17:03:28.635000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "ノルウェージャンフォレストキャットです！",
+            "timestamp": "2022-08-11T17:03:42.762000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "大きくなるやつですよね！",
+            "timestamp": "2022-08-11T17:03:55.967000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "そうです！",
+            "timestamp": "2022-08-11T17:04:39.068000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "かっこいいなぁ",
+            "timestamp": "2022-08-11T17:04:59.681000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "あなたが飼っている猫の種類はなんですか？",
+            "timestamp": "2022-08-11T17:06:33.266000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "うちは雑種なんですよー",
+            "timestamp": "2022-08-11T17:06:55.467000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "保護猫ちゃんですか？",
+            "timestamp": "2022-08-11T17:07:09.879000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "そうですね、母の知人から譲り受けました",
+            "timestamp": "2022-08-11T17:08:44.759000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "そうなんですね、今何歳くらいなんですか？",
+            "timestamp": "2022-08-11T17:09:45.375000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "もうおじいちゃんですよ。12歳くらいなので。",
+            "timestamp": "2022-08-11T17:10:49.890000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "けっこうおじいちゃんですね！飼ってるのは1匹だけですか？",
+            "timestamp": "2022-08-11T17:11:55.448000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "はい。あなたは？",
+            "timestamp": "2022-08-11T17:12:46.883000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "うちも一匹です",
+            "timestamp": "2022-08-11T17:13:02.254000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "飼い始めたということはまだ小さいんでしょうか",
+            "timestamp": "2022-08-11T17:14:00.076000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "まだ三か月なんですよ",
+            "timestamp": "2022-08-11T17:14:26.414000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "ちっちゃいですね！",
+            "timestamp": "2022-08-11T17:15:33.738000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "かまれたりひっかかれたり腕がぼろぼろです",
+            "timestamp": "2022-08-11T17:15:52.833000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "そういう時期ですもんね",
+            "timestamp": "2022-08-11T17:17:04.930000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はやくおおきくなってほしいです",
+            "timestamp": "2022-08-11T17:17:21.844000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "そうですね",
+            "timestamp": "2022-08-11T17:17:29.929000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

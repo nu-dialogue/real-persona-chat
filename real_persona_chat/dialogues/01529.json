@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 1529,
+    "interlocutors": [
+        "BP",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-15T20:41:29.586000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-15T20:41:33.029000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "どこかお気に入りのお出かけスポットはありますか？",
+            "timestamp": "2022-08-15T20:41:42.988000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "私は自然が好きなので，山とかキャンプとか行きますね．",
+            "timestamp": "2022-08-15T20:42:13.610000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "キャンプいいですね！私はグランピングは経験ありますが、キャンプはまだしたことなくて。",
+            "timestamp": "2022-08-15T20:42:29.512000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "グランピング最近人気ですよね！",
+            "timestamp": "2022-08-15T20:42:47.277000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "はい、気軽にできるしちょっとだけキャンプ気分を味わえます。",
+            "timestamp": "2022-08-15T20:43:06.932000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "キャンプは荷物が多いイメージですよね笑",
+            "timestamp": "2022-08-15T20:43:38.077000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "そうですね。なので家族で行くにはちょっと大変かなと。キャンプセット一式持ってますか？",
+            "timestamp": "2022-08-15T20:44:04.157000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "まだまだ素人なので，テントと椅子とコンロくらいしか持っていないです！",
+            "timestamp": "2022-08-15T20:44:57.460000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "そうなんですね。子どもの運動会では、コールマンのテントやキャリー持ってる人多いです。",
+            "timestamp": "2022-08-15T20:45:21.931000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "キャンプだけじゃなくてそういった場面でも活躍するんですね．",
+            "timestamp": "2022-08-15T20:45:41.980000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "ですね！なのでキャンプ用品では、コールマンが人気なのかなーと思ったりします。",
+            "timestamp": "2022-08-15T20:45:58.140000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "私もテントはコールマンですね．",
+            "timestamp": "2022-08-15T20:46:24.778000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "やはりコールマンがいいんですねー。いつか欲しいです。",
+            "timestamp": "2022-08-15T20:46:46.630000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "私は逆にグランピングは行ったことないんですが，本当に身軽に行けるんですか？",
+            "timestamp": "2022-08-15T20:47:20.081000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "色々ランクはあると思いますが、基本的に何もいらなくて、冷暖房もあったりします。",
+            "timestamp": "2022-08-15T20:47:42.408000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "じゃあ冬もある程度快適にすごせるかもなんですね．",
+            "timestamp": "2022-08-15T20:48:08.093000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "冬は行ったことないですが、冬でも快適に過ごせるみたいですよ。",
+            "timestamp": "2022-08-15T20:48:33.939000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "冬はのキャンプはなかなかしんどいので，グランピングが良さげです．",
+            "timestamp": "2022-08-15T20:48:59.470000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "冬もキャンプをすることありますか？",
+            "timestamp": "2022-08-15T20:49:13.780000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "冬は空気が澄んでいるので，星が綺麗に見えますよ．",
+            "timestamp": "2022-08-15T20:49:42.941000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "確かに。冬の方が、星空きれいに見えそうですねー。",
+            "timestamp": "2022-08-15T20:50:04.231000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "温かい飲み物と一緒なら最高です！",
+            "timestamp": "2022-08-15T20:50:21.490000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "なるほど。そういう楽しみ方もいいですね！",
+            "timestamp": "2022-08-15T20:50:31.184000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "虫とかは苦手じゃないですか？",
+            "timestamp": "2022-08-15T20:50:47.222000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "私は虫、大丈夫です。でも子どもが苦手なんです。",
+            "timestamp": "2022-08-15T20:50:59.593000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね笑．お子さんの方がなんとなく得意そうですけど．",
+            "timestamp": "2022-08-15T20:51:36.081000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "人それぞれですねー。私の兄弟でも、苦手な子はずっと苦手です。",
+            "timestamp": "2022-08-15T20:52:05.193000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "苦手だとキャンプは辛いかもしれませんね．",
+            "timestamp": "2022-08-15T20:52:21.952000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BP",
+            "text": "はい、ちょっと厳しいかもですね。貴重な情報、ありがとうございました！",
+            "timestamp": "2022-08-15T20:52:42.185000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

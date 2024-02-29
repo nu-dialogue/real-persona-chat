@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4853,
+    "interlocutors": [
+        "FK",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-15T19:36:00.015000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "こんにちわー。",
+            "timestamp": "2022-09-15T19:36:09.272000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "最近の趣味はなんですか？",
+            "timestamp": "2022-09-15T19:36:13.933000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "映画の解説をしているYoutubeを見るのが好きです。",
+            "timestamp": "2022-09-15T19:36:08.283000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "おお、ファスト映画的なやつですか",
+            "timestamp": "2022-09-15T19:36:11.080000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "いえ、映画好きな方がホワイトボードに自分なりの考察を書いて説明するようなやつです。",
+            "timestamp": "2022-09-15T19:36:50.983000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "おお、解説系ですか。",
+            "timestamp": "2022-09-15T19:37:03.855000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "なるほどーと思うことが多くて、見直したりします。最近はアマプラとかで簡単に見れますから。",
+            "timestamp": "2022-09-15T19:37:39.328000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "最近どんな映画よかったです？",
+            "timestamp": "2022-09-15T19:37:48.245000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "少し前の映画ですが、竜とそばかすの姫がよかったです。",
+            "timestamp": "2022-09-15T19:38:18.400000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "あの絵が独特なやつですかね！",
+            "timestamp": "2022-09-15T19:38:29.448000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "ネットの世界の表現が独特ですよね。パソコンの中身のような、童話のような。",
+            "timestamp": "2022-09-15T19:39:22.188000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "あ、そんな感じなんですか！！",
+            "timestamp": "2022-09-15T19:39:33.265000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "はい。監督さんが美女と野獣を意識して作っているそうで、童話っぽい雰囲気あります。",
+            "timestamp": "2022-09-15T19:39:59.525000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "それいいですね、感動的そうです",
+            "timestamp": "2022-09-15T19:40:10.688000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "歌もステキです。配信で見たのですが、映画館で見ればよかった！と後悔しました。",
+            "timestamp": "2022-09-15T19:40:31.228000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "そういう作品ありますよね、映画館の方がいい感じの",
+            "timestamp": "2022-09-15T19:40:39.933000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "配信だと他のことに気を取られたりするので、映画館は集中できて良いです。",
+            "timestamp": "2022-09-15T19:41:13.544000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "わかります、最近映画見ても集中できないです",
+            "timestamp": "2022-09-15T19:41:31.844000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "私も家で見ていると途中で止めることができるので、最後まで見れなかったりします。",
+            "timestamp": "2022-09-15T19:42:07.055000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "ですよね、サブスクの弊害だと思ってます、、",
+            "timestamp": "2022-09-15T19:42:19.531000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "たくさんありすぎて、いつでも見れるからと結局見なかったりしますしね。",
+            "timestamp": "2022-09-15T19:42:51.176000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "そうなんです、飽きてるかんじします",
+            "timestamp": "2022-09-15T19:43:00.594000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "映画館だと止められないし、見る以外ないので気になる作品は行っちゃいます。",
+            "timestamp": "2022-09-15T19:43:40.750000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "大好きな作品はその方がいいですね",
+            "timestamp": "2022-09-15T19:43:49.148000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "そういえば、先日ルパン三世のカリオストロの城を映画館で見ました。",
+            "timestamp": "2022-09-15T19:44:11.339000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "お、ミートボール食べたくなる作品ですね！",
+            "timestamp": "2022-09-15T19:44:20.126000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "映画の後、ミートボール食べました。",
+            "timestamp": "2022-09-15T19:44:39.488000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "わらいました、！",
+            "timestamp": "2022-09-15T19:44:45.870000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "ふふふ、とってもおいしかったです。",
+            "timestamp": "2022-09-15T19:45:05.681000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

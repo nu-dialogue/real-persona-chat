@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6443,
+    "interlocutors": [
+        "HQ",
+        "GR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "こんにちは",
+            "timestamp": "2022-10-10T15:10:08.218000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GR",
+            "text": "こんにちは",
+            "timestamp": "2022-10-10T15:10:13.743000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "三連休は何をしていましたか？",
+            "timestamp": "2022-10-10T15:10:31.240000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GR",
+            "text": "飲みに行ったくらいで、ほかは何もしなかったです",
+            "timestamp": "2022-10-10T15:10:53.867000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "雨降ってましたもんね",
+            "timestamp": "2022-10-10T15:11:01.636000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GR",
+            "text": "そうですね。<HQ>さんは何をしてましたか？",
+            "timestamp": "2022-10-10T15:11:17.870000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "私もずっと家にいました。友人は熱海に行ったみたいです",
+            "timestamp": "2022-10-10T15:11:50.445000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GR",
+            "text": "いいですね。温泉旅行ですか？",
+            "timestamp": "2022-10-10T15:12:09.900000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "温泉旅行だそうです。かなり混んでたらしいですよ",
+            "timestamp": "2022-10-10T15:12:31.602000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GR",
+            "text": "三連休ですしね",
+            "timestamp": "2022-10-10T15:12:41.854000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "やっぱなんでもない平日とかに行ったほうがいいんでしょうね",
+            "timestamp": "2022-10-10T15:13:05.626000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GR",
+            "text": "仕事が平日休みだったらいいんですけどね",
+            "timestamp": "2022-10-10T15:13:17.109000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "そうですね。土日休みなら有給とるしかないですね。",
+            "timestamp": "2022-10-10T15:13:46.898000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GR",
+            "text": "ですよね。でも温泉行きたいなぁ。",
+            "timestamp": "2022-10-10T15:14:14.525000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "街中にスパとかありますけど、そういうのじゃだめなんですか？",
+            "timestamp": "2022-10-10T15:14:40.609000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GR",
+            "text": "ちょっと高いんですよね",
+            "timestamp": "2022-10-10T15:14:50.183000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "まぁそうですね、高いかも。",
+            "timestamp": "2022-10-10T15:15:03.392000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GR",
+            "text": "あと都内だと結局混んでてくつろげないです",
+            "timestamp": "2022-10-10T15:15:31.521000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "都内だと確かにそうですよね。ちょっと外れたところにあるスーパー銭湯とかならすいてるのかも",
+            "timestamp": "2022-10-10T15:16:25.261000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GR",
+            "text": "年配の方が多そうですね",
+            "timestamp": "2022-10-10T15:16:50.565000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "それはあるかもしれないですね",
+            "timestamp": "2022-10-10T15:17:00.376000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GR",
+            "text": "近所に一応スーパー銭湯あるんですけど、金額がとんでもなく高いです",
+            "timestamp": "2022-10-10T15:17:36.964000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "いくらですか？",
+            "timestamp": "2022-10-10T15:17:43.863000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GR",
+            "text": "三千円くらいですね",
+            "timestamp": "2022-10-10T15:18:28.378000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "あー、ちょっと高いかも",
+            "timestamp": "2022-10-10T15:18:40.920000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GR",
+            "text": "チェーンじゃない銭湯もあるんですけど、そこは500円くらいでした",
+            "timestamp": "2022-10-10T15:19:08.364000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "安いですね！行ったことあるんですか？",
+            "timestamp": "2022-10-10T15:19:20.558000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GR",
+            "text": "まだないんですけど、行ってみようかなとは思ってます",
+            "timestamp": "2022-10-10T15:19:33.967000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "500円のほうが綺麗だったらそっちでいいですよね",
+            "timestamp": "2022-10-10T15:19:55.659000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GR",
+            "text": "そうですね",
+            "timestamp": "2022-10-10T15:20:02.369000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

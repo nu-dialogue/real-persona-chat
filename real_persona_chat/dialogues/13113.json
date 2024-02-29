@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13113,
+    "interlocutors": [
+        "EV",
+        "FS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-17T14:22:05.241000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FS",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-17T14:22:13.656000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "趣味などあれば教えていただきたいです",
+            "timestamp": "2022-09-17T14:22:19.273000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FS",
+            "text": "趣味と呼べるものはないんですが、猫と過ごす時間が好きです。",
+            "timestamp": "2022-09-17T14:23:00.846000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "ネコですか、いいですね。",
+            "timestamp": "2022-09-17T14:23:09.799000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FS",
+            "text": "動物は好きですか？",
+            "timestamp": "2022-09-17T14:23:21.845000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "どちらかと言えば好きですね。詳しくはないですが",
+            "timestamp": "2022-09-17T14:23:41.038000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね。何か飼っていたことはありますか？",
+            "timestamp": "2022-09-17T14:24:11.513000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "ないです。家族は動物嫌いなので",
+            "timestamp": "2022-09-17T14:24:24.671000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FS",
+            "text": "苦手な方も多いですよね。動物園もあまり行かないですか？",
+            "timestamp": "2022-09-17T14:24:59.460000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "回数は少ないかもしれません",
+            "timestamp": "2022-09-17T14:25:12.793000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FS",
+            "text": "どんなところへ行くのが好きですか？",
+            "timestamp": "2022-09-17T14:25:42.642000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "ゲームセンターですかね。遊びたいです",
+            "timestamp": "2022-09-17T14:26:10.650000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FS",
+            "text": "どんなゲームをされるんですか？",
+            "timestamp": "2022-09-17T14:26:24.614000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "レーシングゲームとかですかね。",
+            "timestamp": "2022-09-17T14:26:43.259000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FS",
+            "text": "マリオカートとかですか？",
+            "timestamp": "2022-09-17T14:27:06.703000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "はい、そんな感じです。",
+            "timestamp": "2022-09-17T14:27:15.481000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FS",
+            "text": "何度かやりましたが楽しいですよね！ただなかなか上手くはできません。",
+            "timestamp": "2022-09-17T14:27:55.483000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "ハンドルが固めで操作はしにくいですよね。わかります",
+            "timestamp": "2022-09-17T14:28:16.203000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FS",
+            "text": "ふだん運転はされるんですか？",
+            "timestamp": "2022-09-17T14:28:34.616000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "車はあまり運転しないです。基本電車で",
+            "timestamp": "2022-09-17T14:28:52.091000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FS",
+            "text": "都会のほうだとあまり必要ないですもんね。",
+            "timestamp": "2022-09-17T14:29:22.040000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "はい、駐車スペースも無くて",
+            "timestamp": "2022-09-17T14:29:36.027000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FS",
+            "text": "駐車場も都会へ行くほど高いですよね。どこかへ出かける時だけするんですか？",
+            "timestamp": "2022-09-17T14:30:34.238000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "出かけるときはレンタカーですね。",
+            "timestamp": "2022-09-17T14:30:53.356000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FS",
+            "text": "わたしもたまにニコニコレンタカーを使います。",
+            "timestamp": "2022-09-17T14:31:29.271000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "安くていいですよね。",
+            "timestamp": "2022-09-17T14:31:37.723000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FS",
+            "text": "はい！小さい車が良いので困ることもなくて。",
+            "timestamp": "2022-09-17T14:32:07.679000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "運転しやすいほうがいいですよね。大人数でない限りは",
+            "timestamp": "2022-09-17T14:32:24.530000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FS",
+            "text": "そうですね。狭い道が苦手なので。",
+            "timestamp": "2022-09-17T14:32:49.174000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

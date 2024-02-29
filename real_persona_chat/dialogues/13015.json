@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13015,
+    "interlocutors": [
+        "FR",
+        "IS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T14:41:12.139000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T14:41:17.933000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "あなたは好きな食べ物ありますか？",
+            "timestamp": "2022-09-15T14:41:24.332000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IS",
+            "text": "そうですね、カレーが好きです。",
+            "timestamp": "2022-09-15T14:41:38.409000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "普通のカレーですか？",
+            "timestamp": "2022-09-15T14:41:51.527000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IS",
+            "text": "いろんな種類があるところが好きです。欧風、インド風、家庭風、北海道などなど…。",
+            "timestamp": "2022-09-15T14:42:31.031000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "確かに種類が豊富ですね。自分でいろいろ作られたり？",
+            "timestamp": "2022-09-15T14:42:51.524000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IS",
+            "text": "自分でも作るし、外でいろんな国のいろんなお店食べ歩くのが好きです。",
+            "timestamp": "2022-09-15T14:43:25.242000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。おすすめのものありますか？",
+            "timestamp": "2022-09-15T14:43:52.035000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IS",
+            "text": "南インドカレーって分かりますか？ナンじゃなくてご飯で食べるんです。",
+            "timestamp": "2022-09-15T14:44:42.729000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "初めて聞きました。日本のカレーみたいな感じですか？",
+            "timestamp": "2022-09-15T14:45:05.505000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IS",
+            "text": "シャバシャバでもっとスパイスが効いてますね。すごく辛いものが多いです。",
+            "timestamp": "2022-09-15T14:45:45.460000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "辛いのいけるんですか？",
+            "timestamp": "2022-09-15T14:46:02.049000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IS",
+            "text": "好きです！中の上くらいまでなら…。",
+            "timestamp": "2022-09-15T14:46:11.644000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "いいですね。本格的なのはとてもからそうで。",
+            "timestamp": "2022-09-15T14:46:32.268000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IS",
+            "text": "辛さの中に旨味があっていいんですよ。2,3種類のカレーあいがけにできるとこがいいです、インドカレー。",
+            "timestamp": "2022-09-15T14:47:16.078000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "そんなたくさんの種類をいろいろ試せるんですね。",
+            "timestamp": "2022-09-15T14:47:35.434000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IS",
+            "text": "そうなんです、定番は豆、チキン、野菜ですね。",
+            "timestamp": "2022-09-15T14:47:53.460000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "ほうほう。そういう店は本場の人がやられてたり？",
+            "timestamp": "2022-09-15T14:48:28.557000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IS",
+            "text": "本場のお店もいいですが、カレー好きの日本人がやってるお店いいですよ。",
+            "timestamp": "2022-09-15T14:48:50.608000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。行ったことないので行ってみたいです！",
+            "timestamp": "2022-09-15T14:49:05.869000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IS",
+            "text": "新宿の草枕ってお店がまさにそう言う感じです。かなりマニアックなお店ですが。",
+            "timestamp": "2022-09-15T14:49:40.963000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "メモしときます。行きつけの店ですか？",
+            "timestamp": "2022-09-15T14:49:54.885000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IS",
+            "text": "実はそんなに回数は行ってないのですが、ほんとにカレーが好きなんだな！て感じました。",
+            "timestamp": "2022-09-15T14:50:28.240000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "みたら評価とても高いですね。人気店そうです。",
+            "timestamp": "2022-09-15T14:50:43.037000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IS",
+            "text": "あまりお店っぽくない入り口なので迷わないように気をつけてください。",
+            "timestamp": "2022-09-15T14:51:03.267000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。旅行に行ったときに行ってみます。",
+            "timestamp": "2022-09-15T14:51:25.288000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IS",
+            "text": "はい、ぜひぜひ！新宿お買い物もしやすいですしね。",
+            "timestamp": "2022-09-15T14:51:56.996000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "そうですね。よくドラマとかで見るイメージです。",
+            "timestamp": "2022-09-15T14:52:24.712000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IS",
+            "text": "旅行で来られたらぜひ。",
+            "timestamp": "2022-09-15T14:52:49.732000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IS",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

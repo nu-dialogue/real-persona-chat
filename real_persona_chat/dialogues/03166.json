@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3166,
+    "interlocutors": [
+        "EV",
+        "EM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-26T13:17:28.306000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EM",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-26T13:17:34.499000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そちらのお天気はどうですか？",
+            "timestamp": "2022-08-26T13:17:40.590000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EM",
+            "text": "今日は曇っていますね。そちらはどうですか？",
+            "timestamp": "2022-08-26T13:17:48.372000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "こちらは晴れていますが、嫌な雲がありますね",
+            "timestamp": "2022-08-26T13:18:08.953000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EM",
+            "text": "どちらにお住まいですか？",
+            "timestamp": "2022-08-26T13:18:18.813000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "僕は都内です",
+            "timestamp": "2022-08-26T13:18:26.830000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EM",
+            "text": "同じですね。区内ですか？市内ですか？",
+            "timestamp": "2022-08-26T13:18:39.571000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "区内です",
+            "timestamp": "2022-08-26T13:18:47.230000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EM",
+            "text": "いいですね。こちらは市内も市内。山の方ですね。",
+            "timestamp": "2022-08-26T13:19:01.498000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "なるほど、ただ都心よりはそちらのほうがのびのびできていい気がします",
+            "timestamp": "2022-08-26T13:19:27.335000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EM",
+            "text": "個人的には趣味にアウトドアがあるのでこのあたりが好きですね。",
+            "timestamp": "2022-08-26T13:19:40.579000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか、確かに自然が豊かな方がいいですね",
+            "timestamp": "2022-08-26T13:20:00.178000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EM",
+            "text": "都心にあたるようなところに住んだこともあるのですが、そのうえでそう感じています。",
+            "timestamp": "2022-08-26T13:20:25.954000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "都心の息苦しい感じがどうも好きになれないです",
+            "timestamp": "2022-08-26T13:20:48.596000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EM",
+            "text": "人混みって好きになれませんね。",
+            "timestamp": "2022-08-26T13:21:01.458000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "はい、みんな急いでいる感じが",
+            "timestamp": "2022-08-26T13:21:14.935000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EM",
+            "text": "ご出身はどちらですか？",
+            "timestamp": "2022-08-26T13:21:25.610000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "僕は九州です",
+            "timestamp": "2022-08-26T13:21:33.327000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EM",
+            "text": "いいですね。旅行したことがあります。",
+            "timestamp": "2022-08-26T13:21:43.949000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。遠いけど人気ですね",
+            "timestamp": "2022-08-26T13:22:04.215000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EM",
+            "text": "食べ物がうまいですね。日本は上でも下でも極端な方が何食べても美味しくなりますね。",
+            "timestamp": "2022-08-26T13:22:25.854000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "はい、食事は本当においしいと思います",
+            "timestamp": "2022-08-26T13:22:42.323000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EM",
+            "text": "お金を積むと東京は美味しいですが、何でもおいしいのはそちらですね。",
+            "timestamp": "2022-08-26T13:23:01.378000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "そうですね。庶民的な料理もおいしいです",
+            "timestamp": "2022-08-26T13:23:18.883000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EM",
+            "text": "何かお勧めはありますか？",
+            "timestamp": "2022-08-26T13:23:26.275000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "とにかく肉料理ですかね。",
+            "timestamp": "2022-08-26T13:23:41.295000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EM",
+            "text": "肉料理がまずいことはないですからね！",
+            "timestamp": "2022-08-26T13:23:54.455000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "はい、外れることは無いと思いますよ",
+            "timestamp": "2022-08-26T13:24:05.325000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EM",
+            "text": "また行きたくなってきました。",
+            "timestamp": "2022-08-26T13:24:14.797000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2102,
+    "interlocutors": [
+        "AU",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T14:11:02.733000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-19T14:11:12.930000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AU",
+            "text": "あなたにとってのおふくろの味は、どんな料理ですか？",
+            "timestamp": "2022-08-19T14:11:31.030000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "うーーん、唐揚げですかねえ",
+            "timestamp": "2022-08-19T14:11:42.981000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AU",
+            "text": "唐揚げはどんな味付けですか？",
+            "timestamp": "2022-08-19T14:12:16.701000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "母のは、オーソドックスな醤油と酒なんですけど、衣が白くてカリッとしていました",
+            "timestamp": "2022-08-19T14:13:00.715000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AU",
+            "text": "カリカリな唐揚げ、それは、美味しそうです！　私は炊き込みご飯です。",
+            "timestamp": "2022-08-19T14:13:53.604000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "炊き込みご飯！いいですね。具材はなんですか？",
+            "timestamp": "2022-08-19T14:14:14.351000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AU",
+            "text": "具材は、ほんとシンプルにしいたけ、人参、鶏肉などですがみりんの甘みが感じられる素朴な味でした。",
+            "timestamp": "2022-08-19T14:15:04.098000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "想像しただけで美味しそうです。料理上手なお母様だったんですね",
+            "timestamp": "2022-08-19T14:15:25.056000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AU",
+            "text": "そうですね、母は和食が得意だったように思います。　煮物も美味しかった記憶があります。",
+            "timestamp": "2022-08-19T14:16:23.837000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "和食が得意なのは本当に料理上手な方だったんですね。私の母も料理の先生をやっていました。",
+            "timestamp": "2022-08-19T14:16:47.577000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AU",
+            "text": "それは、すごい！　では、いつも美味しいご飯を食べられていたんでしょうね！",
+            "timestamp": "2022-08-19T14:17:13.708000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "ご飯も美味しかったですが、休日に焼いてくれたパンなどが美味しかったです！",
+            "timestamp": "2022-08-19T14:17:44.008000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AU",
+            "text": "焼きたてのパンが食べられるなんて羨ましいですねー！　どんなパンを作られていたのですか？",
+            "timestamp": "2022-08-19T14:18:22.267000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "レーズンパンとか、クロワッサンとか、色々でしたねえ。ご自身はお料理得意ですか？",
+            "timestamp": "2022-08-19T14:18:52.844000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AU",
+            "text": "どれも美味しそうです！　さすがお料理の先生ですね。　毎回のお食事が楽しみだったでしょうね。",
+            "timestamp": "2022-08-19T14:19:25.926000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "そうですね！創作系も多かったので、あれくらい作れるようになりたいなという憧れでした。",
+            "timestamp": "2022-08-19T14:19:58.816000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AU",
+            "text": "一緒にお料理を作ったリもされてたんですか？",
+            "timestamp": "2022-08-19T14:20:21.875000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "いやーそれはほとんどしてなかったですね。今思えば教えて貰えばよかったと思ってます",
+            "timestamp": "2022-08-19T14:20:48.074000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AU",
+            "text": "あら、それは勿体ない。　でも学生の時って一緒に料理しようって私も考えた事なかったです。",
+            "timestamp": "2022-08-19T14:21:28.925000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "なんか任せっきりになってしまいますよね",
+            "timestamp": "2022-08-19T14:21:49.484000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AU",
+            "text": "そうです。　食べる専門でした。　今さらながら、もっと一緒に作ったりすれば良かったなって思います。",
+            "timestamp": "2022-08-19T14:22:23.468000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "今はご自身は料理お上手ですか？",
+            "timestamp": "2022-08-19T14:22:41.299000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AU",
+            "text": "料理上手ではないですねー。　あなたはお料理してますか？",
+            "timestamp": "2022-08-19T14:23:23.836000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "上手とは言えないけど、毎日するようにしてます！",
+            "timestamp": "2022-08-19T14:23:41.162000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AU",
+            "text": "得意料理は何ですか？",
+            "timestamp": "2022-08-19T14:23:54.576000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "カルボナーラですかね",
+            "timestamp": "2022-08-19T14:24:07.240000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AU",
+            "text": "おしゃれですねー。カルボナーラって手早くつくらないといけなくて、難しそうです。",
+            "timestamp": "2022-08-19T14:24:49.905000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "慣れてしまえば簡単ですよ！それではこの辺で失礼します",
+            "timestamp": "2022-08-19T14:25:11.544000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

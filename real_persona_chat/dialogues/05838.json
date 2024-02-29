@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5838,
+    "interlocutors": [
+        "AD",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T19:45:10.145000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんばんは",
+            "timestamp": "2022-10-06T19:45:19.691000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "あなたは海外旅行に行ったことありますか？",
+            "timestamp": "2022-10-06T19:45:25.171000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "あります。新婚旅行にハワイにいきました",
+            "timestamp": "2022-10-06T19:45:46.049000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "ハワイいいですね！楽しかったですか？",
+            "timestamp": "2022-10-06T19:45:52.027000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "楽しかったです。海外はそれだけですね",
+            "timestamp": "2022-10-06T19:46:03.756000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "ハワイはご飯がいまいちというのは聞いたことありますが、実際どうでしたか？",
+            "timestamp": "2022-10-06T19:46:20.246000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "イマイチでした。日本食レストランがあったので、天ぷらを食べました",
+            "timestamp": "2022-10-06T19:46:42.157000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "天ぷらいいですね。",
+            "timestamp": "2022-10-06T19:46:51.916000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "デニーズもありましたよ。メニューはだいぶ違いましたが",
+            "timestamp": "2022-10-06T19:47:17.784000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "デニーズって日本のファミレスですよね？海外発祥とかではなく。",
+            "timestamp": "2022-10-06T19:47:31.299000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "日本のファミレスです。発祥は日本なんですかね？",
+            "timestamp": "2022-10-06T19:47:53.442000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "もし発祥が日本だったら海外進出すごいなあと思っただけです。",
+            "timestamp": "2022-10-06T19:48:11.149000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "なるほど。ごはんはやはり日本食が一番だと思います",
+            "timestamp": "2022-10-06T19:48:28.422000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "ハワイの日本食はどうでしたか？",
+            "timestamp": "2022-10-06T19:48:35.277000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "大分昔のことなので覚えてません・・・",
+            "timestamp": "2022-10-06T19:48:55.134000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "海外に気軽に行けるようになったら、また行きたいと思いますか？",
+            "timestamp": "2022-10-06T19:49:10.703000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "そうですね。ハワイもいいですが、近いところで韓国とかいってみたいものです",
+            "timestamp": "2022-10-06T19:49:34.250000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "韓国いいですね。私も韓国化粧品使うので行ってみたいと思ってます。",
+            "timestamp": "2022-10-06T19:49:45.236000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "韓国料理も本場のものが食べてみたいです。",
+            "timestamp": "2022-10-06T19:50:06.394000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "韓国料理は辛い物が多いイメージですが、辛いものは平気なのですか？",
+            "timestamp": "2022-10-06T19:50:20.167000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "苦手です。でも辛いもの以外にもあるので。",
+            "timestamp": "2022-10-06T19:50:36.184000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "韓国料理だと何が好きですか？",
+            "timestamp": "2022-10-06T19:50:46.808000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "プデチゲとキンパです",
+            "timestamp": "2022-10-06T19:51:00.062000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "キンパは私も好きです。日本の海苔巻きと違って具が多くて美味しいですよね",
+            "timestamp": "2022-10-06T19:51:18.846000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "食べたことありますか？おいしいですよね",
+            "timestamp": "2022-10-06T19:51:34.474000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "前に新大久保でキンパを初めて食べた時感動しました。",
+            "timestamp": "2022-10-06T19:51:47.437000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "日本の海苔巻きと違って薄くきってありますよね",
+            "timestamp": "2022-10-06T19:52:04.587000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "食べやすくてありがたいですね。",
+            "timestamp": "2022-10-06T19:52:11.155000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "具だくさんでおいしいですね",
+            "timestamp": "2022-10-06T19:52:23.108000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

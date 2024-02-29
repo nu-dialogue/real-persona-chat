@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1300,
+    "interlocutors": [
+        "DB",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-13T16:53:28.788000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-13T16:53:32.126000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "夏って着る服選ぶの大変ですよね。",
+            "timestamp": "2022-08-13T16:53:48.521000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "分かります。毎日同じコーデになってる気がします。",
+            "timestamp": "2022-08-13T16:54:06.368000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "私灰色が好きなんですけど、汗かくから夏はあまり着れないんですよ。",
+            "timestamp": "2022-08-13T16:54:42.389000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "私も灰色は避けるようにしてます。タンクトップとかにしてみてはどうですか？",
+            "timestamp": "2022-08-13T16:55:22.592000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "タンクトップにカーディガンのスタイルが多いです。",
+            "timestamp": "2022-08-13T16:55:47.297000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "タンクトップだと脇汗が見えないので、まだそんなに恥ずかしくないかなと思って。",
+            "timestamp": "2022-08-13T16:56:26.900000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "確かに！二の腕出すのが得意じゃないので薄手のシャツか上着重ねちゃいます。",
+            "timestamp": "2022-08-13T16:57:18.333000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "どのシーズンが一番洋服は好きですか？",
+            "timestamp": "2022-08-13T16:58:10.845000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "秋冬です！沖縄は夏の期間が長いのであまり楽しめないですが。",
+            "timestamp": "2022-08-13T16:58:37.519000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "あ、そっか！沖縄の冬って何度ぐらいなんですか？",
+            "timestamp": "2022-08-13T16:59:09.642000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "どんなに寒くても10度下回ることは滅多にないですね。正直コート着る機会はないです。",
+            "timestamp": "2022-08-13T16:59:37.787000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "いいですね。こちらは冬はコート必須なので、正直洋服は見られる機会少ないんですよ。",
+            "timestamp": "2022-08-13T17:00:43.036000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "ニットとか好きなのでちょっと暑くても無理して着ちゃいます。",
+            "timestamp": "2022-08-13T17:01:38.522000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "なんかもう冬服が恋しくなってきました。",
+            "timestamp": "2022-08-13T17:02:16.623000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "沖縄だと秋服すら着れるようになるのが10月末くらいなのでまだまだです。",
+            "timestamp": "2022-08-13T17:02:52.555000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "あ、でもそんなに変わらないと思いますよ！",
+            "timestamp": "2022-08-13T17:03:35.339000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "そうなんですか！秋冬は新しく服もたくさん買うのでそれも楽しみです。",
+            "timestamp": "2022-08-13T17:04:13.059000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "なんか最近、沖縄にパルコができたと聞きました。",
+            "timestamp": "2022-08-13T17:04:36.521000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "一昨年あたりですかね。海岸沿いでフードコートから海が見えますよ！",
+            "timestamp": "2022-08-13T17:05:16.313000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "結構前なんですね。それは沖縄ならではの特権ですね。",
+            "timestamp": "2022-08-13T17:06:04.623000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "そのパルコに初めてZARAが沖縄出店したので話題になりましたね。",
+            "timestamp": "2022-08-13T17:06:45.925000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "ZARAでよく買い物しますよ！でも私の家の近くに無いんですよね。",
+            "timestamp": "2022-08-13T17:07:37.614000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "行ってみたいお店だったので出店されたときはうれしかったです！沖縄には無いブランドかなり多いので。",
+            "timestamp": "2022-08-13T17:08:37.456000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "そうですよね。そしたら洋服はネットショッピングとかされるんですか？",
+            "timestamp": "2022-08-13T17:09:26.564000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "ネットショッピング多いです。でも試着できないのでやっぱり店舗行きたいです。",
+            "timestamp": "2022-08-13T17:10:18.095000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "そうですよね。私もネットショッピングしましたが、サイズ感が合わなかったり失敗が多いです。",
+            "timestamp": "2022-08-13T17:10:51.374000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "靴も通販多いんですが、サイズぴったりだとすごく勝った気分になって嬉しいです。",
+            "timestamp": "2022-08-13T17:11:29.286000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "靴は奇跡です！",
+            "timestamp": "2022-08-13T17:11:49.260000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

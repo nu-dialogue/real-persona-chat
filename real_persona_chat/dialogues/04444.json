@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4444,
+    "interlocutors": [
+        "FU",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-09-26T21:45:20.338000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんばんは",
+            "timestamp": "2022-09-26T21:45:26"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "魔法が使えたら何をしますか？",
+            "timestamp": "2022-09-26T21:45:38.810000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "とりあえずお金は作りますね",
+            "timestamp": "2022-09-26T21:46:41.653000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "何か欲しいものあるんですか？",
+            "timestamp": "2022-09-26T21:46:53.119000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "いくらあっても困らないと思うので、真っ先にお金作ります",
+            "timestamp": "2022-09-26T21:47:12.770000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "そのあとどうします？",
+            "timestamp": "2022-09-26T21:47:23.306000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "家たてて、自分の頭と見た目をよくしますね",
+            "timestamp": "2022-09-26T21:47:46.652000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "なるほど。そのあとは？",
+            "timestamp": "2022-09-26T21:48:09.362000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "そのあとかぁ、なんか満足しちゃいそうです",
+            "timestamp": "2022-09-26T21:48:30.010000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "お金さえあれば好きに生きれますもんね",
+            "timestamp": "2022-09-26T21:48:50.002000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "働かなくてもいいですしね",
+            "timestamp": "2022-09-26T21:49:00.242000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "権力とかには興味ないんですか？",
+            "timestamp": "2022-09-26T21:49:11.794000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "ぜんぜんないですね。",
+            "timestamp": "2022-09-26T21:49:20.832000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "じゃあもう平和に生きていきたい感じですかね",
+            "timestamp": "2022-09-26T21:49:35.858000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "そうですね、恨まれたくないし。",
+            "timestamp": "2022-09-26T21:49:56.310000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "たしかに",
+            "timestamp": "2022-09-26T21:50:03.751000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "<FU>さんは魔法が使えたら何しますか？",
+            "timestamp": "2022-09-26T21:50:31.762000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "人類を全員いい人にします",
+            "timestamp": "2022-09-26T21:50:43.063000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "あー、善人しかいない世界ですか",
+            "timestamp": "2022-09-26T21:51:07.910000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "あとは動物と話せるようになりたいです",
+            "timestamp": "2022-09-26T21:51:23.200000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "自分より全然夢がありますね",
+            "timestamp": "2022-09-26T21:51:36.448000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "現実的な話も大事だと思いますよ",
+            "timestamp": "2022-09-26T21:51:52.142000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "動物は何の動物と話したいですか？",
+            "timestamp": "2022-09-26T21:52:09.546000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "ペットと話したいです",
+            "timestamp": "2022-09-26T21:52:18.790000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "なんの話がしたいですか？",
+            "timestamp": "2022-09-26T21:52:28.459000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "おなかすいたとか、どこか痛いとか、そういうのがわかるようになりたいです",
+            "timestamp": "2022-09-26T21:53:35.521000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "喧嘩になりそうじゃないですか？",
+            "timestamp": "2022-09-26T21:53:52.946000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "まぁたしかにそれもありそうですね",
+            "timestamp": "2022-09-26T21:54:08.479000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "うんうん",
+            "timestamp": "2022-09-26T21:54:14.441000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

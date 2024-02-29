@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4248,
+    "interlocutors": [
+        "DA",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DA",
+            "text": "こんばんは",
+            "timestamp": "2022-09-09T19:26:20.005000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-09T19:26:37.518000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DA",
+            "text": "休みの日は何をして過ごしていますか？",
+            "timestamp": "2022-09-09T19:26:39.891000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "友達と遊んでますね！",
+            "timestamp": "2022-09-09T19:27:00.629000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DA",
+            "text": "お出かけですか？",
+            "timestamp": "2022-09-09T19:26:57.946000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "そうですね！",
+            "timestamp": "2022-09-09T19:27:19.943000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DA",
+            "text": "最近だと何しました？",
+            "timestamp": "2022-09-09T19:27:24.387000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "日帰り旅行行きまくりました",
+            "timestamp": "2022-09-09T19:28:00.569000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DA",
+            "text": "日帰り！体力すごいですね",
+            "timestamp": "2022-09-09T19:28:06.859000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "そうですね！結構歩いて疲れましたね",
+            "timestamp": "2022-09-09T19:28:31.811000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DA",
+            "text": "歩くんですか？",
+            "timestamp": "2022-09-09T19:28:27.630000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "かなり歩きましたよー",
+            "timestamp": "2022-09-09T19:28:50.734000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DA",
+            "text": "ドライブとかではないのですね",
+            "timestamp": "2022-09-09T19:28:47.599000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "ドライブではちょっと生きづらい場所でしたので",
+            "timestamp": "2022-09-09T19:29:29.470000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DA",
+            "text": "どんなところなんでしょう？",
+            "timestamp": "2022-09-09T19:29:26.457000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "川越とかですね",
+            "timestamp": "2022-09-09T19:29:53.580000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DA",
+            "text": "電車ですねそれは確かに",
+            "timestamp": "2022-09-09T19:29:43.822000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "そうですね電車で行って向こうでは歩きまくる感じですね",
+            "timestamp": "2022-09-09T19:30:15.221000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DA",
+            "text": "川越は歩きますよね",
+            "timestamp": "2022-09-09T19:30:16.906000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "行ったことあります？",
+            "timestamp": "2022-09-09T19:30:34.293000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DA",
+            "text": "あります！結構行きます",
+            "timestamp": "2022-09-09T19:30:43.603000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "近いんですか？",
+            "timestamp": "2022-09-09T19:31:02.014000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DA",
+            "text": "まあまあ近いです！",
+            "timestamp": "2022-09-09T19:31:09.572000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "僕も実は高校が川越にあったんですよーだから高校の文化祭とかにもいけました！",
+            "timestamp": "2022-09-09T19:31:48.207000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DA",
+            "text": "高校の文化祭ってもう開放しているんですね！",
+            "timestamp": "2022-09-09T19:31:54.949000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "僕のところは予約制でしたね",
+            "timestamp": "2022-09-09T19:32:31.042000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DA",
+            "text": "久しぶりの高校楽しかったですか？",
+            "timestamp": "2022-09-09T19:32:52.985000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "楽しかったですよ！",
+            "timestamp": "2022-09-09T19:33:16.345000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DA",
+            "text": "いいですねー、私のところは入れないのでうらやましいです",
+            "timestamp": "2022-09-09T19:33:18.531000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "確かに！珍しいかもですね",
+            "timestamp": "2022-09-09T19:33:49.837000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 1
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

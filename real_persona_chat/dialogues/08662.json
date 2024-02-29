@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8662,
+    "interlocutors": [
+        "CO",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます",
+            "timestamp": "2022-08-08T07:43:29.734000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "おはようございます",
+            "timestamp": "2022-08-08T07:43:35.636000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "嫌いな食べ物ありますか？",
+            "timestamp": "2022-08-08T07:43:45.345000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "嫌いってのとはちょっと違いますが、揚げ物全般避けるようになりました",
+            "timestamp": "2022-08-08T07:44:08.639000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "あまり食べませんか？体のため？",
+            "timestamp": "2022-08-08T07:44:27.993000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "この食べた量を燃焼するのに必要なトレーニング量はとか思うとねえ",
+            "timestamp": "2022-08-08T07:44:45.426000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "ストイックですね。素晴らしい",
+            "timestamp": "2022-08-08T07:44:57.773000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "いや、美味しいんですよね、ほんとに美味しい、見ると食べたくはなる。",
+            "timestamp": "2022-08-08T07:45:14.433000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "気持ちの中では食べたいと？",
+            "timestamp": "2022-08-08T07:45:27.628000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "そりゃもう、食べたいです",
+            "timestamp": "2022-08-08T07:45:41.690000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "最近唐揚げ作るんですがおいしいですよ",
+            "timestamp": "2022-08-08T07:46:00.824000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "鶏のから揚げはまだギリ許せる範囲かも",
+            "timestamp": "2022-08-08T07:46:18.877000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "なるほど。いつも何を食べてるんですか？",
+            "timestamp": "2022-08-08T07:46:48.129000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "鳥は原則焼きましょう。ギリ煮物まで。",
+            "timestamp": "2022-08-08T07:47:05.483000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "焼きですか？わたしは揚げ物全般が大好きで",
+            "timestamp": "2022-08-08T07:47:58.392000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "それをやめるとまでいかなくても、控えるだけでダイエットできそうな",
+            "timestamp": "2022-08-08T07:48:19.145000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "なるほどですね。ちなみに油とかはきにされますか？",
+            "timestamp": "2022-08-08T07:48:40.735000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "はい、結構気にします。なるべく避けるように",
+            "timestamp": "2022-08-08T07:48:58.471000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "やはり。控えるだけでもよさそうですね",
+            "timestamp": "2022-08-08T07:49:17.609000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "卵の黄身は私は食べる方なので、なおさらです",
+            "timestamp": "2022-08-08T07:49:30.240000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "お菓子とかは食べませんか？",
+            "timestamp": "2022-08-08T07:49:47.161000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "基本食べませんが、あずきバーはOKにしています",
+            "timestamp": "2022-08-08T07:50:07.661000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "理由は？ちなみに",
+            "timestamp": "2022-08-08T07:50:17.733000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "脂質が低い、タンパク質含有、なにより、甘い物を食べたという満足感",
+            "timestamp": "2022-08-08T07:50:39.578000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "なるほど。徹底してますね",
+            "timestamp": "2022-08-08T07:50:56.537000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "バズーカ岡田先生という日体大の先生も推奨していました",
+            "timestamp": "2022-08-08T07:51:12.957000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "知ってます。よく出てる人ですよね",
+            "timestamp": "2022-08-08T07:51:26.828000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "オリンピック選手の筋トレ講師とかされてるかたなので",
+            "timestamp": "2022-08-08T07:51:45.624000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "話聞いてると私はつくづく自分に甘いなと思います",
+            "timestamp": "2022-08-08T07:52:03.538000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "こんな講師の情報がユーチューブに転がってるので、すごい世の中ですよ",
+            "timestamp": "2022-08-08T07:52:22.804000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

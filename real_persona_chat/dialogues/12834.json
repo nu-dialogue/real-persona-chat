@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12834,
+    "interlocutors": [
+        "FR",
+        "FK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T23:20:24.924000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T23:20:37.218000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "この時間おなかすきません？",
+            "timestamp": "2022-09-12T23:20:46.228000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FK",
+            "text": "わかります、やばいです",
+            "timestamp": "2022-09-12T23:20:52.263000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "普段なにか食べたりします？",
+            "timestamp": "2022-09-12T23:21:01.494000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FK",
+            "text": "夜食は我慢できないときコンビニいきます！",
+            "timestamp": "2022-09-12T23:21:09.763000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "近くにあるのですか？",
+            "timestamp": "2022-09-12T23:21:16.453000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FK",
+            "text": "めちゃちかくにあるんですよー",
+            "timestamp": "2022-09-12T23:21:24.551000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "歩いていきますか？",
+            "timestamp": "2022-09-12T23:21:34.735000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FK",
+            "text": "チャリですね！",
+            "timestamp": "2022-09-12T23:21:39.706000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "残念です。歩いて行ったら消費カロリーで0にできるのに。",
+            "timestamp": "2022-09-12T23:22:00.463000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FK",
+            "text": "歩かなくても0カロリー理論だと0になりますよ！！",
+            "timestamp": "2022-09-12T23:22:11.159000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "ええ！最強理論ですね。",
+            "timestamp": "2022-09-12T23:22:21.707000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FK",
+            "text": "普段筋トレしてるのであまりきにしてないです！",
+            "timestamp": "2022-09-12T23:22:37.036000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "普段から運動しているのであれば、関係ないですね！",
+            "timestamp": "2022-09-12T23:22:50.057000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FK",
+            "text": "まあでも、脂質は控えめにしてます！",
+            "timestamp": "2022-09-12T23:22:55"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "なるほど。コンビニではどういうものを買いますか？",
+            "timestamp": "2022-09-12T23:23:08.447000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FK",
+            "text": "スープとか、やさしいおにぎりとかですね！",
+            "timestamp": "2022-09-12T23:23:17.603000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "やさしいおにぎりというのがあるんですか？",
+            "timestamp": "2022-09-12T23:23:31.731000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FK",
+            "text": "あ、カロリーとか脂質がやさしいやつです！",
+            "timestamp": "2022-09-12T23:23:39.186000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "なるほど。どのコンビニですか？",
+            "timestamp": "2022-09-12T23:23:58.669000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FK",
+            "text": "セブンばかりですね！",
+            "timestamp": "2022-09-12T23:24:04.433000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "セブンおいしいものがたくさんですよね。",
+            "timestamp": "2022-09-12T23:24:13.879000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FK",
+            "text": "一番ごはんおいしいとおもいます",
+            "timestamp": "2022-09-12T23:24:23.630000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "わかります。でも量が少ないことで有名です。",
+            "timestamp": "2022-09-12T23:24:38.443000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FK",
+            "text": "底上げ有名ですよね",
+            "timestamp": "2022-09-12T23:24:42.236000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "そうです。あとサラダのドレッシングでかさまし。",
+            "timestamp": "2022-09-12T23:25:00.476000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FK",
+            "text": "そんなこともしてるんですか！！",
+            "timestamp": "2022-09-12T23:25:07.535000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "ドレッシング取ったら量が減ります。",
+            "timestamp": "2022-09-12T23:25:25.689000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FK",
+            "text": "なかなか手強い相手ですね。",
+            "timestamp": "2022-09-12T23:25:29.395000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

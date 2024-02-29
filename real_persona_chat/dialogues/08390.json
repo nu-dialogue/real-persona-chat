@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8390,
+    "interlocutors": [
+        "ET",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ET",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T11:13:06.783000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T11:13:14.544000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ET",
+            "text": "コロナが猛威を振るってますが、そちらは大丈夫ですか。",
+            "timestamp": "2022-08-08T11:13:24.562000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "そうですね。遠方の親戚が罹ったりし始めましたね。",
+            "timestamp": "2022-08-08T11:14:05.748000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ET",
+            "text": "私も知人が罹りましたね。明日は我が身だと思っています。",
+            "timestamp": "2022-08-08T11:14:21.821000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "そうですよね、最近急激に増えてきてしまいましたもんね。",
+            "timestamp": "2022-08-08T11:14:39.963000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ET",
+            "text": "気を付けてても罹る時は罹るんでしょうね。軽症で済むことを祈ります。",
+            "timestamp": "2022-08-08T11:15:04.584000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "本当にそうですね。私はワクチン接種もしているので、次回までもつことを祈ります。",
+            "timestamp": "2022-08-08T11:16:00.976000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ET",
+            "text": "ワクチンと言えば副作用はどうでしたか？私は本当にひどくてー。",
+            "timestamp": "2022-08-08T11:16:55.432000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！私は3回目だけ酷かったです！どんな感じでした？",
+            "timestamp": "2022-08-08T11:17:06.150000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ET",
+            "text": "ファイザーファイザーモデルナの順だったんですが、二回目のファイザーで丸２日高熱でした。",
+            "timestamp": "2022-08-08T11:17:30.047000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "パターン全く一緒です！丸二日。。それは大変でしたね。他の副作用は大丈夫でしたか？",
+            "timestamp": "2022-08-08T11:18:15.664000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ET",
+            "text": "あとは頭痛が酷かったです。高熱より、むしろそっちがキツかったですね。",
+            "timestamp": "2022-08-08T11:18:32.945000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "頭痛はキツイですね、、市販薬で対処したんですか？",
+            "timestamp": "2022-08-08T11:19:12.884000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ET",
+            "text": "バファリンのお世話になりましたね。お医者さんもバファリンで良いと言ってくれたので。",
+            "timestamp": "2022-08-08T11:19:22.911000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！バファリンとか市販薬、一時期全然なかったですよね。",
+            "timestamp": "2022-08-08T11:19:49.143000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ET",
+            "text": "カロナールが一番良いらしいんですけどね。カロナールなんてずっと品切れですよね。",
+            "timestamp": "2022-08-08T11:20:21.715000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "それは知らなかったです！",
+            "timestamp": "2022-08-08T11:21:11.496000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ET",
+            "text": "でも、三回目は副作用なかったんです。ファイザーよりモデルナ、二回目より三回目が酷いらしいのに。",
+            "timestamp": "2022-08-08T11:21:47.974000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "そういう噂ありましたよね。そして正にそうなりました。個体差があるんでしょうか。",
+            "timestamp": "2022-08-08T11:22:21.818000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ET",
+            "text": "あなたの副作用はどんな感じでしたか。",
+            "timestamp": "2022-08-08T11:22:29.361000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "私は、熱がガッと出て、頭痛と腕が腫れて動きづらかったです。",
+            "timestamp": "2022-08-08T11:23:18.043000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ET",
+            "text": "腕が腫れちゃったんですね！私も腫れはしませんでしたが痛くて寝返りもきつかったです。",
+            "timestamp": "2022-08-08T11:23:46.215000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "寝返りしにくいと寝にくくてしょうがないですよね。",
+            "timestamp": "2022-08-08T11:24:19.602000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ET",
+            "text": "本当にそうです。でも、お互いに軽快して良かったですね。",
+            "timestamp": "2022-08-08T11:24:45.094000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "そうですね、とりあえず今のところは元気で良かったです！",
+            "timestamp": "2022-08-08T11:25:14.371000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ET",
+            "text": "これからも元気でありますように！と祈るばかりです。",
+            "timestamp": "2022-08-08T11:25:29.023000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "本当ですね。これからも感染対策を心がけないと。",
+            "timestamp": "2022-08-08T11:25:47.032000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ET",
+            "text": "今度、新しいマスク買ってきます。今日はお話をありがとうございました。",
+            "timestamp": "2022-08-08T11:26:03.599000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-08T11:26:19.944000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

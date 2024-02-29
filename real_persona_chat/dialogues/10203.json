@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10203,
+    "interlocutors": [
+        "DU",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DU",
+            "text": "こんにちは。はじめまして。",
+            "timestamp": "2022-08-11T21:51:14.264000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-11T21:51:27.018000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DU",
+            "text": "最近どんな趣味を楽しんでいますか？",
+            "timestamp": "2022-08-11T21:51:41.748000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "最近ウォーキングを始めました。",
+            "timestamp": "2022-08-11T21:51:54.993000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DU",
+            "text": "それは健康的ですね。何かきっかけが？",
+            "timestamp": "2022-08-11T21:52:09.824000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "子どもに、運動不足を指摘されて、何かをしなきゃ！って感じです。",
+            "timestamp": "2022-08-11T21:52:33.538000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DU",
+            "text": "なるほど。続いていますか？",
+            "timestamp": "2022-08-11T21:52:44.116000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "なんとか続いています。ただ、雨が続くと、やらない言い訳が始まっちゃいますね",
+            "timestamp": "2022-08-11T21:53:10.887000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DU",
+            "text": "凄いですね。１日歩数か時間で目標をつくるんですか？",
+            "timestamp": "2022-08-11T21:53:35.898000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "一応、時間を測っています。というか、どんな運動をしたかを記録してくれる、スマートバンドを買いました。",
+            "timestamp": "2022-08-11T21:54:08.206000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DU",
+            "text": "スマートバンド、使ったことないですがあると良いですか？",
+            "timestamp": "2022-08-11T21:54:26.820000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "歩いた距離や、経路。消費カロリーなどを自動的に測ってくれるので便利です。",
+            "timestamp": "2022-08-11T21:55:05.098000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DU",
+            "text": "そうなんですね。犬の散歩なら１日１時間位やってるけどあまり運動にはならないと言われました。",
+            "timestamp": "2022-08-11T21:55:30.686000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "スマートバンドを付けていると、どのぐらいの運動になっているかわかるので、やった感がありますよ！",
+            "timestamp": "2022-08-11T21:56:00.660000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DU",
+            "text": "へぇー、ちょっとこの後検索してみようと思います。",
+            "timestamp": "2022-08-11T21:56:16.799000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "アップルが出しているのが良いのですが、すごく高いです。私は、シャオミという会社のを買いました。",
+            "timestamp": "2022-08-11T21:56:48.759000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DU",
+            "text": "Appleはなんでも高いですよね。私はスマホもandroid派です。",
+            "timestamp": "2022-08-11T21:57:14.456000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "私もそうなんです。アップルの製品は高いですよね！",
+            "timestamp": "2022-08-11T21:57:41.745000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DU",
+            "text": "本当そう思います。でもあの人気という事は物が良いんでしょうね。",
+            "timestamp": "2022-08-11T21:58:03.397000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "見た目もかっこいいですからね。中国メーカーは、怪しいのもありますが、私が買ったのは評判が良いです。",
+            "timestamp": "2022-08-11T21:58:54.186000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DU",
+            "text": "私は中国も気にしない方です。スマホも安物ばかり買っていました。今はGoogleのを試していますが。",
+            "timestamp": "2022-08-11T21:59:32.449000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "私も気にしないのですが、中国製はひどい製品に当たったことがありますよ。",
+            "timestamp": "2022-08-11T22:00:13.612000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DU",
+            "text": "たとえばどんなのがありますか？",
+            "timestamp": "2022-08-11T22:00:28.398000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "パソコンにつけるメモリ（SSD）は、中身が違っていました。",
+            "timestamp": "2022-08-11T22:01:06.652000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DU",
+            "text": "あまり詳しくないですがそれはあかん気がしますね。",
+            "timestamp": "2022-08-11T22:01:29.309000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "ちゃんと作っているメーカーもたくさんあるので、選んで買いましょうという事だと思います。",
+            "timestamp": "2022-08-11T22:01:55.796000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DU",
+            "text": "なるほど。勉強になります。私も一応レビューとか見てから買うようにしています。",
+            "timestamp": "2022-08-11T22:02:17.037000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "そうですよね！私も良く選んで買うようにしています。",
+            "timestamp": "2022-08-11T22:02:41.359000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DU",
+            "text": "またお勧めがあったら教えてくださいね。ありがとうございました。",
+            "timestamp": "2022-08-11T22:02:56.732000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "またお話しましょう。ありがとうございました。",
+            "timestamp": "2022-08-11T22:03:09.859000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

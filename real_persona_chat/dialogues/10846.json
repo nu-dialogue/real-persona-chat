@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10846,
+    "interlocutors": [
+        "BM",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "はじめまして。よろしくお願いいたします。",
+            "timestamp": "2022-08-18T22:00:56.955000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-18T22:01:12.951000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "夜ご飯は何を食べましたか？",
+            "timestamp": "2022-08-18T22:01:24.693000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "こちらはとんかつでした。何を食べましたか？",
+            "timestamp": "2022-08-18T22:01:50.582000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "とんかついいですね！餃子でした。",
+            "timestamp": "2022-08-18T22:02:08.302000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "餃子もいいですね！他の人が食べた、と聞くと食べたくなります。",
+            "timestamp": "2022-08-18T22:02:23.292000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "わかります。食べたばかりでも食べれる気がしてきますよね。",
+            "timestamp": "2022-08-18T22:03:02.385000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "餃子は割と続いても大丈夫かもです。",
+            "timestamp": "2022-08-18T22:03:16.083000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "餃子っていくらでも食べれる気がしてます。",
+            "timestamp": "2022-08-18T22:03:40.645000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "不思議ですよね。気づくとすごく減ってるので危険です。",
+            "timestamp": "2022-08-18T22:04:03.511000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "餃子食べるときは気がついたらいつも食べ過ぎてるんですよね。",
+            "timestamp": "2022-08-18T22:04:29.711000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "餃子はご自分で作るんですか？",
+            "timestamp": "2022-08-18T22:04:44.334000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "作るときもあります！今日は冷食でした。",
+            "timestamp": "2022-08-18T22:04:57.997000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "最近は冷食の餃子もよくできてますよね。",
+            "timestamp": "2022-08-18T22:05:14.051000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "そうなんですよ。王将の冷凍餃子は冷凍でもかなり美味しいです。",
+            "timestamp": "2022-08-18T22:05:43.712000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "私も食べた事あります。冷凍庫にストックしとくと助かりますね。",
+            "timestamp": "2022-08-18T22:06:02.795000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "料理作るのがめんどくさいときとかいいですよね",
+            "timestamp": "2022-08-18T22:06:35.041000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "私は料理はいつでもめんどくさいです。笑",
+            "timestamp": "2022-08-18T22:06:42.855000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "特に夏は暑くてめんどくさい気はしてます。",
+            "timestamp": "2022-08-18T22:07:17.276000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "夏の台所はしんどいですよね。何もしてなくても暑いです。",
+            "timestamp": "2022-08-18T22:07:34.899000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "さらにコンロ使うともう地獄になりますよね。",
+            "timestamp": "2022-08-18T22:08:02.633000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "ひんやり素麺を食べたくても、そこまでの道のりが暑いですよね。",
+            "timestamp": "2022-08-18T22:08:17.827000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "ゆでなくても良かったら、すごいそうめんっていいですよね。",
+            "timestamp": "2022-08-18T22:08:45.662000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "おお！それは斬新、というか、商品開発して欲しいですね！",
+            "timestamp": "2022-08-18T22:09:10.840000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "売ってたら絶対買います。というかこれはコンビニ弁当と同じでしょうか。",
+            "timestamp": "2022-08-18T22:09:40.583000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "あはは、それもあるかもです。でも、茹でなくていい素麺、欲しいです。",
+            "timestamp": "2022-08-18T22:10:29.075000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "乾麺と同じくらい保存できたら尚更最高です。",
+            "timestamp": "2022-08-18T22:10:51.828000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "ですね！生麺で、賞味期限長かったらすごく欲しいです。",
+            "timestamp": "2022-08-18T22:11:14.030000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "こんな時間なのに、そうめん食べたくなってきました。",
+            "timestamp": "2022-08-18T22:11:33.850000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "私もです。ツルッと食べたくなりました。お話ありがとうございました！",
+            "timestamp": "2022-08-18T22:11:50.555000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

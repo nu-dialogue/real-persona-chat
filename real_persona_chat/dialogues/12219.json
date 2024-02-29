@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12219,
+    "interlocutors": [
+        "DI",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-06T12:12:04.462000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-06T12:12:09.857000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "最近台風が多いですが、そちらは大丈夫ですか？",
+            "timestamp": "2022-09-06T12:12:24.098000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "こちらは今回は大丈夫でした",
+            "timestamp": "2022-09-06T12:12:39.596000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "よかったです。台風に限らず地震などの災害対策なにかされてますか？",
+            "timestamp": "2022-09-06T12:13:05.745000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "してないですよねーほぼ。",
+            "timestamp": "2022-09-06T12:13:23.271000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "そうなんですね。備蓄とかもしてないですか？",
+            "timestamp": "2022-09-06T12:13:35.435000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "冷蔵庫以外してないです。何かしてますか",
+            "timestamp": "2022-09-06T12:13:53.169000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "一応備蓄バッグ準備してあって、いつでも持っていけるようにはしてあります。",
+            "timestamp": "2022-09-06T12:14:19.654000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "背負えるやつですか",
+            "timestamp": "2022-09-06T12:14:32.572000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "そうです。持ち運べるやつです。",
+            "timestamp": "2022-09-06T12:14:44.967000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "避難所も決めてますか",
+            "timestamp": "2022-09-06T12:14:56.827000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "避難場所は近くに大学があるのでそこになってます。",
+            "timestamp": "2022-09-06T12:15:15.086000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "水害等何が一番危険な地域ですか",
+            "timestamp": "2022-09-06T12:15:34.360000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "近くに崖っぽいのがあるので大雨は少し怖いです。",
+            "timestamp": "2022-09-06T12:16:01.167000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "分からないですよね。崖の危険度って",
+            "timestamp": "2022-09-06T12:16:22.374000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "そうなんです。大地震とかでも壊れそうで。",
+            "timestamp": "2022-09-06T12:16:47.342000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "地震はどうしょうもないですね",
+            "timestamp": "2022-09-06T12:17:07.944000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "活断層が近いみたいなのでそれもあって怖いです。",
+            "timestamp": "2022-09-06T12:17:26.798000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "備えと避難所が近くにあるのは安心材料ですね",
+            "timestamp": "2022-09-06T12:18:00.494000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "はい。備えも賞味期限があるので、入れ替えたりが面倒ですが。",
+            "timestamp": "2022-09-06T12:18:31.257000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "でも、まめに見ているの偉いです",
+            "timestamp": "2022-09-06T12:18:49.607000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "ありがとうございます。これを機に備えのご準備いかがですか。",
+            "timestamp": "2022-09-06T12:19:13.794000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "考えねば",
+            "timestamp": "2022-09-06T12:19:24.606000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "ぜひ",
+            "timestamp": "2022-09-06T12:19:33.973000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "食糧ですかね？",
+            "timestamp": "2022-09-06T12:19:44.630000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "食料と飲み物と、少し布があるといいと思います。",
+            "timestamp": "2022-09-06T12:20:07.309000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "布はなぜ",
+            "timestamp": "2022-09-06T12:20:20.319000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "怪我した場合とか、ちょっとした防寒にも使えると思うので、私は準備しています。",
+            "timestamp": "2022-09-06T12:20:53.369000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "なるほど。勉強になります。ありがとうございました",
+            "timestamp": "2022-09-06T12:21:22.413000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

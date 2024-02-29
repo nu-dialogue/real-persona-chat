@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8266,
+    "interlocutors": [
+        "AG",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AG",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-05T23:11:31.911000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "おはよー！",
+            "timestamp": "2022-08-05T23:11:38.782000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AG",
+            "text": "連日暑いですね。こんな時は、冷たいものでも食べたくなります。",
+            "timestamp": "2022-08-05T23:12:06.830000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "そうですね。私、今たっぷり氷入れたほうじ茶飲んでます。",
+            "timestamp": "2022-08-05T23:12:26.982000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AG",
+            "text": "良いですねー！キンキンに冷えたほうじ茶！私も、何か飲みたくなりました。",
+            "timestamp": "2022-08-05T23:13:03.340000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "飲み物、何が好きですか？",
+            "timestamp": "2022-08-05T23:13:15.660000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AG",
+            "text": "いろいろ飲むんですけど、最近は中国茶にハマっていますよ。",
+            "timestamp": "2022-08-05T23:13:40.830000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "へえ。それって、温かいお茶ですか？",
+            "timestamp": "2022-08-05T23:13:52.665000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AG",
+            "text": "温かいものも、水出しのものも飲みます。今の季節は水出しのが美味しいですね。",
+            "timestamp": "2022-08-05T23:14:21.394000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。お茶っぱを買ってきて、作るんですか？",
+            "timestamp": "2022-08-05T23:14:38.768000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AG",
+            "text": "はい。お茶っぱをボトルに入れて、一晩冷蔵庫で寝かせればOKです。",
+            "timestamp": "2022-08-05T23:15:11.392000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "いいですね。私、紅茶でよく水出しします。作り方一緒っぽいですね。",
+            "timestamp": "2022-08-05T23:15:40.729000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AG",
+            "text": "一緒ですね！私、紅茶も飲むんですが、どこの産地が好きとかってありますか？",
+            "timestamp": "2022-08-05T23:16:09.177000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "いや、詳しくないのでアレなんですが、アールグレイとか、好きです。",
+            "timestamp": "2022-08-05T23:16:42.154000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AG",
+            "text": "アールグレイ美味しいですよね！あの爽やかな味、ハマります。",
+            "timestamp": "2022-08-05T23:17:01.366000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "はい。すっきりしてていいですよねー。",
+            "timestamp": "2022-08-05T23:17:15.722000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AG",
+            "text": "アールグレイも水出しにして、夏場飲んだりします。",
+            "timestamp": "2022-08-05T23:17:39.857000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "いいですね。ところで、中国茶にハマったきっかけとかあるんですか？",
+            "timestamp": "2022-08-05T23:18:00.886000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AG",
+            "text": "中国茶は渋谷に以前台湾のお店があって、そこにフラッと立ち寄ったのがきっかけですね。",
+            "timestamp": "2022-08-05T23:18:41.065000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "へえ。台湾の商品が置いてあったところに、あったと。",
+            "timestamp": "2022-08-05T23:19:07.353000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AG",
+            "text": "そうなんです。台湾の食器とか雑貨とかがあって、そこにお茶もあって。",
+            "timestamp": "2022-08-05T23:19:32.668000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "中国茶って、なんか、小さい湯呑に入れて飲みません？",
+            "timestamp": "2022-08-05T23:19:56.647000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AG",
+            "text": "そうそう！湯呑も小さいし、急須も日本と比べて小さいんですよね。",
+            "timestamp": "2022-08-05T23:20:20.473000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "お茶あふれさせて淹れてるのが衝撃でした。最初見た時。",
+            "timestamp": "2022-08-05T23:20:42.177000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよ。しかも、1せん目は捨てるという斬新さ。",
+            "timestamp": "2022-08-05T23:21:14.138000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "えええ！そうなんですか！？",
+            "timestamp": "2022-08-05T23:21:27.859000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AG",
+            "text": "１せん目も飲むパターンもありますが、本当は洗う感じで捨てちゃうみたいです。",
+            "timestamp": "2022-08-05T23:21:52.439000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "なるほど。日本茶だと、出がらしって言われてしまいそう。ははは。",
+            "timestamp": "2022-08-05T23:22:16.190000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AG",
+            "text": "本当ですよね。でも、１回捨てた方が香りも味も良いんだそうで。もったいなくて、私は飲んじゃいますが。",
+            "timestamp": "2022-08-05T23:22:43.916000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "文化の違い、感じますね。",
+            "timestamp": "2022-08-05T23:22:59.857000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

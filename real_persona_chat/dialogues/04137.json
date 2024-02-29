@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4137,
+    "interlocutors": [
+        "CX",
+        "CH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-07T14:46:50.896000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CH",
+            "text": "はじめまして、こんにちは。",
+            "timestamp": "2022-09-07T14:47:00.044000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "お昼は何を食べましたか？",
+            "timestamp": "2022-09-07T14:47:07.538000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CH",
+            "text": "味噌おにぎりですよ。",
+            "timestamp": "2022-09-07T14:47:15.119000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "美味しそうですね。",
+            "timestamp": "2022-09-07T14:47:21.656000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CH",
+            "text": "味噌は匂いが香ばしいですよね。",
+            "timestamp": "2022-09-07T14:47:34.413000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "自分で作ったんですか？",
+            "timestamp": "2022-09-07T14:47:41.430000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CH",
+            "text": "はい。別に簡単なものですし。",
+            "timestamp": "2022-09-07T14:47:50.663000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "料理はよくされますか？",
+            "timestamp": "2022-09-07T14:48:00.714000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CH",
+            "text": "よくしますよ。料理は好きなので。",
+            "timestamp": "2022-09-07T14:48:08.049000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "素晴らしいです。得意料理は？",
+            "timestamp": "2022-09-07T14:48:19.507000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CH",
+            "text": "豚の角煮とか、トマトカレーですかね。",
+            "timestamp": "2022-09-07T14:48:33.674000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "本格的ですね。",
+            "timestamp": "2022-09-07T14:48:42.959000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CH",
+            "text": "食べたいものを作ってるだけなので。その2品は周りから一番好評な品ですね。",
+            "timestamp": "2022-09-07T14:49:08.976000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "好評になるのがわかる気がします。",
+            "timestamp": "2022-09-07T14:49:25.818000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CH",
+            "text": "料理は作るのが面倒かそうでもないか、だけなので完全に向き不向きですね。",
+            "timestamp": "2022-09-07T14:49:59.897000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "なるほど。私は最近簡単な調理程度はやるようになりました。",
+            "timestamp": "2022-09-07T14:50:21.745000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CH",
+            "text": "そうでしたか。どんなものをよく作りますか？",
+            "timestamp": "2022-09-07T14:50:32.317000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "肉やもやしを炒めて、焼き肉のタレをかけたものとか。",
+            "timestamp": "2022-09-07T14:50:51.582000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CH",
+            "text": "なるほど、焼き肉のタレはいろいろなものに使えますよね。",
+            "timestamp": "2022-09-07T14:51:11.015000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "はい、あとおろしソースとかも色々使えます。",
+            "timestamp": "2022-09-07T14:51:21.765000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CH",
+            "text": "そうですか。料理というと自分で何でもと思いがちですが、既製品をうまく使うのも大事ですね。",
+            "timestamp": "2022-09-07T14:51:46.704000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "私はほとんど既製品使いなので、料理できるのがすごいと思います。",
+            "timestamp": "2022-09-07T14:52:06.883000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CH",
+            "text": "作っていれば勝手にですよ。慣れです。",
+            "timestamp": "2022-09-07T14:52:26.165000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "私もこれからもう少し凝ったものにチャレンジしようと思います。",
+            "timestamp": "2022-09-07T14:52:39.819000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CH",
+            "text": "そうですか、ぜひ頑張ってください。",
+            "timestamp": "2022-09-07T14:52:51.145000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "簡単で美味しいものでおすすめありますか？",
+            "timestamp": "2022-09-07T14:53:11.699000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CH",
+            "text": "パスタに既製品の色々なソースを使うと美味しいですよ。麻婆の素とか。",
+            "timestamp": "2022-09-07T14:53:43.775000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "なるほど。チャレンジしてみます。ありがとうございます。",
+            "timestamp": "2022-09-07T14:53:56.130000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CH",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-07T14:54:02.566000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 1,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 2
+        }
+    ]
+}

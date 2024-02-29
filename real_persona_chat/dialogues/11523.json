@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11523,
+    "interlocutors": [
+        "DV",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "おはようございます",
+            "timestamp": "2022-08-23T10:24:45.469000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-23T10:25:30"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "趣味はなにかありますか？",
+            "timestamp": "2022-08-23T10:24:56.967000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "僕はもっぱらゲームですね。テレビの",
+            "timestamp": "2022-08-23T10:25:19.254000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "私もゲームは好きです",
+            "timestamp": "2022-08-23T10:25:08.234000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "お、いいですね。どういったタイトルのゲームをされるのですか？",
+            "timestamp": "2022-08-23T10:25:29.109000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "ドラクエとか昔よくやってました",
+            "timestamp": "2022-08-23T10:25:58.156000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "おお、僕もドラクエはやったことがあります。7~9と11です",
+            "timestamp": "2022-08-23T10:26:20.893000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "ですが最近は簡単なパズルゲームが多めです",
+            "timestamp": "2022-08-23T10:26:57.824000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "そうですか。確かに時間つぶしに適したものをしがちですよね",
+            "timestamp": "2022-08-23T10:27:20.743000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "そうなんですよ、それでついついスマホでゲームやったりしちゃいます",
+            "timestamp": "2022-08-23T10:27:43.207000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "わかります。スマホゲームはそういったことに特化していますからね",
+            "timestamp": "2022-08-23T10:28:02.289000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "暇つぶしで気づいたら１時間経ってたとか結構あります",
+            "timestamp": "2022-08-23T10:28:23.220000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "あるあるですね。僕もスタミナを使い切ろうとして時間を溶かしてしまうことがあります",
+            "timestamp": "2022-08-23T10:28:58.321000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "寝る前にやってたら気づいたらびっくりするような時間だったり",
+            "timestamp": "2022-08-23T10:29:16.545000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "はい、寝る前のゲームはあまりよくないですし、気を付けたいです",
+            "timestamp": "2022-08-23T10:29:40.351000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "寝る前にスマホを見るのはよくないっていいますよね",
+            "timestamp": "2022-08-23T10:29:56.016000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "ブルーライトが良くないと聞きますね。ゲームはシンプルに脳が興奮してそうです",
+            "timestamp": "2022-08-23T10:30:16.810000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "確かに興奮しちゃってるかもしれません",
+            "timestamp": "2022-08-23T10:30:28.143000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "はい、自然音を聞くのがいいと聞きますね。",
+            "timestamp": "2022-08-23T10:30:46.960000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "そうですね、寝る前にはテレビなどは消して音楽をきいたりがいいかもしれませんね",
+            "timestamp": "2022-08-23T10:31:32.848000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "好きな音楽だと、脳が興奮してしまいそうですけどね。",
+            "timestamp": "2022-08-23T10:31:49.244000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "確かに一緒に歌っちゃってそれはそれで目がさえそうです",
+            "timestamp": "2022-08-23T10:32:11.804000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "はい、リラックスできるような音楽ならいいのですが。",
+            "timestamp": "2022-08-23T10:32:26.389000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "何かそういう音楽を探してよい睡眠を得たいものです",
+            "timestamp": "2022-08-23T10:32:47.126000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "そうですね。今度検索してみようと思います",
+            "timestamp": "2022-08-23T10:33:00.417000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "今簡単にスマホに落としてきいたりもできるので便利ですよね",
+            "timestamp": "2022-08-23T10:33:15.755000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "はい、なかなか実行に移せませんけどね。",
+            "timestamp": "2022-08-23T10:33:27.843000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "私も何か探してみたいと思います",
+            "timestamp": "2022-08-23T10:33:40.470000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "はい、ありがとうございました。",
+            "timestamp": "2022-08-23T10:33:44.540000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1871,
+    "interlocutors": [
+        "BQ",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-16T23:00:01.658000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-16T23:01:23.492000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "学生時代の思い出はありますか？",
+            "timestamp": "2022-08-16T23:01:43.086000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "バイトばっかりしてた思い出があります",
+            "timestamp": "2022-08-16T23:02:18.497000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "バイトいいですね。どんな職種を経験されたんですか？",
+            "timestamp": "2022-08-16T23:02:35.735000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "スーパーやコンビニレジが多かったです。",
+            "timestamp": "2022-08-16T23:03:10.076000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "色々経験されたんですね。どのバイトが一番おもしろかったですか？",
+            "timestamp": "2022-08-16T23:03:30.647000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "面白かったというか、珍しいと思ったのは証券会社のバイトです",
+            "timestamp": "2022-08-16T23:04:21.684000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "それは確かにめずらしいですね。どんなことをするのですか？",
+            "timestamp": "2022-08-16T23:04:38.558000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "ひたすらスタンプを押すという単純作業です",
+            "timestamp": "2022-08-16T23:05:02.452000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "腕が疲れそうですね。時給はよかったですか？",
+            "timestamp": "2022-08-16T23:05:18.607000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "時給はまあまあでした。短期で稼げたのは良かったですね",
+            "timestamp": "2022-08-16T23:05:45.585000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "それは良かったですね。昔のバイトで今につながっていることはありますか？",
+            "timestamp": "2022-08-16T23:06:19.287000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "学生時代の最後のバイトが事務補助で、そこでパソコン実務を覚えたことですね。",
+            "timestamp": "2022-08-16T23:06:59.650000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "それは役に立ちますね。今もパソコンを使うお仕事ですか？",
+            "timestamp": "2022-08-16T23:07:33.156000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "それ以来、パソコンを使う仕事しかしたことないんです。",
+            "timestamp": "2022-08-16T23:07:55.072000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "そうだったんですね。それなら尚更良い経験でしたね。",
+            "timestamp": "2022-08-16T23:08:17.234000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "仕事中に勉強もできたので、良い環境でした",
+            "timestamp": "2022-08-16T23:08:42.489000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "学業との両立は難しくなかったですか？",
+            "timestamp": "2022-08-16T23:09:00.591000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "その年には、もう学校が週一日だったので、大丈夫でしたよ。",
+            "timestamp": "2022-08-16T23:09:39.448000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。それなら安心ですね。今のお仕事に就いてよかったと思いますか？",
+            "timestamp": "2022-08-16T23:10:10.311000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "良かったと思います。アクティブな仕事は大人になるときついので。",
+            "timestamp": "2022-08-16T23:10:43.817000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "私は就職活動中なのでとても参考になります。",
+            "timestamp": "2022-08-16T23:11:25.632000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "どんな職種に興味がありますか？",
+            "timestamp": "2022-08-16T23:11:43.533000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "まだ迷ってるんですが、PCを使う系か、農業とかにも少し興味があります。",
+            "timestamp": "2022-08-16T23:12:25.497000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "農業もいろいろ工夫しながらすれば面白そうですね。",
+            "timestamp": "2022-08-16T23:13:55.431000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "ドローンを使った農業の動画を見て面白いんじゃないかと思いました。",
+            "timestamp": "2022-08-16T23:14:20.887000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "ドローンでどんなことができるんでしょう？",
+            "timestamp": "2022-08-16T23:14:44.811000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "農薬の散布やデータ収集ができるみたいですね。",
+            "timestamp": "2022-08-16T23:15:00.712000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "それは便利な技術ですね！またお話を聞かせてください。",
+            "timestamp": "2022-08-16T23:15:28.782000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

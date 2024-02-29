@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12505,
+    "interlocutors": [
+        "FF",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-10T09:04:59.919000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "Good morning!",
+            "timestamp": "2022-09-10T09:05:11.664000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "英語は堪能ですか？",
+            "timestamp": "2022-09-10T09:05:20.063000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "そんなことはなく、最低限話せるレベルで。",
+            "timestamp": "2022-09-10T09:05:45.065000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "おお、いいですね。私も仕事で使うので外人の友達がいる程度にはできますよ。",
+            "timestamp": "2022-09-10T09:05:59.589000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "いや、そこまででもなく、ほんとに最低限で。",
+            "timestamp": "2022-09-10T09:06:19.647000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "そうでしたか。では変えましょう。最近何か大きめの買い物されましたか？",
+            "timestamp": "2022-09-10T09:06:38.418000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "本数冊、しかも親の金で買った大きめの買い物はありましたね。",
+            "timestamp": "2022-09-10T09:07:19.585000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "そうでしたか、どんな本を読まれますか？",
+            "timestamp": "2022-09-10T09:07:28.580000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "えーっと、老師と少年、草薙の剣、脳科学の本、麻薬警察の人の話ですかね？",
+            "timestamp": "2022-09-10T09:08:50.260000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "いいですね、自分にとっての一番の本は何かありますか？",
+            "timestamp": "2022-09-10T09:09:11.073000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "老子と少年ですね。薄くて読みやすくて安くてためになる。",
+            "timestamp": "2022-09-10T09:09:31.152000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "いい事ですね。くだらない本はお好きですか？",
+            "timestamp": "2022-09-10T09:09:42.077000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "どういう意味のくだらないですか？",
+            "timestamp": "2022-09-10T09:09:55.474000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "例えば森見登美彦さんはわかりますかね？",
+            "timestamp": "2022-09-10T09:10:06.724000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "分かりません。",
+            "timestamp": "2022-09-10T09:10:13.715000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "四畳半神話大系と言ったらどうでしょうか？",
+            "timestamp": "2022-09-10T09:10:26.446000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "あー、父がアニメ録画してたみたいですけどよく知らないです。",
+            "timestamp": "2022-09-10T09:10:47.585000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "まぁアニメになるような物って意味でした。小難しいのは好きですか？ヘミングウェイとか？",
+            "timestamp": "2022-09-10T09:11:06.252000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "ラノベってことですかね。ヘミングウェイとはなんでしょうか？",
+            "timestamp": "2022-09-10T09:11:33.734000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "いいえ。文学ですね。老人と海と言うのが有名ですよ。老子と少年と似てるなって思いました。",
+            "timestamp": "2022-09-10T09:11:57.634000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "どんな内容なのでしょうか？",
+            "timestamp": "2022-09-10T09:12:32.259000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "老人が人生をかけて一番の大物と命を懸けて戦う話ですね。",
+            "timestamp": "2022-09-10T09:12:55.026000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "なんか剣士みたいですね。",
+            "timestamp": "2022-09-10T09:13:11.136000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "漁師ですね、大物は何だったのか？命を懸けた理由や意味は？みたいなことですね。",
+            "timestamp": "2022-09-10T09:13:35.853000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "漁師は確かに命を賭ける意味がよく分からないですね。猟師ならまぁ。",
+            "timestamp": "2022-09-10T09:14:18.727000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "そうですか？昔の話なので海に放り出されたら死にますよ。",
+            "timestamp": "2022-09-10T09:14:38.393000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "あー、今とは違うんですね。",
+            "timestamp": "2022-09-10T09:14:51.804000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "サメとかいれば今も死にますけどね。",
+            "timestamp": "2022-09-10T09:15:03.557000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "海水の温度が変わってサメがどっか行ってくれるといいですね。",
+            "timestamp": "2022-09-10T09:15:25.834000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

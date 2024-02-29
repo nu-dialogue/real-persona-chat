@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2117,
+    "interlocutors": [
+        "EA",
+        "DY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EA",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-18T20:51:58.018000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DY",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-18T20:52:04.481000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EA",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-08-18T20:52:19.755000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DY",
+            "text": "はい、1日テレワークで仕事でした",
+            "timestamp": "2022-08-18T20:52:31.088000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EA",
+            "text": "そうなんですね。コロナはやってますもんね。",
+            "timestamp": "2022-08-18T20:52:45.202000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DY",
+            "text": "そちらは今日はお仕事でしたか？",
+            "timestamp": "2022-08-18T20:53:03.130000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EA",
+            "text": "はい。雨がすごくて客足が少なかったです。",
+            "timestamp": "2022-08-18T20:54:01.295000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DY",
+            "text": "なにか接客のお仕事なんですか？",
+            "timestamp": "2022-08-18T20:54:14.206000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EA",
+            "text": "そうですね、飲食店で仕事してます。",
+            "timestamp": "2022-08-18T20:54:32.641000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DY",
+            "text": "飲食店なんですね、接客は苦手なので、すごいと思います。",
+            "timestamp": "2022-08-18T20:54:55.298000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EA",
+            "text": "接客は大変ですね。でも今日みたいな日があると楽出来たりしますね。",
+            "timestamp": "2022-08-18T20:55:39.009000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DY",
+            "text": "なるほどー。接客って、こちらから客を選べないじゃないですか。大変ですよね。",
+            "timestamp": "2022-08-18T20:56:04.692000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EA",
+            "text": "そうですね、いいお客さんが多いですがたまに話が通じない方もいて。ただもう慣れましたが。",
+            "timestamp": "2022-08-18T20:56:47.283000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DY",
+            "text": "そうなんですね。たしかにいいお客さんいると嬉しくなるかもですね。",
+            "timestamp": "2022-08-18T20:57:10.569000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EA",
+            "text": "そうですね、あなたはどんなお仕事ですか？",
+            "timestamp": "2022-08-18T20:58:10.062000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DY",
+            "text": "私はシステムエンジニアです。ずっとパソコンの前にいます。",
+            "timestamp": "2022-08-18T20:58:23.368000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EA",
+            "text": "凄い！パソコンに詳しそう！",
+            "timestamp": "2022-08-18T20:58:39.613000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DY",
+            "text": "全然詳しくないですよ！タイピングがちょっと速いくらいで！",
+            "timestamp": "2022-08-18T20:58:58.857000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EA",
+            "text": "ブラインドタッチも出来たりしますか？",
+            "timestamp": "2022-08-18T20:59:20.077000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DY",
+            "text": "ブラインドタッチは、学生の頃からインターネットに触れていたので昔からできます！",
+            "timestamp": "2022-08-18T20:59:44.836000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EA",
+            "text": "昔から触っていたんですね、私は大人になってからだったので羨ましいです。",
+            "timestamp": "2022-08-18T21:00:23.976000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DY",
+            "text": "小学生の頃からPCが家にあったので、親に感謝です。",
+            "timestamp": "2022-08-18T21:00:50.457000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EA",
+            "text": "子供の頃はPCで何をしてました？",
+            "timestamp": "2022-08-18T21:01:15.439000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DY",
+            "text": "そうですね、友達とチャットでずっと話してたりしました。今はもうLINEに置き換わってしまいましたが",
+            "timestamp": "2022-08-18T21:01:51.708000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EA",
+            "text": "チャットですか、いいですね。",
+            "timestamp": "2022-08-18T21:02:10.440000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DY",
+            "text": "はい、結構インターネット経由で新しい友人もできたので、楽しかったですね。",
+            "timestamp": "2022-08-18T21:02:27.645000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EA",
+            "text": "なるほど！PC普及してきてるので最近の子だとみんなチャットとかしてるんでしょうかね？",
+            "timestamp": "2022-08-18T21:03:12.528000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DY",
+            "text": "今はもうPCが家にない人も多いかもです。みんなスマホでLINEなのかな？と思ってます",
+            "timestamp": "2022-08-18T21:03:35.223000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EA",
+            "text": "ああ、たしかにスマホがおおそうですね。良い時代になりました。",
+            "timestamp": "2022-08-18T21:04:00.435000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DY",
+            "text": "大変は大変かもしれないですけどね。いい時代だと思います！",
+            "timestamp": "2022-08-18T21:04:19.992000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DY",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

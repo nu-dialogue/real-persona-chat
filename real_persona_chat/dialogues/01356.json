@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1356,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-14T21:40:19.136000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-14T21:40:25.938000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "晩御飯はお済ですか？",
+            "timestamp": "2022-08-14T21:40:38.915000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "はい。ハンバーグを食べました",
+            "timestamp": "2022-08-14T21:40:52.795000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "いいですね。デミグラスソースですか？",
+            "timestamp": "2022-08-14T21:41:21.459000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "和風ハンバーグでした。デミグラスもおいしいですよね。",
+            "timestamp": "2022-08-14T21:41:36.427000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "どっちもおいしいですね",
+            "timestamp": "2022-08-14T21:41:50.339000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "<AW>さんは何を食べましたか？",
+            "timestamp": "2022-08-14T21:42:04.916000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "スープと桃を食べました",
+            "timestamp": "2022-08-14T21:42:17.587000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "ヘルシーですね！足りますか？",
+            "timestamp": "2022-08-14T21:42:30.126000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "具合があんまりよくなくて、これだけにしました",
+            "timestamp": "2022-08-14T21:42:47.853000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "あら、大丈夫ですか？",
+            "timestamp": "2022-08-14T21:42:57.457000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "昼間よりはだいぶ良くなりましたね",
+            "timestamp": "2022-08-14T21:43:13.353000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "それならよかったです。熱はないんですよね？",
+            "timestamp": "2022-08-14T21:43:41.038000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "ないです。だるいのと喉に違和感があるくらいで",
+            "timestamp": "2022-08-14T21:43:57.366000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "心配ですね",
+            "timestamp": "2022-08-14T21:44:06.927000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "幸い明日は在宅勤務なので、体を休めつつがんばります",
+            "timestamp": "2022-08-14T21:44:41.080000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "あまり無理はされないでくださいね",
+            "timestamp": "2022-08-14T21:44:53.333000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "はい、ありがとうございます。",
+            "timestamp": "2022-08-14T21:45:08.214000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "ちなみに味覚はありますか？",
+            "timestamp": "2022-08-14T21:45:43.204000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "ありますあります。念のため検査キットを申し込みました",
+            "timestamp": "2022-08-14T21:46:00.664000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "自宅に届くんですか？",
+            "timestamp": "2022-08-14T21:46:16.171000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "みたいです。どれくらいで届くのか謎ですが",
+            "timestamp": "2022-08-14T21:46:30.276000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "精度が気になりますね",
+            "timestamp": "2022-08-14T21:46:43.248000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "キットで陽性になったら、正式に陽性判定になるみたいです",
+            "timestamp": "2022-08-14T21:47:08.306000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。じゃあ精度高めですね",
+            "timestamp": "2022-08-14T21:47:27.286000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "だいぶしんどいみたいなので、感染していないといいんですが",
+            "timestamp": "2022-08-14T21:48:07.532000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "そうですね、無事であることを祈ります",
+            "timestamp": "2022-08-14T21:48:24.756000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい。ありがとうございます。",
+            "timestamp": "2022-08-14T21:48:33.899000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "それでは失礼いたします。",
+            "timestamp": "2022-08-14T21:48:41.117000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

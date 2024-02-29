@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11416,
+    "interlocutors": [
+        "HZ",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HZ",
+            "text": "こんにちは、よろしくおねがいします！",
+            "timestamp": "2022-08-22T10:51:26.128000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします！",
+            "timestamp": "2022-08-22T10:51:43.407000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HZ",
+            "text": "昨日はなにされてましたか？",
+            "timestamp": "2022-08-22T10:51:50.537000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "昨日はコロナワクチンの治験の検査に行きました",
+            "timestamp": "2022-08-22T10:52:18.224000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HZ",
+            "text": "治験ですか？PCRとかではなく？",
+            "timestamp": "2022-08-22T10:52:38.639000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "はい。3回目は治験で参加したので、接種後のデータ提供を定期的に行います。",
+            "timestamp": "2022-08-22T10:53:10.720000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HZ",
+            "text": "へー、そういうのがあるんですね！",
+            "timestamp": "2022-08-22T10:53:18.655000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "はい。健康管理をかねて挑戦してみました。",
+            "timestamp": "2022-08-22T10:53:37.956000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HZ",
+            "text": "フィードバックはあるのですか？",
+            "timestamp": "2022-08-22T10:53:47.248000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "はい。毎回前回の血液検査の結果を教えてくれます。",
+            "timestamp": "2022-08-22T10:54:01.051000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HZ",
+            "text": "へえ！ちょっといいですね",
+            "timestamp": "2022-08-22T10:54:09.900000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "はい。1回目に体重が5キロプラスになっていたので、ダイエットができました。",
+            "timestamp": "2022-08-22T10:54:35.464000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HZ",
+            "text": "活用してますね",
+            "timestamp": "2022-08-22T10:54:47.523000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "はい。昨日は3回目でダイエット成果がでていました。",
+            "timestamp": "2022-08-22T10:55:05.799000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HZ",
+            "text": "そういうのの募集って、どこでやってるのでしょうか？",
+            "timestamp": "2022-08-22T10:55:10.422000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "ネットで友人から教えてもらいました。",
+            "timestamp": "2022-08-22T10:55:20.014000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HZ",
+            "text": "知らなかったー",
+            "timestamp": "2022-08-22T10:55:30.954000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "ワクチンの副反応も全くなくて、快適でした。",
+            "timestamp": "2022-08-22T10:55:50.848000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HZ",
+            "text": "副反応なかったんですね！わたしは結構重かったです",
+            "timestamp": "2022-08-22T10:56:12.103000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "副反応が出ても、保険に自動的に入っているので重症の場合も安心です。",
+            "timestamp": "2022-08-22T10:56:40.062000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HZ",
+            "text": "治験で保険に自動で入るということですか？",
+            "timestamp": "2022-08-22T10:56:55.202000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "はい。新薬の開発ですから、承認済みのワクチンか新薬を投与されるかはわからないのですけど。",
+            "timestamp": "2022-08-22T10:57:24.510000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HZ",
+            "text": "ああ、なるほど。ワクチンの種類は伏せられているんですか？製造会社とか",
+            "timestamp": "2022-08-22T10:57:45.544000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "製薬会社は国内の会社で、治験の最初に教えてもらえます。",
+            "timestamp": "2022-08-22T10:58:04.988000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HZ",
+            "text": "国内のワクチン、そろそろ出てきそうですもんね。その治験ですね",
+            "timestamp": "2022-08-22T10:58:23.682000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "はい。既に承認済みのものもあるので、安心です。",
+            "timestamp": "2022-08-22T10:58:39.826000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HZ",
+            "text": "副反応がなくても効くなら、それがいいなあと思います",
+            "timestamp": "2022-08-22T10:58:51.373000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "ネットで探すとでてくると思いますよ。",
+            "timestamp": "2022-08-22T10:59:05.906000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HZ",
+            "text": "ちょっと見てみますね！",
+            "timestamp": "2022-08-22T10:59:12.246000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "はい。おすすめです。",
+            "timestamp": "2022-08-22T10:59:19.925000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

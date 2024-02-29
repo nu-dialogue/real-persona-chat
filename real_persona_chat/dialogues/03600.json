@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3600,
+    "interlocutors": [
+        "EV",
+        "EE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-30T19:45:29.554000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EE",
+            "text": "こんばんは、よろしくお願いいたします。",
+            "timestamp": "2022-08-30T19:45:34.630000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "趣味などあれば教えていただきたいです",
+            "timestamp": "2022-08-30T19:45:39.865000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EE",
+            "text": "スプラトゥーンご存知ですか？",
+            "timestamp": "2022-08-30T19:45:54.882000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "はい、知っています。新作が出たみたいですね",
+            "timestamp": "2022-08-30T19:46:05.686000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EE",
+            "text": "そうなんです。好きで休日はよくやっています。新作が楽しみです。",
+            "timestamp": "2022-08-30T19:46:26.591000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "そうでしたか。ブレイクしたのが受験期だったので、やる機会に嫌われました",
+            "timestamp": "2022-08-30T19:46:56.563000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EE",
+            "text": "それは残念です、新作からでもぜひ",
+            "timestamp": "2022-08-30T19:47:30.249000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "はい、switchを持っていないのでいつになるかは分かりませんがやってみたいです",
+            "timestamp": "2022-08-30T19:47:50.688000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EE",
+            "text": "ゲームはやる方ですか？",
+            "timestamp": "2022-08-30T19:48:15.806000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "はい、結構やる方だと思いますよ",
+            "timestamp": "2022-08-30T19:48:28.579000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EE",
+            "text": "好きなゲームはありますか？",
+            "timestamp": "2022-08-30T19:48:43.105000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "モンハン、ドラクエ、FF7を最近結構やりました。好きなのはスマブラです",
+            "timestamp": "2022-08-30T19:49:09.224000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EE",
+            "text": "モンハンしかかじったことがないです、、スマブラは操作が多くて難しいイメージです",
+            "timestamp": "2022-08-30T19:49:46.774000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "確かにアクション要素が強いかもしれません。モンハンは何をプレイしましたか？",
+            "timestamp": "2022-08-30T19:50:21.739000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EE",
+            "text": "スイッチで最近体験版をやっていたやつです。名前が出てきません、、",
+            "timestamp": "2022-08-30T19:50:57.899000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "ライズですね。結構空中での動きが増えて大変そうです",
+            "timestamp": "2022-08-30T19:51:17.715000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EE",
+            "text": "そうなんですね、とても難しかったです。",
+            "timestamp": "2022-08-30T19:51:44.940000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "はい、かなり難しくなったなと思いますよ",
+            "timestamp": "2022-08-30T19:52:00.251000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EE",
+            "text": "モンハンはカメラワークが難しくて画面酔いしてしまいます",
+            "timestamp": "2022-08-30T19:52:33.463000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうですね。ターゲットの動きが速いのでカメラも速く動きます",
+            "timestamp": "2022-08-30T19:52:58.308000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EE",
+            "text": "そうなんですよ、どこを攻撃しているのか分からなくなってしまいます",
+            "timestamp": "2022-08-30T19:53:17.538000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "そこは難しいですよね。スプラトゥーンのようなシューティングも動きは速いですが",
+            "timestamp": "2022-08-30T19:53:51.541000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EE",
+            "text": "スプラトゥーンもはじめの頃は酔っていたので慣れが大事ですね",
+            "timestamp": "2022-08-30T19:54:21.770000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "はい、そうだと思いますね。",
+            "timestamp": "2022-08-30T19:54:31.924000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EE",
+            "text": "モンハンはどのハードでプレイしているのですか？",
+            "timestamp": "2022-08-30T19:55:02.981000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "PS4です。画質がいいのでかなり気分が良いです",
+            "timestamp": "2022-08-30T19:55:19.352000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EE",
+            "text": "そうなんですね。",
+            "timestamp": "2022-08-30T19:55:55.132000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "昔は3DSでしたが、正直レベルが違うなと",
+            "timestamp": "2022-08-30T19:56:06.839000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EE",
+            "text": "確かに、最近のゲーム機の進歩がすごいです。",
+            "timestamp": "2022-08-30T19:56:27.536000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

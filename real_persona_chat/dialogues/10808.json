@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10808,
+    "interlocutors": [
+        "EZ",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！はじめまして。",
+            "timestamp": "2022-08-16T11:48:27.276000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします！",
+            "timestamp": "2022-08-16T11:48:34.873000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "お盆休みはなにされていましたか？",
+            "timestamp": "2022-08-16T11:48:48.870000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "ミシンでワンピースとバッグを作っていました。",
+            "timestamp": "2022-08-16T11:49:08.842000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "いいですね。それは趣味なんですか？",
+            "timestamp": "2022-08-16T11:49:27.023000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "いいえ、ほとんど気分転換です。あなたは？",
+            "timestamp": "2022-08-16T11:49:40.779000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "私は旅行に行っていました。",
+            "timestamp": "2022-08-16T11:49:55.846000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "素敵ですね！どちらにお出かけですか？",
+            "timestamp": "2022-08-16T11:50:05.107000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "愛媛の道後温泉に行ってきました！人が多かったです。",
+            "timestamp": "2022-08-16T11:50:25.528000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "あの坊ちゃんの道後温泉ですね？",
+            "timestamp": "2022-08-16T11:50:47.034000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "そうです！コロナで入場制限していて、整理券とって並ぶ方式でした。",
+            "timestamp": "2022-08-16T11:51:17.047000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "それは大変でしたね。入場までにずいぶん時間がかかりましたか？",
+            "timestamp": "2022-08-16T11:51:33.859000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですよね。夕方についていったらもう今日は入れないと言われて、結局次の日の朝に行きました。",
+            "timestamp": "2022-08-16T11:52:02.932000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか、大変だったんですね。",
+            "timestamp": "2022-08-16T11:52:30.118000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "大変でした。お盆とコロナが重なってそうなっちゃったみたいですね。",
+            "timestamp": "2022-08-16T11:52:53.641000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "そうですね。結局ついた日は観光をされたのですか？",
+            "timestamp": "2022-08-16T11:53:09.998000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "ついた日はその足で居酒屋に行きました。",
+            "timestamp": "2022-08-16T11:53:39.008000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "なるほど！居酒屋は整理券不要なのですよね。",
+            "timestamp": "2022-08-16T11:53:55.395000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "さすがになかったですね！でも混んでいました。道後温泉には道後ビールなるご当地ビールがあるんですよね。",
+            "timestamp": "2022-08-16T11:54:25.066000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。それを目当てにお客さんがたくさん来ていたのでしょうか？",
+            "timestamp": "2022-08-16T11:54:50.726000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "そうですね！お風呂上がりのビールは最高なので。",
+            "timestamp": "2022-08-16T11:55:11.663000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "ビールはお好きですか？",
+            "timestamp": "2022-08-16T11:55:20.066000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "好きですね。あとは地酒を飲むのも好きですね。",
+            "timestamp": "2022-08-16T11:55:43.637000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。私は苦いものが苦手なので、フルーティーなものなら大丈夫です。",
+            "timestamp": "2022-08-16T11:56:09.349000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "フルーティといえばクラフトビールとかですかね。最近よく見ます。",
+            "timestamp": "2022-08-16T11:56:35.080000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "ベルギービールにフランボワーズ入りのビールがあるのですが、そのようなものでしょうか？",
+            "timestamp": "2022-08-16T11:57:06.931000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "私もあまり詳しくないのですが、とてもたくさんの種類がありますよ。",
+            "timestamp": "2022-08-16T11:57:43.734000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね！一度探してみます。",
+            "timestamp": "2022-08-16T11:57:57.550000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "でも中にはとても苦いのもあるので注意です。苦さ指数みたいなので見れた気がします。",
+            "timestamp": "2022-08-16T11:58:26.554000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "なんと！それなら選べそうです。",
+            "timestamp": "2022-08-16T11:58:34.596000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

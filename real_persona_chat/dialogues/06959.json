@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6959,
+    "interlocutors": [
+        "HU",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HU",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-09T17:29:09.088000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-09T17:29:13.605000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HU",
+            "text": "旅行するなら海、山どちらですか？",
+            "timestamp": "2022-10-09T17:29:29.029000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "海ですね。",
+            "timestamp": "2022-10-09T17:29:40.044000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HU",
+            "text": "それはなぜですか？",
+            "timestamp": "2022-10-09T17:29:48.505000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "お魚が美味しいからです！",
+            "timestamp": "2022-10-09T17:29:59.316000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HU",
+            "text": "魚料理が好きなのですね。",
+            "timestamp": "2022-10-09T17:30:11.259000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "あなたは海と山どちらが好きですか？",
+            "timestamp": "2022-10-09T17:30:22.608000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HU",
+            "text": "どちらも好きなのですが、最近は山を選びがちです。",
+            "timestamp": "2022-10-09T17:30:39.412000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "なぜですか？",
+            "timestamp": "2022-10-09T17:30:46.256000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HU",
+            "text": "自然が多いところに行きたいからです。",
+            "timestamp": "2022-10-09T17:31:00.128000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "山では何するのですか？",
+            "timestamp": "2022-10-09T17:31:13.559000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HU",
+            "text": "だいたい温泉に入ったり、散策したりしています。",
+            "timestamp": "2022-10-09T17:31:32.016000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "温泉いいですよね！",
+            "timestamp": "2022-10-09T17:31:38.429000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HU",
+            "text": "はい。最近遠出できていないので、温泉が恋しいです。",
+            "timestamp": "2022-10-09T17:31:58.541000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "好きな温泉はありますか？",
+            "timestamp": "2022-10-09T17:32:08.243000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HU",
+            "text": "うーん、個性でいうなら新潟の五頭温泉ですね。",
+            "timestamp": "2022-10-09T17:32:45.196000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "行ったことないです！どんな温泉ですか？",
+            "timestamp": "2022-10-09T17:33:02.627000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HU",
+            "text": "ラジウム温泉だった気がします。",
+            "timestamp": "2022-10-09T17:33:16.545000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "泊まりもできるのですか？",
+            "timestamp": "2022-10-09T17:33:27.391000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HU",
+            "text": "できますよ。温泉街があって、いくつか宿があります。",
+            "timestamp": "2022-10-09T17:33:43.226000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "新潟は食べ物も美味しそうだし是非行きたいです。",
+            "timestamp": "2022-10-09T17:34:03.599000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HU",
+            "text": "その時は春先だったので、タケノコの刺身を食べました。",
+            "timestamp": "2022-10-09T17:34:26.807000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "美味しかったですか？",
+            "timestamp": "2022-10-09T17:34:39.211000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HU",
+            "text": "はい、とれたてはえぐみがなくておいしかったです。",
+            "timestamp": "2022-10-09T17:35:02.698000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "新潟はお酒も美味しいイメージです。",
+            "timestamp": "2022-10-09T17:35:18.355000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HU",
+            "text": "日本酒飲みましたよ。美味しかったです。",
+            "timestamp": "2022-10-09T17:35:40.975000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "羨ましいです！",
+            "timestamp": "2022-10-09T17:35:49.270000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HU",
+            "text": "機会があれば是非。",
+            "timestamp": "2022-10-09T17:35:59.054000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "はい！",
+            "timestamp": "2022-10-09T17:36:04.808000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

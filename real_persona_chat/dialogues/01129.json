@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1129,
+    "interlocutors": [
+        "CO",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T06:46:11.873000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T06:46:16.090000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "休日はいつも何をしていますか？",
+            "timestamp": "2022-08-15T06:46:27.526000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "休みの日は、植物の世話をしたりテレビやゲームをしています。<CO>さんは？",
+            "timestamp": "2022-08-15T06:46:50.125000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "私も同じような感じです。観葉植物とかされますか？",
+            "timestamp": "2022-08-15T06:47:09.006000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "大好きです！今も隣にゴムの木がいます。<CO>さんも観葉植物お好きですか？",
+            "timestamp": "2022-08-15T06:47:36.857000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "緑は好きなのですが、むずかしくて。伸びたら切るんですかね？",
+            "timestamp": "2022-08-15T06:48:06.519000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "育てやすいのもいろいろありますよ。かわいそうでなかなか剪定出来ずに何年も経ってしまっています。",
+            "timestamp": "2022-08-15T06:49:04.260000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "パキラは葉が茂りすぎてどうしたものかと思ってます",
+            "timestamp": "2022-08-15T06:49:21.600000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "わあ！！パキラ育ててらっしゃるのですね！うちにもいます。そして同じ葉がしげりすぎ問題です！",
+            "timestamp": "2022-08-15T06:49:49.503000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "困りますね。植え替えをした方がいいのか迷ってます",
+            "timestamp": "2022-08-15T06:50:09.148000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "購入されてからどれくらい立ちましたか？",
+            "timestamp": "2022-08-15T06:51:00.869000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "半年ぐらいですね",
+            "timestamp": "2022-08-15T06:51:17.049000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "それだったらまだ大丈夫だと思いますよ！",
+            "timestamp": "2022-08-15T06:51:50.467000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "そうですか、窮屈そうに見えて。サボテンはすぐおっきくなって植え替えしました",
+            "timestamp": "2022-08-15T06:52:15.049000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "窮屈そうに見えるならまた別問題かも！サボテンもお持ちなんですね！なにサボテンですか？",
+            "timestamp": "2022-08-15T06:52:48.991000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "ウチワサボテンです。徒長ってわかりますか？",
+            "timestamp": "2022-08-15T06:53:12.639000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "ザサボテンて感じのかわいいサボテンですよね！徒長ということはおうちの中で育ててらっしゃるのかな？",
+            "timestamp": "2022-08-15T06:54:23.180000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "はい、何度もそれになってチョキンと切られてます。",
+            "timestamp": "2022-08-15T06:55:06.076000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "わあ！私まだサボテンをチョキンとやったことがなくて！切る時ってどんなこと注意されてますか？",
+            "timestamp": "2022-08-15T06:56:03.315000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "はさみを消毒して、あとできるだけ晴れの日にやってます。昔ミニトマト剪定した時にそれで失敗したので",
+            "timestamp": "2022-08-15T06:56:56.388000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "消毒して晴れの日ですね！うちのも徒長してるのですが枯れちゃうのが怖くてずっと出来ずにいて",
+            "timestamp": "2022-08-15T06:57:36.589000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "結構大事なのですね。最近おかわかめの苗をもらって。おかわかめ、知ってますか？",
+            "timestamp": "2022-08-15T06:58:39.671000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "名前だけ聞いたことあります。どんな植物ですか？",
+            "timestamp": "2022-08-15T06:59:25.622000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "葉っぱが食べたらわかめの味がします",
+            "timestamp": "2022-08-15T06:59:42.184000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "えー！ワカメの味の野菜なのですね！",
+            "timestamp": "2022-08-15T07:00:25.576000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "はい、夏場元気に育ってます。大抵は枯らしてしまうのにしぶといです",
+            "timestamp": "2022-08-15T07:01:09.853000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "<CO>さんが育てるの上手なんだと思いますよ！気になるます！私も食べて見たいです！",
+            "timestamp": "2022-08-15T07:01:58.881000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "おいしいですよ。食べれるもの育てると楽しみが広がりますね",
+            "timestamp": "2022-08-15T07:02:34.481000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "おかわかめ、ぜひ私も来年チャレンジしてみたいです！楽しみの種をくださってありがとうございます！",
+            "timestamp": "2022-08-15T07:03:34.745000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

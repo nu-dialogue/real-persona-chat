@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6358,
+    "interlocutors": [
+        "GT",
+        "CU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-04T18:03:00.010000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-04T18:03:07.512000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "好きな食べ物ありますか？",
+            "timestamp": "2022-10-04T18:03:13.783000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CU",
+            "text": "K-pop好きが高じて、最近は韓国料理が大好きです。",
+            "timestamp": "2022-10-04T18:03:40.216000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "いいですね、よく食べに行くんですか？",
+            "timestamp": "2022-10-04T18:03:54.807000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CU",
+            "text": "食べにも行きますし、家でも食べますね。",
+            "timestamp": "2022-10-04T18:04:13.162000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "自分で作るんですか？",
+            "timestamp": "2022-10-04T18:04:23.186000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CU",
+            "text": "はい、でもスンドゥブの素とか、そういうのを使いますけどね。",
+            "timestamp": "2022-10-04T18:05:07.800000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "便利ですよね、わたしもそれならよくやります。",
+            "timestamp": "2022-10-04T18:05:16.644000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CU",
+            "text": "サムギョプサルって分かりますか？",
+            "timestamp": "2022-10-04T18:05:36.792000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "分かります！つくったことありませんが。",
+            "timestamp": "2022-10-04T18:05:44.055000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CU",
+            "text": "あのお肉につけるサムジャンというタレは、家にある調味料で結構簡単に作れますよ！",
+            "timestamp": "2022-10-04T18:06:09.737000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "例えば何をつかいますか？",
+            "timestamp": "2022-10-04T18:06:23.330000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CU",
+            "text": "味噌とかです。",
+            "timestamp": "2022-10-04T18:06:43.721000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "そうなんですね、それなら絶対ありますね。",
+            "timestamp": "2022-10-04T18:06:58.849000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CU",
+            "text": "そんなんそんなんでできるんですね！",
+            "timestamp": "2022-10-04T18:07:31.561000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "意外とそんなんでできるんですね",
+            "timestamp": "2022-10-04T18:07:42.733000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CU",
+            "text": "はい、あとはサンチュと豚バラと白ネギとか買ってきたら家でできるのでぜひ！",
+            "timestamp": "2022-10-04T18:08:09.145000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "試してみたいです！結構料理するんですか？",
+            "timestamp": "2022-10-04T18:08:25"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CU",
+            "text": "主婦なので料理しますね。",
+            "timestamp": "2022-10-04T18:09:00.973000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "そうなんですね、私も主婦ですがかなり楽してしまっていて。",
+            "timestamp": "2022-10-04T18:09:13.425000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CU",
+            "text": "分かります。献立考えるのがまず大変ですよね。",
+            "timestamp": "2022-10-04T18:09:34.057000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "それ一番時間かかって嫌いです。",
+            "timestamp": "2022-10-04T18:09:39.185000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CU",
+            "text": "私もです。スーパーで頭真っ白になることあります。",
+            "timestamp": "2022-10-04T18:10:06.782000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "あまり事前に考えず、適当に買ったもので作るタイプです。",
+            "timestamp": "2022-10-04T18:10:25.091000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CU",
+            "text": "それができるのはすごいことですよ！",
+            "timestamp": "2022-10-04T18:10:46.387000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "いえいえ、なので思ったものが作れなかったりします。",
+            "timestamp": "2022-10-04T18:10:55.420000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CU",
+            "text": "ははは。でも食べれたらいいですよね。",
+            "timestamp": "2022-10-04T18:11:20.159000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "そう思って、いつも時短で作っていますね。",
+            "timestamp": "2022-10-04T18:11:30.141000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CU",
+            "text": "負担にならないのが一番ですね。",
+            "timestamp": "2022-10-04T18:11:44.680000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1294,
+    "interlocutors": [
+        "AT",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "こんばんはっ、よろしくお願いします。",
+            "timestamp": "2022-08-13T17:41:49.152000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "よろしくお願いします。趣味や好きなことはなんですか？",
+            "timestamp": "2022-08-13T17:42:04.707000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "お酒とスポーツ観戦が好きです。あとはテレビをつけっぱなしにしてたりします。",
+            "timestamp": "2022-08-13T17:42:36.959000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "スポーツは何がお好きですか？",
+            "timestamp": "2022-08-13T17:42:52.138000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "よくテレビでやってるのは野球とサッカーですね。",
+            "timestamp": "2022-08-13T17:43:09.537000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "自分はプロ野球が好きで、観れる時は観てます。",
+            "timestamp": "2022-08-13T17:43:33.533000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "ファンの球団とかありますか？",
+            "timestamp": "2022-08-13T17:44:01.891000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "巨人ファンですが、全体的にプロ野球が好きです。",
+            "timestamp": "2022-08-13T17:44:21.769000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "巨人はテレビでやることが多いので、試合を見る機会は多いです。",
+            "timestamp": "2022-08-13T17:45:08.554000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "昔は北海道で巨人の試合が観れたのですが、今は日ハムなんですよね。",
+            "timestamp": "2022-08-13T17:45:46.461000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "北海道だから日ハムですよね、新庄BIGBOSSはいかがですか？",
+            "timestamp": "2022-08-13T17:46:15.577000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "そうなっちゃいましたね。面白いと思います。彼だからできることがいっぱいある感じですね。",
+            "timestamp": "2022-08-13T17:46:46.393000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "球場に行って試合を観たりはしますか？",
+            "timestamp": "2022-08-13T17:47:12.382000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "球場があるところからはだいぶ遠いので、生で見ることはないですね。",
+            "timestamp": "2022-08-13T17:47:40.635000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "関東はかなりの数の球場がありますが、それでも行くのが面倒でテレビで観てしまいます。",
+            "timestamp": "2022-08-13T17:48:19.978000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "なるほど。昔関東の方に住んでたときは東京ドームや横浜スタジアム行ってました。",
+            "timestamp": "2022-08-13T17:49:01.355000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "ファン同士で盛り上がるの楽しいですよね。",
+            "timestamp": "2022-08-13T17:49:31.761000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "タオル振ったり応援歌歌ったりするの楽しいです。",
+            "timestamp": "2022-08-13T17:49:46.565000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "結構ストレス解消になりますよね、次の日筋肉痛になってたり喉痛かったりします。",
+            "timestamp": "2022-08-13T17:50:52.877000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "そうですね。ただ試合に負けるとすごいストレスです。",
+            "timestamp": "2022-08-13T17:51:20.885000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "それもそうですね、こればっかりは運ですね。",
+            "timestamp": "2022-08-13T17:51:44.865000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "幸いにも生で観た試合は結構勝つので嬉しいんですが、負けるとやっぱり悔しいです。",
+            "timestamp": "2022-08-13T17:52:20.095000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "勝ちやすいピッチャーが投げる時に行くとか日程調整できれば確率は上がるかもですね。",
+            "timestamp": "2022-08-13T17:52:56.661000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "確かに。それができるなら楽しそうです。",
+            "timestamp": "2022-08-13T17:53:26.246000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "あとはテレビでは大リーグの試合も観たりします。",
+            "timestamp": "2022-08-13T17:53:59.193000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "大谷翔平は観ちゃいますよね。",
+            "timestamp": "2022-08-13T17:54:06.471000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "活躍すると自分も嬉しくなります。",
+            "timestamp": "2022-08-13T17:54:19.420000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "イチローもすごかったですが、それを超える印象を残しそうで楽しみです。",
+            "timestamp": "2022-08-13T17:54:50.265000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "100年振りとかスケールが違いますよね、久々に野球の話できて楽しかったです。",
+            "timestamp": "2022-08-13T17:55:19.276000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "本当ですね。そう言っていただけて何よりです。",
+            "timestamp": "2022-08-13T17:55:40.477000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

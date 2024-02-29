@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1044,
+    "interlocutors": [
+        "CN",
+        "AV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T19:44:44.843000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AV",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-11T19:44:48.060000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "最近どこか出かけました？",
+            "timestamp": "2022-08-11T19:44:50.513000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AV",
+            "text": "最近はもっぱらキャンプばっかりですね。",
+            "timestamp": "2022-08-11T19:45:03.353000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "キャンプいいですね！どこのキャンプ場行くんですか？",
+            "timestamp": "2022-08-11T19:45:23.427000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AV",
+            "text": "わたしは関西に住んでいるので２時間くらいで行けるところが多いですね。",
+            "timestamp": "2022-08-11T19:45:53.799000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "関西だとちょっと車を走らせると結構山がありますよね。",
+            "timestamp": "2022-08-11T19:46:24.543000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AV",
+            "text": "そうですね。主に高原へ行くことが多いです。涼しいですし。",
+            "timestamp": "2022-08-11T19:46:49.408000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "この時期は涼しいところがいいですよね。BBQすると熱くなっちゃいますが。",
+            "timestamp": "2022-08-11T19:47:09.003000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AV",
+            "text": "バーベキューはもうあまりしなくなりました。この時期はそうめんが多いです。",
+            "timestamp": "2022-08-11T19:47:28.008000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "涼しげでいいですね！キャンプ場によっては流しそうめんできたりしますよね",
+            "timestamp": "2022-08-11T19:47:55.438000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AV",
+            "text": "竹で作った流しそうめんの機材があるのでそれ車に積んでいきます。",
+            "timestamp": "2022-08-11T19:48:21.464000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "えっ、自分で作られたんですか？",
+            "timestamp": "2022-08-11T19:48:37.453000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AV",
+            "text": "あ、夫が作りました。あなたはキャンプされますか？",
+            "timestamp": "2022-08-11T19:48:53.816000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "子供のころにいったきりですね。",
+            "timestamp": "2022-08-11T19:49:06.633000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AV",
+            "text": "いいなー！わたしは子供の頃にキャンプは行ったことなかったので。思い出になってますか？",
+            "timestamp": "2022-08-11T19:49:30.993000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "けっこういい思い出になってますね。カレー作った記憶があります。",
+            "timestamp": "2022-08-11T19:49:47.577000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AV",
+            "text": "定番ですねー！飯盒炊爨！なんかワクワクしますよね。",
+            "timestamp": "2022-08-11T19:50:04.824000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "そうですよね！",
+            "timestamp": "2022-08-11T19:50:28.307000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AV",
+            "text": "野外で食べる料理ってとっても美味しいですから。",
+            "timestamp": "2022-08-11T19:50:50.139000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "そうですね。それに火をおこすとかも普段しないのでいい体験になります",
+            "timestamp": "2022-08-11T19:51:19.004000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AV",
+            "text": "炎を見るとなんだか落ち着きませんか？",
+            "timestamp": "2022-08-11T19:51:37.448000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "分かります。焚火とかキャンプファイヤーいいですよね！",
+            "timestamp": "2022-08-11T19:51:52.097000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AV",
+            "text": "コロナがまだ未知のウイルスで自宅にこもっていたころYouTubeで炎がゆらめく動画ばっかり見ていました。",
+            "timestamp": "2022-08-11T19:52:35.250000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "そういう動画ありますね。ろうそくとかランタンのも好きです。",
+            "timestamp": "2022-08-11T19:52:50.736000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AV",
+            "text": "ろうそくも落ち着きますよねー。",
+            "timestamp": "2022-08-11T19:53:03.894000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "いいですよね。小さく揺らめくの見てると落ち着きます",
+            "timestamp": "2022-08-11T19:53:22.095000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AV",
+            "text": "それで、友人と会話とかしたら絶対楽しい！",
+            "timestamp": "2022-08-11T19:53:48.737000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "ああ、いい晩になりますね！",
+            "timestamp": "2022-08-11T19:54:04.741000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AV",
+            "text": "また行きたくなってきました！",
+            "timestamp": "2022-08-11T19:54:16.130000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10547,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-13T23:03:54.017000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-13T23:04:02.088000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "今日の晩御飯は何を食べましたか？",
+            "timestamp": "2022-08-13T23:04:19.544000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "辛いラーメンを食べました",
+            "timestamp": "2022-08-13T23:04:33.645000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "辛いのがお好きなんですか？",
+            "timestamp": "2022-08-13T23:04:44.701000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "辛いものばっかり食べちゃいます",
+            "timestamp": "2022-08-13T23:04:54.627000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "夏は食べたくなりますよね",
+            "timestamp": "2022-08-13T23:05:07.370000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "芦川さんは辛いものお好きですか？",
+            "timestamp": "2022-08-13T23:05:22.789000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "どちらかというと甘いもののほうが好きかもしれないです",
+            "timestamp": "2022-08-13T23:05:46.523000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "甘いものの中だと何が好きですか？",
+            "timestamp": "2022-08-13T23:06:02.078000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "チョコレートが好きです！",
+            "timestamp": "2022-08-13T23:06:19.283000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "おいしいですよね。バレンタインの時期とか天国なのでは？",
+            "timestamp": "2022-08-13T23:06:39.161000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "自分用に買っちゃいますね。それで数万円使ったり。",
+            "timestamp": "2022-08-13T23:07:01.377000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "結構しますもんね、バレンタインのチョコ",
+            "timestamp": "2022-08-13T23:07:14.744000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよ。ひと箱3000円以上とかざらです。",
+            "timestamp": "2022-08-13T23:07:50.258000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "日本酒が入ったチョコレートがあるみたいで、いつか食べてみたいです",
+            "timestamp": "2022-08-13T23:08:27.426000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "ありますね。獺祭とかですか？",
+            "timestamp": "2022-08-13T23:08:44.974000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "そうですそうです。ちょっと高くて毎回悩んでやめてます",
+            "timestamp": "2022-08-13T23:09:13.970000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "あれ食べたことありますよ、日本酒お好きなら気に入るとおもいます",
+            "timestamp": "2022-08-13T23:09:50.719000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "本当ですか？次は買おうかなぁ",
+            "timestamp": "2022-08-13T23:10:04.585000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "たしかにちょっとお高いですけどね",
+            "timestamp": "2022-08-13T23:10:19.442000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "チョコにこの値段かぁって思っちゃいます",
+            "timestamp": "2022-08-13T23:10:53.759000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "そうですよね。日本酒がお好きなんですか？",
+            "timestamp": "2022-08-13T23:11:17.500000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "はい、割と飲みます。梅酒のほうが好きです。",
+            "timestamp": "2022-08-13T23:11:39.083000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "梅酒は私も好きです。チョコともあいますよ。",
+            "timestamp": "2022-08-13T23:11:57.476000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "あんまりあわせたことなかったです！",
+            "timestamp": "2022-08-13T23:12:09.473000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "ぜひ試してみてください！",
+            "timestamp": "2022-08-13T23:12:43.335000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "やってみますね",
+            "timestamp": "2022-08-13T23:12:51.564000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "はい！ではそろそろ失礼しますね",
+            "timestamp": "2022-08-13T23:13:02.492000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-13T23:13:16.686000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

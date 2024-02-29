@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1953,
+    "interlocutors": [
+        "CI",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします",
+            "timestamp": "2022-08-17T23:30:46.502000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "よろしくお願いいたします！",
+            "timestamp": "2022-08-17T23:30:54.776000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "この夏はどこかにお出かけのご予定はありますか？",
+            "timestamp": "2022-08-17T23:31:05.478000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "今年はまだどこも行ってませんね。近場の温泉とかに行きたいです",
+            "timestamp": "2022-08-17T23:31:28.323000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "近場に温泉があるんですか？",
+            "timestamp": "2022-08-17T23:31:39.910000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "近場でもないですね。でも関西圏にはいくつかあります",
+            "timestamp": "2022-08-17T23:31:55.756000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "関西の温泉、良さそうですね。お気に入りの所などありますか？",
+            "timestamp": "2022-08-17T23:32:19.173000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "関西ならおすすめは城崎ですね",
+            "timestamp": "2022-08-17T23:32:58.842000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "城崎行ったことあります！すごく素敵でした！",
+            "timestamp": "2022-08-17T23:33:15.878000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "ありますか？温泉街とかいいかんじでした",
+            "timestamp": "2022-08-17T23:33:35.509000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "そうです！温泉街が素敵で。ついついお買い物もしちゃいました。",
+            "timestamp": "2022-08-17T23:33:49.339000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "いいですよね。雰囲気があって色々周辺でも楽しめたと思います。和歌山もよかったかな",
+            "timestamp": "2022-08-17T23:34:19.712000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "和歌山は行った事がないので行ってみたいです。",
+            "timestamp": "2022-08-17T23:34:37.515000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "白浜ってとこですが海を見ながら温泉に入れます",
+            "timestamp": "2022-08-17T23:34:53.356000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "白浜、名前はよく聞きます！海見ながらの温泉、最高ですね。",
+            "timestamp": "2022-08-17T23:35:18.933000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "ロケーションよかったですね。温泉は行かれますか？",
+            "timestamp": "2022-08-17T23:35:40.364000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "行った先にあったら入る感じですけど、温泉は好きです！",
+            "timestamp": "2022-08-17T23:36:10.114000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "これまで行って良かったとこどこですか？",
+            "timestamp": "2022-08-17T23:36:29.713000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "やはり城崎が良かったですけど、あと宍道湖の温泉もよかったです。",
+            "timestamp": "2022-08-17T23:37:21.169000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "しんじこですか？そこは知りませんでした",
+            "timestamp": "2022-08-17T23:38:45.115000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "そこも、お風呂から湖が見える所で景色がよかったです。",
+            "timestamp": "2022-08-17T23:39:18.401000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "へえ、島根県ですか？興味深いですね",
+            "timestamp": "2022-08-17T23:39:41.336000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "家族が鉄ヲタで、その行程でたまたま寄った所だったんですけど、よかったです！",
+            "timestamp": "2022-08-17T23:40:19.959000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "へえ、そうなんですね。偶然見つけたなら価値ありますね！",
+            "timestamp": "2022-08-17T23:40:56.672000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "家族の趣味に振り回されるのもたまには悪くないな、と思いました。",
+            "timestamp": "2022-08-17T23:41:23.319000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "なるほど、それまでは振り回されてたわけですね。家族サービスですね",
+            "timestamp": "2022-08-17T23:41:47.478000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "乗って移動だけで観光なし、とか結構ありましたね。",
+            "timestamp": "2022-08-17T23:42:12.345000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "それはつらいかも、鉄ヲタには普通なんですね",
+            "timestamp": "2022-08-17T23:42:55.175000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "ですね、よく見かける、一番先頭の所にベターっと張り付いてるのが標準みたいです。",
+            "timestamp": "2022-08-17T23:43:36.158000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "なるほど。それは見たことあります。私も家族サービス頑張ります",
+            "timestamp": "2022-08-17T23:43:56.838000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

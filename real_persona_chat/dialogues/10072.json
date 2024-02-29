@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10072,
+    "interlocutors": [
+        "CY",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CY",
+            "text": "こんばんは！お願いします。",
+            "timestamp": "2022-08-10T21:46:51.424000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "こんばんは、よろしくねー！",
+            "timestamp": "2022-08-10T21:47:18.209000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CY",
+            "text": "今日は何をしましたか？",
+            "timestamp": "2022-08-10T21:47:12.916000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "今日は、お買い物行ってました！",
+            "timestamp": "2022-08-10T21:47:20.005000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CY",
+            "text": "いいですね！何か買いましたか？",
+            "timestamp": "2022-08-10T21:47:32.951000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "日用品ばっかりなんですが、ペットフードが割引きしてて。",
+            "timestamp": "2022-08-10T21:47:50.860000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CY",
+            "text": "ペット飼っているんですね。何を飼っているんですか？",
+            "timestamp": "2022-08-10T21:48:13.310000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "うちにはいないんですが、兄のところの猫さんのために。買いだめしました。",
+            "timestamp": "2022-08-10T21:48:31.160000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CY",
+            "text": "猫さんかー！かわいいんでしょうね。いいなあ。",
+            "timestamp": "2022-08-10T21:48:58.900000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "ツンデレですけどね。おまえなんて知らないよって顔されます。",
+            "timestamp": "2022-08-10T21:49:16.860000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CY",
+            "text": "あらら。お兄さんのおうちに会いに行くんですか？",
+            "timestamp": "2022-08-10T21:49:38.278000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "はい。時々遊びに行きます。最初はすごくよそよそしい。",
+            "timestamp": "2022-08-10T21:50:06.429000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CY",
+            "text": "そうなんですね。結構長く飼われてるんですか？",
+            "timestamp": "2022-08-10T21:50:33.790000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "もう７年ぐらいかな。けっこう長いかも。",
+            "timestamp": "2022-08-10T21:50:49.834000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CY",
+            "text": "それは長いですね。すっかり家主になってそうです。",
+            "timestamp": "2022-08-10T21:51:34.413000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "確かに。一番偉いかも。動物お好きですか？",
+            "timestamp": "2022-08-10T21:51:53.985000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CY",
+            "text": "はい。でも家族に動物アレルギーの者がいるので飼ったことはないんです。",
+            "timestamp": "2022-08-10T21:52:17.769000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "じゃあもし飼えるなら、どんな動物飼いたいですか？",
+            "timestamp": "2022-08-10T21:52:44.057000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CY",
+            "text": "この前エリマキトカゲの動画を見て、かわいいなと思いました。",
+            "timestamp": "2022-08-10T21:53:11.092000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "へえ！爬虫類お好きなんですか？",
+            "timestamp": "2022-08-10T21:53:22.826000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CY",
+            "text": "全然関係ないかもですが恐竜が好きなので、なんだか似ているなと思います。",
+            "timestamp": "2022-08-10T21:54:02.210000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "なるほど。恐竜似てますよね。じゃあワニとかもお好きですか？",
+            "timestamp": "2022-08-10T21:54:16.921000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CY",
+            "text": "ワニは遠くから見ているのは好きです。近くでみるとやっぱり怖い…",
+            "timestamp": "2022-08-10T21:54:50.626000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "あはは。ちなみに、一番の推し恐竜とかいるんですか？",
+            "timestamp": "2022-08-10T21:55:15.214000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CY",
+            "text": "海にいるモササウルスご存じでしょうか。あの王者感がかっこよくて大好きです。",
+            "timestamp": "2022-08-10T21:55:59.385000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "わからないですが、サメの恐竜版みたいなイメージでしょうか？",
+            "timestamp": "2022-08-10T21:56:32.940000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CY",
+            "text": "そんな感じです。とにかく強い。元々陸地の恐竜が海に進出したらしいです。",
+            "timestamp": "2022-08-10T21:57:09.377000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "へえ！海に移住したんだ。",
+            "timestamp": "2022-08-10T21:57:25.339000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CY",
+            "text": "陸地はエサの競争率が高いのでね。海はそれより低かったみたいです。",
+            "timestamp": "2022-08-10T21:57:52.785000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "すごく興味深い話です。今度調べてみます！",
+            "timestamp": "2022-08-10T21:58:06.691000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

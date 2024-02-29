@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 956,
+    "interlocutors": [
+        "CO",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-11T10:00:04.952000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-11T10:00:12.236000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "今日は何時に起きましたか？",
+            "timestamp": "2022-08-11T10:00:20.883000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "朝5時です",
+            "timestamp": "2022-08-11T10:00:35.936000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "早いですね。いつもそうですか？",
+            "timestamp": "2022-08-11T10:00:47.084000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "職場までが遠いので、いつもこの時間です",
+            "timestamp": "2022-08-11T10:01:07.722000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "どれくらい職場までかかりますか？",
+            "timestamp": "2022-08-11T10:01:17.914000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "朝は、２時間10分、帰りは2時間半～2時間50分ほどでしょうか",
+            "timestamp": "2022-08-11T10:02:01.875000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "すごいですね。それは早くなりますね",
+            "timestamp": "2022-08-11T10:02:16.639000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "そうですね。眠気がすごいですけど",
+            "timestamp": "2022-08-11T10:02:41.961000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "車ですか？通勤。",
+            "timestamp": "2022-08-11T10:03:05.152000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "いえ、電車です",
+            "timestamp": "2022-08-11T10:03:22.309000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "なるほど。その時間があれば何かに使えそうですね",
+            "timestamp": "2022-08-11T10:03:44.200000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、もっと睡眠にあてたいです",
+            "timestamp": "2022-08-11T10:04:00.553000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "近くに引っ越しは考えますか？",
+            "timestamp": "2022-08-11T10:04:15.957000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "はい、すぐにでもしたいのですが、家族の了承が得られないので保留中です",
+            "timestamp": "2022-08-11T10:04:55.950000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "なるほど。すぐに引っ越すわけにはいきませんね",
+            "timestamp": "2022-08-11T10:05:24.834000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、そちらはどうですか？",
+            "timestamp": "2022-08-11T10:05:53.261000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "私は近いですよ。",
+            "timestamp": "2022-08-11T10:06:02.573000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "どのくらい時間かかりますか？",
+            "timestamp": "2022-08-11T10:06:22.990000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "２０分以内でつきます。自転車で",
+            "timestamp": "2022-08-11T10:07:09.799000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "それは近いですね",
+            "timestamp": "2022-08-11T10:07:27.303000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "自分の場所から仮に２時間だとなると県外ですよね。ちょっと大変です",
+            "timestamp": "2022-08-11T10:08:01.046000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "埼玉の西側から、東京内部まで進むので",
+            "timestamp": "2022-08-11T10:08:30.074000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "なるほど。テレ東でそんな番組やってましたね。家までどれぐらいかかるか",
+            "timestamp": "2022-08-11T10:09:05.227000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "そんな番組があるんですか？内容はどうでしたか？",
+            "timestamp": "2022-08-11T10:09:40.049000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "面白かったです。皆さん通うそれなりの理由がありました",
+            "timestamp": "2022-08-11T10:10:20.135000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "皆さんは長時間通勤だったんです？",
+            "timestamp": "2022-08-11T10:10:43.385000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "３時間とか余裕だった気がします",
+            "timestamp": "2022-08-11T10:11:03.137000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "ほげー、凄いですね",
+            "timestamp": "2022-08-11T10:11:27.944000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

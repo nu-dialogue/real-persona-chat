@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7710,
+    "interlocutors": [
+        "AI",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "こんばんわ",
+            "timestamp": "2022-08-04T23:38:36.790000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-04T23:38:39.370000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "日課にしていることとかありますか",
+            "timestamp": "2022-08-04T23:38:42.948000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "そうですね、最近は少しでもとストレッチをしてます。",
+            "timestamp": "2022-08-04T23:38:54.546000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "おおいいですね、ダイエット目的、それとも健康維持",
+            "timestamp": "2022-08-04T23:39:09.785000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "来週、健診なんですよ。恐怖です",
+            "timestamp": "2022-08-04T23:39:23.124000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "なぜ恐怖なのですか、健診が",
+            "timestamp": "2022-08-04T23:39:38.913000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "体重が、減らなくて。",
+            "timestamp": "2022-08-04T23:39:52.847000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "ほうほう、これは興味深い話だなあ",
+            "timestamp": "2022-08-04T23:40:11.527000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "え、なんでですか？",
+            "timestamp": "2022-08-04T23:40:23.377000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "今私の周りには、体重が増えなくて困っている人が多数派なので",
+            "timestamp": "2022-08-04T23:40:41.567000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "なんと。私の体重をあげたいくらいですよ。",
+            "timestamp": "2022-08-04T23:40:57.452000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "これについてはまじめな回答をしましょうかね",
+            "timestamp": "2022-08-04T23:41:22.661000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "なんだか、エキスパートみたいな。専門家なんですか？",
+            "timestamp": "2022-08-04T23:41:43.175000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "割とガチですよ、体脂肪率の鬼",
+            "timestamp": "2022-08-04T23:42:00.752000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "ひえ、脱帽",
+            "timestamp": "2022-08-04T23:42:11.519000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "男性だと20% 女性だと25%に境がある。上か下かだけお応えください",
+            "timestamp": "2022-08-04T23:42:41.438000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "あああああああああああ、上ですね",
+            "timestamp": "2022-08-04T23:42:50.197000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "だったら簡単、食事制限と有酸素です。以上で体重も体脂肪も落ちます",
+            "timestamp": "2022-08-04T23:43:18.163000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "縄跳び運動をしているつもりなんですが",
+            "timestamp": "2022-08-04T23:43:48.418000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "まずは食事制限です。これが９０％。運動はモチベ維持程度",
+            "timestamp": "2022-08-04T23:44:10.766000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "食事制限。野菜メインでということでしょうか。",
+            "timestamp": "2022-08-04T23:44:31.101000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "炭水化物どれくらいとってますか、ご飯とかパンとか",
+            "timestamp": "2022-08-04T23:44:47.783000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "パンは食べてなくて、サブでごはん、メインは麺です。うどんですね",
+            "timestamp": "2022-08-04T23:45:15.232000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "それを３か月、朝昼茶碗半分、夜無し。かわりに肉か魚はがっつりとってみてください",
+            "timestamp": "2022-08-04T23:45:58.951000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "なるほど、炭水化物を本当に控えめにするということですね。",
+            "timestamp": "2022-08-04T23:46:37.374000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "３か月だけですよ。やりすぎちゃダメです。それで一か月体重の３％以内の減量ができます",
+            "timestamp": "2022-08-04T23:47:10.861000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "そんなになんですか。そして3か月だけという決まり？もあるんですね。恒常的なものかと。",
+            "timestamp": "2022-08-04T23:47:54.229000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "はい、炭水化物制限は反動もきついので。ゆっくり少しずつがコツです",
+            "timestamp": "2022-08-04T23:48:20.738000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "なるほど、とても勉強になります。",
+            "timestamp": "2022-08-04T23:48:45.735000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

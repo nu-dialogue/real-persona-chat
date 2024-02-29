@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1905,
+    "interlocutors": [
+        "CK",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CK",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-17T09:17:05.300000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "こんにちはー！どうもー！",
+            "timestamp": "2022-08-17T09:17:15.123000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CK",
+            "text": "何か動物を飼ってらっしゃいますか？",
+            "timestamp": "2022-08-17T09:17:23.208000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "今はいないんですが、以前は犬を飼っていました。",
+            "timestamp": "2022-08-17T09:17:38.835000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CK",
+            "text": "そうなんですね。旅行の時とかどうされていましたか？",
+            "timestamp": "2022-08-17T09:17:58.151000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "家族がいるので、家族旅行はなしで、個人旅行って感じでしたね。",
+            "timestamp": "2022-08-17T09:18:24.833000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CK",
+            "text": "なるほどー。うちには猫がいまして",
+            "timestamp": "2022-08-17T09:18:42.415000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。",
+            "timestamp": "2022-08-17T09:18:50.773000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CK",
+            "text": "初めて二泊三日家族旅行に。大丈夫だと思うんですが心配で",
+            "timestamp": "2022-08-17T09:19:09.490000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "猫さんはホテルか何かに預けて？",
+            "timestamp": "2022-08-17T09:19:23.925000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CK",
+            "text": "いえ、家でお留守番です。",
+            "timestamp": "2022-08-17T09:19:33.125000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "じゃあ、誰かに来てもらってご飯の支度してもらうって感じなんですか？",
+            "timestamp": "2022-08-17T09:19:51.590000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CK",
+            "text": "いえ、多めに用意したり自動餌やり機とか使います。",
+            "timestamp": "2022-08-17T09:20:10.742000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "ほうほう。猫さんはそれでも大丈夫なものなのですかね？",
+            "timestamp": "2022-08-17T09:20:23.708000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CK",
+            "text": "他の人や場所が変わるのが一番ストレスなんで、家にいるのが良いみたいです",
+            "timestamp": "2022-08-17T09:20:42.063000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "意外と、お留守番は猫が得意で、犬が苦手って聞いたことがあります。",
+            "timestamp": "2022-08-17T09:21:02.918000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CK",
+            "text": "普段は平気なんですが、２泊は長いなーと",
+            "timestamp": "2022-08-17T09:21:20.710000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "ちょっと心配ですね。",
+            "timestamp": "2022-08-17T09:21:30.414000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CK",
+            "text": "結構寂しがりなんで",
+            "timestamp": "2022-08-17T09:21:37.714000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "うちの夫、実家で猫飼ってるんですが、両親が旅行の時だけ里帰りしてます。",
+            "timestamp": "2022-08-17T09:22:11.339000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CK",
+            "text": "懐いてますか？",
+            "timestamp": "2022-08-17T09:22:20.158000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "そうですね。夫が実家に帰って面倒見てますね。猫は最初ちょっと人見知りするらしいです。",
+            "timestamp": "2022-08-17T09:22:42.378000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CK",
+            "text": "慣れて遊べるくらいなら良いですね。",
+            "timestamp": "2022-08-17T09:23:03.750000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "はい。ご飯を食べているところを見守って欲しい子らしいです。",
+            "timestamp": "2022-08-17T09:23:32.844000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CK",
+            "text": "ははは！可愛いなー",
+            "timestamp": "2022-08-17T09:23:44.426000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "人間よ、そこで見ているのだ！という感じなんでしょうかね。",
+            "timestamp": "2022-08-17T09:23:59.121000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CK",
+            "text": "なんの欲求",
+            "timestamp": "2022-08-17T09:24:06.429000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "猫様なので。夫の家全員、猫に激甘なんですよ。あはは。",
+            "timestamp": "2022-08-17T09:24:34.236000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CK",
+            "text": "わかりますとも。同士ですから！",
+            "timestamp": "2022-08-17T09:24:43.001000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "猫様の輪ですね！",
+            "timestamp": "2022-08-17T09:24:54.966000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

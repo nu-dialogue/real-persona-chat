@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4433,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T18:16:27.223000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T18:16:34.248000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-17T18:16:39.571000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "お願いします",
+            "timestamp": "2022-09-17T18:16:48.037000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "今欲しいものはありますか？",
+            "timestamp": "2022-09-17T18:17:03.029000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "空気清浄機が欲しいです",
+            "timestamp": "2022-09-17T18:17:15.466000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "空気清浄機は私も欲しいです",
+            "timestamp": "2022-09-17T18:17:35.054000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "置き場所がなくてなかなか買えないんですよ",
+            "timestamp": "2022-09-17T18:17:53.458000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "スリムタイプとかどうですか？",
+            "timestamp": "2022-09-17T18:18:15.131000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "スリムタイプとかあるんですか？",
+            "timestamp": "2022-09-17T18:18:34.780000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "多分あると思います。ただ性能が落ちるのかもしれませんが・・・",
+            "timestamp": "2022-09-17T18:18:55.553000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "スリムタイプかー、それならスペースありそうです",
+            "timestamp": "2022-09-17T18:19:31.574000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "買っちゃいましょう！",
+            "timestamp": "2022-09-17T18:19:39.350000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "家電屋に行ってきます",
+            "timestamp": "2022-09-17T18:19:52.575000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "私は猫の乾燥機が欲しいです",
+            "timestamp": "2022-09-17T18:20:15.399000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "なんですかそれ？",
+            "timestamp": "2022-09-17T18:20:25.099000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "箱に入れておけば風が出て猫を乾かせる家電があるんですよ",
+            "timestamp": "2022-09-17T18:20:46.777000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "へー、画期的ですね",
+            "timestamp": "2022-09-17T18:21:05.687000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "7万近くするみたいです",
+            "timestamp": "2022-09-17T18:21:19.502000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "高いですね…",
+            "timestamp": "2022-09-17T18:21:32.447000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "うちの猫ドライヤー嫌がって暴れるので、あったらいいなーと思うんですよね",
+            "timestamp": "2022-09-17T18:21:58.758000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "暴れちゃうのは大変ですね。",
+            "timestamp": "2022-09-17T18:22:18.405000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "引っかかれたりするのでほんと大変なんです。",
+            "timestamp": "2022-09-17T18:22:37.907000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "逃げたら部屋びしょびしょになりそうですね",
+            "timestamp": "2022-09-17T18:22:56.047000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "なりますね。それは全力で回避してます。",
+            "timestamp": "2022-09-17T18:23:12.486000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "良い空気清浄機も7万くらいはしそうです",
+            "timestamp": "2022-09-17T18:24:08.613000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "相場がわからないですが、確かにそれくらいしそうですね",
+            "timestamp": "2022-09-17T18:24:27.061000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "そうですよね。高いなぁ。",
+            "timestamp": "2022-09-17T18:24:42.824000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "仕事頑張るしかないですね",
+            "timestamp": "2022-09-17T18:24:54.158000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "そうですねー",
+            "timestamp": "2022-09-17T18:25:01.883000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

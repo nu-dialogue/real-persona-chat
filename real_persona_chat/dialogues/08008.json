@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8008,
+    "interlocutors": [
+        "AO",
+        "EC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんばんは。はじめまして。",
+            "timestamp": "2022-08-04T21:54:45.961000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EC",
+            "text": "こんばんは！よろしくおねがいします",
+            "timestamp": "2022-08-04T21:54:53.388000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "最近、遊園地や動物園に行く機会ってありましたか？",
+            "timestamp": "2022-08-04T21:55:14.828000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EC",
+            "text": "動物園は近いんでよく行くんですが、遊園地はしばらく行っていないです。",
+            "timestamp": "2022-08-04T21:55:33.700000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "動物園、近いんですか！いいなー。",
+            "timestamp": "2022-08-04T21:55:43.633000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EC",
+            "text": "小さめの動物園ですが。",
+            "timestamp": "2022-08-04T21:56:10.346000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "小さい方が、ふれあいコーナーとかありそうですね。",
+            "timestamp": "2022-08-04T21:56:20.425000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EC",
+            "text": "あります！ただ、コロナの影響で今は休止中なんです",
+            "timestamp": "2022-08-04T21:56:40.434000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "あー、それは残念！ふれあいコーナーはどんな動物が？",
+            "timestamp": "2022-08-04T21:56:52.053000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EC",
+            "text": "モルモットとウサギの触れ合いコーナーと羊の餌やりがあります",
+            "timestamp": "2022-08-04T21:57:15.429000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "羊の餌やりって、ちょっとめずらしいですね！",
+            "timestamp": "2022-08-04T21:57:25.725000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EC",
+            "text": "そうですか？じゃあ、ヤギだったかもしれません。",
+            "timestamp": "2022-08-04T21:57:56.039000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "ヤギと羊って同じような目をしてますよね。",
+            "timestamp": "2022-08-04T21:58:06.215000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EC",
+            "text": "してます。よく見ると怖いですよね",
+            "timestamp": "2022-08-04T21:58:18.179000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "はい、怖いです。ヤギだとヤギミルクも飲めるのかな？",
+            "timestamp": "2022-08-04T21:58:33.951000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EC",
+            "text": "飲めるかもしれないですね。どんな味だろう、飲んだことありますか？",
+            "timestamp": "2022-08-04T21:59:00.066000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "ないです。でもクセがすごそうです。",
+            "timestamp": "2022-08-04T21:59:09.832000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EC",
+            "text": "ですよね。飲むの怖いです。",
+            "timestamp": "2022-08-04T21:59:37.294000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "ヤギのチーズもかなり臭いと聞いたことがあります。",
+            "timestamp": "2022-08-04T21:59:49.127000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EC",
+            "text": "そうなんですねー！臭いチーズ、怖いです。",
+            "timestamp": "2022-08-04T22:00:24.825000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "チーズはあまりお好きじゃないんですか？",
+            "timestamp": "2022-08-04T22:00:35.875000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EC",
+            "text": "好きですが、ナチュラルチーズとかモッツアレラとかクセのないチーズが好きです。",
+            "timestamp": "2022-08-04T22:01:01.070000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "さっぱりしてるやつですよね！しかもスーパーで買えますしね。",
+            "timestamp": "2022-08-04T22:01:30.882000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EC",
+            "text": "そうなんです。値段もお手頃だし買いやすいです。クセのあるチーズもお好きですか？",
+            "timestamp": "2022-08-04T22:02:05.314000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "好きですねー。お酒を飲む方なので、クセがあるほうがツマミになります。",
+            "timestamp": "2022-08-04T22:02:28.398000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EC",
+            "text": "特にお好きなチーズはなんですか？",
+            "timestamp": "2022-08-04T22:02:55.303000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "青カビとか生えていると、つい買っちゃいます。",
+            "timestamp": "2022-08-04T22:03:14.463000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EC",
+            "text": "青かび、挑戦したことないので挑戦してみようかな",
+            "timestamp": "2022-08-04T22:03:30.172000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "なかなかクセがすごいので、少量ずつチャレンジしてみてください！",
+            "timestamp": "2022-08-04T22:03:50.893000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EC",
+            "text": "はい、やってみます！ありがとうございました",
+            "timestamp": "2022-08-04T22:04:03.716000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

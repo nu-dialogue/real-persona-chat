@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4759,
+    "interlocutors": [
+        "FS",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-16T15:43:39.158000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-16T15:43:45.465000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "音楽は何を聞かれますか？",
+            "timestamp": "2022-09-16T15:44:01.337000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "音楽とても好きで、ジャンルレスです。ロックからクラシックまでいろんなのを聴きます。",
+            "timestamp": "2022-09-16T15:44:33.793000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "何かサブスクなどで聞かれてるんですか？",
+            "timestamp": "2022-09-16T15:45:08.471000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "Spotifyでだらだら流してますね。ラジオも聞きます。",
+            "timestamp": "2022-09-16T15:45:39.395000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "Spotifyって月額で聞き放題ですか？",
+            "timestamp": "2022-09-16T15:46:25.549000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "私は無料のを使ってます。ＡＩスピーカーで聴いてます。",
+            "timestamp": "2022-09-16T15:47:33.161000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "無料でも聞けるんですね！無知ですみませんが、AIスピーカーってどんなのですか？",
+            "timestamp": "2022-09-16T15:48:10.393000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "ＡＩスピーカーは声で操作が出来るスピーカーです。便利ですよ！",
+            "timestamp": "2022-09-16T15:49:00.882000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "便利ですね！反応は良いですか？",
+            "timestamp": "2022-09-16T15:49:33.424000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "はい。ｓｉｒｉより断然反応いいです。音楽かけて、とかの声掛けで曲が流れ始めます。",
+            "timestamp": "2022-09-16T15:50:50.476000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "そんなのがあるんですね。高そうです。電気屋さんで購入されたんですか？",
+            "timestamp": "2022-09-16T15:51:53.353000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "ビックカメラで一万円くらいで買いました。ミニサイズはもっと安かったと思います。",
+            "timestamp": "2022-09-16T15:52:46.646000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "音楽はこの曲とかって指定できるんですか？",
+            "timestamp": "2022-09-16T15:53:42.461000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "Spotifyでプレミアム会員なら曲や歌手を選べるんですが無料だと近いジャンルのがランダムにです。",
+            "timestamp": "2022-09-16T15:54:54.848000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "近いジャンルを選んでくれるのすごいですね！聞いたことないのもかけてもらえて、そのほうが良いかもです。",
+            "timestamp": "2022-09-16T15:56:42.089000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "ですね。知らないアーチストに出会うことも出来るので面白いです。",
+            "timestamp": "2022-09-16T15:57:06.617000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "ラジオもそのスピーカーで聞けるんですか？",
+            "timestamp": "2022-09-16T15:58:06.364000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "はい、実は今のこの時間も声でラジオをかけてもらいました。",
+            "timestamp": "2022-09-16T15:58:27.365000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "手で作業しながらでもかけられるの本当に便利ですね。好きなラジオは何ですか？",
+            "timestamp": "2022-09-16T15:59:19.275000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "ですね。天気予報やタイマーなど手を離せなくても話してくれるので助かります。J-WEVE好きです。",
+            "timestamp": "2022-09-16T16:00:23.275000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "えっ、そんなことも出来るんですね。スピーカーなのになぜ天気予報を知っているんでしょう、、",
+            "timestamp": "2022-09-16T16:01:31.007000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "Googleの検索サイトと連動しているので、何でも教えてくれますよ。",
+            "timestamp": "2022-09-16T16:01:57.543000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "それは心強いです！もしかしてCMでアレクサってやってるやつですか？",
+            "timestamp": "2022-09-16T16:03:17.061000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "そうです。アレクサはAmazonでお買い物できますよね。私が使ってるのはGooglehomeです。",
+            "timestamp": "2022-09-16T16:04:17.052000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "Amazonで買い物まで、、思っていたよりずっと便利でビックリです。",
+            "timestamp": "2022-09-16T16:05:04.718000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "ですね。お買い物まではさすがに私はまだやったことないですが。",
+            "timestamp": "2022-09-16T16:05:26.196000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "簡単に買えすぎて無駄遣いしてしまいそうです。",
+            "timestamp": "2022-09-16T16:06:02.838000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "ほんとに。でもＡＩスピーカーはおすすめです！",
+            "timestamp": "2022-09-16T16:06:26.306000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5030,
+    "interlocutors": [
+        "CN",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-18T18:43:45.547000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-18T18:43:47.239000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "何か運動されてますか？",
+            "timestamp": "2022-09-18T18:43:53.799000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "いえ、してないですね。",
+            "timestamp": "2022-09-18T18:43:58.337000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "そうなんですね。わりとインドア派ですか？",
+            "timestamp": "2022-09-18T18:44:17.768000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "はい、インドアですね。",
+            "timestamp": "2022-09-18T18:44:44.346000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "暇なときは何をしてますか？",
+            "timestamp": "2022-09-18T18:45:10.490000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "色んな人と話をしたり、ツイッター見たり動画見たりしてます。読書とかゲームとかもしますね。",
+            "timestamp": "2022-09-18T18:45:58.024000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "ツイッター最近面白い話ありました？",
+            "timestamp": "2022-09-18T18:46:37.391000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "ツイッターはうーん、面白い動画とか載せてる人いるんでそういうのが面白いですかね。",
+            "timestamp": "2022-09-18T18:47:06.203000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "動物の動画とかたまに面白いのありますね",
+            "timestamp": "2022-09-18T18:47:29.241000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "あー、確かに。そういう可愛いの好きなんですか？",
+            "timestamp": "2022-09-18T18:48:09.365000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "そうですね。癒されます",
+            "timestamp": "2022-09-18T18:48:25.852000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "動物とか飼ってるんですか？",
+            "timestamp": "2022-09-18T18:49:23.223000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "いえ、賃貸で飼えないので動画見てます",
+            "timestamp": "2022-09-18T18:49:58.765000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "飼えたら飼いたいですか？",
+            "timestamp": "2022-09-18T18:50:59.156000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "そうですねー。ただズボラなのでちゃんとお世話ができるかどうか。。",
+            "timestamp": "2022-09-18T18:51:31.693000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "長期の外出するときとか準備必要ですね。",
+            "timestamp": "2022-09-18T18:51:56.066000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "そうなりますよね。何か飼われてるんですか？",
+            "timestamp": "2022-09-18T18:52:17.328000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "いえ、以前メダカ飼ってまして。",
+            "timestamp": "2022-09-18T18:53:20.541000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "メダカは小学校のクラスで飼ってました",
+            "timestamp": "2022-09-18T18:53:54.559000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "あー、こっちもです。学校だとうまくいってたんですけど、うちは世話を怠って中々。",
+            "timestamp": "2022-09-18T18:55:11.633000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "学校だとクラスの誰かが見てますもんね",
+            "timestamp": "2022-09-18T18:55:28.838000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "というか単に僕がやる気を継続的に出せなくて。",
+            "timestamp": "2022-09-18T18:56:47.229000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "なかなか世話し続けるのも大変ですよね。マメな方はすごいと思います",
+            "timestamp": "2022-09-18T18:57:20.264000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "そうですね、凄いです。",
+            "timestamp": "2022-09-18T18:57:43.078000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "メダカとか金魚は地味に水替えが面倒だった記憶があります",
+            "timestamp": "2022-09-18T18:58:28.231000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "育てたことあるんですね、水替えの水もカルキ抜きしないといけないですし。",
+            "timestamp": "2022-09-18T18:59:32.381000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "水道水を空きペットボトルにくんでおくやつですね。面倒でした",
+            "timestamp": "2022-09-18T19:00:14.166000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "なんか米粒みたいなやつ入れてやるやり方もありますね。",
+            "timestamp": "2022-09-18T19:00:42.088000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

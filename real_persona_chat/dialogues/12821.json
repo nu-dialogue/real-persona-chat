@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12821,
+    "interlocutors": [
+        "FR",
+        "FK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T22:04:59.346000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-12T22:05:03.125000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "毎日何時くらいに寝ますか？",
+            "timestamp": "2022-09-12T22:05:13.544000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FK",
+            "text": "おそいです。2時とか",
+            "timestamp": "2022-09-12T22:05:18.487000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "私もそれくらいです。何してるんですか？",
+            "timestamp": "2022-09-12T22:05:32.531000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FK",
+            "text": "ゲームとかネットとか仕事ですね。",
+            "timestamp": "2022-09-12T22:05:38.986000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "私もです。最近好きなゲームの大会があって。",
+            "timestamp": "2022-09-12T22:05:54.649000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FK",
+            "text": "お、なんですか？",
+            "timestamp": "2022-09-12T22:05:59.021000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "ヴァロラントっていうゲームの世界大会をしてます。",
+            "timestamp": "2022-09-12T22:06:13.304000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FK",
+            "text": "valoですか。たまーーーーーにみますね",
+            "timestamp": "2022-09-12T22:06:20.260000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "日本からも出ていましたよ。",
+            "timestamp": "2022-09-12T22:06:32.240000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FK",
+            "text": "なんていうチームです？",
+            "timestamp": "2022-09-12T22:06:36.469000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "ZETAです。",
+            "timestamp": "2022-09-12T22:06:43.986000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FK",
+            "text": "あ、みました！！",
+            "timestamp": "2022-09-12T22:06:48.730000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "みましたか。どうでした？",
+            "timestamp": "2022-09-12T22:07:01.147000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FK",
+            "text": "なんか、すごいなって感じです。トレンドなってたし",
+            "timestamp": "2022-09-12T22:07:12.999000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "すごい人気ですね。イケメンが多いので女子にも。",
+            "timestamp": "2022-09-12T22:07:27.675000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FK",
+            "text": "え、それしらなかったです！",
+            "timestamp": "2022-09-12T22:07:32.309000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "ファンは女性の方がすごい多いですよ。",
+            "timestamp": "2022-09-12T22:07:46.872000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FK",
+            "text": "ええええ、初耳ですそれ",
+            "timestamp": "2022-09-12T22:07:51.184000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "やってる方はそんなにかもしれませんが、イベントとかはそうらしいです。",
+            "timestamp": "2022-09-12T22:08:10.312000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FK",
+            "text": "イベントファンたくさんきそうですね",
+            "timestamp": "2022-09-12T22:08:16.449000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "そうですね。女性限定の大会も開かれていますし。",
+            "timestamp": "2022-09-12T22:08:32.391000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FK",
+            "text": "すごい。ただルールあまりよくわかってないです",
+            "timestamp": "2022-09-12T22:08:39.980000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "爆破ゲームですね。初見にはわかりにくいかもしれません。",
+            "timestamp": "2022-09-12T22:09:02.797000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FK",
+            "text": "サーチアンドデストロイですよねたしか",
+            "timestamp": "2022-09-12T22:09:24.738000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "多分そういう呼び方もされますね！",
+            "timestamp": "2022-09-12T22:09:30.147000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FK",
+            "text": "キャラアビリティとかが全くわかってないんですよね",
+            "timestamp": "2022-09-12T22:09:33.125000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "そうですね。たくさんあります！",
+            "timestamp": "2022-09-12T22:09:43.091000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FK",
+            "text": "またみてみます！",
+            "timestamp": "2022-09-12T22:09:47.420000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

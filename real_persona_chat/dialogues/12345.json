@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12345,
+    "interlocutors": [
+        "CX",
+        "AR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-08T11:08:48.591000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AR",
+            "text": "こんにちは、お願いします。",
+            "timestamp": "2022-09-08T11:09:05.318000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "今日はこれから何をして過ごされますか？",
+            "timestamp": "2022-09-08T11:09:25.175000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AR",
+            "text": "今日は、午後から仕事です。",
+            "timestamp": "2022-09-08T11:09:54.515000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "そうなのですね、仕事は大変ですか？",
+            "timestamp": "2022-09-08T11:10:06.515000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AR",
+            "text": "そうですね。最近リモートが増え環境が変わったので、環境の変化にまだついていけていません。",
+            "timestamp": "2022-09-08T11:10:52.124000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "デジタル化が一気に進んだ感じはしますね。",
+            "timestamp": "2022-09-08T11:11:10.206000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AR",
+            "text": "はい、親や祖父母に、時代遅れなんて言ってきましたが、今自分が必死に時代にしがみついております。",
+            "timestamp": "2022-09-08T11:12:11.430000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "慣れない方には少ししんどいかもしれませんね。",
+            "timestamp": "2022-09-08T11:12:30.694000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AR",
+            "text": "私じっとできないタイプなので余計ストレスです。",
+            "timestamp": "2022-09-08T11:13:01.357000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "なるほど、動いていたいタイプなんですね。",
+            "timestamp": "2022-09-08T11:13:12.128000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AR",
+            "text": "もともと営業職だったので、飛び回っていた環境を考えると刺激が全くないです。",
+            "timestamp": "2022-09-08T11:14:10.001000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "それはじっとしてるのが嫌になるかもですね。",
+            "timestamp": "2022-09-08T11:14:27.964000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AR",
+            "text": "仕方なく犬とずっと会話しています。",
+            "timestamp": "2022-09-08T11:15:04.446000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "わんちゃん飼ってるんですね。犬種はなんですか？",
+            "timestamp": "2022-09-08T11:15:26.485000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AR",
+            "text": "ビーグルです。遊ぼう遊ぼうってちょうど良い運動になります。",
+            "timestamp": "2022-09-08T11:15:47.887000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "なるほど、散歩に行くとかも運動になりますね。",
+            "timestamp": "2022-09-08T11:16:09.700000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AR",
+            "text": "ペットは癒しの一つです。動物はお好きですか。",
+            "timestamp": "2022-09-08T11:17:02.868000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "はい、犬が好きです。",
+            "timestamp": "2022-09-08T11:17:11.536000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AR",
+            "text": "飼っていたことありますか？今飼っています？",
+            "timestamp": "2022-09-08T11:17:56.397000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "前飼っていたのですが亡くなって、今は実家に新しいのが一匹います。",
+            "timestamp": "2022-09-08T11:18:27.101000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AR",
+            "text": "好きな犬種はありますか？",
+            "timestamp": "2022-09-08T11:18:41.446000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "トイプードルです。",
+            "timestamp": "2022-09-08T11:19:00.919000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AR",
+            "text": "可愛い感じのがお好みですね。叔母が飼っています。可愛いです。",
+            "timestamp": "2022-09-08T11:19:40.459000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "飼っていたのがトイプードルだったので。",
+            "timestamp": "2022-09-08T11:19:53.771000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AR",
+            "text": "初めて飼った犬って思い出ですよね。私は雑種だったけど自分で拾った犬だったので今でも忘れられません。",
+            "timestamp": "2022-09-08T11:20:50.048000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "はい、私も初めて飼ったペットだったので。",
+            "timestamp": "2022-09-08T11:21:04.203000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AR",
+            "text": "今後よい巡り合いがあるといいですね。ペットもインスピレーションですから。",
+            "timestamp": "2022-09-08T11:21:48.860000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "今実家にいるのもトイプードルです。",
+            "timestamp": "2022-09-08T11:22:01.641000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AR",
+            "text": "会えるのが楽しみですね。",
+            "timestamp": "2022-09-08T11:22:21.310000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 2,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

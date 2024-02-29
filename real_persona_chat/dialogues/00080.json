@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 80,
+    "interlocutors": [
+        "AK",
+        "AC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AK",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-09T14:03:24.088000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AC",
+            "text": "どうもですー！",
+            "timestamp": "2022-08-09T14:03:27.858000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AK",
+            "text": "お出掛けのご予定はありますか？",
+            "timestamp": "2022-08-09T14:03:37.548000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AC",
+            "text": "まだ決めてないんですけど、夏の間にどこか行きたいなとは思ってます！",
+            "timestamp": "2022-08-09T14:03:57.923000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AK",
+            "text": "おお、いいですね！レジャー系ですか？",
+            "timestamp": "2022-08-09T14:04:09.627000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AC",
+            "text": "そうですね！海と山、どっちにしようかなと。",
+            "timestamp": "2022-08-09T14:04:23.713000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AK",
+            "text": "おお！わたしは山に行ってみたいです！",
+            "timestamp": "2022-08-09T14:04:35.314000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AC",
+            "text": "山がお好きなんですね！登ったりするんですか？",
+            "timestamp": "2022-08-09T14:04:48.859000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AK",
+            "text": "いえ、興味があるだけなんです。登山したことありますか？",
+            "timestamp": "2022-08-09T14:05:03.013000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AC",
+            "text": "本格的なのはないですが、近所の山には毎年登ります！",
+            "timestamp": "2022-08-09T14:05:24.392000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AK",
+            "text": "毎年ですか！すごいですね。どのくらいの時間登るんですか？",
+            "timestamp": "2022-08-09T14:05:49.564000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AC",
+            "text": "全然ですよ。2時間ぐらいで頂上につきます。",
+            "timestamp": "2022-08-09T14:06:01.780000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AK",
+            "text": "ちょうど良さそうですね。山頂からの眺めってやっぱりいいもんですか？",
+            "timestamp": "2022-08-09T14:06:27.167000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AC",
+            "text": "いいですねー！あと最後のところが鎖なのが楽しいんです。",
+            "timestamp": "2022-08-09T14:06:49.738000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AK",
+            "text": "え、怖くないですか？",
+            "timestamp": "2022-08-09T14:07:00.126000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AC",
+            "text": "怖いです！でも子どもの頃の冒険心がくすぐられます。",
+            "timestamp": "2022-08-09T14:07:20.660000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AK",
+            "text": "うわーすごいですね。怖いけど安全な感じなんでしょうか？",
+            "timestamp": "2022-08-09T14:07:45.071000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AC",
+            "text": "柵とかはないので、おふざけは厳禁ですね。てっぺんも、下手したら転げ落ちます。",
+            "timestamp": "2022-08-09T14:08:15.878000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AK",
+            "text": "ひえー。達成感がありそうですね。",
+            "timestamp": "2022-08-09T14:08:31.291000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AC",
+            "text": "あります！そして翌日の筋肉痛がすごい！",
+            "timestamp": "2022-08-09T14:08:42.560000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AK",
+            "text": "筋肉痛は嫌ですね。普段から運動はされていないんですか？",
+            "timestamp": "2022-08-09T14:09:08.409000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AC",
+            "text": "全然なので、途中で膝が笑いますよ。",
+            "timestamp": "2022-08-09T14:09:21.676000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AK",
+            "text": "あら、それでも登れちゃうんですね。",
+            "timestamp": "2022-08-09T14:09:40.461000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AC",
+            "text": "ですです。登山っていうよりハイキングみたいなものですかね。",
+            "timestamp": "2022-08-09T14:10:01.954000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AK",
+            "text": "ハイキング楽しそうです！山登りしながら写真もたくさん撮ってみたいなー。",
+            "timestamp": "2022-08-09T14:10:28.220000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AC",
+            "text": "いいですね！近所に登れそうな山がないか、ぜひ調べてみてください！",
+            "timestamp": "2022-08-09T14:10:54.490000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AK",
+            "text": "そうですね！まずは近所の手頃な山からですね。",
+            "timestamp": "2022-08-09T14:11:16.648000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AC",
+            "text": "はい、おすすめです！私も今年は海ではなく山に行きたくなってきました。",
+            "timestamp": "2022-08-09T14:11:41.936000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AK",
+            "text": "お！ぜひ行ったら感想をお聞かせくださいね。",
+            "timestamp": "2022-08-09T14:11:58.484000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AC",
+            "text": "はい！それでは、失礼します！",
+            "timestamp": "2022-08-09T14:12:08.607000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AK",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

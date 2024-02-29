@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7645,
+    "interlocutors": [
+        "CA",
+        "CK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-03T21:20:01.711000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CK",
+            "text": "こんばんは",
+            "timestamp": "2022-08-03T21:20:31.450000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "<CK>さんはこの夏どこかにお出かけされたりしますか？",
+            "timestamp": "2022-08-03T21:20:52.961000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CK",
+            "text": "野球観戦と北海道旅行です",
+            "timestamp": "2022-08-03T21:21:10.208000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "わあ！いいですね　野球はお好きなんですか？",
+            "timestamp": "2022-08-03T21:21:43.550000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CK",
+            "text": "昔から身近に感じてきたので。あと息子が野球少年です。",
+            "timestamp": "2022-08-03T21:22:08.810000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "息子さんと一緒に見に行かれるんですね！素敵だー！！",
+            "timestamp": "2022-08-03T21:22:41.275000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CK",
+            "text": "そうですね。楽しみです。春の子さんのご予定は？",
+            "timestamp": "2022-08-03T21:23:00.544000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "少し足を伸ばして、かき氷が有名なお店に足を運ぼうと思っています",
+            "timestamp": "2022-08-03T21:23:50.428000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CK",
+            "text": "素敵です！何味が有名なんでしょう？",
+            "timestamp": "2022-08-03T21:24:17.597000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "和菓子屋さんが夏に売っているかき氷なんですが、味が本当に色々あって１５種類くらいあったと思います",
+            "timestamp": "2022-08-03T21:25:02.471000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CK",
+            "text": "15種類！思いつかない。。珍しい味はありますか？",
+            "timestamp": "2022-08-03T21:25:28.264000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "意外だなって思ったのは、ティラミス味のかき氷でした",
+            "timestamp": "2022-08-03T21:25:48.543000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CK",
+            "text": "おー興味深いです。ティラミス大好きです！",
+            "timestamp": "2022-08-03T21:26:12.798000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "かき氷だと想像つかないので、食べて確認してきます",
+            "timestamp": "2022-08-03T21:26:47.135000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CK",
+            "text": "いいですね！美味しそう。",
+            "timestamp": "2022-08-03T21:27:04.683000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "<CK>さんの旅行も、北海道だと美味しいものいっぱいですね！",
+            "timestamp": "2022-08-03T21:27:54.897000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CK",
+            "text": "札幌の夜パフェっていうのが気になってます。",
+            "timestamp": "2022-08-03T21:28:18.290000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "ネーミングからして私も気になります！どんなのなんですか？",
+            "timestamp": "2022-08-03T21:28:35.543000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CK",
+            "text": "いや、夜にパフェを出す店が多くあるらしいのです",
+            "timestamp": "2022-08-03T21:28:57.222000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "珍しいですね",
+            "timestamp": "2022-08-03T21:29:21.801000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CK",
+            "text": "あえて夜なんですかね？それもおしゃれな感じのパフェで。",
+            "timestamp": "2022-08-03T21:29:47.035000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "お酒の代わりにパフェなのかなあ。食べて見たい！",
+            "timestamp": "2022-08-03T21:30:56.719000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CK",
+            "text": "お酒と共に、もありますかね。私は飲めないけど。悲しい",
+            "timestamp": "2022-08-03T21:31:20.403000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "お酒とともにって人もいそうですね！",
+            "timestamp": "2022-08-03T21:32:31.337000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CK",
+            "text": "私はおしゃれ空間でおしゃれなパフェを食べる自分に酔ってこようかと。子連れですが！",
+            "timestamp": "2022-08-03T21:33:08.709000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "うまい！　お子さんもパフェよろこびそう！",
+            "timestamp": "2022-08-03T21:33:52.540000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CK",
+            "text": "太らないように気をつけます",
+            "timestamp": "2022-08-03T21:34:06.157000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "別腹なので大丈夫ですよ！楽しかったです！今日はありがとうございました！",
+            "timestamp": "2022-08-03T21:34:43.581000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CK",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-03T21:34:59.066000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

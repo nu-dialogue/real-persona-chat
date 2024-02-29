@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9743,
+    "interlocutors": [
+        "BX",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-09T17:02:39.052000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-09T17:02:51.174000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "どちらにお住まいですか？",
+            "timestamp": "2022-08-09T17:02:56.513000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "関西です",
+            "timestamp": "2022-08-09T17:03:05.258000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "私は関東なので天気が違いそうですね。",
+            "timestamp": "2022-08-09T17:03:15.731000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "かもしれませんね。雨降ってますか？",
+            "timestamp": "2022-08-09T17:03:30.657000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "今日は良い天気です。",
+            "timestamp": "2022-08-09T17:03:36.409000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "そうですか、最近雨多くないですか？",
+            "timestamp": "2022-08-09T17:03:50.380000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "おおいですね、昨日あたりから急に晴れております。",
+            "timestamp": "2022-08-09T17:04:00.379000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "こっちは警報出るぐらい雨降ってました",
+            "timestamp": "2022-08-09T17:04:12.365000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "そうでしたか！問題ありませんでしたか？",
+            "timestamp": "2022-08-09T17:04:22.998000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "危ないですね。山の方に行くと土砂崩れありそうです",
+            "timestamp": "2022-08-09T17:04:41.639000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "結構山間のあたりにお住まいなんですね。お気をつけて！",
+            "timestamp": "2022-08-09T17:05:01.558000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "ありがとうございます。災害対策されてますか？",
+            "timestamp": "2022-08-09T17:05:21.026000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "災害リュックは準備していますね。",
+            "timestamp": "2022-08-09T17:05:30.532000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "なるほど。まだ使ってないですか？",
+            "timestamp": "2022-08-09T17:05:42.980000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "はい。幸い使う機会はないです。",
+            "timestamp": "2022-08-09T17:05:52.218000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "それは何よりです",
+            "timestamp": "2022-08-09T17:05:59.402000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "キャンプが趣味なのでそういう時に役立ちそうなものがたくさんあります。",
+            "timestamp": "2022-08-09T17:06:15.457000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "いいですね。代用できそう",
+            "timestamp": "2022-08-09T17:06:27.717000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "ある程度快適に過ごせる気がします。",
+            "timestamp": "2022-08-09T17:06:38.973000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "バッテリーとかどうですか？",
+            "timestamp": "2022-08-09T17:06:48.403000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "あまり大きくないものしかないですね。",
+            "timestamp": "2022-08-09T17:06:59.228000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "そうですか。停電も心配してます",
+            "timestamp": "2022-08-09T17:07:16.246000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "今は何でも電気で動いてますからねー。",
+            "timestamp": "2022-08-09T17:07:28.088000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "ですよね。スマホ使えなくなったらと考えると。",
+            "timestamp": "2022-08-09T17:07:46.712000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "スマホはそもそも手元にないと何となく不安ですね。",
+            "timestamp": "2022-08-09T17:08:03.749000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "ですね。最近それ系の動画見て備えるようにしてます",
+            "timestamp": "2022-08-09T17:08:25.203000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "いいですね！備えあれば憂いなしです！",
+            "timestamp": "2022-08-09T17:08:35.503000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "それ言おうと思ってました",
+            "timestamp": "2022-08-09T17:08:44.377000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

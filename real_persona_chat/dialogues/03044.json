@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3044,
+    "interlocutors": [
+        "AR",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AR",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-25T14:12:38.695000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-25T14:12:50.079000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AR",
+            "text": "コロナ生活長いですが、今年のお盆はどちらかに行かれました？",
+            "timestamp": "2022-08-25T14:13:10.317000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "お盆は自宅ですごしました。どちらかにお出かけになられましたか？",
+            "timestamp": "2022-08-25T14:13:35.278000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AR",
+            "text": "２泊３日でキャンプをし、あとは自宅におりました。",
+            "timestamp": "2022-08-25T14:14:08.107000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "楽しそうですね！キャンプは遠くに行かれたのですか？",
+            "timestamp": "2022-08-25T14:14:29.943000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AR",
+            "text": "那須に行きました。自宅から２時間程です。",
+            "timestamp": "2022-08-25T14:14:56.040000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "素晴らしい避暑地ですよね。やはり涼しいところですか？",
+            "timestamp": "2022-08-25T14:15:25.770000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AR",
+            "text": "残念ながらキャンプ場は那須高原の手前なので暑いです。でもプール持参しましたので、時折涼めました。",
+            "timestamp": "2022-08-25T14:16:28.774000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。キャンプ場は人が多かったですか？",
+            "timestamp": "2022-08-25T14:17:02.352000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AR",
+            "text": "区画割で満室だったかと思いますが、プライベートが守られているので開放的に過ごせて満足です。",
+            "timestamp": "2022-08-25T14:17:45.366000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "プライベートが守られているなんて安心ですよね。お隣の声も聞こえないのですか？",
+            "timestamp": "2022-08-25T14:18:30.767000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AR",
+            "text": "全くというわけではないですが、木々があって目線は気にならず、虫の鳴き声の方が勝っています。",
+            "timestamp": "2022-08-25T14:19:37.024000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "それは快適ですね。森で暮らすような感じなのですね。",
+            "timestamp": "2022-08-25T14:20:04.816000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AR",
+            "text": "はい、観光地も好きですが、個人的には自然の中で何も考えない方が好きです。",
+            "timestamp": "2022-08-25T14:21:55.491000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "本当です。子供にも自然と接する時間は貴重ですよね。",
+            "timestamp": "2022-08-25T14:21:39.777000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AR",
+            "text": "そうですね。あと自炊させる（お手伝い）ことも勉強になります。",
+            "timestamp": "2022-08-25T14:22:11.401000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "ええ。フィンランドの子供たちは森でよく遊びますものね。",
+            "timestamp": "2022-08-25T14:22:34.813000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AR",
+            "text": "はい、私はドイツの教育で「森の幼稚園」という方針がとても好きです。",
+            "timestamp": "2022-08-25T14:23:16.823000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "そういう教育方針があるのですね。子供は自然の中で育てるという感じの方針ですか？",
+            "timestamp": "2022-08-25T14:23:49.655000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AR",
+            "text": "教室という箱が無いというか、森が教室ですね。",
+            "timestamp": "2022-08-25T14:24:46.598000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "私の住む名古屋市では熱田神宮で夏の間緑陰教室教室というものが開かれています。",
+            "timestamp": "2022-08-25T14:25:27.057000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AR",
+            "text": "そういうの好きです。コロナだからこそ自粛と開放をうまく使ってほしいなぁと思っています。",
+            "timestamp": "2022-08-25T14:26:46.604000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "ただ、教室でなくて森で勉強するって感じで少し学校の感じが残るのですが。",
+            "timestamp": "2022-08-25T14:27:07.533000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AR",
+            "text": "でも自粛と制限の中でただ勉強するよりは、開放的な場でやった方が何倍もいいですよ。自然の音は免疫とエネルギーも高まりますから。",
+            "timestamp": "2022-08-25T14:28:35.030000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "本当にそうですね。そんな時間をもっと息子たちに与えてあげればよかったと思います。",
+            "timestamp": "2022-08-25T14:28:59.792000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AR",
+            "text": "私が今そうですが、忙しすぎて頭と体と心が調和できない時期ってありますよね。",
+            "timestamp": "2022-08-25T14:30:17.221000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "はい。私の頃は子供の教育そのものに子供の心を配慮する機会が少なかったと思います。",
+            "timestamp": "2022-08-25T14:30:59.316000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AR",
+            "text": "あなただけではないですよ。きっと。またお話ししましょう。",
+            "timestamp": "2022-08-25T14:31:33.466000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "はい。ぜひ。ありがとうございました。",
+            "timestamp": "2022-08-25T14:31:42.874000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

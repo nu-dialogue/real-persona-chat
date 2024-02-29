@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9841,
+    "interlocutors": [
+        "CA",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-09T16:30:08.555000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちは",
+            "timestamp": "2022-08-09T16:30:25.054000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "<BL>さんはパンよく食べられますか？",
+            "timestamp": "2022-08-09T16:30:43.660000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "パンも食べますが、最近はどちらかというとお米を食べています。",
+            "timestamp": "2022-08-09T16:31:31.762000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "となると朝ごはんはご飯派でしょうか？",
+            "timestamp": "2022-08-09T16:32:02.170000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "朝はシリアルを食べたりします",
+            "timestamp": "2022-08-09T16:32:32.527000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "シリアルいいですね！どんなの食べてるんですか？",
+            "timestamp": "2022-08-09T16:32:53.631000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "今は、ごろグラというものです",
+            "timestamp": "2022-08-09T16:33:19.714000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "はじめて聞きました！もしやフルグラの仲間的なものですか？",
+            "timestamp": "2022-08-09T16:33:41.649000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "それのフルーツ抜きバージョンですね！",
+            "timestamp": "2022-08-09T16:34:04.492000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "そんなものがあったのですね。今ググってみました！",
+            "timestamp": "2022-08-09T16:34:33.341000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "食べ応えありますよー",
+            "timestamp": "2022-08-09T16:34:48.611000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "美味しそう。フルーツ抜きということは丸ごと大豆？でしょうか",
+            "timestamp": "2022-08-09T16:35:13.091000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "値引きだったのもあり、そこまでちゃんと見ないで買っちゃいました。いろいろ入っているみたいですね。",
+            "timestamp": "2022-08-09T16:36:10.635000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "家にあるとついつい食べちゃうので控えていたのですが、気になる。久しぶりに食べてみたくなりました。",
+            "timestamp": "2022-08-09T16:37:07.354000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "小腹が空いたときについ食べちゃいますよね。",
+            "timestamp": "2022-08-09T16:37:39.304000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "そうなんです。危ない。でも美味しくて大好きです。",
+            "timestamp": "2022-08-09T16:38:05.628000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "牛乳をかけるので栄養バランスも良くて気に入っています",
+            "timestamp": "2022-08-09T16:38:51.726000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "牛乳をかければ確かに完璧ですね。",
+            "timestamp": "2022-08-09T16:39:11.956000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "朝食はどんなものを召し上がりますか？",
+            "timestamp": "2022-08-09T16:39:37.144000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "私はご飯と味噌汁に、前の日のおかずが残っていたらそれを食べてます",
+            "timestamp": "2022-08-09T16:40:16.803000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "朝に和食いいですね！",
+            "timestamp": "2022-08-09T16:40:38.182000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "今外で結構体力を使う仕事をしているので、朝はお米からパワーをもらっています",
+            "timestamp": "2022-08-09T16:41:26.286000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "お米は元気が出ますよね！お昼もがっつり食べる感じですか？",
+            "timestamp": "2022-08-09T16:42:25.076000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "それが、お昼は仕事が終わるのが微妙な時間で、食べたり、コーヒーですませちゃったりのまちまちで",
+            "timestamp": "2022-08-09T16:42:55.384000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね、コーヒーだけだと、夕飯まで持たなそうです。",
+            "timestamp": "2022-08-09T16:43:27.695000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "そうなんです、そういう場合に、夕方にバナナ食べちゃったりしてます",
+            "timestamp": "2022-08-09T16:44:01.342000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "バナナは買っておくと便利ですね！あれもついつい食べてしまうのですが。",
+            "timestamp": "2022-08-09T16:44:31.824000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "食べちゃいますね。２本とかうっかり食べる時も。またお話ししましょう！",
+            "timestamp": "2022-08-09T16:45:02.400000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "またぜひお話しましょう！",
+            "timestamp": "2022-08-09T16:45:16.413000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

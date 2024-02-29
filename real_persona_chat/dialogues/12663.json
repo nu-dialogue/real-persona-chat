@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12663,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T19:10:16.999000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-17T19:10:22.901000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんは社会人ですか？",
+            "timestamp": "2022-09-17T19:10:32.151000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "そうです。サラリーマンやってます。",
+            "timestamp": "2022-09-17T19:10:50.853000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "私もＯＬやってます。じゃあ土日祝お休みですか？",
+            "timestamp": "2022-09-17T19:11:10.263000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "そうです。ありがたいことに土日祝ちゃんと休めます",
+            "timestamp": "2022-09-17T19:11:35.051000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "シフトだと連休なかなかとれないですもんね",
+            "timestamp": "2022-09-17T19:12:12.092000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "ですよね。１日ずつの休みで疲れとれるんですかね",
+            "timestamp": "2022-09-17T19:12:41.815000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "私は絶対無理です",
+            "timestamp": "2022-09-17T19:12:57.069000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "自分も無理そうです。2日でも疲れ取れないのに。",
+            "timestamp": "2022-09-17T19:13:23.158000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "在宅勤務はされてます？",
+            "timestamp": "2022-09-17T19:13:39.350000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "うちは週5出勤なんです",
+            "timestamp": "2022-09-17T19:14:02.492000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "うちもです。コロナの時は完全在宅だったのに通常勤務に戻りました",
+            "timestamp": "2022-09-17T19:14:25.097000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "家でできるのになんで出社しなきゃいけないの？って思いますよね",
+            "timestamp": "2022-09-17T19:14:57.694000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "うちの会社は偉い人がさみしいとか、家に居場所がないとかで通常に戻りました",
+            "timestamp": "2022-09-17T19:15:28.354000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "私情丸出しですね",
+            "timestamp": "2022-09-17T19:16:02.166000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "本当ですよ、いい迷惑です",
+            "timestamp": "2022-09-17T19:16:16.951000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "通勤は電車ですか？",
+            "timestamp": "2022-09-17T19:16:41.244000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "電車です。1時間くらいかけて出勤してます",
+            "timestamp": "2022-09-17T19:16:57.967000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "家から会社まで1時間ですか？",
+            "timestamp": "2022-09-17T19:17:12.293000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "電車だけで1時間ですね",
+            "timestamp": "2022-09-17T19:17:23.365000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "ちょっと遠いですね",
+            "timestamp": "2022-09-17T19:17:33.679000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "そうですね、近いところだと家賃が高くて狭い家しかないんです",
+            "timestamp": "2022-09-17T19:18:05.074000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "会社が都心部にあるんですね",
+            "timestamp": "2022-09-17T19:18:25.089000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "そうなんです。もうすこし郊外に作ってくれたらいいんですが。",
+            "timestamp": "2022-09-17T19:18:47.737000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "外出しやすいように交通の便がいいところに会社作るんでしょうね",
+            "timestamp": "2022-09-17T19:19:10.170000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "そうですね、でも都心部から本社を移してる会社も増えてるみたいなので見習ってほしいです",
+            "timestamp": "2022-09-17T19:19:56.588000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "いつか移転するといいですね",
+            "timestamp": "2022-09-17T19:20:07.510000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "それか転職ですねー",
+            "timestamp": "2022-09-17T19:20:17.531000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "確かにそれが早いかも。",
+            "timestamp": "2022-09-17T19:20:28.806000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1253,
+    "interlocutors": [
+        "BP",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "はじめまして。宜しくお願いいたします。",
+            "timestamp": "2022-08-14T07:08:13.406000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-14T07:08:18.806000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "いつも朝は早いんですか？",
+            "timestamp": "2022-08-14T07:08:25.080000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "散歩を日課にしているので",
+            "timestamp": "2022-08-14T07:08:33.010000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "いいですね！私は家族のご飯作りで6時くらいに起きます。",
+            "timestamp": "2022-08-14T07:08:50.792000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "それは大変だ",
+            "timestamp": "2022-08-14T07:08:57.084000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "もう毎日のことですからねー。慣れました。",
+            "timestamp": "2022-08-14T07:09:06.968000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "なれるものなのですね、それにしても偉大すぎる",
+            "timestamp": "2022-08-14T07:09:17.379000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "そんなことはないですよ。お料理はされますか？",
+            "timestamp": "2022-08-14T07:09:32.805000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "休日は料理担当です",
+            "timestamp": "2022-08-14T07:09:43.716000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "分担されてるんですね。何がお得意ですか？",
+            "timestamp": "2022-08-14T07:10:04.612000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "昨日は中東風のスパイシーなパエリアを",
+            "timestamp": "2022-08-14T07:10:14.143000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "おー、素晴らしい！私もパエリア好きですが、作れません。",
+            "timestamp": "2022-08-14T07:10:28.136000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "ごはんいれて具いれて、オーブンでやるだけですよ",
+            "timestamp": "2022-08-14T07:10:39.441000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "思ったより簡単なのかしら。今度作ってみようかな。",
+            "timestamp": "2022-08-14T07:11:03.415000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "色々なやり方ありますが、そんなに失敗はしません",
+            "timestamp": "2022-08-14T07:11:07.383000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "なるほど。わが家はドリアをみんな喜んで食べてくれます。",
+            "timestamp": "2022-08-14T07:11:25.262000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "ドリアですか、なかなか渋い選択を",
+            "timestamp": "2022-08-14T07:11:39.173000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "サイゼリヤのを真似してみました。",
+            "timestamp": "2022-08-14T07:11:52.832000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "ドリアって面白いですよね、完全に日本食だという",
+            "timestamp": "2022-08-14T07:12:12.432000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "ご飯ですもんね。洋食、子どもが好きでよく作ります。",
+            "timestamp": "2022-08-14T07:12:31.606000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "イタリアでも一部米を食うエリアがあって、そこはリゾットという",
+            "timestamp": "2022-08-14T07:12:46.910000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "そうですね、リゾットってありますね。",
+            "timestamp": "2022-08-14T07:13:06.583000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "パルメザンが効いていて、あれはあれで美味しい",
+            "timestamp": "2022-08-14T07:13:17.570000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "美味しいですよね。ヨーロッパではお米をサラダに入れたりもするみたいですよ。",
+            "timestamp": "2022-08-14T07:13:44.928000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "はい、あの感覚はちょっとあれですが",
+            "timestamp": "2022-08-14T07:13:53.586000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "食べてみると思ったより美味しかったですね。",
+            "timestamp": "2022-08-14T07:14:07.564000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "スペインとイタリアは昔から米がとれたので、米料理もおいしい気がします",
+            "timestamp": "2022-08-14T07:14:26.166000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "そうかもですね。ミルクがゆも思ったより美味しかったです。",
+            "timestamp": "2022-08-14T07:14:42.862000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "いろんな食べ方があって面白いですよね",
+            "timestamp": "2022-08-14T07:15:02.189000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1181,
+    "interlocutors": [
+        "BZ",
+        "AY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BZ",
+            "text": "こんばんわ。よろしくお願いします！",
+            "timestamp": "2022-08-15T20:56:36.916000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AY",
+            "text": "こんばんは！こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-15T20:57:07.574000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BZ",
+            "text": "今日はお休みでしたか？",
+            "timestamp": "2022-08-15T20:57:15.319000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AY",
+            "text": "はい。ゆっくりしました。あなたは？",
+            "timestamp": "2022-08-15T20:57:27.238000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BZ",
+            "text": "私も今日は一番ゆっくりしていました。ランチいってきました。",
+            "timestamp": "2022-08-15T20:57:47.078000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AY",
+            "text": "え！どんなランチだったんですか？",
+            "timestamp": "2022-08-15T20:57:59.817000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BZ",
+            "text": "お魚屋さんのちょっといいやつでした！",
+            "timestamp": "2022-08-15T20:58:12.598000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AY",
+            "text": "おお！海鮮ですかー。",
+            "timestamp": "2022-08-15T20:58:25.433000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BZ",
+            "text": "いつも多い店なので１１時ごろにって正解でした。",
+            "timestamp": "2022-08-15T20:58:49.382000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AY",
+            "text": "そんなに人気なんですね！",
+            "timestamp": "2022-08-15T20:58:58.340000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BZ",
+            "text": "うちの近く、あまり食べるところもないので余計にですかね。",
+            "timestamp": "2022-08-15T20:59:12.407000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AY",
+            "text": "おすすめは何なんでしょう？",
+            "timestamp": "2022-08-15T20:59:23.278000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BZ",
+            "text": "嫁さんと娘といったんですが、娘の海鮮丼がおいしそうでした。",
+            "timestamp": "2022-08-15T20:59:45.482000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AY",
+            "text": "生のやつですね！うわー食べたい！",
+            "timestamp": "2022-08-15T21:00:03.903000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BZ",
+            "text": "1300円なのでそれなりの値段ですがたまにはいいですよね！",
+            "timestamp": "2022-08-15T21:00:22.903000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AY",
+            "text": "ぜんぜん、むしろお得な方では？",
+            "timestamp": "2022-08-15T21:00:36.510000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BZ",
+            "text": "私が日替わりで1100円。嫁さんはから揚げで1000円だったので、これでも高かったんです。",
+            "timestamp": "2022-08-15T21:01:09.363000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AY",
+            "text": "そうですか。うちの方だと海鮮丼だと1500円以上するかも。",
+            "timestamp": "2022-08-15T21:01:34.100000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BZ",
+            "text": "なるほどー。1500円は躊躇しますね！でもおいしいんだろうなぁ。",
+            "timestamp": "2022-08-15T21:02:09.954000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AY",
+            "text": "確かに海の近くなので新鮮なのかもしれないです。",
+            "timestamp": "2022-08-15T21:02:26.915000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BZ",
+            "text": "地元の食材が入るとまた人気もでそうですね！",
+            "timestamp": "2022-08-15T21:02:44.548000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AY",
+            "text": "はい。でも最近行ってないな。",
+            "timestamp": "2022-08-15T21:03:00.407000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BZ",
+            "text": "あなたは家でゆっくりでしたか？",
+            "timestamp": "2022-08-15T21:03:13.035000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AY",
+            "text": "はい。昼寝までしちゃいましたー！",
+            "timestamp": "2022-08-15T21:03:24.548000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BZ",
+            "text": "昼寝って20分くらいがいいっていいますけど、1時間くらいやっちゃいません？",
+            "timestamp": "2022-08-15T21:03:53.574000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AY",
+            "text": "あはは。今日は1時間半です。やばいですかね？",
+            "timestamp": "2022-08-15T21:04:14.001000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BZ",
+            "text": "それはお疲れだったんでしょう。ゆっくりできたよかったですね。",
+            "timestamp": "2022-08-15T21:04:38.079000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AY",
+            "text": "そうですね！疲れてては何もできません。",
+            "timestamp": "2022-08-15T21:04:55.969000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BZ",
+            "text": "私は早く寝て疲れを取ることにします！",
+            "timestamp": "2022-08-15T21:05:19.428000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AY",
+            "text": "それがいいですね！私も今日早く寝よう！",
+            "timestamp": "2022-08-15T21:05:35.754000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

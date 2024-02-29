@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 50,
+    "interlocutors": [
+        "AH",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T16:26:50.963000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんにちは",
+            "timestamp": "2022-08-07T16:26:57.665000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "夕食は食べますか？",
+            "timestamp": "2022-08-07T16:27:09.729000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "はい、もう少ししたら準備します",
+            "timestamp": "2022-08-07T16:27:20.081000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "ちなみに、メニューを聞いてもいいでしょうか。",
+            "timestamp": "2022-08-07T16:27:31.023000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "ステーキ肉が残ってるので、それがメインは確定",
+            "timestamp": "2022-08-07T16:27:45.424000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "ステーキ私も食べたいです！",
+            "timestamp": "2022-08-07T16:27:52.269000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "ステーキはいいですよ、とくに赤身肉",
+            "timestamp": "2022-08-07T16:28:06.047000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "はい、私も赤身がすきです！",
+            "timestamp": "2022-08-07T16:28:17.337000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "国産の油ギッシュなやつも、あれはあれで美味しいのですが",
+            "timestamp": "2022-08-07T16:28:31.794000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "赤みを思いっきり噛みたいです。",
+            "timestamp": "2022-08-07T16:28:58.473000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "筋トレマンになって以降は脂恐怖症気味",
+            "timestamp": "2022-08-07T16:29:13.975000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "体重増えてしまいそうですしね。",
+            "timestamp": "2022-08-07T16:29:29.095000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "せっかくの良質なタンパク質に、なぜわざわざ油でコーティングするのだ、みたいな",
+            "timestamp": "2022-08-07T16:29:54.997000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "油も美味しいんですけど、やっぱりたくさんは食べられないです。",
+            "timestamp": "2022-08-07T16:30:18.037000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "フライドポテトとかもいつの日からか避けるようになりました",
+            "timestamp": "2022-08-07T16:30:38.765000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "あれもカロリーとか凄そうですからね。",
+            "timestamp": "2022-08-07T16:30:49.553000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "一昔前はステーキの横といえばフライドポテトだったんですがね",
+            "timestamp": "2022-08-07T16:31:06.167000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "添えてあるポテト美味しいです。",
+            "timestamp": "2022-08-07T16:31:21.241000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "今は、添え物は菜の花になりました",
+            "timestamp": "2022-08-07T16:31:34.095000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "菜の花、珍しいですね。",
+            "timestamp": "2022-08-07T16:31:43.273000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "バターとの相性がいいので、ステーキの横で最高です",
+            "timestamp": "2022-08-07T16:31:58.605000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "にんじんとかは添えないのですか？",
+            "timestamp": "2022-08-07T16:32:03.208000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "にんじんもいいですよね",
+            "timestamp": "2022-08-07T16:32:19.455000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "うちはよくにんじんなどを添えています。",
+            "timestamp": "2022-08-07T16:32:29.476000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "人参といえばスープが大好きです",
+            "timestamp": "2022-08-07T16:32:55.750000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "にんじんスープ、美味しそうです。",
+            "timestamp": "2022-08-07T16:33:05.019000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "ゆでて、牛乳いれて、スムージーにするのが最高",
+            "timestamp": "2022-08-07T16:33:23.810000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "にんじんスムージー、初めて知りました！",
+            "timestamp": "2022-08-07T16:33:54.850000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "あ、是非やってみてください。むっちゃくちゃおいしくて、栄養にもいいです",
+            "timestamp": "2022-08-07T16:33:59.778000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

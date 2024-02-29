@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1910,
+    "interlocutors": [
+        "BX",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-17T12:17:24.132000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-17T12:17:32.416000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "どちらにお住まいですか？",
+            "timestamp": "2022-08-17T12:17:37.901000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "愛知県名古屋市です。どちらにお住まいですか？",
+            "timestamp": "2022-08-17T12:17:51.234000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "こちらは横浜に住んでいます。",
+            "timestamp": "2022-08-17T12:18:01.611000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "私の下の息子が今横浜の日吉で暮らしています。",
+            "timestamp": "2022-08-17T12:18:28.345000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "おぉ、同じ市内とは何か縁がありますね。",
+            "timestamp": "2022-08-17T12:18:30.305000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "横浜は素敵なところで、すぐまた行きたいと思います。",
+            "timestamp": "2022-08-17T12:18:57.146000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "そういってもらえるととても嬉しいですね！",
+            "timestamp": "2022-08-17T12:19:05.495000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "日吉は坂が多くて、また歩行者用の道路が狭いですね。",
+            "timestamp": "2022-08-17T12:19:25.417000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "正直みなとみらいとそれ以外の横浜感は少しありますね。",
+            "timestamp": "2022-08-17T12:19:42.589000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。まだ横浜はあちこちにでかけていないので毎回楽しみです。",
+            "timestamp": "2022-08-17T12:20:19.401000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "あまり他にはおすすめの横浜はありませんが、ぜひ！",
+            "timestamp": "2022-08-17T12:20:36.943000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "名古屋と比べると都会な感じがしています。",
+            "timestamp": "2022-08-17T12:20:54.418000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "良くどこが第三年かって話になりますよね。",
+            "timestamp": "2022-08-17T12:21:14.811000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "そうですね。こちらではよくある安いスーパーが少ない感じがしています。",
+            "timestamp": "2022-08-17T12:21:57.643000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "私の住む町は割と田舎なので結構ありますね！",
+            "timestamp": "2022-08-17T12:22:15.321000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。人口が多いところばかりかと思いましたがいろいろなんですね。",
+            "timestamp": "2022-08-17T12:22:39.779000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "結構違いますね！人口も少ないと思います。",
+            "timestamp": "2022-08-17T12:22:58.130000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "ほっとしました。もっといろいろなところに行ってみたいです。",
+            "timestamp": "2022-08-17T12:23:24.746000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "どこに興味がありますか？",
+            "timestamp": "2022-08-17T12:23:32.877000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "一度知り合いの家がある青葉台というところに行ってみました。",
+            "timestamp": "2022-08-17T12:23:48.738000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "あの辺もいいところですね。上品な街だと思います。",
+            "timestamp": "2022-08-17T12:24:03.971000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "はい。なんだか高級な住宅が並んでいて、びっくりしました。",
+            "timestamp": "2022-08-17T12:24:20.080000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "ますます私の住む地区とは違いますね！",
+            "timestamp": "2022-08-17T12:24:35.686000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "どのような地区にお住まいなんですか？",
+            "timestamp": "2022-08-17T12:24:49.044000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "本当に横浜の端っこです。",
+            "timestamp": "2022-08-17T12:25:00.637000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。神奈川県は自然も多く大好きです。",
+            "timestamp": "2022-08-17T12:25:18.589000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "箱根もありますし、私も好きな県です！",
+            "timestamp": "2022-08-17T12:25:32.896000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "都会と自然の両方を楽しめる素敵なところですね！",
+            "timestamp": "2022-08-17T12:25:49.558000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

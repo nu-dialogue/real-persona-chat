@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6703,
+    "interlocutors": [
+        "GH",
+        "FM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GH",
+            "text": "こんにちは",
+            "timestamp": "2022-10-06T12:21:28.967000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FM",
+            "text": "こんにちは",
+            "timestamp": "2022-10-06T12:21:40.399000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GH",
+            "text": "趣味は何ですか？",
+            "timestamp": "2022-10-06T12:21:51.594000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FM",
+            "text": "趣味は歴史を調べることや本を見ることとかですかね",
+            "timestamp": "2022-10-06T12:22:09.486000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GH",
+            "text": "おおいいですね。どのあたりがお好きなんです？",
+            "timestamp": "2022-10-06T12:22:18.662000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FM",
+            "text": "どのあたりと言われると時代ですかね？",
+            "timestamp": "2022-10-06T12:22:32.075000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GH",
+            "text": "そうです",
+            "timestamp": "2022-10-06T12:22:34.734000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FM",
+            "text": "結構全般でメソポタミアから冷戦期までですかね世界全般です",
+            "timestamp": "2022-10-06T12:23:02.613000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GH",
+            "text": "おお。世界史もお詳しいんですね",
+            "timestamp": "2022-10-06T12:23:16.111000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FM",
+            "text": "そうですねこうパズルのピースみたいに各地が各地とつながるので世界全体を覚えることに",
+            "timestamp": "2022-10-06T12:23:38.959000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GH",
+            "text": "私も学生時代は世界史をやっていましてよくわかります",
+            "timestamp": "2022-10-06T12:23:52.269000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FM",
+            "text": "おーそれはなかなかどこか得意個所というか好きな時代はありましたか？",
+            "timestamp": "2022-10-06T12:24:08.314000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GH",
+            "text": "中国史は得意でしたね",
+            "timestamp": "2022-10-06T12:24:16.893000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FM",
+            "text": "中国史ですかそれは良いですね",
+            "timestamp": "2022-10-06T12:24:31.135000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GH",
+            "text": "中国に行ってみたいなと思いつつ行けてないですね",
+            "timestamp": "2022-10-06T12:24:51.966000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FM",
+            "text": "あーそれはつらいですね自分も中国には行ってみたいです",
+            "timestamp": "2022-10-06T12:25:10.974000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GH",
+            "text": "実際建築物とかをみてみたいですよね",
+            "timestamp": "2022-10-06T12:25:24.781000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FM",
+            "text": "そういえば中国と言えばローマの残兵が逃げてきた村が辺境にあるみたいですね",
+            "timestamp": "2022-10-06T12:25:48.203000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GH",
+            "text": "ほお、そうなのですね",
+            "timestamp": "2022-10-06T12:25:55.130000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FM",
+            "text": "めちゃくちゃ長距離を歩いてきたとかでそこが少し気になってます",
+            "timestamp": "2022-10-06T12:26:11.749000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GH",
+            "text": "おお、わたしも興味があります",
+            "timestamp": "2022-10-06T12:26:22.870000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FM",
+            "text": "そういえば中国のいつの時代がすきなんですか？",
+            "timestamp": "2022-10-06T12:26:48.219000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GH",
+            "text": "結構近代が好きですね",
+            "timestamp": "2022-10-06T12:27:05.741000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FM",
+            "text": "おー中華民国とか清とか明とか中華帝国あたりですかね？",
+            "timestamp": "2022-10-06T12:27:31.935000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GH",
+            "text": "そうですそうです。清あたりですね",
+            "timestamp": "2022-10-06T12:27:42.937000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FM",
+            "text": "おーそれはなかなか清は自分も結構好きですね最後崩壊しましたけど",
+            "timestamp": "2022-10-06T12:28:05.203000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GH",
+            "text": "ですね。けっこう長い時代ですものね",
+            "timestamp": "2022-10-06T12:28:29.918000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FM",
+            "text": "そうなんですよね結構長い時代で人口も大きく増えた時代ですし",
+            "timestamp": "2022-10-06T12:28:47.405000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GH",
+            "text": "そうですね。紫禁城とか見てみたいです",
+            "timestamp": "2022-10-06T12:28:59.554000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FM",
+            "text": "おーそれは是非ともいつか行って見たいです",
+            "timestamp": "2022-10-06T12:29:14.009000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

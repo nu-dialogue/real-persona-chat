@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3553,
+    "interlocutors": [
+        "EZ",
+        "FB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-30T15:47:35.717000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FB",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-30T15:47:51.562000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "好きな食べ物は何ですか？",
+            "timestamp": "2022-08-30T15:47:55.888000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FB",
+            "text": "チーズが好きなのでピザなどが食べたいですね。",
+            "timestamp": "2022-08-30T15:48:26.258000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "ピザ！いいですね。チーズがめちゃくちゃのってるピザが、ドミノピザでありましたね。",
+            "timestamp": "2022-08-30T15:48:59.786000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FB",
+            "text": "美味しそうだなと思いながら，宅配ピザは高いのでめったにたのみませんね。",
+            "timestamp": "2022-08-30T15:49:27.558000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "わかります。自分で取りに行くと少し安くなるみたいです。",
+            "timestamp": "2022-08-30T15:49:45.003000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FB",
+            "text": "そうですよね。この前粉から自分で作りました。",
+            "timestamp": "2022-08-30T15:50:17.607000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "え！すごい。大変じゃないですか？",
+            "timestamp": "2022-08-30T15:50:30.932000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FB",
+            "text": "意外とそうでもなかったです。魚焼きグリルで強引に焼きました。",
+            "timestamp": "2022-08-30T15:50:50.462000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "え、あれで焼けるんですか。すごいですね！おいしくできました？",
+            "timestamp": "2022-08-30T15:51:12.991000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FB",
+            "text": "なんとか・・ですが。同居の義母はチーズがダメなので，部分的にチーズなしにして焼きました。",
+            "timestamp": "2022-08-30T15:51:42.713000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。ピザといえば、王道のマルゲリータとかおいしいですよね。",
+            "timestamp": "2022-08-30T15:52:17.691000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FB",
+            "text": "美味しいですよね。シンプルですが好きです。",
+            "timestamp": "2022-08-30T15:52:38.201000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "この前コストコでアメリカンサイズのピザ買いましたが、おいしかったです。",
+            "timestamp": "2022-08-30T15:52:57.701000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FB",
+            "text": "美味しそうですね。コストコ，便利そうですね。いったことがないのですが。",
+            "timestamp": "2022-08-30T15:53:29.556000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "全部がビックサイズです。会員にならないと確かいけないんですよね。",
+            "timestamp": "2022-08-30T15:54:06.045000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FB",
+            "text": "ビッグサイズなんですね。なら，うちは少人数なのであまり関係がないかなと思いました。",
+            "timestamp": "2022-08-30T15:54:36.096000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "私は一人暮らしなので、冷凍して一週間くらいピザ食べてました。",
+            "timestamp": "2022-08-30T15:55:03.989000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FB",
+            "text": "そうなんですね。うちは夫と義母と三人ですが，義母は好き嫌いが多いので。",
+            "timestamp": "2022-08-30T15:55:40.282000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね！例えばどういうものが嫌いなんですか？",
+            "timestamp": "2022-08-30T15:55:51.905000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FB",
+            "text": "肉類もチーズも全部だめです。でも小食なので適当に対応できますが。",
+            "timestamp": "2022-08-30T15:56:19.109000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "肉もダメなんですね。チーズだめはたまに聞きます。",
+            "timestamp": "2022-08-30T15:56:36.544000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FB",
+            "text": "だからほぼ毎日，夕食には魚を出すのでお金がかかりますね。",
+            "timestamp": "2022-08-30T15:57:03.799000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "大変ですね。健康にはよさそうですが。",
+            "timestamp": "2022-08-30T15:57:27.907000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FB",
+            "text": "そうですね。肉を夫婦だけで食べるときもありますが。",
+            "timestamp": "2022-08-30T15:57:48.611000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "肉食べたくなりますよねぇ。",
+            "timestamp": "2022-08-30T15:58:09.012000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FB",
+            "text": "そうですね。そんな時は品数が多くなるので手間がかかります。",
+            "timestamp": "2022-08-30T15:58:31.273000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "たしかにいっぱい作らないとですもんね。ありがとうございました！",
+            "timestamp": "2022-08-30T15:58:51.672000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FB",
+            "text": "こちらこそありがとうございました",
+            "timestamp": "2022-08-30T15:58:59.130000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

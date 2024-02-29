@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 490,
+    "interlocutors": [
+        "AT",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-08T21:10:24.404000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-08T21:10:34.674000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "好きな食べ物ってありますか？",
+            "timestamp": "2022-08-08T21:10:55.215000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "私は野菜が好きです。",
+            "timestamp": "2022-08-08T21:11:12.875000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "野菜の特に何が好きとかありますか？",
+            "timestamp": "2022-08-08T21:11:37.681000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "チーズも好きですね。あとはお菓子も。",
+            "timestamp": "2022-08-08T21:12:02.423000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "私も野菜好きです、バランス良く栄養摂りたくて。",
+            "timestamp": "2022-08-08T21:12:43.226000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "健康に良いですからね。野菜だと、レタスが特に好きです。",
+            "timestamp": "2022-08-08T21:13:29.343000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "この季節冷たくてシャキシャキしてていいですね。",
+            "timestamp": "2022-08-08T21:13:54.694000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "季節問わず食べてますね。ポテサラも好きです。",
+            "timestamp": "2022-08-08T21:14:26.529000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "私昨日ポテサラ食べました！",
+            "timestamp": "2022-08-08T21:14:55.880000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね！手作りですか？",
+            "timestamp": "2022-08-08T21:15:12.633000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "はい、キュウリとプチトマトと一緒に食べました。",
+            "timestamp": "2022-08-08T21:15:50.986000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "美味しそうですね！プチトマトもこの時期おいしいですね。",
+            "timestamp": "2022-08-08T21:16:26.194000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "私の知り合いは家庭菜園でプチトマト作ってるそうです。",
+            "timestamp": "2022-08-08T21:17:06.916000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "自分で作ったプチトマトはさらに美味しいでしょうね。",
+            "timestamp": "2022-08-08T21:17:44.089000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "チーズは何が好きですか？",
+            "timestamp": "2022-08-08T21:18:20.692000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "カマンベールが好きです。",
+            "timestamp": "2022-08-08T21:18:48.148000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "おいしいですよね、ワインと合わせて食すことが多いです。",
+            "timestamp": "2022-08-08T21:19:04.930000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "ワインお好きなんですね！赤と白どっちが好きですか？",
+            "timestamp": "2022-08-08T21:19:55.582000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "白の方が好きです！チーズも白と合わせて飲みます。",
+            "timestamp": "2022-08-08T21:20:25.525000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "なんだかお洒落ですね！",
+            "timestamp": "2022-08-08T21:20:43.661000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "お酒飲みますか？",
+            "timestamp": "2022-08-08T21:20:54.288000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "好きなんですが、弱すぎるのでめったに飲まないです。",
+            "timestamp": "2022-08-08T21:21:28.312000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "全く飲めない人もいるので、好きなお酒を少し飲めれば十分かと思います！",
+            "timestamp": "2022-08-08T21:22:30.138000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "そうですね、少量で楽しめるのでいいのかもしれません。",
+            "timestamp": "2022-08-08T21:22:56.414000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "特別な日に少し飲むとかでいいのではないでしょうか？",
+            "timestamp": "2022-08-08T21:23:22.187000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "それもありですね！今度からそうしてみます。",
+            "timestamp": "2022-08-08T21:23:43.341000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "本日はお話に付き合っていただき、ありがとうございました！",
+            "timestamp": "2022-08-08T21:24:18.224000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "こちらこそ、ありがとうございました！",
+            "timestamp": "2022-08-08T21:24:35.752000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

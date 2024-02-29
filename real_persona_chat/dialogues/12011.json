@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12011,
+    "interlocutors": [
+        "EY",
+        "AE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EY",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-08T21:09:32.078000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AE",
+            "text": "こんばんは！よろしくお願いします～",
+            "timestamp": "2022-09-08T21:09:38.885000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EY",
+            "text": "今日の晩御飯はなんですか？",
+            "timestamp": "2022-09-08T21:10:04.977000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AE",
+            "text": "今日はマックの月見バーガーを食べましたよ",
+            "timestamp": "2022-09-08T21:10:17.301000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EY",
+            "text": "なるほど、月見バーガー食べたことないんですよね。",
+            "timestamp": "2022-09-08T21:10:35.153000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AE",
+            "text": "並んでまで食べたいかといわれるとわかりませんが、美味しいは美味しいですよ～",
+            "timestamp": "2022-09-08T21:11:02.211000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EY",
+            "text": "なるほど、月見というだけあって期間限定だったりしますか？",
+            "timestamp": "2022-09-08T21:12:04.678000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AE",
+            "text": "ですです。何月までかはちょっと忘れましたが、数日前から発売開始でした！",
+            "timestamp": "2022-09-08T21:12:29.186000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EY",
+            "text": "期間限定ならせっかくですし買って食べてみてもいいですね。",
+            "timestamp": "2022-09-08T21:12:55.196000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AE",
+            "text": "ぜひ一度食べてみてください！そちらは今日何食べましたか？",
+            "timestamp": "2022-09-08T21:13:28.052000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EY",
+            "text": "ハンバーグを作って食べました。",
+            "timestamp": "2022-09-08T21:14:20.383000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AE",
+            "text": "ハンバーグ！いいですね！自炊は普段からされてるんですか？",
+            "timestamp": "2022-09-08T21:14:30.910000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EY",
+            "text": "普段はしません。今日は特別に作りました。",
+            "timestamp": "2022-09-08T21:14:49.791000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AE",
+            "text": "そうなんですね。何か特別なことがあったんですか？",
+            "timestamp": "2022-09-08T21:15:28.943000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EY",
+            "text": "ハンバーグの動画を見てしまいどうしても食べたくなったんです。",
+            "timestamp": "2022-09-08T21:16:10.349000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AE",
+            "text": "なるほど。私もチャーハンとか時々無性に食べたくなって作るのでわかります！",
+            "timestamp": "2022-09-08T21:16:32.149000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EY",
+            "text": "ですよね。ハンバーグは初めて作ったのですがとてもおいしく作れました。",
+            "timestamp": "2022-09-08T21:17:12.509000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AE",
+            "text": "初めてで美味しく作れるのはすごいですね！私も久しぶりに作りたくなってきました。",
+            "timestamp": "2022-09-08T21:17:48.995000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EY",
+            "text": "ぜひ料理研究家のリュウジのハンバーグの動画を参考にしてみてください。おいしく作れるはずです。",
+            "timestamp": "2022-09-08T21:18:46.649000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AE",
+            "text": "また見て見ます！",
+            "timestamp": "2022-09-08T21:19:21.152000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EY",
+            "text": "彼は色々な料理の作り方を動画にしてあげているので色々参考にするといいですよ",
+            "timestamp": "2022-09-08T21:19:56.443000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AE",
+            "text": "ところで、月見バーガーは食べたことないって言ってましたけど、ファストフードとかは普段食べますか？",
+            "timestamp": "2022-09-08T21:20:58.563000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EY",
+            "text": "昔はよく食べていましたが今はあまり食べませんね。買ってもポテトやチキンナゲットくらいです。",
+            "timestamp": "2022-09-08T21:21:41.786000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AE",
+            "text": "そうなんですね。ここのポテトが好きみたいなのってありますか？",
+            "timestamp": "2022-09-08T21:22:25.073000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EY",
+            "text": "自分はマックのポテトがとても好きで買うときはそればかりです。",
+            "timestamp": "2022-09-08T21:23:09.344000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AE",
+            "text": "マックのポテトおいしいですよね！私も特にできたてのが好きです！",
+            "timestamp": "2022-09-08T21:23:31.495000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EY",
+            "text": "出来立ていいですよね。よく買うときは出来立てをお願いします。",
+            "timestamp": "2022-09-08T21:25:11.868000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AE",
+            "text": "ですよね！私もよく出来立てをお願いしてます",
+            "timestamp": "2022-09-08T21:24:53.556000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EY",
+            "text": "出来立てじゃないとすぐ冷えるしおいしくなくなりますからね。",
+            "timestamp": "2022-09-08T21:25:40.206000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AE",
+            "text": "ですです。ありがとうございました！",
+            "timestamp": "2022-09-08T21:25:51.276000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

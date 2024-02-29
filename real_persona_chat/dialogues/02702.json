@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2702,
+    "interlocutors": [
+        "BL",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-23T09:27:26.449000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "どうも、おはようございます！",
+            "timestamp": "2022-08-23T09:27:33.100000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "いつもは早起きなんですか？",
+            "timestamp": "2022-08-23T09:28:03.409000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "いえ、昼夜逆転してるので、実は自分にとっては朝が夜みたいなものなんです。",
+            "timestamp": "2022-08-23T09:28:24.272000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "何時に寝るのですか？",
+            "timestamp": "2022-08-23T09:28:51.925000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "日によって変わりますが、午後２時～３時ぐらいが多いですね。",
+            "timestamp": "2022-08-23T09:29:11.610000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "想像以上に逆転ですね。起きるのはどれくらいの時間ですか？",
+            "timestamp": "2022-08-23T09:30:28.277000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "夜の7時～10時ぐらいかなあ。そして深夜から仕事ですね。",
+            "timestamp": "2022-08-23T09:30:56.125000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "なるほど。お仕事の都合なんですね。",
+            "timestamp": "2022-08-23T09:31:20.671000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "それもあります。海外サーバーにアクセスするんですが、夜の方が混雑してないんです。",
+            "timestamp": "2022-08-23T09:31:42.468000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "海外だと時差もありそうですね。",
+            "timestamp": "2022-08-23T09:32:22.668000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "あ、海外といっても、アジアなので。そんなに違わないです。",
+            "timestamp": "2022-08-23T09:32:35.566000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "なるほど。混雑回避、時差通勤みたいですね。",
+            "timestamp": "2022-08-23T09:33:20.747000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "まさにそんな感じです。",
+            "timestamp": "2022-08-23T09:33:27.766000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "どのくらい、その生活を続けているのですか？",
+            "timestamp": "2022-08-23T09:34:00.376000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "もう３年ぐらいですね。もともと、通勤の仕事も夜だったのですが。",
+            "timestamp": "2022-08-23T09:34:20.008000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "夜のほうが強いのですね。",
+            "timestamp": "2022-08-23T09:34:49.595000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "はい。楽ですね。あなたはどうですか？",
+            "timestamp": "2022-08-23T09:35:00.293000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "私は睡眠時間が長いので。でもどちらかというと夜ですね。",
+            "timestamp": "2022-08-23T09:35:58.923000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "何時ぐらいに眠るんですか？",
+            "timestamp": "2022-08-23T09:36:20.068000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "午前２時くらいです。",
+            "timestamp": "2022-08-23T09:36:42.110000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "ちなみに、お昼は何されてるんですか？",
+            "timestamp": "2022-08-23T09:37:02.151000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "お昼まで寝てから仕事をする感じですね。",
+            "timestamp": "2022-08-23T09:37:32.286000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "なるほど。けっこう自由がきくお仕事なんですね。",
+            "timestamp": "2022-08-23T09:37:47.256000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "外で働くときも、午後からを希望しますよ。",
+            "timestamp": "2022-08-23T09:38:22.982000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "じゃあ、けっこう似たタイプですね。私も午後や夜の方が好きです。",
+            "timestamp": "2022-08-23T09:38:48.059000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "血圧が低くて、午前中は効率が良くないのですよ。",
+            "timestamp": "2022-08-23T09:39:42.987000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "じゃあ今もけっこう眠いとか？",
+            "timestamp": "2022-08-23T09:40:18.495000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "今日はなんだか早く起きてしまった漢字です。",
+            "timestamp": "2022-08-23T09:41:00.937000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "そうなんですね。レアケース！",
+            "timestamp": "2022-08-23T09:41:10.470000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 1,
+            "comprehension": 1,
+            "familiarity": 2,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 5
+        }
+    ]
+}

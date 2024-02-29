@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1704,
+    "interlocutors": [
+        "DT",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DT",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-15T22:52:14.973000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-15T22:52:19.231000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DT",
+            "text": "最近何か買い物しましたか？食事以外で。",
+            "timestamp": "2022-08-15T22:53:13.415000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "最近は服とかカバンとか買いました",
+            "timestamp": "2022-08-15T22:53:30.533000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DT",
+            "text": "洋服とかよく買われるんですか？",
+            "timestamp": "2022-08-15T22:53:59.098000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "そうでもないです。着てるのは古着ばっかですが今回は仕事用のを買いました",
+            "timestamp": "2022-08-15T22:54:43.898000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DT",
+            "text": "そうなんですね。リモートワークと出社して仕事するのどちらが多いですか？",
+            "timestamp": "2022-08-15T22:55:51.372000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "今は出社が多くなりました。ちょっと落ち着いてきたので",
+            "timestamp": "2022-08-15T22:56:31.383000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DT",
+            "text": "出社の時はスーツですか？",
+            "timestamp": "2022-08-15T22:57:16.179000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "今はオフィスカジュアルです。シャツにパンツでＯＫです",
+            "timestamp": "2022-08-15T22:58:12.567000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DT",
+            "text": "楽でいいですよね。",
+            "timestamp": "2022-08-15T22:59:04.390000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "はい、外回りが今は多くてスニーカー履けるんですがめっちゃ楽です",
+            "timestamp": "2022-08-15T22:59:36.188000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DT",
+            "text": "それはよかったです。外回り夏は大変そうですね",
+            "timestamp": "2022-08-15T23:00:41.819000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "たまりませんね。熱射病になりそうです。お仕事はされてますか？",
+            "timestamp": "2022-08-15T23:01:06.540000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DT",
+            "text": "水分の持ち歩き必須ですね。私は今は育児に専念してます。",
+            "timestamp": "2022-08-15T23:02:05.314000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "そうでしたか。最近は何か買われましたか？",
+            "timestamp": "2022-08-15T23:02:40.828000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DT",
+            "text": "最近は赤ちゃんの服買いました。可愛いのが多くて見てるだけで楽しいです。",
+            "timestamp": "2022-08-15T23:03:15.626000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "へえ、西松屋とかになるんですかね？赤ちゃんの服といえば",
+            "timestamp": "2022-08-15T23:03:46.052000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DT",
+            "text": "そうです。アカチャンホンポとか。",
+            "timestamp": "2022-08-15T23:04:10.788000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "なるほど。たまに友達の子のために何か買ったりでいきます。",
+            "timestamp": "2022-08-15T23:05:14.272000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DT",
+            "text": "そうなんですか。プレゼントしてるんですか？",
+            "timestamp": "2022-08-15T23:06:16.165000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "はい、生まれた時には。でも何買えばいいか迷いますね",
+            "timestamp": "2022-08-15T23:06:46.629000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DT",
+            "text": "何でも嬉しいと思いますよー。ちょっとしたおもちゃとかいいと思います。",
+            "timestamp": "2022-08-15T23:07:44.553000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "なるほど、好みとかあるのかなって。おもちゃはなんでもＯＫですか？",
+            "timestamp": "2022-08-15T23:08:16.620000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DT",
+            "text": "キャラクターは好みがありそうなのでキャラ以外のものとか。動物のガラガラとか。",
+            "timestamp": "2022-08-15T23:09:26.449000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "ああ、なるほど。そういう意見参考になります。",
+            "timestamp": "2022-08-15T23:09:48.816000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DT",
+            "text": "いとこからプレゼントでお米でできたおもちゃをもらって嬉しかったです。",
+            "timestamp": "2022-08-15T23:11:26.180000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "お米？また変わってますね。普通に売ってるんですか？",
+            "timestamp": "2022-08-15T23:11:51.976000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DT",
+            "text": "売ってます。お米だと口にしても安心するしこんな商品あるんだって感動しました。",
+            "timestamp": "2022-08-15T23:12:42.624000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "へえ、それは興味深いですね。参考にさせてもらいますね",
+            "timestamp": "2022-08-15T23:13:13.287000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

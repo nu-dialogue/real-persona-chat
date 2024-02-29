@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 227,
+    "interlocutors": [
+        "AN",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AN",
+            "text": "おはようございますー！",
+            "timestamp": "2022-08-11T10:18:50.497000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-11T10:19:23.103000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AN",
+            "text": "この間、ブルーベリー狩りをしてきたんですよ。",
+            "timestamp": "2022-08-11T10:19:38.081000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "まだ行ったことないですが、どうでした？",
+            "timestamp": "2022-08-11T10:19:53.309000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AN",
+            "text": "想像以上に楽しかったです！",
+            "timestamp": "2022-08-11T10:20:02.621000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "どれくらい食べました？",
+            "timestamp": "2022-08-11T10:20:19.528000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AN",
+            "text": "かご山盛りに食べちゃいました！",
+            "timestamp": "2022-08-11T10:20:32.372000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "なかなか無い機会なので当然かと思います！",
+            "timestamp": "2022-08-11T10:20:51.175000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AN",
+            "text": "しかもブルーベリーの品種が10種類以上もあったんですよ。",
+            "timestamp": "2022-08-11T10:21:10.736000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "そんなにあったんですか！？それは素晴らしいですね。",
+            "timestamp": "2022-08-11T10:21:33.168000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AN",
+            "text": "はい。おかげで食べ比べも楽しむことができました。",
+            "timestamp": "2022-08-11T10:21:46.525000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "それも無い機会ですよね、全然味違いました？",
+            "timestamp": "2022-08-11T10:22:27.123000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AN",
+            "text": "全然違いましたよー！びっくりです。",
+            "timestamp": "2022-08-11T10:22:45.391000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "いちごだとミルクに付けたりしますが、ブルーベリーは何か付けました？",
+            "timestamp": "2022-08-11T10:23:19.948000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AN",
+            "text": "ブルーベリーは何もなしでした。ブルーベリーを冷やす用の冷水が用意されていたくらいです。",
+            "timestamp": "2022-08-11T10:23:48.794000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "10種類あれば味にも飽きないですもんね。",
+            "timestamp": "2022-08-11T10:24:18.504000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AN",
+            "text": "はい。ただ一つ難点がありました。",
+            "timestamp": "2022-08-11T10:24:34.536000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "何ですか？",
+            "timestamp": "2022-08-11T10:24:43.211000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AN",
+            "text": "めちゃめちゃ暑かったんです。",
+            "timestamp": "2022-08-11T10:24:56.296000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "あ、そればかりは仕方ないですね。冷水必須です。",
+            "timestamp": "2022-08-11T10:25:22.750000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AN",
+            "text": "もう溶けるかと思いました。",
+            "timestamp": "2022-08-11T10:25:36.610000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "ブルーベリー狩りは何分食べれるんですか？",
+            "timestamp": "2022-08-11T10:26:02.282000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AN",
+            "text": "制限時間は60分だったんですが、何分超過してもいいからねーと言われました！",
+            "timestamp": "2022-08-11T10:26:31.080000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "60分も食べ続けられないと思ったんですかね。",
+            "timestamp": "2022-08-11T10:27:02.984000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AN",
+            "text": "ゆっくりしていっていいよーという好意と受け取っていましたー！でも確かに60分居るのが限界でした。",
+            "timestamp": "2022-08-11T10:27:43.215000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "暑くなければ60分以上食べれそうでした？",
+            "timestamp": "2022-08-11T10:28:20.281000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AN",
+            "text": "暑くなければ、2時間くらいは食べれそうでしたよ。",
+            "timestamp": "2022-08-11T10:28:47.338000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "それはすごいですね、持ち帰りとかはできました？",
+            "timestamp": "2022-08-11T10:29:11.753000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AN",
+            "text": "はい。お持ち帰りもできたので、夫のお土産にしました。",
+            "timestamp": "2022-08-11T10:29:25.632000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "それはいいですね、有益な情報ありがとうございました。",
+            "timestamp": "2022-08-11T10:29:55.928000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AN",
+            "text": "こちらこそ、お話聞いてくださってありがとうございました。",
+            "timestamp": "2022-08-11T10:30:06.500000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 2,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 2
+        }
+    ]
+}

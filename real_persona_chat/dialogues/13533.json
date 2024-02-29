@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13533,
+    "interlocutors": [
+        "DD",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DD",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T10:57:48.867000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T10:57:55.693000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DD",
+            "text": "趣味はなんですか？",
+            "timestamp": "2022-09-25T10:58:02.140000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "読書とかウォーキングです",
+            "timestamp": "2022-09-25T10:58:11.158000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DD",
+            "text": "いいですね！最近はどんな本を読まれてるんですか？",
+            "timestamp": "2022-09-25T10:58:35.645000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "最近だと仕事関係の本ですね",
+            "timestamp": "2022-09-25T10:58:46.806000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DD",
+            "text": "そうなんですね！どれくらいのスピードで読まれますか？",
+            "timestamp": "2022-09-25T10:59:23.527000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "月１、２冊くらいです",
+            "timestamp": "2022-09-25T10:59:54.585000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DD",
+            "text": "そうなんですね！本って選ぶのに時間かかりませんか？",
+            "timestamp": "2022-09-25T11:00:25.776000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "趣味の本だとかかりますね",
+            "timestamp": "2022-09-25T11:00:38.253000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DD",
+            "text": "ですよねーなので、読む前に時間かかってしまいます。",
+            "timestamp": "2022-09-25T11:01:06.620000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "仕事の本だとこれ読まなきゃというのがあるので早いです",
+            "timestamp": "2022-09-25T11:01:30.882000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DD",
+            "text": "確かに！私の場合は学習本にも時間がかかります",
+            "timestamp": "2022-09-25T11:02:16.815000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "選ぶところからだとそうなりますよね",
+            "timestamp": "2022-09-25T11:02:34.028000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DD",
+            "text": "ですよねー必ず書店に行って、中身を見てから決めたいんですよねー",
+            "timestamp": "2022-09-25T11:02:59.368000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "それは分かります",
+            "timestamp": "2022-09-25T11:03:10.278000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DD",
+            "text": "ですよね！電子でも試し読みとかあるけど、あれはちょっと違うという",
+            "timestamp": "2022-09-25T11:03:35.965000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "漫画とかなら試し読みで十分なんですけど本だとそうはいきませんね",
+            "timestamp": "2022-09-25T11:04:09.628000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DD",
+            "text": "そうなんですよね。結構本って相性ありますもんね。図書館はよく行きます。",
+            "timestamp": "2022-09-25T11:04:42.573000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "最近あまり図書館行ってないんですよ",
+            "timestamp": "2022-09-25T11:04:58.028000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DD",
+            "text": "そうなんですね！お忙しくてですか？",
+            "timestamp": "2022-09-25T11:05:18.651000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "そうですね。電子とかで持ってる本を積読してるのもあります",
+            "timestamp": "2022-09-25T11:05:43.751000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DD",
+            "text": "なるほど！図書館のシーンとした雰囲気が好きです。",
+            "timestamp": "2022-09-25T11:06:13.913000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "分かります。なんか集中できますよね",
+            "timestamp": "2022-09-25T11:06:28.423000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DD",
+            "text": "ですよね！しかも誰も人のことを気にしてない感じもいいです。",
+            "timestamp": "2022-09-25T11:06:55.373000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "あーそれもいいですね！",
+            "timestamp": "2022-09-25T11:07:13.526000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DD",
+            "text": "なんか自由を感じます！はは",
+            "timestamp": "2022-09-25T11:07:31.692000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "皆自由に本を選んでる雰囲気がいいですよね",
+            "timestamp": "2022-09-25T11:07:44.178000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DD",
+            "text": "ですよねーそれに集中してていいです！",
+            "timestamp": "2022-09-25T11:08:13.952000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "よくわかります！",
+            "timestamp": "2022-09-25T11:08:19.584000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

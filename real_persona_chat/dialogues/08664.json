@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8664,
+    "interlocutors": [
+        "CO",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます",
+            "timestamp": "2022-08-08T08:02:38.584000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "おはようございます",
+            "timestamp": "2022-08-08T08:02:49.004000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "朝のルーティーンってありますか？",
+            "timestamp": "2022-08-08T08:02:58.174000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "散歩です、一時間",
+            "timestamp": "2022-08-08T08:03:09.011000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "健康的ですね。私も散歩します",
+            "timestamp": "2022-08-08T08:03:27.975000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "ダイエット中はもう少し激しいやつやったりしますが",
+            "timestamp": "2022-08-08T08:03:44.127000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "なるほど。私は３０分ぐらいですね。いつも",
+            "timestamp": "2022-08-08T08:04:03.385000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "２０分は糖質を使われ、それから脂質の燃焼が始まるので。ダイエット目的なら４０分～１ｈがオススメです。",
+            "timestamp": "2022-08-08T08:04:44.846000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "なるほど。言いにくいのですが、散歩のあとにはご褒美があるんです",
+            "timestamp": "2022-08-08T08:05:09.923000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "お、ご褒美",
+            "timestamp": "2022-08-08T08:05:17.109000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "帰りに朝マックをするようにしてます。いいのでしょうか？",
+            "timestamp": "2022-08-08T08:05:37.083000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "フライドポテトは避けましょう",
+            "timestamp": "2022-08-08T08:05:48.282000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "了解しました",
+            "timestamp": "2022-08-08T08:06:12.012000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "できれば、コーラとかジュースも避けたほうが",
+            "timestamp": "2022-08-08T08:06:23.838000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "ああ、そうですか。コーヒーは大丈夫ですか？",
+            "timestamp": "2022-08-08T08:06:37.549000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "珈琲は脂肪燃焼効果があります。コンデンスミルクは避けたほうがいいです。",
+            "timestamp": "2022-08-08T08:06:54.778000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "参考になります。ちなみに炭酸水はどうでしょうか？",
+            "timestamp": "2022-08-08T08:07:12.723000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "水なので、甘くない奴なら基本問題ありません",
+            "timestamp": "2022-08-08T08:07:28.748000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "勉強になります。お詳しいですね。",
+            "timestamp": "2022-08-08T08:07:42.395000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "結構勉強しましたもん",
+            "timestamp": "2022-08-08T08:07:52.555000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "コンビニのスイーツはだめですよね？",
+            "timestamp": "2022-08-08T08:08:11.890000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "スイーツほしいなら果物にしましょう",
+            "timestamp": "2022-08-08T08:08:25.560000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "果物か。クリームとかはもってのほか？",
+            "timestamp": "2022-08-08T08:08:43.587000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "それは脂質です",
+            "timestamp": "2022-08-08T08:08:51.793000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "といいますと？",
+            "timestamp": "2022-08-08T08:09:04.380000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "おデブになるための原材料です",
+            "timestamp": "2022-08-08T08:09:17.265000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "あー、楽しみがなくなっていきます",
+            "timestamp": "2022-08-08T08:09:37.188000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "うまくできてるのですよ、美味しいなあと思えるものは、美容の的",
+            "timestamp": "2022-08-08T08:09:57.357000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "なるほど。ツラいですが何とか頑張ってみます",
+            "timestamp": "2022-08-08T08:10:24.697000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "人類は長らく飢餓と戦ってきたので",
+            "timestamp": "2022-08-08T08:10:37.078000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

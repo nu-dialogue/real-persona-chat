@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8251,
+    "interlocutors": [
+        "BO",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T12:00:20.848000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T12:00:22.293000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-08-07T12:00:35.045000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "はい、日曜日なので",
+            "timestamp": "2022-08-07T12:00:49.014000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "今日は何される予定ですか？",
+            "timestamp": "2022-08-07T12:01:16.198000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "アニメを見ます、東京グールという作品です",
+            "timestamp": "2022-08-07T12:01:41.625000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "あ、私もみてました！",
+            "timestamp": "2022-08-07T12:01:51.319000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "今、二期を見てます",
+            "timestamp": "2022-08-07T12:02:08.526000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "めっちゃグロいですけどなぜか見てしまいます。",
+            "timestamp": "2022-08-07T12:02:29.420000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "ですよね、人間側とグール側の思いが交錯するところがグッときます",
+            "timestamp": "2022-08-07T12:03:08.358000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "確かに！アニメはよく見るんですか？",
+            "timestamp": "2022-08-07T12:03:31.128000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "大好きなので、毎日何かしら見てます",
+            "timestamp": "2022-08-07T12:03:53.884000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "私もアニメ大好きで毎日みてます！",
+            "timestamp": "2022-08-07T12:04:07.600000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "一押しの作品はありますか？",
+            "timestamp": "2022-08-07T12:04:33.458000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "私は昔からテニプリ推しですね。",
+            "timestamp": "2022-08-07T12:04:44.638000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "テニスの王子様ですね、内容は知ってますが、見たことなかったです",
+            "timestamp": "2022-08-07T12:05:25.681000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "あ！そうです。あとはヒロアカやキングダムなどみてます。",
+            "timestamp": "2022-08-07T12:05:43.751000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "お～ヒロアカ大好きです、キングダムはまだ見てないですね",
+            "timestamp": "2022-08-07T12:06:15.363000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "ヒロアカいいですよね、ちなみにかっちゃん推しです。",
+            "timestamp": "2022-08-07T12:06:35.282000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、自分は常闇君おしですかね、後ゆうえいbig3",
+            "timestamp": "2022-08-07T12:07:38.607000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "あーいいですね。６期も楽しみですね。",
+            "timestamp": "2022-08-07T12:07:58.231000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "ですね、デクの活躍が楽しみです",
+            "timestamp": "2022-08-07T12:08:24.570000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "好きすぎてこの前イベント行きました。",
+            "timestamp": "2022-08-07T12:08:41.204000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "それは良いですね、ちなみにどこでやってたんですか？",
+            "timestamp": "2022-08-07T12:09:08.672000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "東京の武蔵野の森ってところでやりました！",
+            "timestamp": "2022-08-07T12:09:24.789000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "へー、初めて知りました。どうでしたか？",
+            "timestamp": "2022-08-07T12:09:45.485000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "生のアフレコは鳥肌もんでした！",
+            "timestamp": "2022-08-07T12:10:02.068000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "声優さんも来てたんですか？すごいです",
+            "timestamp": "2022-08-07T12:10:22.544000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "はい！主要キャストの声優さんたちたくさんきてました！",
+            "timestamp": "2022-08-07T12:10:44.709000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "うらやましいです！自分もイベント行きたいです",
+            "timestamp": "2022-08-07T12:11:07.659000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BO",
+            "text": "是非行ってみてください！ありがとうございます。",
+            "timestamp": "2022-08-07T12:11:25.275000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

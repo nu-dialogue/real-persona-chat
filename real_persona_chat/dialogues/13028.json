@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13028,
+    "interlocutors": [
+        "FZ",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FZ",
+            "text": "こんばんは",
+            "timestamp": "2022-09-15T20:25:54.015000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-15T20:26:07.791000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FZ",
+            "text": "今日は何かしてましたか？",
+            "timestamp": "2022-09-15T20:26:29.232000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "今日は1日仕事でした！",
+            "timestamp": "2022-09-15T20:26:46.870000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FZ",
+            "text": "そうだったんですね、それはお疲れ様でした。朝からですか？",
+            "timestamp": "2022-09-15T20:27:02.750000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "はい！ようやくさっき帰ってきました！",
+            "timestamp": "2022-09-15T20:27:24.517000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FZ",
+            "text": "そうだったんですね、帰る時間は日によって違うんですか？",
+            "timestamp": "2022-09-15T20:27:45.779000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "だいたい5時には帰れるのですが、繁忙期は残業もします。",
+            "timestamp": "2022-09-15T20:28:08.484000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、今日は忙しかったんですね。じゃあ寝るのも早いですか？",
+            "timestamp": "2022-09-15T20:28:31.564000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "夜型なので寝るのがどうしても遅くなっちゃいます。",
+            "timestamp": "2022-09-15T20:28:58.110000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、じゃあ睡眠時間は短くても平気な方ですか？",
+            "timestamp": "2022-09-15T20:29:17.573000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "なんとかなってはいるんですが、日中めちゃくちゃ眠くなります。",
+            "timestamp": "2022-09-15T20:29:46.732000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FZ",
+            "text": "そうですよね、さすがに短いと眠くなりますよね、お昼食べた後とか",
+            "timestamp": "2022-09-15T20:30:04.439000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "お昼後はこっそり昼寝してます。",
+            "timestamp": "2022-09-15T20:30:28.882000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FZ",
+            "text": "少しでも寝れるのは大事ですよねー",
+            "timestamp": "2022-09-15T20:30:48.357000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "この前昼寝がバレて怒られてしまったので、ちょっと辛いです。",
+            "timestamp": "2022-09-15T20:31:16.416000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FZ",
+            "text": "休憩時間以外に寝ちゃったってことですか？",
+            "timestamp": "2022-09-15T20:31:42.364000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "会議前にちょっと寝ようと思ったら、遅刻してしまって。",
+            "timestamp": "2022-09-15T20:32:08.874000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FZ",
+            "text": "そうだったんですねー、そういう時焦りますよねー",
+            "timestamp": "2022-09-15T20:32:22.159000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "上司に起こされたときは血の気が引きました。",
+            "timestamp": "2022-09-15T20:32:51.556000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FZ",
+            "text": "確かに、夢であってほしいって感じですね",
+            "timestamp": "2022-09-15T20:33:05.599000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "だから、昼寝するときはバイブでアラームを鳴らすようにしました。",
+            "timestamp": "2022-09-15T20:33:42.286000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、私はバイブのアラームだと起きれる自信ないですー",
+            "timestamp": "2022-09-15T20:34:25.222000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "気合いでなんとかなります！",
+            "timestamp": "2022-09-15T20:34:46.363000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FZ",
+            "text": "朝とかは一回で起きれるタイプですか？",
+            "timestamp": "2022-09-15T20:35:04.503000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "目覚まし４個でなんとか起きてます。",
+            "timestamp": "2022-09-15T20:35:27.607000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FZ",
+            "text": "４個もですか！すごい音なりそうですね",
+            "timestamp": "2022-09-15T20:35:41.837000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "それでも寝坊しかける時があるのが怖いです。",
+            "timestamp": "2022-09-15T20:36:05.301000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FZ",
+            "text": "それは気を付けないとですねー",
+            "timestamp": "2022-09-15T20:36:19.327000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "気合いでなんとかします！",
+            "timestamp": "2022-09-15T20:36:34.745000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

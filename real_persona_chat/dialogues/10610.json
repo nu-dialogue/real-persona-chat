@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10610,
+    "interlocutors": [
+        "CD",
+        "HZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T15:14:16.224000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T15:14:18.988000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CD",
+            "text": "この夏なにか楽しみな予定はありますか？",
+            "timestamp": "2022-08-15T15:14:21.205000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HZ",
+            "text": "とくにないですねー、そちらは？",
+            "timestamp": "2022-08-15T15:14:32.583000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CD",
+            "text": "私はあったんですけど、コロナでキャンセルになっちゃいました。",
+            "timestamp": "2022-08-15T15:15:01.390000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HZ",
+            "text": "ああ、それは残念。なんの予定だったんですか？",
+            "timestamp": "2022-08-15T15:15:13.885000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CD",
+            "text": "友達が赤ちゃん産んだので、会いにいく予定でした。",
+            "timestamp": "2022-08-15T15:15:37.711000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HZ",
+            "text": "たしかに、コロナが再燃しているので心配ですね",
+            "timestamp": "2022-08-15T15:15:58.656000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CD",
+            "text": "はい。あなたはコロナかかりましたか？",
+            "timestamp": "2022-08-15T15:16:11.304000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HZ",
+            "text": "いえ、かかっていません。あなたは？",
+            "timestamp": "2022-08-15T15:16:21.736000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CD",
+            "text": "今現在です。",
+            "timestamp": "2022-08-15T15:16:30.659000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HZ",
+            "text": "え、大丈夫ですか？",
+            "timestamp": "2022-08-15T15:16:43.724000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CD",
+            "text": "はい。なんとか！",
+            "timestamp": "2022-08-15T15:16:57.062000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HZ",
+            "text": "もしや、今日陽性判定でたとかですか？",
+            "timestamp": "2022-08-15T15:17:07.640000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CD",
+            "text": "先週出ました。",
+            "timestamp": "2022-08-15T15:17:23.046000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HZ",
+            "text": "じゃあ、今は待機ですか？",
+            "timestamp": "2022-08-15T15:17:33.627000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CD",
+            "text": "そうですね。買い物も行けず隔離中です。",
+            "timestamp": "2022-08-15T15:17:55.650000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HZ",
+            "text": "そうだったんですね。それは大変ですね",
+            "timestamp": "2022-08-15T15:18:07.655000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CD",
+            "text": "夏にかかると最悪ですよ。",
+            "timestamp": "2022-08-15T15:18:23.456000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HZ",
+            "text": "症状重かったですか？",
+            "timestamp": "2022-08-15T15:18:32.048000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CD",
+            "text": "熱が５日間続いてますが、重いんですかね？",
+            "timestamp": "2022-08-15T15:19:03.832000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HZ",
+            "text": "どうなんだろう。高熱でした？",
+            "timestamp": "2022-08-15T15:19:16.453000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CD",
+            "text": "３９度とかです。",
+            "timestamp": "2022-08-15T15:19:29.098000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HZ",
+            "text": "つらいですね",
+            "timestamp": "2022-08-15T15:19:35.768000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CD",
+            "text": "はい。すいませんこんな話。",
+            "timestamp": "2022-08-15T15:20:12.432000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HZ",
+            "text": "いえいえ、お大事になさってくださいね",
+            "timestamp": "2022-08-15T15:20:22.904000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CD",
+            "text": "ありがとうございます。あなたも気をつけてくださいね。",
+            "timestamp": "2022-08-15T15:20:37.028000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HZ",
+            "text": "ありがとうございます",
+            "timestamp": "2022-08-15T15:20:53.924000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CD",
+            "text": "では、失礼します。",
+            "timestamp": "2022-08-15T15:21:02.506000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HZ",
+            "text": "はい、今日はありがとうございました！",
+            "timestamp": "2022-08-15T15:21:08.824000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

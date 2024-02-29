@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4122,
+    "interlocutors": [
+        "DN",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-07T12:05:04.635000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-07T12:05:10.172000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "今日は良い天気ですがどちらかお出かけになられますか？",
+            "timestamp": "2022-09-07T12:05:20.904000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "今日は半分仕事日でして",
+            "timestamp": "2022-09-07T12:05:38.981000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。午前中で終わりという感じでしょうか？",
+            "timestamp": "2022-09-07T12:05:52.478000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "これからです",
+            "timestamp": "2022-09-07T12:06:09.503000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。私は半日勤務の時は午後休みが多いので。",
+            "timestamp": "2022-09-07T12:06:32.022000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "その方が良いですよね",
+            "timestamp": "2022-09-07T12:06:46.915000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "そうですね。午後の方が時間が長いですし。",
+            "timestamp": "2022-09-07T12:07:01.343000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "確かに気も楽ですしね",
+            "timestamp": "2022-09-07T12:07:15.459000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "夏の間は午後から出勤ですと暑いですよね。",
+            "timestamp": "2022-09-07T12:07:30.593000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "そうですね。今日はましになってきていいます",
+            "timestamp": "2022-09-07T12:07:49.228000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "そうですね。このところ風も吹いていて楽になりましたね。",
+            "timestamp": "2022-09-07T12:08:06.656000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "特に朝と晩は涼しい感じになってきました",
+            "timestamp": "2022-09-07T12:08:22.980000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "はい！通勤時間は長いですか？",
+            "timestamp": "2022-09-07T12:08:40.621000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "30分程度です",
+            "timestamp": "2022-09-07T12:08:54.441000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "電車でお通いなんですか？",
+            "timestamp": "2022-09-07T12:09:02.150000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "はいそうです",
+            "timestamp": "2022-09-07T12:09:11.829000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "それは大変ですね。私は自転車なんです。",
+            "timestamp": "2022-09-07T12:09:24.198000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "いいなぁ。人生で通勤時間は無駄時間かもと思うので",
+            "timestamp": "2022-09-07T12:09:45.466000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "いいえ、電車ですと本も読めたりしないですか？",
+            "timestamp": "2022-09-07T12:10:02.718000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "ラジオを聞くくらいですね",
+            "timestamp": "2022-09-07T12:10:14.872000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "それは良い時間ですね！自転車だと本はよめませんし。",
+            "timestamp": "2022-09-07T12:10:30.681000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "確かに。雨の日困りませんか",
+            "timestamp": "2022-09-07T12:10:47.579000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "はい。傘をさして違反しながら出勤します。",
+            "timestamp": "2022-09-07T12:11:01.274000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "片手運転危険！",
+            "timestamp": "2022-09-07T12:11:13.268000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "違反と言われている傘立てがまだ残っているので両手使って運転します。",
+            "timestamp": "2022-09-07T12:11:38.401000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "ハンドルにつけるやつですね",
+            "timestamp": "2022-09-07T12:12:04.504000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "そうなんです。これを使った方が安全なのにと思うことがあります。",
+            "timestamp": "2022-09-07T12:12:22.352000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "頑張って走ってください",
+            "timestamp": "2022-09-07T12:12:53.120000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6370,
+    "interlocutors": [
+        "GL",
+        "EU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GL",
+            "text": "こんばんは、よろしくお願いいたします。！",
+            "timestamp": "2022-10-04T20:00:08.623000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EU",
+            "text": "よろしくおねがいします！",
+            "timestamp": "2022-10-04T20:00:25.017000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GL",
+            "text": "今行ってみたい場所はありますか？",
+            "timestamp": "2022-10-04T20:00:31.543000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EU",
+            "text": "沖縄か、南の島です！",
+            "timestamp": "2022-10-04T20:00:53.322000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GL",
+            "text": "島！とても良いですよね！私の友だちもいっているのでいってみたいです。",
+            "timestamp": "2022-10-04T20:01:10.765000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EU",
+            "text": "お友達はお住まいなのでしょうか？",
+            "timestamp": "2022-10-04T20:01:53.377000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GL",
+            "text": "いえ、旅行でバカンスのような感じで行っていて、うらやましいです。！",
+            "timestamp": "2022-10-04T20:02:21.139000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EU",
+            "text": "羨ましいですねぇ！！白砂の海とか行きたいです",
+            "timestamp": "2022-10-04T20:02:58.267000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GL",
+            "text": "いきたいです！、海も本当に澄んでいてきれいですし！これからオフシーズンなのでお安いかもですね！",
+            "timestamp": "2022-10-04T20:03:36.255000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EU",
+            "text": "<GL>さんは行ってみたいところってありますか？",
+            "timestamp": "2022-10-04T20:04:27.844000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GL",
+            "text": "私は近場なのですが、映像で映し出される美術館にいってみたくて！",
+            "timestamp": "2022-10-04T20:05:03.567000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EU",
+            "text": "珍しいですね、気になります",
+            "timestamp": "2022-10-04T20:05:27.086000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GL",
+            "text": "immersive museumという場所で、印象派の画家の名画がプロジェクションマッピングされています！",
+            "timestamp": "2022-10-04T20:05:51.442000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EU",
+            "text": "なるほど！名画をプロジェクションマッピングで見れるという事ですか",
+            "timestamp": "2022-10-04T20:06:42.658000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GL",
+            "text": "はい！とても魅力的だなと思いまして！あと印象派の絵画もとても好きで！",
+            "timestamp": "2022-10-04T20:07:09.105000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EU",
+            "text": "モネとかでしたっけ？",
+            "timestamp": "2022-10-04T20:07:35.073000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GL",
+            "text": "はい！そうです！抽象的ではない絵画ってちょっと不思議な魅力があります！",
+            "timestamp": "2022-10-04T20:08:16.838000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EU",
+            "text": "そうですよね、印象派絵画に合わせて印象派音楽も素敵です",
+            "timestamp": "2022-10-04T20:09:12.448000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GL",
+            "text": "印象派の音楽はよく聴きますか？",
+            "timestamp": "2022-10-04T20:09:53.602000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EU",
+            "text": "大好きです！",
+            "timestamp": "2022-10-04T20:09:56.057000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GL",
+            "text": "そうでしたか！私は以前月の光をピアノで弾いていました！",
+            "timestamp": "2022-10-04T20:10:33.493000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EU",
+            "text": "ドビュッシーはほんとにいいです！ピアノ弾けるのですね！",
+            "timestamp": "2022-10-04T20:11:21.429000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GL",
+            "text": "はい！多少ですが！すごい素敵な曲だなと思いまして！",
+            "timestamp": "2022-10-04T20:11:55.198000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EU",
+            "text": "素敵ですねぇ！ドビュッシーは凄いです音楽で本当に映像が見えます",
+            "timestamp": "2022-10-04T20:12:57.458000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GL",
+            "text": "たしかに想像で景色が浮かぶのってその音楽に余韻がありますもんね。他におすすめはありますか？",
+            "timestamp": "2022-10-04T20:13:39.079000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EU",
+            "text": "ドビュッシーだと花火はそのまま打ち上げ花火見えます。曲としてはヒースってのが好きかなぁ",
+            "timestamp": "2022-10-04T20:14:32.076000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね！今度聴いてみます！クラッシックは奥が深いですね。",
+            "timestamp": "2022-10-04T20:15:00.267000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EU",
+            "text": "ピアノお上手なのが羨ましいです。",
+            "timestamp": "2022-10-04T20:15:31"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GL",
+            "text": "いえいえ、練習が嫌いすぎて、上達するのに時間がかかりました！",
+            "timestamp": "2022-10-04T20:15:58.360000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EU",
+            "text": "月の光弾けたらもう最高です！",
+            "timestamp": "2022-10-04T20:16:25.138000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1361,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-08-16T22:41:46.377000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-08-16T22:41:54.170000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-08-16T22:42:04.069000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "今日まで夏休みでした",
+            "timestamp": "2022-08-16T22:42:18.253000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "いいですね。満喫できましたか？",
+            "timestamp": "2022-08-16T22:42:30.272000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "いいリフレッシュになりました。",
+            "timestamp": "2022-08-16T22:42:47.313000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "連休が続くと仕事に行きたくなくなりませんか？",
+            "timestamp": "2022-08-16T22:43:13.352000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "はい。明日起きれるか不安ですね",
+            "timestamp": "2022-08-16T22:43:30.554000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "そうですよねー",
+            "timestamp": "2022-08-16T22:43:53.354000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "<AW>さんはお仕事でしたか？",
+            "timestamp": "2022-08-16T22:44:05.834000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "はい。今日は定時であがれました。",
+            "timestamp": "2022-08-16T22:44:18.196000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "それはよかったです。自由時間大事ですからね",
+            "timestamp": "2022-08-16T22:44:44.429000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "もうこんな時間になっていてびっくりしました",
+            "timestamp": "2022-08-16T22:44:58.587000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "あと一時間ちょっとで日付変わっちゃいますね",
+            "timestamp": "2022-08-16T22:45:34.561000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "そうですね。夏休みが終わったら次の大型連休は冬ですかね",
+            "timestamp": "2022-08-16T22:45:59.184000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "ですねー、遠いなぁ",
+            "timestamp": "2022-08-16T22:46:09.992000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "2か月に一回くらい大型連休ほしいですね",
+            "timestamp": "2022-08-16T22:46:33.609000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "そしたらまだ働くのがんばれますね",
+            "timestamp": "2022-08-16T22:46:49.690000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "せめて祝日がない月をなくしてほしいです",
+            "timestamp": "2022-08-16T22:47:15.555000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "有給使って休みを作っていくしかないですね",
+            "timestamp": "2022-08-16T22:47:34.788000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "そうですね。",
+            "timestamp": "2022-08-16T22:47:48.498000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "有給は全然消化できていない感じですか？",
+            "timestamp": "2022-08-16T22:48:11.077000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "体調不良で休んで、結構使ってます",
+            "timestamp": "2022-08-16T22:48:27.989000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "体はあまり強くないんですか？",
+            "timestamp": "2022-08-16T22:48:44.926000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "そうですね、喉が弱くてそこから発熱したりします",
+            "timestamp": "2022-08-16T22:49:17.972000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "それは大変ですね…昔からですか？",
+            "timestamp": "2022-08-16T22:49:39.520000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "社会人になってから悪化した気がします。",
+            "timestamp": "2022-08-16T22:49:57.809000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "ストレスかしら？",
+            "timestamp": "2022-08-16T22:50:06.243000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "ですかねー",
+            "timestamp": "2022-08-16T22:50:14.608000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "お大事にしてください。",
+            "timestamp": "2022-08-16T22:50:23.903000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

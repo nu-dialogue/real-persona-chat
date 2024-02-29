@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10500,
+    "interlocutors": [
+        "EV",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、夏のご予定はありますか？",
+            "timestamp": "2022-08-13T19:51:13.307000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "仕事があるので、遊びはできそうにないですね",
+            "timestamp": "2022-08-13T19:51:55.714000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そうですか、僕は帰省の予定がありましたが色々あって無くなりました。",
+            "timestamp": "2022-08-13T19:51:58.851000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "帰省先は、どちらですか？",
+            "timestamp": "2022-08-13T19:52:28.265000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "九州です。宮崎に",
+            "timestamp": "2022-08-13T19:52:36.760000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、台風の影響でダメになってしまいました？",
+            "timestamp": "2022-08-13T19:52:56.467000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "いえ、母親がコロナになってしまって、家に入れないです",
+            "timestamp": "2022-08-13T19:53:10.115000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、最近は感染者数が多いので大変そうです。",
+            "timestamp": "2022-08-13T19:53:44.027000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "なかなかね、どうにもならない病気ですし",
+            "timestamp": "2022-08-13T19:54:07.511000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "そうですよね。対策していますが、どうにもなりません。",
+            "timestamp": "2022-08-13T19:55:00.706000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "母親は看護師でリスクが比較的高いので仕方ないです。",
+            "timestamp": "2022-08-13T19:55:24.411000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "看護師の方はより一層危険ですね。ご帰省できないのは残念です。",
+            "timestamp": "2022-08-13T19:56:01.385000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "タイミングが悪かったです。残念",
+            "timestamp": "2022-08-13T19:56:14.374000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "その他の予定はありますか？",
+            "timestamp": "2022-08-13T19:56:32.854000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "無いですね、あっちでのんびりする予定だったので",
+            "timestamp": "2022-08-13T19:57:11.024000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、自宅でゴロゴロになりそうですかね。",
+            "timestamp": "2022-08-13T19:57:37.261000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "そうですね、ゲームでもしようかな",
+            "timestamp": "2022-08-13T19:57:51.290000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "それがよさそうですね。気になるゲームはありますか？",
+            "timestamp": "2022-08-13T19:58:14.550000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "無いんですよね。FF7の新作が早く出てほしいです",
+            "timestamp": "2022-08-13T19:58:43.136000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "FFシリーズはやったことあるんですか？",
+            "timestamp": "2022-08-13T19:59:17.221000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "10と15と7はやりました。",
+            "timestamp": "2022-08-13T19:59:29.715000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "僕はやったことないんですが、これおススメていうのありますか？",
+            "timestamp": "2022-08-13T19:59:54.995000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "初めてなら7がいいんじゃないですかなと思います",
+            "timestamp": "2022-08-13T20:00:22.721000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "7ですか。ハードは何で遊べますかか？",
+            "timestamp": "2022-08-13T20:00:47.436000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "PS4で遊べますよ。10はストーリーは良いですが育成が面倒です",
+            "timestamp": "2022-08-13T20:01:12.484000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、Switchとかではできませんか？",
+            "timestamp": "2022-08-13T20:01:39.847000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "どうなんでしょう、リマスター版があるかもしれないです。",
+            "timestamp": "2022-08-13T20:02:10.830000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "調べてみますね",
+            "timestamp": "2022-08-13T20:02:29.079000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "あるみたいです、1800円くらいで",
+            "timestamp": "2022-08-13T20:02:44.126000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "安いですね。休日にプレイできそうです。",
+            "timestamp": "2022-08-13T20:03:09.747000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

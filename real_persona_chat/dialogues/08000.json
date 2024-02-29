@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8000,
+    "interlocutors": [
+        "DG",
+        "AG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "はじめまして！",
+            "timestamp": "2022-08-04T22:21:58.565000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AG",
+            "text": "はじめまして！今日はよろしくお願いします。",
+            "timestamp": "2022-08-04T22:22:18.935000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "最近なにかハマっているものありますか？",
+            "timestamp": "2022-08-04T22:22:35.784000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AG",
+            "text": "最近は、カレー作りにハマっています。",
+            "timestamp": "2022-08-04T22:23:00.060000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "カレーいいですね！大好きです。どんなカレーですか？",
+            "timestamp": "2022-08-04T22:23:38.294000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AG",
+            "text": "スパイスから作るカレーなんですけど、スパイスから作ったことってありますか？",
+            "timestamp": "2022-08-04T22:23:41.751000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "ギャバン？のスパイスセットを１度だけやったことあります！",
+            "timestamp": "2022-08-04T22:24:03.715000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AG",
+            "text": "ギャバンのセット、私も使ったことあります！あんな感じのカレーです。",
+            "timestamp": "2022-08-04T22:24:28.340000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "セットだったのであるものをそのまま入れちゃいましたが、調合するんですか？",
+            "timestamp": "2022-08-04T22:24:56.308000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AG",
+            "text": "はい。入れるスパイスを選んだり、順番を考えたりして、作るんです。",
+            "timestamp": "2022-08-04T22:25:23.038000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "本格的ですね！スパイスの小瓶が並ぶ台所憧れます。",
+            "timestamp": "2022-08-04T22:25:51.461000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AG",
+            "text": "あれ、見てるだけでも癒されますよねー。ワクワクしちゃいます。",
+            "timestamp": "2022-08-04T22:26:12.295000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "はい！ハマるきっかけみたいなのってあったんですか？",
+            "timestamp": "2022-08-04T22:26:36.319000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AG",
+            "text": "もともとカレー好きだったんですが、最近レンチンカレーの本を買いまして。それがきっかけです。",
+            "timestamp": "2022-08-04T22:27:04.987000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "レンチンカレー、初耳です！どんなものですか？",
+            "timestamp": "2022-08-04T22:27:23.766000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AG",
+            "text": "レンジで作る１人前分のカレーなんですけど、スパイスや材料をまとめて入れて、チンするだけなんです。",
+            "timestamp": "2022-08-04T22:27:55.396000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "え！チンするだけでカレーになるんですか！なんてお手軽な。",
+            "timestamp": "2022-08-04T22:28:19.565000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよ。トマトとスパイスで、ほぼカレー風味になります。",
+            "timestamp": "2022-08-04T22:28:51.286000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "トマトを使うんですかー、なんだかヘルシーそうです！",
+            "timestamp": "2022-08-04T22:29:11.310000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AG",
+            "text": "カレールーよりもったりしないし、酸味があって夏はぴったりなカレーが作れますよー。",
+            "timestamp": "2022-08-04T22:29:41.945000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "サラサラ系も好きですし、ルーは意外と重たくてカロリーあるしとってもいいですね！",
+            "timestamp": "2022-08-04T22:30:16.251000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AG",
+            "text": "はい！ヘルシーだし、簡単だしで、すっかりハマってしまいました。",
+            "timestamp": "2022-08-04T22:30:44.895000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "おすすめの具材はなんですかー？",
+            "timestamp": "2022-08-04T22:30:58.475000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AG",
+            "text": "具材色々あるんですけど、最近はシーフードですね。何かお好きな具材ってあります？",
+            "timestamp": "2022-08-04T22:31:28.627000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "カレーにはチキンを入れがちなのですが、エビとかも好きです！",
+            "timestamp": "2022-08-04T22:31:58.873000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AG",
+            "text": "チキンも合いますよねー。バターチキンカレーもレンチンで作れるので大好きです。",
+            "timestamp": "2022-08-04T22:32:32.477000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "え！バターチキンも作れるのですか！",
+            "timestamp": "2022-08-04T22:32:53.287000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよー。あのインド料理店の味、いや、そこまではかないませんが、近いものは作れます。",
+            "timestamp": "2022-08-04T22:33:22.152000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "その本ぜひ探してみたいと思いました！",
+            "timestamp": "2022-08-04T22:33:45.048000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AG",
+            "text": "ぜひぜひ読んでみてください、そして試してみてくださいね。",
+            "timestamp": "2022-08-04T22:33:57.556000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

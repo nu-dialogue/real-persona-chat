@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13326,
+    "interlocutors": [
+        "IW",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IW",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-20T16:02:22.294000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-20T16:02:35.001000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IW",
+            "text": "今日は何されてたんですか？",
+            "timestamp": "2022-09-20T16:02:56.494000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "今日は家でごろごろしていました。",
+            "timestamp": "2022-09-20T16:03:27.509000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IW",
+            "text": "いつもですか？",
+            "timestamp": "2022-09-20T16:04:26.763000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "はい。",
+            "timestamp": "2022-09-20T16:04:32.178000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IW",
+            "text": "おうち時間でなにか身に着けましたか？",
+            "timestamp": "2022-09-20T16:05:04.269000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "レスバトルを通してディベート力がつきました。",
+            "timestamp": "2022-09-20T16:05:21.621000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IW",
+            "text": "それはすごいですね。",
+            "timestamp": "2022-09-20T16:05:41.102000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "ひろゆきと一対一で勝負したいです。",
+            "timestamp": "2022-09-20T16:06:01.792000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IW",
+            "text": "ひろゆきはあれが仕事ですよ",
+            "timestamp": "2022-09-20T16:06:33.458000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "私もレスバトルが生業ですよ。",
+            "timestamp": "2022-09-20T16:06:48.686000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IW",
+            "text": "悲しい人ですね。",
+            "timestamp": "2022-09-20T16:07:07.104000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "あなたは今日何されていたのですか？",
+            "timestamp": "2022-09-20T16:07:25.434000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IW",
+            "text": "ぼくは初めてのアルバイトしてました。",
+            "timestamp": "2022-09-20T16:07:39.101000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "業務内容は？",
+            "timestamp": "2022-09-20T16:07:47.408000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IW",
+            "text": "飲食店で働いてます。",
+            "timestamp": "2022-09-20T16:08:43.495000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "飲食はブラックですよ。",
+            "timestamp": "2022-09-20T16:08:56.311000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IW",
+            "text": "みんなにぎやかでいい職場ですよ。",
+            "timestamp": "2022-09-20T16:09:10.639000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "私は孤独と戦っているので、私のほうが強いです。",
+            "timestamp": "2022-09-20T16:09:35.306000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IW",
+            "text": "飲食店で働かれていたんですか？",
+            "timestamp": "2022-09-20T16:09:38.646000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "いえ、ブラックな労働環境では働きません。",
+            "timestamp": "2022-09-20T16:09:55.962000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IW",
+            "text": "前の職場がきつかったんですか？",
+            "timestamp": "2022-09-20T16:10:16.298000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "いえ、働いたことはありません。",
+            "timestamp": "2022-09-20T16:10:30.302000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IW",
+            "text": "そうなんですね。孤独と戦うとはちなみにどういう意味ですか？",
+            "timestamp": "2022-09-20T16:10:52.704000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "一人部屋にこもって、無知な人たちに啓蒙しているのです。",
+            "timestamp": "2022-09-20T16:11:11.751000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IW",
+            "text": "井の中の蛙大海を知らずってやつですか？",
+            "timestamp": "2022-09-20T16:11:48.435000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "おっしゃる意味が分からないです。",
+            "timestamp": "2022-09-20T16:12:01.728000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IW",
+            "text": "日本語難しいですよね。",
+            "timestamp": "2022-09-20T16:12:22.378000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "英語のほうが難しいと思いますよ。",
+            "timestamp": "2022-09-20T16:12:33.888000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IW",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

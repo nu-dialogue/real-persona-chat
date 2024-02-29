@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13967,
+    "interlocutors": [
+        "HQ",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HQ",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-02T23:53:34.619000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-02T23:53:41.137000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HQ",
+            "text": "今の夢はなんですか？",
+            "timestamp": "2022-10-02T23:53:51.613000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "夢かぁ、なんでしょうね、結婚とか？",
+            "timestamp": "2022-10-02T23:54:44.521000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HQ",
+            "text": "いいですね。パートナーはいらっしゃるんですか？",
+            "timestamp": "2022-10-02T23:55:05.558000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "いるんですが、今の人はたぶん結婚願望あんまりないと思うんです",
+            "timestamp": "2022-10-02T23:55:26.738000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HQ",
+            "text": "じゃあ別の人探さないといけないですね",
+            "timestamp": "2022-10-02T23:55:39.945000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "そうなんです。でも別れる勇気もなくてずるずるしちゃってます",
+            "timestamp": "2022-10-02T23:56:01.419000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HQ",
+            "text": "同時並行で探しちゃえばいいんじゃないですか？",
+            "timestamp": "2022-10-02T23:56:20.406000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "別れずに探すってことですか？",
+            "timestamp": "2022-10-02T23:56:33.149000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HQ",
+            "text": "はい。転職も仕事しながら探すのが普通だし、別にいいと思いますよ。",
+            "timestamp": "2022-10-02T23:56:57.096000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "浮気してるみたいで気が引けますね",
+            "timestamp": "2022-10-02T23:57:12.833000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HQ",
+            "text": "結婚してくれないほうが悪いと思うけどなぁ。",
+            "timestamp": "2022-10-02T23:57:46.955000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "そうですかね",
+            "timestamp": "2022-10-02T23:57:54.225000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HQ",
+            "text": "逆に他の人を見たほうが今の人の良さに気づけるかもしれないし。",
+            "timestamp": "2022-10-02T23:58:23.846000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "それはそうかもしれないですね",
+            "timestamp": "2022-10-02T23:58:34.153000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HQ",
+            "text": "そうですよー。ばれなきゃいいんですよ。",
+            "timestamp": "2022-10-02T23:58:52.068000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "あんまり時間もないし、そうするしかないのかな。",
+            "timestamp": "2022-10-02T23:59:18.616000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HQ",
+            "text": "今の人には結婚の話とかしたんですか？",
+            "timestamp": "2022-10-02T23:59:30.734000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "しました。微妙そうでした。",
+            "timestamp": "2022-10-02T23:59:41.061000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HQ",
+            "text": "んー、じゃあだめですね。",
+            "timestamp": "2022-10-02T23:59:54.402000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "そうですよね。しかたないですね。",
+            "timestamp": "2022-10-03T00:00:13.692000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HQ",
+            "text": "次行きましょう。",
+            "timestamp": "2022-10-03T00:00:26.965000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "<HQ>さんは結婚されてますか？",
+            "timestamp": "2022-10-03T00:00:42.469000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HQ",
+            "text": "まだ未婚です。結婚願望があんまりないです。",
+            "timestamp": "2022-10-03T00:01:01.884000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね",
+            "timestamp": "2022-10-03T00:01:24.156000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HQ",
+            "text": "なので彼氏さん側の人間ですね",
+            "timestamp": "2022-10-03T00:01:36.953000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "なんで結婚したくないんですか？",
+            "timestamp": "2022-10-03T00:01:45.096000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HQ",
+            "text": "一人の時間が無くなるのが嫌だからですかね",
+            "timestamp": "2022-10-03T00:02:09.961000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "なるほど",
+            "timestamp": "2022-10-03T00:02:25.608000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

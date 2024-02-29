@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4766,
+    "interlocutors": [
+        "CH",
+        "EF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CH",
+            "text": "こんにちは、はじめまして。",
+            "timestamp": "2022-09-14T13:09:00.509000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EF",
+            "text": "こんにちは、よろしくお願いいたします。",
+            "timestamp": "2022-09-14T13:09:10.222000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CH",
+            "text": "涼しくなったり、暑さがぶり返したりで、中々秋が来なさそうですね。",
+            "timestamp": "2022-09-14T13:09:49.007000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EF",
+            "text": "そうですね。最近涼しいななんて思っていたら昨日今日と暑くてびっくりです",
+            "timestamp": "2022-09-14T13:10:15.831000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CH",
+            "text": "そうですね。まだ9月の半ばなのでいいのですが、10月でも暑い日とかは嫌ですね。",
+            "timestamp": "2022-09-14T13:10:39.807000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EF",
+            "text": "たまにそういう年ありますよね！着るものに困っちゃいますよね",
+            "timestamp": "2022-09-14T13:11:15.965000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CH",
+            "text": "1日の内でも着るものを変えなきゃいけない日なんかは、面倒ですねぇ。",
+            "timestamp": "2022-09-14T13:11:47.386000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EF",
+            "text": "上着を手に持たないといけない時とか嫌になりますよね、邪魔だし暑いし",
+            "timestamp": "2022-09-14T13:12:15.833000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CH",
+            "text": "なるべく気温差が安定して行楽シーズンを楽しみたいですね。",
+            "timestamp": "2022-09-14T13:13:05.223000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EF",
+            "text": "そうですねー。せっかくの秋ですから紅葉とか楽しみたいですよね",
+            "timestamp": "2022-09-14T13:13:38.355000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CH",
+            "text": "紅葉といえば嵐山が有名ですが、紅葉以外のシーズンしか行ったことがないですよ。",
+            "timestamp": "2022-09-14T13:14:15.627000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EF",
+            "text": "私嵐山行ったことないんですよー。他の季節も素敵ですか？",
+            "timestamp": "2022-09-14T13:14:50.704000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CH",
+            "text": "冬はやめておいた方がいいですが、それ以外はいつ行ってもいいですよ。",
+            "timestamp": "2022-09-14T13:15:16.622000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EF",
+            "text": "なるほど、日本海側だから冬は大変そうですね。いつか行ってみたいです！",
+            "timestamp": "2022-09-14T13:15:51.409000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CH",
+            "text": "コロナのせいで1，2年行楽なんかも少なかったですが、いい加減今年は出張りたいですね。",
+            "timestamp": "2022-09-14T13:17:09.613000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EF",
+            "text": "分かります。みんな旅行とか我慢してますもんね。旅行行くとしたらどこがいいですか？",
+            "timestamp": "2022-09-14T13:17:59.543000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CH",
+            "text": "九州に行ったことがないので、熊本城とか行きたいですね。",
+            "timestamp": "2022-09-14T13:18:28.582000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EF",
+            "text": "良いですね九州！観光地も多いし食べ物もおいしいイメージがあります",
+            "timestamp": "2022-09-14T13:19:07.622000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CH",
+            "text": "そうですね。あなたは行きたい所はありますか？",
+            "timestamp": "2022-09-14T13:20:05.833000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EF",
+            "text": "そうですねー、私は北海道に行きたいです！",
+            "timestamp": "2022-09-14T13:20:34.586000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CH",
+            "text": "北海道も食べ物が頭に浮かびますねぇ。",
+            "timestamp": "2022-09-14T13:20:52.905000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EF",
+            "text": "ですよねー。鮭とか海鮮系が食べたいです！",
+            "timestamp": "2022-09-14T13:21:27.761000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CH",
+            "text": "北海道の鮭はやっぱりおいしいですね。",
+            "timestamp": "2022-09-14T13:22:10.202000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EF",
+            "text": "やっぱり他の所とは違いますよね。大きさも脂のノリとかも",
+            "timestamp": "2022-09-14T13:23:03.934000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CH",
+            "text": "一度景品で割と良い北海道産鮭が当たりましたが、すごい脂で美味しかったですよ。",
+            "timestamp": "2022-09-14T13:23:15.802000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EF",
+            "text": "景品で！それはすごいです。良いですねー丼とかにしたら美味しそうです",
+            "timestamp": "2022-09-14T13:23:41.773000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CH",
+            "text": "色々な方法で食べましたね。鮭おにぎりにした時は特に美味しく感じました。",
+            "timestamp": "2022-09-14T13:24:19.853000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EF",
+            "text": "わー鮭おにぎり美味しそうです！シンプルな食べ方が一番おいしく感じますよね",
+            "timestamp": "2022-09-14T13:24:57.583000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CH",
+            "text": "そうですねぇ。食べる話をしていたら、お腹が空いてきましたよ。",
+            "timestamp": "2022-09-14T13:25:43.726000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EF",
+            "text": "私もなんか食べたくなってきちゃいました。",
+            "timestamp": "2022-09-14T13:25:58.108000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EF",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

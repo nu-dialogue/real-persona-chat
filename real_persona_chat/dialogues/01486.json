@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1486,
+    "interlocutors": [
+        "CZ",
+        "AZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CZ",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-08-14T20:59:39.504000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AZ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-14T20:59:47.485000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CZ",
+            "text": "今日の天気はどうでしたか？",
+            "timestamp": "2022-08-14T20:59:58.584000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AZ",
+            "text": "台風一過の良い天気でした！",
+            "timestamp": "2022-08-14T21:00:11.904000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CZ",
+            "text": "台風が過ぎて晴れてたのですか？",
+            "timestamp": "2022-08-14T21:00:34.243000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AZ",
+            "text": "そうなんです。暑かったです。",
+            "timestamp": "2022-08-14T21:00:52.039000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CZ",
+            "text": "こちらは曇り模様で夕立がきました。",
+            "timestamp": "2022-08-14T21:01:08.570000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですね。最近異常気象が多くないですか？",
+            "timestamp": "2022-08-14T21:01:32.462000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CZ",
+            "text": "急激な夕立が多くてものすごいです。",
+            "timestamp": "2022-08-14T21:01:48.756000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AZ",
+            "text": "各地で大雨の被害が出ていますよね。",
+            "timestamp": "2022-08-14T21:02:05.857000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CZ",
+            "text": "東北の方とかは被害があったみたいですね。大丈夫でしたか？",
+            "timestamp": "2022-08-14T21:02:28.117000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AZ",
+            "text": "はい、こちらは全然。でもニュースをみていて心配になります。",
+            "timestamp": "2022-08-14T21:02:55.571000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CZ",
+            "text": "西の方ですか？",
+            "timestamp": "2022-08-14T21:03:09.760000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AZ",
+            "text": "いえ、関東です。",
+            "timestamp": "2022-08-14T21:03:30.710000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CZ",
+            "text": "関西です。被害がなくてよかったですね。",
+            "timestamp": "2022-08-14T21:03:56.112000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですね。こちらは猛暑です。そちらはどうですか？",
+            "timestamp": "2022-08-14T21:04:19.989000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CZ",
+            "text": "曇りで今日は蒸し暑かったです。",
+            "timestamp": "2022-08-14T21:04:36.326000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AZ",
+            "text": "こちらも蒸し暑いです。からっとした暑さにあこがれます。",
+            "timestamp": "2022-08-14T21:05:07.057000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CZ",
+            "text": "蒸し暑い風がまとわりついて変な汗が出てました。",
+            "timestamp": "2022-08-14T21:05:38.046000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AZ",
+            "text": "いや、ほんとです。熱中症も増えているようですね。",
+            "timestamp": "2022-08-14T21:06:07.725000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CZ",
+            "text": "水分補給してますか？",
+            "timestamp": "2022-08-14T21:06:25.602000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AZ",
+            "text": "こまめにしていますが、のどが渇いてからでは遅いらしいですね。",
+            "timestamp": "2022-08-14T21:06:51.164000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CZ",
+            "text": "昼間は麦茶を２リットルくらいは毎日飲んでます。",
+            "timestamp": "2022-08-14T21:07:17.740000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AZ",
+            "text": "大事ですよね。運動とかはされますか？",
+            "timestamp": "2022-08-14T21:07:58.333000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CZ",
+            "text": "休みはほとんど自転車乗ってますよ。",
+            "timestamp": "2022-08-14T21:08:16"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AZ",
+            "text": "いいですね！自転車ですか！パーツなんかにも凝るのですか？",
+            "timestamp": "2022-08-14T21:08:41.535000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CZ",
+            "text": "そういうのは詳しくなくて。買ったままの姿です。",
+            "timestamp": "2022-08-14T21:09:10.010000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですね！私は電動のママチャリです。",
+            "timestamp": "2022-08-14T21:09:30.139000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CZ",
+            "text": "電動の自転車いいらしですね。坂道もすいすい行けるみたいですね！",
+            "timestamp": "2022-08-14T21:10:01.035000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AZ",
+            "text": "はい、とても便利ですよ！",
+            "timestamp": "2022-08-14T21:10:09.169000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3621,
+    "interlocutors": [
+        "DP",
+        "BO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DP",
+            "text": "こんばんは。はじめまして！",
+            "timestamp": "2022-08-31T21:59:33.149000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BO",
+            "text": "初めまして！お願いします。",
+            "timestamp": "2022-08-31T21:59:42.402000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DP",
+            "text": "今日は忙しかったですか？",
+            "timestamp": "2022-08-31T21:59:58.008000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BO",
+            "text": "忙しかったです。今日は少し残業をしてました。",
+            "timestamp": "2022-08-31T22:00:25.778000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DP",
+            "text": "お疲れ様でした。もう夕食は食べられましたか？",
+            "timestamp": "2022-08-31T22:00:58.607000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BO",
+            "text": "はい。先ほど食べました！",
+            "timestamp": "2022-08-31T22:01:12.007000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DP",
+            "text": "何を召し上がりましたか？",
+            "timestamp": "2022-08-31T22:01:32.273000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BO",
+            "text": "海鮮丼を食べました！",
+            "timestamp": "2022-08-31T22:01:43.424000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DP",
+            "text": "いいなあ！ご自身で作ったんですか？",
+            "timestamp": "2022-08-31T22:02:01.650000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BO",
+            "text": "ネギトロとか買ってご飯にのせただけですが。美味しかったです。",
+            "timestamp": "2022-08-31T22:02:32.916000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DP",
+            "text": "疲れてるのに凄いですね！海鮮丼って気分上がりますよね。",
+            "timestamp": "2022-08-31T22:02:58.755000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BO",
+            "text": "たまに食べるのがいいですよね。あなたはもう夕飯はすみましたか？",
+            "timestamp": "2022-08-31T22:03:20.454000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DP",
+            "text": "食べましたよ。私もちゃんと自炊しましたよ。一応",
+            "timestamp": "2022-08-31T22:03:44.852000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BO",
+            "text": "何作りましたか？",
+            "timestamp": "2022-08-31T22:03:58.178000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DP",
+            "text": "鶏のささ身のフリットとミニトマトのマリネです。",
+            "timestamp": "2022-08-31T22:04:28.429000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BO",
+            "text": "え、めちゃくちゃオシャレですね。",
+            "timestamp": "2022-08-31T22:04:45.662000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DP",
+            "text": "おしゃれじゃないです。ささ身のフリットなんてチキンマックナゲットみたいなもんですよ。",
+            "timestamp": "2022-08-31T22:05:22.070000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BO",
+            "text": "料理とかされてて尊敬します。。私は実家暮らしなので親に任せっぱなしです。",
+            "timestamp": "2022-08-31T22:05:58.165000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DP",
+            "text": "何よりじゃないですか。私今単身赴任でコロナでやることないので料理が趣味になったんです。",
+            "timestamp": "2022-08-31T22:07:04.616000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね。料理も好きになれば楽しいんでしょうね。",
+            "timestamp": "2022-08-31T22:07:26.367000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DP",
+            "text": "ストレス解消が食べることに向いてちょっと危険です。",
+            "timestamp": "2022-08-31T22:08:03.980000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BO",
+            "text": "確かに。結構料理する時は和食とかが多いですか？",
+            "timestamp": "2022-08-31T22:08:34.763000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DP",
+            "text": "何でも作りますが、洋食系かなあ。イタリアン系多いような",
+            "timestamp": "2022-08-31T22:09:21.990000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BO",
+            "text": "いいですね。私は自分で作るときは和食が多いかもです。",
+            "timestamp": "2022-08-31T22:09:49.330000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DP",
+            "text": "和食いいですね。得意料理あります？",
+            "timestamp": "2022-08-31T22:10:24.940000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BO",
+            "text": "だし巻き卵とかですかね。あとはきんぴらです。",
+            "timestamp": "2022-08-31T22:10:41.827000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DP",
+            "text": "超家庭的ですね。きんぴら無性に食べたくなりますよね。",
+            "timestamp": "2022-08-31T22:11:18.562000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BO",
+            "text": "蓮根のきんぴらとかめちゃくちゃ美味しくてよく作ります。",
+            "timestamp": "2022-08-31T22:11:41.868000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DP",
+            "text": "レンコン私も最近はまってるんですよ。あの触感といろんな味がちゃんと乗る感じが。",
+            "timestamp": "2022-08-31T22:12:28.692000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BO",
+            "text": "色々アレンジできていいですよね！",
+            "timestamp": "2022-08-31T22:12:50.393000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

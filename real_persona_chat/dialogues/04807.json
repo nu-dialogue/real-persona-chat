@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4807,
+    "interlocutors": [
+        "FV",
+        "FK"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-14T18:38:05.740000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-14T18:38:21.051000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "最近ハマっていることとかありますか？",
+            "timestamp": "2022-09-14T18:38:31.657000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FK",
+            "text": "そうですね、シーシャですかね！",
+            "timestamp": "2022-09-14T18:38:45.904000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "あれですか、水たばこってやつですか。",
+            "timestamp": "2022-09-14T18:39:21.750000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FK",
+            "text": "それです！おいしいですよ",
+            "timestamp": "2022-09-14T18:39:04.716000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "東京にいたときはなしはよく聞いたんですが、美味しいんですか？",
+            "timestamp": "2022-09-14T18:39:20.304000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FK",
+            "text": "タバコ感はほとんどないですね",
+            "timestamp": "2022-09-14T18:39:29.714000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "普通のタバコや電子タバコのご経験はありますか？",
+            "timestamp": "2022-09-14T18:39:45.497000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FK",
+            "text": "普通のタバコは苦手ですが、友達からたまにもらいます！",
+            "timestamp": "2022-09-14T18:39:59.009000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "普通のタバコ苦手でも、シーシャはいけるんですか？",
+            "timestamp": "2022-09-14T18:40:14.854000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FK",
+            "text": "いけます、全然別物なので！",
+            "timestamp": "2022-09-14T18:40:21.649000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "シーシャって簡単に説明いただくことはできますか？",
+            "timestamp": "2022-09-14T18:40:36.645000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FK",
+            "text": "そうですね、タバコ葉を炭であっためて、それを水で濾過して吸う感じです",
+            "timestamp": "2022-09-14T18:41:01.216000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "水でろ過したものを、どうやって、吸うんでしょうか？鼻から？口から？",
+            "timestamp": "2022-09-14T18:41:36.159000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FK",
+            "text": "口からですね！それを吐いて味を楽しみます",
+            "timestamp": "2022-09-14T18:41:46.235000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "煙・・なんですか？",
+            "timestamp": "2022-09-14T18:42:33.296000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FK",
+            "text": "こればかりは調べてもらったほうがはやいかもです",
+            "timestamp": "2022-09-14T18:42:43.578000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "なんか、イメージがつきにくいですね。ただ、安全そうな。",
+            "timestamp": "2022-09-14T18:42:57.886000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FK",
+            "text": "説明むずいです！タバコよりはましかもです",
+            "timestamp": "2022-09-14T18:43:08.977000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "ちゃんとニコチンとかは接種するんですか？",
+            "timestamp": "2022-09-14T18:43:22.912000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FK",
+            "text": "かなり微量ですがあるにはあるらしいです。",
+            "timestamp": "2022-09-14T18:43:30.775000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "なるほど、依存性はいかがでしょうか？",
+            "timestamp": "2022-09-14T18:43:39.638000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FK",
+            "text": "ほとんどないと思いますね。いらだちとかもないです",
+            "timestamp": "2022-09-14T18:43:46.609000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "ただ美味しい、大人のたしなみみたいな感じですか？",
+            "timestamp": "2022-09-14T18:44:00.640000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FK",
+            "text": "どうなんでしょう。大人かわからないですが楽しいですよ！",
+            "timestamp": "2022-09-14T18:44:13.442000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "ふむふむ、なんか吸うやつって、極小の民族楽器みたいなやつですか？",
+            "timestamp": "2022-09-14T18:44:42.678000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FK",
+            "text": "いえ、結構ごついですね。",
+            "timestamp": "2022-09-14T18:44:46.031000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "あ、思ってたのと違うかもです。調べてみます。",
+            "timestamp": "2022-09-14T18:44:55.679000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FK",
+            "text": "ぜひぜひ！！",
+            "timestamp": "2022-09-14T18:45:00.317000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

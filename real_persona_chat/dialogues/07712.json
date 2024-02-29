@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7712,
+    "interlocutors": [
+        "EV",
+        "IF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、お天気はどうですか？",
+            "timestamp": "2022-08-03T19:14:34.104000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IF",
+            "text": "雷がゴロゴロいってます、昼すぎから雲行きが怪しいです。",
+            "timestamp": "2022-08-03T19:15:04.991000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そうなんですね。落雷の音は苦手なタイプですか？",
+            "timestamp": "2022-08-03T19:15:21.439000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IF",
+            "text": "超苦手です！この世の終わりかと思う程。わりと平気なほうですか？",
+            "timestamp": "2022-08-03T19:15:57.998000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "僕は平気な方ですが、妹がかなり苦手ですね",
+            "timestamp": "2022-08-03T19:16:13.169000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IF",
+            "text": "そうなんですね。どこかに落ちたようなバリバリ音とかも恐ろしいです。",
+            "timestamp": "2022-08-03T19:16:48.492000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "家の中なら気にならないですが、外だと少し怖いですよね",
+            "timestamp": "2022-08-03T19:17:13.694000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IF",
+            "text": "はい、感電の事故もたまにあるみたいですし。",
+            "timestamp": "2022-08-03T19:17:45.177000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "確率は低いですが、当たった時のことを考えると怖くなってきました",
+            "timestamp": "2022-08-03T19:18:06.034000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IF",
+            "text": "おそろしいですね。そちらはお天気崩れていませんか？",
+            "timestamp": "2022-08-03T19:18:44.818000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "こちらは少し曇っている程度ですね。暑いですが",
+            "timestamp": "2022-08-03T19:18:58.841000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IF",
+            "text": "夜でもまだ暑いですよね。",
+            "timestamp": "2022-08-03T19:19:19.693000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "コンクリートがあるので、夜中でも暑いです",
+            "timestamp": "2022-08-03T19:19:45.859000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IF",
+            "text": "どこか涼しいところに旅行に行きたいのですが、こんな状況でそうもいかないです。",
+            "timestamp": "2022-08-03T19:20:20.548000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "そうですね。身動きのとりにくい状況になってきましたね",
+            "timestamp": "2022-08-03T19:20:29.838000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IF",
+            "text": "おうち時間の趣味などありますか？",
+            "timestamp": "2022-08-03T19:21:22.500000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "僕はよくゲームをしますね。何か趣味はありますか？",
+            "timestamp": "2022-08-03T19:21:44.083000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IF",
+            "text": "Youtubeをみているとあっという間に時間が過ぎます、趣味といえるか微妙ですが。",
+            "timestamp": "2022-08-03T19:22:18.389000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "僕もよく動画を見ますね。ゲーム実況が多いですが",
+            "timestamp": "2022-08-03T19:22:38.858000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IF",
+            "text": "ゲーム実況、面白そうですね。私はゲームしないのですが実況中継は興味があります。",
+            "timestamp": "2022-08-03T19:23:26.894000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "ワイワイ実況者がゲームをしているのを観るとこちらも楽しくなれますよ",
+            "timestamp": "2022-08-03T19:23:51.983000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IF",
+            "text": "楽しそうー、どんなゲームをされますか？",
+            "timestamp": "2022-08-03T19:24:25.287000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "人狼ゲームが好きですね。推理系が好きです",
+            "timestamp": "2022-08-03T19:24:44.837000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IF",
+            "text": "なるほど、興味深いです。",
+            "timestamp": "2022-08-03T19:25:25.756000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "RPGやアクション系も好きですけどね。",
+            "timestamp": "2022-08-03T19:25:56.124000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IF",
+            "text": "色々楽しめそうですね。私は子供の頃にスーパーマリオやったきりです。",
+            "timestamp": "2022-08-03T19:26:34.550000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "マリオはマルチプレイできるので楽しいですよね。",
+            "timestamp": "2022-08-03T19:26:50.151000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IF",
+            "text": "はい、友達宅に入り浸って遊んでました。",
+            "timestamp": "2022-08-03T19:27:12.281000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "懐かしいですね。時間が見つかったらゲームやってみてください。",
+            "timestamp": "2022-08-03T19:27:36.924000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IF",
+            "text": "はい、いつかは挑戦してみたいと思ってます！",
+            "timestamp": "2022-08-03T19:28:00.399000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

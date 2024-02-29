@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10251,
+    "interlocutors": [
+        "EA",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EA",
+            "text": "はじめまして。よろしくお願いします。",
+            "timestamp": "2022-08-12T01:03:41.780000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "はじめまして。こちらこそよろしくお願いいたします。",
+            "timestamp": "2022-08-12T01:04:03.576000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EA",
+            "text": "最近は暑くてクーラーをつけてるんですが、つけると寒いんですよね。",
+            "timestamp": "2022-08-12T01:05:00.583000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "わかります。ちょうどいい温度って難しいですよね。",
+            "timestamp": "2022-08-12T01:05:16.035000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EA",
+            "text": "そうなんですよ。なかなか調整が難しくて。何か暑さ対策などは行ってますか？",
+            "timestamp": "2022-08-12T01:06:04.149000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "そうですね。工夫と言えば、凍らせたペットボトルを作ってるくらいですかね。",
+            "timestamp": "2022-08-12T01:06:26.517000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EA",
+            "text": "なるほど。寒い時のホッカイロの逆みたいな感じですか？",
+            "timestamp": "2022-08-12T01:07:06.216000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "そんな感じです。溶けると冷たい水も飲めるのでおススメです。",
+            "timestamp": "2022-08-12T01:07:29.582000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EA",
+            "text": "それはいいですね。最近そうめんにハマっていて冷たい水を氷を入れてつくっていたので参考にしてみます。",
+            "timestamp": "2022-08-12T01:08:20.715000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "そうめんおいしいですよね！早めに外に出しておくとすぐ溶けますよ！",
+            "timestamp": "2022-08-12T01:09:00.305000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EA",
+            "text": "夏にはピッタリでおすすめです。好きな食べ物とかはありますか？",
+            "timestamp": "2022-08-12T01:10:06.678000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "そうめんも好きですし、冷やし中華も好きですね。",
+            "timestamp": "2022-08-12T01:10:31.151000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EA",
+            "text": "冷やし中華もいいですね。涼しくなれそうです。",
+            "timestamp": "2022-08-12T01:10:53.154000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "冷たい麺は夏に合います。",
+            "timestamp": "2022-08-12T01:11:21.708000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EA",
+            "text": "めんつゆでも味が変わりますし、いろいろ工夫できますよね。",
+            "timestamp": "2022-08-12T01:11:57.947000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "わかります！めんつゆっていつもどんなもの足しますか？",
+            "timestamp": "2022-08-12T01:12:17.871000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EA",
+            "text": "自分はネギが好きなのでいつもネギですね。どんなのを足してますか？",
+            "timestamp": "2022-08-12T01:13:11.193000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "とろろ昆布とシーチキン入れることが多いです。",
+            "timestamp": "2022-08-12T01:13:28.229000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EA",
+            "text": "なるほど、食べたことがないですね。",
+            "timestamp": "2022-08-12T01:13:54.351000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "とろろ昆布は麺にからんできますし、シーチキンはしっかり味が変わるので、味変におすすめです！",
+            "timestamp": "2022-08-12T01:14:24.686000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EA",
+            "text": "いいですね。今度試してみようと思います。",
+            "timestamp": "2022-08-12T01:14:56.840000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "ぜひぜひ！私もネギ今度入れてみようと思います！",
+            "timestamp": "2022-08-12T01:15:16.834000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EA",
+            "text": "ほかにも色々と合いそうですね。なにか良さそうなのあったりしますか？",
+            "timestamp": "2022-08-12T01:16:00.992000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "冷しゃぶや細切りのキュウリも一緒にたべることありますね。あとゴマとかも入れるかも。",
+            "timestamp": "2022-08-12T01:16:35.501000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EA",
+            "text": "キュウリやゴマもいいですね。生姜って入れたりしますか？",
+            "timestamp": "2022-08-12T01:17:36.301000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "あまりいれないですね。入れるんですか？",
+            "timestamp": "2022-08-12T01:17:53.891000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EA",
+            "text": "自分で入れないですけど入れて食べてる人がいたのでどうなのかなと思いました。",
+            "timestamp": "2022-08-12T01:18:44.054000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "でもさっぱりして合いそうですね。",
+            "timestamp": "2022-08-12T01:19:00.732000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EA",
+            "text": "あまり生姜が好きではないのでちょっとびっくりしたことがあります。",
+            "timestamp": "2022-08-12T01:19:47.029000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "そうだったんですね！今度ショウガも試してみようかしら。",
+            "timestamp": "2022-08-12T01:20:03.656000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

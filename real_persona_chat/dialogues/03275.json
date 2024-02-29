@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3275,
+    "interlocutors": [
+        "BO",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "お願いします。",
+            "timestamp": "2022-08-27T17:52:12.909000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こちらこそお願いします。",
+            "timestamp": "2022-08-27T17:52:22.760000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "趣味とか何かありますか？",
+            "timestamp": "2022-08-27T17:52:36.557000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "ピアノを弾いたり、パンを作ったりでしょうか。",
+            "timestamp": "2022-08-27T17:53:02.379000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "へえ、素敵ですね。パンいいですね！",
+            "timestamp": "2022-08-27T17:53:27.801000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "前はベーカリーの機器を使っていたのですが、最近は機械無しでもやるようになりました。",
+            "timestamp": "2022-08-27T17:54:04.610000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "発酵とかもその機械でできちゃうんですか？",
+            "timestamp": "2022-08-27T17:54:27.457000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "発酵は、ベーカリーでもできるし、レンジでもできますよ。",
+            "timestamp": "2022-08-27T17:54:59.098000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね！めちゃくちゃパン作りって手間かかりそうで難しそうです。",
+            "timestamp": "2022-08-27T17:55:19.663000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "時間のスケジュールをうまくできるかにかかっているかも。",
+            "timestamp": "2022-08-27T17:55:57.570000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "なるほど。どういうパンを作るんですか？",
+            "timestamp": "2022-08-27T17:56:20.572000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "前は、メロンパン、クリームパン、総菜パンなどでしたが、今はフランスパンに興味があります。",
+            "timestamp": "2022-08-27T17:56:55.796000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "え、すごいですね！メロンパンはクッキー生地を上に乗せるんですよね？",
+            "timestamp": "2022-08-27T17:57:30.449000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "そうです！ご存知ですね。バターたくさん使うのでカロリー高いのです。",
+            "timestamp": "2022-08-27T17:57:55.696000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "メロンパン大好きなので出来立てはさぞ美味しいですよね。",
+            "timestamp": "2022-08-27T17:58:14.071000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "私の作ったメロンパンは評判良かったです。クッキー生地がカリカリして美味しいですよね。",
+            "timestamp": "2022-08-27T17:58:57.633000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "いいですね！フランスパンってやっぱり難しいんですかね。",
+            "timestamp": "2022-08-27T17:59:28.565000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "フランスパンは、小麦粉が違うのです。まだ、ひとりでは作ったことがないですが、材料は少ないです。",
+            "timestamp": "2022-08-27T18:00:23.009000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "なんか取り扱いとか難しそうですね。作る工程とか。",
+            "timestamp": "2022-08-27T18:00:37.623000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "生地に穴があくとよいとか言いますね。",
+            "timestamp": "2022-08-27T18:00:58.512000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね。私は昔お菓子作りはよくやっていました。",
+            "timestamp": "2022-08-27T18:01:23.969000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "何のお菓子をよく作ったのですか？",
+            "timestamp": "2022-08-27T18:01:40.086000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "主にクッキーが多いですかね。",
+            "timestamp": "2022-08-27T18:02:09.444000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "私はシュークリームにはまったことがあります。クッキーはあまり作ったことがないかな。",
+            "timestamp": "2022-08-27T18:02:50.028000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "シュークリームって膨らむの難しく無いですか？昔やって失敗しました。",
+            "timestamp": "2022-08-27T18:03:15.366000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "そうなんです。水分の加減で膨らまないことが多いのです。",
+            "timestamp": "2022-08-27T18:03:39.927000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "それ以来シュークリームを作ることは諦めました。",
+            "timestamp": "2022-08-27T18:04:05.471000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "でも、ふくらむと嬉しいので、その時は作り続けました！",
+            "timestamp": "2022-08-27T18:04:28.542000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "いいですね！今日はお話しありがとうございました。",
+            "timestamp": "2022-08-27T18:04:45.667000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "こちらこそ、楽しくお話しできてよかったです。",
+            "timestamp": "2022-08-27T18:05:07.208000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

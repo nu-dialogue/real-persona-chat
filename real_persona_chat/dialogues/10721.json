@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10721,
+    "interlocutors": [
+        "CX",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-15T14:20:02.554000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-15T14:20:27.627000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "先ほどスーパーに行ったのですが、駐車場に車たくさんでした。",
+            "timestamp": "2022-08-15T14:20:46.554000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "暑いので車移動は便利ですね",
+            "timestamp": "2022-08-15T14:21:02.615000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "そちらは車に乗ることはありますか？",
+            "timestamp": "2022-08-15T14:21:23.342000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "私は車を持っていなく、たまーにレンタカーです",
+            "timestamp": "2022-08-15T14:21:44.020000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "なるほど。電車やバスで移動ができる感じですか？",
+            "timestamp": "2022-08-15T14:22:04.639000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "はい、便利がよく車が普段は不要でして。",
+            "timestamp": "2022-08-15T14:22:31.020000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "それはいいですね。自分が住んでいるところは車必須なんです。",
+            "timestamp": "2022-08-15T14:22:49.463000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "車持つことに憧れています。",
+            "timestamp": "2022-08-15T14:23:06.751000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね。自分はマストだったので憧れとかはなかったです。",
+            "timestamp": "2022-08-15T14:23:42.329000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "運転はあまり好きではないので、自動運転に大期待です。",
+            "timestamp": "2022-08-15T14:24:07.311000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "わかります。自動運転ができるようになれば、慣れない地域へも車で行けるので。",
+            "timestamp": "2022-08-15T14:24:30.951000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "高速は手放しで目的地まで行けたら楽そう。",
+            "timestamp": "2022-08-15T14:25:01.146000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "そうですね、勝手に目的地に着くの、理想です。",
+            "timestamp": "2022-08-15T14:25:33.515000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "そうですよね。運転はレース場で楽しむとか。",
+            "timestamp": "2022-08-15T14:25:57.894000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "運転がストレス解消って方もいますからね。",
+            "timestamp": "2022-08-15T14:26:32.437000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "そうですよね。好きな人はたくさんいるでしょう。",
+            "timestamp": "2022-08-15T14:26:55.090000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "普通の道路では速度規制がありますから、そういうのなく走りたい方いるでしょうね。",
+            "timestamp": "2022-08-15T14:27:26.494000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "自動運転により人為的ミスの交通事故も減るかと思っているのですが",
+            "timestamp": "2022-08-15T14:28:01.964000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "それもあるでしょうね。自動運転の精度が上がればそちらの方が安全かもです。",
+            "timestamp": "2022-08-15T14:28:26.221000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "ナビで目的地を設定したらそれで終わり。",
+            "timestamp": "2022-08-15T14:28:55.253000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "便利ですね。その間車内で仕事したり動画見たり。",
+            "timestamp": "2022-08-15T14:29:14.932000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "お年寄りの移動手段も確保できる。",
+            "timestamp": "2022-08-15T14:29:40.494000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "確かに高齢の方にとってもそちらの方が安全ですね。",
+            "timestamp": "2022-08-15T14:30:04.159000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "ニュースで高齢者の事故ニュースが見立つので。",
+            "timestamp": "2022-08-15T14:30:28.519000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "どうしても反射神経とかが鈍るって言いますからね。",
+            "timestamp": "2022-08-15T14:30:55.233000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "それをカバーできれば良い方向に思えます。",
+            "timestamp": "2022-08-15T14:31:23.226000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "早く自動運転社会になってほしいです。",
+            "timestamp": "2022-08-15T14:31:38.380000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "はいそうですね",
+            "timestamp": "2022-08-15T14:31:47.553000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

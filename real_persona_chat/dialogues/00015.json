@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 15,
+    "interlocutors": [
+        "AC",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "どうもー。お疲れ様です！",
+            "timestamp": "2022-08-06T16:42:53.501000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "こんにちは！お疲れ様です！",
+            "timestamp": "2022-08-06T16:42:59.475000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "今日は何かされてましたか？",
+            "timestamp": "2022-08-06T16:43:10.046000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "今日は買い物してきました",
+            "timestamp": "2022-08-06T16:43:17.778000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "お！何買ってきたんですか？",
+            "timestamp": "2022-08-06T16:43:30.436000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "お野菜を買おうと思ったんですけど、結局買わず。",
+            "timestamp": "2022-08-06T16:43:36.268000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "えー！高かったですか？",
+            "timestamp": "2022-08-06T16:43:48.353000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "そうですね、思ってた値段じゃなかったので次でいいかなっと",
+            "timestamp": "2022-08-06T16:44:01.562000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "最近、なんでも値上がりしてますもんねー。",
+            "timestamp": "2022-08-06T16:44:12.651000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "本当に！何でもかんでも高くなって困ります",
+            "timestamp": "2022-08-06T16:44:21.771000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "今だとホントは夏野菜が安いはずなのに。",
+            "timestamp": "2022-08-06T16:44:36.361000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "そうなですけどね、やっぱり暑かったのが原因でしょうか",
+            "timestamp": "2022-08-06T16:44:52.742000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "それは大いにありますね！ちなみに、普段は自炊されてるんですか？",
+            "timestamp": "2022-08-06T16:45:06.763000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "少しですがしてます",
+            "timestamp": "2022-08-06T16:45:18.959000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "えらい！料理上手でしょうか？",
+            "timestamp": "2022-08-06T16:45:27.397000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "それが全然！味音痴なので",
+            "timestamp": "2022-08-06T16:45:37.408000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "自分が作ると、どうしても自分のためだけの味付けになりますよね。",
+            "timestamp": "2022-08-06T16:45:54.767000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "そうなんですよね。たまあに家族に食べさせると？って顔されます",
+            "timestamp": "2022-08-06T16:46:14.624000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "それは結構な感じですね！本やネットを見ながらとかしないんですか？",
+            "timestamp": "2022-08-06T16:46:36.447000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "いや、それを参考にするといいんですけど面倒くさがって適当にすると途端に顔をしかめられます",
+            "timestamp": "2022-08-06T16:46:53.373000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "あー、分かります！途中で味見は？",
+            "timestamp": "2022-08-06T16:47:16.239000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "するんですけど、そこからまずおかしい味がします",
+            "timestamp": "2022-08-06T16:47:36.204000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "そうなんですね。それで、調整はするんですか？",
+            "timestamp": "2022-08-06T16:47:53.968000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "調整しようとすると、余計におかしくなる",
+            "timestamp": "2022-08-06T16:48:06.649000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "それ、ちょっと分かります。温度によっても味の感じ方が変わりますしね。",
+            "timestamp": "2022-08-06T16:48:21.636000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "お料理上手なんですね？",
+            "timestamp": "2022-08-06T16:48:30.417000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "いや、そんなことないですよ。めんつゆ様に頼りきりです。",
+            "timestamp": "2022-08-06T16:48:42.995000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "めんつゆ様！！わかります、あの方は神様です",
+            "timestamp": "2022-08-06T16:49:00.863000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "でしょー！めんつゆ様は日本の心です！",
+            "timestamp": "2022-08-06T16:49:20.740000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "わかります！ありがとうございました！",
+            "timestamp": "2022-08-06T16:49:31.315000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

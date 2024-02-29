@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1949,
+    "interlocutors": [
+        "CI",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-17T22:37:27.205000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんばんは。お願いします",
+            "timestamp": "2022-08-17T22:37:39"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "普段、お休みの日は何をされてますか？",
+            "timestamp": "2022-08-17T22:37:51.113000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "休みの日は最近はフリマサイトの物色ですね",
+            "timestamp": "2022-08-17T22:38:25.099000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "フリマサイト私も見ます。何か買ったりしますか？",
+            "timestamp": "2022-08-17T22:38:47.533000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "はい、買ったり売ったりもします",
+            "timestamp": "2022-08-17T22:38:59.173000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "売る方もされるんですね。結構売れますか？",
+            "timestamp": "2022-08-17T22:39:13.610000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "とりあえず今のところは全部売れてます",
+            "timestamp": "2022-08-17T22:39:31.339000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "おお！すごいですね。売り方にコツとかありますか？",
+            "timestamp": "2022-08-17T22:39:48.816000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "売れるかなってものだけ出してますね。同じものが以前に売れてるかどうか見ます",
+            "timestamp": "2022-08-17T22:40:30.896000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "相場とか需要をチェックする感じですか？",
+            "timestamp": "2022-08-17T22:40:51.586000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "値段付ける時に見る程度で、そこまで細かくはないですが。",
+            "timestamp": "2022-08-17T22:41:26.305000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "なるほどー。フリマサイトで上手くいったお買い物とかありますか？",
+            "timestamp": "2022-08-17T22:41:59.505000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "何かの部品が壊れたりしたときにそれだけをピンポイントで買ってます。その時はうれしいですね",
+            "timestamp": "2022-08-17T22:42:41.141000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "それわかります！私もデジカメのバッテリーを見つけて助かりました。",
+            "timestamp": "2022-08-17T22:43:03.665000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "細かい、マニアックなものとか意外と売れるので基本買うときはまず見ますね",
+            "timestamp": "2022-08-17T22:43:50.038000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "意外と見つかるので侮れないですよね。",
+            "timestamp": "2022-08-17T22:44:05.534000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "メーカーは廃盤だったりするので助かります",
+            "timestamp": "2022-08-17T22:44:36.645000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "市販で手に入らない物が帰るのは助かりますね。",
+            "timestamp": "2022-08-17T22:44:57.801000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "はい、たまに３個セットで１つだけしかいらない場合は残りの２個は売ります",
+            "timestamp": "2022-08-17T22:45:32.205000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "それ、上手な使い方ですね！確かに1個でいいのに、みたいなものありますね。",
+            "timestamp": "2022-08-17T22:46:03.229000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "はい、結局売ったり買ったりで損はないのか気になるんですけどね",
+            "timestamp": "2022-08-17T22:46:43.270000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "ちょっと節約になってたりすると嬉しいですね。",
+            "timestamp": "2022-08-17T22:46:59.509000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "ですね。色んな人に勧めてたら、卑しく見られないかなと最近は思ってます",
+            "timestamp": "2022-08-17T22:48:07.832000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "あ、私の周りは結構フリマサイト活用してる人多いですよ！",
+            "timestamp": "2022-08-17T22:48:59.382000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "そうですか、よかったです。エコですよね",
+            "timestamp": "2022-08-17T22:49:04.340000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "服の売り買いしてる人が結構多いです。",
+            "timestamp": "2022-08-17T22:49:23.071000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "そうですか、いいのありますもんね！",
+            "timestamp": "2022-08-17T22:49:37.202000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "サイズ合わなくなってとか、欲しかったけど完売で買えなかったとか、掘り出し物があるみたいです。",
+            "timestamp": "2022-08-17T22:50:05.751000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "そうなんですよね。服屋で欲しいものがあって、サイト見て安くで売ってあったので迷わず店を出たことがあります",
+            "timestamp": "2022-08-17T22:51:15.497000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

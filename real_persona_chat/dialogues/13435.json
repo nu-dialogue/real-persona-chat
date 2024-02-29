@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13435,
+    "interlocutors": [
+        "GN",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T13:24:19.433000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T13:24:24"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GN",
+            "text": "なにか趣味ありますか",
+            "timestamp": "2022-09-22T13:24:28.905000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "たくさんあります",
+            "timestamp": "2022-09-22T13:24:35.931000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GN",
+            "text": "ひとつおしえてください",
+            "timestamp": "2022-09-22T13:24:41.547000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "音楽を勉強しています",
+            "timestamp": "2022-09-22T13:24:48.606000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GN",
+            "text": "おお、作曲ですか",
+            "timestamp": "2022-09-22T13:24:52.347000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "楽器を弾くほうです。",
+            "timestamp": "2022-09-22T13:25:03.346000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GN",
+            "text": "なんの楽器でしょう",
+            "timestamp": "2022-09-22T13:25:04.184000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "チェンバロという楽器です",
+            "timestamp": "2022-09-22T13:25:12.054000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GN",
+            "text": "おお、むずかしそう",
+            "timestamp": "2022-09-22T13:25:14.641000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "ピアノの前の楽器です。むつかしいです",
+            "timestamp": "2022-09-22T13:25:23.607000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GN",
+            "text": "めっちゃむずそうです",
+            "timestamp": "2022-09-22T13:25:29.506000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "どの楽器もむつかしいですよね",
+            "timestamp": "2022-09-22T13:25:38.332000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GN",
+            "text": "弦楽器のイメージでした",
+            "timestamp": "2022-09-22T13:25:40.358000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "弦楽器ではありますが鍵盤があります",
+            "timestamp": "2022-09-22T13:25:48.657000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GN",
+            "text": "鍵盤いいですよね、たのしそう",
+            "timestamp": "2022-09-22T13:25:54.898000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "お好きですか？",
+            "timestamp": "2022-09-22T13:26:03.335000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GN",
+            "text": "いまやってます",
+            "timestamp": "2022-09-22T13:26:08.320000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "何をされているのですか？",
+            "timestamp": "2022-09-22T13:26:17.083000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GN",
+            "text": "dawで作曲してます",
+            "timestamp": "2022-09-22T13:26:19.047000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "それは何ですか？すみません知らなくて",
+            "timestamp": "2022-09-22T13:26:34.781000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GN",
+            "text": "なんでしょう、作曲ソフト的な",
+            "timestamp": "2022-09-22T13:26:38.643000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "おもしろいですね。私もすきですよ。",
+            "timestamp": "2022-09-22T13:26:49.920000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GN",
+            "text": "たのしいですよねおんがく",
+            "timestamp": "2022-09-22T13:26:54.264000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "はい。昔エレクトーンをやっていたので",
+            "timestamp": "2022-09-22T13:27:04.238000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GN",
+            "text": "世界広がります。",
+            "timestamp": "2022-09-22T13:27:06.718000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "はい。作曲もすきです",
+            "timestamp": "2022-09-22T13:27:17.334000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GN",
+            "text": "たのしいですほんとに",
+            "timestamp": "2022-09-22T13:27:20.873000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "発表もされますか",
+            "timestamp": "2022-09-22T13:27:27.193000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

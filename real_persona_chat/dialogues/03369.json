@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3369,
+    "interlocutors": [
+        "EF",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EF",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T13:56:12.241000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-28T13:56:20.266000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EF",
+            "text": "学生時代は部活に入っていましたか？",
+            "timestamp": "2022-08-28T13:56:32.891000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "いくつか入っていました",
+            "timestamp": "2022-08-28T13:56:45.123000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EF",
+            "text": "おぉ！どんな部に入っていました？",
+            "timestamp": "2022-08-28T13:57:09.743000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "小学・写真部、中学・バスケ部、高校・美術部、大学・航空部",
+            "timestamp": "2022-08-28T13:57:41.992000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EF",
+            "text": "すごい運動部も文化部も経験なさってるんですね！航空部はちょっと初めて聞きました",
+            "timestamp": "2022-08-28T13:58:25.474000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "珍しいかもです。グライダーで飛ぶ体育会です",
+            "timestamp": "2022-08-28T13:59:03.733000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EF",
+            "text": "グライダーで飛ぶ！えっすごい部ですね！鳥人間みたい",
+            "timestamp": "2022-08-28T13:59:33.933000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "とり人間というより、飛行機に近いものです。",
+            "timestamp": "2022-08-28T14:00:01.210000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EF",
+            "text": "本当に凄いですね、大会とかもあったんですか？",
+            "timestamp": "2022-08-28T14:00:37.160000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "学生大会は毎年開催されます",
+            "timestamp": "2022-08-28T14:00:56.017000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EF",
+            "text": "そうなんですね！えー初耳なのでびっくりです。飛ぶのは怖くありませんか？",
+            "timestamp": "2022-08-28T14:01:43.399000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "エンジンが無い分安全と考えています",
+            "timestamp": "2022-08-28T14:02:09.058000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EF",
+            "text": "おぉ、ハートが強いですね。私ちょっと怖いなって思っちゃいそうです",
+            "timestamp": "2022-08-28T14:02:49.774000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "一般の旅客機の方が怖い時あります。エンジン止まったら落ちちゃいますから",
+            "timestamp": "2022-08-28T14:03:47.239000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EF",
+            "text": "それは確かにありますね。航空機事故の話とかテレビでよく見ますし怖いです。",
+            "timestamp": "2022-08-28T14:04:21.654000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "飛行機は好きですか",
+            "timestamp": "2022-08-28T14:04:37.641000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EF",
+            "text": "実はまだ乗ったことがないんです。乗る機会が無くて。",
+            "timestamp": "2022-08-28T14:04:55.632000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "そうだったのですね。空は気持ちがいいものです",
+            "timestamp": "2022-08-28T14:05:31.579000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EF",
+            "text": "そうなんですねー。怖いけど乗ってみたいなって気持ちだけはあります",
+            "timestamp": "2022-08-28T14:06:02.443000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "電車より楽っていう人はいますね。電車の長時間には耐えられますか？",
+            "timestamp": "2022-08-28T14:06:36.382000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EF",
+            "text": "結構耐えられます！というか電車移動は好きの部類に入ります。満員じゃなければ",
+            "timestamp": "2022-08-28T14:07:08.146000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "新幹線とかですか",
+            "timestamp": "2022-08-28T14:07:29.284000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EF",
+            "text": "そうですね、新幹線は2回ほど利用しましたが快適でした",
+            "timestamp": "2022-08-28T14:07:52.937000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "今の新幹線車両は乗りごごちよくなりました",
+            "timestamp": "2022-08-28T14:08:25.485000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EF",
+            "text": "普通に寝られたりしちゃいますもんね",
+            "timestamp": "2022-08-28T14:09:03.585000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "私は地下鉄でもすぐ寝れちゃいますけどね笑",
+            "timestamp": "2022-08-28T14:09:32.373000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EF",
+            "text": "私も寝れちゃうタイプですー。",
+            "timestamp": "2022-08-28T14:09:48.809000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "寝過ごさないように",
+            "timestamp": "2022-08-28T14:09:59.619000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EF",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

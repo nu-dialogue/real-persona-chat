@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5678,
+    "interlocutors": [
+        "DB",
+        "GZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-27T23:23:14.574000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GZ",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-27T23:23:28.389000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "よく行くお気に入りの場所とかありますか？",
+            "timestamp": "2022-09-27T23:23:51.956000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GZ",
+            "text": "最近は車でドライブしながら近場のカフェに行きます。",
+            "timestamp": "2022-09-27T23:24:34.780000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "ドライブいいですね！運転好きなんですか？",
+            "timestamp": "2022-09-27T23:25:43.526000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GZ",
+            "text": "もう電車には何年も乗ってないんです。苦手で、、運転は大好きです！",
+            "timestamp": "2022-09-27T23:26:16.740000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "人が多いのとかが苦手なんですか？",
+            "timestamp": "2022-09-27T23:26:34.845000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GZ",
+            "text": "満員電車で１度倒れて以来トラウマになってしまいました。",
+            "timestamp": "2022-09-27T23:26:58.023000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "え！それは怖いですね。大丈夫でしたか？",
+            "timestamp": "2022-09-27T23:27:21.370000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GZ",
+            "text": "優しい駅員さんに助けて貰って、本当に助かりました。",
+            "timestamp": "2022-09-27T23:27:47.315000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "確かにそれは電車無理になってしまいますね。沖縄は電車がほとんどないのであまり乗らないんですよ。",
+            "timestamp": "2022-09-27T23:28:14.064000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GZ",
+            "text": "逆に羨ましいです！私はどこ行くにも車なので、みんなに笑われます。",
+            "timestamp": "2022-09-27T23:28:54.145000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "沖縄だと車必須です！今ちょうど免許とるために学校通ってます。",
+            "timestamp": "2022-09-27T23:29:32.974000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GZ",
+            "text": "免許！！いいですねー！！私は取るの遅くて２７歳の時に取りました。",
+            "timestamp": "2022-09-27T23:30:02.261000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "免許とるの大変でしたか？私はまだ1段階の途中なんですが。",
+            "timestamp": "2022-09-27T23:30:35.777000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GZ",
+            "text": "もう、仮免で外に出た時は２０キロくらいでビクビクでした。",
+            "timestamp": "2022-09-27T23:31:00.461000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "私も今スピードもっと出せるようにしようねって言われてます。",
+            "timestamp": "2022-09-27T23:31:26.625000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GZ",
+            "text": "怖いですよね。最後の高速乗る時なんて太ももが震えて筋肉痛になりました。",
+            "timestamp": "2022-09-27T23:31:50.197000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "高速道路は怖いです。やっぱり緊張しますよね。",
+            "timestamp": "2022-09-27T23:32:28.436000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GZ",
+            "text": "もう帰って来られないかと思いました！でも、免許取ったら色んな所へ行けますね。",
+            "timestamp": "2022-09-27T23:33:05.438000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "色んなところ行きたいです。県外は車で他県にも行けるので羨ましいです。",
+            "timestamp": "2022-09-27T23:33:42.591000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GZ",
+            "text": "沖縄は海に囲まれていますもんね！！そういえば！でも、沖縄の端から端まで行けますね。",
+            "timestamp": "2022-09-27T23:34:22.442000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "一日で回れちゃいますね。でも飛行機乗るのが好きなので定期的にどこかに行きたくなります。",
+            "timestamp": "2022-09-27T23:35:06.874000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GZ",
+            "text": "私は横浜なのですが、関東には来られたことありますか？",
+            "timestamp": "2022-09-27T23:35:25.666000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "あります！横浜も祖父母が住んでるので何度か行ってます。",
+            "timestamp": "2022-09-27T23:35:52.945000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GZ",
+            "text": "そうなんですね！！なんだか親近感湧いちゃいました。",
+            "timestamp": "2022-09-27T23:36:23.533000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "横浜いいところですよね。働く場所東京だけど横浜に住みたいです。",
+            "timestamp": "2022-09-27T23:36:49.785000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GZ",
+            "text": "これから東京に住まれるんですね！！わーー！横浜是非。",
+            "timestamp": "2022-09-27T23:37:19.647000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "いい物件を見つけたいです。",
+            "timestamp": "2022-09-27T23:37:33.692000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GZ",
+            "text": "素敵な物件に巡り会えますように。",
+            "timestamp": "2022-09-27T23:38:23.131000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

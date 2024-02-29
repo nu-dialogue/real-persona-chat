@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6867,
+    "interlocutors": [
+        "AS",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは",
+            "timestamp": "2022-10-09T11:42:29.509000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-09T11:42:46.323000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "今日の天気はどうですか？",
+            "timestamp": "2022-10-09T11:43:01.388000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "今日は晴れてます！過ごしやすいです。",
+            "timestamp": "2022-10-09T11:43:17.168000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "こっちは雨降ってます。とても寒いです",
+            "timestamp": "2022-10-09T11:43:30.456000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！夏も終わって冷え込んできてますね。",
+            "timestamp": "2022-10-09T11:44:12.869000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "どの天気がお好きですか？",
+            "timestamp": "2022-10-09T11:44:25.332000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "暑くない晴れ模様がいいです！",
+            "timestamp": "2022-10-09T11:44:56.031000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "確かに。私も同感です",
+            "timestamp": "2022-10-09T11:45:25.110000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "適温がいいですー。",
+            "timestamp": "2022-10-09T11:46:00.223000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "じゃあ、春とかお好きですか？季節で言うと",
+            "timestamp": "2022-10-09T11:46:14.428000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "ですね！秋も好きです！",
+            "timestamp": "2022-10-09T11:46:36.102000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "これからですね！秋は気温以外に何か好きなものありますか？",
+            "timestamp": "2022-10-09T11:47:07.705000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "食べ物ですー！",
+            "timestamp": "2022-10-09T11:47:25.487000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "果物とかですか？",
+            "timestamp": "2022-10-09T11:47:53.289000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "そうですね！栗とか、あとはカボチャとかさつまいもとかも！",
+            "timestamp": "2022-10-09T11:48:41.762000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "サツマイモと言えば、昨日収穫しました！",
+            "timestamp": "2022-10-09T11:48:54.039000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "おお！それは！",
+            "timestamp": "2022-10-09T11:49:41.965000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "農業の授業で栽培してたんです",
+            "timestamp": "2022-10-09T11:50:00.519000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "なるほど！出来具合はどうでしょう？",
+            "timestamp": "2022-10-09T11:50:46.011000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "３畝で60キロ以上取れました",
+            "timestamp": "2022-10-09T11:51:02.642000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "結構な量ですね！",
+            "timestamp": "2022-10-09T11:51:27.491000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "8人で頑張ってたんですけど、とても分け合えないくらいたくさん採れました",
+            "timestamp": "2022-10-09T11:51:52.894000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "大収穫でしたね！",
+            "timestamp": "2022-10-09T11:52:41.785000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "腐らせずに消費しきれるか心配です！",
+            "timestamp": "2022-10-09T11:53:06.400000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "それですよね！どのような消費を考えてますか？",
+            "timestamp": "2022-10-09T11:53:34.915000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "イモけんぴとかてんぷらとかスイートポテトですね。",
+            "timestamp": "2022-10-09T11:54:17.541000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "料理の腕がどんどん上がっていきそうですね。",
+            "timestamp": "2022-10-09T11:54:50.142000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "ですね！スイーツはあまり手を付けてなかったのでいいチャンスです！",
+            "timestamp": "2022-10-09T11:55:14.191000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "楽しみですね！",
+            "timestamp": "2022-10-09T11:55:25.472000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

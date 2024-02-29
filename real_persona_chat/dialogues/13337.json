@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13337,
+    "interlocutors": [
+        "FO",
+        "FC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ。",
+            "timestamp": "2022-09-20T18:19:08.102000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FC",
+            "text": "こんばんは",
+            "timestamp": "2022-09-20T18:19:16.263000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FO",
+            "text": "この夏はどうでしたか？",
+            "timestamp": "2022-09-20T18:19:23.298000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FC",
+            "text": "この夏は海外に行ったり、コロナになったり色々しました",
+            "timestamp": "2022-09-20T18:19:44.202000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FO",
+            "text": "海とか行きましたか？",
+            "timestamp": "2022-09-20T18:20:08.170000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FC",
+            "text": "海は行ってないですね。潮水が苦手で。",
+            "timestamp": "2022-09-20T18:20:35.932000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FO",
+            "text": "そうなんですね、川とかは？",
+            "timestamp": "2022-09-20T18:21:02.538000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FC",
+            "text": "川も結局行かなかったですね。ちょうど台風来る時だったので。",
+            "timestamp": "2022-09-20T18:21:30.163000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FO",
+            "text": "あー、それは残念でしたね。",
+            "timestamp": "2022-09-20T18:21:46.158000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FC",
+            "text": "夏じゃなくても行けるのでいいかななんて思っちゃいました。",
+            "timestamp": "2022-09-20T18:22:08.780000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FO",
+            "text": "そうですね、冬になると寒くて行けないでしょうけど。",
+            "timestamp": "2022-09-20T18:22:30.326000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FC",
+            "text": "そうですね、冬の釣りも楽しくておすすめですよ。",
+            "timestamp": "2022-09-20T18:22:57.974000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FO",
+            "text": "あー、氷に穴開けるやつでしたっけ？",
+            "timestamp": "2022-09-20T18:23:09.954000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FC",
+            "text": "それもありますね、その場合は湖のほうが多いですけどあれも楽しいです",
+            "timestamp": "2022-09-20T18:23:33.448000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FO",
+            "text": "色々経験豊富なんですね。",
+            "timestamp": "2022-09-20T18:24:00.652000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FC",
+            "text": "田舎は遊びが少ないので自然のもので色々遊びますね。",
+            "timestamp": "2022-09-20T18:24:26.750000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FO",
+            "text": "田舎なんですか？",
+            "timestamp": "2022-09-20T18:24:56.169000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FC",
+            "text": "田舎に住んでますよ。",
+            "timestamp": "2022-09-20T18:25:07.671000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FO",
+            "text": "都会に対する憧れとかあるんですか？",
+            "timestamp": "2022-09-20T18:25:49.933000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FC",
+            "text": "大学が東京で家と行き来しているので、憧れも無くなってしまいました。",
+            "timestamp": "2022-09-20T18:26:13.483000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FO",
+            "text": "なるほど、東京はもう大都会ですね。",
+            "timestamp": "2022-09-20T18:26:52.052000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FC",
+            "text": "新宿駅は毎回迷子ですね。全然慣れないです。",
+            "timestamp": "2022-09-20T18:27:11.396000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FO",
+            "text": "地図確認必須ですね。",
+            "timestamp": "2022-09-20T18:27:31.157000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FC",
+            "text": "Googleマップで調べても建物内なので現在地がブレて行き方がわからなくなります。",
+            "timestamp": "2022-09-20T18:28:02.530000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FO",
+            "text": "あー、駅構内の地図です。",
+            "timestamp": "2022-09-20T18:28:29.173000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FC",
+            "text": "駅の中も複雑で見てもわからなくなってしまう時もあってしんどいです。",
+            "timestamp": "2022-09-20T18:29:15.056000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FO",
+            "text": "うーん、あとは目で確認するしかないですかね。",
+            "timestamp": "2022-09-20T18:30:15.383000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FC",
+            "text": "そうなんですよね、なかなか大変です。",
+            "timestamp": "2022-09-20T18:30:34.710000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FO",
+            "text": "うーん。",
+            "timestamp": "2022-09-20T18:31:25.732000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FC",
+            "text": "慣れるしかないですね",
+            "timestamp": "2022-09-20T18:31:42.736000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FC",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

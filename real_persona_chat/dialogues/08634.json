@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8634,
+    "interlocutors": [
+        "BH",
+        "AV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BH",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-06T11:55:00.119000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AV",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-06T11:55:12.039000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BH",
+            "text": "夜ご飯の献立って普段どうやって決めてますか？",
+            "timestamp": "2022-08-06T11:55:36.579000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AV",
+            "text": "もう、適当です。スーパーのチラシがすべての鍵をにぎっていますね。",
+            "timestamp": "2022-08-06T11:56:10.453000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BH",
+            "text": "買い物に行く前に決めちゃう感じですか？",
+            "timestamp": "2022-08-06T11:56:23.933000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AV",
+            "text": "安いのを買ってからメニュー決めちゃう感じです。",
+            "timestamp": "2022-08-06T11:56:54.886000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BH",
+            "text": "できる人ですねー。なかなか決めれなくてスーパーでウロウロしてることもあります。",
+            "timestamp": "2022-08-06T11:57:27.728000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AV",
+            "text": "スーパーに滞在するのあまり得意ではなくってサッと購入して帰っちゃいます。",
+            "timestamp": "2022-08-06T11:57:57.069000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BH",
+            "text": "そうしたいんです。本当は。決めてから行けばいいんですよねー",
+            "timestamp": "2022-08-06T11:58:19.296000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AV",
+            "text": "あとから献立決めるのもなんとかなりますよ。クックパッド頼りですけど。",
+            "timestamp": "2022-08-06T11:58:52.210000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BH",
+            "text": "クックパッド頼りになりますよねー。最近おいしかったものありました？",
+            "timestamp": "2022-08-06T11:59:12.999000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AV",
+            "text": "パリパリ皮のチキンステーキです！",
+            "timestamp": "2022-08-06T11:59:37.863000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BH",
+            "text": "おー、名前だけでおいしいってわかりますねー",
+            "timestamp": "2022-08-06T11:59:49.602000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AV",
+            "text": "今までべちゃーっと皮の部分がなってたんですが、そのレシピを見て劇的に美味しくなりました。",
+            "timestamp": "2022-08-06T12:00:24.717000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BH",
+            "text": "べちゃーっとなりがちですよね。私も探して参考にしてみます！",
+            "timestamp": "2022-08-06T12:00:44.774000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AV",
+            "text": "ポイントは重しなんです。あなたは普段何をよく作られますか？",
+            "timestamp": "2022-08-06T12:01:12.018000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BH",
+            "text": "揚げ物、丼もの、粉ものが多いですねー",
+            "timestamp": "2022-08-06T12:01:28.347000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AV",
+            "text": "丼もの、粉ものは我が家もよく登場しますが、揚げ物大変じゃないですか？",
+            "timestamp": "2022-08-06T12:01:55.435000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BH",
+            "text": "大変ですけど、やっぱり子供は喜ぶし、楽は楽ですよー",
+            "timestamp": "2022-08-06T12:02:24.139000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AV",
+            "text": "確かに！うちでも揚げ物はいつもやったー!の声が出ますね。",
+            "timestamp": "2022-08-06T12:02:53.482000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BH",
+            "text": "子供は大好きですよね。ちなみに今日は何するか決めてますか？",
+            "timestamp": "2022-08-06T12:03:23.946000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AV",
+            "text": "我が家は今日は豚しゃぶサラダ蕎麦の予定です。",
+            "timestamp": "2022-08-06T12:03:47.537000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BH",
+            "text": "蕎麦！おー美味しそう",
+            "timestamp": "2022-08-06T12:04:04.151000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AV",
+            "text": "暑いのでできるだけ火を長く使いたくなくって、麺類が多くなっちゃいますね。",
+            "timestamp": "2022-08-06T12:04:43.178000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BH",
+            "text": "そうなんですね。私あんまり夜に麺類したことないです。",
+            "timestamp": "2022-08-06T12:05:09.587000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AV",
+            "text": "麺ばっかりだと男性陣から文句がでますね。ガッツリを求められて。",
+            "timestamp": "2022-08-06T12:05:52.710000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BH",
+            "text": "あはは。プラスで白ごはん出しといてください。",
+            "timestamp": "2022-08-06T12:06:15.196000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AV",
+            "text": "炭水化物オンパレードですね！",
+            "timestamp": "2022-08-06T12:06:41.315000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BH",
+            "text": "ガッツリでしょって、なってみんなハッピーです！！",
+            "timestamp": "2022-08-06T12:06:58.466000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AV",
+            "text": "確かに、お腹いっぱいでニコニコですね。",
+            "timestamp": "2022-08-06T12:07:17.941000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BH",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

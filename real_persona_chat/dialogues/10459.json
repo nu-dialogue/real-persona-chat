@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10459,
+    "interlocutors": [
+        "AS",
+        "EJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-13T10:42:40.394000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EJ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-13T10:42:46.776000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "虫は好きですか？",
+            "timestamp": "2022-08-13T10:42:56.107000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EJ",
+            "text": "どんな虫かによります。てんとう虫みたいな小さい甲虫は好きです。",
+            "timestamp": "2022-08-13T10:43:37.307000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "なるほど。テントウムシは私も好きです",
+            "timestamp": "2022-08-13T10:44:03.015000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EJ",
+            "text": "可愛いですよね。名前は失念しちゃいましたが、黒地に赤点のが特に好きです。",
+            "timestamp": "2022-08-13T10:44:42.921000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "フタツボシですね、多分",
+            "timestamp": "2022-08-13T10:45:09.645000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EJ",
+            "text": "フタツボシ、っていうんですね。庭に一杯いるので、たまに眺めています。",
+            "timestamp": "2022-08-13T10:45:36.352000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "テントウムシはホントに、農業でもお世話になってます",
+            "timestamp": "2022-08-13T10:46:18.715000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EJ",
+            "text": "益虫ですもんね。アブラムシを追い払ってくれんるんですよね？",
+            "timestamp": "2022-08-13T10:46:46.444000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "追い払うというか、食べつくしてくれます。",
+            "timestamp": "2022-08-13T10:47:03.036000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EJ",
+            "text": "食べるんですね。尚のこと良いですね。",
+            "timestamp": "2022-08-13T10:47:20.519000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "ただ、アブラムシと共益関係にあるアリに妨害されたりもします",
+            "timestamp": "2022-08-13T10:47:49.593000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EJ",
+            "text": "アリの立場からすると、どんな利益がアブラムシからもたらされるんですか？",
+            "timestamp": "2022-08-13T10:48:28.840000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "アブラムシは、守ってもらう代わりに自ら作った甘い液をアリに与えるんです",
+            "timestamp": "2022-08-13T10:48:59.867000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EJ",
+            "text": "そうなんだ。ちゃんと報酬があるから成り立ってるんですね。",
+            "timestamp": "2022-08-13T10:49:25.624000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "生物って、意外と筋通ってるんです",
+            "timestamp": "2022-08-13T10:49:52.622000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EJ",
+            "text": "常に生きるか死ぬかだと、利害にそって生きざるえないですよね。",
+            "timestamp": "2022-08-13T10:50:26.885000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "まぁ、一方的に利益を求める寄生とかもありますけども",
+            "timestamp": "2022-08-13T10:51:04.605000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EJ",
+            "text": "確かにそうですね。",
+            "timestamp": "2022-08-13T10:51:43.654000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "される側からしたらいい迷惑です。特に魚とか",
+            "timestamp": "2022-08-13T10:52:04.370000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EJ",
+            "text": "川釣りを小さい頃やっていたので何回か見ましたが、悲惨ですよね。",
+            "timestamp": "2022-08-13T10:52:44.450000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "体の中ボロボロにして、のたうち回って。",
+            "timestamp": "2022-08-13T10:53:20.074000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EJ",
+            "text": "中々グロテスクですよね。",
+            "timestamp": "2022-08-13T10:53:31.899000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "鯨の体内で大量増殖したアニサキスを見たことあります",
+            "timestamp": "2022-08-13T10:54:00.453000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EJ",
+            "text": "衝撃的そうですね。あまり見たくはないな。",
+            "timestamp": "2022-08-13T10:54:41.522000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "あれは見ない方がいいです。トラウマ級でした",
+            "timestamp": "2022-08-13T10:54:59.567000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EJ",
+            "text": "そうですよね。種は違いますけど、自分が健康でよかったな、としみじみ思いますね。",
+            "timestamp": "2022-08-13T10:55:39.819000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "ほんと、健康が一番です",
+            "timestamp": "2022-08-13T10:55:59.684000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EJ",
+            "text": "最近暑いですし、気を付けないとですね。",
+            "timestamp": "2022-08-13T10:56:15.955000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

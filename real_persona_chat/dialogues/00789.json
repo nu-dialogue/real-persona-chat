@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 789,
+    "interlocutors": [
+        "AH",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T14:21:09.170000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-10T14:21:17.630000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "趣味などはありますか？",
+            "timestamp": "2022-08-10T14:21:24.904000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "趣味は、筋トレとお菓子作りです。",
+            "timestamp": "2022-08-10T14:21:39.080000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "お菓子作りってクッキーとかでしょうか？",
+            "timestamp": "2022-08-10T14:21:57.727000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "そうですね。筋トレしてるのにお菓子作っちゃダメなんですけどね。",
+            "timestamp": "2022-08-10T14:22:24.114000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "確かに、お菓子とかはよくないのかもしれないですね。",
+            "timestamp": "2022-08-10T14:22:47.983000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "一番ダメなコンビネーションですね。あなたの趣味は？",
+            "timestamp": "2022-08-10T14:23:16.448000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "私はゲームとウォーキングくらいです。",
+            "timestamp": "2022-08-10T14:23:21.765000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "ゲームはどんなゲームですか？",
+            "timestamp": "2022-08-10T14:23:44.198000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "どうぶつの森とかやっていますよ。",
+            "timestamp": "2022-08-10T14:23:53.605000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "今ってどうぶつの森どのぐらいシリーズあるんですかね？",
+            "timestamp": "2022-08-10T14:24:39.346000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "かなり前からありますからね、どれくらいなんだろう。",
+            "timestamp": "2022-08-10T14:24:48.042000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "私は一回もやったことないんですよ。",
+            "timestamp": "2022-08-10T14:25:05.832000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "調べてみたら八作品らしいです。",
+            "timestamp": "2022-08-10T14:25:23.826000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "結構ありますね。あなたは全部持ってますか？",
+            "timestamp": "2022-08-10T14:25:43.188000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "私はスイッチのやつしか持っていないです。",
+            "timestamp": "2022-08-10T14:25:54.667000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "スイッチ皆持ってますよね。",
+            "timestamp": "2022-08-10T14:26:21.030000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "結構人気あるみたいですね。",
+            "timestamp": "2022-08-10T14:26:29.002000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "私そうゆうのに本当に疎くて、何一つ持ってません。",
+            "timestamp": "2022-08-10T14:26:48.019000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "趣味があるのであれば、そっちの方がいいと思います。",
+            "timestamp": "2022-08-10T14:27:16.928000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "私はたまにジョギングしたりします。",
+            "timestamp": "2022-08-10T14:27:54.009000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "ジョギングですか。どのくらいの時間やりますか？",
+            "timestamp": "2022-08-10T14:28:05.491000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "２kmぐらい走ります。",
+            "timestamp": "2022-08-10T14:28:26.594000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "中学の持久走と同じくらいの距離だ。",
+            "timestamp": "2022-08-10T14:28:41.796000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "タイムはだいぶ落ちてて結構ショック受けました。",
+            "timestamp": "2022-08-10T14:29:09.776000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "毎日やられているのですか？",
+            "timestamp": "2022-08-10T14:29:34.653000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "週2,3ぐらいだけです。",
+            "timestamp": "2022-08-10T14:29:55.935000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "それでも健康にはかなり良さそうですね！",
+            "timestamp": "2022-08-10T14:30:11.951000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "はい。それでは失礼しますね。",
+            "timestamp": "2022-08-10T14:30:24.687000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

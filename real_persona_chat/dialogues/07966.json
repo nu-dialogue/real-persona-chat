@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7966,
+    "interlocutors": [
+        "CO",
+        "AU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "はじめまして。",
+            "timestamp": "2022-08-04T14:02:53.551000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AU",
+            "text": "はじめまして、毎日暑いですね。",
+            "timestamp": "2022-08-04T14:03:32.774000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "暑すぎますね。大丈夫ですか？",
+            "timestamp": "2022-08-04T14:04:16.558000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AU",
+            "text": "私は暑いのが苦手なので、夏バテしてます。",
+            "timestamp": "2022-08-04T14:04:47.545000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "私もそうです。外にいつもいるのですごく日焼けしてしまいました。",
+            "timestamp": "2022-08-04T14:05:19.340000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AU",
+            "text": "日焼け、私すぐ黒くなっちゃいます。",
+            "timestamp": "2022-08-04T14:05:47.424000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "日焼け止めとかちゃんと塗ってますか？",
+            "timestamp": "2022-08-04T14:06:13.173000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AU",
+            "text": "外出時は、塗りますが自宅だと面倒でぬってないんです。",
+            "timestamp": "2022-08-04T14:09:21.044000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "本当は家の中でも塗った方がいいんですよね。",
+            "timestamp": "2022-08-04T14:07:30.677000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AU",
+            "text": "そうらしいです。日焼けは赤くなるタイプですか？",
+            "timestamp": "2022-08-04T14:08:21.754000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "すぐに真っ黒になるタイプです。<AU>さんはどうですか？",
+            "timestamp": "2022-08-04T14:08:48.833000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AU",
+            "text": "私は、腕だけはすぐ黒くなるのでイヤになります。",
+            "timestamp": "2022-08-04T14:09:13.654000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "年齢を重ねるとしみになるのも心配ですよね。",
+            "timestamp": "2022-08-04T14:09:39.280000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AU",
+            "text": "そうなんですよ、若いうちは日焼け気にしなかったですけどね。",
+            "timestamp": "2022-08-04T15:05:37.162000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "何かお手入れとかされてますか？私はなかなか面倒くさくて。",
+            "timestamp": "2022-08-04T14:10:39.392000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AU",
+            "text": "気になるときはパックや保湿してます。",
+            "timestamp": "2022-08-04T14:11:10.554000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "何かおすすめのアイテムはありますか？",
+            "timestamp": "2022-08-04T14:11:56.527000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AU",
+            "text": "私は、美容にうといのでとりあえず美白と明記されたのをオススメしてます。",
+            "timestamp": "2022-08-04T14:12:39.862000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "私は化粧水オンリーです。日焼け止めも最近やっと使いだしました。",
+            "timestamp": "2022-08-04T14:13:09.917000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AU",
+            "text": "私も化粧水なかなか減らない派です！",
+            "timestamp": "2022-08-04T14:13:24.127000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "気を付けないとだめですよね。意識してもっと保湿したいと思います。",
+            "timestamp": "2022-08-04T14:13:45.610000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AU",
+            "text": "毎日の事だと面倒になっちゃうんですよね。",
+            "timestamp": "2022-08-04T14:14:09.497000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "習慣づけれたらいいですよね。",
+            "timestamp": "2022-08-04T14:14:27.167000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AU",
+            "text": "習慣づけ、なかなか難しいですよね。一緒にやりましょう。",
+            "timestamp": "2022-08-04T14:14:56.829000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "手入れの効果が見えると楽しくなってくると思うですけどね。なかなかですね。",
+            "timestamp": "2022-08-04T14:15:26.181000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AU",
+            "text": "そうなんです、特に私はメイク自体が苦手で余計に難しいです。",
+            "timestamp": "2022-08-04T14:15:56.190000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "女性はメイクも必用なので大変ですよね。",
+            "timestamp": "2022-08-04T14:16:31.025000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AU",
+            "text": "こういう時は男性が羨ましいです。",
+            "timestamp": "2022-08-04T14:16:52.746000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "でもこれからは男性もケアが必要な時代ですよね。",
+            "timestamp": "2022-08-04T14:17:23.854000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AU",
+            "text": "最近男性もメイクしますもんね",
+            "timestamp": "2022-08-04T14:17:47.414000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

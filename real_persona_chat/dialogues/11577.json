@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11577,
+    "interlocutors": [
+        "DI",
+        "GJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-23T18:47:17.645000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GJ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-23T18:47:31.047000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "コロナまだ流行ってますが、そちらは大丈夫ですか？",
+            "timestamp": "2022-08-23T18:47:36.760000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GJ",
+            "text": "大丈夫ではないです。東京なので、周りも皆かかってます。",
+            "timestamp": "2022-08-23T18:48:17.830000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "それは大変ですね。身内とかも感染しました？",
+            "timestamp": "2022-08-23T18:48:30.517000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GJ",
+            "text": "身内も感染しましたし、私も感染しました。あなたは大丈夫ですか？",
+            "timestamp": "2022-08-23T18:49:08.818000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "私も実は三月に感染しました。",
+            "timestamp": "2022-08-23T18:49:19.947000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GJ",
+            "text": "私は2月なので近いですね！オミクロンですか？",
+            "timestamp": "2022-08-23T18:49:50.412000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "おそらくオミクロンかな？株までは聞かなかったですが。",
+            "timestamp": "2022-08-23T18:50:02.505000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GJ",
+            "text": "もっとも辛かった症状は何でしたか？",
+            "timestamp": "2022-08-23T18:50:46.640000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "自分の場合はとにかくのどが痛かったです。それ以外はふつうの風邪くらいでした。",
+            "timestamp": "2022-08-23T18:50:53.052000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GJ",
+            "text": "喉すごく痛くなりますよね。わたしも相当辛かったです。",
+            "timestamp": "2022-08-23T18:51:27.619000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "やっぱり喉にくるんですかね。味覚とかは大丈夫でした？",
+            "timestamp": "2022-08-23T18:51:43.924000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GJ",
+            "text": "味覚も無くなったんです。大丈夫でした？",
+            "timestamp": "2022-08-23T18:52:10.110000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "三日間くらいなくなりました。",
+            "timestamp": "2022-08-23T18:52:20.613000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GJ",
+            "text": "でも3日で回復したんですね！わたしは2週間かかりました。",
+            "timestamp": "2022-08-23T18:52:56.563000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "二週間ですか！結構しんどいですね。",
+            "timestamp": "2022-08-23T18:53:05.003000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GJ",
+            "text": "しんどかったですね。味覚戻った後のご飯がいつも以上に美味しく感じませんでしたか？",
+            "timestamp": "2022-08-23T18:53:49.991000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "そりゃもう、戻ってきたーって感じでしたよ！",
+            "timestamp": "2022-08-23T18:54:04.077000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GJ",
+            "text": "ですよね！最初は何を食べました？",
+            "timestamp": "2022-08-23T18:55:00.978000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "まずは米でしたね。とにかく白米が食べたくて。",
+            "timestamp": "2022-08-23T18:55:23.728000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GJ",
+            "text": "やっぱり米ですよね！自分は親子丼食べました！",
+            "timestamp": "2022-08-23T18:56:03.846000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "親子丼いいですねー。ご自分で作られたんです？",
+            "timestamp": "2022-08-23T18:56:14.988000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GJ",
+            "text": "せっかくなので美味しいと言われてる店に行きました！",
+            "timestamp": "2022-08-23T18:56:44.315000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "お店で親子丼もいいですね、いくらぐらいしました？",
+            "timestamp": "2022-08-23T18:56:59.855000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GJ",
+            "text": "1500円くらいですかね。",
+            "timestamp": "2022-08-23T18:57:29.411000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "結構するんですね、びっくりしました。",
+            "timestamp": "2022-08-23T18:57:36.160000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GJ",
+            "text": "せっかくなので少し奮発しました！",
+            "timestamp": "2022-08-23T18:58:10.326000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "味覚戻って、ちょっとしたパーティーですね！",
+            "timestamp": "2022-08-23T18:58:21.449000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GJ",
+            "text": "ですね！いい思い出です！",
+            "timestamp": "2022-08-23T18:58:38.736000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9408,
+    "interlocutors": [
+        "CA",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T05:59:12.833000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こんにちは！今日も暑いですね。",
+            "timestamp": "2022-08-12T05:59:21.498000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "本当に。もう汗をかきはじめています。",
+            "timestamp": "2022-08-12T05:59:34.990000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "朝なのに、もう暑いですよね。お住まいの地域は、大雨大丈夫でしたか？",
+            "timestamp": "2022-08-12T05:59:55.487000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "私のところはおかげさまで大丈夫でした。結構な被害出てますよね。<BB>さんのところは大丈夫でしたか？",
+            "timestamp": "2022-08-12T06:00:41.276000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "東北地方とか、大変そうですよね。私は関西ですが、こっちは全然雨降ってません。",
+            "timestamp": "2022-08-12T06:01:04.796000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "何事もなくてよかった。最近大雨になること多くて怖いですよね。",
+            "timestamp": "2022-08-12T06:01:41"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "そうですよね。しかも結構局地的で。町単位で大雨になったりしますからね。",
+            "timestamp": "2022-08-12T06:02:05.583000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "雨といえば、朝持っていく傘なんですが、<BB>さんは降水確率なん％だとかさもっていくことに決めますか？",
+            "timestamp": "2022-08-12T06:02:52.122000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "20%とかでも、前日の天気予報で突然な雨の可能性があると聞けば、持ち歩くようにしています。",
+            "timestamp": "2022-08-12T06:03:23.096000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "なるほど、携帯で持ち歩けば確かに安全ですね",
+            "timestamp": "2022-08-12T06:04:15.356000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "あとは雨雲レーダーをよく確認しますね。最近は本当に天気予報が当たらないことが多くて。",
+            "timestamp": "2022-08-12T06:04:41.349000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "雨雲レーダー便利ですよね。天気アプリので見られてますか？",
+            "timestamp": "2022-08-12T06:05:10.225000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "そうです！外出前には必ずチェックしてます。",
+            "timestamp": "2022-08-12T06:05:35.648000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "私ヤフーの天気アプリ入れてるんですが、<BB>さんはどんなの使われてます？",
+            "timestamp": "2022-08-12T06:05:58.156000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "私も同じくヤフーです。ヤフーのが一番正確で見やすい気がするんですよね。",
+            "timestamp": "2022-08-12T06:06:21.033000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "よかった！安心しました。ヤフーを使い続けます",
+            "timestamp": "2022-08-12T06:06:52.537000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "台風とか、地震情報も教えてくれるから便利ですよね。",
+            "timestamp": "2022-08-12T06:07:08.661000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "本当に！地震情報も、地震来る前から何秒か前にくるからかなりありがたいです",
+            "timestamp": "2022-08-12T06:07:41.483000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "最近お近くに地震ありましたか？",
+            "timestamp": "2022-08-12T06:07:58.481000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "少し前だったのですが、何回かこのアプリが事前に教えてくれて、わかるだけでも心構えができてよかったです",
+            "timestamp": "2022-08-12T06:08:38.621000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "確かに、来るとわかると少しは心の準備ができますよね。",
+            "timestamp": "2022-08-12T06:09:13.464000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "料理ちゅうなら火を止めたりできるし、かなり助けられてます",
+            "timestamp": "2022-08-12T06:09:51.140000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "それはちょっとほっとしますね。かなり揺れたんですか？",
+            "timestamp": "2022-08-12T06:10:09.716000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "小さな揺れだったのですが、もし本当に大きなものがあった場合、これがあるとないとではかなり違うなあって",
+            "timestamp": "2022-08-12T06:11:05.264000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "本当そうですね。小さい揺れの時にアプリで確認し、準備する習慣をつければ大地震の時も役に立ちますよね。",
+            "timestamp": "2022-08-12T06:11:49.865000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "最近地震が多いし、大きいものの備えにしてます",
+            "timestamp": "2022-08-12T06:12:42.174000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "南海トラフ地震とかも、30年以内に来ると言いますしね。",
+            "timestamp": "2022-08-12T06:13:06.005000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "怖いですよね。どうなっちゃうんだろう。またお話ししましょう！",
+            "timestamp": "2022-08-12T06:13:29.965000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "ちゃんと備えないとですね。ぜひまたお願いします！",
+            "timestamp": "2022-08-12T06:13:48.793000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

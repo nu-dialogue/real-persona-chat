@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12591,
+    "interlocutors": [
+        "FZ",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FZ",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-11T13:30:05.270000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは！よろしくお願いします",
+            "timestamp": "2022-09-11T13:30:10.717000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FZ",
+            "text": "お昼は食べましたか？",
+            "timestamp": "2022-09-11T13:30:28.072000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "食べました",
+            "timestamp": "2022-09-11T13:30:31.583000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FZ",
+            "text": "何食べましたか？",
+            "timestamp": "2022-09-11T13:30:48.901000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "コロッケです",
+            "timestamp": "2022-09-11T13:30:55.045000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FZ",
+            "text": "いいですね！美味しそうです、普通のコロッケですか？",
+            "timestamp": "2022-09-11T13:31:15.776000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "かぼちゃコロッケで、形も丸いです。普通ではないかもしれません",
+            "timestamp": "2022-09-11T13:31:30.839000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FZ",
+            "text": "かぼちゃコロッケ美味しいですよね、食べたくなってきました",
+            "timestamp": "2022-09-11T13:31:49.740000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "コロッケにかぼちゃ入れますか？",
+            "timestamp": "2022-09-11T13:31:59.917000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FZ",
+            "text": "自分で作るときは入れないですが、お惣菜で食べます",
+            "timestamp": "2022-09-11T13:32:21.339000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "そうですか！自分のとこだけかと思ってました",
+            "timestamp": "2022-09-11T13:32:38.521000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FZ",
+            "text": "かぼちゃとかコーンクリームコロッケも好きです",
+            "timestamp": "2022-09-11T13:32:55.764000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "コーンクリーム好きですね。カニクリームはどうですか？",
+            "timestamp": "2022-09-11T13:33:11.747000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FZ",
+            "text": "かにはちょっと苦手で、でも蟹クリームも合いそうですよね",
+            "timestamp": "2022-09-11T13:33:39.501000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "もしかして魚介苦手ですか？",
+            "timestamp": "2022-09-11T13:33:51.187000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、あんまり食べないんです",
+            "timestamp": "2022-09-11T13:34:05.779000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "私貝が苦手なんです。だから共感できます",
+            "timestamp": "2022-09-11T13:34:21.109000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FZ",
+            "text": "貝苦手な人は結構いますよね！",
+            "timestamp": "2022-09-11T13:34:41.445000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "匂いが好きになれません",
+            "timestamp": "2022-09-11T13:34:47.988000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FZ",
+            "text": "匂いですねー、味もあんまり美味しいと思えないです",
+            "timestamp": "2022-09-11T13:35:10.929000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "食感も苦手です。お昼は食べましたか？",
+            "timestamp": "2022-09-11T13:35:30.493000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FZ",
+            "text": "お昼はあんまりお腹空いてなくておにぎり食べました",
+            "timestamp": "2022-09-11T13:35:51.259000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "具は入れましたか？",
+            "timestamp": "2022-09-11T13:36:01.487000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FZ",
+            "text": "まさか！いつも梅か昆布ですー",
+            "timestamp": "2022-09-11T13:36:17.126000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "そうなんですね。梅いいですね！しょっぱいのですか？",
+            "timestamp": "2022-09-11T13:36:38.454000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FZ",
+            "text": "しょっぱいのですね、甘いのも嫌いではないですけど",
+            "timestamp": "2022-09-11T13:36:57.714000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "私もしょっぱい派です。",
+            "timestamp": "2022-09-11T13:37:08.059000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FZ",
+            "text": "あのしょっぱさが良いんですよねー！",
+            "timestamp": "2022-09-11T13:37:26.666000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "いいですよね！",
+            "timestamp": "2022-09-11T13:37:28.903000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

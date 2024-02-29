@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7543,
+    "interlocutors": [
+        "CF",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CF",
+            "text": "こんにちは！すみません、コーヒー飲んでました。",
+            "timestamp": "2022-08-03T09:39:40.013000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！偶然、私もです。コーヒー好きなんですか？",
+            "timestamp": "2022-08-03T09:40:12.742000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CF",
+            "text": "おお、偶然ですね！コーヒー好きなんです。毎日飲んでます。",
+            "timestamp": "2022-08-03T09:40:40.317000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "私はミルク入れて飲むんですが、どうやって飲むのが好きですか？",
+            "timestamp": "2022-08-03T09:41:10.702000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CF",
+            "text": "牛乳を入れて飲むことが多いです！",
+            "timestamp": "2022-08-03T09:42:32.391000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "最近はカフェインの摂取し過ぎが気になって、デカフェに変えたりしてます。",
+            "timestamp": "2022-08-03T09:43:04.005000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CF",
+            "text": "デカフェって飲んだことないのですが味とかは少し違ったりしますか？",
+            "timestamp": "2022-08-03T09:43:54.572000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "んーちょっと、深みや味わいが薄くなるかも。",
+            "timestamp": "2022-08-03T09:45:06.606000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CF",
+            "text": "おお、なるほど。濃いめが好きなので躊躇しがちなんですよね。",
+            "timestamp": "2022-08-03T09:45:37.342000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "分かります。なので、日替わりで飲んでます。",
+            "timestamp": "2022-08-03T09:46:03.835000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CF",
+            "text": "日替わり良いですね。どうしても同じ種類のを飲みがちで。",
+            "timestamp": "2022-08-03T09:46:47.667000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "分かります。お家以外でも、スタバやタリーズとか行きますか？",
+            "timestamp": "2022-08-03T09:47:39.161000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CF",
+            "text": "行きます！タリーズは近くにないのですがスタバとかはつい行っちゃいます。",
+            "timestamp": "2022-08-03T09:48:42.627000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "スタバっていつも人いっぱいですよね。高いのに。",
+            "timestamp": "2022-08-03T09:49:27.946000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CF",
+            "text": "ですよね。なので開店の時間か閉店の時間に行ってます。",
+            "timestamp": "2022-08-03T09:50:25.578000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "それはナイスです。最近、おしゃれなコーヒー専門店も増えたように思います。",
+            "timestamp": "2022-08-03T09:50:59.070000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CF",
+            "text": "そうですね。写真映えするお店はついつい気になってしまいます。",
+            "timestamp": "2022-08-03T09:51:43.123000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "なんで家のコーヒーより、こんなに美味しいのか不思議になります。",
+            "timestamp": "2022-08-03T09:52:24.504000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CF",
+            "text": "わかります。スタバとかだと甘い系統のものも飲んじゃうんです。",
+            "timestamp": "2022-08-03T09:53:38.545000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "カロリー爆弾ですが、やっぱり美味しいですよね！メロンのやつは飲みましたか？",
+            "timestamp": "2022-08-03T09:54:10.637000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CF",
+            "text": "飲みました！すごくおいしかったです！桃のはまだ飲めずです。",
+            "timestamp": "2022-08-03T09:54:48.956000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "あれ、美味しかったですよね！桃も間違いなくおいしいはず！",
+            "timestamp": "2022-08-03T09:55:55.210000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CF",
+            "text": "桃のあとはご当地シリーズが始まるそうでそちらもすごく楽しみなんです！",
+            "timestamp": "2022-08-03T09:56:31.935000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "あー、そうでした！まんまと戦略にハマってますね、私達。",
+            "timestamp": "2022-08-03T09:57:09.281000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CF",
+            "text": "ですね！コーヒー以外の楽しみがあるのがスタバとかの良いところです。",
+            "timestamp": "2022-08-03T09:57:35.128000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "そうですよね。またコーヒーが飲みたくなってきました。",
+            "timestamp": "2022-08-03T09:58:50.388000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CF",
+            "text": "今日も一通り仕事が終わって家事も終わったら夜にでも行こうかなと思ってます。",
+            "timestamp": "2022-08-03T09:59:36.820000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "気持ちと口がすっきりしますもんね。",
+            "timestamp": "2022-08-03T10:00:17.530000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CF",
+            "text": "一日の〆にやっぱり行こうと思います！お話楽しかったです！",
+            "timestamp": "2022-08-03T10:00:44.078000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "コーヒー談義楽しかったです。ではまた。",
+            "timestamp": "2022-08-03T10:00:57.958000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4811,
+    "interlocutors": [
+        "FE",
+        "GC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-14T21:11:16.873000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GC",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-14T21:11:22.342000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "好きな食べ物、何ですか？",
+            "timestamp": "2022-09-14T21:11:30.160000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GC",
+            "text": "僕は唐揚げを愛しております！",
+            "timestamp": "2022-09-14T21:11:41.063000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "お！からあげですか！！自分で作りますか？",
+            "timestamp": "2022-09-14T21:11:55.057000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GC",
+            "text": "自分で作りますよ！お店のも好きですが、自分のが一番好きかもです！",
+            "timestamp": "2022-09-14T21:12:18.683000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "それはすてきですね！何か秘訣とかあります？",
+            "timestamp": "2022-09-14T21:12:53.811000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GC",
+            "text": "そうですね、しっかりと味をつける事が大切です！",
+            "timestamp": "2022-09-14T21:13:19.968000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "何時間つけ置きします？",
+            "timestamp": "2022-09-14T21:13:39.094000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GC",
+            "text": "鶏肉にしっかりフォークで穴を開けて下味をつけつと何時間も置かなくてもよいですよ！",
+            "timestamp": "2022-09-14T21:18:53.063000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "そうなんですね！いいこと聞きました！",
+            "timestamp": "2022-09-14T21:19:04.276000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GC",
+            "text": "是非やってみてください！普段お料理されるのですか？？",
+            "timestamp": "2022-09-14T21:19:25.911000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "たまにします！簡単なカレーとかだけですが。",
+            "timestamp": "2022-09-14T21:19:46.120000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GC",
+            "text": "カレーいいですね！僕もカレーよく作ります！",
+            "timestamp": "2022-09-14T21:20:07.203000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "最近カレー粉使うのにはまってます。",
+            "timestamp": "2022-09-14T21:20:29.810000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GC",
+            "text": "まさか、スパイスですか！？",
+            "timestamp": "2022-09-14T21:20:41.681000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "あ！そこまで本格的なのじゃないです！もともとスパイスとか配合されたカレー粉が売ってまして。",
+            "timestamp": "2022-09-14T21:21:30.752000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GC",
+            "text": "そんなのがあるんですね！自分も使ってみようかな？けど辛そう...",
+            "timestamp": "2022-09-14T21:21:47.298000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "いや、それが辛くないんですよ！！",
+            "timestamp": "2022-09-14T21:22:20.089000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GC",
+            "text": "辛くないんですか！？どんな感じの味になるんですか？？",
+            "timestamp": "2022-09-14T21:22:41.227000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "スパイスは効いてますけどうまみのが強くて。少し辛いのが気になる場合は、はちみつ入れればばっちりです。",
+            "timestamp": "2022-09-14T21:23:39.234000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GC",
+            "text": "凄い、めっちゃ本格的なカレーになりそうですね、今度使ってみます！メーカーとかは何処が良いとかありますか？",
+            "timestamp": "2022-09-14T21:24:15.805000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "本格的ですよ！まだ1つしか食べたことないんですけど、赤い缶のやつがおすすめです！",
+            "timestamp": "2022-09-14T21:24:54.166000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GC",
+            "text": "探してみます！赤い缶ですね！カレー粉って書いてるんですか？",
+            "timestamp": "2022-09-14T21:25:19.538000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "書いてありますよ！！表記通り作るとスープっぽくなるので、小麦粉いれるのおすすめです。",
+            "timestamp": "2022-09-14T21:26:10.562000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GC",
+            "text": "ドロドロ感が出ないんですね！分かりました！めっちゃ楽しみです！！",
+            "timestamp": "2022-09-14T21:26:41.332000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "そうなんですよ！なので、スープカレーとしても楽しめます！",
+            "timestamp": "2022-09-14T21:27:01.629000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GC",
+            "text": "カレーうどんとかもすぐできそうですね！",
+            "timestamp": "2022-09-14T21:27:16.089000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "たしかに！それは試してみます！！",
+            "timestamp": "2022-09-14T21:27:30.720000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GC",
+            "text": "僕も買ったらやってみます！",
+            "timestamp": "2022-09-14T21:27:42.732000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

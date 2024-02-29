@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8386,
+    "interlocutors": [
+        "ET",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ET",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-08T10:19:01.015000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-08T10:19:11.981000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ET",
+            "text": "最近、何かハマってることなどありますか？",
+            "timestamp": "2022-08-08T10:19:21.007000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "最近は、料理本を借りて試すのにハマってます！",
+            "timestamp": "2022-08-08T10:19:53.873000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ET",
+            "text": "料理お好きなんですね！以前からですか？",
+            "timestamp": "2022-08-08T10:20:05.368000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "そうですね、料理はずっと好きです！食べるのも好きですね。あなたはどうですか？",
+            "timestamp": "2022-08-08T10:20:40.189000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ET",
+            "text": "私は食べるのだけが好きです！それでも毎日３回作っているので、これが好きになれたらどんなに良いことか。",
+            "timestamp": "2022-08-08T10:21:06.152000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "確かに、忙しい時とか苦行に感じますもんね。",
+            "timestamp": "2022-08-08T10:21:35.010000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ET",
+            "text": "最近はどんな新レシピに出会えたんですか？",
+            "timestamp": "2022-08-08T10:21:59.115000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "最近は、鯖缶の水煮とトマトでマリネを作るっていうレシピがあって、とても美味しかったです！",
+            "timestamp": "2022-08-08T10:22:40.881000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ET",
+            "text": "美味しそう！鯖缶は私も良く使うので、今度試してみたいです。",
+            "timestamp": "2022-08-08T10:23:11.486000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "鯖缶、価格安定してていいですよね。リュウジさんっていう人のレシピです！",
+            "timestamp": "2022-08-08T10:23:41.732000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ET",
+            "text": "鯖缶はカレーにもお味噌汁にも入れられますしね。リュウジさん知ってます！",
+            "timestamp": "2022-08-08T10:24:07.979000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "結構万能ですよね。ご存じでしたか！このレシピ、火を使わない上にすぐできるんでこの時期ありがたいです。",
+            "timestamp": "2022-08-08T10:24:45.055000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ET",
+            "text": "図書館で借りられるんですね。私も今度図書館に本を返しに行くので、探してきます。",
+            "timestamp": "2022-08-08T10:25:11.121000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "是非是非！つまみメシっていう本です。",
+            "timestamp": "2022-08-08T10:25:37.839000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ET",
+            "text": "ありがとうございます！火を使わないで良いというのがトドメの一言でした。ありがたいですよね。",
+            "timestamp": "2022-08-08T10:25:58.777000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "こう暑いとなるべく楽に作りたくなりますよね。",
+            "timestamp": "2022-08-08T10:26:27.768000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ET",
+            "text": "楽に作れる、美味しいものが良いです！",
+            "timestamp": "2022-08-08T10:26:42.040000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "それが最高です！あなたは何かハマってるものありますか？",
+            "timestamp": "2022-08-08T10:27:16.094000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ET",
+            "text": "私は最近筋トレをしています。",
+            "timestamp": "2022-08-08T10:27:28.663000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "筋トレ！何かきっかけがあったんですか？",
+            "timestamp": "2022-08-08T10:28:11.716000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ET",
+            "text": "主人が任天堂の「リングフィット」って筋トレゲームを買って来たのがきっかけですね。",
+            "timestamp": "2022-08-08T10:28:38.106000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "私も持ってますー！",
+            "timestamp": "2022-08-08T10:29:06.649000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ET",
+            "text": "持ってらっしゃるんですね！",
+            "timestamp": "2022-08-08T10:29:18.941000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "RPG要素あって面白いですよね。",
+            "timestamp": "2022-08-08T10:29:38.582000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ET",
+            "text": "面白いです。３周しちゃいました。",
+            "timestamp": "2022-08-08T10:29:49.355000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "３周はすごいですね！",
+            "timestamp": "2022-08-08T10:30:09.363000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ET",
+            "text": "毎日１０分だけと決めてるんですが、もう１年たつので。",
+            "timestamp": "2022-08-08T10:30:21.757000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "ちりつもですね。見習いたいです。",
+            "timestamp": "2022-08-08T10:30:41.270000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

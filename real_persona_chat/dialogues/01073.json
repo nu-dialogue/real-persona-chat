@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1073,
+    "interlocutors": [
+        "AS",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-12T09:23:35.786000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-12T09:23:39.202000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "昨日は何してました？",
+            "timestamp": "2022-08-12T09:23:58.515000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "昨日は動画見てました。",
+            "timestamp": "2022-08-12T09:24:09.247000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "商品検証動画ですか？",
+            "timestamp": "2022-08-12T09:24:46.438000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "いえ、海外ドラマです",
+            "timestamp": "2022-08-12T09:24:50.429000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "欧米ですか？",
+            "timestamp": "2022-08-12T09:25:34.880000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "はい、コールドケースってのを見てます",
+            "timestamp": "2022-08-12T09:25:44.414000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "聞いたことないですね。ジャンルは何ですか？",
+            "timestamp": "2022-08-12T09:26:11.725000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "犯罪捜査ですね",
+            "timestamp": "2022-08-12T09:26:17.042000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "それは面白そうですね！",
+            "timestamp": "2022-08-12T09:26:52.375000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "未解決事件を追うものです。いっき見してました",
+            "timestamp": "2022-08-12T09:27:25.341000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "中々骨が折れそう。",
+            "timestamp": "2022-08-12T09:27:38.670000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "はい、全部見るのは大変です",
+            "timestamp": "2022-08-12T09:28:17.205000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "一話１時間くらいある感じですか？",
+            "timestamp": "2022-08-12T09:28:59.662000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "そうですね。Ａｍａｚｏｎプライムで見てます",
+            "timestamp": "2022-08-12T09:29:18.125000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "アマゾン安くていいですよね！",
+            "timestamp": "2022-08-12T09:29:45.042000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "500円は破格ですね。他と比べると",
+            "timestamp": "2022-08-12T09:29:53.871000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "2000円近く毎月かかると思うと手が出ません",
+            "timestamp": "2022-08-12T09:30:31.238000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "動画のサブスク入ってますか？",
+            "timestamp": "2022-08-12T09:30:46.332000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "私はどれにも入ってないですね。アニメみたいなとは思うのですが",
+            "timestamp": "2022-08-12T09:31:14.111000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "アニメもあるんでしょうね。無料でアベマも最近見てます",
+            "timestamp": "2022-08-12T09:31:55.420000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "あー、アベマは見てます！会員にはなってませんが",
+            "timestamp": "2022-08-12T09:32:20.437000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "なんかおすすめありますか？",
+            "timestamp": "2022-08-12T09:32:26.274000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "最近だと、リコリス・リコイルという作品がおすすめです",
+            "timestamp": "2022-08-12T09:33:05.914000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "へえ、検索してみます。ジャンルは何ですか？",
+            "timestamp": "2022-08-12T09:33:16.234000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "うーん、アクションですかね",
+            "timestamp": "2022-08-12T09:33:43.865000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "アニメですか？",
+            "timestamp": "2022-08-12T09:33:50.352000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "アニメです！",
+            "timestamp": "2022-08-12T09:34:31.435000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "次の休日に見てみます！",
+            "timestamp": "2022-08-12T09:34:44.950000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

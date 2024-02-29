@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2831,
+    "interlocutors": [
+        "CU",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-24T16:28:01.497000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-24T16:28:06.123000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "今日も蒸し暑い１日でしたね。",
+            "timestamp": "2022-08-24T16:28:32.181000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "はい。こちらは快晴でとても暑いです。",
+            "timestamp": "2022-08-24T16:28:47.110000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "どこかお出かけされていましたか？",
+            "timestamp": "2022-08-24T16:29:06.150000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "今日は1日仕事にでかけておりました。",
+            "timestamp": "2022-08-24T16:29:19.479000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "お疲れさまでした。お仕事は屋内ですか？",
+            "timestamp": "2022-08-24T16:29:43.967000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "はい。ですので、日中はエアコンのきいた部屋にいて快適です。",
+            "timestamp": "2022-08-24T16:30:03.285000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "私もです。なので、この暑さに耐性がなくて大変です。",
+            "timestamp": "2022-08-24T16:30:39.712000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "朝は早くお出かけですか？",
+            "timestamp": "2022-08-24T16:30:48.485000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "いえ、８時に出るのでゆっくりな方です。",
+            "timestamp": "2022-08-24T16:31:21.553000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "それでも、9時や10時にでかけるよりは涼しいですよね。",
+            "timestamp": "2022-08-24T16:31:35.452000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "そうですね。先週野外フェスに行ったのですが、案の定熱中症になりました。",
+            "timestamp": "2022-08-24T16:32:23.085000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "そうなんですか。何のフェスティバルだったのですか？",
+            "timestamp": "2022-08-24T16:32:52.703000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "サマーソニックという音楽フェスです。知ってますか？",
+            "timestamp": "2022-08-24T16:33:08.764000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "いいえ。サマーソニックとはアーティストの名前ですか？",
+            "timestamp": "2022-08-24T16:33:32.235000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "いいえ、イベント名です。有名なアーティストがたくさん出ました。",
+            "timestamp": "2022-08-24T16:34:10.838000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "なるほど。よく知らなくてごめんなさい。例えばどんなアーティストですか？",
+            "timestamp": "2022-08-24T16:34:33.257000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "優里とか秦基博とか知ってますか？",
+            "timestamp": "2022-08-24T16:35:27.060000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "いいえ。皆さんがよく知っている音楽には疎くて。でも楽しそうですね。",
+            "timestamp": "2022-08-24T16:35:53.954000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "はい、楽しかったです。でも暑すぎましたー",
+            "timestamp": "2022-08-24T16:36:10.992000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "もしかして、マスクして参加するのですか？",
+            "timestamp": "2022-08-24T16:36:22.836000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "そうなんですよ。野外なので厳しくはなかったですが、できる限りって感じでした。",
+            "timestamp": "2022-08-24T16:36:47.210000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "それは暑すぎますよね。屋外でもドームではないのですよね。",
+            "timestamp": "2022-08-24T16:37:13.801000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "はい、炎天下です。日傘も禁止なので、帽子だけが頼りでした。",
+            "timestamp": "2022-08-24T16:37:51.919000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "それは、ありえないですね。かなりしっかりした帽子を用意しないと倒れてしまいますね。",
+            "timestamp": "2022-08-24T16:38:15.060000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "そうなんですよ。実際倒れてる人もいましたね。今年は異常ですよね。",
+            "timestamp": "2022-08-24T16:39:04.671000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "はい。ずっと立ちっぱなしで演奏を聴くのですか？",
+            "timestamp": "2022-08-24T16:39:22.283000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "観たいアーティストが出るときだけ見るって感じです。機会があれば行ってみてください。",
+            "timestamp": "2022-08-24T16:40:14.813000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "はい。それなら安心ですね。探してみます！",
+            "timestamp": "2022-08-24T16:40:28.974000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

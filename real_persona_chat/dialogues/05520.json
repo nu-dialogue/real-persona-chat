@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5520,
+    "interlocutors": [
+        "FE",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T17:06:15.066000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-25T17:06:19.733000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "甘いものってお好きですか？",
+            "timestamp": "2022-09-25T17:06:27.048000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "好きですよー！！",
+            "timestamp": "2022-09-25T17:06:33.436000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "何が好きとかあります？",
+            "timestamp": "2022-09-25T17:06:41.671000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "マフィンとかマドレーヌとか好きですね。",
+            "timestamp": "2022-09-25T17:06:53.070000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "いいですね！焼き菓子！",
+            "timestamp": "2022-09-25T17:07:03.961000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "もちろん、ケーキもです！",
+            "timestamp": "2022-09-25T17:07:13.464000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "ケーキはナンバーワンです。私はドーナツが大好きでして。",
+            "timestamp": "2022-09-25T17:07:45.760000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "ドーナツもいいですよね。この前雑誌で特集があって買っちゃいましたよ。",
+            "timestamp": "2022-09-25T17:08:05.363000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "おお！いいですね！最近流行ってますよね。",
+            "timestamp": "2022-09-25T17:08:24.308000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "ですね!ちなみに雑誌はブルータスの最新号です。美味しそうなお店がたくさん載っていましたよ。",
+            "timestamp": "2022-09-25T17:08:57.754000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "へええ！私もそれ買ってみてみます！いつもはミスド行くんですけどね。",
+            "timestamp": "2022-09-25T17:09:25.878000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "今見たらごめんなさい一個前でした。ミスド最高です！ミスドでなにが一番お好きですか？",
+            "timestamp": "2022-09-25T17:09:45.507000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "あ！そうでしたか！ネットで調べればいいかな。ミスドは、オールドファッションですかね。",
+            "timestamp": "2022-09-25T17:10:14.828000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "王道ですねー！",
+            "timestamp": "2022-09-25T17:10:23.691000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "はい！王道な奴だとそれですね。今出てるいものドーナツをこの前食べたらおいしかったです！",
+            "timestamp": "2022-09-25T17:10:51.718000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "おいしいですよね。今はサツマイモのがあるのでしたっけ？",
+            "timestamp": "2022-09-25T17:11:10.785000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "そうですよ！5種類あって全部食べました！",
+            "timestamp": "2022-09-25T17:11:24.248000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "うわー！たのしいやつですねー！どれが一番おいしかったですか？",
+            "timestamp": "2022-09-25T17:11:38.110000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "大学芋のドーナツが一番クオリティ高かったです！",
+            "timestamp": "2022-09-25T17:11:57.724000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "大学芋！おいしそう！！つやつやのやつですね？",
+            "timestamp": "2022-09-25T17:12:18.806000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "はい！あの黒ゴマも乗ってるやつです。",
+            "timestamp": "2022-09-25T17:12:28.190000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "近くにミスドがあるので行くか迷っちゃうなあ。",
+            "timestamp": "2022-09-25T17:12:43.240000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "私もありますー。もう食べたくなってきました。",
+            "timestamp": "2022-09-25T17:13:01.631000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "それは最高ですね。明日のおやつにでもしようかなと。",
+            "timestamp": "2022-09-25T17:13:21.913000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "いいですね！！ぜひ食べてみてください！",
+            "timestamp": "2022-09-25T17:13:36.259000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "5種類今全部見たのですがやっぱり大学芋がおいしそう。良い情報ありがとうございます。",
+            "timestamp": "2022-09-25T17:13:53.079000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "そうです！ブリュレのやつは今回初なのでそれもおすすめです！",
+            "timestamp": "2022-09-25T17:14:14.824000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "承知しました！要チェックですね！！",
+            "timestamp": "2022-09-25T17:14:28.941000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

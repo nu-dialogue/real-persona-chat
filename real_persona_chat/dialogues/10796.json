@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10796,
+    "interlocutors": [
+        "AS",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-16T09:31:37.690000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "おはようございます！よろしくおねがいします．",
+            "timestamp": "2022-08-16T09:31:51.095000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-08-16T09:32:03.512000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "食べました！軽くですが．",
+            "timestamp": "2022-08-16T09:32:16.634000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "何を食べたんですか？",
+            "timestamp": "2022-08-16T09:32:32.237000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "バナナとプロテインとヨーグルトです！",
+            "timestamp": "2022-08-16T09:32:42.954000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "健康的ですね！プロテインは筋肉のためですか？",
+            "timestamp": "2022-08-16T09:32:58.982000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "そうですね，タンパク質全然とってないなと思って笑",
+            "timestamp": "2022-08-16T09:33:17.643000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "その朝食でタンパクってなかなか難しいですね。",
+            "timestamp": "2022-08-16T09:33:39.478000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "そうなんですよ．<AS>さんは何を食べましたか？",
+            "timestamp": "2022-08-16T09:33:59.299000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "私はまだ食べてないです",
+            "timestamp": "2022-08-16T09:34:09.643000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね．普段から食べない方ですか？",
+            "timestamp": "2022-08-16T09:34:28.704000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "今年に入ってから食べれてないですね。朝が忙しすぎて",
+            "timestamp": "2022-08-16T09:34:49.243000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "じゃあ毎朝早起きしてらっしゃる感じですか？",
+            "timestamp": "2022-08-16T09:35:19.200000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "そうですね！野菜に水やりに行ってます",
+            "timestamp": "2022-08-16T09:35:50.230000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "なにを育てているんですか？",
+            "timestamp": "2022-08-16T09:36:04.203000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "サツマイモや４種の夏野菜を育ててます",
+            "timestamp": "2022-08-16T09:36:30.747000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "いいですね！ご自分で食べるためですか？",
+            "timestamp": "2022-08-16T09:36:52.872000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "授業で育てて、自分たちで食べるためですね",
+            "timestamp": "2022-08-16T09:37:12.093000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "なるほど！それは大変そうですね．",
+            "timestamp": "2022-08-16T09:37:36.001000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "化学製品使用厳禁という縛りでやっててとても難しいです",
+            "timestamp": "2022-08-16T09:38:16.762000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "虫とかに食べられてしまいそうですね．",
+            "timestamp": "2022-08-16T09:38:34.091000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "何度もやられました。特にナスビが酷くて",
+            "timestamp": "2022-08-16T09:38:50.515000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "薬品以外で対策はあるのですか？",
+            "timestamp": "2022-08-16T09:39:05.187000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "木酢液という、強烈な匂いを放つ自然由来の液体は使ってます",
+            "timestamp": "2022-08-16T09:39:42.660000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "初めて聞きました．無農薬野菜は美味しく感じますし，楽しみですね．",
+            "timestamp": "2022-08-16T09:40:25.225000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "改めて大変さを学べてホントにタメになってます",
+            "timestamp": "2022-08-16T09:40:53.790000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "暑いですからご飯も食べて，夏バテに注意してくださいね．",
+            "timestamp": "2022-08-16T09:41:26.909000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "ですね！しっかり体調管理します！",
+            "timestamp": "2022-08-16T09:41:42.089000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "ありがとうございました．失礼します！",
+            "timestamp": "2022-08-16T09:41:52.923000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

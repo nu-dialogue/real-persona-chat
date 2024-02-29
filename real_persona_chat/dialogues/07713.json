@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7713,
+    "interlocutors": [
+        "IF",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IF",
+            "text": "もう夜ごはん食べました？",
+            "timestamp": "2022-08-03T19:29:16.496000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "はい、もう食べちゃいました。",
+            "timestamp": "2022-08-03T19:29:28.740000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IF",
+            "text": "私もです、今日は手抜きでレトルトカレーです。",
+            "timestamp": "2022-08-03T19:29:47.691000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "カレーですか、甘口ですか？",
+            "timestamp": "2022-08-03T19:30:04.477000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IF",
+            "text": "中辛でした。甘口も好きです。",
+            "timestamp": "2022-08-03T19:30:25.326000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "いいですね、僕は中辛が好きです",
+            "timestamp": "2022-08-03T19:30:38.612000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IF",
+            "text": "激辛は避けたい感じですか？",
+            "timestamp": "2022-08-03T19:30:55.513000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "そうですね、四川クラスはちょっと",
+            "timestamp": "2022-08-03T19:31:11.198000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IF",
+            "text": "確かに四川はハードルが高いですね。舌がおかしくなりそう",
+            "timestamp": "2022-08-03T19:32:23.709000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "テレビで芸能人が激辛を食べているのを見るとぞわぞわしてきます",
+            "timestamp": "2022-08-03T19:32:45.860000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IF",
+            "text": "お金をもらえても私はちょっと無理かなと。",
+            "timestamp": "2022-08-03T19:33:16.708000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。市販の素で作る麻婆豆腐くらいが一番落ち着きます",
+            "timestamp": "2022-08-03T19:33:38.711000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IF",
+            "text": "安心して食べられますよね、麻婆豆腐は好きです。よくお料理されますか？",
+            "timestamp": "2022-08-03T19:34:09.538000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "あまり料理はしないですね。そちらはどうですか？",
+            "timestamp": "2022-08-03T19:34:31.880000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IF",
+            "text": "作れるときに作る、というレベルです。毎日がっつり手料理はちょっとキビシイかも",
+            "timestamp": "2022-08-03T19:35:10.050000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "そうですよね、疲れてるとなかなか買い物にも行こうと思わないです",
+            "timestamp": "2022-08-03T19:35:28.483000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IF",
+            "text": "ですよね。外食で済ませることも多々あります。",
+            "timestamp": "2022-08-03T19:36:22.230000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "Nashという宅配弁当に最近興味がありますね。",
+            "timestamp": "2022-08-03T19:36:42.680000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IF",
+            "text": "初めて聞きました、毎日届けてくれるのですか？",
+            "timestamp": "2022-08-03T19:37:05.300000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "恐らくそうですね、ある程度まとめて届くかもしれないですけど",
+            "timestamp": "2022-08-03T19:37:27.566000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IF",
+            "text": "それは有難いです。あとで調べてみます！",
+            "timestamp": "2022-08-03T19:37:48.705000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "買い物や料理のコストを考えると多少高くてもいいのかなと思いますね",
+            "timestamp": "2022-08-03T19:38:17.110000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IF",
+            "text": "それはありますよね。費やした時間に比べて、食べるのなんて一瞬ですし",
+            "timestamp": "2022-08-03T19:39:00.574000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "片付けもありますし、なかなかやる気が起こらないですね",
+            "timestamp": "2022-08-03T19:39:23.257000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IF",
+            "text": "食事って仕事増えますよねほんと",
+            "timestamp": "2022-08-03T19:39:58.766000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "かつての実家のありがたみを感じますね。",
+            "timestamp": "2022-08-03T19:40:19.473000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IF",
+            "text": "それあります！実家に帰ったときの楽チンさといったら。",
+            "timestamp": "2022-08-03T19:40:56.121000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "ご実家は今のお住まいから近いですか？",
+            "timestamp": "2022-08-03T19:41:17.865000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IF",
+            "text": "電車で日帰りできる距離なので、近いほうだとおもいます。",
+            "timestamp": "2022-08-03T19:41:41.817000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "いいですね。僕は遠いです",
+            "timestamp": "2022-08-03T19:41:51.056000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

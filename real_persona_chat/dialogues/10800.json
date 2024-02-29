@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10800,
+    "interlocutors": [
+        "AS",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-16T10:15:49.460000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-16T10:16:00.873000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "今日の天気はどうですか？",
+            "timestamp": "2022-08-16T10:16:11.813000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "今日は快晴！って感じです！！",
+            "timestamp": "2022-08-16T10:16:25.310000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "私のところは真っ白になってます",
+            "timestamp": "2022-08-16T10:16:39.554000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "気温はどうですか？",
+            "timestamp": "2022-08-16T10:16:48.843000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "高くもなく低くも無くという感じです",
+            "timestamp": "2022-08-16T10:17:09.179000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "この前，BBQをしたのですがめちゃめちゃ暑くて，大変でした",
+            "timestamp": "2022-08-16T10:17:31.241000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "炭の遠赤外線と、日差しと湿度と、、大変そうです",
+            "timestamp": "2022-08-16T10:17:56.922000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "川の近くだったので，水遊びしながらお酒も飲んだりして楽しんでました．",
+            "timestamp": "2022-08-16T10:18:27.635000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "それは楽しそうですね！何人くらいだったんですか？",
+            "timestamp": "2022-08-16T10:18:48.383000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "7人で行きました！",
+            "timestamp": "2022-08-16T10:18:56.543000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "ひと家族ですか？",
+            "timestamp": "2022-08-16T10:19:09.390000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "いえ，学校の友達と行きましたよ！",
+            "timestamp": "2022-08-16T10:19:22.263000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "いいですね！そういう機会はなかなかなくて行ってないです",
+            "timestamp": "2022-08-16T10:19:47.530000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "最近話すようになった子達と行ったので，少し緊張しました笑",
+            "timestamp": "2022-08-16T10:20:18.998000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "まだちょっと距離がある感じですか。これから詰まるといいですね",
+            "timestamp": "2022-08-16T10:20:49.253000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "お友達と遊ぶ時は何をされるんですか？",
+            "timestamp": "2022-08-16T10:20:59.133000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "私はカラオケ行ったり、ラウンドワンみたいなところで体動かしたりですね",
+            "timestamp": "2022-08-16T10:21:20.331000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "楽しいですよね！スポーツがお得意ですか？",
+            "timestamp": "2022-08-16T10:21:38.773000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "球技だけは全くできません",
+            "timestamp": "2022-08-16T10:21:53.677000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "私も同じです！",
+            "timestamp": "2022-08-16T10:22:05.716000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "生まれつき指が短くて、うまく握れないんです",
+            "timestamp": "2022-08-16T10:22:23.667000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね．私も目が悪くて，球が見づらいんですよね",
+            "timestamp": "2022-08-16T10:22:57.634000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "卓球とか、急にボール消えるのでわけわからないです",
+            "timestamp": "2022-08-16T10:23:18.396000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "めちゃめちゃ早いですよね笑．　なので球技は観戦がメインです．",
+            "timestamp": "2022-08-16T10:24:07.865000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "私も同じくです笑それか、サンドバックみたいにされてます",
+            "timestamp": "2022-08-16T10:24:36.054000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "サンドバック笑．サッカー見るのが好きなので今度観戦位行く予定です！",
+            "timestamp": "2022-08-16T10:25:05.535000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "いいですね！お好きなチームはありますか？",
+            "timestamp": "2022-08-16T10:25:18.844000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "浦和レッズが好きで応援してます！！",
+            "timestamp": "2022-08-16T10:25:44.964000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

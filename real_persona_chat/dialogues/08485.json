@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8485,
+    "interlocutors": [
+        "CB",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんにちは。よろしくお願いします",
+            "timestamp": "2022-08-05T18:09:18.722000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-05T18:09:31.451000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "週末の予定はありますか",
+            "timestamp": "2022-08-05T18:09:37.636000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "今週末は、ちょっとだけ旅行に行こうと思っています。",
+            "timestamp": "2022-08-05T18:09:57.640000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "いいですね。旅行。遠いところですか",
+            "timestamp": "2022-08-05T18:10:14.341000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "隣県なので、まあちょっと遠出という感じです。ただずっと旅行をしていなかったので久しぶりです。",
+            "timestamp": "2022-08-05T18:10:46.314000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "コロナでいきにくい雰囲気ですもんね",
+            "timestamp": "2022-08-05T18:11:03.877000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "そうなんですよね。旅行に行ける雰囲気ではなかったです。",
+            "timestamp": "2022-08-05T18:11:23.568000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "お盆は帰省の予定などありますか",
+            "timestamp": "2022-08-05T18:11:38.784000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "今は実家の近くに住んでいるので帰省はしなくても良いのです。",
+            "timestamp": "2022-08-05T18:12:18.371000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "お近くにいらっしゃるんですね。いいですね",
+            "timestamp": "2022-08-05T18:12:31.695000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "以前は、東京に住んでいたのですが、田舎に戻ってきました。",
+            "timestamp": "2022-08-05T18:12:54.587000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "Uターンですね",
+            "timestamp": "2022-08-05T18:13:04.226000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "そうですね。子どもを育てるのなら田舎の方がいいかなと思って帰ってきました。",
+            "timestamp": "2022-08-05T18:13:28.664000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "いいですよね。私も子どもにはもう少し田舎がよかったなと思います。",
+            "timestamp": "2022-08-05T18:13:48.538000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "東京だと、保育園に入れることもできなくて、かなり困りましたよ",
+            "timestamp": "2022-08-05T18:14:13.430000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "なるほど。そうですよね。そちらは入りやすいですか",
+            "timestamp": "2022-08-05T18:14:29.537000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "そのまま希望する保育園に入ることができました。とっても簡単！",
+            "timestamp": "2022-08-05T18:14:52.468000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "家の近くですか",
+            "timestamp": "2022-08-05T18:15:02.229000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "ちょっと離れたところでしたが、自然がいっぱいの楽しい保育園でしたよ。",
+            "timestamp": "2022-08-05T18:15:26.892000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "いいですね。うちは虫ぎらいで",
+            "timestamp": "2022-08-05T18:15:51.446000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "私の子どもは、保育園の時は平気だったのですが、今は虫嫌いの普通の子どもです。",
+            "timestamp": "2022-08-05T18:16:31.002000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "慣れってありますよね。キャンプとかいくと自分も平気な気分になります",
+            "timestamp": "2022-08-05T18:17:09.513000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "それはありますよね！家の外だと意外と大丈夫なことも、家の中にいると大騒ぎです。",
+            "timestamp": "2022-08-05T18:17:44.087000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "不思議ですよね。畑とかしたいなぁと思います。",
+            "timestamp": "2022-08-05T18:18:03.316000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "田舎だとできますよ！私も少しだけやってます",
+            "timestamp": "2022-08-05T18:18:25.499000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "いいですね。家の近くに畑があるといいなと思います",
+            "timestamp": "2022-08-05T18:18:41.177000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "そうですね。やっぱり家の近くがいいです。遠いとめんどくさくなってしまうので",
+            "timestamp": "2022-08-05T18:19:03.401000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "何育ててるんですか",
+            "timestamp": "2022-08-05T18:19:16.784000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "今はなすとピーマンができてますよ！",
+            "timestamp": "2022-08-05T18:19:35.877000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2401,
+    "interlocutors": [
+        "EM",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EM",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-21T15:29:45.698000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-21T15:29:54.966000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EM",
+            "text": "趣味とかありますか？",
+            "timestamp": "2022-08-21T15:30:02.233000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "睡眠が唯一の趣味です。",
+            "timestamp": "2022-08-21T15:30:25.015000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EM",
+            "text": "なるほど。わたしも寝るのは好きですね。",
+            "timestamp": "2022-08-21T15:30:44.941000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "仲間ですね。安眠のためになにか工夫はされていますか？",
+            "timestamp": "2022-08-21T15:31:11.448000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EM",
+            "text": "枕は少し良いものを使用しています。",
+            "timestamp": "2022-08-21T15:31:20.664000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "どんな枕なんでしょうか？",
+            "timestamp": "2022-08-21T15:31:53.178000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EM",
+            "text": "テンピュールと言うメーカーをご存じですか？",
+            "timestamp": "2022-08-21T15:32:02.071000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "知ってますよ。使ったことはないですけども。",
+            "timestamp": "2022-08-21T15:32:36.482000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EM",
+            "text": "お勧めですよ。高いだけあると思います。",
+            "timestamp": "2022-08-21T15:32:46.288000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね。あとで見てみます！",
+            "timestamp": "2022-08-21T15:33:07.859000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EM",
+            "text": "好きな食べ物はありますか？",
+            "timestamp": "2022-08-21T15:33:10.624000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "野菜が好きですね。",
+            "timestamp": "2022-08-21T15:33:26.569000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EM",
+            "text": "具体的には？私はナスなんか好きですね。",
+            "timestamp": "2022-08-21T15:33:39.893000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "ナスがおいしい季節ですよね。私はレタスなど葉物が好きです。",
+            "timestamp": "2022-08-21T15:34:10.634000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EM",
+            "text": "良いですね。パンにはさんで食べるのが好きです。",
+            "timestamp": "2022-08-21T15:34:21.124000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "簡単にサンドイッチになりますね。",
+            "timestamp": "2022-08-21T15:34:41.402000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EM",
+            "text": "ハムとチーズとと言う感じですね。楽ですし。",
+            "timestamp": "2022-08-21T15:34:50.880000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "その組み合わせはよくやります。",
+            "timestamp": "2022-08-21T15:35:06.577000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EM",
+            "text": "基本ですね。めんどくさくてマヨネーズ塗ってます。",
+            "timestamp": "2022-08-21T15:35:16.997000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "レタスにマヨは最高です。",
+            "timestamp": "2022-08-21T15:35:48.881000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EM",
+            "text": "ですね。コロッケとソースもいいですね。",
+            "timestamp": "2022-08-21T15:35:57.192000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "コロッケだと、たまに醤油派の人もいますね。",
+            "timestamp": "2022-08-21T15:36:22.919000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EM",
+            "text": "いますね。サンドイッチとレタスがいるならソースですね。",
+            "timestamp": "2022-08-21T15:37:17.274000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "たしかに。ソースも出番が多い調味料ですね。",
+            "timestamp": "2022-08-21T15:37:12.103000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EM",
+            "text": "そのように思います。目玉焼きとか。",
+            "timestamp": "2022-08-21T15:37:19.004000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "ソースお好きなんですね。",
+            "timestamp": "2022-08-21T15:37:44.383000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EM",
+            "text": "そうだと思います。",
+            "timestamp": "2022-08-21T15:37:48.332000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "お話ありがとうございました！",
+            "timestamp": "2022-08-21T15:38:31.859000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        }
+    ]
+}

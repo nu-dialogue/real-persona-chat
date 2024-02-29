@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5131,
+    "interlocutors": [
+        "GN",
+        "GP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GN",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-20T05:14:56.255000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GP",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-20T05:15:06.896000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GN",
+            "text": "晩御飯何食べました",
+            "timestamp": "2022-09-20T05:15:09.475000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GP",
+            "text": "何も食べてないです",
+            "timestamp": "2022-09-20T05:15:20.940000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GN",
+            "text": "だいじょうぶですかそれ",
+            "timestamp": "2022-09-20T05:15:24.165000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GP",
+            "text": "体調かなり悪いです",
+            "timestamp": "2022-09-20T05:15:35.808000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GN",
+            "text": "しんどそうです",
+            "timestamp": "2022-09-20T05:15:41.596000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GP",
+            "text": "焼肉食べたい気分です",
+            "timestamp": "2022-09-20T05:15:56.859000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GN",
+            "text": "焼肉は最高ですね",
+            "timestamp": "2022-09-20T05:16:02.041000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GP",
+            "text": "そちらは何を食べましたか？",
+            "timestamp": "2022-09-20T05:16:20.145000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GN",
+            "text": "キーマカレーたべました",
+            "timestamp": "2022-09-20T05:16:25.869000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GP",
+            "text": "いいですね",
+            "timestamp": "2022-09-20T05:16:35.446000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GN",
+            "text": "CoCo壱しまってました",
+            "timestamp": "2022-09-20T05:16:40.554000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GP",
+            "text": "ここいち地元にないです",
+            "timestamp": "2022-09-20T05:16:57.034000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GN",
+            "text": "それかなしすぎませんか",
+            "timestamp": "2022-09-20T05:17:03.773000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GP",
+            "text": "カレー食いに行っていい思いでないので",
+            "timestamp": "2022-09-20T05:17:26.462000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GN",
+            "text": "なにがあったんですか",
+            "timestamp": "2022-09-20T05:17:32.447000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GP",
+            "text": "東京で炭の味がするカレー食いました",
+            "timestamp": "2022-09-20T05:18:05.091000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GN",
+            "text": "ほう。どんな色でした",
+            "timestamp": "2022-09-20T05:18:06.297000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GP",
+            "text": "真っ黒でした",
+            "timestamp": "2022-09-20T05:18:27.425000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GN",
+            "text": "劇物じゃないですか",
+            "timestamp": "2022-09-20T05:18:30.066000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GP",
+            "text": "周りの客も微妙そうな表情浮かべてました",
+            "timestamp": "2022-09-20T05:18:51.953000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GN",
+            "text": "最悪すぎますね、おいしくなさそう",
+            "timestamp": "2022-09-20T05:18:58.751000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GP",
+            "text": "ほんまにはずれひきました",
+            "timestamp": "2022-09-20T05:19:12.418000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GN",
+            "text": "はずれるとおもってなかったでしょうね",
+            "timestamp": "2022-09-20T05:19:19.206000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GP",
+            "text": "あと東京ネズミ多くて驚きました",
+            "timestamp": "2022-09-20T05:19:40.085000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GN",
+            "text": "なんかやばいらしいですねねずみ",
+            "timestamp": "2022-09-20T05:19:45.687000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GP",
+            "text": "実物結構でかいですよ",
+            "timestamp": "2022-09-20T05:20:02.140000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GN",
+            "text": "まじですか、きつい",
+            "timestamp": "2022-09-20T05:20:05.695000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GP",
+            "text": "かわいさのかけらもないです",
+            "timestamp": "2022-09-20T05:20:18.304000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

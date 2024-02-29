@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4700,
+    "interlocutors": [
+        "FK",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-13T17:26:23.831000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-13T17:26:35.623000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "好きな音楽のジャンルありますか",
+            "timestamp": "2022-09-13T17:26:41.399000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "いろいろ聞きますよ。最近はhiphopとか",
+            "timestamp": "2022-09-13T17:26:49.539000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "おお、トラップとか聞きます？",
+            "timestamp": "2022-09-13T17:26:57.947000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "トラップですか？わからないかもしれません。",
+            "timestamp": "2022-09-13T17:27:10.922000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "ヒップホップ聞いてるならどこかしらで聞いてるかもです",
+            "timestamp": "2022-09-13T17:27:23.891000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "調べましたけど、多分聞いてそうですね。",
+            "timestamp": "2022-09-13T17:27:38.948000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "トラックでトラップジャンルの増えてきてます。",
+            "timestamp": "2022-09-13T17:27:49.597000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "ダブステップとかはどうですか？",
+            "timestamp": "2022-09-13T17:27:59.865000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "ダブステだいすきです！ブロステとかも",
+            "timestamp": "2022-09-13T17:28:09.041000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "かっこいいですよね。",
+            "timestamp": "2022-09-13T17:28:22.041000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "ストレス吹っ飛びます",
+            "timestamp": "2022-09-13T17:28:27.993000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "わかります！いいイヤホンとか持ってるんですか？",
+            "timestamp": "2022-09-13T17:28:44.180000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "持ってましたけど売りました！でもうちょいで新しいの届きます",
+            "timestamp": "2022-09-13T17:28:55.437000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね！おいくらくらいのやつですか？",
+            "timestamp": "2022-09-13T17:29:10.063000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "3マンくらいですかね？完全ワイヤレスのやつです",
+            "timestamp": "2022-09-13T17:29:19.388000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "それはいいですね。私も最近興味があって、なんてやつですか？",
+            "timestamp": "2022-09-13T17:29:37.836000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "jabraってやつです！イヤホンは実際聴き比べるのがいいですよ",
+            "timestamp": "2022-09-13T17:29:50.807000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "ですよね。それは重低音がよく響いたり？",
+            "timestamp": "2022-09-13T17:30:07.408000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "そうです、メーカーによって音の鳴り方全然違います",
+            "timestamp": "2022-09-13T17:30:18.730000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "最高ですね。電気屋さんで探しますか？",
+            "timestamp": "2022-09-13T17:30:31.724000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "いーイヤホンてお店でいつも聴き比べてますね",
+            "timestamp": "2022-09-13T17:30:40.514000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "なるほど。きき比べ大切ですね",
+            "timestamp": "2022-09-13T17:31:03.984000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "ほんとに大事だと思います。はっきりちがいわかりますよ",
+            "timestamp": "2022-09-13T17:31:14.103000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "あと、自分の耳に形が合うとかもありますもんね。",
+            "timestamp": "2022-09-13T17:31:29.379000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "ですです。でもそこはイヤーピースでなんとかなります",
+            "timestamp": "2022-09-13T17:31:36.417000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "確かに、いろんなサイズのやつがついてくるか。",
+            "timestamp": "2022-09-13T17:31:52.397000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "あれでほんとに音変わりますよ",
+            "timestamp": "2022-09-13T17:31:57.492000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "こんど聴き比べしてみます！",
+            "timestamp": "2022-09-13T17:32:09.168000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

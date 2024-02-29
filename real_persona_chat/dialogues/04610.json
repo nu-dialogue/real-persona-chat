@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4610,
+    "interlocutors": [
+        "FS",
+        "EJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-14T14:10:31.231000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-14T14:10:40.703000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FS",
+            "text": "行ってみたいところはありますか？",
+            "timestamp": "2022-09-14T14:11:05.384000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EJ",
+            "text": "国内ですか？国外ですか？",
+            "timestamp": "2022-09-14T14:11:17.714000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FS",
+            "text": "国内でお願いします！",
+            "timestamp": "2022-09-14T14:11:36.628000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EJ",
+            "text": "国内だと上野にある国立西洋美物館に行ってみたいです！",
+            "timestamp": "2022-09-14T14:12:03.670000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FS",
+            "text": "美術館はよく行かれるんですか？",
+            "timestamp": "2022-09-14T14:12:51.567000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EJ",
+            "text": "はい！三か月に一度くらいですが。",
+            "timestamp": "2022-09-14T14:13:26.757000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FS",
+            "text": "結構行かれるんですね。ご自身でも絵を描いたりはされますか？",
+            "timestamp": "2022-09-14T14:13:57.366000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EJ",
+            "text": "全くしないですね。",
+            "timestamp": "2022-09-14T14:14:29.285000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね。好きな画家はいますか？",
+            "timestamp": "2022-09-14T14:14:53.015000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EJ",
+            "text": "特に、という人はいないんですが、少し前にみたのでモネですかね。",
+            "timestamp": "2022-09-14T14:16:02.753000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FS",
+            "text": "絵に詳しくないのでブルーっぽい色が多かったようなイメージです。",
+            "timestamp": "2022-09-14T14:17:45.397000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EJ",
+            "text": "睡蓮というモネが描いた有名な絵画があるので、それの影響かもしれないですね。",
+            "timestamp": "2022-09-14T14:18:26.738000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FS",
+            "text": "まさにそれですね！それを思い浮かべてました。",
+            "timestamp": "2022-09-14T14:19:03.365000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EJ",
+            "text": "やっぱりそうですよね！私もそれしかしらなくて、こないだ何かの特別展に行ったら見れてびっくりしました。",
+            "timestamp": "2022-09-14T14:19:54.253000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FS",
+            "text": "実際見るとイメージと違いますか？",
+            "timestamp": "2022-09-14T14:20:33.797000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EJ",
+            "text": "全然違いますね、サイズ感とか、質感とか、実際に目で見ると全然違うんだなって思いました。",
+            "timestamp": "2022-09-14T14:20:58.328000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね。いつもどなたかと一緒に行かれるんですか？",
+            "timestamp": "2022-09-14T14:21:53.816000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EJ",
+            "text": "基本的に一人が多いですね。友人にそういうものに興味がある人がいないので。",
+            "timestamp": "2022-09-14T14:22:24.885000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FS",
+            "text": "一人の方が自分のペースで見られて良いかもしれませんね。",
+            "timestamp": "2022-09-14T14:22:58.434000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EJ",
+            "text": "それはありますよね。特に集中してみたいときは一人の方がいいですね。",
+            "timestamp": "2022-09-14T14:23:25.329000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FS",
+            "text": "ペースが合わないと気を使いますしね。",
+            "timestamp": "2022-09-14T14:24:02.733000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EJ",
+            "text": "そうですね。私は結構ゆっくりまわるタイプなので、一人が合ってるのかもしれないです。",
+            "timestamp": "2022-09-14T14:24:32.351000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FS",
+            "text": "詳しい方じっくり見ているイメージです。説明文も読みますか？",
+            "timestamp": "2022-09-14T14:25:26.495000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EJ",
+            "text": "説明文は結構読み込みます！説明を理解するために何回も前に戻って見直したりしますね。",
+            "timestamp": "2022-09-14T14:26:24.426000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FS",
+            "text": "なるほど。歴史も詳しいとより楽しめそうですね。",
+            "timestamp": "2022-09-14T14:26:52.283000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EJ",
+            "text": "そうですね！偏った知識しか持ち合わせていないので、ちゃんと勉強してみたいです。",
+            "timestamp": "2022-09-14T14:27:20.233000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FS",
+            "text": "大人になると好きなことが学べて楽しいですよね。",
+            "timestamp": "2022-09-14T14:27:52.408000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EJ",
+            "text": "そうですよね。好きな事ならモチベーションが続くのでありがたいです。",
+            "timestamp": "2022-09-14T14:28:13.369000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

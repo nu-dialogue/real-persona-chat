@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1296,
+    "interlocutors": [
+        "DB",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-13T15:57:29.428000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "よろしくおねがいしますー！",
+            "timestamp": "2022-08-13T15:57:43.488000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "普段お家で料理とかされますか？",
+            "timestamp": "2022-08-13T15:58:01.189000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "自炊は結構多いですね！",
+            "timestamp": "2022-08-13T15:58:12.886000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "私も一人暮らしなのでほぼ自炊ですね。",
+            "timestamp": "2022-08-13T15:58:37.276000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "得意料理とかってありますか？",
+            "timestamp": "2022-08-13T15:58:52.790000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "レシピがあればなんでも作れるので逆に得意なのはないですね。",
+            "timestamp": "2022-08-13T15:59:37.417000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "私も結構レシピ本頼ってます。",
+            "timestamp": "2022-08-13T16:00:01.530000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "毎日何作るか悩みませんか？",
+            "timestamp": "2022-08-13T16:00:14.391000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "そうなんですよー。献立考えるのって結構疲れますよね。",
+            "timestamp": "2022-08-13T16:00:31.641000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "最近は暑くて食欲もあまり湧かないので特に困ります。",
+            "timestamp": "2022-08-13T16:00:58.409000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "分かります！面倒くさい時は納豆ご飯で済ませるときもあります。",
+            "timestamp": "2022-08-13T16:01:24.887000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "私も卵かけご飯で済ませがちです。",
+            "timestamp": "2022-08-13T16:01:49.614000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "こちらは旦那と２人暮らしなのでなかなかそうゆう機会はないのですが。",
+            "timestamp": "2022-08-13T16:02:20.990000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "自分ひとりだと誰にも気を使わないので楽ですね。",
+            "timestamp": "2022-08-13T16:03:02.511000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "一人暮らしはそうゆう利点もありますね。",
+            "timestamp": "2022-08-13T16:03:18.743000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "2人だと献立は大変そうです。ルームシェアしてる友人もよく悩んでます。",
+            "timestamp": "2022-08-13T16:03:56.295000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "旦那はカレーが好きなので困った時はカレーを作ります。",
+            "timestamp": "2022-08-13T16:05:03.988000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "カレーは1人分作るのが面倒で食べに行っちゃいます。",
+            "timestamp": "2022-08-13T16:05:13.755000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "あー、そうですよね。なかなか一人では食べ切れないのか！",
+            "timestamp": "2022-08-13T16:05:36.823000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "あとナンを食べられるので意外と外でカレー食べるの多いですね！辛いのも好きで。",
+            "timestamp": "2022-08-13T16:06:14.641000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "私も辛い系好きです！インド料理行った時は、必ずナンおかわりしちゃいます。",
+            "timestamp": "2022-08-13T16:06:54.294000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "そうなんですね！外食はよく行かれたりするんですか？",
+            "timestamp": "2022-08-13T16:07:34.632000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "コロナもあるので、最近はあまり行かないです。",
+            "timestamp": "2022-08-13T16:08:05.221000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "私も友人とは行かずに一人で食べに行って軽く済ませることが多くなりました。",
+            "timestamp": "2022-08-13T16:09:01.002000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "そうですよね。コロナ前はやっぱ友人と出かけることは多かったんですか？",
+            "timestamp": "2022-08-13T16:09:37.152000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "そうですね。予定たてずに行き当たりばったりで遊びに行ったりもしてましたが今は中々難しいですね。",
+            "timestamp": "2022-08-13T16:10:09.496000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "いいですねその感じ！私はコロナで友人減った気がします。",
+            "timestamp": "2022-08-13T16:10:44.945000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "お互い誘いづらくなりますよね。",
+            "timestamp": "2022-08-13T16:11:10.222000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "そうですね。",
+            "timestamp": "2022-08-13T16:11:16.966000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

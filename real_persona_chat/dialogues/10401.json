@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10401,
+    "interlocutors": [
+        "GJ",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T22:08:34.243000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！お願いします！",
+            "timestamp": "2022-08-12T22:09:00.919000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GJ",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-08-12T22:09:45.298000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "趣味はお菓子を作ることです。",
+            "timestamp": "2022-08-12T22:09:48.672000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GJ",
+            "text": "良いですね。得意なお菓子はなんですか？",
+            "timestamp": "2022-08-12T22:10:24.817000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "得意なのはタルトです。",
+            "timestamp": "2022-08-12T22:10:29.806000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GJ",
+            "text": "凄いですね！お菓子作りは何年やられてるんですか？",
+            "timestamp": "2022-08-12T22:11:32.197000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "月1回くらいの頻度ではありますが、6年くらいやっていると思います。",
+            "timestamp": "2022-08-12T22:12:03.644000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GJ",
+            "text": "月1回は多いですね！元々はお菓子を食べるのが好きだったんですか？",
+            "timestamp": "2022-08-12T22:12:58.972000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "はい。甘いもの大好きです。でもタルトはお店で買うのは高くて、自分で作るようになりました。",
+            "timestamp": "2022-08-12T22:13:19.886000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GJ",
+            "text": "なるほど。毎回買うとなると、確かにかさみそうですね。フルーツタルトとかも作るんですか？",
+            "timestamp": "2022-08-12T22:14:36.055000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "そうですね。缶詰を買ったり季節のフルーツを買ったりします。",
+            "timestamp": "2022-08-12T22:14:47.696000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GJ",
+            "text": "美味しそうです。今の季節なら桃とかですか？",
+            "timestamp": "2022-08-12T22:15:43.436000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "はい！この前は貰い物のメロンでメロンタルトを作りました。",
+            "timestamp": "2022-08-12T22:16:03.908000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GJ",
+            "text": "メロンタルト！美味しそうです。家で出てきたら喜びます。",
+            "timestamp": "2022-08-12T22:16:51.677000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "メロンは高くて自分ではとても買えませんから、私もすごく贅沢なタルトが食べられて幸せでした。",
+            "timestamp": "2022-08-12T22:17:23.952000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GJ",
+            "text": "一度で少量は作れないイメージですが、誰かに作ってあげるのですか？",
+            "timestamp": "2022-08-12T22:18:20.276000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "家族が私含めて6人いるので1ホール作っても1回でなくなっちゃうんです。",
+            "timestamp": "2022-08-12T22:18:49.454000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GJ",
+            "text": "いいですね。作ったものを食べてもらえるのも幸せですよね。",
+            "timestamp": "2022-08-12T22:19:45.497000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "毎回おいしいって食べてもらえて嬉しいです。食べてくれる人がいるっていいですね。",
+            "timestamp": "2022-08-12T22:20:16.389000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GJ",
+            "text": "お菓子作りが得意ということは、料理も好きなんですか？",
+            "timestamp": "2022-08-12T22:20:52.847000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "実は料理はあまり得意ではないんですよね。思った通りの味付けに上手くできないんです。",
+            "timestamp": "2022-08-12T22:21:20.540000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GJ",
+            "text": "お菓子作りとは違うんですね。近いものかと思っていました。",
+            "timestamp": "2022-08-12T22:22:26.472000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "本当ですよね。お菓子作りは分量きっちり作ればいいんですけど、おいしい料理って目分量が案外多いんです。",
+            "timestamp": "2022-08-12T22:23:01.062000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GJ",
+            "text": "目分量は難しそうです。長年作り続けないと感覚がわからないですね！",
+            "timestamp": "2022-08-12T22:24:18.252000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "きっとそうですよね。母が料理上手なので私も母みたいになりたいです。",
+            "timestamp": "2022-08-12T22:24:45.727000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GJ",
+            "text": "お母様が料理上手ならば、あなたもきっと美味しいご飯が作れるようになります！",
+            "timestamp": "2022-08-12T22:26:34.815000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "なんか嬉しいです。頑張って作ってみようと思います。",
+            "timestamp": "2022-08-12T22:27:02.528000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GJ",
+            "text": "はい！いろいろと挑戦してみてください！",
+            "timestamp": "2022-08-12T22:27:35.611000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "ありがとうございます。色々やってみますね！",
+            "timestamp": "2022-08-12T22:27:45.028000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

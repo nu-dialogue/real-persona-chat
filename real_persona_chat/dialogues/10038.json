@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10038,
+    "interlocutors": [
+        "BB",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちは、はじめまして。",
+            "timestamp": "2022-08-16T12:23:20.380000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-16T12:23:26.977000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "最近、またコロナの感染者数増えましたよね。<BS>さんの周りは大丈夫ですか？",
+            "timestamp": "2022-08-16T12:23:44.373000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "そうですね、義妹夫婦や親戚が最近かかってました。そちらはどうでしたか？",
+            "timestamp": "2022-08-16T12:24:21.671000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "私と旦那は幸いまだかかってないです。しかし、去年子供が無症状のコロナになっちゃって。",
+            "timestamp": "2022-08-16T12:24:44.376000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "そうだったんですね、では濃厚接触者になったんですね。",
+            "timestamp": "2022-08-16T12:25:30.347000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "そうなんです。だから無症状でも、長期間自宅で隔離してました。",
+            "timestamp": "2022-08-16T12:25:43.780000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "わーそれは大変でしたね。",
+            "timestamp": "2022-08-16T12:26:29.750000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "結構大変でした！家族がみんな家にいるので、食事やらなんやら。カオスでしたね。",
+            "timestamp": "2022-08-16T12:26:50.140000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "確かに！外出もできないし、リズム崩れちゃいますね。",
+            "timestamp": "2022-08-16T12:27:28.424000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "そうなんです。子供にとにかく外に行けない理由を分かってもらうために、必死でした。",
+            "timestamp": "2022-08-16T12:27:48.110000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "お子さんからしたら、意味がわからないですもんね、、。",
+            "timestamp": "2022-08-16T12:28:28.352000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "しかも私の地域は、支援物資が全くなくて。すべてネット注文と出前に頼ってました。",
+            "timestamp": "2022-08-16T12:28:49.965000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！地域差があるというのは本当だったんですね。",
+            "timestamp": "2022-08-16T12:29:13.373000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "支援物資たっぷりな自治体もあったらしいですね。",
+            "timestamp": "2022-08-16T12:29:28.049000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "私が住んでる地域も何もなさそうです。",
+            "timestamp": "2022-08-16T12:29:55.212000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "何もないのはつらいですね。せめてパックご飯だけでも欲しかったです。",
+            "timestamp": "2022-08-16T12:30:12.186000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "そうですよね。出費も嵩みますしね、、。",
+            "timestamp": "2022-08-16T12:30:35.289000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "そこなんです！3食家で食べるし、ネット注文だと地味に生活費が増えちゃって。",
+            "timestamp": "2022-08-16T12:31:03.845000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "ですよね。ネット注文は配送料とかもかかるイメージありますし、出前も割高ですもんね。",
+            "timestamp": "2022-08-16T12:31:39.222000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "でも症状がひどい方もいる中、うちはまだいい状況だと、前向きに乗り切りました。",
+            "timestamp": "2022-08-16T12:32:13.125000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "偉いです。確かに基礎疾患がある方とかは大変そうですもんね。",
+            "timestamp": "2022-08-16T12:33:09.707000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "そしてその時期が、子供が生まれて一番かまってあげられた時期でもあったので。",
+            "timestamp": "2022-08-16T12:33:33.747000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。それはある意味いいタイミングでしたね。",
+            "timestamp": "2022-08-16T12:34:29.981000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "そうですね。しんどかったですが、今となっては得るものも多かったなと。",
+            "timestamp": "2022-08-16T12:34:44.942000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "なるほど。捉え方によって印象が変わりますね。",
+            "timestamp": "2022-08-16T12:35:37.645000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "すべてがその人の心構え次第でもありますしね。",
+            "timestamp": "2022-08-16T12:36:03.423000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "そうですね。勉強になりました。",
+            "timestamp": "2022-08-16T12:36:37.071000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "でもかからないのが一番です！<BS>さんも気を付けてくださいね！",
+            "timestamp": "2022-08-16T12:36:50.147000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "ありがとうございます！お互い気をつけましょう！",
+            "timestamp": "2022-08-16T12:37:00.440000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 547,
+    "interlocutors": [
+        "BI",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T16:34:40.013000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T16:34:46.119000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "お昼は食べられましたか？",
+            "timestamp": "2022-08-10T16:34:54.800000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "はい、食べました",
+            "timestamp": "2022-08-10T16:35:02.087000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "何を食べられましたか？私はパスタを食べました！",
+            "timestamp": "2022-08-10T16:35:20.315000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "サンドイッチでした",
+            "timestamp": "2022-08-10T16:35:28.283000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "ご自分で作られたんですか？",
+            "timestamp": "2022-08-10T16:35:38.975000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "いえ、市販品の購入、楽で美味しい",
+            "timestamp": "2022-08-10T16:35:49.396000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "コンビニのサンドイッチ、おいしいですよね！具のお好みはありますか？",
+            "timestamp": "2022-08-10T16:36:09.332000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "スーパーのサンドイッチでした。でも専門店から仕入れてるんで結構おいしいのです",
+            "timestamp": "2022-08-10T16:36:30.697000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "そうなんですか！私はたっぷりの卵が好きです。",
+            "timestamp": "2022-08-10T16:36:52.775000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "レタストマトのと、あとはタンパク質系",
+            "timestamp": "2022-08-10T16:37:04.805000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "タンパク質系とは？",
+            "timestamp": "2022-08-10T16:37:18.578000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "鶏肉とか、例えばですが",
+            "timestamp": "2022-08-10T16:37:30.157000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "ああ、そういったものですね！おひるはいつもそのような感じですか？",
+            "timestamp": "2022-08-10T16:38:01.834000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "麺類とかおおいかも、うどんが大好きで",
+            "timestamp": "2022-08-10T16:38:13.025000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "私も麺類大好きです。ラーメンが一番好きですが。",
+            "timestamp": "2022-08-10T16:38:36.922000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "パスタも好きです。ラーメンは最近はちょっと避け気味",
+            "timestamp": "2022-08-10T16:38:51.433000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "避ける理由があるのですか？",
+            "timestamp": "2022-08-10T16:39:03.667000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "最近ダイエットにはまっていて",
+            "timestamp": "2022-08-10T16:39:12.924000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "なるほど！ラーメンは天敵ですね。",
+            "timestamp": "2022-08-10T16:39:33.382000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "やっぱり油のおおいタイプのは、どうしてもね、いや、おいしいんですよ",
+            "timestamp": "2022-08-10T16:39:50.287000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "わかります。私はダイエット断念して、ラーメンを取ります。",
+            "timestamp": "2022-08-10T16:40:12.997000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "おいしいからこそ、危険極まりないと",
+            "timestamp": "2022-08-10T16:40:24.325000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "そうですね！パスタは好きなお味はありますか？",
+            "timestamp": "2022-08-10T16:40:41.282000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "トマトソースひっくり返しただけのシンプルなのが意外に美味しい",
+            "timestamp": "2022-08-10T16:41:02.416000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "シンプルいいですね！ペペロンチーノとか！",
+            "timestamp": "2022-08-10T16:41:25.791000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "ペペロンチーノを今ちょうど書こうとしていたところでした、大好きです",
+            "timestamp": "2022-08-10T16:41:43.510000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "私もです！ニンニクでも油でも、やめられません。",
+            "timestamp": "2022-08-10T16:42:03.404000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "タンパク質を別途取る必要がありますがね",
+            "timestamp": "2022-08-10T16:42:18.231000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

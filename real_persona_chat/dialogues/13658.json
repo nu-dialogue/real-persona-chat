@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13658,
+    "interlocutors": [
+        "GR",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T20:24:40.602000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T20:24:46.299000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-10-03T20:24:57.288000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "仕事でした。朝いつもより早く出社しなきゃいけないの忘れてて遅刻しました",
+            "timestamp": "2022-10-03T20:25:25.312000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "焦りますよね",
+            "timestamp": "2022-10-03T20:25:34.731000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "在宅勤務だったのでWi-Fi繋がらないことにしてごまかしました",
+            "timestamp": "2022-10-03T20:25:56.706000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "出社じゃなくてよかったですね",
+            "timestamp": "2022-10-03T20:26:15"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "出社だったらごまかせなくて終わってました",
+            "timestamp": "2022-10-03T20:26:27.049000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "というか、早く出社しなきゃいけない日があるんですか？",
+            "timestamp": "2022-10-03T20:26:55.863000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "月初の月曜日だけいつもより30分早いんですよ",
+            "timestamp": "2022-10-03T20:27:22.727000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "どうしてですか？",
+            "timestamp": "2022-10-03T20:27:30.728000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "全社朝礼があって、それに参加しなきゃいけないんです",
+            "timestamp": "2022-10-03T20:27:54.134000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "朝礼があるんですね。ちょっと面倒ですね。",
+            "timestamp": "2022-10-03T20:28:16.496000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "ちょっと早く帰れるからいいんですけど、残業になったら最悪ですね",
+            "timestamp": "2022-10-03T20:28:55.969000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "たしかに",
+            "timestamp": "2022-10-03T20:29:02.575000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "<GR>さんは普段仕事してますか？",
+            "timestamp": "2022-10-03T20:29:22.228000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "はい。うちは朝礼はないですね。",
+            "timestamp": "2022-10-03T20:29:46.976000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "ないんですか、珍しいですね",
+            "timestamp": "2022-10-03T20:29:52.402000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "期の区切りとかは集まりますけど、それくらいですね",
+            "timestamp": "2022-10-03T20:30:23.098000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "朝礼やるより仕事しろってことですかね",
+            "timestamp": "2022-10-03T20:30:39.844000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "そうですね。無駄な会議も禁止されてます",
+            "timestamp": "2022-10-03T20:30:59.409000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "そういうの大事ですよね",
+            "timestamp": "2022-10-03T20:31:13.633000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "無駄な会議が一番しんどいですよね",
+            "timestamp": "2022-10-03T20:31:32.662000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "うちは無駄な会議だらけです",
+            "timestamp": "2022-10-03T20:31:46.197000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "そうなんですか、なんとかならないんですか？",
+            "timestamp": "2022-10-03T20:32:01.080000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "うーん、なんとかならないですね",
+            "timestamp": "2022-10-03T20:32:22.786000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "でもあんまり厳しくてもよくない気もしますね",
+            "timestamp": "2022-10-03T20:32:40.669000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "そうですか？",
+            "timestamp": "2022-10-03T20:32:46.242000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "発言しない人は会議に参加してはいけないっていう決まりが一時期ありましたよ",
+            "timestamp": "2022-10-03T20:33:10.825000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "それはなんともいえないですね",
+            "timestamp": "2022-10-03T20:33:21.047000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

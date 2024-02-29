@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 2242,
+    "interlocutors": [
+        "CT",
+        "CZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CT",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-19T20:14:53.825000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CZ",
+            "text": "こんばんは。よろしくお願いします！",
+            "timestamp": "2022-08-19T20:15:10.198000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CT",
+            "text": "<CZ>さん。夏はどこかに行きましたか？",
+            "timestamp": "2022-08-19T20:15:18.193000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CZ",
+            "text": "夏はね。サーフィン行くのですよ。まだ行けてませんが。。",
+            "timestamp": "2022-08-19T20:15:51.698000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CT",
+            "text": "すごい！サーフィンをするのですね！海の近くに住んでいるのですか？",
+            "timestamp": "2022-08-19T20:16:14.764000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CZ",
+            "text": "いえ、車で２時間くらい離れた所ですよ。",
+            "timestamp": "2022-08-19T20:16:34.312000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CT",
+            "text": "それだとなかなか行けないですね。いつ頃からサーフィンをやっているのですか？",
+            "timestamp": "2022-08-19T20:16:56.186000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CZ",
+            "text": "そうですね、１６．７年前くらいですかね。",
+            "timestamp": "2022-08-19T20:17:34.158000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CT",
+            "text": "かなりのベテランさんなんですね！始めるきっかけは何だったんでしょう？",
+            "timestamp": "2022-08-19T20:18:08.472000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CZ",
+            "text": "田舎なんで、それくらいしか遊ぶことがなかったのもあります。",
+            "timestamp": "2022-08-19T20:18:38.571000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CT",
+            "text": "波に乗るのはとても難しそうです。",
+            "timestamp": "2022-08-19T20:18:56.565000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CZ",
+            "text": "結構簡単ですよ。意外と年齢層も高いですよ。",
+            "timestamp": "2022-08-19T20:19:19.117000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！そういえば最近知り合いがサップというものをやっていると言っていました。",
+            "timestamp": "2022-08-19T20:19:43.871000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CZ",
+            "text": "立ったまま漕ぐやつですね。波のない所で遊べるやつですね。",
+            "timestamp": "2022-08-19T20:20:15.301000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CT",
+            "text": "そうです。動画を見たのですが、何かで漕いで進んでいるみたいでしたよ。",
+            "timestamp": "2022-08-19T20:20:41.605000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CZ",
+            "text": "名称なんだったかな？ボートをこぐようなやつでしょ？",
+            "timestamp": "2022-08-19T20:21:23.727000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CT",
+            "text": "そうです！私は動画を見ただけなので良くはわからなかったのですが、気持ちよさそうでした。",
+            "timestamp": "2022-08-19T20:21:50.238000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CZ",
+            "text": "海の上を散歩する感覚みたいです。最近よく見かけますよね。",
+            "timestamp": "2022-08-19T20:22:20.203000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！海の上で板に乗るというだけで、ちょっと良くわからない感覚です。",
+            "timestamp": "2022-08-19T20:22:45.087000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CZ",
+            "text": "気持ちいいらしいです。この夏どこかいかれましたか？",
+            "timestamp": "2022-08-19T20:23:12.049000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CT",
+            "text": "ちょっとだけですが、高原に行ってきました。ほんと久しぶりに県外に出ましたよ。",
+            "timestamp": "2022-08-19T20:23:32.894000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CZ",
+            "text": "高原を眺めるの気持ちいいですね。山も好きですよ。",
+            "timestamp": "2022-08-19T20:24:25.985000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CT",
+            "text": "そうなんですか！私はトレッキングが好きでいろいろな所に行っています。",
+            "timestamp": "2022-08-19T20:24:42.049000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CZ",
+            "text": "トレッキングと登山は同じ意味ですか？",
+            "timestamp": "2022-08-19T20:25:11.115000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CT",
+            "text": "登山は頂上を目指すのですが、トレッキングは山歩きという感じで山を散策するというものです。",
+            "timestamp": "2022-08-19T20:25:47.207000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CZ",
+            "text": "なるほど、その違いだったのか！僕は登山やってます。",
+            "timestamp": "2022-08-19T20:26:15.777000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CT",
+            "text": "すごい！いままでどんな山に登ったのですか！",
+            "timestamp": "2022-08-19T20:26:43.188000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CZ",
+            "text": "軽登山ですよ。一番高くても1500M位ですね。",
+            "timestamp": "2022-08-19T20:27:12.118000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CT",
+            "text": "1500まで登ると、登った！って感じがしますよね。もっと高い山に登る予定はあるのですか？",
+            "timestamp": "2022-08-19T20:27:47.817000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CZ",
+            "text": "近くにないので今のところはないですね。いつか登ってみたいです。",
+            "timestamp": "2022-08-19T20:28:10.962000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！ありがとうございました。",
+            "timestamp": "2022-08-19T20:28:24.766000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

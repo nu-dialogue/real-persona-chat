@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4941,
+    "interlocutors": [
+        "FK",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-16T20:46:12.954000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T20:46:19.554000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "晩御飯食べてきました！",
+            "timestamp": "2022-09-16T20:46:23.550000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "夕飯は何食べましたか？",
+            "timestamp": "2022-09-16T20:46:35.945000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "つけ麺です！！",
+            "timestamp": "2022-09-16T20:46:41.800000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "最高です！！つけめんはどのくらいの頻度で食べますか？",
+            "timestamp": "2022-09-16T20:46:56.231000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "月3以上はいきますね、、！",
+            "timestamp": "2022-09-16T20:47:04.339000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "他に外食はいきますか？",
+            "timestamp": "2022-09-16T20:47:13.506000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "ハンバーグとかすきです！こどもなので",
+            "timestamp": "2022-09-16T20:47:27.146000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "ハンバーグ嫌いな大人はいませんよ。チェーン店とかですか？",
+            "timestamp": "2022-09-16T20:47:42.759000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "びくどんがおおいです！",
+            "timestamp": "2022-09-16T20:47:49.040000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "いってみたいんですよ！そこ！イカの箱舟が気になって！",
+            "timestamp": "2022-09-16T20:48:04.871000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "まさかの！そっちですか！",
+            "timestamp": "2022-09-16T20:48:09.029000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "なんか、美味しいって聞いて、気になってます。",
+            "timestamp": "2022-09-16T20:48:22.176000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "近くにないんですか？",
+            "timestamp": "2022-09-16T20:48:25.877000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "昔はあったんですが、いまは車でも1時間前後みないと店舗がないです。田舎なので。",
+            "timestamp": "2022-09-16T20:48:48.193000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "あれま。それはつらいですね、、おいしいですよ！",
+            "timestamp": "2022-09-16T20:48:57.039000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "ちょうど、何もないとこで過ごしてるので、最寄のびくどんが1時間くらいで2店舗あります。",
+            "timestamp": "2022-09-16T20:49:23.641000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "いくしかないです、私はさわやかより好きです！",
+            "timestamp": "2022-09-16T20:49:38.617000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "ご近所にあるんですか？",
+            "timestamp": "2022-09-16T20:49:50.678000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "さわやかは遠いですが、ビクドンはすぐ近くにあります！",
+            "timestamp": "2022-09-16T20:50:03.747000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "すぐ近くでハンバーグ食べれるのはいいですね。さわやかってお店ですか？",
+            "timestamp": "2022-09-16T20:50:28.550000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "そうです！とても有名ですよ",
+            "timestamp": "2022-09-16T20:50:35.705000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "なんですと！知らないかもしれません。",
+            "timestamp": "2022-09-16T20:50:48.392000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "静岡にしか展開されてないんですよー",
+            "timestamp": "2022-09-16T20:50:57.019000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "それ卑怯ですね。そして静岡いったらお魚食べたいです。",
+            "timestamp": "2022-09-16T20:51:11.861000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "静岡はお魚もおいしいですね！",
+            "timestamp": "2022-09-16T20:52:09.196000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "しらす丼とか食べてみたいです。",
+            "timestamp": "2022-09-16T20:52:37.772000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "生のやつとかありますよね！",
+            "timestamp": "2022-09-16T20:52:46.687000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "そう！生の奴！",
+            "timestamp": "2022-09-16T20:52:54.396000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

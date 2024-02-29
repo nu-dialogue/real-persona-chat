@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11084,
+    "interlocutors": [
+        "EZ",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！よろしくおねがいいたします。",
+            "timestamp": "2022-08-19T15:23:12.524000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こちらこそ、よろしくお願いします！",
+            "timestamp": "2022-08-19T15:23:22.070000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EZ",
+            "text": "今日は何をして過ごされていましたか？",
+            "timestamp": "2022-08-19T15:23:33.664000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "朝はちょっと体調が悪くて横になってました。午後は家事をしたり、お仕事ですね。",
+            "timestamp": "2022-08-19T15:23:53.467000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EZ",
+            "text": "体調大丈夫ですか？最近はコロナも流行っているので心配ですね。",
+            "timestamp": "2022-08-19T15:24:14.230000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "ご心配ありがとうございます！熱はないので、ただの夏バテだと思います。",
+            "timestamp": "2022-08-19T15:24:38.207000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EZ",
+            "text": "ちょうど昨日、同期が熱を出してしまって。",
+            "timestamp": "2022-08-19T15:24:57.460000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "あらあら。コロナ検査に行かれたんですか？",
+            "timestamp": "2022-08-19T15:25:09.808000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EZ",
+            "text": "昨日行って、今日の朝にコロナだったと結果が返ってきたらしいですね。",
+            "timestamp": "2022-08-19T15:25:39.214000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "最近感染者数増えてますしね。<EZ>さんは大丈夫ですか？",
+            "timestamp": "2022-08-19T15:25:58.222000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EZ",
+            "text": "増えていますね。私は元気ですが、元気でも急に熱が出るみたいで怖いです。",
+            "timestamp": "2022-08-19T15:26:25.810000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "濃厚接触者になるのも怖いですよね。今は何日ぐらいの隔離ですかね？",
+            "timestamp": "2022-08-19T15:26:41.969000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EZ",
+            "text": "今はだいぶ緩和されて、3日とかだったと思います。",
+            "timestamp": "2022-08-19T15:27:04.426000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "だいぶ短くなりましたね！私は去年、子供が無症状のコロナになって。家族で3週間ぐらい隔離でした。",
+            "timestamp": "2022-08-19T15:27:28.876000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EZ",
+            "text": "無症状だと私もなっているかもしれません。3週間は厳しいですね。",
+            "timestamp": "2022-08-19T15:27:55.626000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "そうですね。濃厚接触者の隔離は、感染者の隔離が終わってからのカウントになるらしくて。大変でしたよ。",
+            "timestamp": "2022-08-19T15:28:18.536000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EZ",
+            "text": "なるほど。それと比べれば最近はまだましになってきましたね。",
+            "timestamp": "2022-08-19T15:28:51.336000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "ちょっとマシになったかもですね！でも相変わらず症状はそんなに軽くないらしいですね。",
+            "timestamp": "2022-08-19T15:29:14.168000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EZ",
+            "text": "それが怖いですよね。症状が軽いのであればもう風邪のようなものだと割り切れるんですが。",
+            "timestamp": "2022-08-19T15:29:51.538000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "同期の方は高熱にはなってないですか？早くよくなるといいのですが。",
+            "timestamp": "2022-08-19T15:30:08.359000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EZ",
+            "text": "なってるみたいで、昨日ポカリなどを家に届けに行きました。一人暮らしだと大変ですね。",
+            "timestamp": "2022-08-19T15:30:41.387000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "しかも一人暮らし！自治体からの支援物資もない感じですかね？",
+            "timestamp": "2022-08-19T15:30:58.458000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EZ",
+            "text": "よくわからないですが、最近はあまりないのですかね？数日すれば届くかもですが。",
+            "timestamp": "2022-08-19T15:31:49.777000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "ちょっとずれたりもするらしいですね。私の地域は、支援物資はゼロでした。",
+            "timestamp": "2022-08-19T15:32:08.428000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EZ",
+            "text": "地域によって違うのですね。支援物資はあってほしいですね。",
+            "timestamp": "2022-08-19T15:32:33.110000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "もう1年以上前のことなので参考になりませんが。最近は隔離期間も短いし、余計にないかもしれませんね。",
+            "timestamp": "2022-08-19T15:33:00.202000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EZ",
+            "text": "最近のほうがないと思います。コロナかかりたくないです。何回もかかるみたいですしね。",
+            "timestamp": "2022-08-19T15:33:38.792000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "ならないのが一番ですね。ワクチン接種は済んでますか？",
+            "timestamp": "2022-08-19T15:33:58.957000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EZ",
+            "text": "実はしてないんですよね。あまり家から出ない生活をしているので、行く機会を逃してしまい。",
+            "timestamp": "2022-08-19T15:34:39.741000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "ワクチンって、副作用もあるし、ちょっと怖いですもんね。",
+            "timestamp": "2022-08-19T15:34:54.730000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7864,
+    "interlocutors": [
+        "CB",
+        "AV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは。よろしくお願いします",
+            "timestamp": "2022-08-04T22:42:27.436000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AV",
+            "text": "こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-04T22:42:41.345000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "夕飯は何を食べましたか。",
+            "timestamp": "2022-08-04T22:43:27.721000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AV",
+            "text": "今日の夕ご飯は唐揚げでした。",
+            "timestamp": "2022-08-04T22:43:28.541000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "唐揚げいいですね。私はパスタでした。ゴーヤーいりの。",
+            "timestamp": "2022-08-04T22:43:44.581000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AV",
+            "text": "ゴーヤ入りのパスタ、とっても気になります。どんなお味なのかしら？",
+            "timestamp": "2022-08-04T22:44:07.402000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "和風パスタにしました。",
+            "timestamp": "2022-08-04T22:44:30.855000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AV",
+            "text": "醤油ベースみたいなかんじですか？",
+            "timestamp": "2022-08-04T22:44:37.408000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "そうです。醤油ベースです。やきうどんみたいになりました。",
+            "timestamp": "2022-08-04T22:44:57.463000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AV",
+            "text": "ちょうど我が家の冷蔵庫にゴーヤがありまして、明日の昼食にマネしてみようかなと思いました。",
+            "timestamp": "2022-08-04T22:45:32.185000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "最近ゴーヤにはまってます。肉詰めもおいしかった",
+            "timestamp": "2022-08-04T22:45:54.063000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AV",
+            "text": "ゴーヤの肉詰めはわたしも、たまにします。美味しいですよね。",
+            "timestamp": "2022-08-04T22:46:18.373000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "おいしいですよね。私はこの間はじめてしました。",
+            "timestamp": "2022-08-04T22:46:35.021000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AV",
+            "text": "ゴーヤと言えば、佃煮も美味しいんですよ。",
+            "timestamp": "2022-08-04T22:46:53.055000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "そうなんですね。つくったことないです。美味しそうですね。",
+            "timestamp": "2022-08-04T22:47:16.266000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AV",
+            "text": "御飯おかわり絶対しちゃいますよ。",
+            "timestamp": "2022-08-04T22:47:44.799000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "甘めですか。ごはんすすみそうです。",
+            "timestamp": "2022-08-04T22:48:02.674000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AV",
+            "text": "カレーに入れても美味しかったです。",
+            "timestamp": "2022-08-04T22:48:12.301000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "いいですね。夏は毎日カレーでもいいです。",
+            "timestamp": "2022-08-04T22:48:32.905000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AV",
+            "text": "わたしも毎日カレーでも全然いいのに、子供がカレー嫌いなんですよ。",
+            "timestamp": "2022-08-04T22:48:57.580000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "毎日だとうちも嫌がりそうです。",
+            "timestamp": "2022-08-04T22:49:17.440000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AV",
+            "text": "子供ってカレーが大好きなイメージがあるのでショックでした。",
+            "timestamp": "2022-08-04T22:49:47.732000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "うちはスパイスカレーもすきです。",
+            "timestamp": "2022-08-04T22:50:07.272000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AV",
+            "text": "イチから全部作るんですか？",
+            "timestamp": "2022-08-04T22:50:22.671000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "そういうときもあります。好きなので",
+            "timestamp": "2022-08-04T22:50:42.509000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AV",
+            "text": "すごい！本格的なカレーなんできっと美味しいでしょうね。",
+            "timestamp": "2022-08-04T22:51:05.572000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "幸いうちのこは辛さはダメですけど、スパイスは大丈夫みたいで",
+            "timestamp": "2022-08-04T22:51:27.064000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AV",
+            "text": "香り高いものは大丈夫なんでしょうか。お子さん舌がこえていますね。",
+            "timestamp": "2022-08-04T22:52:02.413000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "上の子と下の子で好みが違うので困ってます",
+            "timestamp": "2022-08-04T22:52:24.937000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AV",
+            "text": "確かにそれは悩みの種になりますね。",
+            "timestamp": "2022-08-04T22:52:39.754000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12887,
+    "interlocutors": [
+        "FE",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-13T19:29:59.515000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-13T19:30:02.192000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "最近どこか行かれました？",
+            "timestamp": "2022-09-13T19:30:08.976000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "バーベキューしに川へ行ったくらいですね。",
+            "timestamp": "2022-09-13T19:30:21.161000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "バーベキューいいですね！夏っぽい。",
+            "timestamp": "2022-09-13T19:30:28.429000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "そうです。いい肉買ったりして。",
+            "timestamp": "2022-09-13T19:30:42.547000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "おお。お外でいいお肉、最高です。焼きそば食べました？",
+            "timestamp": "2022-09-13T19:31:00.514000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "焼きそばたべましたよ！",
+            "timestamp": "2022-09-13T19:31:11.666000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "やっぱりバーベキューと言ったら焼きそばですよね！",
+            "timestamp": "2022-09-13T19:31:24.391000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "そうですね。塩かソースどちらですか？",
+            "timestamp": "2022-09-13T19:31:49.343000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "塩派です！でもバーベキューのときは焼き肉のたれで作りますかね。",
+            "timestamp": "2022-09-13T19:32:10.848000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "あ、確かに。焼肉のたれ最高ですよね。",
+            "timestamp": "2022-09-13T19:32:25.336000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "あれは何にでも合います。",
+            "timestamp": "2022-09-13T19:32:42.364000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "あとは、チーズもリゾットにして食べました。",
+            "timestamp": "2022-09-13T19:33:03.154000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "それは食べたことないです！おしゃれですね。",
+            "timestamp": "2022-09-13T19:33:19.370000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "いえいえ。網のうえでアルミホイルのかご作って、溶かすだけです。",
+            "timestamp": "2022-09-13T19:33:44.151000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "いやあ、おいしそう！チーズフォンデュとかもできそうですね。",
+            "timestamp": "2022-09-13T19:34:01.361000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "そうです！チーズは何でも合いますね。",
+            "timestamp": "2022-09-13T19:34:15.431000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "チーズお好きですか？",
+            "timestamp": "2022-09-13T19:34:26.229000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "好きですよ！",
+            "timestamp": "2022-09-13T19:34:31.423000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "私もです！何チーズが好きとかありますか？",
+            "timestamp": "2022-09-13T19:34:48.837000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "かけるチーズみたいなやつですね。袋に入ってる。",
+            "timestamp": "2022-09-13T19:35:08.364000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "あ！あれいいですよね！トーストにかけてよく食べます。",
+            "timestamp": "2022-09-13T19:35:23.948000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "本格的なカビのチーズとかは、味が濃くて少し苦手です。",
+            "timestamp": "2022-09-13T19:35:42.864000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "あれって味が濃いんですね。食べたことないんですよ。",
+            "timestamp": "2022-09-13T19:35:55.833000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "しょっぱいです。",
+            "timestamp": "2022-09-13T19:36:05.079000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "しょっぱいんですか！好き嫌いが分かれるとは聞いたことあります。",
+            "timestamp": "2022-09-13T19:36:19.416000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "多分ワインのあて前提で作られているんですよね。なかなかくせあります。",
+            "timestamp": "2022-09-13T19:36:43.329000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "あー、ワインですか。ワイン好きなので今度併せて飲んでみようかな。",
+            "timestamp": "2022-09-13T19:37:07.150000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "ありですね。成城石井とかで売ってます。",
+            "timestamp": "2022-09-13T19:37:27.439000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

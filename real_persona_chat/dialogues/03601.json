@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3601,
+    "interlocutors": [
+        "DL",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-30T19:19:00.196000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんばんは。どうぞよろしくお願いします。",
+            "timestamp": "2022-08-30T19:19:09.594000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "夏休みには、何処かに行かれましたか？",
+            "timestamp": "2022-08-30T19:19:34.110000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "今年はコロナの事もありほとんどどこも行かずでした。どちらか行かれましたか？",
+            "timestamp": "2022-08-30T19:20:27.047000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "こちらも同様です。家族で近場のショッピングモールが関の山でした。もし、コロナが収束したら、何処か行ってみたい箇所とかはありますか？",
+            "timestamp": "2022-08-30T19:21:08.031000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "収束したら旅行行きたいです。国内旅行でもいいので。",
+            "timestamp": "2022-08-30T19:21:48.904000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "旅行！良いですね。どこか目星はあるんですか？",
+            "timestamp": "2022-08-30T19:22:10.649000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "コロナ前から長崎に行ってみたいと思っていました。タイミングがつかめずです。",
+            "timestamp": "2022-08-30T19:22:37.672000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "長崎！良いですね。修学旅行で行った以来です。",
+            "timestamp": "2022-08-30T19:23:00.917000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "行かれたんですね！どうでしたか？",
+            "timestamp": "2022-08-30T19:23:15.939000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "高校生の時でしたので、ハウステンボスが楽しかったとか、カステラが色々な種類があったなとか、そんな感じですね。どこかお勧めのスポットとかはありますか？",
+            "timestamp": "2022-08-30T19:23:56.063000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "軍艦島とか行ってみたいのですが、ご存じですか？",
+            "timestamp": "2022-08-30T19:24:31.184000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "結構テレビとかで取り上げられてますよね。神秘的な雰囲気が素敵ですよね！",
+            "timestamp": "2022-08-30T19:24:50.116000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "ですね。あと、畳の敷かれた教会があると聞きました。",
+            "timestamp": "2022-08-30T19:25:14.682000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "教会もあるんですか！？それは初耳でした！結構な人数の方が暮らされていたとは聞いていましたが。意外です！",
+            "timestamp": "2022-08-30T19:25:47.256000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "隠れキリシタン？がお祈りしていたとか。ダイバー邸など異国情緒を感じられそうです。",
+            "timestamp": "2022-08-30T19:26:38.014000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "普段行かない箇所をブラブラと歩くだけでも気分が盛り上がりますもんね。素敵な思い出が出来そうです。",
+            "timestamp": "2022-08-30T19:27:14.215000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "コロナが収束したらどこに行きたいですか？",
+            "timestamp": "2022-08-30T19:27:56.490000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "私は、都内に行きたいです。地元が田舎なので。",
+            "timestamp": "2022-08-30T19:28:22.720000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "そうなんですね。都内で何かされたいことがありますか？",
+            "timestamp": "2022-08-30T19:28:44.407000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "逆に、何も計画せずに歩いてみたいですね。色々な発見がありそうなので。素敵なお店とか見つかれば、最高です。",
+            "timestamp": "2022-08-30T19:29:21.018000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "いいですね。お買い物がお好きなのでしょうか？",
+            "timestamp": "2022-08-30T19:29:47.965000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "どちらかと言うと、食べ歩きが好きなんです。",
+            "timestamp": "2022-08-30T19:30:08.034000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "食べ歩き楽しそうですね！どんなものが食べたいですか？",
+            "timestamp": "2022-08-30T19:30:32.115000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "スイーツが良いですね。凄く丁寧に作られてそうで、写真とか見て憧れてます。",
+            "timestamp": "2022-08-30T19:31:23.481000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "私は都内に住んでいるのですが、原宿にある台湾カステラ屋さんおすすめです。",
+            "timestamp": "2022-08-30T19:31:50.254000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "あのフワフワしたカステラですか！？それは是非食べてみたいです！",
+            "timestamp": "2022-08-30T19:32:25.890000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "はい、黄白というお店なのですが、作り立てふわっふわでめちゃ美味しかったです。",
+            "timestamp": "2022-08-30T19:32:57.763000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "覚えましたよ！コロナ終息したら絶対行きますとも！",
+            "timestamp": "2022-08-30T19:33:17.736000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "ぜひです！ではまた。",
+            "timestamp": "2022-08-30T19:33:28.017000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

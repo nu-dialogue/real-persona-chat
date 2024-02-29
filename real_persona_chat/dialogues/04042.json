@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4042,
+    "interlocutors": [
+        "CX",
+        "DT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-06T11:44:36.997000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DT",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-06T11:44:47.136000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "そちらはこの夏何かされましたか？",
+            "timestamp": "2022-09-06T11:44:59.090000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DT",
+            "text": "この夏はプールに一度だけ行きました。",
+            "timestamp": "2022-09-06T11:45:15.703000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "プール涼しそうですね。遊園地みたいなところのプールですか？",
+            "timestamp": "2022-09-06T11:45:36.039000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DT",
+            "text": "いえ、近くのスポーツジムのプールです。",
+            "timestamp": "2022-09-06T11:45:56.954000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "では運動というような感じでプールに行かれたんですかね？",
+            "timestamp": "2022-09-06T11:46:17.313000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DT",
+            "text": "ベビースイミングの体験に子供を連れてったんです。",
+            "timestamp": "2022-09-06T11:46:38.963000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "なるほど、お子様楽しんでましたか？",
+            "timestamp": "2022-09-06T11:46:53.522000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DT",
+            "text": "それが、全く楽しそうじゃありませんでした。",
+            "timestamp": "2022-09-06T11:47:13.622000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "あら、苦手なんですかね？",
+            "timestamp": "2022-09-06T11:47:23"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DT",
+            "text": "ですね。ずっと嫌そうでした。",
+            "timestamp": "2022-09-06T11:47:38.849000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "他のスポーツとかの方が向いてるんですかね？",
+            "timestamp": "2022-09-06T11:47:55.178000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DT",
+            "text": "んー、まだわからないですが。。ちょっとかわいそうなことをしてしまったなと反省してます。",
+            "timestamp": "2022-09-06T11:48:30.605000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "まだどういうのが楽しいのか判断するのが難しいのかなって感じがします。",
+            "timestamp": "2022-09-06T11:49:02.672000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DT",
+            "text": "そうですね。色んな体験させたいなと思ったけどプールはまだ早かったようです。",
+            "timestamp": "2022-09-06T11:49:40.254000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "そうかもしれませんね。楽しめる体験が早く見つかるといいですね。",
+            "timestamp": "2022-09-06T11:49:56.853000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DT",
+            "text": "はい。水着一度しか着てなくてそのままサイズアウトしそうです。",
+            "timestamp": "2022-09-06T11:50:48.547000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "お子様は成長が早いから、そういう問題はよく起こると聞きます。",
+            "timestamp": "2022-09-06T11:51:06.181000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DT",
+            "text": "張り切って可愛いの買っちゃったんですよ。",
+            "timestamp": "2022-09-06T11:51:38.744000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "なるほど、もう少し着れるチャンスが欲しいですね。",
+            "timestamp": "2022-09-06T11:52:00.416000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DT",
+            "text": "ですね。変だけどおうちのお風呂で着せようかな。",
+            "timestamp": "2022-09-06T11:52:31.199000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "それもいいかもしれません。それで水に慣れてくれるかも。",
+            "timestamp": "2022-09-06T11:53:04.768000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DT",
+            "text": "考えたらそれから始めればよかったかもしれません。",
+            "timestamp": "2022-09-06T11:53:42.294000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "ちょっと最初にはスイミング教室は難しかったかもですね。",
+            "timestamp": "2022-09-06T11:54:04.574000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DT",
+            "text": "はい。６ヶ月からOKだったんですけどうちはダメだったみたいです。",
+            "timestamp": "2022-09-06T11:55:10.746000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "あと先生がいたり他の子供がいたりが苦手って可能性もあるかも。",
+            "timestamp": "2022-09-06T11:55:30.380000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DT",
+            "text": "なるほどー。何もかも見たことない世界で楽しめなかったかもしれないです。",
+            "timestamp": "2022-09-06T11:56:06.157000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "もう少し成長したらプールとか楽しめるかもですね。",
+            "timestamp": "2022-09-06T11:56:20.815000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DT",
+            "text": "はい、焦らずゆっくり色んな体験させてあげようと思います。",
+            "timestamp": "2022-09-06T11:56:56.151000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 2,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

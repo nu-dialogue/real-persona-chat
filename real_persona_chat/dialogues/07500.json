@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7500,
+    "interlocutors": [
+        "AA",
+        "BV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-03T12:45:56.401000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BV",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-03T12:46:12.143000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "お好きな野菜は何ですか？",
+            "timestamp": "2022-08-03T12:46:19.597000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BV",
+            "text": "なんでも好きですが、強いて言えばオクラが好きです。",
+            "timestamp": "2022-08-03T12:46:49.587000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "オクラいいですよね。私そうめんと一緒に食べるのが好きです。",
+            "timestamp": "2022-08-03T12:47:02.758000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BV",
+            "text": "いいですね！あのネバネバが好きでして。",
+            "timestamp": "2022-08-03T12:47:35.602000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "わかります、でも最近食べてないです",
+            "timestamp": "2022-08-03T12:47:50.042000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BV",
+            "text": "そうなんですか。何か好きな野菜はありますか？",
+            "timestamp": "2022-08-03T12:48:29.431000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "そうなんです。好きな野菜は茄子です。",
+            "timestamp": "2022-08-03T12:48:48.715000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BV",
+            "text": "茄子もいいですね。麻婆茄子が好きです。",
+            "timestamp": "2022-08-03T12:49:05.212000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "いいですよね。ちなみにオクラも育てているのですか？",
+            "timestamp": "2022-08-03T12:49:24.620000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BV",
+            "text": "オクラも育ててますよ。収穫はまだですが。",
+            "timestamp": "2022-08-03T12:49:42.644000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "収穫はいつ頃なんですか？",
+            "timestamp": "2022-08-03T12:49:54.996000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BV",
+            "text": "今月中には収穫したいですね！",
+            "timestamp": "2022-08-03T12:50:20.484000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "よいですね。食卓の楽しみが増えますね",
+            "timestamp": "2022-08-03T12:50:38.630000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BV",
+            "text": "自分で作った野菜を食べるのは嬉しいですね。",
+            "timestamp": "2022-08-03T12:51:06.804000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "そうですよね。私もいつか作ったものを食べたいです。",
+            "timestamp": "2022-08-03T12:51:21.791000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BV",
+            "text": "いいですよ。好きな料理はありますか？",
+            "timestamp": "2022-08-03T12:51:56.257000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "好きな料理はいろいろあるんですが、鍋です。",
+            "timestamp": "2022-08-03T12:52:08.195000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BV",
+            "text": "鍋ですか。冬にもってこいですね。",
+            "timestamp": "2022-08-03T12:52:25.354000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "そうなんです。白菜をくたくたに煮込むのが好きで。",
+            "timestamp": "2022-08-03T12:52:38.623000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BV",
+            "text": "あーいいですね！量もいっぱい食べれて最高です。",
+            "timestamp": "2022-08-03T12:52:56.559000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "栄養もあってうれしいです。好きな料理は何でしょう？",
+            "timestamp": "2022-08-03T12:53:10.621000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BV",
+            "text": "パスタとかグラタンとか洋食が好きです。",
+            "timestamp": "2022-08-03T12:53:39.471000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "野菜も入っていますし、おいしいですよね！わかります。",
+            "timestamp": "2022-08-03T12:53:58.139000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BV",
+            "text": "あとはお酒のアテなんかも好きですね。",
+            "timestamp": "2022-08-03T12:54:15.949000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "ああ、いいですね！私茄子の味噌煮みたいなものを食べています。",
+            "timestamp": "2022-08-03T12:54:38.944000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BV",
+            "text": "いいですね。日本酒が合いそう。",
+            "timestamp": "2022-08-03T12:54:57.956000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "本当に。それでは今日はありがとうございました！",
+            "timestamp": "2022-08-03T12:55:11.426000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BV",
+            "text": "それでは。失礼します。",
+            "timestamp": "2022-08-03T12:55:23.120000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

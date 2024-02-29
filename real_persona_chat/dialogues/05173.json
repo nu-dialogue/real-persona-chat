@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5173,
+    "interlocutors": [
+        "GQ",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-21T00:58:11.860000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ。",
+            "timestamp": "2022-09-21T00:58:12.494000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GQ",
+            "text": "動物は好きですか？",
+            "timestamp": "2022-09-21T00:58:27.877000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "人並です。",
+            "timestamp": "2022-09-21T00:58:49.149000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GQ",
+            "text": "ペットはいないかな？",
+            "timestamp": "2022-09-21T00:59:03.267000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "昔飼ってましたが今はそうです。",
+            "timestamp": "2022-09-21T00:59:17.881000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GQ",
+            "text": "うちは犬がいます。",
+            "timestamp": "2022-09-21T00:59:32.065000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "可愛いですか？",
+            "timestamp": "2022-09-21T00:59:37.246000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GQ",
+            "text": "可愛いですが、洗われるのが嫌いなので臭いが強烈です。",
+            "timestamp": "2022-09-21T01:00:14.927000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "どんな臭いがするんですか？",
+            "timestamp": "2022-09-21T01:00:28.319000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GQ",
+            "text": "臭いです。表現できないけど、とにかく臭い。",
+            "timestamp": "2022-09-21T01:01:15.888000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "洗うしかないですね。",
+            "timestamp": "2022-09-21T01:01:40.949000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GQ",
+            "text": "すぐに逃げ出すんです。水が嫌いみたいです。",
+            "timestamp": "2022-09-21T01:01:58.125000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "泡ならどうですか？",
+            "timestamp": "2022-09-21T01:02:11.616000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GQ",
+            "text": "泡で流さないやつ使ってますが、臭いは取れませんね。",
+            "timestamp": "2022-09-21T01:02:40.246000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "実は常温とかお湯の方が好きだとか？",
+            "timestamp": "2022-09-21T01:03:00.479000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GQ",
+            "text": "温かいのも試しましたがダメでした。",
+            "timestamp": "2022-09-21T01:03:32.156000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "うーん、うーん。",
+            "timestamp": "2022-09-21T01:04:07.546000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GQ",
+            "text": "外で飼っているので、何とかなってます。",
+            "timestamp": "2022-09-21T01:04:25.072000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "あー、なるほど。",
+            "timestamp": "2022-09-21T01:04:40.594000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GQ",
+            "text": "それで、そのエサを食べに猫もやってきます。",
+            "timestamp": "2022-09-21T01:05:07.232000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "どっちが強いですか？",
+            "timestamp": "2022-09-21T01:05:29.651000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GQ",
+            "text": "仲良しです。数匹のうちの1匹は犬のオッパイで大きくなったんです。",
+            "timestamp": "2022-09-21T01:06:14.632000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "そ、そうなんですね。",
+            "timestamp": "2022-09-21T01:06:40.836000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GQ",
+            "text": "うちの犬、出産してないのに、子猫育てたんです。凄いでしょ。",
+            "timestamp": "2022-09-21T01:07:11.678000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "え、出産してないのに出るんですか？",
+            "timestamp": "2022-09-21T01:07:33.065000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GQ",
+            "text": "そうなんです。驚きました。獣医さんはそんなに驚いてませんでした。",
+            "timestamp": "2022-09-21T01:08:18.882000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "人間はそんなことないですもんね、よく知りませんけど。",
+            "timestamp": "2022-09-21T01:08:49.242000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GQ",
+            "text": "ドラマで結婚もしてないのにが赤ちゃんの世話してたら胸がジワジワするというシーンはありましたよ。",
+            "timestamp": "2022-09-21T01:09:56.755000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "ジワジワ？",
+            "timestamp": "2022-09-21T01:10:24.484000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

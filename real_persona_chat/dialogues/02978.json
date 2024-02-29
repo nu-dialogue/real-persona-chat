@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2978,
+    "interlocutors": [
+        "AD",
+        "EY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは、今日も一日お疲れ様でした。",
+            "timestamp": "2022-08-24T23:53:53.040000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EY",
+            "text": "こんばんは、お疲れ様です。よろしくお願いします。",
+            "timestamp": "2022-08-24T23:54:03.517000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "あなたのストレス解消法を教えてください。",
+            "timestamp": "2022-08-24T23:54:20.727000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EY",
+            "text": "自分はよく寝るか何も考えないでいいようにゲームしたりしています。",
+            "timestamp": "2022-08-24T23:55:06.433000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "ストレス溜まってる時ってなかなか寝付けなかったりしませんか？",
+            "timestamp": "2022-08-24T23:55:20.106000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EY",
+            "text": "すぐに寝ることはなかなかできませんが、寝たらしばらくは起きないので寝るまでの辛抱ですかね。",
+            "timestamp": "2022-08-24T23:56:25.115000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "いいですね。私途中で起きたりしてしまうこともあって。ゲームもしているのですが逆にストレスになったり。",
+            "timestamp": "2022-08-24T23:56:45.250000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EY",
+            "text": "難しいですね。ゲームで逆にストレスになる場合はやるべきゲームを間違ってる気がします。",
+            "timestamp": "2022-08-24T23:57:43.039000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "頭空っぽにして出来るゲームがあればいいんですけどね。",
+            "timestamp": "2022-08-24T23:57:55.991000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EY",
+            "text": "あまり、対戦ゲームはよくないかもですね。どうしても熱くなってしまいますし。",
+            "timestamp": "2022-08-24T23:58:42.504000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "そうですよね。今ストレス解消法を模索中です。",
+            "timestamp": "2022-08-24T23:59:01.638000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EY",
+            "text": "おいしいものを食べるとか温泉に行ってゆっくりするとかどうですか？",
+            "timestamp": "2022-08-24T23:59:30.240000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "アリかもしれないですね。美味しいもの食べるは、逆に太ることを考えてストレスになりそうです。",
+            "timestamp": "2022-08-24T23:59:48.422000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EY",
+            "text": "太ることを気にしたらたくさん食べれなかったりで確かにストレスになりそうですね。",
+            "timestamp": "2022-08-25T00:00:39.534000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "温泉行ってこようと思います。",
+            "timestamp": "2022-08-25T00:00:58.876000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EY",
+            "text": "いいと思います。どこに行こうとか考えていたりしますか？",
+            "timestamp": "2022-08-25T00:01:44.388000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "山梨の日帰り温泉行くこと考えています。お金に余裕があれば泊まりで一人温泉旅行もいいなあと思ってます。",
+            "timestamp": "2022-08-25T00:02:15.411000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EY",
+            "text": "泊まりで温泉旅行もいいですね。ゆっくりして休んでほしいです。",
+            "timestamp": "2022-08-25T00:03:10.346000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "はい、ありがとうございます。あなたは最近ストレス抱えていませんか？",
+            "timestamp": "2022-08-25T00:03:26.523000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EY",
+            "text": "いえ、自分ではあまりストレスを感じてはいないですね。",
+            "timestamp": "2022-08-25T00:04:06.622000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "羨ましいです。日ごろからストレスを溜めないように何か心掛けているんですか？",
+            "timestamp": "2022-08-25T00:04:26.813000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EY",
+            "text": "いえ全然そんなことはしていませんが、あまり怒ることがないからかストレスがたまらないですね。",
+            "timestamp": "2022-08-25T00:05:43.598000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "おおらかな人なんですね。素晴らしいですね。",
+            "timestamp": "2022-08-25T00:05:55.516000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EY",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-08-25T00:07:04.173000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "私は調子を崩すまでストレス溜まっていることに気付かず。あまりたまらないのは羨ましいです。",
+            "timestamp": "2022-08-25T00:07:51.930000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EY",
+            "text": "調子が悪くなるまでストレスが溜まっていることに気づかないのは困りますね。",
+            "timestamp": "2022-08-25T00:08:31.962000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "日ごろからストレス溜めないようにするのは難しいですね。考え方を変えるように頑張ります。",
+            "timestamp": "2022-08-25T00:09:04.083000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EY",
+            "text": "考え方を変えるだけでなく環境から変えることが大事かもしれないですね。",
+            "timestamp": "2022-08-25T00:09:59.338000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "原因がわかっていないので何を変えたらいいのかわかりませんが、環境ですね。変えてみます。",
+            "timestamp": "2022-08-25T00:10:25.809000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EY",
+            "text": "頑張ってください。ありがとうございました。",
+            "timestamp": "2022-08-25T00:11:03.226000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

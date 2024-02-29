@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 548,
+    "interlocutors": [
+        "AI",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-10T16:42:52.052000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T16:42:58.695000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "夏休みはもう取られましたか",
+            "timestamp": "2022-08-10T16:43:14.512000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "主婦なので、毎日夏休みのようなものです。",
+            "timestamp": "2022-08-10T16:43:32.079000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "別名、毎日仕事じゃないですか",
+            "timestamp": "2022-08-10T16:43:42.611000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "そう言ってくださるとうれしいです！お休みとられましたか？",
+            "timestamp": "2022-08-10T16:43:59.522000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "半分は取りました",
+            "timestamp": "2022-08-10T16:44:07.582000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "分けて取られるんですか？",
+            "timestamp": "2022-08-10T16:44:16.816000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "はい、有効活用するために",
+            "timestamp": "2022-08-10T16:44:24.567000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "前半はどこかへ行かれましたか？",
+            "timestamp": "2022-08-10T16:44:38.639000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "北海道に行きました",
+            "timestamp": "2022-08-10T16:44:48.533000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "いいですね！どこへ行かれましたか？",
+            "timestamp": "2022-08-10T16:45:05.419000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "旭川近辺です、縁があってもう何度もいってます",
+            "timestamp": "2022-08-10T16:45:23.128000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "動物園に行ってみたいです。行かれたことありますか？",
+            "timestamp": "2022-08-10T16:45:41.480000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "もう、何度行ったか分かりません。最高ですよ、是非いらしてください。",
+            "timestamp": "2022-08-10T16:45:56.392000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "動物たちが自由そうで、見どころありそうです！",
+            "timestamp": "2022-08-10T16:46:12.507000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "意外に冬がいいのですよ、ペンギンがその辺お散歩しますんで",
+            "timestamp": "2022-08-10T16:46:30.596000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "そうなんですか！冬の北海道は寒そうですね！",
+            "timestamp": "2022-08-10T16:46:45.601000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "その寒さが、ペンギンには都合がよいと",
+            "timestamp": "2022-08-10T16:46:59.205000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "そうですね。この時期の北海道は涼しいのでしょうか。",
+            "timestamp": "2022-08-10T16:47:14.635000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "今年は暑かったです、まあそれでも東京よりはましでしたが",
+            "timestamp": "2022-08-10T16:47:35.173000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "最近は季節や気候がおかしくなってきたような感じですね。",
+            "timestamp": "2022-08-10T16:47:55.246000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "どうにも暑すぎたり、寒すぎたり",
+            "timestamp": "2022-08-10T16:48:07.235000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "雷雨や豪雨もすごいですし。",
+            "timestamp": "2022-08-10T16:48:18.231000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "そうそう、これって、夕立やない、スコールじゃんみたいな",
+            "timestamp": "2022-08-10T16:48:31.972000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "もう日本が亜熱帯のようです！",
+            "timestamp": "2022-08-10T16:48:45.461000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "温度からいってむしろ亜熱帯",
+            "timestamp": "2022-08-10T16:48:56.248000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "春や秋がもう少し長く続いてほしいものです。",
+            "timestamp": "2022-08-10T16:49:14.038000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "秋の紅葉がほんとにあっという間に終わる気がして",
+            "timestamp": "2022-08-10T16:49:33.186000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "長く見ていたいですよね！",
+            "timestamp": "2022-08-10T16:49:43.226000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

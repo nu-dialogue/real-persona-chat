@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9410,
+    "interlocutors": [
+        "CA",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T06:30:39.144000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こんにちは！はじめましてです！",
+            "timestamp": "2022-08-12T06:30:48.266000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "はじめまして。お腹がすいてきましたね",
+            "timestamp": "2022-08-12T06:31:08.258000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "そうですね。そろそろ朝ご飯の時間ですね。朝はご飯派ですか？",
+            "timestamp": "2022-08-12T06:31:26.335000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "ご飯派です！ごはんが大好きで。<BB>さんはどちら派ですか？",
+            "timestamp": "2022-08-12T06:32:04.958000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "私はパン派です！ご飯も好きですが、朝はなんだかパンが食べたくなります。",
+            "timestamp": "2022-08-12T06:32:30.005000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "パンもいいですよね！<BB>さんはどんなパンがお好きですか？",
+            "timestamp": "2022-08-12T06:33:03.624000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "そうですね。よく食べるのはトーストですけど、総菜パンとかも好きですね。",
+            "timestamp": "2022-08-12T06:33:31.277000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "トースト、何枚切り派ですか？",
+            "timestamp": "2022-08-12T06:34:17.483000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "6枚切りです！それがちょうどいい感じがします！",
+            "timestamp": "2022-08-12T06:34:32.896000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "うちも買うときは６枚切りです。ちょうどいいですよね！",
+            "timestamp": "2022-08-12T06:35:00.949000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "時々小倉トーストとかをする場合は、4枚切りとかも使いますけど、やはり普通のトーストは6枚切りですね。",
+            "timestamp": "2022-08-12T06:35:28.412000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "小倉トースト！いいですね！食べたい！",
+            "timestamp": "2022-08-12T06:36:17.305000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "美味しいですよね。コメダ珈琲であんこだけ売ってるので、時々買って家で作ります。",
+            "timestamp": "2022-08-12T06:36:37.225000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "あんこだけ売ってるのはじめて知りました！あんこ好きだからとてもありがたい情報です",
+            "timestamp": "2022-08-12T06:37:23.346000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "あんこお好きなんですね！コメダ珈琲のあんこはおすすめです！",
+            "timestamp": "2022-08-12T06:37:54.243000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "やってみたいです。いくらくらいで売ってますか？",
+            "timestamp": "2022-08-12T06:38:52.825000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "500円しなかった気がするんですが、いくらだったかな。",
+            "timestamp": "2022-08-12T06:39:10.754000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "それはありがたいです！コメダに次行ったとき買ってみよう。",
+            "timestamp": "2022-08-12T06:39:26.646000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "量たっぷりなので、結構長く楽しめます。あとは、トミーズっていうところのあんこ食パンもおすすめです！",
+            "timestamp": "2022-08-12T06:39:58.894000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "あんこの食パン気になります！生地にねりこまれているんですかね？",
+            "timestamp": "2022-08-12T06:40:20.685000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "そうなんです。最初から生地に練りこんでるので、切って焼くだけです。",
+            "timestamp": "2022-08-12T06:40:53.083000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "最強だ！また違った美味しさですね。食べてみたいなあ",
+            "timestamp": "2022-08-12T06:41:27.404000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "兵庫県のお店なんですが、通販もしてるのでぜひ調べてみてください！",
+            "timestamp": "2022-08-12T06:41:53.048000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "今検索して調べてみたら、ふかふかしておいしそうー！！！",
+            "timestamp": "2022-08-12T06:42:11.809000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "めっちゃ美味しいんです。食べ応えがあって。バター必須ですね。",
+            "timestamp": "2022-08-12T06:42:30.047000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "バターつけたらたまらないですね。あっという間に食べちゃいそうだ",
+            "timestamp": "2022-08-12T06:43:06.043000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "結構ずっしり重めですけど、ペロッといけちゃいます。",
+            "timestamp": "2022-08-12T06:43:29.892000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "このお店、他のパンも美味しそう！多分近いうちに注文します。素敵な情報ありがとうございます！",
+            "timestamp": "2022-08-12T06:44:10.058000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "いいえ、お役に立てて何よりです。",
+            "timestamp": "2022-08-12T06:44:25.359000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

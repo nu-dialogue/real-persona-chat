@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4219,
+    "interlocutors": [
+        "DU",
+        "BY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DU",
+            "text": "こんばんはー。よろしくお願いします。",
+            "timestamp": "2022-09-12T21:31:47.945000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BY",
+            "text": "こんばんは！お願いします。",
+            "timestamp": "2022-09-12T21:31:55.207000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DU",
+            "text": "なにか趣味ってありますか？",
+            "timestamp": "2022-09-12T21:32:11.011000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BY",
+            "text": "趣味らしい趣味はなくて、読書、映画、食べること、くらいでしょうかね。",
+            "timestamp": "2022-09-12T21:32:32.601000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DU",
+            "text": "そうなんですね。私もそんな感じでしたが今の趣味は犬なんです。",
+            "timestamp": "2022-09-12T21:32:58.001000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BY",
+            "text": "犬を飼ってらっしゃるんですか？いいなあ。",
+            "timestamp": "2022-09-12T21:33:12.825000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DU",
+            "text": "犬と暮らすのって面白くて犬中心になってしまっています。",
+            "timestamp": "2022-09-12T21:33:34.263000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BY",
+            "text": "きっとそうでしょうね。飽きないでしょうし、可愛いでしょうし、想像するだけで楽しそうです。",
+            "timestamp": "2022-09-12T21:33:57.816000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DU",
+            "text": "たまに散歩がめんどくさく感じるときもありますけどね。",
+            "timestamp": "2022-09-12T21:34:23.072000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BY",
+            "text": "散歩は毎日絶対ですか？",
+            "timestamp": "2022-09-12T21:34:33.735000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DU",
+            "text": "そうですね。朝晩できれば長めに必要です。",
+            "timestamp": "2022-09-12T21:34:53.834000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BY",
+            "text": "そうなんですね。飼い主にはいい運動ですね。",
+            "timestamp": "2022-09-12T21:35:09.883000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DU",
+            "text": "犬種によるんですけどね。運動量必要なわんこなもので。",
+            "timestamp": "2022-09-12T21:35:27.272000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BY",
+            "text": "元気なワンちゃんなんですね。自分で走って行くタイプですか？",
+            "timestamp": "2022-09-12T21:35:54.016000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DU",
+            "text": "いえ。顔色伺いつつも意思表示は結構してきます。こっちに曲がりたい！とか。",
+            "timestamp": "2022-09-12T21:36:23.754000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BY",
+            "text": "ちゃんと顔色伺うところがいいですね。コースは毎日違いますか？",
+            "timestamp": "2022-09-12T21:36:50.990000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DU",
+            "text": "だいたいパターン化してるんですけど、どのコースに行くのかは本人が決めています。",
+            "timestamp": "2022-09-12T21:37:12.349000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BY",
+            "text": "へえ、そうなんですね。雨の日も散歩ですか？",
+            "timestamp": "2022-09-12T21:37:26.369000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DU",
+            "text": "そうなんです。家で排泄ができないもので。引き取った時から絶対家ではしてくれないんですよね。",
+            "timestamp": "2022-09-12T21:37:51.864000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BY",
+            "text": "あ、それは絶対必要になりますね。ワンちゃんもレインコートを着ていかれるんですか？",
+            "timestamp": "2022-09-12T21:38:21.814000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DU",
+            "text": "雨量によって着せたりめんどくさくて着せなかったりします。",
+            "timestamp": "2022-09-12T21:38:38.458000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BY",
+            "text": "基本濡れても大丈夫ですものね？ワンちゃんの服ってかわいいなあと思って見ています。",
+            "timestamp": "2022-09-12T21:39:05.514000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DU",
+            "text": "服は沢山買いましたが、嫌がるので結局裸族です。",
+            "timestamp": "2022-09-12T21:39:22.131000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BY",
+            "text": "あらら、そうなんですね。残念。",
+            "timestamp": "2022-09-12T21:39:33.800000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DU",
+            "text": "メルカリででも売ろうかしらと思いつつ眠っています。",
+            "timestamp": "2022-09-12T21:39:59.632000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BY",
+            "text": "結構人気があって売れそうですよね？出すのは面倒かもしれませんが。",
+            "timestamp": "2022-09-12T21:40:15.606000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DU",
+            "text": "抜け毛取ったりが大変かなーとなかなか手をつけられていません。",
+            "timestamp": "2022-09-12T21:40:38.506000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BY",
+            "text": "なるほど、ひと手間かかりますね。まとめて売れるといいですね。",
+            "timestamp": "2022-09-12T21:41:05.264000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DU",
+            "text": "そうですね。そういう機会があればいいのですが。",
+            "timestamp": "2022-09-12T21:41:16.843000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BY",
+            "text": "うまくいきますように。",
+            "timestamp": "2022-09-12T21:41:40.101000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BY",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

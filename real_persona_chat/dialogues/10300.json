@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10300,
+    "interlocutors": [
+        "HY",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HY",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-12T20:25:39.814000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-12T20:25:57.559000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HY",
+            "text": "私はお菓子が好きなのですが、何か好きなお菓子はありますか？",
+            "timestamp": "2022-08-12T20:26:19.519000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "好きなお菓子は、モンブランです。",
+            "timestamp": "2022-08-12T20:27:07.997000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HY",
+            "text": "モンブラン美味しいですよね、私も大好きです。",
+            "timestamp": "2022-08-12T20:27:27.845000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "あの栗の感じがいいですよねー。",
+            "timestamp": "2022-08-12T20:27:48.347000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HY",
+            "text": "わかります、都内に本格的なモンブラン専門店がある気がします。",
+            "timestamp": "2022-08-12T20:28:39.130000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "へー、それはとても興味があります！",
+            "timestamp": "2022-08-12T20:28:51.322000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HY",
+            "text": "その場でモンブランの上の部分を絞ってくれるそうで、美味しいらしいですよ。",
+            "timestamp": "2022-08-12T20:29:32.679000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "なるほどです！そういえば、シャトレーゼのカフェタイプのお店で、そういうの提供しているようです。",
+            "timestamp": "2022-08-12T20:29:57.355000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HY",
+            "text": "そうなのですか！？カフェ併設あるの知りませんでした。",
+            "timestamp": "2022-08-12T20:30:45.216000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "去年くらいに地元に2店舗できたんですよー。ただ、高いのでまだ食べてないです。",
+            "timestamp": "2022-08-12T20:31:21.893000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HY",
+            "text": "いいなー。シャトレーゼなのに高いと確かに一歩引いてしまいますね。",
+            "timestamp": "2022-08-12T20:31:53.858000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "しぼりたて生モンブランというので、1100円しますね。いつか食べてみたいですが。",
+            "timestamp": "2022-08-12T20:32:24.275000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HY",
+            "text": "すごい、シャトレーゼとは思えない。でも都内のお店も同じような価格帯だった気がします。",
+            "timestamp": "2022-08-12T20:33:01.208000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "カフェでは、ほうとうとかカレー、出来立てパイとか売ってますよー",
+            "timestamp": "2022-08-12T20:33:28.543000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HY",
+            "text": "ほうとうですか！確か工場が山梨ですもんね！",
+            "timestamp": "2022-08-12T20:33:59.936000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "そうなんですよー。たぶん県内で成功したら、県外にもカフェタイプのお店を出すと思います。",
+            "timestamp": "2022-08-12T20:34:17.655000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HY",
+            "text": "ぜひ都内にまで出店してほしいですね、行ってみたいです。",
+            "timestamp": "2022-08-12T20:35:02.685000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "そうですね。今日もカフェタイプのお店で買い物したんですけど、賑わってましたよー。",
+            "timestamp": "2022-08-12T20:35:26.956000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HY",
+            "text": "羨ましいですー。焼きたてのアップルパイとか最近ありますよね！",
+            "timestamp": "2022-08-12T20:35:58.503000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "ですね！YATSUDOKIというのがシャトレーゼ系列のできたてパイ系のお店ですね。",
+            "timestamp": "2022-08-12T20:36:31.296000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HY",
+            "text": "それです！都内だと自由が丘で見ました！一度買ったのですが、とてもおいしかったです。",
+            "timestamp": "2022-08-12T20:37:20.181000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "ちょっとパイ系はお高めですけど、美味しいですよねー。",
+            "timestamp": "2022-08-12T20:37:41.030000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HY",
+            "text": "試験頑張った翌日に買いました。ご褒美ですね。",
+            "timestamp": "2022-08-12T20:38:04.985000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "おお！それは良いご褒美ですねー。",
+            "timestamp": "2022-08-12T20:38:18.755000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HY",
+            "text": "他にも焼き菓子色々ありましたよね、また買いに行きたいです。",
+            "timestamp": "2022-08-12T20:38:49.938000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "そうですね。機会があったら、ぜひ行ってみてください！",
+            "timestamp": "2022-08-12T20:39:04.442000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HY",
+            "text": "ありがとうございます！カフェも開店待ち遠しいです",
+            "timestamp": "2022-08-12T20:39:34.392000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "はい。ではまたお話しましょうね。",
+            "timestamp": "2022-08-12T20:39:50.357000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HY",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

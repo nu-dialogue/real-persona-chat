@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4481,
+    "interlocutors": [
+        "CS",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-09-20T00:01:22.205000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-09-20T00:01:29.920000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-20T00:01:35.232000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "こちらこそよろしくお願いします",
+            "timestamp": "2022-09-20T00:01:43.924000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "今日は何をしていましたか？",
+            "timestamp": "2022-09-20T00:02:03.084000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "今日はゲームしてました",
+            "timestamp": "2022-09-20T00:02:22.072000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "何のゲームですか？",
+            "timestamp": "2022-09-20T00:02:31.107000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "ポケモンです",
+            "timestamp": "2022-09-20T00:02:43.417000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "ポケモンお好きなんですね。",
+            "timestamp": "2022-09-20T00:03:03.598000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "やったことありますか？",
+            "timestamp": "2022-09-20T00:03:10.820000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "まあまあありますよ。どのシリーズをやってるんですか？",
+            "timestamp": "2022-09-20T00:03:27.077000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "アルセウスをやってました。図鑑を全部埋めるミッションに苦しんでます",
+            "timestamp": "2022-09-20T00:03:49.638000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "そんなミッションあるんですね",
+            "timestamp": "2022-09-20T00:03:59.545000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "これクリアしないと捕まえられないポケモンがいるんです",
+            "timestamp": "2022-09-20T00:04:17.243000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "なるほど、じゃあクリアしないとですね…",
+            "timestamp": "2022-09-20T00:04:32.392000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "まだ半分くらいしか埋まってなくてきついです",
+            "timestamp": "2022-09-20T00:05:00.079000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "もはや苦行になっちゃってますね",
+            "timestamp": "2022-09-20T00:05:11.305000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "<CS>さんは何してましたか？",
+            "timestamp": "2022-09-20T00:05:21.978000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "今日は家事して終わりました",
+            "timestamp": "2022-09-20T00:05:34.236000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "大掃除でもしたんですか？",
+            "timestamp": "2022-09-20T00:05:46.256000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "掃除して、食材の下ごしらえして、あとは段ボールまとめたりいろいろしてたら終わりました",
+            "timestamp": "2022-09-20T00:06:15.339000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "なるほど、地味に時間かかりますもんね",
+            "timestamp": "2022-09-20T00:06:28.207000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "一日雨で外に出る気にならなかったので、これはこれでいい休日でした",
+            "timestamp": "2022-09-20T00:06:59.728000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "台風来てますもんね",
+            "timestamp": "2022-09-20T00:07:09.730000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "私の地域にはまだ来てないので、明日あたり本番なのかなって思ってます",
+            "timestamp": "2022-09-20T00:07:52.285000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "僕の地域もまだです。心の準備してます。",
+            "timestamp": "2022-09-20T00:08:14.108000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "何事もないといいんですけどね",
+            "timestamp": "2022-09-20T00:08:24.474000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "そう思います",
+            "timestamp": "2022-09-20T00:08:30.847000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "では、ありがとうございました。",
+            "timestamp": "2022-09-20T00:08:38.274000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-20T00:08:43.604000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

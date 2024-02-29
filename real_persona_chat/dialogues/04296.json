@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4296,
+    "interlocutors": [
+        "FL",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-10T10:43:37.306000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-10T10:43:51.713000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FL",
+            "text": "朝ごはんは食べられました？",
+            "timestamp": "2022-09-10T10:44:09.396000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "先ほど食べました！",
+            "timestamp": "2022-09-10T10:44:18.276000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FL",
+            "text": "何食べたんですか？",
+            "timestamp": "2022-09-10T10:44:31.896000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "ご飯とお味噌汁、だし巻き卵です。",
+            "timestamp": "2022-09-10T10:44:39.006000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FL",
+            "text": "ざ、日本食ですね。",
+            "timestamp": "2022-09-10T10:44:50.435000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "だいたい土曜はパンなのですが、買い忘れまして。",
+            "timestamp": "2022-09-10T10:45:09.600000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FL",
+            "text": "曜日で違うんですか？",
+            "timestamp": "2022-09-10T10:45:26.110000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "平日は基本ごはんとみそ汁で、土曜だけはモーニング気分でパンです！",
+            "timestamp": "2022-09-10T10:45:53.459000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FL",
+            "text": "なるほど。おしゃれですね。",
+            "timestamp": "2022-09-10T10:46:06.380000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "平日は慌ただしいので、サッと作れるものが楽でして。",
+            "timestamp": "2022-09-10T10:46:21.620000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FL",
+            "text": "わかります。私はよく抜いてしまうんですよね。",
+            "timestamp": "2022-09-10T10:46:37.303000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "面倒くさいですよね、朝からはなかなか。",
+            "timestamp": "2022-09-10T10:47:30.925000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FL",
+            "text": "はい。でも食べると元気出ますよね。",
+            "timestamp": "2022-09-10T10:47:53.218000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "ですね。夏場は特に塩分補給の意味でも食べなきゃとなります。",
+            "timestamp": "2022-09-10T10:48:12.766000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FL",
+            "text": "確かに！消費カロリーも多いですからね。",
+            "timestamp": "2022-09-10T10:48:29.514000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "今朝はなにか食べられたのですか？",
+            "timestamp": "2022-09-10T10:48:43.456000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FL",
+            "text": "いえ、でもラテを飲んでます。",
+            "timestamp": "2022-09-10T10:48:58.684000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "ラテ！いいですね。私はいまコーヒーを置いてます。",
+            "timestamp": "2022-09-10T10:49:16.574000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FL",
+            "text": "飲んじゃいますよね。眠気覚ましにもなるし。",
+            "timestamp": "2022-09-10T10:49:36.819000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "そうなんです。一日一杯は何となく飲みたくなって。",
+            "timestamp": "2022-09-10T10:49:55.741000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FL",
+            "text": "私実は、コーヒー飲めないんですよね。",
+            "timestamp": "2022-09-10T10:50:11.363000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "そうでしたか。でも牛乳やお砂糖があれば大丈夫ということですかね。",
+            "timestamp": "2022-09-10T10:50:29.365000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FL",
+            "text": "そうですね。にがいのが苦手でして。",
+            "timestamp": "2022-09-10T10:50:48.403000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "甘いのもいいですよね。無性に飲みたくなる時がありますもの。",
+            "timestamp": "2022-09-10T10:51:11.353000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FL",
+            "text": "あと、脳が活性化してる気がします。甘いと。",
+            "timestamp": "2022-09-10T10:51:33.847000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "ですね。私も結局ブラックでも、だいたい珈琲に甘いお菓子をつけてしまいます。",
+            "timestamp": "2022-09-10T10:52:10.562000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FL",
+            "text": "あはは。確かに甘いものと合いそうです。",
+            "timestamp": "2022-09-10T10:52:33.332000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "今日はイモけんぴでした。ありがとうございました！",
+            "timestamp": "2022-09-10T10:52:52.375000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

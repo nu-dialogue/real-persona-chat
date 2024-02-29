@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7512,
+    "interlocutors": [
+        "AT",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-03T20:13:27"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "こんばんは。宜しくお願いいたします！",
+            "timestamp": "2022-08-03T20:13:42.537000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "最近健康に気をつかってやってることってありますか？",
+            "timestamp": "2022-08-03T20:14:01.306000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "そうですね、できるだけ毎日ウォーキングをするようにしています。",
+            "timestamp": "2022-08-03T20:14:11.564000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "私も毎日ジョギングしてます。どれくらいウォーキングしますか？",
+            "timestamp": "2022-08-03T20:14:46.823000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "30分程度ですねー。でも最近は暑くて子供もいるので、行けてないです。",
+            "timestamp": "2022-08-03T20:15:12.740000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "暑いと全然やる気がおきなくてかなり大変です",
+            "timestamp": "2022-08-03T20:15:51.023000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "そうですね。わが家は住宅街ですが、ジョギングできるということは公園が近いんですか？",
+            "timestamp": "2022-08-03T20:16:08.583000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "近くの小学校の外周を走ってます。私も住宅街です。",
+            "timestamp": "2022-08-03T20:16:46.247000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "なるほど。公園の外周、ちょうどよさそうですね！",
+            "timestamp": "2022-08-03T20:17:03.962000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "私も30分弱の運動なので、外周3周くらいがちょうどいいですね。",
+            "timestamp": "2022-08-03T20:17:37.962000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "いいですね。安全面でもよさそうです。",
+            "timestamp": "2022-08-03T20:17:51.453000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "ただ、最近朝から暑いので起きてすぐ外に出るのがだるいです。",
+            "timestamp": "2022-08-03T20:18:14.548000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "もう朝から、かなりの暑さですもんね。今朝もこちらはひどかったです。",
+            "timestamp": "2022-08-03T20:18:36.223000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "そうなんですよね、朝は涼しいっていう概念に疑いを持っています。",
+            "timestamp": "2022-08-03T20:18:54.066000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "以前は、夕立があってラジオ体操の時間帯は涼しかったですよねー。",
+            "timestamp": "2022-08-03T20:19:20.837000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "最近天気が不安定なところもあって、暑いか豪雨かって感じですよね",
+            "timestamp": "2022-08-03T20:19:48.343000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "異常気象が、普通になってきちゃってますよね。怖いことに。",
+            "timestamp": "2022-08-03T20:20:13.027000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "たしかに、去年まで夏でもそんなに異常気象なかったと思います",
+            "timestamp": "2022-08-03T20:20:35.715000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "コロナで人が減ったからか、去年は夕立ちとかもあってわりと普通でしたよね。",
+            "timestamp": "2022-08-03T20:21:02.201000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "はい、ありきたりな夕立という感じでそんなに大騒ぎするほどでもなかった印象です。",
+            "timestamp": "2022-08-03T20:21:31.910000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "やっぱり人が動くと、気象も変わりやすいのかもしれないですねー。",
+            "timestamp": "2022-08-03T20:21:52.097000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "明日は私の家の近くは雨のようで、気温もそれなりに下がります",
+            "timestamp": "2022-08-03T20:22:23.342000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "そうなんですね。こちらも明日、明後日は雨になりそうなので、涼しくなって欲しいです。",
+            "timestamp": "2022-08-03T20:22:46.259000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "ただ、雨が降ると今度はジョギングできないので素直に喜べないところがあります。",
+            "timestamp": "2022-08-03T20:23:11.891000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "それもそうですね。ちょうど良い気候の時期って、短いですよね。",
+            "timestamp": "2022-08-03T20:23:29.600000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "朝は曇り、それ以外は雨とか都合の良い天気だと大変うれしいです。",
+            "timestamp": "2022-08-03T20:23:48.154000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "なるほどー。夏はそうだといいですよね。あとはこれから台風がどうなるか、ですね。",
+            "timestamp": "2022-08-03T20:24:14.429000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "台風は嫌ですね、そこは引き続き天気予報をチェックしていこうと思います。",
+            "timestamp": "2022-08-03T20:24:51.567000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "そうですね。今日はありがとうございました。また宜しくお願いいたします。",
+            "timestamp": "2022-08-03T20:25:12.554000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AT",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-03T20:25:24.026000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

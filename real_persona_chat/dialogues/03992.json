@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3992,
+    "interlocutors": [
+        "CR",
+        "DA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T12:27:22.292000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DA",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T12:27:28.032000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "今年の夏は出かけましたか",
+            "timestamp": "2022-09-05T12:27:43.992000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DA",
+            "text": "この前軽井沢行きました",
+            "timestamp": "2022-09-05T12:27:53.077000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "涼しかったですか",
+            "timestamp": "2022-09-05T12:28:08.255000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DA",
+            "text": "寒いくらいでしたよ",
+            "timestamp": "2022-09-05T12:28:16.273000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "もう寒いのですね",
+            "timestamp": "2022-09-05T12:28:26.016000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DA",
+            "text": "でも都内より快適でした、、",
+            "timestamp": "2022-09-05T12:28:39.496000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "湿気がないようなイメージがあります",
+            "timestamp": "2022-09-05T12:28:52.252000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DA",
+            "text": "そうですね、一番理想的です。",
+            "timestamp": "2022-09-05T12:29:02.557000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "暑くても湿気がなければ快適に思います",
+            "timestamp": "2022-09-05T12:29:19.615000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DA",
+            "text": "どこか行きましたか？",
+            "timestamp": "2022-09-05T12:29:29.007000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "一度海にいきました",
+            "timestamp": "2022-09-05T12:29:39.250000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DA",
+            "text": "いいですね！入りましたか？",
+            "timestamp": "2022-09-05T12:29:48.302000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "8月末なので砂浜で終わりです",
+            "timestamp": "2022-09-05T12:30:02.236000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DA",
+            "text": "そうなんですねー！どの辺の海ですか？",
+            "timestamp": "2022-09-05T12:30:12.521000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "三浦海岸というところです",
+            "timestamp": "2022-09-05T12:30:24.838000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DA",
+            "text": "好きなところです！",
+            "timestamp": "2022-09-05T12:30:32.872000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "そうなんですね",
+            "timestamp": "2022-09-05T12:30:42.203000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DA",
+            "text": "海の幸が豊富ですよね",
+            "timestamp": "2022-09-05T12:30:50.026000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "駅前のスーパーで刺身とビール買ってゆっくりしました",
+            "timestamp": "2022-09-05T12:31:10.221000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DA",
+            "text": "充実してますね、電車で行ったんですか？",
+            "timestamp": "2022-09-05T12:31:24.117000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "電車です",
+            "timestamp": "2022-09-05T12:31:34.937000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね、楽しそうです。",
+            "timestamp": "2022-09-05T12:31:47.591000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "電車だとお酒OKだし",
+            "timestamp": "2022-09-05T12:32:00.394000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DA",
+            "text": "ドライブでしかいったことないので電車で行ってみたいです。",
+            "timestamp": "2022-09-05T12:32:16.479000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "軽井沢なら車で行きたいです",
+            "timestamp": "2022-09-05T12:32:32.515000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DA",
+            "text": "ですね、新幹線で行ってしまいました",
+            "timestamp": "2022-09-05T12:32:49.198000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "便利ですよね。それ。",
+            "timestamp": "2022-09-05T12:33:00.703000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DA",
+            "text": "意外と近いですよね",
+            "timestamp": "2022-09-05T12:33:09.518000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 1,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 1,
+            "proactiveness": 1,
+            "satisfaction": 1
+        }
+    ]
+}

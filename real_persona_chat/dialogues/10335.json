@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10335,
+    "interlocutors": [
+        "CX",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "よろしくお願いします。明日明後日のご予定は？",
+            "timestamp": "2022-08-12T15:30:38.750000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "よろしくお願いします。とにかくレポートを終わらせようと思っています。",
+            "timestamp": "2022-08-12T15:31:05.979000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "なるほど。そのレポートはどういう内容ですか？",
+            "timestamp": "2022-08-12T15:31:24.836000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "最近のコミュニケーションについて記事を探して考察するというものです。",
+            "timestamp": "2022-08-12T15:31:50.939000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "ふむ。その記事は見つかりましたか？",
+            "timestamp": "2022-08-12T15:32:20.788000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "それがなかなか自分の気になるものが見つからなくて。",
+            "timestamp": "2022-08-12T15:32:45.865000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "なるほど。強く興味があるのはどんなことですか？",
+            "timestamp": "2022-08-12T15:33:13.276000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "そうですね。映像作品に出てくる通信機器の使い方は気になります。",
+            "timestamp": "2022-08-12T15:33:50.519000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "ほぉ。もう少し詳しく教えていただいてもいいですか？",
+            "timestamp": "2022-08-12T15:34:11.330000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "はい。少し長くなりそうなので細かくいきますね。",
+            "timestamp": "2022-08-12T15:34:30.508000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "わかりました。でも簡単にでいいですよ。",
+            "timestamp": "2022-08-12T15:35:04.294000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "ネットで匿名で情報が書き込めるようになった時代は、顔を合わせない恋愛映画がつくられたそうです。",
+            "timestamp": "2022-08-12T15:36:02.567000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "ほぉ。ちょっと歴史的な話にもなるんですかね。",
+            "timestamp": "2022-08-12T15:36:34.862000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "今はいつでも連絡がとれるからこそ、すぐに返ってこないことへの不安がスマホを使うことで表せます。",
+            "timestamp": "2022-08-12T15:37:18.173000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "あぁ、なるほど。スマホがある時代は逆に不便というか。",
+            "timestamp": "2022-08-12T15:37:55.456000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "はい。時間に逆にしばられてしまうみたいなところがあります。",
+            "timestamp": "2022-08-12T15:38:19.965000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "若い方はすぐ既読がつかなかったりすると不安になるってニュースで見ました。",
+            "timestamp": "2022-08-12T15:38:53.405000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "未読が長いことからいじめになることもあるみたいですよね。",
+            "timestamp": "2022-08-12T15:39:31.745000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "若い方に電子機器を使わせるのも考えものですね。",
+            "timestamp": "2022-08-12T15:40:13.347000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "本当ですね。でも持っていないと逆にグループにはいれないこともありますね。",
+            "timestamp": "2022-08-12T15:40:40.154000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "そうか、それはまた難しい問題ですね。",
+            "timestamp": "2022-08-12T15:41:03.576000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "自分がそうだったので、持たせるかどうかは本当に悩みどころだと思います。",
+            "timestamp": "2022-08-12T15:41:31.335000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "なるほど。時代が進みすぎて、人類がその進化についていけていない気がしますね。",
+            "timestamp": "2022-08-12T15:42:04.751000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "きっとそういう部分もあるんでしょうね。使いこなせているのは一部かもしれないです。",
+            "timestamp": "2022-08-12T15:42:40.022000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "逆に高齢の方がネットとかを使えるようになると、もっと便利なところもあったりするんでしょうけど。",
+            "timestamp": "2022-08-12T15:43:09.929000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "ワクチンの予約は高齢者の方大変そうでしたもんね。ネットが使えたらもっと楽だったはずです。",
+            "timestamp": "2022-08-12T15:43:45.029000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "そうですね。今ひとつデジタル化しても使いきれてないところがありますよね。",
+            "timestamp": "2022-08-12T15:44:42.372000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "全員が使えてないと格差が生まれてしまいますね。",
+            "timestamp": "2022-08-12T15:45:05.021000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "デジタルデバイドというやつですね。みんなが上手く共存できればいいのですが。",
+            "timestamp": "2022-08-12T15:45:45.764000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "そうですよね。その方法をこれから考えていかないといけませんね。",
+            "timestamp": "2022-08-12T15:46:17.242000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

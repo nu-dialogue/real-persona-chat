@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9476,
+    "interlocutors": [
+        "IB",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IB",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-08T15:01:53.484000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こちらこそ、初めてでいろいろとお手数をおかけいたします。",
+            "timestamp": "2022-08-08T15:02:27.476000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IB",
+            "text": "いえいえ、全然大丈夫です。性別をお聞きしてもいいですか？",
+            "timestamp": "2022-08-08T15:02:59.787000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "はい、女性です",
+            "timestamp": "2022-08-08T15:03:14.405000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IB",
+            "text": "そうなんですね、私は男です。今日はお休みですか？",
+            "timestamp": "2022-08-08T15:03:57.510000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "はい。仕事はあるのですが、待ち時間です。<IB>様はお休みですか？",
+            "timestamp": "2022-08-08T15:05:00.565000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IB",
+            "text": "いえ、仕事中です。そんなにすることがないので合間にやってる感じです。",
+            "timestamp": "2022-08-08T15:05:35.688000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "それならば同じ状況でしょうか。私は変則的な仕事ですが待ち時間はもったいないなと思いまして。",
+            "timestamp": "2022-08-08T15:06:23.531000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IB",
+            "text": "同じような理由ですね。結構待ち時間のある仕事なんですか？",
+            "timestamp": "2022-08-08T15:07:06.880000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "はい。他の方が会議をされて、そこで決まったことをさせていただくので、待ち時間は多いこともございます。",
+            "timestamp": "2022-08-08T15:07:44.759000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IB",
+            "text": "なるほど。仕事はどんなことをやられてるんですか？",
+            "timestamp": "2022-08-08T15:08:28.749000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "教育関連のお仕事です。詳しいことはあまりお話できませんが。今日は仕事の合間なので。",
+            "timestamp": "2022-08-08T15:09:16.683000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IB",
+            "text": "そうなんですね。",
+            "timestamp": "2022-08-08T15:09:56.879000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "<IB>様のお名前拝見しまして、お料理のポトフがお好きでいらっしゃるのですか？",
+            "timestamp": "2022-08-08T15:10:31.867000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IB",
+            "text": "別にそういうわけではないのですが、この名前を考えたときにポトフが食べたかったのかもしれません…",
+            "timestamp": "2022-08-08T15:11:05.982000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "そうですか。なかなか素敵なお名前ですね！",
+            "timestamp": "2022-08-08T15:11:31.281000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IB",
+            "text": "ありがとうございます！<DN>さんはどういう意味でその名前をつけられたんですか？",
+            "timestamp": "2022-08-08T15:12:23.071000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "この名前はフランス語で黒猫という意味なんですが、1つ目には飼い猫が黒猫だからなんです。",
+            "timestamp": "2022-08-08T15:12:57.387000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IB",
+            "text": "なるほど、Slackのそういえばアイコンにも猫が！",
+            "timestamp": "2022-08-08T15:13:33.121000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "はい。お話しやすいようにと思いまして。ご覧くださりありがとうございます。",
+            "timestamp": "2022-08-08T15:13:58.321000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IB",
+            "text": "見た感じアイコンの猫は黒猫ではなさそうですが、何匹か飼ってらっしゃるんですか？",
+            "timestamp": "2022-08-08T15:14:51.964000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "はい。アイコンの猫は昨年亡くなってしまったのですが、現在は4匹です。",
+            "timestamp": "2022-08-08T15:15:20.481000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IB",
+            "text": "それはそれは、、にしてもたくさん飼ってらっしゃるんですね",
+            "timestamp": "2022-08-08T15:16:16.887000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "はい。最大７匹だったのですが、病気で亡くなってしまって、今すごく寂しいです。",
+            "timestamp": "2022-08-08T15:16:58.422000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IB",
+            "text": "そうなんですか。今の４匹の猫ちゃんは大体同じぐらいの年齢なんですか？",
+            "timestamp": "2022-08-08T15:17:43.735000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "大きい黒猫1匹はお父さんで、他の3匹は子供たちなんです。",
+            "timestamp": "2022-08-08T15:18:18.665000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IB",
+            "text": "なるほど。子供たちはまだまだ若いのでしょうか？",
+            "timestamp": "2022-08-08T15:18:42.639000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "いいえ、結構お年寄りになってまいりました。",
+            "timestamp": "2022-08-08T15:19:06.494000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IB",
+            "text": "そうなんですね。長生きしてくれるといいですね…！",
+            "timestamp": "2022-08-08T15:20:08.711000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "ありがとうございます。対話１はこれで終わりとなりますでしょうか。",
+            "timestamp": "2022-08-08T15:20:32.025000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IB",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 1,
+            "interest": 2,
+            "proactiveness": 5,
+            "satisfaction": 2
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8711,
+    "interlocutors": [
+        "AD",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-06T14:17:36.892000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-06T14:17:45.237000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日はお休みですか？",
+            "timestamp": "2022-08-06T14:17:56.916000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "私は自営業なので、ぼちぼち仕事をしています。",
+            "timestamp": "2022-08-06T14:18:17.636000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "お仕事中ですか？大変ですね。お休みも不定期なんですか？",
+            "timestamp": "2022-08-06T14:18:41.279000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "休みも自分で決めるのですが、なかなか切り替えが難しいです。",
+            "timestamp": "2022-08-06T14:19:04.950000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "自分で決められるのいいですね！予定立てやすそうです。夏休みとかも自分で決められるんですか？",
+            "timestamp": "2022-08-06T14:19:34.955000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "急に依頼がはいったりしますが、基本的には自分で決められますよ",
+            "timestamp": "2022-08-06T14:19:58.951000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "いいですねえ。今年の夏はどこか行かれたりしますか？",
+            "timestamp": "2022-08-06T14:20:18.514000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "来週、すこし涼しいところに行く予定です。",
+            "timestamp": "2022-08-06T14:20:36.549000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "涼しいところいいですね！私は暑いところに行く予定で…。涼しいところに行きたいです。",
+            "timestamp": "2022-08-06T14:21:17.962000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "暑いところというと、南の島とかですか？",
+            "timestamp": "2022-08-06T14:21:42.348000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "南の方ではないですね。京都に行くんですけど、夏は暑さが厳しいので。",
+            "timestamp": "2022-08-06T14:22:18.204000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "夏の京都は暑いですよね。前に夏に行って倒れそうになりました。",
+            "timestamp": "2022-08-06T14:22:44.203000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "カラッとした暑さならまだマシだと思いますけど、じめじめしてるから余計キツイですよね。",
+            "timestamp": "2022-08-06T14:23:05.686000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "そうですよね。京都はどのあたりに行く予定ですか？",
+            "timestamp": "2022-08-06T14:23:30.226000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "京都市内ですね。知人に会いにいくので、観光とかはあんまりしないかな。",
+            "timestamp": "2022-08-06T14:23:55.345000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "ああ。なるほど。すいません観光と勘違いをしていました。",
+            "timestamp": "2022-08-06T14:24:13.922000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "本当はあれこれ観光もしたいのですが、暑いので知人宅でのんびりしてるかもしれません。",
+            "timestamp": "2022-08-06T14:24:35.138000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "確かにそうですね！無理をして熱中症になっても困りますよね",
+            "timestamp": "2022-08-06T14:25:04.373000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "最近の暑さは本当に異常ですもんね。避暑地も例年より暑そうな気が。",
+            "timestamp": "2022-08-06T14:25:33.371000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "たぶん、昼間はあまり変わらない気がします。でも、朝晩は涼しいはず！",
+            "timestamp": "2022-08-06T14:25:59.049000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "昼間は流石に暑いですよね。でも、朝晩涼しいだけでも全然違いますよね！楽しんできてください。",
+            "timestamp": "2022-08-06T14:26:31.243000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "ありがとうございます。ちょっとでも涼しければ良いのですが",
+            "timestamp": "2022-08-06T14:26:56.770000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "最近雨も凄いので、天気も心配ですね。",
+            "timestamp": "2022-08-06T14:27:11.388000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "ほんと、極端ですよね。これも地球温暖化の影響でしょうか？",
+            "timestamp": "2022-08-06T14:27:38.427000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "だと思います。今は外で遊ぶ子供が少ない気がして。私が子供の頃と夏の暑さ違うなあと思ってます。",
+            "timestamp": "2022-08-06T14:27:57.602000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "それは私も感じます。昔は30℃を超えたら暑い！って思っていたのですが。",
+            "timestamp": "2022-08-06T14:28:30.409000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "今は30度越え当たり前ですもんね。お互い熱中症に気を付けましょう。",
+            "timestamp": "2022-08-06T14:28:48.243000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "ほんとにそうですね。京都も気を付けていってきてください。",
+            "timestamp": "2022-08-06T14:29:06.646000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AD",
+            "text": "はい！そちらも気を付けて！ありがとうございました。",
+            "timestamp": "2022-08-06T14:29:35.053000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

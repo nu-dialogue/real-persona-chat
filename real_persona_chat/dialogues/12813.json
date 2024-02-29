@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12813,
+    "interlocutors": [
+        "FE",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-12T22:01:13.557000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-12T22:01:24.316000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "最近どこか行かれました？",
+            "timestamp": "2022-09-12T22:01:26.559000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "北に向かいました。",
+            "timestamp": "2022-09-12T22:01:44.882000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "北ですか。面白い答えですね。東北とかそういうことですかね？",
+            "timestamp": "2022-09-12T22:02:31.955000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "そう思いますか？",
+            "timestamp": "2022-09-12T22:02:31.827000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "思います。え、違います？",
+            "timestamp": "2022-09-12T22:02:44.527000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "そうなんです、東北ではないですけど。",
+            "timestamp": "2022-09-12T22:02:53.495000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "どの辺に住んでるんですか？",
+            "timestamp": "2022-09-12T22:03:38.377000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "僕は神奈川に住んでます。",
+            "timestamp": "2022-09-12T22:03:50.275000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "神奈川ですか！実は私も今神奈川にいます。",
+            "timestamp": "2022-09-12T22:04:05.215000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "一時的な旅行のような感じでしょうか？",
+            "timestamp": "2022-09-12T22:04:30.555000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "いえ、研究室に所属していて、その出張できてまして。",
+            "timestamp": "2022-09-12T22:05:10.794000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "偉そうですね、地位的に。",
+            "timestamp": "2022-09-12T22:05:31.612000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "いえ全然そんなことありませんよ。自分の研究室でできないことをやらせてもらいに来てるだけです。",
+            "timestamp": "2022-09-12T22:06:24.631000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "もうすぐお帰りになられるんですか？",
+            "timestamp": "2022-09-12T22:06:48.307000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "実は先ほど来たばかりでして。",
+            "timestamp": "2022-09-12T22:07:35.990000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "神奈川はどうですか？",
+            "timestamp": "2022-09-12T22:07:50.296000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "名古屋出身なんですけど、同じ感じだなと思ってます。",
+            "timestamp": "2022-09-12T22:08:42.058000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "名古屋と似てるんですね、僕は名古屋に行ったことないのでよくわかりませんが。",
+            "timestamp": "2022-09-12T22:09:26.884000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "似てます！すごい都会！ってわけじゃないところが。",
+            "timestamp": "2022-09-12T22:10:12.106000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "大体でいいので四つの方角どこら辺にいるか教えていただけますか？",
+            "timestamp": "2022-09-12T22:11:05.037000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "神奈川の中だと北の方ですかね。",
+            "timestamp": "2022-09-12T22:11:30.651000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "横浜じゃないと僕にはわからないですね、川崎は治安悪いイメージ。",
+            "timestamp": "2022-09-12T22:12:13.021000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "横浜は遠いですね。中華街とか行きたかったんですけど。あー川崎近いです。",
+            "timestamp": "2022-09-12T22:13:04.138000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "中華街って魅力的に見えますか？",
+            "timestamp": "2022-09-12T22:13:26.652000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "見えますよ！小籠包とか食べたいです。",
+            "timestamp": "2022-09-12T22:13:51.156000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "ホントに美味しい中華の味を知らないのかもしれないです。",
+            "timestamp": "2022-09-12T22:14:12.323000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "それは私もそうかもしれません。一回おいしいもの食べてみたいだけってのもあります。",
+            "timestamp": "2022-09-12T22:14:42.583000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "最近冷凍餃子に失望したせいかもしれません。",
+            "timestamp": "2022-09-12T22:15:20.951000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9042,
+    "interlocutors": [
+        "CT",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CT",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-07T10:21:34.654000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-07T10:21:46.781000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CT",
+            "text": "<CA>さんは思い出の観光地ってありますか？",
+            "timestamp": "2022-08-07T10:22:03.435000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "思い出の観光地、家族のエピソードの思い出なんですが、あります",
+            "timestamp": "2022-08-07T10:22:44.711000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CT",
+            "text": "どんな所だろう？",
+            "timestamp": "2022-08-07T10:23:04.405000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "香川県にある、階段が長い　こんぴらさんです",
+            "timestamp": "2022-08-07T10:23:33.474000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CT",
+            "text": "四国ですね！どんなところが思い出に残っていますか？",
+            "timestamp": "2022-08-07T10:24:01.739000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "亡くなった祖父が生前祖母と一緒にツアーに行った場所で、その時のエピソードが祖父の思い出の一つなんです",
+            "timestamp": "2022-08-07T10:25:36.153000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね。どんなエピソードなんだろう？",
+            "timestamp": "2022-08-07T10:26:15.239000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "祖父はマイペースな人なのですが、ツアーの記念撮影直前にあんたこのツアーの人じゃないよと言われたらしく",
+            "timestamp": "2022-08-07T10:27:33.814000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CT",
+            "text": "ほんとマイペースな人なんですね！面白いです。",
+            "timestamp": "2022-08-07T10:28:05.331000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "別ツアーの記念撮影に紛れ込んだようで。祖父が亡き後ここを歩いたんだなあと思いながら観光してきました",
+            "timestamp": "2022-08-07T10:29:12.717000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CT",
+            "text": "それは良い旅になりましたね。懐かしい気分になったのではないですか？",
+            "timestamp": "2022-08-07T10:30:00.223000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "とってもなりました。階段も長いし、いろんなことを考えてしみじみしました。",
+            "timestamp": "2022-08-07T10:30:51.861000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CT",
+            "text": "今調べたら、とても階段が長いところなんですね。私も行ってみたくなりました",
+            "timestamp": "2022-08-07T10:31:31.228000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "運動にもなるし、登って行った後の眺めもとっても綺麗でした！",
+            "timestamp": "2022-08-07T10:32:27.745000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CT",
+            "text": "良い思い出を聞かせてくれてありがとう。",
+            "timestamp": "2022-08-07T10:32:59.527000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "こちらこそ聞いてくださってありがとうございます。<CT>さんの思い出の観光地はどこですか？",
+            "timestamp": "2022-08-07T10:33:47.034000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CT",
+            "text": "だいぶ前になりますが、屋久島は良かったですね！",
+            "timestamp": "2022-08-07T10:34:14.735000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "屋久島！！！私すごく行きたいところです！！！",
+            "timestamp": "2022-08-07T10:34:58.823000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CT",
+            "text": "なんだろう。言葉ではなかなか言い表せないのですが、素晴らしい所でした。",
+            "timestamp": "2022-08-07T10:35:38.915000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "縄文杉見に行かれたんですか！？",
+            "timestamp": "2022-08-07T10:36:14.834000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CT",
+            "text": "そのつもりだったのですが、行く直前に大雨で道が通れなくなっちゃったんですよね。",
+            "timestamp": "2022-08-07T10:36:51.137000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "もしかして、令和元年頃に行かれました？そのニュース見ました！",
+            "timestamp": "2022-08-07T10:37:46.997000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CT",
+            "text": "実はかなり前の話なんです。縄文杉は見れなかったけど、屋久杉はたくさん見ることができましたよ！",
+            "timestamp": "2022-08-07T10:38:32.652000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "屋久杉、神秘的ですよね。",
+            "timestamp": "2022-08-07T10:39:39.231000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CT",
+            "text": "屋久杉の森の中にいると、もののけ姫に出てくる、こだまが出てきそうです。",
+            "timestamp": "2022-08-07T10:40:36.400000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "写真が撮れるって聞きますよね！本当にどこかにいるんじゃないだろうかって思います",
+            "timestamp": "2022-08-07T10:41:00.625000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CT",
+            "text": "もし機会があれば行ってみてください！おすすめですよ！",
+            "timestamp": "2022-08-07T10:41:37.183000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "自然大好きなのでいつか本当に行ってみたいです！ありがとうございます！",
+            "timestamp": "2022-08-07T10:41:56.564000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

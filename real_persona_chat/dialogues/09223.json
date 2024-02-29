@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 9223,
+    "interlocutors": [
+        "AO",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-09T23:10:21.911000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしく",
+            "timestamp": "2022-08-09T23:10:26"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "ところで、ご兄弟はいらっしゃいますか？",
+            "timestamp": "2022-08-09T23:10:37.053000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "かつて妹がいたような記憶が",
+            "timestamp": "2022-08-09T23:10:48.347000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "かつてって！どういうことですか？",
+            "timestamp": "2022-08-09T23:10:57.535000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "いやN年クラスであっていないので",
+            "timestamp": "2022-08-09T23:11:10.486000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "そんなに！家族で集まったりしないんですか？",
+            "timestamp": "2022-08-09T23:11:34.956000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "しないですね",
+            "timestamp": "2022-08-09T23:11:40.260000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "えっと、今はご実家には住んでらっしゃらない？",
+            "timestamp": "2022-08-09T23:11:54.989000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "今も何も、こちらはN十年クラスで",
+            "timestamp": "2022-08-09T23:12:08.249000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "うん？住んでいる？",
+            "timestamp": "2022-08-09T23:12:32.258000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "N十年離れている、１６歳で家を出ました",
+            "timestamp": "2022-08-09T23:12:44.184000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "早かったんですね！１６ってまだ学生ですよね？",
+            "timestamp": "2022-08-09T23:12:56.850000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "はい、寮生活ってやつです",
+            "timestamp": "2022-08-09T23:13:08.032000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "なるほどー！寮生活は、少し憧れます！",
+            "timestamp": "2022-08-09T23:13:19.753000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "いやね、あんまりいいもんでもないですよ",
+            "timestamp": "2022-08-09T23:13:35.773000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "あれ？そうなんですか？楽しそうなのに。",
+            "timestamp": "2022-08-09T23:13:42.837000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "距離が近いとね、どうしても、見たくないものも見えるのです",
+            "timestamp": "2022-08-09T23:13:56.669000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "見たくないもの。ちょっと聞いてみたい気がします！",
+            "timestamp": "2022-08-09T23:14:07.642000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "いや、たとえばですが、付き合ったらわかったとか、同棲したら気づいたとか、そういうのありませんか",
+            "timestamp": "2022-08-09T23:14:33.252000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "あー、よく言いますよね！",
+            "timestamp": "2022-08-09T23:14:42.483000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "彼氏彼女でもそうなのに、ましてや友人、赤の他人クラスだと",
+            "timestamp": "2022-08-09T23:15:03.302000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "たしかに、赤の他人といわれたら、そのとおりですね。同じ部屋に何人いたんですか？",
+            "timestamp": "2022-08-09T23:15:20.286000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "個室でしたが、それでも距離は近いので",
+            "timestamp": "2022-08-09T23:15:34.249000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "そっかあ。寮生活は何年？",
+            "timestamp": "2022-08-09T23:15:44.453000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "高校３年間です",
+            "timestamp": "2022-08-09T23:15:57.175000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "そうだったんですね！高校卒業後は一人暮らしを？",
+            "timestamp": "2022-08-09T23:16:05.107000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "はい、１人暮らしでした",
+            "timestamp": "2022-08-09T23:16:14.087000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "それじゃ、一気に羽が伸ばせましたね！",
+            "timestamp": "2022-08-09T23:16:30.360000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "今考えたらこのときも寮なりに行ってた方がよかったかなって",
+            "timestamp": "2022-08-09T23:16:47.023000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AO",
+            "text": "そうですね！また詳しくお話聞かせてください！ではー。",
+            "timestamp": "2022-08-09T23:17:04.195000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 2,
+            "comprehension": 1,
+            "familiarity": 1,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 1
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

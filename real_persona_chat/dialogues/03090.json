@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3090,
+    "interlocutors": [
+        "BJ",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BJ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T17:58:06.691000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T17:58:08.053000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BJ",
+            "text": "子供の時になりたかったものはなんですか",
+            "timestamp": "2022-08-25T17:58:21.307000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "バレリーナになりたかったです",
+            "timestamp": "2022-08-25T17:58:29.365000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BJ",
+            "text": "へー！やってたんですか",
+            "timestamp": "2022-08-25T17:58:40.646000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "3歳からやってました",
+            "timestamp": "2022-08-25T17:58:45.730000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BJ",
+            "text": "それはすごい。何年間？",
+            "timestamp": "2022-08-25T17:58:58.779000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "12年とかです。中学で辞めてしまいました",
+            "timestamp": "2022-08-25T17:59:09.633000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BJ",
+            "text": "もったいない気がしますが、なんでやめてしまったのですか",
+            "timestamp": "2022-08-25T17:59:24.085000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "腰を骨折してしまったのですが、バレエの先生に続けろと言われ心が折れてしまいました",
+            "timestamp": "2022-08-25T17:59:49.015000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BJ",
+            "text": "腰！それはスパルタな先生ですね",
+            "timestamp": "2022-08-25T18:00:04.687000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "数々の賞を取っているとそうなるんだな〜と今では思いますが、当時は辞めてやる！でしたね",
+            "timestamp": "2022-08-25T18:00:39.178000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BJ",
+            "text": "紆余曲折あったのですね。今後はもう携わらないのですか",
+            "timestamp": "2022-08-25T18:00:59.537000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "そうですね、体も硬くなったのでもうやらないです",
+            "timestamp": "2022-08-25T18:01:42.764000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BJ",
+            "text": "そうなんですね。バレリーナ、かっこいいです",
+            "timestamp": "2022-08-25T18:01:59.032000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "小さい頃の夢はなんでしたか？",
+            "timestamp": "2022-08-25T18:02:08.787000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BJ",
+            "text": "宇宙飛行士です",
+            "timestamp": "2022-08-25T18:02:17.962000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "宇宙に興味があったんですね！",
+            "timestamp": "2022-08-25T18:02:24.512000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BJ",
+            "text": "なんでもいいから宇宙に行きたかったです",
+            "timestamp": "2022-08-25T18:02:33.598000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "最近宇宙に行けるかもなんて話がありますし、行けると良いですね",
+            "timestamp": "2022-08-25T18:02:51.530000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BJ",
+            "text": "宇宙人信じますか？",
+            "timestamp": "2022-08-25T18:03:02.765000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "信じていないです",
+            "timestamp": "2022-08-25T18:03:09.224000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BJ",
+            "text": "なぜですか",
+            "timestamp": "2022-08-25T18:03:15.927000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "ニュースなどでやっているのをフェイクニュースだと思い込んでいるからです",
+            "timestamp": "2022-08-25T18:03:34.884000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BJ",
+            "text": "疑い深いんですね",
+            "timestamp": "2022-08-25T18:03:46.124000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "宇宙人信じますか？",
+            "timestamp": "2022-08-25T18:03:55.743000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BJ",
+            "text": "いたら面白いのになとは思います。微生物程度でも",
+            "timestamp": "2022-08-25T18:04:18.842000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "私完全に人の形をしたアレを想像していました。微生物程度ならいる気がしますね",
+            "timestamp": "2022-08-25T18:04:52.607000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BJ",
+            "text": "人の形をしたアレがいたらもうテンションぶち上がりですよ",
+            "timestamp": "2022-08-25T18:05:10.255000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "面白い人ですね笑",
+            "timestamp": "2022-08-25T18:05:19.010000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

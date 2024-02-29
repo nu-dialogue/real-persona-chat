@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3125,
+    "interlocutors": [
+        "BF",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-26T10:52:52.426000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-26T10:52:56.499000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "どこか行ってみたいところってありますか？日本でも海外でも。",
+            "timestamp": "2022-08-26T10:53:30.819000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "友達がカナダに行っていて、行きたいと思っています。",
+            "timestamp": "2022-08-26T10:53:53.857000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "カナダかー！いいですね。自然が豊そう。",
+            "timestamp": "2022-08-26T10:54:18.523000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "雄大すぎました。インスタで流れてきて。",
+            "timestamp": "2022-08-26T10:54:44.240000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "お友達は留学とかですか？それとも向こうに住んでいる感じ？",
+            "timestamp": "2022-08-26T10:55:11.062000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "いえ。お金持ちなので一人で旅行していますね。あなたはどこか行きたいところあるのですか？",
+            "timestamp": "2022-08-26T10:55:33.686000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "羨ましいー！私はオーストラリアに行きたいなーって思ってます。",
+            "timestamp": "2022-08-26T10:55:58.658000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "オーストラリアいいですね。あそこも自然すごいです。",
+            "timestamp": "2022-08-26T10:56:20.455000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "大学生の時に一度行ったんですが、すごく楽しかったので、また行きたいなーって。",
+            "timestamp": "2022-08-26T10:56:51.236000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "いいですねー。ごはんとかはおいしかったですか？",
+            "timestamp": "2022-08-26T10:57:06.404000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "美味しかったですよ！カンガルーとか、ワニとか、ダチョウの肉も食べました。",
+            "timestamp": "2022-08-26T10:57:30.767000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "えぇ！全部食べたことないです。何が一番おいしかったですか？",
+            "timestamp": "2022-08-26T10:57:55.465000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "カンガルーかなあ。結構筋肉質な感じで。",
+            "timestamp": "2022-08-26T10:58:30.220000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "ほうほう。確かに足の筋肉とかすごそう。",
+            "timestamp": "2022-08-26T10:58:57.840000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "すごいですよね！カンガルーのパンチって本当に痛いらしいですよ。",
+            "timestamp": "2022-08-26T10:59:55.144000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "怖い。なんかカンガルーがグローブしてパンチするおもちゃありますもんね。",
+            "timestamp": "2022-08-26T11:00:24.605000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "ありますね！私も当時、カンガルーがボクサーの格好をしてるぬいぐるみをお土産で買いました。",
+            "timestamp": "2022-08-26T11:00:57.820000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "私も思い出したらオーストラリアのお土産で友達からもらった気がします。同じの思い浮かべているかも。",
+            "timestamp": "2022-08-26T11:02:33.486000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "あはは！そういえばコアラも抱っこした記憶があります。",
+            "timestamp": "2022-08-26T11:02:00.087000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "コアラ！かわいかったですか？",
+            "timestamp": "2022-08-26T11:02:12.475000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "はい、とても！でも腕をガシッと掴まれて結構痛かった記憶が。",
+            "timestamp": "2022-08-26T11:02:40.187000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "え、怖い。握力強そうですもんね。",
+            "timestamp": "2022-08-26T11:02:53.694000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "そうなんですよ！一度つかんだらなかなか離してくれなくて！",
+            "timestamp": "2022-08-26T11:03:47.815000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "やばいですね。重さはどれくらいなんでしょう。",
+            "timestamp": "2022-08-26T11:04:11.232000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "うーん、確か結構軽かった気がします。楽々抱っこできたので。",
+            "timestamp": "2022-08-26T11:04:51.668000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "そうなんですね。意外でした。他に何か動物にあいました？",
+            "timestamp": "2022-08-26T11:05:16.506000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "あとはダチョウとかウォンバットっていう動物も見ましたよー！",
+            "timestamp": "2022-08-26T11:05:42.920000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "いいですねー。日本ではなかなか見れなさそう！",
+            "timestamp": "2022-08-26T11:06:02.110000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

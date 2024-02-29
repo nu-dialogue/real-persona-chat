@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1069,
+    "interlocutors": [
+        "AS",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:32:18.775000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:32:22.739000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "今日のお昼の予定はありますか？",
+            "timestamp": "2022-08-12T08:32:46.159000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "いえ、考え中です",
+            "timestamp": "2022-08-12T08:32:53.159000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "私も同じくです",
+            "timestamp": "2022-08-12T08:33:04.757000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "天気が曇りなので暑くはなさそうです。外も",
+            "timestamp": "2022-08-12T08:33:24.023000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "今日はずっと熱くなりそうです",
+            "timestamp": "2022-08-12T08:33:58.547000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "そうですか。サイクリングしようかなと思ってます。",
+            "timestamp": "2022-08-12T08:34:30.699000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "サイクリングいいですね！",
+            "timestamp": "2022-08-12T08:34:37.194000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "暑かったらしませんが",
+            "timestamp": "2022-08-12T08:34:39.360000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "自分も以前はやってました",
+            "timestamp": "2022-08-12T08:34:58.984000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "いいですね。お好きですか？",
+            "timestamp": "2022-08-12T08:35:07.420000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "風が気持ちよくて好きでした",
+            "timestamp": "2022-08-12T08:35:53.728000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "自転車こだわってましたか？",
+            "timestamp": "2022-08-12T08:36:04.936000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "いや、通学用のママチャリでした",
+            "timestamp": "2022-08-12T08:36:19.041000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "なるほど。それもいいかもしれません",
+            "timestamp": "2022-08-12T08:36:29.845000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "坂道を伴うような道は厳しかったです",
+            "timestamp": "2022-08-12T08:36:57.170000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "それは大変ですね。今はされませんか？",
+            "timestamp": "2022-08-12T08:37:10.434000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "今は授業とかが忙しくてできてないです",
+            "timestamp": "2022-08-12T08:37:31.720000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "そうでしたか。これから涼しくなるといい季節になります",
+            "timestamp": "2022-08-12T08:37:56.704000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "そうですね～　９月に気温がある程度下がれば行ってみようかなと思います",
+            "timestamp": "2022-08-12T08:38:39.950000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "いいですね。私は近くに公園があって春秋はきれいなのでよく走ります",
+            "timestamp": "2022-08-12T08:39:16.768000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "ちょっと遠くのところに広い公園があるので、そこ目標に行ってみようかな",
+            "timestamp": "2022-08-12T08:40:14.875000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "いいですね、ぜひ",
+            "timestamp": "2022-08-12T08:40:20.407000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "いい運動にもなりますし",
+            "timestamp": "2022-08-12T08:40:49.534000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "はい、スポーツの秋っていいますしね",
+            "timestamp": "2022-08-12T08:41:03.155000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "運動不足気味でちょっと体重が",
+            "timestamp": "2022-08-12T08:41:51.876000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "太り気味ですか？",
+            "timestamp": "2022-08-12T08:42:04.499000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "そうなんです。",
+            "timestamp": "2022-08-12T08:42:40.483000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "それなら、さらにいい機会です",
+            "timestamp": "2022-08-12T08:42:47.175000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

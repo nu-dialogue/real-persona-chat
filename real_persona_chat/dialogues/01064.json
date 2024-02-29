@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1064,
+    "interlocutors": [
+        "BB",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BB",
+            "text": "こんにちは、<BB>です。",
+            "timestamp": "2022-08-12T07:47:53.176000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは、<CA>です。",
+            "timestamp": "2022-08-12T07:48:01.063000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BB",
+            "text": "ちなみに、音楽はお好きですか？",
+            "timestamp": "2022-08-12T07:48:12.886000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "音楽大好きです！ジャンル問わず好きなものがたくさんで。<BB>さんは？",
+            "timestamp": "2022-08-12T07:48:37.544000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BB",
+            "text": "私も結構幅広く好きで、自分で演奏するのも好きです！",
+            "timestamp": "2022-08-12T07:49:01.324000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "わあ！なんの楽器ですか！？",
+            "timestamp": "2022-08-12T07:49:20.947000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BB",
+            "text": "ピアノとサックスです。全然上手ではありませんけど。",
+            "timestamp": "2022-08-12T07:49:36.010000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "えーーー！！！素敵だしかっこいい！",
+            "timestamp": "2022-08-12T07:50:01.290000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BB",
+            "text": "ありがとうございます。サックスは大人になってからなので、特に全然うまくはないんですけどね。",
+            "timestamp": "2022-08-12T07:50:32.812000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "この組み合わせって、もしかしてジャズも聞かれますか？",
+            "timestamp": "2022-08-12T07:50:46.724000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BB",
+            "text": "ジャズも好きです！詳しいわけではありませんが、そのリズムとかが心地よくて。",
+            "timestamp": "2022-08-12T07:51:13.668000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "あのラフな感じが心地いいですよね。私も詳しくはないけど好きで。ピアノは小さな頃からですか？",
+            "timestamp": "2022-08-12T07:52:20.624000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BB",
+            "text": "リズムの刻み方が適当でも、様になってかっこいいですよね。ピアノは小学校からです！",
+            "timestamp": "2022-08-12T07:52:45.624000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "わあ！！私もピアノじゃなくてエレクトーンなんですけど、同じ鍵盤楽器ってうれしいです！",
+            "timestamp": "2022-08-12T07:53:21.249000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BB",
+            "text": "エレクトーンって、足も忙しくてもっと難しいイメージが！素敵です！",
+            "timestamp": "2022-08-12T07:53:48.670000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "音楽教室ってヤマハですか？",
+            "timestamp": "2022-08-12T07:54:08.947000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BB",
+            "text": "ピアノは個人の先生で、サックスはヤマハでした。",
+            "timestamp": "2022-08-12T07:54:28.950000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "ピアノって、一番最初に習うときどんな感じで教わるんですか？",
+            "timestamp": "2022-08-12T07:55:12.029000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BB",
+            "text": "昔すぎて記憶が薄れていますが、まずは楽譜の読み方を習いましたね。",
+            "timestamp": "2022-08-12T07:56:04.302000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "読み方もそういえば習いましたね！懐かしいー！",
+            "timestamp": "2022-08-12T07:56:42.665000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BB",
+            "text": "実際に鍵盤を押すまでにちょっと時間をかけて勉強してた記憶があります。",
+            "timestamp": "2022-08-12T07:57:03.131000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "確かにきちんと踏まえて置いたほうがいいことたくさんありますものね",
+            "timestamp": "2022-08-12T07:57:29.676000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BB",
+            "text": "それにちょっと厳しめの先生だったので。",
+            "timestamp": "2022-08-12T07:57:42.697000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "おっ！爪を伸ばしてると、切ろうね！って感じでしょうか？",
+            "timestamp": "2022-08-12T07:58:09.436000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BB",
+            "text": "レッスン後も残って、10回練習して帰るとか、色々ルールが多い教室でした。",
+            "timestamp": "2022-08-12T07:58:32.038000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "結構スパルタですね！その分身につきそうだなあ。",
+            "timestamp": "2022-08-12T07:59:01.335000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BB",
+            "text": "最初はそのスタイルが嫌で、ピアノ行きたくない！とか言ってましたけどね。",
+            "timestamp": "2022-08-12T07:59:24.952000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "あるあるですね。厳しいと確かに足が重くなるかもです。",
+            "timestamp": "2022-08-12T07:59:54.542000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BB",
+            "text": "でも大人になった今もちゃんと弾けてるので、その先生には感謝してます。",
+            "timestamp": "2022-08-12T08:00:14.794000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "まだ色々お話聞きたくて名残惜しいです。またお話ししましょう！",
+            "timestamp": "2022-08-12T08:00:44.902000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6340,
+    "interlocutors": [
+        "HJ",
+        "HB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HJ",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-04T15:41:47.863000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HB",
+            "text": "こんにちはー。",
+            "timestamp": "2022-10-04T15:41:55.003000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HJ",
+            "text": "晩御飯の予定は？",
+            "timestamp": "2022-10-04T15:42:03.110000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HB",
+            "text": "まだですねー。あなたは？",
+            "timestamp": "2022-10-04T15:42:11.735000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HJ",
+            "text": "昼ごはん食べていないので、どこか食べに行こうかなと。",
+            "timestamp": "2022-10-04T15:42:47.184000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。ラーメンとか？",
+            "timestamp": "2022-10-04T15:42:56.368000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HJ",
+            "text": "ラーメンありですね。食べたくなってきました。",
+            "timestamp": "2022-10-04T15:43:13.529000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HB",
+            "text": "何ラーメンが好きですか？",
+            "timestamp": "2022-10-04T15:43:34.509000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HJ",
+            "text": "難しい。魚介系とか？",
+            "timestamp": "2022-10-04T15:43:52.034000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HB",
+            "text": "ありですね。わたしもなんでもいけます。",
+            "timestamp": "2022-10-04T15:44:02.868000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HJ",
+            "text": "何でもおいしいですよね。近くに美味しいラーメン屋があって。",
+            "timestamp": "2022-10-04T15:44:16.839000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。魚介系ですか？",
+            "timestamp": "2022-10-04T15:44:25.851000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HJ",
+            "text": "はい。かなり有名な店で。",
+            "timestamp": "2022-10-04T15:44:38.775000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。行列できますか？",
+            "timestamp": "2022-10-04T15:44:53.336000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HJ",
+            "text": "もちろんです。でも少し時間ずらしていったら大丈夫です。",
+            "timestamp": "2022-10-04T15:45:07.843000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HB",
+            "text": "近所だったらそれができるのでいいですね。",
+            "timestamp": "2022-10-04T15:45:19.930000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HJ",
+            "text": "そうなんですよ。並ぶのは少し大変ですね。",
+            "timestamp": "2022-10-04T15:45:32.479000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HB",
+            "text": "おなか減っている状態で並ぶのは地獄ですよね。",
+            "timestamp": "2022-10-04T15:45:46.823000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HJ",
+            "text": "そうなんです。店からいい香りが流れてくるし。",
+            "timestamp": "2022-10-04T15:46:00.541000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HB",
+            "text": "でもラーメンって回転率いいですよね。",
+            "timestamp": "2022-10-04T15:46:19.427000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HJ",
+            "text": "そうですね。麺の太さとかにもよるかもだけど。",
+            "timestamp": "2022-10-04T15:46:34.799000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HB",
+            "text": "確かに太めと細目どちらが好きですか？",
+            "timestamp": "2022-10-04T15:46:48.057000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HJ",
+            "text": "難しいー。どっちも好きですが、普通でいいかなぁ。",
+            "timestamp": "2022-10-04T15:47:02.511000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HB",
+            "text": "私は太め派です。",
+            "timestamp": "2022-10-04T15:47:17.615000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HJ",
+            "text": "いいですね。ガッツリって感じですか。",
+            "timestamp": "2022-10-04T15:47:27.648000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HB",
+            "text": "はい。食いしん坊ですね。",
+            "timestamp": "2022-10-04T15:47:36.323000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HJ",
+            "text": "あはは。冬に向けてため込んでいるんですね。",
+            "timestamp": "2022-10-04T15:47:55.535000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HB",
+            "text": "そうかも。動物みたい。",
+            "timestamp": "2022-10-04T15:48:04.122000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HJ",
+            "text": "冬はこたつで丸くなるですね。",
+            "timestamp": "2022-10-04T15:48:16.238000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HB",
+            "text": "まちがいない。",
+            "timestamp": "2022-10-04T15:48:22.018000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

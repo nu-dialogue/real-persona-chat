@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4238,
+    "interlocutors": [
+        "DL",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんにちわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-09T14:39:57.234000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-09T14:40:03"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "漫画とかはよく読まれますか？",
+            "timestamp": "2022-09-09T14:40:15.279000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "ほぼ読まないですね",
+            "timestamp": "2022-09-09T14:40:36"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "では、最近何かハマっていることはありますか？",
+            "timestamp": "2022-09-09T14:40:52.462000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "ティックトックかもしれません",
+            "timestamp": "2022-09-09T14:41:08"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "おぉ、色々公開されているのですか？それとも見る専門ですか？",
+            "timestamp": "2022-09-09T14:41:36.366000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "見る専門です",
+            "timestamp": "2022-09-09T14:41:45"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "何か最近面白かった動画はありましたか？",
+            "timestamp": "2022-09-09T14:42:02.686000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "音楽ものとか、エクセルの裏技も良いです",
+            "timestamp": "2022-09-09T14:42:25"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "面白そうですね！見たことがないので興味深いです。",
+            "timestamp": "2022-09-09T14:42:47.540000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "暇つぶしに見ていまします",
+            "timestamp": "2022-09-09T14:43:01"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "youtubeとかtwitterとかと同じですね。時間泥棒ですよね。あれって。",
+            "timestamp": "2022-09-09T14:43:29.142000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "YouTubeよりリコメンドで降ってくるので危険です笑",
+            "timestamp": "2022-09-09T14:43:56"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "あはは。それだけ賑わっている感じですかね！",
+            "timestamp": "2022-09-09T14:44:19.133000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "自分の趣向が完全に吸い取られます",
+            "timestamp": "2022-09-09T14:44:41"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "わかります！最初はちょっとだけのつもりが気付けばって感じですね。",
+            "timestamp": "2022-09-09T14:45:08.893000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "ついつい好きなものの見る秒数が長くなるのです",
+            "timestamp": "2022-09-09T14:45:30"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "毎日見てしまう感じですか？",
+            "timestamp": "2022-09-09T14:45:55.373000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "一回は見てると思います",
+            "timestamp": "2022-09-09T14:46:12"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "あはは。夢中ですね。私も興味が出てきました。おすすめの投稿者さんとかはいますか？",
+            "timestamp": "2022-09-09T14:46:43.946000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "何かみればすぐにリコメンドの傾向によって行きます",
+            "timestamp": "2022-09-09T14:47:16"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "見た動画に対して、これどうよ？って感じでおすすめが表示される感じですか？",
+            "timestamp": "2022-09-09T14:47:57.128000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "どんどんスワイプしていくのですがその映像がリコメンド映像みたいです",
+            "timestamp": "2022-09-09T14:48:41"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "面白そうですね。主に見るのはスマホでですか？",
+            "timestamp": "2022-09-09T14:48:57.962000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "はい、多分スマホだけかな",
+            "timestamp": "2022-09-09T14:49:12"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "PCでは見れないんでしたっけ？",
+            "timestamp": "2022-09-09T14:49:29.129000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "アプリがなかったような",
+            "timestamp": "2022-09-09T14:49:39"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "なるほど。ではまず、私の場合はアプリのインストールからですね。",
+            "timestamp": "2022-09-09T14:49:58.482000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "ハマらないようお気をつけて",
+            "timestamp": "2022-09-09T14:50:13"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

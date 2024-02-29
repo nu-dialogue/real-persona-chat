@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7321,
+    "interlocutors": [
+        "IA",
+        "IB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IA",
+            "text": "宜しくお願いします！",
+            "timestamp": "2022-08-02T15:00:46.701000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IB",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-02T15:01:04.767000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IA",
+            "text": "性別をおききしても宜しいですか？",
+            "timestamp": "2022-08-02T15:01:48.596000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IB",
+            "text": "はい。男です。<IA>さんはどちらでしょうか？",
+            "timestamp": "2022-08-02T15:02:29.704000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IA",
+            "text": "女性です！20代です！<IB>さんは？",
+            "timestamp": "2022-08-02T15:03:32.473000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IB",
+            "text": "私も20代です！仕事中に片手間で今やってます。",
+            "timestamp": "2022-08-02T15:04:33.853000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IA",
+            "text": "同年代嬉しいです！片手間なんてすごいですね！",
+            "timestamp": "2022-08-02T15:05:01.523000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IB",
+            "text": "もう今日やることは終わっちゃったんですよ。あんまり忙しくなくて。",
+            "timestamp": "2022-08-02T15:06:04.143000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IA",
+            "text": "お仕事早いんですね！ところで、ＰＣ使われてるなら事務さんとかですか？",
+            "timestamp": "2022-08-02T15:07:21.688000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IB",
+            "text": "広報みたいなことをやってます。ブログ書いたりとか企画したりとか。<IA>さんは何かやられてますか？",
+            "timestamp": "2022-08-02T15:08:17.549000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IA",
+            "text": "広報興味あります、私は雑貨メーカーの営業してたんですが先月退職しました",
+            "timestamp": "2022-08-02T15:09:14.258000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IB",
+            "text": "退職！それはお疲れ様でした。営業の仕事はとても大変そう…",
+            "timestamp": "2022-08-02T15:10:50.442000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IA",
+            "text": "ありがとうございます…！営業はあまり向いていなかったです。",
+            "timestamp": "2022-08-02T15:12:13.375000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IB",
+            "text": "大変だし難しい仕事ですよね…次はどんな仕事をやってみたいとかあるんですか？",
+            "timestamp": "2022-08-02T15:13:11.343000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IA",
+            "text": "フリーで広告作ったりしたいなと、考えております！",
+            "timestamp": "2022-08-02T15:14:16.023000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IB",
+            "text": "おお、いいですね！デザイン勉強されてるんですか？",
+            "timestamp": "2022-08-02T15:14:59.310000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IA",
+            "text": "昔から絵を描くのは好きで､､､知人の宣伝物など作成したりしながら勉強中です",
+            "timestamp": "2022-08-02T15:15:47.129000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IB",
+            "text": "なるほど、いいじゃないですか！うまくいくよう応援してます！",
+            "timestamp": "2022-08-02T15:16:32.528000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IA",
+            "text": "励みになります！ありがとうございます。広報のお仕事についてお聞きしても…？",
+            "timestamp": "2022-08-02T15:17:34.151000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IB",
+            "text": "はい、もちろんです！",
+            "timestamp": "2022-08-02T15:17:47.316000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IA",
+            "text": "ありがとうございます！とはいってもよく知らない業種ではあるんですが…商品企画などですか？",
+            "timestamp": "2022-08-02T15:18:54.934000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IB",
+            "text": "あーそういう感じではなくて、会社のPR的な感じですね",
+            "timestamp": "2022-08-02T15:19:12.962000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IA",
+            "text": "なるほど、ブログも書いたりするんですね...！",
+            "timestamp": "2022-08-02T15:20:13.400000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IB",
+            "text": "採用に今のところ力入れてて、内情が見えるように、入りたいと思ってもらえるような宣伝？をブログで。",
+            "timestamp": "2022-08-02T15:21:20.593000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IA",
+            "text": "ほ～、わかってきました。会社さんから依頼を受けて宣伝という形ですか？",
+            "timestamp": "2022-08-02T15:24:01.162000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IB",
+            "text": "自社のPRですね。なので他にもデザイナーと相談してウェブサイトリニューアルしたりとかもやります。",
+            "timestamp": "2022-08-02T15:24:55.852000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IA",
+            "text": "そうなんですね。じゃあ広告や宣伝に関してよく経験されてる",
+            "timestamp": "2022-08-02T15:26:20.285000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IB",
+            "text": "というわけでもなく…なんとなくこんな感じかなーと手探りで進めてる状態です。",
+            "timestamp": "2022-08-02T15:27:14.133000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IA",
+            "text": "広報されて、長いんですか？",
+            "timestamp": "2022-08-02T15:29:17.278000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IB",
+            "text": "そろそろ2年ぐらい経ちますね。",
+            "timestamp": "2022-08-02T15:30:00.336000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IB",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 3
+        }
+    ]
+}

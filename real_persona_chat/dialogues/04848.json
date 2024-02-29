@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4848,
+    "interlocutors": [
+        "BV",
+        "EJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T18:16:49.117000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EJ",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T18:16:55.768000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "普段はなにされてますか？",
+            "timestamp": "2022-09-15T18:17:05.558000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EJ",
+            "text": "趣味でということですか？",
+            "timestamp": "2022-09-15T18:17:22.361000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "お仕事行ってたり家にいてたり、休みの日ってどう過ごしてるのかなぁと。",
+            "timestamp": "2022-09-15T18:17:52.902000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EJ",
+            "text": "なるほど！普段は家で作業することが多いです。休みはたまに友人とお茶するくらいですね。",
+            "timestamp": "2022-09-15T18:18:16.860000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "そうなんですね！カフェとかよく行きますか？",
+            "timestamp": "2022-09-15T18:18:40.639000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EJ",
+            "text": "はい！先週末も友人と行ってきました！",
+            "timestamp": "2022-09-15T18:19:01.231000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "いいですね！近くにカフェがないので久しぶりに行きたいです。",
+            "timestamp": "2022-09-15T18:19:20.153000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EJ",
+            "text": "私の家の近くにも少ないんですよね。",
+            "timestamp": "2022-09-15T18:19:36.700000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "そうなんですか。では少し遠くに出るんですね。",
+            "timestamp": "2022-09-15T18:20:00.807000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EJ",
+            "text": "そうですね。よく使う駅の周りに色々あるので、そこでよくお茶したりしてます。",
+            "timestamp": "2022-09-15T18:20:20.080000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "いいですね！好きなドリンクはありますか？",
+            "timestamp": "2022-09-15T18:20:31.286000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EJ",
+            "text": "コーヒーか紅茶が好きです！",
+            "timestamp": "2022-09-15T18:20:43.454000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "おお両方いけるんですね。私コーヒー苦手でして。",
+            "timestamp": "2022-09-15T18:21:12.786000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EJ",
+            "text": "そうなんですね。カフェラテみたいなのも苦手なんですか？",
+            "timestamp": "2022-09-15T18:21:29.058000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "甘くするといけるんですけど、めちゃくちゃ好きってわけではないんですよねー。",
+            "timestamp": "2022-09-15T18:21:58.510000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EJ",
+            "text": "癖強いですもんね。紅茶は大丈夫なんですね。",
+            "timestamp": "2022-09-15T18:22:18.467000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "紅茶は好きですね！ハーブティーとかも！",
+            "timestamp": "2022-09-15T18:22:30.630000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EJ",
+            "text": "ハーブティーいいですね！",
+            "timestamp": "2022-09-15T18:22:46.071000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "お茶系が好きですねー。ほうじ茶ラテとか好んで飲みます。",
+            "timestamp": "2022-09-15T18:23:08.070000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EJ",
+            "text": "いいですね。私は最近フルーツティーにハマってます。",
+            "timestamp": "2022-09-15T18:23:28.856000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "美味しそう！生のフルーツですか？",
+            "timestamp": "2022-09-15T18:23:46.863000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EJ",
+            "text": "はい！ベリーとかが入っているのが好みです。",
+            "timestamp": "2022-09-15T18:24:00.587000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "お洒落ですねー。",
+            "timestamp": "2022-09-15T18:24:07.732000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EJ",
+            "text": "最初は私もオシャレすぎてびっくりしたんですけど、普通に美味しくてそれからずっと通ってます。",
+            "timestamp": "2022-09-15T18:24:34.852000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "へぇー気になる！",
+            "timestamp": "2022-09-15T18:24:59.701000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EJ",
+            "text": "探してみると提供しているお店結構あると思いますよ！",
+            "timestamp": "2022-09-15T18:25:16.624000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "そうなんですね！探してみよっと。",
+            "timestamp": "2022-09-15T18:25:25.901000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EJ",
+            "text": "是非！",
+            "timestamp": "2022-09-15T18:25:32.936000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EJ",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

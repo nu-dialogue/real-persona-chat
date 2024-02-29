@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 435,
+    "interlocutors": [
+        "AO",
+        "AQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんにちは。はじめまして。",
+            "timestamp": "2022-08-08T16:23:45.501000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AQ",
+            "text": "はじめまして。",
+            "timestamp": "2022-08-08T16:23:50.962000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "ところで、あなたは、海派？山派？",
+            "timestamp": "2022-08-08T16:24:07.652000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AQ",
+            "text": "うーん、悩みますねー。",
+            "timestamp": "2022-08-08T16:24:16.207000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "どっちも好きな感じですか？それともアウトドアはちょっと？",
+            "timestamp": "2022-08-08T16:24:28.836000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AQ",
+            "text": "いえアウトドアは好きなほうです。",
+            "timestamp": "2022-08-08T16:24:40.068000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "それは良かった。最近流行りのキャンプはされるんですか？",
+            "timestamp": "2022-08-08T16:24:58.985000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AQ",
+            "text": "毎年行ってましたよ。山は虫が多いから海のほうが好きかもですね。",
+            "timestamp": "2022-08-08T16:25:14.015000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "たしかに、虫はイヤですね。海に行ったら、泳ぐこともできますしね！",
+            "timestamp": "2022-08-08T16:25:31.457000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AQ",
+            "text": "海行かれますか？",
+            "timestamp": "2022-08-08T16:25:39.520000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "行きます、行きます！大好き。",
+            "timestamp": "2022-08-08T16:25:46.427000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AQ",
+            "text": "泳ぐんですか？",
+            "timestamp": "2022-08-08T16:25:52.893000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "泳ぎますし、小型船舶免許も持ってます。",
+            "timestamp": "2022-08-08T16:26:01.440000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AQ",
+            "text": "えー！それはびっくりです。",
+            "timestamp": "2022-08-08T16:26:10.989000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "父親のボートですけどね。",
+            "timestamp": "2022-08-08T16:26:21.950000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AQ",
+            "text": "かっこいいですね。今年もう行きましたか？",
+            "timestamp": "2022-08-08T16:26:33.347000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "今年はなかなか行く機会がなくて。",
+            "timestamp": "2022-08-08T16:26:42.935000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AQ",
+            "text": "そうなんですね。お忙しいんですか？",
+            "timestamp": "2022-08-08T16:26:54.290000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "それもありますが、天候が安定しないですよね、今年の夏は。",
+            "timestamp": "2022-08-08T16:27:08.639000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AQ",
+            "text": "確かに天気予報も外れますし。",
+            "timestamp": "2022-08-08T16:27:18.574000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "そうなんですよー。海は楽しい半面、万が一が怖いです。",
+            "timestamp": "2022-08-08T16:27:30.044000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。川も怖いですよね。",
+            "timestamp": "2022-08-08T16:27:40.463000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "そうですね！最近も、氾濫したとか。",
+            "timestamp": "2022-08-08T16:27:52.655000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AQ",
+            "text": "そうそう。急な増水は恐ろしい。",
+            "timestamp": "2022-08-08T16:28:05.399000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "ほんとに。うちは海も川も近い場所に住んでるので特に。",
+            "timestamp": "2022-08-08T16:28:26.367000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AQ",
+            "text": "いいところに住んでいるんですね！",
+            "timestamp": "2022-08-08T16:28:35.909000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "ありがとうございます！あなたは今年の夏はアウトドアしますか？",
+            "timestamp": "2022-08-08T16:28:51.434000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AQ",
+            "text": "まだなので何かしたいです。",
+            "timestamp": "2022-08-08T16:28:58.509000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "ぜひ！まだまだ夏は続きます！",
+            "timestamp": "2022-08-08T16:29:08.784000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AQ",
+            "text": "ですね！今日はありがとうございました。",
+            "timestamp": "2022-08-08T16:29:15.122000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AQ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

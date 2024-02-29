@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1023,
+    "interlocutors": [
+        "AF",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AF",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-11T16:34:00.804000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんにちは。よろしくお願いします！",
+            "timestamp": "2022-08-11T16:34:07.829000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AF",
+            "text": "暑いとお酒が飲みたくなりますねー。",
+            "timestamp": "2022-08-11T16:34:22.419000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "ビアガーデンの季節ですよね。普段から結構飲まれますか？",
+            "timestamp": "2022-08-11T16:34:45.376000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AF",
+            "text": "はい、コップ一杯程度ですが。",
+            "timestamp": "2022-08-11T16:35:05.115000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "なんのお酒が一番好きですか？",
+            "timestamp": "2022-08-11T16:35:41.833000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AF",
+            "text": "わたしはサワーを作るか、ワインを飲みます。あなたは？",
+            "timestamp": "2022-08-11T16:36:01.379000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "私は日本酒か果実酒とよく飲みます！",
+            "timestamp": "2022-08-11T16:36:24.147000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AF",
+            "text": "日本酒も好きです。果実酒というのは梅酒のようなものですか？",
+            "timestamp": "2022-08-11T16:36:41.926000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "そうですね、梅酒とかみかん酒とかです",
+            "timestamp": "2022-08-11T16:37:07.965000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AF",
+            "text": "みかん酒ってあるんですか！かんきつ類は好きなので気になります。",
+            "timestamp": "2022-08-11T16:37:26.485000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "ジュースみたいでおいしいですよ！ゆず酒とかすだち酒とかもあります！",
+            "timestamp": "2022-08-11T16:37:56.917000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AF",
+            "text": "飲みやすいのは美味しいけど、飲みすぎちゃったりしませんか？",
+            "timestamp": "2022-08-11T16:38:16.870000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "気を付けないと飲み過ぎちゃいますね、度数が低いのであんまり酔えないですが",
+            "timestamp": "2022-08-11T16:39:14.227000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AF",
+            "text": "なるほどー、わたしは自分で炭酸で割ってその時々で濃さも変えてます。",
+            "timestamp": "2022-08-11T16:39:50.859000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "サワーだと調整できていいですよね。私はワインが飲めないので、飲めるの羨ましいです！",
+            "timestamp": "2022-08-11T16:40:58.979000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AF",
+            "text": "本当ですか？ワインは度数が高いので割って飲んだりする時がありますよ。",
+            "timestamp": "2022-08-11T16:41:27.743000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "なんだか体に合わないみたいで、、、何と割って飲んでますか？",
+            "timestamp": "2022-08-11T16:42:02.603000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AF",
+            "text": "ジンジャーエールで割ると飲みやすくなります。そうなんですね、悪酔いしたりしますか？",
+            "timestamp": "2022-08-11T16:42:35.205000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "今度試してみます！ワインは気持ち悪くなっちゃいます。他は大丈夫なんですが、、",
+            "timestamp": "2022-08-11T16:43:18.868000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AF",
+            "text": "合う合わないはありますね！わたしはハイボールがダメですよー。",
+            "timestamp": "2022-08-11T16:43:36.357000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "そうなんですね！味がダメなんでしょうか？",
+            "timestamp": "2022-08-11T16:43:54.531000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AF",
+            "text": "ウイスキーやブランデーなどが苦手なので、ハイボールもちょっと苦手です。",
+            "timestamp": "2022-08-11T16:44:21.623000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "なるほどー、たしかにちょっと癖ありますよね",
+            "timestamp": "2022-08-11T16:45:02.832000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AF",
+            "text": "夏はビール！って感じでしたが、最近は飲むのを控えてます。",
+            "timestamp": "2022-08-11T16:45:57.347000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "あら、どうしてですか？",
+            "timestamp": "2022-08-11T16:46:16.233000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AF",
+            "text": "やっぱり、太りやすく感じてしまって。",
+            "timestamp": "2022-08-11T16:46:36.711000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "お酒は太りますよね、液体で太るのはなんだか納得いかないですが",
+            "timestamp": "2022-08-11T16:47:06.544000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AF",
+            "text": "あはは、それは本当にそうですね！それではこの辺で失礼します。",
+            "timestamp": "2022-08-11T16:47:31.278000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "はい、ありがとうございました",
+            "timestamp": "2022-08-11T16:47:42.092000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

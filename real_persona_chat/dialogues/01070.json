@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1070,
+    "interlocutors": [
+        "CO",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:43:24.201000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-12T08:43:38.846000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "テレビは見ますか？",
+            "timestamp": "2022-08-12T08:43:45.856000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "テレビ全く見てないです",
+            "timestamp": "2022-08-12T08:43:56.099000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "ネットとか動画は見ますか？",
+            "timestamp": "2022-08-12T08:44:09.883000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "それは目茶目茶見ます",
+            "timestamp": "2022-08-12T08:44:21.864000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "そうですか、どういうのを見られますか？",
+            "timestamp": "2022-08-12T08:44:31.205000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "ゆっくり実況だとか、勉強系です",
+            "timestamp": "2022-08-12T08:44:46.853000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "なるほど、YouTubeですかね？",
+            "timestamp": "2022-08-12T08:45:12.372000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "そうですね。あ、あとニコニコも観てます",
+            "timestamp": "2022-08-12T08:45:31.881000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "なるほど、勉強系はどのようなものですか？",
+            "timestamp": "2022-08-12T08:45:47.053000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "苦手な分野とか、自分が知らない学問について見てますね。",
+            "timestamp": "2022-08-12T08:46:15.137000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "勉強家ですね。最近は動画で学べるからいいですね",
+            "timestamp": "2022-08-12T08:46:32.273000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "本屋まで行かなくてもいいので楽です",
+            "timestamp": "2022-08-12T08:46:56.189000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "確かに。何か始める時には私は事前に動画で勉強します",
+            "timestamp": "2022-08-12T08:47:12.129000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "その方が吞み込み早くなりますよね",
+            "timestamp": "2022-08-12T08:47:47.090000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "はい、それですごく助かってます",
+            "timestamp": "2022-08-12T08:47:59.878000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "私もおんなじです",
+            "timestamp": "2022-08-12T08:48:50.186000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "買い物の前に見ることで失敗は減ったような気がします",
+            "timestamp": "2022-08-12T08:49:12.193000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "買物関係の動画ですか？",
+            "timestamp": "2022-08-12T08:49:46.223000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "はい、紹介動画ですね",
+            "timestamp": "2022-08-12T08:49:55.849000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "見たことないですね。女性の方がやってるんですか？",
+            "timestamp": "2022-08-12T08:50:34.877000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "いえ、男女両方ですね。買ってみたとか使ってみたというようなレビュー動画です",
+            "timestamp": "2022-08-12T08:51:00.311000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "なるほどぉ。それは助かりますね",
+            "timestamp": "2022-08-12T08:51:38.292000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "はい、みんなが持ってるものだと、たいがいレビューされてます。電気製品や服とか",
+            "timestamp": "2022-08-12T08:52:28.562000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "買ってイマイチだった時にすごく後悔します",
+            "timestamp": "2022-08-12T08:53:18.255000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "ですよね。たいがいはおすすめするものなので、よく吟味はやっぱり必要ですが",
+            "timestamp": "2022-08-12T08:54:24.650000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "そうですね。いろんな人の話を聞いて、考えなければと思います",
+            "timestamp": "2022-08-12T08:55:33.453000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "情報があふれてて困る時もありますね。これから夏のセールに向けて動画見ます",
+            "timestamp": "2022-08-12T08:56:15.165000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "私もいい買い物できるよう頑張ります",
+            "timestamp": "2022-08-12T08:56:50.628000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

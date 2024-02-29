@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1930,
+    "interlocutors": [
+        "CP",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CP",
+            "text": "こんにちはです！",
+            "timestamp": "2022-08-17T12:43:03.079000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。",
+            "timestamp": "2022-08-17T12:43:07.509000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CP",
+            "text": "修学旅行はどちらにいかれましたか？",
+            "timestamp": "2022-08-17T12:43:17.390000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "京都と奈良です。",
+            "timestamp": "2022-08-17T12:43:33.697000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CP",
+            "text": "いいですね！　私、昔、京都に住んでました！",
+            "timestamp": "2022-08-17T12:43:47.999000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "そうなんですね！美味しいものがいろいろありますよね！",
+            "timestamp": "2022-08-17T12:44:23.637000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CP",
+            "text": "はいー。お漬物とか。あとお団子系が！",
+            "timestamp": "2022-08-17T12:44:37.526000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "お団子もいいですね！茶屋とか行ってみたいです。",
+            "timestamp": "2022-08-17T12:45:05.758000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CP",
+            "text": "町家造りのお店とかいいですよねー。修学旅行ではどこを回られました？",
+            "timestamp": "2022-08-17T12:45:27.027000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "それが、当時はあまり興味がなく、あまり覚えてないのです。奈良の大仏様は見ました。",
+            "timestamp": "2022-08-17T12:46:02.614000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CP",
+            "text": "奈良の大仏様！　大きいですよねー。",
+            "timestamp": "2022-08-17T12:46:14.968000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "ですね！迫力満点です。",
+            "timestamp": "2022-08-17T12:46:30.988000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CP",
+            "text": "ですです。大人になってから、京都、奈良へは？",
+            "timestamp": "2022-08-17T12:46:40.160000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "京都へは行きました。本当は十二単を着て見たかったのですが、それは叶いませんでした。",
+            "timestamp": "2022-08-17T12:47:12.716000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CP",
+            "text": "十二単！　憧れます！　あれ、かなり重いらしいですね。",
+            "timestamp": "2022-08-17T12:47:27.540000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "重いと聞きますね！昔の人は体力があったんでしょうかね。",
+            "timestamp": "2022-08-17T12:48:00.666000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CP",
+            "text": "そうかも。平安時代のマンガとか読んでると、すぐ倒れるイメージなんですが。",
+            "timestamp": "2022-08-17T12:48:18.925000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "か弱いイメージですよね。",
+            "timestamp": "2022-08-17T12:48:38.117000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CP",
+            "text": "ですよねー。ほかにはどこへ行かれました？",
+            "timestamp": "2022-08-17T12:49:01.003000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "京都はたしか、ライブで行ったと思うので、あまりいろいろ回れてないんですよね。",
+            "timestamp": "2022-08-17T12:49:39.377000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CP",
+            "text": "ライブ！　いいですね。どこであったんです？",
+            "timestamp": "2022-08-17T12:49:54.768000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "会場の名前、ど忘れてしてしまいました。。。笑",
+            "timestamp": "2022-08-17T12:50:49.784000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CP",
+            "text": "いえいえー！　京都でライブとかいったことなくて。コロナが収束したら、京都に行きたいなと思ってます。",
+            "timestamp": "2022-08-17T12:51:31.954000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "そうですね、収束したら今までのぶんもお出かけしたいです！",
+            "timestamp": "2022-08-17T12:52:11.118000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CP",
+            "text": "ですです。旅行とか、観光とか、お土産あさりとかしたいです！",
+            "timestamp": "2022-08-17T12:52:24.995000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "お土産も大事ですね！あと、自分へのお土産も。",
+            "timestamp": "2022-08-17T12:52:45.910000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CP",
+            "text": "ですよねー！　お土産買うときって、テンション上がりますよね！",
+            "timestamp": "2022-08-17T12:53:02.473000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "選ぶの楽しいですよねー！",
+            "timestamp": "2022-08-17T12:53:14.410000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CP",
+            "text": "そうなんです！　そしていらんものまで買ってしまうんですー！",
+            "timestamp": "2022-08-17T12:53:26.898000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "わかる気がします！それも含めて旅行の記念ですね。",
+            "timestamp": "2022-08-17T12:53:52.757000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

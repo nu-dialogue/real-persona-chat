@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9937,
+    "interlocutors": [
+        "BR",
+        "CC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-10T20:38:58.047000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CC",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T20:39:08.696000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "今日も暑かったですね！今日はどこかでかけましたか？",
+            "timestamp": "2022-08-10T20:39:21.874000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CC",
+            "text": "いえ、ずっとおうちにいました。",
+            "timestamp": "2022-08-10T20:39:38.382000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "それはうらやましいです！私は昼からの仕事なので、暑い最中出勤でした。",
+            "timestamp": "2022-08-10T20:39:55.723000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CC",
+            "text": "一番暑い時に出社なんですねー。何時までお仕事だったんですか？",
+            "timestamp": "2022-08-10T20:40:17.515000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "18時前までの半日仕事なんです。帰りは夕方なので楽ですね。",
+            "timestamp": "2022-08-10T20:40:33.671000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CC",
+            "text": "なるほど。私は今転職活動中なんですー。",
+            "timestamp": "2022-08-10T20:40:48.210000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "おお！そうなんですね！どんなお仕事ご希望なんですか？",
+            "timestamp": "2022-08-10T20:41:05.157000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CC",
+            "text": "カスタマーサポートとかカスタマーサクセスになるんだと思います。",
+            "timestamp": "2022-08-10T20:41:23.146000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "わぁ。それは大変そうです。顧客サービスということですよね？電話が主ですか？",
+            "timestamp": "2022-08-10T20:41:41.747000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CC",
+            "text": "今まで電話がメインだったので、チャットとかメールでサポートしてる環境を探してます。",
+            "timestamp": "2022-08-10T20:42:21.185000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "電話は大変ですよね。私も以前コールセンターやったことありますが、もうやりたくないです。",
+            "timestamp": "2022-08-10T20:42:41.891000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CC",
+            "text": "そんなに？笑",
+            "timestamp": "2022-08-10T20:42:57.896000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "そんなにですよ！システム的にもよくなかったのもあります。",
+            "timestamp": "2022-08-10T20:43:18.179000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CC",
+            "text": "あーなるほど。",
+            "timestamp": "2022-08-10T20:43:26.605000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "自分の評価がシステムがおかしいせいで落ちるなんて、嫌でした。",
+            "timestamp": "2022-08-10T20:43:42.674000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CC",
+            "text": "それはひどいですね。",
+            "timestamp": "2022-08-10T20:43:53.482000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "ですよね。外資だったからしょうがないのかもしれないですが。",
+            "timestamp": "2022-08-10T20:44:05.614000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CC",
+            "text": "外資はザルっぽそうですね。",
+            "timestamp": "2022-08-10T20:44:19.314000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "ですね。結構なんでもありな感じでした。",
+            "timestamp": "2022-08-10T20:44:31.537000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CC",
+            "text": "私も前職が外資でした。まぁ比較的いい方の外資を経験できたかなとは思いましたが。",
+            "timestamp": "2022-08-10T20:45:03.427000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "それはよかったですね！次は日本の会社を探していますか？",
+            "timestamp": "2022-08-10T20:45:20.850000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CC",
+            "text": "どっちでもいっかなー。",
+            "timestamp": "2022-08-10T20:45:28.367000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね。最近一目では外資かどうかわからない会社も増えているようですね。",
+            "timestamp": "2022-08-10T20:45:51.080000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CC",
+            "text": "ですね。仕事の中身に納得感があれば、業界とかも別にあんまりこだわらない方です。",
+            "timestamp": "2022-08-10T20:46:19.171000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "たしかに。働いていても満足感があれば、いいですよね！",
+            "timestamp": "2022-08-10T20:46:33.318000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CC",
+            "text": "そうなんです。逆に希望の業界は？とか聞かれると答えに困っちゃって。",
+            "timestamp": "2022-08-10T20:46:51.876000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！合う仕事が見つかりますように！！",
+            "timestamp": "2022-08-10T20:47:11.560000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CC",
+            "text": "ありがとうございます！",
+            "timestamp": "2022-08-10T20:47:20.764000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

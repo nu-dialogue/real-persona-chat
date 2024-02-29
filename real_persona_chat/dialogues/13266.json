@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13266,
+    "interlocutors": [
+        "GI",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-19T13:44:35.474000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-19T13:44:42.676000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "そちらの天気はどうですか？",
+            "timestamp": "2022-09-19T13:44:49.465000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "曇りと、微風、という感じです。そちらはどうですか？",
+            "timestamp": "2022-09-19T13:45:07.829000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "わたしのところもおもったよりという感じです。",
+            "timestamp": "2022-09-19T13:45:24.868000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "なんかすごい勢いの台風とのことだったので、おびえてました。",
+            "timestamp": "2022-09-19T13:45:37.964000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "少し遅いみたいですけどね。",
+            "timestamp": "2022-09-19T13:45:51.754000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "勢い強い方が移動速度も速いイメージですが、どうなんでしょうか。",
+            "timestamp": "2022-09-19T13:46:12.221000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "そうでもないみたいですね。強くて遅いのが最悪みたいです。",
+            "timestamp": "2022-09-19T13:46:45.676000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "強くて遅いのは最悪ですね、さっさといってほしいです。",
+            "timestamp": "2022-09-19T13:47:02.502000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "そうですよねー。さっさと過ぎ去るのが一番ですよね。",
+            "timestamp": "2022-09-19T13:47:17.556000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "台風一過は、暑すぎるのが苦手です。",
+            "timestamp": "2022-09-19T13:47:56.720000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "気温みたら涼しいのかなと思ってました。",
+            "timestamp": "2022-09-19T13:48:31.345000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "どうなんでしょうか、涼しいならいいんですが。今どの辺に台風いるんでしょう。",
+            "timestamp": "2022-09-19T13:48:46.303000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "まだ九州とかだったと思いますよ。",
+            "timestamp": "2022-09-19T13:49:00.710000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "やっぱり、では明日とか明後日本州をゆっくり進んでいく感じですかね。",
+            "timestamp": "2022-09-19T13:49:14.780000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "そうなってますね。やばそうです。",
+            "timestamp": "2022-09-19T13:49:32.175000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "明日病院いく用事があるので、嫌です。",
+            "timestamp": "2022-09-19T13:49:40.599000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "わかります。私も明日外に出る用事があるので、どうしようかなと。",
+            "timestamp": "2022-09-19T13:49:57.450000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "出来ればその時間だけは台風の目にいたいです。",
+            "timestamp": "2022-09-19T13:50:08.141000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "あはは。でも少し上にずれちゃってるので、どうなんですかねぇ。",
+            "timestamp": "2022-09-19T13:50:27.944000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "そのまま日本海を北上して、本州にかからないでほしいです。",
+            "timestamp": "2022-09-19T13:50:42.617000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "それは最高ですね。今日中に過ぎ去ってもらう予定が。",
+            "timestamp": "2022-09-19T13:51:18.941000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "そうですね、来週末の三連休は予定ありますか？",
+            "timestamp": "2022-09-19T13:51:34.835000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "出かける予定がありますよー。",
+            "timestamp": "2022-09-19T13:51:49.819000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "いいですね。天気が良いといいのですが、台風って秋多いので嫌です。",
+            "timestamp": "2022-09-19T13:52:09.336000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "雨ですか？多いですよね。",
+            "timestamp": "2022-09-19T13:52:19.277000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "涼しい晴れの日が好きです。",
+            "timestamp": "2022-09-19T13:52:33.617000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "わかります。最近も雨が降らずにとても暑かったですね。",
+            "timestamp": "2022-09-19T13:53:00.882000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "四季もなくなりましたね。",
+            "timestamp": "2022-09-19T13:53:14.626000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

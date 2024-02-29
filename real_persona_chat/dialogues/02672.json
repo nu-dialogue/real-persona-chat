@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2672,
+    "interlocutors": [
+        "DI",
+        "AO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DI",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-22T22:13:32.876000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AO",
+            "text": "どうも、こんばんはー。",
+            "timestamp": "2022-08-22T22:13:39.032000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DI",
+            "text": "今日は晩御飯どうされました？",
+            "timestamp": "2022-08-22T22:13:48.339000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AO",
+            "text": "豚肉とエノキの炒めものでした！",
+            "timestamp": "2022-08-22T22:13:59.873000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DI",
+            "text": "ということは、自炊されてるんですね。",
+            "timestamp": "2022-08-22T22:14:13.587000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AO",
+            "text": "私が、と言いたいところですが、料理はもっぱら奥さんに任せきりです。",
+            "timestamp": "2022-08-22T22:14:31.322000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DI",
+            "text": "既婚者の方ですか、羨ましいです！",
+            "timestamp": "2022-08-22T22:14:50.507000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AO",
+            "text": "お、あなたはご結婚は？",
+            "timestamp": "2022-08-22T22:15:00.843000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DI",
+            "text": "私はまだ独身です。焦りは感じてるんですが。",
+            "timestamp": "2022-08-22T22:15:18.019000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AO",
+            "text": "そうなんですか。独身だと、ご飯もどうしても適当に済ませてしまいがちですよね。",
+            "timestamp": "2022-08-22T22:15:40.648000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DI",
+            "text": "割と冷凍食品とかになりがちですねー。",
+            "timestamp": "2022-08-22T22:15:55.851000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AO",
+            "text": "最近の冷凍食品って、むちゃくちゃ旨いですよね？",
+            "timestamp": "2022-08-22T22:16:10.896000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DI",
+            "text": "そうなんです！だから自炊しなくてもいいかなってなります。",
+            "timestamp": "2022-08-22T22:16:28.421000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AO",
+            "text": "良いと思います！冷凍食品でラーメンできたときにゃ、感動ものでしたよ！",
+            "timestamp": "2022-08-22T22:16:47.339000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DI",
+            "text": "いや本当に。乾麵とかにも頼りきりです。",
+            "timestamp": "2022-08-22T22:17:10.853000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AO",
+            "text": "袋ラーメンも旨いですよねー。お気に入りはありますか？",
+            "timestamp": "2022-08-22T22:17:33.504000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DI",
+            "text": "私は結構味音痴なので、とにかく安いやつを買ってます。",
+            "timestamp": "2022-08-22T22:17:52.797000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AO",
+            "text": "あー、値段ってピンキリですよね。",
+            "timestamp": "2022-08-22T22:18:07.774000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DI",
+            "text": "そうなんですよ、普段乾麵とか食べます？",
+            "timestamp": "2022-08-22T22:18:23.127000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AO",
+            "text": "土日の昼は、乾麺率高いです。パスタとか。",
+            "timestamp": "2022-08-22T22:18:39.758000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DI",
+            "text": "パスタ自分もやりがちです。",
+            "timestamp": "2022-08-22T22:18:56.002000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AO",
+            "text": "パスタは、いろんなソースが市販であるから、私でも作れますよ！",
+            "timestamp": "2022-08-22T22:19:13.608000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DI",
+            "text": "パスタって作りやすくていいですよね。ソースも安いし。",
+            "timestamp": "2022-08-22T22:19:33.095000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AO",
+            "text": "そうそう。混ぜるだけのタラコパスタが一番好きです！",
+            "timestamp": "2022-08-22T22:19:49.073000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DI",
+            "text": "あれ自分も好きです。安かったりすると買い込んじゃいます",
+            "timestamp": "2022-08-22T22:20:07.571000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AO",
+            "text": "うちもですー。一度に二人前ぐらい食べれそうな勢い。",
+            "timestamp": "2022-08-22T22:20:23.993000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DI",
+            "text": "実際二人前作ると多いんですよねー。",
+            "timestamp": "2022-08-22T22:20:44.885000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AO",
+            "text": "分かります！途中から、腹が膨れて。",
+            "timestamp": "2022-08-22T22:21:03.680000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DI",
+            "text": "そうそう、麺っておなかの中で膨らむ感じありますよね。",
+            "timestamp": "2022-08-22T22:21:24.194000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AO",
+            "text": "ですねー。でも辞められない！それじゃ、今日はこのへんで！",
+            "timestamp": "2022-08-22T22:21:36.533000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

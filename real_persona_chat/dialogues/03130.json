@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3130,
+    "interlocutors": [
+        "BF",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BF",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-26T13:57:29.666000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんにちわ！",
+            "timestamp": "2022-08-26T13:57:36.514000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BF",
+            "text": "今日のおやつは何にしようかなーって今考えていました。",
+            "timestamp": "2022-08-26T13:58:00.761000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "おやつはやっぱ三時ですか？",
+            "timestamp": "2022-08-26T13:58:30.933000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BF",
+            "text": "はい、おやつといえば3時のイメージです。",
+            "timestamp": "2022-08-26T13:58:54"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "ですね。甘いものお好きですか？",
+            "timestamp": "2022-08-26T13:59:04.778000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BF",
+            "text": "好きですね！でも、甘すぎるものは最近ちょっと苦手になってきました。",
+            "timestamp": "2022-08-26T13:59:46.029000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "ああ、それわかります。控えな甘さがいいですよね。ちなみに今日はどんなお菓子でしょう。買うのですか？",
+            "timestamp": "2022-08-26T14:00:33.196000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BF",
+            "text": "うーん、家に買い置きしてある、アイスを食べようかなーって思ってます。",
+            "timestamp": "2022-08-26T14:00:57.719000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "アイスいいですね。どんなアイスを買ってあるんですか？",
+            "timestamp": "2022-08-26T14:01:21.055000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BF",
+            "text": "いろいろありますよ！最近のお気に入りはアイスの実です。",
+            "timestamp": "2022-08-26T14:01:47.882000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "わー！絶賛同意です。私もアイスの実大好きです。",
+            "timestamp": "2022-08-26T14:02:09.868000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BF",
+            "text": "最近特に美味しくなった気がします。あとは、家族に内緒でハーゲンダッツも隠してあります。",
+            "timestamp": "2022-08-26T14:02:44.787000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "うちの冷蔵庫にもストロベリー味が忍ばせてあります！ハーゲンダッツは何味がお好き？",
+            "timestamp": "2022-08-26T14:03:24.428000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BF",
+            "text": "私はマカデミアナッツが好きです！あとは抹茶も！",
+            "timestamp": "2022-08-26T14:03:44.660000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "どれもおいしいですよね！チョコクッキーとかもおいしいです。",
+            "timestamp": "2022-08-26T14:04:17.586000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BF",
+            "text": "いいですねー！子どもが学校に行っている間に食べるのが至福の贅沢です。",
+            "timestamp": "2022-08-26T14:04:41.531000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "最高の時間ですね！クリスピーサンドも美味しいですよね。",
+            "timestamp": "2022-08-26T14:05:11.874000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BF",
+            "text": "あれも美味しいですよね。ハーゲンダッツは新作が出るとついつい買ってしまいます。",
+            "timestamp": "2022-08-26T14:05:45.322000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "本当に！アイスが食べたくなってきましたよ。",
+            "timestamp": "2022-08-26T14:06:07.801000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BF",
+            "text": "ね！私も今日のおやつはアイスに決定しました！",
+            "timestamp": "2022-08-26T14:06:29.195000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "私もストロベリーのハーゲンダッツに決定しました！",
+            "timestamp": "2022-08-26T14:06:59.975000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BF",
+            "text": "いいな！今日は子どもがもう帰ってきちゃったので、私はピノにします。",
+            "timestamp": "2022-08-26T14:07:29.148000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "お子さんのおやつはどんな物が用意されてるんですか？",
+            "timestamp": "2022-08-26T14:07:53.419000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BF",
+            "text": "いろいろありますよ。アイスもあるし、今日はシュークリームもあります。",
+            "timestamp": "2022-08-26T14:08:26.022000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "盛りだくさんですね。お子さん大喜びですね。",
+            "timestamp": "2022-08-26T14:08:42.736000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BF",
+            "text": "はい、おやつはよく食べるんで、たくさん用意しておかないと！",
+            "timestamp": "2022-08-26T14:09:13.651000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "そういえば、清里でソフトクリームは食べましたか？",
+            "timestamp": "2022-08-26T14:09:30.481000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BF",
+            "text": "もちろん食べましたよー！至福の味でした！",
+            "timestamp": "2022-08-26T14:09:53.012000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "やっぱり！無性に食べたくなるんです。清里行きたいです！",
+            "timestamp": "2022-08-26T14:10:12.292000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3791,
+    "interlocutors": [
+        "DW",
+        "FF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DW",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-02T09:32:17.576000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FF",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-02T09:32:23.318000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DW",
+            "text": "今日は外出の予定はありますか？",
+            "timestamp": "2022-09-02T09:32:37.005000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FF",
+            "text": "今日は家で仕事できるので特にありません。天気も悪いですね。",
+            "timestamp": "2022-09-02T09:32:51.967000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DW",
+            "text": "雨降ってますね。台風来ているそうですけど、困りますね。",
+            "timestamp": "2022-09-02T09:33:15.131000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FF",
+            "text": "ですね。週末ひどいんでしょうかね？あ、こちらは関東です。",
+            "timestamp": "2022-09-02T09:33:30.613000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DW",
+            "text": "こちらも関東です。来週までこんなお天気が続くそうですよ。",
+            "timestamp": "2022-09-02T09:33:57.336000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FF",
+            "text": "そうでしたか、来週は出かけたいと思っていたので何とかなるといいんですが。",
+            "timestamp": "2022-09-02T09:34:19.130000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DW",
+            "text": "お出かけ先は決まってるんですか？",
+            "timestamp": "2022-09-02T09:34:33.706000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FF",
+            "text": "はい。友人と久しぶりに遊びたいと思っています。",
+            "timestamp": "2022-09-02T09:34:56.825000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DW",
+            "text": "何して遊ぶ予定ですか？映画とか？ボーリングとか？",
+            "timestamp": "2022-09-02T09:35:19.130000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FF",
+            "text": "語弊がありました。行先はまだ決まってないですね。昼なのでコーヒーでも飲みに行くかな？くらいです。",
+            "timestamp": "2022-09-02T09:35:58.228000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DW",
+            "text": "なるほど！私は先週、お台場の台場一丁目商店街に行ってました。",
+            "timestamp": "2022-09-02T09:36:29.657000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FF",
+            "text": "難でしょうそれは、全然詳しくなくてすみません。普通の商店街ではないんですよね？",
+            "timestamp": "2022-09-02T09:37:01.624000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DW",
+            "text": "はい、レトロな雰囲気を演出してるビルの中にある商業施設ですね。",
+            "timestamp": "2022-09-02T09:37:25.745000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FF",
+            "text": "いいですね！レトロな雰囲気って知らないのに懐かしいですよね。",
+            "timestamp": "2022-09-02T09:38:17.019000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DW",
+            "text": "はい！昭和のゲームが置いてるゲームセンターとかもあって、面白かったですよ。",
+            "timestamp": "2022-09-02T09:38:48.724000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FF",
+            "text": "あぁ、それはいいですね。古いゲーセンはあまり面白くないけど大好きですね。",
+            "timestamp": "2022-09-02T09:39:14.706000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DW",
+            "text": "そうですよね、意外と夢中になって遊んでしまいました。",
+            "timestamp": "2022-09-02T09:39:35.562000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FF",
+            "text": "ですね。本当になんでしょうね？すごく懐かしくていいんですよね。全然知らないのに。",
+            "timestamp": "2022-09-02T09:40:08.396000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DW",
+            "text": "なんでしょうね？でも今、昭和レトロブームなので子供も大好きなんです。",
+            "timestamp": "2022-09-02T09:40:32.033000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FF",
+            "text": "そうなんですか？うちの子供はそんなにレトロブーム来てないですね！",
+            "timestamp": "2022-09-02T09:40:58.230000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DW",
+            "text": "昔の機械とか、古いPCとかにも興味があるみたいなんです。",
+            "timestamp": "2022-09-02T09:41:23.145000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FF",
+            "text": "おぉ、いいですね。古い物って素敵ですよね。素材感がいいと思います。",
+            "timestamp": "2022-09-02T09:41:51.691000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DW",
+            "text": "黒電話とかもいいですよね。味があって。",
+            "timestamp": "2022-09-02T09:42:10.940000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FF",
+            "text": "ですね。今の子供は公衆電話もあまりしらなそうですね。",
+            "timestamp": "2022-09-02T09:42:29.804000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DW",
+            "text": "そうそう、そうなんです。そこにも公衆電話があって、子供が感激してました。",
+            "timestamp": "2022-09-02T09:42:56.426000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FF",
+            "text": "後は何でしょう？ＭＤとかも見ないですね。",
+            "timestamp": "2022-09-02T09:43:17.028000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DW",
+            "text": "MD見ないですねー。持ってました？",
+            "timestamp": "2022-09-02T09:43:28.819000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FF",
+            "text": "もちろんです。青春ですね。",
+            "timestamp": "2022-09-02T09:43:37.092000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

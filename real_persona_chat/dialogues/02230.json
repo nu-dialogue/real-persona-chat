@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2230,
+    "interlocutors": [
+        "CN",
+        "AU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T20:57:17.731000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AU",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T20:57:23.908000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "健康に何か気を使ってることはありますか？",
+            "timestamp": "2022-08-19T20:57:42.853000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AU",
+            "text": "健康は気になってはいるんですが、特に何もしていないですね。　あなたは？",
+            "timestamp": "2022-08-19T20:58:15.722000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "ウォーキングをするようにしています。",
+            "timestamp": "2022-08-19T20:58:26.257000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AU",
+            "text": "それはいいですね。今は暑いですがやはり涼しい夕方とかに行かれるのですか？",
+            "timestamp": "2022-08-19T20:59:01.582000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "はい、夜になってからです。昼間は暑くて無理でした。",
+            "timestamp": "2022-08-19T20:59:28.061000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AU",
+            "text": "昼間だと逆に体に悪そうですもんね。　結構な距離を歩かれるんですか？",
+            "timestamp": "2022-08-19T21:00:09.542000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "いえ、30分くらいですね。晴れてるときだと星が見えていいですよ。",
+            "timestamp": "2022-08-19T21:00:30.953000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AU",
+            "text": "星空を見ながらなんて、いいですね。　風もあれば余計涼しいですしね。",
+            "timestamp": "2022-08-19T21:01:05.481000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "風があるときはいいですね。ないと夜でも蒸し暑いときがあります。",
+            "timestamp": "2022-08-19T21:01:26.475000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AU",
+            "text": "ウォーキング以外にも食事なんかも気を遣われてたりしますか？",
+            "timestamp": "2022-08-19T21:02:02.417000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "一応お菓子は食べすぎないようにはしてますね。在宅勤務だとついつまんでしまって",
+            "timestamp": "2022-08-19T21:02:49.024000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AU",
+            "text": "それわかります！家にいると食べたくなっちゃいますね。　私はなるべく発酵食品を食べるようにしています。",
+            "timestamp": "2022-08-19T21:03:25.766000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "いいですね。納豆とかヨーグルトですか？",
+            "timestamp": "2022-08-19T21:03:56.899000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AU",
+            "text": "はい、それと毎日お味噌汁ですね。あと塩麹を調味料として使ったりです。",
+            "timestamp": "2022-08-19T21:04:44.253000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "塩麴いいですね。お肉とか漬けると美味しいですよね。",
+            "timestamp": "2022-08-19T21:05:06.907000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AU",
+            "text": "うちは、唐揚げの下味によく使います。ほんとお肉がやわらかしっとりしますよね。",
+            "timestamp": "2022-08-19T21:05:48.842000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "なるほど、唐揚げの下味良さそうですね。いいこと聞きました！",
+            "timestamp": "2022-08-19T21:06:10.737000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AU",
+            "text": "豚肉を漬け込んで焼いても、甘辛くて美味しいですよ。おすすめです。",
+            "timestamp": "2022-08-19T21:06:40.802000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "お肉全般なんにでもあうんですね！ほかにお勧めの発酵食品ありますか？",
+            "timestamp": "2022-08-19T21:07:26.212000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AU",
+            "text": "ぬか漬けも美味しいと思いますが、あれは好みが分かれますね。",
+            "timestamp": "2022-08-19T21:07:59.255000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "ぬか漬け自分で作られてます？",
+            "timestamp": "2022-08-19T21:08:22.129000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AU",
+            "text": "作りたいと思ってますがちょっとハードル高いですね。実家の祖母はよく作ってました。",
+            "timestamp": "2022-08-19T21:09:05.485000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "毎日混ぜる必要があると聞きますもんね。お祖母様すごい！",
+            "timestamp": "2022-08-19T21:09:46.953000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AU",
+            "text": "今は無印とかで、つけるだけでいいぬか床が売ってるらしいので、そこから始めるのがいいかもしれないです。",
+            "timestamp": "2022-08-19T21:10:42.315000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "さすがは無印！",
+            "timestamp": "2022-08-19T21:11:18.767000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AU",
+            "text": "ですよね。いつかちゃんとぬか漬けつけられたらいいけど、ウチは私以外食べないので無理かもしれないです。",
+            "timestamp": "2022-08-19T21:12:02.360000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "そうか、消費スピードも考えなきゃいけないですもんね。",
+            "timestamp": "2022-08-19T21:12:19.548000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AU",
+            "text": "ほんとです。",
+            "timestamp": "2022-08-19T21:12:42.841000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

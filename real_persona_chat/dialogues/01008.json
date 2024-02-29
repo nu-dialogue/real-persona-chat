@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1008,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-11T17:31:53.896000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "お願いします",
+            "timestamp": "2022-08-11T17:32:01.578000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "好きな飲み物は何ですか？",
+            "timestamp": "2022-08-11T17:32:13.810000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "コーラをよく飲みます",
+            "timestamp": "2022-08-11T17:32:36.316000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "ペプシは飲まれないんですか？",
+            "timestamp": "2022-08-11T17:33:05.448000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "ペプシもたまに飲みますね。あなたは何を飲まれますか？",
+            "timestamp": "2022-08-11T17:33:24.642000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "私はミルクティーが好きなんです",
+            "timestamp": "2022-08-11T17:33:40.236000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "おいしいですよね。どのブランドが好きですか？",
+            "timestamp": "2022-08-11T17:33:58.117000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "午後の紅茶が好きです。",
+            "timestamp": "2022-08-11T17:34:13.536000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "リプトンより午後ティー派なんですね",
+            "timestamp": "2022-08-11T17:34:33.289000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "昔午後の紅茶で茶葉二倍ミルクティーというのがあって、それが一番好きでした",
+            "timestamp": "2022-08-11T17:35:04.007000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "濃厚そうですね！",
+            "timestamp": "2022-08-11T17:35:16.025000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "結構濃厚です！今は売ってないので残念です",
+            "timestamp": "2022-08-11T17:35:37.663000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "お気に入り商品が終売になると悲しいですよね",
+            "timestamp": "2022-08-11T17:36:02.685000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "そうですよね、カールもショックでした",
+            "timestamp": "2022-08-11T17:36:17.544000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "一部地域ではまだ売られてるんでしたっけ",
+            "timestamp": "2022-08-11T17:36:37.702000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "みたいですね。カレー味が好きだったんですが、それはもうなさそう",
+            "timestamp": "2022-08-11T17:37:02.353000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "そういえばカレー味のお菓子ってあんまり思いつかないですね",
+            "timestamp": "2022-08-11T17:38:07.674000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "カレー煎で有名なのはありますが、それくらいかもしれないです。",
+            "timestamp": "2022-08-11T17:38:32.187000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "売れそうなのにウケないんでしょうか",
+            "timestamp": "2022-08-11T17:38:47.962000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "この時期割と増えるイメージですけど、どうなんでしょう",
+            "timestamp": "2022-08-11T17:39:08.040000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "コンビニとかにあるんですかね",
+            "timestamp": "2022-08-11T17:39:25.536000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "コンビニあまり行かれないですか？",
+            "timestamp": "2022-08-11T17:39:38.344000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "あまり行かないです。スーパーメインで。",
+            "timestamp": "2022-08-11T17:39:59.981000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "なるほど。私は割とコンビニ行くんですが、結構いろいろ新商品あって面白いです",
+            "timestamp": "2022-08-11T17:40:40.250000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "面白いですよね、でも節約してて、行かないようにしてるんです",
+            "timestamp": "2022-08-11T17:41:19.111000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "そういうことでしたか。たしかにコンビニは割高ですもんね",
+            "timestamp": "2022-08-11T17:41:36.519000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "そうなんです。そろそろ時間なので失礼しますね",
+            "timestamp": "2022-08-11T17:41:52.393000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい、ありがとうございました。",
+            "timestamp": "2022-08-11T17:42:01.365000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "お疲れ様でした。",
+            "timestamp": "2022-08-11T17:42:10.458000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

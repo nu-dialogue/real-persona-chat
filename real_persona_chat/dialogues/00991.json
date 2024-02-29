@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 991,
+    "interlocutors": [
+        "AH",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AH",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T22:43:44.824000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-11T22:43:57.522000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AH",
+            "text": "夕飯はもう済ませましたか？",
+            "timestamp": "2022-08-11T22:44:01.015000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "はい。お刺身を食べました。",
+            "timestamp": "2022-08-11T22:44:16.793000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AH",
+            "text": "お刺身羨ましいです！",
+            "timestamp": "2022-08-11T22:44:25.881000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "スーパーで売ってる安いやつですよ。お刺身好きですか？",
+            "timestamp": "2022-08-11T22:44:51.816000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AH",
+            "text": "生魚好きです！",
+            "timestamp": "2022-08-11T22:44:58.410000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "じゃあお寿司とかも好きですかね。好きなネタはありますか？",
+            "timestamp": "2022-08-11T22:45:19.065000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AH",
+            "text": "マグロとかサーモンが好きです！",
+            "timestamp": "2022-08-11T22:45:36.588000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "王道ですね。私はアジが好きです。",
+            "timestamp": "2022-08-11T22:45:44.878000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AH",
+            "text": "アジもたまに食べます！",
+            "timestamp": "2022-08-11T22:45:53.338000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "回転寿司はどこに行かれますか？",
+            "timestamp": "2022-08-11T22:46:11.658000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AH",
+            "text": "私は蔵寿司ですかね。一番近いので",
+            "timestamp": "2022-08-11T22:46:27.891000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "私もくら寿司です。",
+            "timestamp": "2022-08-11T22:46:44.655000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AH",
+            "text": "くら寿司はびっくらぽんがありますからね。",
+            "timestamp": "2022-08-11T22:46:52.483000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "あれ中々当たりませんよね。商売上手だと思います。",
+            "timestamp": "2022-08-11T22:47:15.724000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AH",
+            "text": "はい、４０皿で１回くらいな気がします。",
+            "timestamp": "2022-08-11T22:47:24.570000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "いつも2個がせいぜいですね。サイドメニューも美味しいですよね。",
+            "timestamp": "2022-08-11T22:47:51.028000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AH",
+            "text": "サイドメニューだと海老天とかラーメンとか食べてました。",
+            "timestamp": "2022-08-11T22:48:11.049000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "ラーメン美味しいですよね。毎回違ったラーメンが登場してます。",
+            "timestamp": "2022-08-11T22:48:29.179000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AH",
+            "text": "はい、いろんな味のものが登場しててびっくりしています。",
+            "timestamp": "2022-08-11T22:48:37.649000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "最近ポテトがなくなったのに気づきました。残念です。",
+            "timestamp": "2022-08-11T22:48:58.182000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AH",
+            "text": "ポテト無くなっちゃたんですか？",
+            "timestamp": "2022-08-11T22:49:10.112000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "私が行ったときはなかったです。メンテが大変とかあるんでしょうかね。",
+            "timestamp": "2022-08-11T22:49:39.299000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AH",
+            "text": "値上げとかの影響かもしれません。",
+            "timestamp": "2022-08-11T22:49:50.227000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。食品全般高くなりましたよね。",
+            "timestamp": "2022-08-11T22:50:02.521000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AH",
+            "text": "はい、二百円皿も増えてきた気がします。",
+            "timestamp": "2022-08-11T22:50:19.257000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "そうかもですね。早く値段が落ち着いてくれるといいんですけどね。",
+            "timestamp": "2022-08-11T22:50:43.690000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AH",
+            "text": "はい、今までみたいになってくれたら一番いいんですけどね。",
+            "timestamp": "2022-08-11T22:50:55.499000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "ですね。ありがとうございました。",
+            "timestamp": "2022-08-11T22:51:06.368000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

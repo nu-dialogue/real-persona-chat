@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8594,
+    "interlocutors": [
+        "CH",
+        "AX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CH",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-06T13:47:36.750000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AX",
+            "text": "こんにちは。午後も暑いです。",
+            "timestamp": "2022-08-06T13:47:56.036000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CH",
+            "text": "いまの季節は仕方ないですねぇ。熱中症に気を付けないと。",
+            "timestamp": "2022-08-06T13:48:24.195000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AX",
+            "text": "確かにそうですね。ところでコロナ過でどんな技術が発達していると思われますか？",
+            "timestamp": "2022-08-06T13:48:56.904000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CH",
+            "text": "やっぱりDIscodeとかZoomなんかのコミュニケーションアプリですかね？",
+            "timestamp": "2022-08-06T13:49:29.641000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AX",
+            "text": "確かにコロナの初期はZoomなんかまだ機能少なかったですもんね。",
+            "timestamp": "2022-08-06T13:49:56.654000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CH",
+            "text": "そうですよね。そんなアプリの存在すら認知されてませんでしたね。",
+            "timestamp": "2022-08-06T13:50:22.964000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AX",
+            "text": "あとチャットボットは企業導入増えていますよね。",
+            "timestamp": "2022-08-06T13:50:35.251000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CH",
+            "text": "ああいうのは大きい所ほど、効果があるでしょうしね。",
+            "timestamp": "2022-08-06T13:51:00.843000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AX",
+            "text": "単純な機械学習で答えるのと複雑な対応できるのとあるけどかなり使えるようになりましたね。",
+            "timestamp": "2022-08-06T13:51:29.099000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CH",
+            "text": "やっぱり普及しだせば、技術も進むものですね。",
+            "timestamp": "2022-08-06T13:51:59.640000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AX",
+            "text": "あとあからさまに発達しているのは音声認識ですね。",
+            "timestamp": "2022-08-06T13:52:14.080000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CH",
+            "text": "あー、ちょっと前はアクセントによって全然ダメだったりしましたからね。",
+            "timestamp": "2022-08-06T13:52:44.816000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AX",
+            "text": "聞き取って文字に起こして関連ナレッジが自動で出てくるソリューションが盛り上がってます。",
+            "timestamp": "2022-08-06T13:53:10.944000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CH",
+            "text": "ははぁ、その分野の関係者には中々熱い時代ですね。",
+            "timestamp": "2022-08-06T13:53:49.615000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AX",
+            "text": "中身は大体IBMのワトソンと、Googleが絡んでることが多いんですけどね。",
+            "timestamp": "2022-08-06T13:54:20.688000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CH",
+            "text": "ワトソンって聞いた覚えがあります。完全オフラインのやつだった気が。",
+            "timestamp": "2022-08-06T13:54:57.612000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AX",
+            "text": "ペッパー君は側だけで中身はIBMのAIと認識システムでしたね。それです。",
+            "timestamp": "2022-08-06T13:55:46.049000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CH",
+            "text": "なるほど。Googleなんかはずっと以前から、ビッグデータを集積し続けていましたしね。",
+            "timestamp": "2022-08-06T13:56:35.630000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AX",
+            "text": "そそ。そのアルゴリズムをAIに載せて判断させてるみたいですね。",
+            "timestamp": "2022-08-06T13:57:05.034000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CH",
+            "text": "技術についてはわかりませんが、興味深い話ですね。",
+            "timestamp": "2022-08-06T13:57:38.799000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AX",
+            "text": "ビックデータも少し前はBIとか情報分析ツールが多かったけどAI使うようになってきました。",
+            "timestamp": "2022-08-06T13:58:07.116000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CH",
+            "text": "収集・分析から活用されるフェーズになってきた、ということですかね。",
+            "timestamp": "2022-08-06T13:58:46.484000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AX",
+            "text": "素人でも活用できるようになりつつありますよね。ある意味チャンスかもです。",
+            "timestamp": "2022-08-06T13:59:11.614000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CH",
+            "text": "商機は多いでしょうね。黎明期といっていいのかわかりませんが、そういう時代はチャンスが多い。",
+            "timestamp": "2022-08-06T13:59:47.848000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AX",
+            "text": "先にやっているところはやっぱり強いところが多いですね。おっしゃるとおりです。",
+            "timestamp": "2022-08-06T14:00:13.277000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CH",
+            "text": "あまり無関心でいないで、興味を持てるとこから知見をつけていくといいでしょうね、素人でも。",
+            "timestamp": "2022-08-06T14:01:31.514000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AX",
+            "text": "なるほど。分野によって不得意なものもあるからそこであきらめないということでしょうかね。",
+            "timestamp": "2022-08-06T14:02:16.342000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CH",
+            "text": "そうですね。いや、興味深いお話をありがとうございました。",
+            "timestamp": "2022-08-06T14:02:33.446000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AX",
+            "text": "こちらこそ色々ありがとうございました。",
+            "timestamp": "2022-08-06T14:02:47.515000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

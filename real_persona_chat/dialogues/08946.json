@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8946,
+    "interlocutors": [
+        "CO",
+        "EN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんばんは",
+            "timestamp": "2022-08-06T21:30:06.793000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EN",
+            "text": "こんばんわ！今日もあついですね。",
+            "timestamp": "2022-08-06T21:30:29.553000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "暑いですね。雨も降ってました。",
+            "timestamp": "2022-08-06T21:30:45.947000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EN",
+            "text": "降ってましたね。熱中症とか大丈夫ですか？",
+            "timestamp": "2022-08-06T21:31:06.940000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "はい。いつも水こまめに飲んでます",
+            "timestamp": "2022-08-06T21:31:21.726000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EN",
+            "text": "いいですね。塩分も取ってくださいね。",
+            "timestamp": "2022-08-06T21:31:35.963000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "ありがとうございます",
+            "timestamp": "2022-08-06T21:31:43.687000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EN",
+            "text": "好きな食べ物はなんですかー？",
+            "timestamp": "2022-08-06T21:32:05.237000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "おすしですね。",
+            "timestamp": "2022-08-06T21:32:12.209000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EN",
+            "text": "いいですね！私も好きで、マグロが特に好きです。",
+            "timestamp": "2022-08-06T21:32:25.673000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "いいですね。私さっき食べました",
+            "timestamp": "2022-08-06T21:32:37.683000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EN",
+            "text": "実は私も食べてきました。ネタは何が好きですか？",
+            "timestamp": "2022-08-06T21:32:55.298000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "アナゴとかさばとかですね",
+            "timestamp": "2022-08-06T21:33:07.792000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EN",
+            "text": "アナゴは美味しいですよね。他に好きな食べ物はありますか？",
+            "timestamp": "2022-08-06T21:33:26.114000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "カレーも好きです",
+            "timestamp": "2022-08-06T21:33:42.360000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EN",
+            "text": "一緒です！カレーは辛い方が好きです。",
+            "timestamp": "2022-08-06T21:34:03.293000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "よく食べますか？",
+            "timestamp": "2022-08-06T21:34:08.731000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EN",
+            "text": "週1で食べてます！そちらはどうですか？",
+            "timestamp": "2022-08-06T21:34:28.069000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "私もです。外で食べたりしますか？",
+            "timestamp": "2022-08-06T21:34:39.925000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EN",
+            "text": "外でも食べます。ここいちが特に好きです！",
+            "timestamp": "2022-08-06T21:34:58.866000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "なん辛いけますか？",
+            "timestamp": "2022-08-06T21:35:18.941000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EN",
+            "text": "４辛くらいが好きです！そちらはどうですか？",
+            "timestamp": "2022-08-06T21:35:34.055000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "わたしは辛いと汗かきすぎるので普通です",
+            "timestamp": "2022-08-06T21:35:53.236000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EN",
+            "text": "普通も美味しいですよね。トッピングはしますか？",
+            "timestamp": "2022-08-06T21:36:13.267000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "カツカレーが好きでそれがおおいですね",
+            "timestamp": "2022-08-06T21:36:39.188000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EN",
+            "text": "カツ良いですね。私はチーズと野菜が好きです。",
+            "timestamp": "2022-08-06T21:36:52.641000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "おなか減ってきましたね",
+            "timestamp": "2022-08-06T21:37:02.650000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EN",
+            "text": "減りましたね。ただこの時間は厳しいですね。",
+            "timestamp": "2022-08-06T21:37:17.337000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "食べないと寝れない派なんです",
+            "timestamp": "2022-08-06T21:37:38.805000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EN",
+            "text": "それは同じです！",
+            "timestamp": "2022-08-06T21:37:46.471000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10355,
+    "interlocutors": [
+        "BM",
+        "BO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-12T22:51:39.489000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BO",
+            "text": "お願いします！",
+            "timestamp": "2022-08-12T22:51:52.025000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "好きな食べ物ってありますか？",
+            "timestamp": "2022-08-12T22:52:08.626000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BO",
+            "text": "お寿司と焼肉、メロンも好きです！",
+            "timestamp": "2022-08-12T22:52:22.229000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "お寿司私も好きです！特に何が好きですか？",
+            "timestamp": "2022-08-12T22:52:48.920000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BO",
+            "text": "私はサーモンとウニが好きです！",
+            "timestamp": "2022-08-12T22:53:14.986000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "そうなんですね。私はサーモンも好きですが何よりイクラが好きですね。",
+            "timestamp": "2022-08-12T22:53:43.603000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BO",
+            "text": "イクラも美味しいですよね！あなたの好きな食べ物は何ですか？",
+            "timestamp": "2022-08-12T22:54:07.111000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "いくらも特に好きなものの1つですが、他は餃子とか好きですね！",
+            "timestamp": "2022-08-12T22:54:25.616000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BO",
+            "text": "あー！餃子私も大好きです！",
+            "timestamp": "2022-08-12T22:54:50.170000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "美味しいですよね！肉汁があふれるものは特にたまらないです。",
+            "timestamp": "2022-08-12T22:55:30.309000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BO",
+            "text": "わかります！無性に餃子食べたくなる時ありますよね。",
+            "timestamp": "2022-08-12T22:55:46.776000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "あります。好きすぎて週1で食べてます。ほぼ冷食ですが。",
+            "timestamp": "2022-08-12T22:56:02.689000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BO",
+            "text": "私はそういう時は餃子の王将に行きます！",
+            "timestamp": "2022-08-12T22:56:18.962000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "餃子の王将は本当に美味しいですよね！さすが専門店！",
+            "timestamp": "2022-08-12T22:56:42.603000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BO",
+            "text": "浜松とか宇都宮とか行って餃子巡りしたいです。",
+            "timestamp": "2022-08-12T22:57:12.532000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "いいですね！食べ比べしてみたいです！",
+            "timestamp": "2022-08-12T22:57:29.781000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BO",
+            "text": "ちなみに水餃子もお好きですか？",
+            "timestamp": "2022-08-12T22:57:50.775000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "水餃子も好きですが、普通に焼いたののほうが好きなので、あまり食べないですね。",
+            "timestamp": "2022-08-12T22:58:12.865000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BO",
+            "text": "まあ焼きが一番ですよね！個人的には紫蘇餃子が大好きです！",
+            "timestamp": "2022-08-12T22:58:54.956000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "紫蘇餃子ですか？シソが入ってるのでしょうか？",
+            "timestamp": "2022-08-12T22:59:19.596000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BO",
+            "text": "そうです！シソ入りの餃子すごい美味しいですよ！",
+            "timestamp": "2022-08-12T22:59:42.319000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "食べたことないです。味にアクセントがつきそうですね。",
+            "timestamp": "2022-08-12T23:00:04.886000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BO",
+            "text": "はい！あなたは野菜多めか肉多めどちらがお好みですか？",
+            "timestamp": "2022-08-12T23:00:31.146000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "ガッツリ食べたいかさっぱり食べたいかの気分で変わります。",
+            "timestamp": "2022-08-12T23:00:54.205000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BO",
+            "text": "まあそうですよね！私はニンニク効いたお肉たっぷりの餃子が好みですね。",
+            "timestamp": "2022-08-12T23:01:24.392000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "そうなんですね！食べ応えめっちゃありそうですね！！",
+            "timestamp": "2022-08-12T23:01:57.160000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BO",
+            "text": "あー話てたら餃子食べたくなりました。明日餃子にしようかな。",
+            "timestamp": "2022-08-12T23:02:20.570000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "私も明日餃子食べたいですね。王将行こうかな。",
+            "timestamp": "2022-08-12T23:02:42.627000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BO",
+            "text": "台風ひどくなかったら明日は王将に行きたいと思います！",
+            "timestamp": "2022-08-12T23:03:01.340000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

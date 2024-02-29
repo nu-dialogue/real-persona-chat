@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7851,
+    "interlocutors": [
+        "BV",
+        "AV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんにちは。はじめまして。",
+            "timestamp": "2022-08-04T16:00:02.834000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AV",
+            "text": "こんにちは。よろしくおねがいします。",
+            "timestamp": "2022-08-04T16:00:35.068000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "こちらこそ。今日も暑いですね。",
+            "timestamp": "2022-08-04T16:00:44.368000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AV",
+            "text": "ほんと、今年の夏はどうしたものかクーラーをつけていても暑くかんじちゃういます。",
+            "timestamp": "2022-08-04T16:01:10.765000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "今年の夏は何か予定はありますか？",
+            "timestamp": "2022-08-04T16:01:27.589000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AV",
+            "text": "お盆休みにキャンプに行く予定にしています。",
+            "timestamp": "2022-08-04T16:01:56.660000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "わぁキャンプいいですね！",
+            "timestamp": "2022-08-04T16:02:04.251000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AV",
+            "text": "暑いときなので夜、気温が下がってくれるとありがたいんですが。",
+            "timestamp": "2022-08-04T16:02:34.664000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "たしかに熱中症など心配ですね。",
+            "timestamp": "2022-08-04T16:02:51.808000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AV",
+            "text": "そうなんですよ。寝苦しいとか嫌なんで今から天気予報ばっかりチェックしています。",
+            "timestamp": "2022-08-04T16:03:23.247000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "キャンプの時の暑さ対策はどうされるんですか？",
+            "timestamp": "2022-08-04T16:03:49.887000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AV",
+            "text": "もっぱらビールを飲み続けるってかんじですかね。",
+            "timestamp": "2022-08-04T16:04:10.394000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "はは。飲んで冷やすというわけですね。",
+            "timestamp": "2022-08-04T16:04:32.155000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AV",
+            "text": "体温は上がるので結局は暑いんですけどね。あなたは夏の予定とかありますか？",
+            "timestamp": "2022-08-04T16:05:00.246000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "今のところ特になくて。仕事三昧です。",
+            "timestamp": "2022-08-04T16:05:16.538000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AV",
+            "text": "それは、大変ですね。振替のお休みとかありそうですか？",
+            "timestamp": "2022-08-04T16:05:39.046000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "それがなさそうでして。",
+            "timestamp": "2022-08-04T16:06:00.736000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AV",
+            "text": "お辛い！こちらがゆっくりキャンプをしているのが申し訳ないくらいです。",
+            "timestamp": "2022-08-04T16:06:28.137000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "私もキャンプ行きたいです。",
+            "timestamp": "2022-08-04T16:06:43.805000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AV",
+            "text": "もしも、夏休みがあれば何をしたいですか？",
+            "timestamp": "2022-08-04T16:07:01.558000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "ふらりと旅行にでも行きたいですね。",
+            "timestamp": "2022-08-04T16:07:22.633000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AV",
+            "text": "いいですね！行先はやはり涼しいところ？",
+            "timestamp": "2022-08-04T16:07:48.467000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "あーいいですね。もしくはリゾート地なんかも。",
+            "timestamp": "2022-08-04T16:08:05.069000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AV",
+            "text": "リゾート地！夏の醍醐味ですよね。",
+            "timestamp": "2022-08-04T16:08:38.236000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "いいですよね。暑い中お肉食べたくなります。",
+            "timestamp": "2022-08-04T16:09:00.519000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AV",
+            "text": "モリモリ食べてパワーアップしたくなります。",
+            "timestamp": "2022-08-04T16:09:24.265000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "スタミナつけないと！",
+            "timestamp": "2022-08-04T16:09:34.437000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AV",
+            "text": "ですねー！でも今年は仕事ということで残念ですね。",
+            "timestamp": "2022-08-04T16:10:13.742000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "落ち着いたらふらり出かけようと思います。",
+            "timestamp": "2022-08-04T16:10:32.599000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AV",
+            "text": "お仕事頑張ってくださいね。",
+            "timestamp": "2022-08-04T16:10:44.352000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

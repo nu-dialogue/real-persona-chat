@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7253,
+    "interlocutors": [
+        "AC",
+        "BF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-05T09:22:49.414000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BF",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-05T09:22:59.080000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "ところでなんですけど、毎日、何かこう日課みたいにしてることってありますか？",
+            "timestamp": "2022-08-05T09:23:20.889000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BF",
+            "text": "うーん、特に思いつかないかも。あなたは何かあります？",
+            "timestamp": "2022-08-05T09:23:47.863000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "私は毎日近所をひとまわり、散歩してます。",
+            "timestamp": "2022-08-05T09:24:07.271000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BF",
+            "text": "お！健康的ですね！",
+            "timestamp": "2022-08-05T09:24:20.091000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "そう、健康目的に渋々始めた感じなんですよー。",
+            "timestamp": "2022-08-05T09:24:33.113000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BF",
+            "text": "渋々でも始めたのが素晴らしいじゃないですか！",
+            "timestamp": "2022-08-05T09:24:57.601000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "ありがとうございます。だってね、ふくらはぎの太さが自分史上最大になっちゃって。",
+            "timestamp": "2022-08-05T09:25:20.140000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BF",
+            "text": "ふくらはぎかー！何しても細くならない気がします。",
+            "timestamp": "2022-08-05T09:26:06.550000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "でしょー？しかも、デスクワークでむくむようになっちゃって。",
+            "timestamp": "2022-08-05T09:26:11.056000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BF",
+            "text": "デスクワークはむくみますね！気づいたら足パンパンってことよくあります。",
+            "timestamp": "2022-08-05T09:26:45.354000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "そういうときってどうしてます？",
+            "timestamp": "2022-08-05T09:26:54.545000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BF",
+            "text": "マッサージするとかかなあ。",
+            "timestamp": "2022-08-05T09:27:16.122000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "マッサージ、効きます？コツが有るのかしら。",
+            "timestamp": "2022-08-05T09:27:30.626000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BF",
+            "text": "筋膜剥がしローラーみたいなので、ゴリゴリやると結構ききますよ！痛いけど！",
+            "timestamp": "2022-08-05T09:28:04.533000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "あー！やっぱ器具あったほうがいいですよね。",
+            "timestamp": "2022-08-05T09:28:19.417000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BF",
+            "text": "絶対あった方がいいです。自分でハンドマッサージはなかなか難しい。",
+            "timestamp": "2022-08-05T09:28:50.068000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "そうなんです、私、ハンドマッサージしても全然効果なく。",
+            "timestamp": "2022-08-05T09:29:05.099000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BF",
+            "text": "あとプロの手を借りるとか？",
+            "timestamp": "2022-08-05T09:29:28.649000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "それ、やりたいんですけど、主婦的にダイエットにお金をかけると罪悪感が！",
+            "timestamp": "2022-08-05T09:29:47.490000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BF",
+            "text": "ご主人も一緒に連れて行くとかはどうですか？",
+            "timestamp": "2022-08-05T09:30:29.098000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "それは名案かも！旦那、マッサージ大好きなんですよね。",
+            "timestamp": "2022-08-05T09:30:58.898000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BF",
+            "text": "それだったら好都合ですね！お金もご主人のポケットマネーから出していただくということで。",
+            "timestamp": "2022-08-05T09:31:36.648000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "そこ大事！そういえば、私、結婚してからお小遣いもらったことないや。",
+            "timestamp": "2022-08-05T09:31:57.490000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BF",
+            "text": "そういえば、私もそうかも。",
+            "timestamp": "2022-08-05T09:32:29.411000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "主婦でもお小遣いは必要ですよね？",
+            "timestamp": "2022-08-05T09:32:52.852000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BF",
+            "text": "たしかに！家計を気にせず自由に使えるお金が欲しい！",
+            "timestamp": "2022-08-05T09:33:20.654000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "マッサージよりも、そっちの交渉をまずしてみます！",
+            "timestamp": "2022-08-05T09:33:34.180000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BF",
+            "text": "私もです！今日はいろんな気づきがありました。ありがとうございました！",
+            "timestamp": "2022-08-05T09:33:58.961000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AC",
+            "text": "こちらこそです！ではー。",
+            "timestamp": "2022-08-05T09:34:05.852000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

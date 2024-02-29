@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4872,
+    "interlocutors": [
+        "FV",
+        "CH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-16T09:48:49.151000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CH",
+            "text": "どうも、こんにちは！",
+            "timestamp": "2022-09-16T09:49:02.526000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FV",
+            "text": "朝ごはんは食べられました？",
+            "timestamp": "2022-09-16T09:49:10.090000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CH",
+            "text": "はい、ごく普通に納豆やみそ汁で済ませました。",
+            "timestamp": "2022-09-16T09:49:31.093000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FV",
+            "text": "いいですね、日本という感じで！私も納豆でした。自炊されていますか？",
+            "timestamp": "2022-09-16T09:49:51.989000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CH",
+            "text": "ほとんど自炊です。料理は好きですし。",
+            "timestamp": "2022-09-16T09:50:10.637000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FV",
+            "text": "そうなんですね！私も趣味といったら料理くらいしかないので嬉しいです。",
+            "timestamp": "2022-09-16T09:50:31.697000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CH",
+            "text": "食いしん坊が高じて作るのも好きになったクチです。",
+            "timestamp": "2022-09-16T09:50:54.781000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FV",
+            "text": "分かります。自分で食べたもの美味しいですし、より改良したいとか思ってしまいますよね。",
+            "timestamp": "2022-09-16T09:51:13.573000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CH",
+            "text": "そうですね、食べたい味というのは作るしかないですから、試行錯誤して楽しいです。",
+            "timestamp": "2022-09-16T09:51:38.589000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FV",
+            "text": "得意な料理はなんでしょうか？",
+            "timestamp": "2022-09-16T09:51:50.633000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CH",
+            "text": "豚の角煮とトマトカレーが周りには評判がいいです。",
+            "timestamp": "2022-09-16T09:52:10.300000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FV",
+            "text": "いいですね！すごくいいですね！そのあたり私も大好きです。",
+            "timestamp": "2022-09-16T09:52:31.206000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CH",
+            "text": "角煮はおいしいですけど、健康的にはあまり食べてはいけないものなので、ごちそう感がありますね。",
+            "timestamp": "2022-09-16T09:53:17.959000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FV",
+            "text": "分かります。みりんやお酒は砂糖多いですし、しょうゆは塩分が気になりますね。",
+            "timestamp": "2022-09-16T09:53:36.601000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CH",
+            "text": "ですです。あなたはどんなメニューをよく作りますか？",
+            "timestamp": "2022-09-16T09:54:05.710000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FV",
+            "text": "私は野菜で遊ぶのが好きですね、あとは中華と、カレーはスパイスからこだわってます。",
+            "timestamp": "2022-09-16T09:54:39.642000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CH",
+            "text": "それは凄い。スパイスも種類がたくさんありますよね。",
+            "timestamp": "2022-09-16T09:55:08.636000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FV",
+            "text": "インドカレーは、クミン、ターメリック、コリアンダーの3種類から始められるので、ぜひ！",
+            "timestamp": "2022-09-16T09:55:33.909000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CH",
+            "text": "その辺はメジャーなので、とっつきやすそうですね。試してみますよ。",
+            "timestamp": "2022-09-16T09:56:04.728000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FV",
+            "text": "無水でトマトカレーとかつくるなら、たぶん結構やってみれば上手くいくと思います。",
+            "timestamp": "2022-09-16T09:56:35.972000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CH",
+            "text": "なるほど。中華といえば、はじめて豆板醤を使ったときは勝手がわからなくて大変なことになりました。",
+            "timestamp": "2022-09-16T09:57:16.205000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FV",
+            "text": "入れすぎたとかそういう感じですか？",
+            "timestamp": "2022-09-16T09:57:26.866000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CH",
+            "text": "かなり少なく入れたつもりが、酷い辛さになって大変でした。",
+            "timestamp": "2022-09-16T09:57:53.344000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FV",
+            "text": "豆板醤によって辛さも異なりますし、味噌くらいのノリで入れると大惨事ですね。",
+            "timestamp": "2022-09-16T09:58:15.711000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CH",
+            "text": "そうですね。豆板醤一つとっても色んなメーカーが出してますし。",
+            "timestamp": "2022-09-16T09:58:47.833000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FV",
+            "text": "辛い物は苦手ですか？",
+            "timestamp": "2022-09-16T09:59:08.487000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CH",
+            "text": "いえ、全然苦手ではないですよ。激辛が無理というだけで。",
+            "timestamp": "2022-09-16T09:59:34.680000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FV",
+            "text": "なるほど、私は辛いもの好きなので、赤い色の調味料みるとつい使ってみたくなってしまいます。",
+            "timestamp": "2022-09-16T10:00:03.130000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CH",
+            "text": "おお、そうなんですか。それは面白いですね。",
+            "timestamp": "2022-09-16T10:00:29.543000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

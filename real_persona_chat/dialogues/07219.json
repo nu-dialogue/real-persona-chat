@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7219,
+    "interlocutors": [
+        "CA",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T13:41:11.960000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-05T13:41:20.481000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "<AT>さんは、最近始めたことややってみたことってありますか？",
+            "timestamp": "2022-08-05T13:41:35.103000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "断捨離しました。",
+            "timestamp": "2022-08-05T13:41:47.914000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "おお！いいですね！",
+            "timestamp": "2022-08-05T13:41:55.747000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "でかいごみ袋7、8個分になったと思います。",
+            "timestamp": "2022-08-05T13:42:14.278000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "そんなに断捨離を！結構時間かかったんじゃないですか？",
+            "timestamp": "2022-08-05T13:42:38.938000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "長丁場でしたね、腰が悪いので1日少しずつ作業しました。",
+            "timestamp": "2022-08-05T13:42:58.989000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "７、８袋だったら、お家の中の様子変わったのではないですか？",
+            "timestamp": "2022-08-05T13:43:27.244000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "結構押入れのものも処分しましたが、それでも見違えました。",
+            "timestamp": "2022-08-05T13:43:56.338000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "断捨離って、決断して頭も使うから、その量がどれだけすごいかやってみたことあるので尊敬です！",
+            "timestamp": "2022-08-05T13:44:38.464000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "これもお家時間が増えたおかげですね、時間が経つにつれてやらなくなると思い頑張りました。",
+            "timestamp": "2022-08-05T13:45:17.205000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "確かにお家時間が増えてやる人増えてるって何かで聞きました",
+            "timestamp": "2022-08-05T13:45:42.113000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "今まで使うかもと保管しておいたものでずっと使ってないのは思い切って捨てました。",
+            "timestamp": "2022-08-05T13:46:26.192000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "思い切りがすごい！全部、売ったりとかではなくて処分を？",
+            "timestamp": "2022-08-05T13:46:57.938000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "いいえ、売れそうなものは売りました！",
+            "timestamp": "2022-08-05T13:47:14.038000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "メルカリとかですか？",
+            "timestamp": "2022-08-05T13:47:24.671000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "いいえ、中古品を取り扱うお店へ売りました。",
+            "timestamp": "2022-08-05T13:48:20.365000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "なるほど！そっちの方がすぐに手放せますものね",
+            "timestamp": "2022-08-05T13:48:33.851000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "あと、メルカリとかYahooオークションとかだと手間が面倒で諦めました。",
+            "timestamp": "2022-08-05T13:49:04.725000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "確かに、売れるまで保管しておかなくちゃいけないのがネックです",
+            "timestamp": "2022-08-05T13:49:26.069000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "さらに梱包とか発送とか色々ありまして。",
+            "timestamp": "2022-08-05T13:49:57.025000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "時間がかかりますもんね。メルカリは確かにやったことありましたが面倒でした",
+            "timestamp": "2022-08-05T13:50:29.048000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "写真とかも撮りますよね、でもお店で売るより高価で買取りいただけるイメージです。",
+            "timestamp": "2022-08-05T13:50:58.809000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "活用できそうなとこでお世話になろうかなあ。その前に<AT>さんを見習って不用品捨てる覚悟を持ちます！",
+            "timestamp": "2022-08-05T13:51:46.734000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "1日1つは捨てるみたいなところから始めても良いかもです。",
+            "timestamp": "2022-08-05T13:52:15.724000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "それならはじめてみれそうです！大ボスはそれらを断捨離してから向き合おう。",
+            "timestamp": "2022-08-05T13:52:52.651000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "小さいものでも積もれば山ですからね、是非試してみてください！",
+            "timestamp": "2022-08-05T13:53:14.451000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "今日からはじめてみます！！ありがとうございます。またお話ししましょう。",
+            "timestamp": "2022-08-05T13:53:49.456000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "こちらこそありがとうございました。",
+            "timestamp": "2022-08-05T13:53:58.550000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

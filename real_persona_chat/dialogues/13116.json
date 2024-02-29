@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13116,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "おはようございます",
+            "timestamp": "2022-09-17T10:02:42.190000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "おはようございます！よろしくお願いします",
+            "timestamp": "2022-09-17T10:02:55.553000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いしますー",
+            "timestamp": "2022-09-17T10:03:06.526000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "朝ごはんはもう食べましたか？",
+            "timestamp": "2022-09-17T10:03:19.229000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "昨日の残りのシチューを食べましたよ",
+            "timestamp": "2022-09-17T10:03:44.150000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "おいしそう！クリームシチューですか？",
+            "timestamp": "2022-09-17T10:04:01.341000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "そうです！かぼちゃ入りでした",
+            "timestamp": "2022-09-17T10:04:20.922000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "秋らしくていいですね",
+            "timestamp": "2022-09-17T10:05:09.765000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "レグすけさんは朝ごはん食べました？",
+            "timestamp": "2022-09-17T10:04:51.345000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "自分は朝ごはん食べない派なんですよ",
+            "timestamp": "2022-09-17T10:05:13.340000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "そうなんですか、おなかすきませんか？",
+            "timestamp": "2022-09-17T10:05:27.500000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "それが全然おなかすかないんですよね。夜しか食べない時もあります",
+            "timestamp": "2022-09-17T10:05:49.831000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "栄養が心配ですが、胃は休まりそうですね",
+            "timestamp": "2022-09-17T10:06:07.916000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "栄養はサプリメントとかで補ってるんですよ",
+            "timestamp": "2022-09-17T10:06:29.908000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "なるほどー。あんまり食に興味がない感じですか？",
+            "timestamp": "2022-09-17T10:06:53.502000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "ないがしろにしがちかもしれないです。飲み物とかで栄養取れるならそれがいいというか",
+            "timestamp": "2022-09-17T10:07:51.656000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "飲み物かぁ、スムージーとかプロテインとかですかね",
+            "timestamp": "2022-09-17T10:08:13.528000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "持ち運びが難しいのが難点なんですよね",
+            "timestamp": "2022-09-17T10:08:33.228000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "難しいんですか？",
+            "timestamp": "2022-09-17T10:08:41.980000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "スムージーとかはすぐ飲まないと変色したりしますね",
+            "timestamp": "2022-09-17T10:09:05.735000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね、それはちょっといやかも。",
+            "timestamp": "2022-09-17T10:09:21.480000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "飲む気がなくなりますよね",
+            "timestamp": "2022-09-17T10:09:42.800000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "何か画期的な飲み物があればいいんですが",
+            "timestamp": "2022-09-17T10:10:01.974000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "完全栄養ドリンクみたいなものもあるみたいですね、高いけど",
+            "timestamp": "2022-09-17T10:10:20.775000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "たしかにそういうものは高いイメージあります",
+            "timestamp": "2022-09-17T10:10:39.040000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "普通にちゃんと食事しろってことかもしれないですね",
+            "timestamp": "2022-09-17T10:11:11.360000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "面倒でもちゃんと食べたほうがいいですよ！",
+            "timestamp": "2022-09-17T10:11:31.838000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "そうですよね、せめて昼抜きはやめたいとおもいます",
+            "timestamp": "2022-09-17T10:11:52.744000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "はい。ではそろそろ失礼します",
+            "timestamp": "2022-09-17T10:12:02.277000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-17T10:12:09.036000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

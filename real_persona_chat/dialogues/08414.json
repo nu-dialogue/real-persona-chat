@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8414,
+    "interlocutors": [
+        "BI",
+        "BQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-05T14:08:50.422000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-05T14:08:59.492000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "動物はお好きですか？",
+            "timestamp": "2022-08-05T14:09:15.677000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BQ",
+            "text": "好きです！",
+            "timestamp": "2022-08-05T14:09:29.508000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "なにか飼われてますか？",
+            "timestamp": "2022-08-05T14:09:45.230000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BQ",
+            "text": "喘息を患っていたので飼えないんですが、動画とかよく見ます。",
+            "timestamp": "2022-08-05T14:10:11.918000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "動物の動画って、癒されますよね。",
+            "timestamp": "2022-08-05T14:10:30.992000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BQ",
+            "text": "犬とか猫とかかわいいですよね。",
+            "timestamp": "2022-08-05T14:10:47.212000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "犬派ですか、猫派ですか？",
+            "timestamp": "2022-08-05T14:11:15.043000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BQ",
+            "text": "強いて言えば犬派です。",
+            "timestamp": "2022-08-05T14:11:37.879000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "犬は、何といっても賢そうなところがたまりませんね。",
+            "timestamp": "2022-08-05T14:12:08.672000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BQ",
+            "text": "従順なイメージがありますね。",
+            "timestamp": "2022-08-05T14:12:26.211000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "ちゃんと話を聞いて、寄り添ってくれそうです。",
+            "timestamp": "2022-08-05T14:12:44.507000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BQ",
+            "text": "猫の自由さも捨てがたいんですが、犬のしっかりさがいいですよね。",
+            "timestamp": "2022-08-05T14:13:17.141000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "確かに。猫は自由気ままで気分屋ですからね。",
+            "timestamp": "2022-08-05T14:13:47.216000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BQ",
+            "text": "好きな犬種はありますか？私は柴犬が好きです。",
+            "timestamp": "2022-08-05T14:14:06.925000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "オールドイングリッシュシープドッグ、って知ってますか？",
+            "timestamp": "2022-08-05T14:14:41.012000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BQ",
+            "text": "今調べたんですけど、かわいいですね。",
+            "timestamp": "2022-08-05T14:15:13.197000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "ありがとうございます。モフモフがたまらなくて。",
+            "timestamp": "2022-08-05T14:15:38.146000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BQ",
+            "text": "目が隠れぎみなのもたまらないですね。",
+            "timestamp": "2022-08-05T14:15:55.199000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "そうなんです。抱きついて眠りたいです。",
+            "timestamp": "2022-08-05T14:16:14.903000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BQ",
+            "text": "犬がいる生活っていいなとは思うんですけど、やはり飼うとなったら大変なんでしょうね。",
+            "timestamp": "2022-08-05T14:16:57.671000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "散歩が大変そうですね。",
+            "timestamp": "2022-08-05T14:17:18.254000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BQ",
+            "text": "大型犬だと4回くらい必要だと聞いたことがあります。",
+            "timestamp": "2022-08-05T14:17:45.063000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "一日が散歩で終わってしまいそうです。",
+            "timestamp": "2022-08-05T14:18:04.555000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BQ",
+            "text": "いつかは来てしまう別れも辛いですよね。",
+            "timestamp": "2022-08-05T14:18:29.072000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "そうですね。避けて通れないですもんね。",
+            "timestamp": "2022-08-05T14:18:51.151000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BQ",
+            "text": "生き物を飼うって難しいことですね。",
+            "timestamp": "2022-08-05T14:19:14.115000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "それでもやっぱり、ぬくもりや癒しを求めて飼ってしまうんでしょうね。",
+            "timestamp": "2022-08-05T14:19:45.270000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BQ",
+            "text": "それ以上の幸せをくれるんでしょうね。",
+            "timestamp": "2022-08-05T14:19:59.386000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13123,
+    "interlocutors": [
+        "FF",
+        "DL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-17T10:28:36.879000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DL",
+            "text": "こんにちわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-17T10:28:43.419000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "5億あったら何がしたい、買いたいですか？",
+            "timestamp": "2022-09-17T10:28:59.106000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DL",
+            "text": "そうですね。一戸建てと、本棚が沢山欲しいですね。",
+            "timestamp": "2022-09-17T10:29:18.409000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "家は間違いないですね。私も次の引っ越しの時には家欲しいですね。",
+            "timestamp": "2022-09-17T10:29:39.711000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DL",
+            "text": "お金があったら、<FF>さんは一戸建て派ですか？それともマンションとか派ですか？",
+            "timestamp": "2022-09-17T10:30:20.314000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "一戸建てかな？と思うのですが、立地とかで真剣に考えるとマンションの方がいいかもしれなくて悩みますね。",
+            "timestamp": "2022-09-17T10:30:51.896000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DL",
+            "text": "立地とかはありますね！良い場所でも周囲の環境が悪かったりしますものね！",
+            "timestamp": "2022-09-17T10:31:13.632000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "そうなんですよね。駅まで徒歩圏にしか住んだことがなくて、バスとか挟むのに少し抵抗があります。",
+            "timestamp": "2022-09-17T10:31:37.949000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DL",
+            "text": "通勤ラッシュとかあったら嫌ですもんね。",
+            "timestamp": "2022-09-17T10:31:57.843000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "そうなんですよ。今テレワークで満員電車もないのでもう戻りたくないです。真剣に。",
+            "timestamp": "2022-09-17T10:32:16.369000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DL",
+            "text": "テレワーク前までは満員電車での通勤でしたか？",
+            "timestamp": "2022-09-17T10:32:38.084000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "はい。新宿を使うので日本一だったと思います。",
+            "timestamp": "2022-09-17T10:32:52.366000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DL",
+            "text": "うわ、結構凄そうなイメージです。毎日がおしくら饅頭な感じだったので？",
+            "timestamp": "2022-09-17T10:33:13.838000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "そうです。本当にきついですね。乗るのに苦労し、降りるのに苦労します。",
+            "timestamp": "2022-09-17T10:33:33.820000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DL",
+            "text": "あれってもう、気合で乗るしかないって感じなんですか？",
+            "timestamp": "2022-09-17T10:33:58.583000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "私はそう思ってました。早朝に出るような形をとってる時期もありましたが寝たいですね。",
+            "timestamp": "2022-09-17T10:34:25.238000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DL",
+            "text": "あ、早朝でしたら幾分空いてはいるんですね。でも、睡眠時間を取るか、快適さを取るか、難しい選択ですね。",
+            "timestamp": "2022-09-17T10:35:00.661000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "はい。テレワークはさすがに終わってしまうと思うのですが、時差出勤だけは続けてほしいです。",
+            "timestamp": "2022-09-17T10:35:22.872000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DL",
+            "text": "終わって欲しいとは、テレワークよりも職場の方が良いんですか？",
+            "timestamp": "2022-09-17T10:36:34.807000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "いえ、テレワーク最高です。テレワーク終わらせようとする動きがありますので時差出勤維持でお願いしたい。",
+            "timestamp": "2022-09-17T10:36:53.327000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DL",
+            "text": "なるほど。<FF>さん的にはもうテレワークだけでいんじゃねって感じなんですね。",
+            "timestamp": "2022-09-17T10:37:28.383000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "その通りです、というか上の人以外はみんなそう思ってる気がします。",
+            "timestamp": "2022-09-17T10:37:44.280000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DL",
+            "text": "やはり上の人達はテレワークに馴染めてない感じなんですか？",
+            "timestamp": "2022-09-17T10:38:05.483000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "そうなのかもしれません、しかしなんでなんですかね？絶対こっちの方がいいのに。",
+            "timestamp": "2022-09-17T10:38:30.002000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DL",
+            "text": "やっぱり、昔からの働き方が染みついちゃってるんですかね？",
+            "timestamp": "2022-09-17T10:38:37.450000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "新しい事を始めるのって年取ると大変ですから全くわからないとは言いませんけど。",
+            "timestamp": "2022-09-17T10:38:58.265000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DL",
+            "text": "それでも、私も自宅で仕事出来た方が快適だとは思うんですけれどね。",
+            "timestamp": "2022-09-17T10:39:20.912000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "ですよね。家、最高です！",
+            "timestamp": "2022-09-17T10:39:37.090000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DL",
+            "text": "やっぱり<FF>さんが羨ましい！きーっ！",
+            "timestamp": "2022-09-17T10:39:43.103000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13436,
+    "interlocutors": [
+        "GS",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GS",
+            "text": "はじめまして、よろしくお願いします！",
+            "timestamp": "2022-09-22T19:58:04.775000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "こちらこそよろしくお願いします！",
+            "timestamp": "2022-09-22T19:58:15.996000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GS",
+            "text": "夕食何食べましたか？",
+            "timestamp": "2022-09-22T19:58:23.474000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "実はまだなんですー。そちらは？",
+            "timestamp": "2022-09-22T19:58:37.282000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GS",
+            "text": "先ほど、ハンバーグを食べましたよ。",
+            "timestamp": "2022-09-22T19:58:46.671000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "いいですね！ご自分で作られたんですか？",
+            "timestamp": "2022-09-22T19:58:53.985000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GS",
+            "text": "いえ、ギフトで送られてきたものです！とてもおいしかったですよ。",
+            "timestamp": "2022-09-22T19:59:14.910000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "おお！何ハンバーグでした？",
+            "timestamp": "2022-09-22T19:59:26.334000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GS",
+            "text": "シンプルなハンバーグで、十勝清水牛とか書かれてましたね。",
+            "timestamp": "2022-09-22T19:59:42.932000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "北海道ですか。",
+            "timestamp": "2022-09-22T19:59:50.450000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GS",
+            "text": "そうです！北海道っていろんなものがおいしいですよね。",
+            "timestamp": "2022-09-22T20:00:09.684000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "私北海道行ったことないんですよ。",
+            "timestamp": "2022-09-22T20:00:22.331000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GS",
+            "text": "そうなんですか！一度は行くべきですよ、ちなみに私は修学旅行で行きました。",
+            "timestamp": "2022-09-22T20:00:47.905000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "修学旅行で北海道いいですね！何食べました？",
+            "timestamp": "2022-09-22T20:01:00.607000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GS",
+            "text": "バイキング形式だったので色んなもの食べたなぁとしか覚えてないです！",
+            "timestamp": "2022-09-22T20:01:29.069000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "バイキングいいですね。きっと魚とかおいしいんでしょうね。",
+            "timestamp": "2022-09-22T20:01:47.407000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GS",
+            "text": "あー、確かありましたね。食事よりあの時はホテルの方がインパクトあってですね",
+            "timestamp": "2022-09-22T20:02:29.874000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "ホテルがすごかったんですか！",
+            "timestamp": "2022-09-22T20:02:52.540000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GS",
+            "text": "修学旅行にしては豪華すぎるだろって感じでしたよ！",
+            "timestamp": "2022-09-22T20:03:06.646000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "修学旅行ってやたらと豪華なホテルに泊まるイメージあります。",
+            "timestamp": "2022-09-22T20:03:20.513000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GS",
+            "text": "え、ほんとですか？小中学生のときはかなり古い旅館とかでしたよ。",
+            "timestamp": "2022-09-22T20:03:51.243000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "私は中学生のときに東京に行ったのですが、かなり豪華でした。",
+            "timestamp": "2022-09-22T20:04:10.399000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GS",
+            "text": "ホテル名とか覚えてますか？普通に気になります！",
+            "timestamp": "2022-09-22T20:04:26.056000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "あーさすがに覚えてないです。でもスカイツリーの近くでした。",
+            "timestamp": "2022-09-22T20:04:41.206000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GS",
+            "text": "あー、浅草あたりですか。あの辺はけっこういいホテルたくさんありますよね。",
+            "timestamp": "2022-09-22T20:05:06.349000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "そうです！なかなか高さもあるいいホテルでした。",
+            "timestamp": "2022-09-22T20:05:30.338000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GS",
+            "text": "いいですねぇ！とても羨ましいです！",
+            "timestamp": "2022-09-22T20:05:41.829000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "館内を体操服で歩いちゃダメだったのをすごく覚えています。",
+            "timestamp": "2022-09-22T20:06:00.080000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GS",
+            "text": "それはもうかなりの高級ホテルですね！",
+            "timestamp": "2022-09-22T20:06:13.996000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "はい！だからわざわざ私服持っていきました。",
+            "timestamp": "2022-09-22T20:06:27.712000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

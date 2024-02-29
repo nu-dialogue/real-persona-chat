@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2487,
+    "interlocutors": [
+        "CE",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-03T13:37:56.142000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "こんにちは！！",
+            "timestamp": "2022-09-03T13:38:06.005000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "今日のお昼って何食べました？",
+            "timestamp": "2022-09-03T13:38:21.705000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "そうめんを食べました！",
+            "timestamp": "2022-09-03T13:38:29.886000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "そうめん！夏らしいですね！タレはめんつゆですか？",
+            "timestamp": "2022-09-03T13:38:55.452000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "めんつゆです。そこに少しとろろ昆布も入れました。",
+            "timestamp": "2022-09-03T13:39:14.175000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "うわっ、とろろ昆布！久しぶりに食べたくなってきました！",
+            "timestamp": "2022-09-03T13:39:43.935000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "とろろ昆布好きなんですよね。美味しいです。",
+            "timestamp": "2022-09-03T13:39:53.624000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "あったかいおうどんとかに入れても、味噌汁に入れてもおいしいですよね。",
+            "timestamp": "2022-09-03T13:40:14.162000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "そうなんです！味噌汁は良く入れます！あとは、白米余ったら、白米にもかけますね。",
+            "timestamp": "2022-09-03T13:40:45.056000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "おいしいですよねー。とろろ巻きおにぎりも最高です。私もにゅう麺作ってとろろ昆布食べようかな。",
+            "timestamp": "2022-09-03T13:41:30.457000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "おにぎりはとろろ合いますよね。もしかして、北陸の方だったりしますか？",
+            "timestamp": "2022-09-03T13:42:03.412000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "私は九州ですねー！",
+            "timestamp": "2022-09-03T13:42:27.926000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "あ、そうなんですね。失礼しました。北陸の方のほうがとろろに共感する人多い気がするので。",
+            "timestamp": "2022-09-03T13:43:01.605000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "そうなんですね！うちはわりととろろとか海苔とか、そういう海藻系が好きな家庭だったので。",
+            "timestamp": "2022-09-03T13:43:36.737000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "そうだったんですか！私も家も海藻みんな好きでした！",
+            "timestamp": "2022-09-03T13:44:10.021000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "やっぱり入れると海藻はダシが出るし、あれにもこれにもかけたり入れたりしちゃいますよね。",
+            "timestamp": "2022-09-03T13:44:56.928000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "ちなみにあおさのスープは好きですか？",
+            "timestamp": "2022-09-03T13:45:10.902000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "スープではまだ食べたことないのですが、あおさ自体は好きです！",
+            "timestamp": "2022-09-03T13:45:31.089000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "奄美大島に行ったとき食べて、めちゃくちゃ美味しくて、その場でお土産に買ってしまうほどでした。",
+            "timestamp": "2022-09-03T13:46:06.642000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "真空パックとかインスタント的なパッケージで売られているのですか？",
+            "timestamp": "2022-09-03T13:46:38.572000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "インスタントでありました。お湯に入れればオーケーのものでした。",
+            "timestamp": "2022-09-03T13:47:11.395000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "とても手軽に楽しめますね！私も探してみようかな。奄美限定のものでしたか？",
+            "timestamp": "2022-09-03T13:47:54.525000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "ちょっとわからないですね。奄美のお土産として売ってました。",
+            "timestamp": "2022-09-03T13:48:16.144000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "そうですよね。あおさのスープ、今日スーパー行くのでチェックしてみます！",
+            "timestamp": "2022-09-03T13:48:47.708000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "是非探してみてください！私も住んでるとこで探したことないので、みてみようかな。",
+            "timestamp": "2022-09-03T13:49:05.674000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "あおさの味噌汁はたまーに見かけるので、もしかしたら売ってるかもですよね。",
+            "timestamp": "2022-09-03T13:49:27.987000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "ありますね。あれも結構好きです。",
+            "timestamp": "2022-09-03T13:49:43.285000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "あおさって香りがいいですもんね。お話ありがとうございました！",
+            "timestamp": "2022-09-03T13:50:08.954000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "こちらこそお話ありがとうございました！",
+            "timestamp": "2022-09-03T13:50:24.208000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8255,
+    "interlocutors": [
+        "BO",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T12:48:33.575000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T12:48:45.049000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "普段料理とかされますか？",
+            "timestamp": "2022-08-07T12:48:56.261000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "しないです",
+            "timestamp": "2022-08-07T12:49:02.422000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "私もしてなかったですが、1人暮らし始めたのでやり始めました。",
+            "timestamp": "2022-08-07T12:49:27.505000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "得意料理はありますか？",
+            "timestamp": "2022-08-07T12:49:38.624000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "全然うまくないですが、卵焼きをよく作ります。",
+            "timestamp": "2022-08-07T12:49:53.754000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "定番ですよね、挑戦したいものはありますか？",
+            "timestamp": "2022-08-07T12:50:12.048000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "揚げ物系とか！コロッケ挑戦したいですね。",
+            "timestamp": "2022-08-07T12:50:28.187000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "手作りですか？",
+            "timestamp": "2022-08-07T12:50:37.644000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "はい、一から作ってみたいです。",
+            "timestamp": "2022-08-07T12:50:50.294000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "それは、難しそうですが、やりがいありそうです",
+            "timestamp": "2022-08-07T12:51:07.460000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "美味しくできたら達成感半端なさそうです。",
+            "timestamp": "2022-08-07T12:51:21.991000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "ですよね、自分もチャレンジしたいです",
+            "timestamp": "2022-08-07T12:51:36.004000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "作りたい願望はある感じですか？",
+            "timestamp": "2022-08-07T12:51:53.459000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、やってみたいです",
+            "timestamp": "2022-08-07T12:52:07.920000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "ぜひやりましょう！",
+            "timestamp": "2022-08-07T12:52:23.141000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "はい！",
+            "timestamp": "2022-08-07T12:52:37.163000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "あとは時間があればクッキー作りとかもよくやってますね。",
+            "timestamp": "2022-08-07T12:53:05.991000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "凄い！焦がしたりしませんでした？",
+            "timestamp": "2022-08-07T12:53:33.324000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "します！やりすぎるとき普通にあります。",
+            "timestamp": "2022-08-07T12:53:46.065000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "クッキーはオーブン使うんです？",
+            "timestamp": "2022-08-07T12:54:01.507000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "そうです！オーブンでやります。",
+            "timestamp": "2022-08-07T12:54:11.922000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "レシピ通りやるんですか、アレンジとかは？",
+            "timestamp": "2022-08-07T12:54:37.451000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "基本レシピ通りでちょこっとアレンジしたりもします！",
+            "timestamp": "2022-08-07T12:54:53.241000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "気になります、何をアレンジするんです？",
+            "timestamp": "2022-08-07T12:55:17.094000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "チョコチップやアーモンドを追加したりしますね。",
+            "timestamp": "2022-08-07T12:55:32.918000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "美味しそうです",
+            "timestamp": "2022-08-07T12:55:54.541000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "意外と簡単にできるので初心者の方にもおすすめです。",
+            "timestamp": "2022-08-07T12:56:11.842000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "自分もチャレンジしてみます",
+            "timestamp": "2022-08-07T12:56:30.234000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BO",
+            "text": "ぜひ！お話ありがとうござました！",
+            "timestamp": "2022-08-07T12:56:43.331000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

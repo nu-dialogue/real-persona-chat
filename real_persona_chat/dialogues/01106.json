@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1106,
+    "interlocutors": [
+        "CA",
+        "CU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "おはようございます。はじめまして、<CA>と申します。",
+            "timestamp": "2022-08-15T10:00:05.194000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CU",
+            "text": "初めまして。よろしくお願いします。",
+            "timestamp": "2022-08-15T10:00:22.723000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "こちらは雨降りですが、<CU>さんのところはお天気どうですか？",
+            "timestamp": "2022-08-15T10:00:49.996000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CU",
+            "text": "どんより曇り空ですが、雨は降ってなさそうです。",
+            "timestamp": "2022-08-15T10:02:10.500000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "このお盆、どう過ごされていますか？",
+            "timestamp": "2022-08-15T10:02:02.501000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CU",
+            "text": "日帰りで実家に帰省したくらいで、あとはゆっくりしていますね。",
+            "timestamp": "2022-08-15T10:02:25.303000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "帰省されたのですね。うらやましい！",
+            "timestamp": "2022-08-15T10:02:54.058000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CU",
+            "text": "やはりコロナで帰省は見送られた感じですか？",
+            "timestamp": "2022-08-15T10:03:26.213000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "実は、夫の職場の向かいの席の方が濃厚接触者になってしまって。",
+            "timestamp": "2022-08-15T10:03:46.741000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CU",
+            "text": "ええ！それは災難でしたね。濃厚接触者の濃厚接触者ってことですか？",
+            "timestamp": "2022-08-15T10:04:33.843000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "そうなんです。それで、その方が P C Rを受けないということなので、帰省を取りやめることにしました",
+            "timestamp": "2022-08-15T10:05:31.239000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CU",
+            "text": "そうなんですねー。ご実家の親御さんもがっかりされたでしょうし、残念でしたね。",
+            "timestamp": "2022-08-15T10:06:31.151000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "実は、実家は近いのですが、お中元も用意していたのでこのタイミングでと思ってしまいました",
+            "timestamp": "2022-08-15T10:07:30.241000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CU",
+            "text": "そうでしたか。色々計画が狂ってしまいましたね。私も夫婦とも実家が近いので助かっています。",
+            "timestamp": "2022-08-15T10:08:34.387000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "<CU>さんもご実家がお近くなのですね。コロナ禍になって近いことのありがたみが本当にわかりました",
+            "timestamp": "2022-08-15T10:09:13.483000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CU",
+            "text": "ほんとですね。高齢の両親のことは何かと心配ですもんね。",
+            "timestamp": "2022-08-15T10:09:47.865000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "そうなんです。近いのが一番だ。",
+            "timestamp": "2022-08-15T10:11:21.142000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CU",
+            "text": "私たち家族も、実は１月ごろにコロナで全滅して大変でした。",
+            "timestamp": "2022-08-15T10:12:10.950000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "ご家族全員が陽性になられたのですか！？",
+            "timestamp": "2022-08-15T10:12:35.520000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CU",
+            "text": "はい、子どもが最初にかかったので、看病などがあって隔離がしっかりできず。",
+            "timestamp": "2022-08-15T10:13:15.428000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "確かにお子さんの看病があれば完全な隔離は難しいですよね",
+            "timestamp": "2022-08-15T10:13:54.791000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CU",
+            "text": "そうなんです。誰も外に出れなくなってしまってすごく不便でした。",
+            "timestamp": "2022-08-15T10:14:35.336000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "食事とかどうされていましたか？",
+            "timestamp": "2022-08-15T10:15:28.796000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CU",
+            "text": "幸い仲のいいご近所さんがいて、代わりに買い出しに行って食材など届けてくれました。",
+            "timestamp": "2022-08-15T10:16:07.244000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "こういう時って日頃の近所づきあいがものをいいますね",
+            "timestamp": "2022-08-15T10:17:06.557000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CU",
+            "text": "はい、本当に助かりました！助け合いは大切ですよね！",
+            "timestamp": "2022-08-15T10:17:31.066000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "お話聞いてて、私も近所づきあいをもう少し大切にしたいなと気付かせていただきました",
+            "timestamp": "2022-08-15T10:18:02.255000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CU",
+            "text": "ぜひそうしてください。あと、コロナにはくれぐれもご注意を！",
+            "timestamp": "2022-08-15T10:18:36.380000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "最近陽性者がぐんと増えてきましたし、今まで以上に徹底したいと思います。またお話ししましょう！",
+            "timestamp": "2022-08-15T10:19:06.393000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CU",
+            "text": "はい、お互い気を付けましょう！",
+            "timestamp": "2022-08-15T10:19:34.582000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

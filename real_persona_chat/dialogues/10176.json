@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10176,
+    "interlocutors": [
+        "BV",
+        "EB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-11T16:27:08.555000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EB",
+            "text": "こんにちは、よろしくですー！",
+            "timestamp": "2022-08-11T16:27:27.941000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "こちらこそ！今日も暑いですね！",
+            "timestamp": "2022-08-11T16:27:53.327000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EB",
+            "text": "ほんとですよね、日差しが痛いです！",
+            "timestamp": "2022-08-11T16:28:06.905000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "熱中症などお体大丈夫ですか？",
+            "timestamp": "2022-08-11T16:28:18.342000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EB",
+            "text": "はい、水分を注意して取ってるのでまだなってないですね！",
+            "timestamp": "2022-08-11T16:28:44.453000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "それはよかった！気をつけないと倒れそうですよね。",
+            "timestamp": "2022-08-11T16:29:02.347000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EB",
+            "text": "いまはほんと危ないですね、ずっとさらされてたらくらくらしちゃう！",
+            "timestamp": "2022-08-11T16:29:26.147000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "私外で仕事をしているので暑すぎて嫌になります。",
+            "timestamp": "2022-08-11T16:29:56.085000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EB",
+            "text": "そうなんですか！？大変ですね、それこそほんと気を付けないとですね！",
+            "timestamp": "2022-08-11T16:30:16.141000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "そうなんですよ。暑さ対策はなにかされていますか？",
+            "timestamp": "2022-08-11T16:30:34.072000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EB",
+            "text": "家の中はもうエアコンに頼り切ってます、外ではひんやりシートと水分ですね！",
+            "timestamp": "2022-08-11T16:31:10.527000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "やっぱりエアコンいりますよねー。今家になくて。",
+            "timestamp": "2022-08-11T16:31:28.492000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EB",
+            "text": "え！？それ危なくないですか！？",
+            "timestamp": "2022-08-11T16:31:42.528000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "古い家に引っ越したのでつけれないんですよ。",
+            "timestamp": "2022-08-11T16:32:00.142000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EB",
+            "text": "もしかしてエアコン用の穴がないってことですか？",
+            "timestamp": "2022-08-11T16:32:23.937000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "そうなんです。土壁で工事すると壁が潰れるそうな。",
+            "timestamp": "2022-08-11T16:32:45.550000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EB",
+            "text": "そしたら、あれですね！窓式のがありますよ！",
+            "timestamp": "2022-08-11T16:33:11.190000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "それっていいんですかね？涼しくなるのかな？",
+            "timestamp": "2022-08-11T16:33:28.954000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EB",
+            "text": "いまのは結構涼しいと思いますよ！",
+            "timestamp": "2022-08-11T16:33:45.526000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "そうなんですか！検討しないとですね。",
+            "timestamp": "2022-08-11T16:34:07.697000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EB",
+            "text": "あとは、エアコンが土壁につけられれば、最悪配管を窓からって手もありますね",
+            "timestamp": "2022-08-11T16:34:38.227000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "おお、なるほど。田舎なので涼しいかなと思ってましたが夏は暑い！",
+            "timestamp": "2022-08-11T16:35:08.235000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EB",
+            "text": "いや、夏は北海道でも熱いとこは暑いですから、ないと厳しいですよ！",
+            "timestamp": "2022-08-11T16:35:34.886000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "そうですよねー。お盆過ぎると涼しくなるみたいなんですが。",
+            "timestamp": "2022-08-11T16:35:51.716000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EB",
+            "text": "そこまで我慢しちゃいます？冬はどうするんですか？",
+            "timestamp": "2022-08-11T16:36:12.221000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "次は防寒対策を考えないと！やばいぐらい冷えるみたいです。",
+            "timestamp": "2022-08-11T16:36:34.823000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EB",
+            "text": "土壁ですからね！断熱効果はほぼないですよ",
+            "timestamp": "2022-08-11T16:36:56.110000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "ですよね、、。今から恐怖です。",
+            "timestamp": "2022-08-11T16:37:08.580000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EB",
+            "text": "これはまじで対策しないとやってけないですよぉ",
+            "timestamp": "2022-08-11T16:37:25.083000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

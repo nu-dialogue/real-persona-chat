@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2227,
+    "interlocutors": [
+        "AU",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AU",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T20:11:42.092000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-19T20:11:50.513000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AU",
+            "text": "あなたの住む街のおすすめのご当地グルメはありますか？",
+            "timestamp": "2022-08-19T20:12:12.270000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "ありますよ！シウマイが有名です。",
+            "timestamp": "2022-08-19T20:12:32.070000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AU",
+            "text": "シウマイとは、全国的に有名なあのシウマイですか？　あれって、とても人気ですよね！",
+            "timestamp": "2022-08-19T20:13:06.071000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "人気ですね！",
+            "timestamp": "2022-08-19T20:13:22.650000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AU",
+            "text": "やはりご自宅でも、よく作られたりするのですか？",
+            "timestamp": "2022-08-19T20:13:46.254000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "いえ、買って帰ります。あの味はなかなか出せないので。",
+            "timestamp": "2022-08-19T20:14:05.661000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AU",
+            "text": "あの呼び名は、あそこだけのモノらしいですね。　前にテレビで見た事があります。",
+            "timestamp": "2022-08-19T20:14:37.348000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "そうですね。シュウマイって書くと地元民に怒られます",
+            "timestamp": "2022-08-19T20:14:59.347000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AU",
+            "text": "そうなんですねー私もシウマイって呼び名がいいなって思います。　こちらの地元グルメは、味噌カツです。",
+            "timestamp": "2022-08-19T20:15:44.790000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "名古屋ですね？色々ご当地グルメ多いですよね！",
+            "timestamp": "2022-08-19T20:16:15.568000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AU",
+            "text": "多いですねー。　味噌を使った料理が多いですよ。",
+            "timestamp": "2022-08-19T20:17:15.445000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "鍋焼きうどんは食べたことがあります。美味しかったです！",
+            "timestamp": "2022-08-19T20:17:44.683000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AU",
+            "text": "味噌煮込みうどんですね。地元でも食べる人と食べない人いますよ。　私はほとんど食べないです。",
+            "timestamp": "2022-08-19T20:18:33.285000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "そうなんですね！ちょっと意外です。お勧め地元グルメはありますか？",
+            "timestamp": "2022-08-19T20:19:07.900000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AU",
+            "text": "あとは、五平餅と言ってご飯をつぶしたモチにくるみ味噌をぬり甘辛く焼いたのも人気です。",
+            "timestamp": "2022-08-19T20:19:57.131000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "ごへいもち！こちらではお祭りの屋台で見たことがあります！",
+            "timestamp": "2022-08-19T20:20:16.871000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AU",
+            "text": "食べた事はありますか？　この辺ではイベントとかでものすごく大きな五平餅を作るんですよ。",
+            "timestamp": "2022-08-19T20:20:58.950000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "食べたことはないんですよ。今度見かけたら食べてみます。ビッグサイズも面白そうですね！",
+            "timestamp": "2022-08-19T20:21:20.818000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AU",
+            "text": "五平餅作り体験なんかもあるので、こちらに来たらぜひやってみて欲しいです。",
+            "timestamp": "2022-08-19T20:22:01.880000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "体験イベントは素敵ですね。ぜひ試してみます。コロナが早く収まればいいのですが。。",
+            "timestamp": "2022-08-19T20:22:35.429000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AU",
+            "text": "ほんとそうですね。コロナ以前は東京駅でよくシウマイ弁当を買ってました。また食べたいです。",
+            "timestamp": "2022-08-19T20:23:22.777000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "実は最近シウマイ弁当品切れ気味なんですよ。",
+            "timestamp": "2022-08-19T20:23:48.458000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AU",
+            "text": "そうなんですか？　やはり人気がありすぎてっ売り切れって感じですか？",
+            "timestamp": "2022-08-19T20:24:12.088000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "マグロが品薄で期間限定で別のおかずに差し替えられてるんです。限定でみんな買いに行ってるみたいです",
+            "timestamp": "2022-08-19T20:24:54.764000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AU",
+            "text": "それは残念、人気があるので争奪戦になりそうですね。",
+            "timestamp": "2022-08-19T20:25:28.688000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "速めに並ばないと買えないみたいです。",
+            "timestamp": "2022-08-19T20:25:45.076000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AU",
+            "text": "あらら、それは大変。では駅でもなかなか買えないかもしれませんね。",
+            "timestamp": "2022-08-19T20:26:20.897000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "実は夕方行ってみたんですけど売り切れでした",
+            "timestamp": "2022-08-19T20:26:37.816000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 460,
+    "interlocutors": [
+        "BI",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T14:49:00.680000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-10T14:49:06.953000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "今はまっていることをお聞きしてもいいですか？",
+            "timestamp": "2022-08-10T14:49:19.863000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "そうですねー、ポーセラーツでしょうか。",
+            "timestamp": "2022-08-10T14:49:33.398000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "すみません、ポーセラーツとは？？",
+            "timestamp": "2022-08-10T14:49:47.631000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "陶器に専用のシールを貼ってデザインを施すというものです。",
+            "timestamp": "2022-08-10T14:50:13.375000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "そういうのがあるんですね！ご自宅でできるのですか？",
+            "timestamp": "2022-08-10T14:50:39.093000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "いえ、専用の焼き窯も必要なので、先生に指導を受けています。",
+            "timestamp": "2022-08-10T14:51:01.074000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "なるほど。花瓶とかお皿とかなのでしょうか。",
+            "timestamp": "2022-08-10T14:51:22.844000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "はい、陶器なら何でもデザインできるので置物もお皿もどちらも作れます。",
+            "timestamp": "2022-08-10T14:51:50.686000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "素敵ですね！長いこと教室に通ってらっしゃるのですか？",
+            "timestamp": "2022-08-10T14:52:15.523000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "通い始めたのは2年くらいです。二か月に一回くらい通っていますね。",
+            "timestamp": "2022-08-10T14:52:41.427000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "では、もういくつか作品も完成されているのでしょうか。",
+            "timestamp": "2022-08-10T14:53:01.982000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "はい、家の中に自分の作品を飾る場所も作っているんです！",
+            "timestamp": "2022-08-10T14:53:35.949000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "それは素敵ですね！私は創作が苦手なので、うらやましいです！",
+            "timestamp": "2022-08-10T14:54:06.943000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "そうなんですねー、あなた自身は何かハマっていることはありますか？",
+            "timestamp": "2022-08-10T14:54:23.380000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "私はジグソーパズルにはまっています。",
+            "timestamp": "2022-08-10T14:54:35.149000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "だいたい何ピースくらいの作品を作るんですか？",
+            "timestamp": "2022-08-10T14:54:49.919000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "今は2500くらいが多いですね！",
+            "timestamp": "2022-08-10T14:55:03.350000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "おお！結構なサイズ感の作品ですね。",
+            "timestamp": "2022-08-10T14:55:17.661000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "そうですね、1000くらいでは物足りなくなってしまって。",
+            "timestamp": "2022-08-10T14:55:35.228000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "何か特定のデザインのパズルを選んでいるのでしょうか？",
+            "timestamp": "2022-08-10T14:56:03.198000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "特定のデザインということはないですが、風景が多いです。",
+            "timestamp": "2022-08-10T14:56:27.061000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "作った作品って飾りますか？2500って結構大きなサイズですよね。",
+            "timestamp": "2022-08-10T14:57:00.943000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "2500でも、ピース自体が小さくなります。額に入れて壁にかけたりしてます。",
+            "timestamp": "2022-08-10T14:57:34.800000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "そうなんですねー、小さくてもたくさん作ったら壁がいっぱいになっちゃいそうですね。",
+            "timestamp": "2022-08-10T14:58:14.325000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "そうなんです。なので、季節ごとにかけ替えたり、ですね。",
+            "timestamp": "2022-08-10T14:58:35.023000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "やっぱり、そうなりますよね。",
+            "timestamp": "2022-08-10T14:58:44.779000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "作品とかを飾れるのって楽しいですね！",
+            "timestamp": "2022-08-10T14:58:59.745000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "そう思います。お互い作品作り楽しみましょう！それではこの辺で失礼しますね。",
+            "timestamp": "2022-08-10T14:59:24.762000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

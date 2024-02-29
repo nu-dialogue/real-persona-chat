@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1984,
+    "interlocutors": [
+        "BQ",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-18T10:06:14.044000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-18T10:06:20.762000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "タクシー１日乗り放題ならどこへ行きますか？",
+            "timestamp": "2022-08-18T10:06:46.338000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "できるだけ遠くへ行きます。東日本ですね",
+            "timestamp": "2022-08-18T10:07:16.135000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "いいですね。何県くらいまわれますかね。",
+            "timestamp": "2022-08-18T10:07:56.362000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "１日あれば結構いけますね。でも普段いかない東北や、中越地方に行きたいです",
+            "timestamp": "2022-08-18T10:08:47.452000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "東北だと海の幸とか食べたいですね。",
+            "timestamp": "2022-08-18T10:09:08.817000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "いいですね。東北は行かれたことありますか？",
+            "timestamp": "2022-08-18T10:09:21.379000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "結構行きました。秋田、宮城、山形、福島など行ったことがあります。",
+            "timestamp": "2022-08-18T10:09:53.226000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "すごいですね。おすすめありますか？",
+            "timestamp": "2022-08-18T10:10:15.261000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "山形の水族館が素敵でした。クラゲがたくさん見れますよ。",
+            "timestamp": "2022-08-18T10:10:38.698000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "へえ、それは知りませんでした。クラゲが有名ですか？",
+            "timestamp": "2022-08-18T10:11:04.422000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "その水族館はクラゲに力をいれてるみたいです。",
+            "timestamp": "2022-08-18T10:11:21.062000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "面白いですね。チェックしておきます。ごはんもおいしそうですね",
+            "timestamp": "2022-08-18T10:11:47.171000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "むぎきりという麺類が美味しかったですよ。",
+            "timestamp": "2022-08-18T10:12:12.673000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "言いにくそうな食べ物ですね",
+            "timestamp": "2022-08-18T10:12:32.716000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "確かにそうですね。お蕎麦ともうどんとも違う食感で楽しめました。",
+            "timestamp": "2022-08-18T10:12:58.981000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "へえ、なんか興味がわいてきました。一日あったらタクシーでどこへ行きますか？",
+            "timestamp": "2022-08-18T10:13:30.507000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "全然時期じゃないですが、いろは坂とか行ってみたいです。",
+            "timestamp": "2022-08-18T10:13:58.800000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "それはどこですか？",
+            "timestamp": "2022-08-18T10:14:05.211000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "栃木県の日光にあります。日光東照宮に続く道ですね。",
+            "timestamp": "2022-08-18T10:14:45.830000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "栃木ですか。日光は有名ですね。いろは坂は何かありますか？",
+            "timestamp": "2022-08-18T10:15:28.755000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "紅葉がとてもきれいらしいですね。急カーブが48か所もあるらしいので、ドライブが楽しくなりそうです。",
+            "timestamp": "2022-08-18T10:16:06.696000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "へえ、それはいいですね。秋頃がよさそうですね",
+            "timestamp": "2022-08-18T10:16:29.419000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "だと思います。他にも1日じゃ間に合わないかもしれませんが、瀬戸大橋とか渡ってみたいです。",
+            "timestamp": "2022-08-18T10:16:59.774000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "四国ですね。行ったことありますよ",
+            "timestamp": "2022-08-18T10:17:15.506000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "羨ましいです。渦潮とか見れましたか？",
+            "timestamp": "2022-08-18T10:17:35.150000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "雨だったんです。後ほどテレビでみました",
+            "timestamp": "2022-08-18T10:18:00.593000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "それは残念でしたね。次は晴れるといいですね。",
+            "timestamp": "2022-08-18T10:18:26.563000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "はい、また行ってみたいです",
+            "timestamp": "2022-08-18T10:18:41.641000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

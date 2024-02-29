@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13176,
+    "interlocutors": [
+        "IT",
+        "DA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IT",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T21:38:47.445000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DA",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T21:39:01.354000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IT",
+            "text": "今日は暑かったですね",
+            "timestamp": "2022-09-17T21:40:47.364000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DA",
+            "text": "わかります、エアコン付けましたか？",
+            "timestamp": "2022-09-17T21:41:14.716000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IT",
+            "text": "エアコンたくさん使いました！",
+            "timestamp": "2022-09-17T21:42:26.697000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DA",
+            "text": "朝からつけてましたか？",
+            "timestamp": "2022-09-17T21:42:37.217000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IT",
+            "text": "朝からずっと使いました",
+            "timestamp": "2022-09-17T21:43:03.657000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DA",
+            "text": "うちも朝からついてましたー！今日外出ましたか？",
+            "timestamp": "2022-09-17T21:43:41.974000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IT",
+            "text": "今日は朝ファミレスにモーニング食べに行きました",
+            "timestamp": "2022-09-17T21:43:57.541000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DA",
+            "text": "おおー！いいですね！早起き得意なんですか？",
+            "timestamp": "2022-09-17T21:44:06.651000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IT",
+            "text": "とても苦手なので無理やり予定を作ってがんばりました",
+            "timestamp": "2022-09-17T21:44:28.874000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DA",
+            "text": "そうなんですねー！何食べたんですか？",
+            "timestamp": "2022-09-17T21:44:53.113000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IT",
+            "text": "サラダに卵とパンがのせてあるおかしなやつでした",
+            "timestamp": "2022-09-17T21:45:47.139000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DA",
+            "text": "クルトンとかではなく、パンなんですか？",
+            "timestamp": "2022-09-17T21:46:10.625000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IT",
+            "text": "デニッシュが細かく切ってあって，おいしいとも言い難いものでしたね",
+            "timestamp": "2022-09-17T21:46:43.992000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DA",
+            "text": "デニッシュもったいなくないですか？",
+            "timestamp": "NaT"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IT",
+            "text": "もったいなかったです！でもコーヒーはおいしかったです！",
+            "timestamp": "2022-09-17T21:47:38.727000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DA",
+            "text": "私もコーヒー飲みたいです！",
+            "timestamp": "2022-09-17T21:49:51.314000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IT",
+            "text": "お砂糖は入れますか？ブラックですか？",
+            "timestamp": "2022-09-17T21:50:16.387000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DA",
+            "text": "お砂糖がないとのめないんです",
+            "timestamp": "2022-09-17T21:51:48.916000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IT",
+            "text": "ミルクはいれますか？",
+            "timestamp": "2022-09-17T21:51:25.066000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DA",
+            "text": "はい！もちろんです！！！！！",
+            "timestamp": "2022-09-17T21:52:43.068000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IT",
+            "text": "スタバとかでは豆乳変更とかしたらおいしいですよね",
+            "timestamp": "2022-09-17T21:53:31.476000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DA",
+            "text": "スタバではいつも何を飲みますか？",
+            "timestamp": "2022-09-17T21:54:38.245000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IT",
+            "text": "だいたいドリップコーヒーにスイーツをつけます",
+            "timestamp": "2022-09-17T21:54:56.638000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DA",
+            "text": "今はマロンのフラペチーノがやっていますよね＝",
+            "timestamp": "2022-09-17T21:56:30.110000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IT",
+            "text": "気になりますねえ．でもたぶん飲みません，さむくなるので",
+            "timestamp": "2022-09-17T21:57:10.091000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DA",
+            "text": "もうすぐ冬になりますもんね！",
+            "timestamp": "2022-09-17T21:58:07.972000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IT",
+            "text": "冬，楽しみですよね！",
+            "timestamp": "2022-09-17T21:58:27.136000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DA",
+            "text": "私もです！！！！",
+            "timestamp": "2022-09-17T21:59:01.975000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IT",
+            "informativeness": 2,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

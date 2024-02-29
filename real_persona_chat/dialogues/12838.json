@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12838,
+    "interlocutors": [
+        "FE",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんばんは！よろしくお願いします！",
+            "timestamp": "2022-09-12T23:29:03.723000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんばんわ。",
+            "timestamp": "2022-09-12T23:29:10.948000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "好きな食べ物はなんですか？",
+            "timestamp": "2022-09-12T23:29:23.085000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "チーズハンバーグでしょうか、あと給食の麻婆豆腐とか。",
+            "timestamp": "2022-09-12T23:29:45.163000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "チーズハンバーグいいですね！麻婆豆腐は給食ってのがポイントですか？",
+            "timestamp": "2022-09-12T23:30:04.955000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "勿論美味しければいいんですけど、なんか本格的なところだと香辛料ダメかもしれなくて恐怖です。",
+            "timestamp": "2022-09-12T23:30:42.149000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "あーたしかに！本格的なところで一回食べたことがあるんですけど、かなり辛かったですよ。",
+            "timestamp": "2022-09-12T23:31:43.842000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "辛いなら常識的な範囲であれば僕はどうにかなりそうですが、香辛料は苦手なやつがありまして。",
+            "timestamp": "2022-09-12T23:32:22.072000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "辛いのは大丈夫なんですね。うらやましい。苦手な香辛料ってなんですか？",
+            "timestamp": "2022-09-12T23:32:41.027000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "よくわからないです、なんかダメって感じでよくわからないので香辛料と仮定してますが。",
+            "timestamp": "2022-09-12T23:33:12.111000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか。給食のは香辛料そんな使ってないですし、普通においしいですよね。",
+            "timestamp": "2022-09-12T23:33:36.706000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "入れたら入れたで苦情殺到ですね、こないだ辛味調味料入れすぎただけでニュースになってました。",
+            "timestamp": "2022-09-12T23:34:18.898000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "え、そんなニュースがあったんですか！",
+            "timestamp": "2022-09-12T23:35:46.302000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "ネットニュースだったので真偽が怪しいところもあるかもしれないです。ただちゃんとした感じでしたが。",
+            "timestamp": "2022-09-12T23:36:28.463000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "やっぱり給食だとそういうとこ厳しんですかね。親とかうるさいのかな。",
+            "timestamp": "2022-09-12T23:36:48.329000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "そういう話はなかったです。そういえば前提として報道するかメディアの自由なので報道しない自由があります。",
+            "timestamp": "2022-09-12T23:38:01.099000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "そうですね。メディアはそこ自由ですよね。",
+            "timestamp": "2022-09-12T23:39:03.834000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "そういうことについてどう思われますか？",
+            "timestamp": "2022-09-12T23:39:20.465000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "自由があるのでいいとは思いますが、なるべく正しく報道してほしいなとは思います。",
+            "timestamp": "2022-09-12T23:40:49.805000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "正しいとはどのようなイメージですか？",
+            "timestamp": "2022-09-12T23:41:42.594000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "客観的にってところですかね。誤解が生まれないよう、一か所だけくり抜いて報道するのはうーんと思います。",
+            "timestamp": "2022-09-12T23:42:28.571000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "オリンピックのなんかのとき森さんの発言が切り抜かれたのありましたね。",
+            "timestamp": "2022-09-12T23:43:31.131000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "ありましたね！切り抜かれると偏った理解が生まれてしまうのであまり好きではありません。",
+            "timestamp": "2022-09-12T23:44:10.670000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "あれはメディアで囲い込みしましたよね。",
+            "timestamp": "2022-09-12T23:45:22.278000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "そうでしたね。それってどうなんかなって思ってました。でも報道に流されてる人もいまして。",
+            "timestamp": "2022-09-12T23:46:39.651000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "地上波全部があれじゃもう。テレビと新聞が正しい情報を得られるメディアってことになってます。",
+            "timestamp": "2022-09-12T23:48:01.731000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "たしかにそうですね。正しい情報を得るってなかなか難しいです。",
+            "timestamp": "2022-09-12T23:48:24.830000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "得るっていうか日本は得られるけど情報統制が行われてる感じですよね。新しいチャンネルが参入できない。",
+            "timestamp": "2022-09-12T23:49:54.599000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "なるほどなるほど。そういう視点もありますね。勉強になります。",
+            "timestamp": "2022-09-12T23:50:41.508000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "ま、僕もちょっと偏りありますがあれは何がどうとかっていうよりひどいですね。",
+            "timestamp": "2022-09-12T23:51:16.180000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

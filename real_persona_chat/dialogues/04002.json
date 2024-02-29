@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4002,
+    "interlocutors": [
+        "FE",
+        "CH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-05T13:26:07.210000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CH",
+            "text": "はじめまして、こんにちは。",
+            "timestamp": "2022-09-05T13:26:16.232000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "お昼ご飯はすでに食べられましたか？",
+            "timestamp": "2022-09-05T13:26:28.028000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CH",
+            "text": "食べましたよ。今日は焼きそばでした。あなたは？",
+            "timestamp": "2022-09-05T13:26:41.795000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "焼きそばいいですね。私はカルボナーラを食べました。",
+            "timestamp": "2022-09-05T13:26:58.671000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CH",
+            "text": "お、カルボナーラですか。あれのソースも色んなのがありますよね。",
+            "timestamp": "2022-09-05T13:27:23.641000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "作り方は様々ですよね。私はめんどくさいので全卵使って、牛乳と混ぜるだけですが。",
+            "timestamp": "2022-09-05T13:27:59.913000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CH",
+            "text": "なるほど、私の場合はベーコンいれて卵を使うだけなんですよ。",
+            "timestamp": "2022-09-05T13:28:30.969000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "牛乳は使わないんですか？",
+            "timestamp": "2022-09-05T13:28:45.615000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CH",
+            "text": "はい、クリームのスープ的なカルボナーラって、日本向けの改良版らしいですね。",
+            "timestamp": "2022-09-05T13:29:25.535000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "知らなかったです！牛乳がないときにカルボナーラを作るのをあきらめていました。",
+            "timestamp": "2022-09-05T13:29:49.385000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CH",
+            "text": "でも、クリームのカルボナーラがお好きなら、使った方がいいですよ。わたしのはカルボナーラと認識されないかも。",
+            "timestamp": "2022-09-05T13:30:20.903000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "なるほど。カルボナーラも奥が深いですね。ちなみに焼きそばの具はなんでしたか？",
+            "timestamp": "2022-09-05T13:31:10.097000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CH",
+            "text": "キャベツと豚肉と紅ショウガだけのシンプルなやつです。",
+            "timestamp": "2022-09-05T13:31:32.957000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "いいですね！私は豚肉が苦手なので、ウインナーで作ることが多いです。",
+            "timestamp": "2022-09-05T13:31:55.994000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CH",
+            "text": "ウィンナーはけっこう色々な具に使えますよね。わたしも好きですよ。",
+            "timestamp": "2022-09-05T13:32:17.061000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "そうなんですよ。シチューとかにも入れたりします。",
+            "timestamp": "2022-09-05T13:32:35.045000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CH",
+            "text": "なるほど、シチューに入れるのもいいですね。",
+            "timestamp": "2022-09-05T13:32:54.062000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "よく料理されますか？",
+            "timestamp": "2022-09-05T13:33:13.499000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CH",
+            "text": "料理は好きなんですよ。食いしん坊が高じてそうなったクチですが。",
+            "timestamp": "2022-09-05T13:33:33.276000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "お好きなんですね！私はどうも料理が苦手でして。尊敬します。",
+            "timestamp": "2022-09-05T13:33:54.447000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CH",
+            "text": "料理という作業は、苦にならない人とそうではない人がけっこう別れますからね。",
+            "timestamp": "2022-09-05T13:34:50.633000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "私の場合はメニューを考えるのが苦手でして。冷蔵庫の余り物でって作れる人に憧れます。",
+            "timestamp": "2022-09-05T13:35:39.316000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CH",
+            "text": "わたしは単純に食べたいものを作るだけなので、食欲さえあれば思いつきます。",
+            "timestamp": "2022-09-05T13:36:31.481000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか。私もそうやって考えてみます。",
+            "timestamp": "2022-09-05T13:37:08.720000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CH",
+            "text": "やっぱり、満腹の時は思いつかないですからね。",
+            "timestamp": "2022-09-05T13:37:32.037000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "満腹の時に買い物に行くとなかなか購買意欲がわかないと聞いたことがあります。",
+            "timestamp": "2022-09-05T13:38:13.369000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CH",
+            "text": "おお、そうなんですか。でもその通りですねぇ。",
+            "timestamp": "2022-09-05T13:38:27.748000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "ですよね。だからむしろ満腹の時に買い物に行くと、爆買いを防げるとか。",
+            "timestamp": "2022-09-05T13:39:05.687000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CH",
+            "text": "なるほど、節約したい時はいいですね。",
+            "timestamp": "2022-09-05T13:39:29.510000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CH",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

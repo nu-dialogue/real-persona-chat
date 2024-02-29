@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4476,
+    "interlocutors": [
+        "CS",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-18T22:49:32.114000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-18T22:49:38.719000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "今日の晩御飯は何でしたか？",
+            "timestamp": "2022-09-18T22:49:47.936000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "今日は焼き肉でした",
+            "timestamp": "2022-09-18T22:49:59.637000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "いいですね。店に行ったんですか？",
+            "timestamp": "2022-09-18T22:50:11.712000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "家で焼きました",
+            "timestamp": "2022-09-18T22:50:21.451000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "おひとりで食べたんですか？",
+            "timestamp": "2022-09-18T22:50:31.925000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "家族と食べました",
+            "timestamp": "2022-09-18T22:50:40.299000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "賑やかそうでいいですね",
+            "timestamp": "2022-09-18T22:50:51.947000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "そうですね。ホットプレートで焼きながら食べたので話も弾みました",
+            "timestamp": "2022-09-18T22:51:15.822000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "家族仲がいいんですね",
+            "timestamp": "2022-09-18T22:51:44.715000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "<CS>さんは何を食べたんですか？",
+            "timestamp": "2022-09-18T22:51:54.884000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "私はさんまを食べました",
+            "timestamp": "2022-09-18T22:52:09.514000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "秋らしいですね",
+            "timestamp": "2022-09-18T22:52:17.350000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "気づいたら部屋中煙だらけでびっくりしました",
+            "timestamp": "2022-09-18T22:52:46.049000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "どうやって焼いたんですか？七輪？",
+            "timestamp": "2022-09-18T22:53:11.836000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "普通に魚焼き器で焼いたんですが、まさかこんなに煙が出るとは思わなかったです",
+            "timestamp": "2022-09-18T22:53:34.516000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "火災報知器が反応しなくてよかったです",
+            "timestamp": "2022-09-18T22:53:55.726000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "そうですね、それはよかったです。",
+            "timestamp": "2022-09-18T22:54:08.895000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "サンマのほかは何を食べたんですか？",
+            "timestamp": "2022-09-18T22:54:24.344000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "昨日の残りの豚汁と漬物を食べました",
+            "timestamp": "2022-09-18T22:54:45.730000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "和食で固まってていいですね",
+            "timestamp": "2022-09-18T22:54:56.481000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "和食なら和食、中華なら中華でまとめるようにしてます",
+            "timestamp": "2022-09-18T22:55:26.641000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "そのほうがいいとおもいます",
+            "timestamp": "2022-09-18T22:55:52.779000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "パスタに漬物を合わせるとかだと合わないですし",
+            "timestamp": "2022-09-18T22:56:18.077000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "そうですよね",
+            "timestamp": "2022-09-18T22:56:27.757000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "そういうところから意外な食べ合わせが生まれるのかもしれないですけどね",
+            "timestamp": "2022-09-18T22:56:50.012000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "無難がいいと思います。",
+            "timestamp": "2022-09-18T22:57:04.287000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "そうですね。ではそろそろ失礼しますね",
+            "timestamp": "2022-09-18T22:57:13.299000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "お疲れ様でした",
+            "timestamp": "2022-09-18T22:57:20.451000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

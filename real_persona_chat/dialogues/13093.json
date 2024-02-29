@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13093,
+    "interlocutors": [
+        "FK",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-16T17:37:21.177000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-16T17:37:25.300000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "好きな食べ物なんですか",
+            "timestamp": "2022-09-16T17:37:36.092000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "チョコとエビですね。",
+            "timestamp": "2022-09-16T17:37:43.454000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "チョコ、、！エビはどの調理法でしょうか",
+            "timestamp": "2022-09-16T17:37:52.757000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "エビはエビチリやエビマヨが好きです。",
+            "timestamp": "2022-09-16T17:38:09.112000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "おおお、チョコの展覧会？とかいきますか",
+            "timestamp": "2022-09-16T17:38:20.918000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "展覧会！？そんなものがあるんですか？",
+            "timestamp": "2022-09-16T17:38:31.661000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "展覧会というか、有名なパティシエが集う販売会みたいな！",
+            "timestamp": "2022-09-16T17:38:48.356000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "なるほど！いったことないです。ありますか？",
+            "timestamp": "2022-09-16T17:39:00.482000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "あります！サロンデュショコラでした",
+            "timestamp": "2022-09-16T17:39:11.434000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "すごいですね！私は、ガーナのカカオ農家をTwitterで観察してます。",
+            "timestamp": "2022-09-16T17:39:29.088000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "すごいですね、生産者から。。！！",
+            "timestamp": "2022-09-16T17:39:38.002000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "なんかただワクワクします。それだけです。",
+            "timestamp": "2022-09-16T17:39:47.351000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "そういうルーツたどるのってわくわくしますよねぇ",
+            "timestamp": "2022-09-16T17:39:55.834000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "ガーナとコートジボワールの方には足向けて眠れません。",
+            "timestamp": "2022-09-16T17:40:17.863000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "絶対どこかで足向けて寝てますよ、、！！",
+            "timestamp": "2022-09-16T17:40:29.354000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "方角分からないですしね！",
+            "timestamp": "2022-09-16T17:40:40.970000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "わからないです！そのふたつ有名な産地でしたっけ",
+            "timestamp": "2022-09-16T17:40:52.832000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "はい、その二国がチョコ生産界の2強だと思います。",
+            "timestamp": "2022-09-16T17:41:13.605000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "おお、後エクアドルとかベルギーのイメージあります",
+            "timestamp": "2022-09-16T17:41:21.902000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "ベルギーチョコは有名ですね。エクアドルも。",
+            "timestamp": "2022-09-16T17:41:35.140000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "ですよね。アイスに多いです",
+            "timestamp": "2022-09-16T17:41:40.912000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "ですです。生産量がガーナとかが多いのかも知れません。",
+            "timestamp": "2022-09-16T17:41:53.337000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "ガーナのカカオ農家の写真は有名ですね",
+            "timestamp": "2022-09-16T17:42:04.134000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "そうですよね。カカオが白かったりするのがいまだに不思議です。チョコは黒なのに。",
+            "timestamp": "2022-09-16T17:42:54.094000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "あ！そういえばそうでした！コーヒー豆と通じるとこありますね",
+            "timestamp": "2022-09-16T17:43:47.029000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "コーヒーはアフリカとかブラジルですかね。",
+            "timestamp": "2022-09-16T17:43:17.130000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "色々あっておもしろいですよね！！",
+            "timestamp": "2022-09-16T17:43:24.888000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "アフリカにも足向けて眠れません！",
+            "timestamp": "2022-09-16T17:43:34.683000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

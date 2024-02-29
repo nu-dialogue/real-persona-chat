@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 748,
+    "interlocutors": [
+        "CA",
+        "CB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-10T07:19:01.495000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CB",
+            "text": "こんにちは",
+            "timestamp": "2022-08-10T07:19:12.726000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "おにぎりで好きな具ってどんなのですか？",
+            "timestamp": "2022-08-10T07:19:26.588000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CB",
+            "text": "最近はおかかが多いです",
+            "timestamp": "2022-08-10T07:19:44.158000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "おかかいいですね！",
+            "timestamp": "2022-08-10T07:19:57.862000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CB",
+            "text": "何かおすすめありますか？",
+            "timestamp": "2022-08-10T07:20:13.545000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "うちは、塩昆布常備してます",
+            "timestamp": "2022-08-10T07:20:25.161000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CB",
+            "text": "おお、塩昆布ですか。おにぎりで食べたことないです",
+            "timestamp": "2022-08-10T07:20:45.514000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "実家もうちの夫も塩昆布好きだから、マイナーな方だと思うのですがあって。",
+            "timestamp": "2022-08-10T07:21:18.026000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CB",
+            "text": "なるほど。こんど試してみたいです",
+            "timestamp": "2022-08-10T07:21:39.716000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "あと、ナスや生姜の味噌漬けも最高です",
+            "timestamp": "2022-08-10T07:21:55.189000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CB",
+            "text": "おにぎりに入れるんですね！",
+            "timestamp": "2022-08-10T07:22:06.466000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "子供の頃お出かけの時、父のおにぎりがそれでした",
+            "timestamp": "2022-08-10T07:22:18.630000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CB",
+            "text": "それも珍しいですね。",
+            "timestamp": "2022-08-10T07:22:27.712000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "コンビニとかでもないですもんね。でもこれ最高です",
+            "timestamp": "2022-08-10T07:22:49.382000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CB",
+            "text": "どうやってつくるんですか",
+            "timestamp": "2022-08-10T07:23:07.076000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "普通に市販の味噌漬けなのですが、それを具として包む感じですね",
+            "timestamp": "2022-08-10T07:23:34.180000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CB",
+            "text": "あるんですね。そういったものが",
+            "timestamp": "2022-08-10T07:23:46.587000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "味噌漬け屋さんもあったりして、ちょっと奮発したい時は味噌漬け屋さんのだったり。",
+            "timestamp": "2022-08-10T07:24:11.705000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CB",
+            "text": "味噌漬け屋さん、あまり見かけたことないです",
+            "timestamp": "2022-08-10T07:24:24.904000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "味噌屋さんだった！味噌屋の味噌漬けで。",
+            "timestamp": "2022-08-10T07:25:02.826000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CB",
+            "text": "味噌屋さんも近くにはないですね。美味しそう",
+            "timestamp": "2022-08-10T07:25:17.645000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "確かに、私の住んでいるところはたまたま近いのかも。美味しいですよ",
+            "timestamp": "2022-08-10T07:25:40.515000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CB",
+            "text": "味噌は最高ですね。うちも手前みそつけてます",
+            "timestamp": "2022-08-10T07:26:03.048000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "うまい！",
+            "timestamp": "2022-08-10T07:26:13.976000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CB",
+            "text": "味噌汁のみたくなってきました",
+            "timestamp": "2022-08-10T07:26:26.510000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "朝ごはんの時間ですもんね、私も",
+            "timestamp": "2022-08-10T07:26:37.047000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CB",
+            "text": "そうですね。まだ子供寝てます",
+            "timestamp": "2022-08-10T07:26:46.925000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "何時に起きてくるかな。待ち遠しいですね。またお話ししましょう",
+            "timestamp": "2022-08-10T07:27:06.937000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CB",
+            "text": "そうですね。最近遅くて。ありがとうございます",
+            "timestamp": "2022-08-10T07:27:19.481000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

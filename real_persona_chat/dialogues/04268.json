@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4268,
+    "interlocutors": [
+        "EO",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EO",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-11T11:50:05.674000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "おはようございます！",
+            "timestamp": "2022-09-11T11:50:09.975000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EO",
+            "text": "今日はどこかに出かけたりするんですか？",
+            "timestamp": "2022-09-11T11:50:37.912000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "今日は家にいる予定です。平日溜めてる家事を片付けます",
+            "timestamp": "2022-09-11T11:51:06.733000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EO",
+            "text": "平日お忙しいんですか？",
+            "timestamp": "2022-09-11T11:51:36.693000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "平日は仕事ですねー",
+            "timestamp": "2022-09-11T11:51:52.316000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EO",
+            "text": "結構ハードなんですか？",
+            "timestamp": "2022-09-11T11:52:08.471000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "座り仕事なのでハードではないのですが、仕事が終わってから家事もとなるとやる気が起きなくて",
+            "timestamp": "2022-09-11T11:52:48.928000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EO",
+            "text": "ずっと座ってるのも疲れそうです",
+            "timestamp": "2022-09-11T11:53:20.807000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "そうですねー。肩こりは職業病です",
+            "timestamp": "2022-09-11T11:53:31.440000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EO",
+            "text": "肩こり辛いですよね。。",
+            "timestamp": "2022-09-11T11:53:45.767000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "ですね、たまにストレッチして肩を延ばしてます",
+            "timestamp": "2022-09-11T11:54:05.536000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EO",
+            "text": "接骨院とか行ってますか？",
+            "timestamp": "2022-09-11T11:54:20.666000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "月に一度マッサージに行ってます",
+            "timestamp": "2022-09-11T11:54:31.147000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EO",
+            "text": "いいですねー。どんなマッサージなんですか？",
+            "timestamp": "2022-09-11T11:54:55.985000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "足と肩を重点的に見てもらってますねー。座り仕事でむくんだり凝ったりしやすいので",
+            "timestamp": "2022-09-11T11:55:30.263000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EO",
+            "text": "やっぱり行った後は違いますか？",
+            "timestamp": "2022-09-11T11:55:48.846000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "足は特にちょっと軽くなった感じはしますね！",
+            "timestamp": "2022-09-11T11:56:08.526000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EO",
+            "text": "いいですねー私も行きたいなー",
+            "timestamp": "2022-09-11T11:56:26.298000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "そうですね！相性が合うところを見つけられるといいですね",
+            "timestamp": "2022-09-11T11:56:51.157000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EO",
+            "text": "オイル塗ってやってもらう感じですか？",
+            "timestamp": "2022-09-11T11:57:33.206000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "はい、私の行ってるところはオイルですね。お店によってローション使うところもあるみたいです",
+            "timestamp": "2022-09-11T11:58:04.948000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EO",
+            "text": "昔1回行ったことがあって。もみ返しとかどうですか？",
+            "timestamp": "2022-09-11T11:58:38.759000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "今のところはないですね。マッサージしてくれる方の腕前とか相性とかがいいんだと思います",
+            "timestamp": "2022-09-11T11:59:18.102000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EO",
+            "text": "いいところ見つけられてよかったですねえ",
+            "timestamp": "2022-09-11T12:00:07.172000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "運が良かったです",
+            "timestamp": "2022-09-11T12:00:16.792000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EO",
+            "text": "私も探してみます！",
+            "timestamp": "2022-09-11T12:00:36.742000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "ぜひ！相性のいいところ見つけられると行くのが楽しみになりますよ",
+            "timestamp": "2022-09-11T12:01:02.969000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EO",
+            "text": "毎月の楽しみになりそうですね",
+            "timestamp": "2022-09-11T12:01:19.562000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "それを楽しみに仕事頑張れます",
+            "timestamp": "2022-09-11T12:01:33.113000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

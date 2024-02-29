@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4831,
+    "interlocutors": [
+        "FQ",
+        "GE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T10:11:28.143000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GE",
+            "text": "こんにちは、初めまして。",
+            "timestamp": "2022-09-15T10:11:51.888000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FQ",
+            "text": "今日、お天気はどうですか？",
+            "timestamp": "2022-09-15T10:12:01.224000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GE",
+            "text": "少し蒸し暑いですが、晴れています。",
+            "timestamp": "2022-09-15T10:13:29.802000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FQ",
+            "text": "少し涼しくなったかと思えば、また暑くなりましたね。",
+            "timestamp": "2022-09-15T10:13:17.437000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GE",
+            "text": "気温差が激しくて、体調が崩れやすいですね。",
+            "timestamp": "2022-09-15T10:14:39.376000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FQ",
+            "text": "カゼ引いたりしていませんか？",
+            "timestamp": "2022-09-15T10:14:57.706000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GE",
+            "text": "今の所元気に過ごせています。",
+            "timestamp": "2022-09-15T10:15:18.115000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FQ",
+            "text": "それはよかったです、寝る前はまだ蒸し暑いので、扇風機かけちゃいます。",
+            "timestamp": "2022-09-15T10:15:45.043000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GE",
+            "text": "わかります、我が家は昨日はエアコンも使ってしまいました。暑すぎて。",
+            "timestamp": "2022-09-15T10:16:59.143000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FQ",
+            "text": "一応タイマーにはしてるんですが、朝方の気温が読めないんですよね。",
+            "timestamp": "2022-09-15T10:17:33.858000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GE",
+            "text": "そうですよね、涼しくなる日もあれば、全然気温が下がらない日もあって。",
+            "timestamp": "2022-09-15T10:18:25"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FQ",
+            "text": "今週はまだ蒸し暑いみたいですね。",
+            "timestamp": "2022-09-15T10:18:50.521000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GE",
+            "text": "わあ、なかなかにきついですね。早く涼しくなってほしいですね。",
+            "timestamp": "2022-09-15T10:19:37.125000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FQ",
+            "text": "台風の影響みたいですね、シーズンですしね。",
+            "timestamp": "2022-09-15T10:19:54.813000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GE",
+            "text": "また来てますね、週末、日本にも影響が出そうだとか。",
+            "timestamp": "2022-09-15T10:20:47.383000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FQ",
+            "text": "こちら九州なので、台風の影響受けやすいんですよね。",
+            "timestamp": "2022-09-15T10:21:15.968000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GE",
+            "text": "そうなんですね、今年はそちら方面に向かう台風、多い印象があります。",
+            "timestamp": "2022-09-15T10:22:21.363000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FQ",
+            "text": "なぜか曲がってこっち側に来ること多いですよねー。",
+            "timestamp": "2022-09-15T10:22:40.218000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GE",
+            "text": "見事な角度で曲がってますよね。",
+            "timestamp": "2022-09-15T10:23:27.054000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FQ",
+            "text": "そのまままっすぐ向かってくれたらいいのにーって思います。",
+            "timestamp": "2022-09-15T10:23:47.979000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GE",
+            "text": "本当ですよね。前回と今回、同じルートたどって来るみたいですし。",
+            "timestamp": "2022-09-15T10:24:34.791000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FQ",
+            "text": "前回はこちらはそこまで影響はなかったですが、油断ならないですね。",
+            "timestamp": "2022-09-15T10:24:59.845000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GE",
+            "text": "我が家が本州の真ん中あたりなのですが、今回はこちらも影響あるかもしれないなって思います。",
+            "timestamp": "2022-09-15T10:25:48.566000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FQ",
+            "text": "ひどくないことを祈るばかりですね。",
+            "timestamp": "2022-09-15T10:26:14.054000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GE",
+            "text": "そうですね、洪水とか土砂崩れとか怖いですし。",
+            "timestamp": "2022-09-15T10:26:45.228000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FQ",
+            "text": "週末にくるみたいなので、できる限りの準備をしたいと思います。",
+            "timestamp": "2022-09-15T10:27:07.578000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GE",
+            "text": "せっかくの3連休ですけど、台風関連の準備で追われてしまいそうですね。",
+            "timestamp": "2022-09-15T10:27:37.659000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FQ",
+            "text": "そうですね、がんばって準備します。",
+            "timestamp": "2022-09-15T10:28:00.543000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GE",
+            "text": "お互いがんばって準備しましょうね。",
+            "timestamp": "2022-09-15T10:28:24.566000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GE",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

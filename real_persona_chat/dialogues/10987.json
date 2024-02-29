@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10987,
+    "interlocutors": [
+        "CV",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CV",
+            "text": "よろしくお願いいたしますー！",
+            "timestamp": "2022-08-18T13:10:41.751000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-18T13:10:49.141000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CV",
+            "text": "いまちょっと前に、地震がありました。そちらは大丈夫でしたか？",
+            "timestamp": "2022-08-18T13:11:02.197000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "えっ気が付きませんでした",
+            "timestamp": "2022-08-18T13:11:17.672000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CV",
+            "text": "NHKみたら、千葉県で震度3て出てました",
+            "timestamp": "2022-08-18T13:11:35.628000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "関東ですね。関西なのでそこまではなかったです",
+            "timestamp": "2022-08-18T13:11:50.895000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CV",
+            "text": "そうでしたか。最近は災害も増えていて怖いですよね",
+            "timestamp": "2022-08-18T13:12:08.678000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "ですね。揺れましたか？",
+            "timestamp": "2022-08-18T13:12:18.263000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CV",
+            "text": "ちょっとだけ。私の体感では1か2かな、という感じでした",
+            "timestamp": "2022-08-18T13:12:40.543000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "それでも、揺れは感じたんですね。最近多くて怖いです",
+            "timestamp": "2022-08-18T13:13:00.561000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CV",
+            "text": "何か、防災対策みたいなことやってますか？",
+            "timestamp": "2022-08-18T13:13:14.024000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "はい、避難用のバッグや備蓄はしています",
+            "timestamp": "2022-08-18T13:13:32.287000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CV",
+            "text": "偉い！いつもチラシとかみて買わなければとおもいつつ、何もできてません",
+            "timestamp": "2022-08-18T13:13:59.477000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "そうですか、突然来ると困るのでもう準備してます。",
+            "timestamp": "2022-08-18T13:14:20.122000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CV",
+            "text": "そうですよねー。一式まとめてある防災セットとか買おうと思います！",
+            "timestamp": "2022-08-18T13:14:43.173000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "便利ですね。これまで被害はなかったですかね？",
+            "timestamp": "2022-08-18T13:15:01.583000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CV",
+            "text": "被害、というレベルでいうと、東日本大震災以降はないですね",
+            "timestamp": "2022-08-18T13:15:30.926000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "そうですか、次大きいの来るとうちはやられるのかなと思ってます",
+            "timestamp": "2022-08-18T13:16:05.479000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CV",
+            "text": "そんな！　関西も、昔より地震の頻度が増えているような気がしますね",
+            "timestamp": "2022-08-18T13:16:28.256000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "そうですね。あと台風や洪水も結構近隣ではあるのでそのためにも備えていますね",
+            "timestamp": "2022-08-18T13:16:57.494000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CV",
+            "text": "水害も最近本当に多いですね。川や海が近いのですか？",
+            "timestamp": "2022-08-18T13:17:32.593000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "はい、川が近いですね。氾濫すると一体沈むそうです！",
+            "timestamp": "2022-08-18T13:17:52.727000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CV",
+            "text": "うわあ、、！それは大変。でも、気をつけようがないですよね、、",
+            "timestamp": "2022-08-18T13:18:15.190000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "はい。まだないですが、予兆は何回かあったので気を付けてます。",
+            "timestamp": "2022-08-18T13:18:37.360000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CV",
+            "text": "私は現在はマンション住まいなので、さすがにこの階まで水はこないだろうと思っていますが",
+            "timestamp": "2022-08-18T13:19:14.357000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "何階ですか？",
+            "timestamp": "2022-08-18T13:19:33.200000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CV",
+            "text": "19階です",
+            "timestamp": "2022-08-18T13:19:47.097000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "予想以上でした。安心ですね",
+            "timestamp": "2022-08-18T13:20:02.298000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CV",
+            "text": "はい。マンションの設備が止まってしまうと大変かもですが",
+            "timestamp": "2022-08-18T13:20:25.019000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "エレベータ止まると大変かもしれませんね",
+            "timestamp": "2022-08-18T13:20:48.815000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

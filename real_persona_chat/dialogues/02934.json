@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2934,
+    "interlocutors": [
+        "CL",
+        "BZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CL",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-24T21:40:41.399000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BZ",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-08-24T21:40:55.230000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CL",
+            "text": "突然ですが、なにか趣味はありますか？",
+            "timestamp": "2022-08-24T21:41:04.308000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BZ",
+            "text": "最近、タブレットでちょっと絵をかいたりしています。",
+            "timestamp": "2022-08-24T21:41:38.663000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CL",
+            "text": "へー！すごいですね。",
+            "timestamp": "2022-08-24T21:41:51.913000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BZ",
+            "text": "すごくはないんですが、集中してできるのが結構楽しいですね。",
+            "timestamp": "2022-08-24T21:42:10.892000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CL",
+            "text": "なにかアプリとかつかってるんですか？",
+            "timestamp": "2022-08-24T21:42:26.894000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BZ",
+            "text": "そうですね。メディバンペイントっていう結構メジャーなやつを使ってみてます。基本フリーです。",
+            "timestamp": "2022-08-24T21:42:51.502000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CL",
+            "text": "ほう。聞いたことあります。",
+            "timestamp": "2022-08-24T21:43:14.383000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BZ",
+            "text": "ありますか。もしかしてそっち方面にご興味があったり？",
+            "timestamp": "2022-08-24T21:43:33.630000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CL",
+            "text": "ペンシルを買ったときに私も絵に挑戦してみたんです。",
+            "timestamp": "2022-08-24T21:43:49.551000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BZ",
+            "text": "すごいじゃないですか！今はあまりされないんですか？",
+            "timestamp": "2022-08-24T21:44:05.168000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CL",
+            "text": "普通にメモ書きに使ったり手書きノートをとるくらいで絵は描いてないですね。",
+            "timestamp": "2022-08-24T21:44:28.840000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BZ",
+            "text": "それでは返すようで申し訳ないですが、なにかご趣味はありますか？",
+            "timestamp": "2022-08-24T21:45:06.265000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CL",
+            "text": "趣味は旅行に行くことですかねー。最近はあまり遠出できてないんですけど。",
+            "timestamp": "2022-08-24T21:45:25.874000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BZ",
+            "text": "いいですね！どこか印象に残ってるところ教えてください。",
+            "timestamp": "2022-08-24T21:45:48.973000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CL",
+            "text": "初めて海外にいったパプアニューギニアが印象的でした。",
+            "timestamp": "2022-08-24T21:46:12.366000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BZ",
+            "text": "わー。いいですね！海が主目的ですか？",
+            "timestamp": "2022-08-24T21:46:36.452000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CL",
+            "text": "友人が仕事で行くことになってついていきました。",
+            "timestamp": "2022-08-24T21:46:55.681000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BZ",
+            "text": "結構ながく滞在されたんですか？",
+            "timestamp": "2022-08-24T21:47:14.400000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CL",
+            "text": "２週間くらいでしょうか。",
+            "timestamp": "2022-08-24T21:47:23.986000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BZ",
+            "text": "すごーい。そんなに旅にでたことないです。",
+            "timestamp": "2022-08-24T21:47:43.899000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CL",
+            "text": "もう十何年も前のことなので週に１本しか飛行機が飛んでなかったので仕方なくでした。",
+            "timestamp": "2022-08-24T21:48:14.844000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BZ",
+            "text": "えっ。行ったらすぐに帰れないってことですか？メジャーっぽいところなのにそんなこともあるんですね。",
+            "timestamp": "2022-08-24T21:48:42.958000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CL",
+            "text": "今はもっと便があるんでしょうね。当時は東京からしか出てない感じでした。",
+            "timestamp": "2022-08-24T21:49:07.471000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BZ",
+            "text": "なるほど。2週間もいたらずいぶん慣れたのでは？",
+            "timestamp": "2022-08-24T21:49:28.068000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CL",
+            "text": "人がみんなとても親切だったので帰りたくないって思った記憶がありますね。",
+            "timestamp": "2022-08-24T21:49:49.503000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BZ",
+            "text": "そうなんだ。良いところっぽいですけど、さらに印象が良くなりました！",
+            "timestamp": "2022-08-24T21:50:07.197000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CL",
+            "text": "ありがとうございました!",
+            "timestamp": "2022-08-24T21:50:16.744000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BZ",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-24T21:50:23.314000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

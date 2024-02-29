@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5541,
+    "interlocutors": [
+        "DB",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-25T20:53:20.742000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-25T20:53:39.105000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "今日は夕ご飯はもう食べましたか？",
+            "timestamp": "2022-09-25T20:53:58.184000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "食べました！",
+            "timestamp": "2022-09-25T20:54:04.693000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "なに食べましたか？",
+            "timestamp": "2022-09-25T20:54:11.753000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "近所の定食屋で友人と焼き鯖定食を食べました。",
+            "timestamp": "2022-09-25T20:54:29.636000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "焼き鯖いいですね！鯖大好物なので羨ましいです。",
+            "timestamp": "2022-09-25T20:54:53.645000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "肉よりも魚の方が好きですか？",
+            "timestamp": "2022-09-25T20:55:12.309000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "そうですね。魚のほうがよく食べます。お寿司とかも好きですね。",
+            "timestamp": "2022-09-25T20:55:34.672000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "お寿司では何が好きですか？",
+            "timestamp": "2022-09-25T20:55:47.603000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "サーモンとかかんぱちとかが好きです！",
+            "timestamp": "2022-09-25T20:56:04.070000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "マグロじゃないんですね？",
+            "timestamp": "2022-09-25T20:56:18.497000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "マグロも好きですけど1番はサーモンですね。そちらは何が好きですか？",
+            "timestamp": "2022-09-25T20:57:13.946000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "私はタイが好きです。",
+            "timestamp": "2022-09-25T20:57:23.556000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "タイも美味しいですよね。外食にはよく行くんですか？",
+            "timestamp": "2022-09-25T20:57:59.650000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "最近自炊するのが面倒くさくていくことが増えましたね。",
+            "timestamp": "2022-09-25T20:58:25.484000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "私も一人分だと面倒なときがあるので買ったり食べに行くの多いです。",
+            "timestamp": "2022-09-25T20:59:00.363000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "外食は何が多いですか？",
+            "timestamp": "2022-09-25T20:59:15.325000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "回転ずしかマクドナルドが多いです。",
+            "timestamp": "2022-09-25T20:59:33.828000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "マクドナルド美味しいですよね！",
+            "timestamp": "2022-09-25T20:59:46.301000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "マクドナルド美味しいですよね！今の時期は大好きな月見があるのでよく行ってます。",
+            "timestamp": "2022-09-25T21:00:22.493000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "最近ポテトのクーポンがないのが悲しいです。",
+            "timestamp": "2022-09-25T21:00:34.954000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "確かに前はよくポテトの150円クーポンあったけど最近はないですよね。",
+            "timestamp": "2022-09-25T21:01:23.869000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "クーポンある時は二日に一回くらいは食べてました。",
+            "timestamp": "2022-09-25T21:01:42.252000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "それはすごいですね！でもマックのポテトおいしいからいつでも食べたくなりますよね。",
+            "timestamp": "2022-09-25T21:02:03.365000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "謎の中毒性ありますよね。",
+            "timestamp": "2022-09-25T21:02:16.080000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "健康に悪いとは思いつつもついお店に行ってしまいますよね。あと朝マックのポテトも好きでよく食べてます。",
+            "timestamp": "2022-09-25T21:02:59.317000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "罪悪感を感じながら私も食べています。",
+            "timestamp": "2022-09-25T21:03:21.187000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "マクドナルドが美味しいので仕方ないですね。でも健康には気を付けたいです！",
+            "timestamp": "2022-09-25T21:03:50.394000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "同じくです！",
+            "timestamp": "2022-09-25T21:03:58.059000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2332,
+    "interlocutors": [
+        "CE",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-20T16:00:32.717000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-20T16:00:38.596000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "今日のお昼って何召しあがりました？",
+            "timestamp": "2022-08-20T16:01:09.750000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "今日のお昼は餃子を食べました。",
+            "timestamp": "2022-08-20T16:01:26.468000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "餃子―！美味しそうです！ちなみにタレは何を？",
+            "timestamp": "2022-08-20T16:01:51.436000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "醤油、ラー油、お酢の普通のタレです。",
+            "timestamp": "2022-08-20T16:02:16.476000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "オーソドックスで絶対美味しいやつですね！",
+            "timestamp": "2022-08-20T16:03:18.109000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "そうですよね。何かタレのアレンジ知っていたりしますか？",
+            "timestamp": "2022-08-20T16:03:26.511000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "テレビで、お酢と塩コショウで餃子を食べてる芸能人を見たことがありますね。",
+            "timestamp": "2022-08-20T16:03:57.893000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "そういえば父がその食べ方していたのを見たことあります。あなたはやったことありますか？",
+            "timestamp": "2022-08-20T16:04:39.472000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "私はやったことないですね、餃子はタレつけずに食べるのが好きです！",
+            "timestamp": "2022-08-20T16:05:00.430000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "ええ！つけないんですか。それも珍しい食べ方ですね。",
+            "timestamp": "2022-08-20T16:05:25.399000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "酢があんまり好きではないので、そのせいでタレつけなくなったんだろうなと推測してます。",
+            "timestamp": "2022-08-20T16:06:01.661000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "なるほどー。タレをつけなくて味しないなと思うことないですか？",
+            "timestamp": "2022-08-20T16:06:33.756000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "味しないと感じたことはないですねー！タレつけないと、餃子の材料とかの味がよくわかるんですよ。",
+            "timestamp": "2022-08-20T16:07:20.214000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "通な食べ方って感じですね。塩分控えめで食べられるし、いいかもしれません。",
+            "timestamp": "2022-08-20T16:07:50.426000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "どうしても日本食だとお醤油とか使って塩分高くなっちゃいますよね。",
+            "timestamp": "2022-08-20T16:08:24.462000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "そうなんですよね。お寿司にもお醤油結構使ってしまいますし。",
+            "timestamp": "2022-08-20T16:08:55.090000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "そうですよねー！お寿司はさすがに私もお醤油つけちゃいます。お寿司食べたくなってきました。",
+            "timestamp": "2022-08-20T16:09:38.130000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "お寿司おいしいですからね。何のネタが好きですか？",
+            "timestamp": "2022-08-20T16:09:58.972000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "私はサーモンが大好きです！サーモンばっかり注文します。",
+            "timestamp": "2022-08-20T16:10:27.316000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "そうなんですね！アボカドが一緒に乗っているサーモン好きです！",
+            "timestamp": "2022-08-20T16:10:57.338000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "それも美味しいですよね。困った、本当にお寿司食べたいです。そちらのお好きなネタはなんですか？",
+            "timestamp": "2022-08-20T16:11:37.267000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "私はブリですね。ブリトロがあると絶対に2皿は頼んじゃいます。",
+            "timestamp": "2022-08-20T16:12:12.436000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "青魚がお好きなんて、通ですね！ブリトロって少し脂身が多いんですか？",
+            "timestamp": "2022-08-20T16:13:06.503000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "そうですね。普通のより舌ざわり滑らかって感じです。",
+            "timestamp": "2022-08-20T16:13:43.052000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "食べたことがないので、見かけたら注文してみますね！",
+            "timestamp": "2022-08-20T16:14:11.979000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "ええ！ぜひぜひ。サーモンは普通のがお好きなんですか？それとも何かアレンジされたもの？",
+            "timestamp": "2022-08-20T16:14:41.586000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "普通のと、炙ってあるやつが好きですー！",
+            "timestamp": "2022-08-20T16:15:07.730000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "おいしそう！私もお寿司食べたくなってきちゃいました。ありがとうございました！",
+            "timestamp": "2022-08-20T16:15:37.191000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

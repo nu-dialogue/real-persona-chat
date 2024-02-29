@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4383,
+    "interlocutors": [
+        "FR",
+        "CM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T14:00:13.127000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CM",
+            "text": "こんにちはー！",
+            "timestamp": "2022-09-12T14:00:18.251000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "YouTubeはみますか？",
+            "timestamp": "2022-09-12T14:00:22.685000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CM",
+            "text": "毎日何かしら見てます！",
+            "timestamp": "2022-09-12T14:00:29.736000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "最近だとどういうの見ました？",
+            "timestamp": "2022-09-12T14:00:39.665000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CM",
+            "text": "リロ氏のひとり遊びチャンネルという飯テロチャンネルを見ました！",
+            "timestamp": "2022-09-12T14:00:55.989000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "飯テロですか！",
+            "timestamp": "2022-09-12T14:01:06.650000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CM",
+            "text": "大体いつもハイボールや日本酒と一緒に凄い脂っこそうな料理を食べてるんです。",
+            "timestamp": "2022-09-12T14:01:27.340000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "それは家でですか？",
+            "timestamp": "2022-09-12T14:01:36.871000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CM",
+            "text": "家が９割、屋外が１割という感じです。",
+            "timestamp": "2022-09-12T14:01:49.679000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "なるほど。そういうの見たことないですが、おもしろそうですね。",
+            "timestamp": "2022-09-12T14:02:05.391000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CM",
+            "text": "狩猟をされる方なので、山の中でご飯食べてたりもしますよ！",
+            "timestamp": "2022-09-12T14:02:25.429000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "えー。しかとかですかね。",
+            "timestamp": "2022-09-12T14:02:36.615000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CM",
+            "text": "シカを捌いた事もあったと思います、私は怖くてそれは見てないのですが。",
+            "timestamp": "2022-09-12T14:02:53.347000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "すごい方なんですね。でもさすがに山の中でお酒は飲みませんよね？",
+            "timestamp": "2022-09-12T14:03:12.901000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CM",
+            "text": "はい、屋外では珈琲です！",
+            "timestamp": "2022-09-12T14:03:22.026000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "よかったです。あなたはお酒を飲むのは好きなんですか？",
+            "timestamp": "2022-09-12T14:03:35.276000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CM",
+            "text": "私はお酒飲めないんです、アレルギーで。",
+            "timestamp": "2022-09-12T14:03:45.353000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "全くですか？",
+            "timestamp": "2022-09-12T14:03:54.902000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CM",
+            "text": "はい、消毒とかは平気なのですが、飲むと器官が締まってしまって。",
+            "timestamp": "2022-09-12T14:04:11.889000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "それはだめですね。",
+            "timestamp": "2022-09-12T14:04:20.758000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CM",
+            "text": "なので、正しいお酒の飲み方をその人の動画で見ながらいいなあーって思ってます！",
+            "timestamp": "2022-09-12T14:04:40.161000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "見ながらごはん食べたりするんですか？",
+            "timestamp": "2022-09-12T14:05:03.648000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CM",
+            "text": "いえ、大体夕飯を終えた後くらいに更新されるので、お腹が空かないようにすぐ見てます！",
+            "timestamp": "2022-09-12T14:05:23.493000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "確かに。おなかがすいているときには見れませんね。",
+            "timestamp": "2022-09-12T14:06:10.274000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CM",
+            "text": "大体凄く体に悪そうな食べ物なので、食欲が沸くかと言われると微妙なところなのですが念のため！",
+            "timestamp": "2022-09-12T14:06:09.130000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "体にわるいのがおいしいんですよね。",
+            "timestamp": "2022-09-12T14:06:30.675000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CM",
+            "text": "カップ焼きそばに冷凍炒飯を入れて食べるとかやってましたよ！",
+            "timestamp": "2022-09-12T14:06:48.356000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "予想を超えてきました。おいしそうですが。",
+            "timestamp": "2022-09-12T14:07:07.002000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CM",
+            "text": "二人前を超えてるんですよね。",
+            "timestamp": "2022-09-12T14:07:15.693000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CM",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

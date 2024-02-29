@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1392,
+    "interlocutors": [
+        "AY",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AY",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-15T16:06:28.307000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T16:06:35.829000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AY",
+            "text": "今日は夕飯、なに食べるか決まってますか？",
+            "timestamp": "2022-08-15T16:07:03.114000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "いえ、まだこれからです。決まってますか？",
+            "timestamp": "2022-08-15T16:07:13.337000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AY",
+            "text": "候補はあります。",
+            "timestamp": "2022-08-15T16:07:23.384000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "ちなみに何ですか？候補は？",
+            "timestamp": "2022-08-15T16:07:34.776000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AY",
+            "text": "シチューかカレーです。",
+            "timestamp": "2022-08-15T16:07:44.583000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "途中までどっちでも行けそうですね",
+            "timestamp": "2022-08-15T16:08:04.688000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AY",
+            "text": "はい。材料ほぼ一緒なので。",
+            "timestamp": "2022-08-15T16:08:19.416000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "どちらかを食べたいってことですか？",
+            "timestamp": "2022-08-15T16:08:37.283000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AY",
+            "text": "はい。あなたならどっちにしますか？",
+            "timestamp": "2022-08-15T16:08:50.188000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "カレーはよく食べるのでシチューですね",
+            "timestamp": "2022-08-15T16:09:10.001000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AY",
+            "text": "おお！じゃ、今日はシチューでいきます。",
+            "timestamp": "2022-08-15T16:09:23.050000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "いいんですか？私部外者ですが",
+            "timestamp": "2022-08-15T16:09:38.961000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AY",
+            "text": "いいんですよ！人に決めてもらうと楽なときがあります。",
+            "timestamp": "2022-08-15T16:10:03.467000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "確かに。迷ってるときはそうですね",
+            "timestamp": "2022-08-15T16:10:13.836000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AY",
+            "text": "なかなか決められないんですよ。",
+            "timestamp": "2022-08-15T16:10:25.555000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "シチューは何を入れますか？",
+            "timestamp": "2022-08-15T16:10:36.866000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AY",
+            "text": "それも迷ってます。",
+            "timestamp": "2022-08-15T16:10:46.110000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "そうですか。家によって入れるもの違いますかね？カレーは違うような気がしますが",
+            "timestamp": "2022-08-15T16:11:12.840000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AY",
+            "text": "鶏肉と豚肉で迷ってます。",
+            "timestamp": "2022-08-15T16:11:26.702000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "そっちですか。悩ましいですね",
+            "timestamp": "2022-08-15T16:12:54.067000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AY",
+            "text": "どっちがいいと思いますか？",
+            "timestamp": "2022-08-15T16:12:58.568000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "うちは鶏ですね、いつもは",
+            "timestamp": "2022-08-15T16:13:04.722000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AY",
+            "text": "そうですか。鶏肉にします！",
+            "timestamp": "2022-08-15T16:13:34.131000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "ありがとうございます。野菜は決まってますか？",
+            "timestamp": "2022-08-15T16:13:49.175000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AY",
+            "text": "野菜か。じゃがいも。人参あたりかな。",
+            "timestamp": "2022-08-15T16:14:13.184000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "定番ですね。ブロッコリーはいかがですか？",
+            "timestamp": "2022-08-15T16:14:30.107000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AY",
+            "text": "おお！いいですね！色どりきれい！ありがとうございます！",
+            "timestamp": "2022-08-15T16:14:46.535000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "こちらこそ。おなかすいてきました",
+            "timestamp": "2022-08-15T16:15:04.046000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

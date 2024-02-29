@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4301,
+    "interlocutors": [
+        "EV",
+        "DR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-10T13:59:57.941000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DR",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-09-10T14:00:05.829000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そちらのお天気はどうですか？",
+            "timestamp": "2022-09-10T14:00:11.172000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DR",
+            "text": "今日は晴れですね",
+            "timestamp": "2022-09-10T14:00:19.127000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "そうですか。こちらも雲一つない晴れです",
+            "timestamp": "2022-09-10T14:00:32.677000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DR",
+            "text": "暑いですよねー久しぶりに暑い気がします",
+            "timestamp": "2022-09-10T14:00:44.193000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "はい、久々にエアコンつけました",
+            "timestamp": "2022-09-10T14:00:53.951000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DR",
+            "text": "設定何度ですか？",
+            "timestamp": "2022-09-10T14:01:06.312000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "28です",
+            "timestamp": "2022-09-10T14:01:12.198000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DR",
+            "text": "やっぱそうですよね",
+            "timestamp": "2022-09-10T14:01:18.742000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "はい、ガンガン冷やすのはあまり好きじゃなくて",
+            "timestamp": "2022-09-10T14:01:30.695000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DR",
+            "text": "でも夜だとそれだとちょっと暑いですね",
+            "timestamp": "2022-09-10T14:01:43.166000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "夜は涼しくなると思います。エアコン無しでも",
+            "timestamp": "2022-09-10T14:01:59.590000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DR",
+            "text": "最近は確かにだいぶ涼しくなってきましたね",
+            "timestamp": "2022-09-10T14:02:18.560000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "少し風もありますし、あまり心配していません",
+            "timestamp": "2022-09-10T14:02:31.357000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DR",
+            "text": "今はずっと部屋こもってるので節約しなきゃですね",
+            "timestamp": "2022-09-10T14:02:59.364000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "そうですね。できることはしないと",
+            "timestamp": "2022-09-10T14:03:18.049000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DR",
+            "text": "外とか出てます？",
+            "timestamp": "2022-09-10T14:03:29.895000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "平日は出ています。休日は基本出ないです",
+            "timestamp": "2022-09-10T14:03:48.980000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DR",
+            "text": "外出るとすぐ汗かきますよね",
+            "timestamp": "2022-09-10T14:04:00.774000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "はい、着くまでに汗ダラダラです",
+            "timestamp": "2022-09-10T14:04:18.017000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DR",
+            "text": "ですよねーめっちゃ服濡れちゃう",
+            "timestamp": "2022-09-10T14:04:43.482000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "日傘は使いますか？",
+            "timestamp": "2022-09-10T14:04:54.942000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DR",
+            "text": "使ったことないっす",
+            "timestamp": "2022-09-10T14:05:03.045000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "そうですよね、なかなか",
+            "timestamp": "2022-09-10T14:05:11.976000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DR",
+            "text": "使います？",
+            "timestamp": "2022-09-10T14:05:18.397000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "使わないですね。雨用の傘しかなくて",
+            "timestamp": "2022-09-10T14:05:35.064000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DR",
+            "text": "僕もそもそも持ってないかもですねあんま男の人してるの見たことないかな",
+            "timestamp": "2022-09-10T14:05:57.189000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "確かに、めったに見ませんね",
+            "timestamp": "2022-09-10T14:06:10.264000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DR",
+            "text": "今度挑戦してみようかな！",
+            "timestamp": "2022-09-10T14:06:22.813000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DR",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

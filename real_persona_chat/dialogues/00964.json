@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 964,
+    "interlocutors": [
+        "CR",
+        "BZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-11T13:45:25.765000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BZ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T13:45:30.482000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "最近趣味的なことはやってますか？",
+            "timestamp": "2022-08-11T13:45:57.057000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BZ",
+            "text": "そうですね。ちょっと始めてみたのはデジタルペンで絵をかいてみたりしています。",
+            "timestamp": "2022-08-11T13:46:29.036000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "IPADみたいのに書くやつですか？",
+            "timestamp": "2022-08-11T13:47:01.362000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BZ",
+            "text": "です。タブレットにちょいちょいと。",
+            "timestamp": "2022-08-11T13:47:19.889000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "あれは、元々の絵を描くセンスがなければダメなんでしょうね。",
+            "timestamp": "2022-08-11T13:48:03.672000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BZ",
+            "text": "そうですね。本当に痛感してます。",
+            "timestamp": "2022-08-11T13:48:19.970000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "私も書いてみたいです。",
+            "timestamp": "2022-08-11T13:48:40.515000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BZ",
+            "text": "ペンが2000円とかなんで割とハードルは低いですよ。",
+            "timestamp": "2022-08-11T13:49:09.416000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "タブレットも持っていないのでゼロからになっちゃいます。",
+            "timestamp": "2022-08-11T13:49:42.995000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BZ",
+            "text": "タッチパネル画面がないと確かにちょっと難しいですね。",
+            "timestamp": "2022-08-11T13:50:16.304000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "macbookだけでは難しいですね。",
+            "timestamp": "2022-08-11T13:50:54.223000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BZ",
+            "text": "そうですね。動画とか見たら本はいらないので、やっぱタブレットいりますね。",
+            "timestamp": "2022-08-11T13:51:52.644000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "途中まで下手でも書いたらソフト側で綺麗に仕上げてくれたりしませんか？",
+            "timestamp": "2022-08-11T13:52:29.495000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BZ",
+            "text": "あはは。そこまでの機能はないと思います！",
+            "timestamp": "2022-08-11T13:52:59.307000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "いずれできますかね。",
+            "timestamp": "2022-08-11T13:53:20.018000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BZ",
+            "text": "できそうですよね。既存のキャラものとかなら、AIが判断して補正とかできそうな気がします。",
+            "timestamp": "2022-08-11T13:53:50.418000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "AIの進化で学習してもらって。あーこの人こう描きたいんだな。なんて",
+            "timestamp": "2022-08-11T13:54:46.600000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BZ",
+            "text": "ディープラーニングでそこまでいきますかね！どうせなら行ってほしいですね。",
+            "timestamp": "2022-08-11T13:55:41.169000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "おまえが練習せーって言われて終わりかも。",
+            "timestamp": "2022-08-11T13:56:13.851000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BZ",
+            "text": "AIは人間を下に見てはいけないとう原則があるので大丈夫！と思う。",
+            "timestamp": "2022-08-11T13:56:45.659000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "へ〜そんなんですね。AIえらい。",
+            "timestamp": "2022-08-11T13:57:03.760000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BZ",
+            "text": "映画みたいに反逆とか起きたら世界が終わりそうですね。",
+            "timestamp": "2022-08-11T13:57:27.092000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "映画なら絶対反逆しますよね。",
+            "timestamp": "2022-08-11T13:57:45.958000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BZ",
+            "text": "あれ、怖いですけどありそうですよね。",
+            "timestamp": "2022-08-11T13:58:07.835000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "やはり、AIの進化にリスクは消えないと思う。",
+            "timestamp": "2022-08-11T13:58:35.526000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BZ",
+            "text": "そういう機能をわざと組み込む博士とかいそうですよね。",
+            "timestamp": "2022-08-11T13:59:02.221000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "なら安心ですけどね。",
+            "timestamp": "2022-08-11T13:59:18.820000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BZ",
+            "text": "絵の方はちょっとずつ練習していきます！",
+            "timestamp": "2022-08-11T13:59:41.842000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BZ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

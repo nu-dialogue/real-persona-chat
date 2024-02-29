@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6467,
+    "interlocutors": [
+        "FU",
+        "HQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-08T22:34:24.127000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HQ",
+            "text": "こんばんは",
+            "timestamp": "2022-10-08T22:34:29.797000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "三連休はどう過ごしてますか？",
+            "timestamp": "2022-10-08T22:34:41.501000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HQ",
+            "text": "家でダラダラしてます。",
+            "timestamp": "2022-10-08T22:34:51.320000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "僕もです。今日は買い物に行きましたけどそれくらいです",
+            "timestamp": "2022-10-08T22:35:24.817000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HQ",
+            "text": "何を買ったんですか？",
+            "timestamp": "2022-10-08T22:35:33.012000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "犬のごはんです",
+            "timestamp": "2022-10-08T22:35:42.968000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HQ",
+            "text": "犬飼ってるんですね",
+            "timestamp": "2022-10-08T22:35:52.169000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "シベリアンハスキーを飼ってます",
+            "timestamp": "2022-10-08T22:36:03.663000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HQ",
+            "text": "ずいぶん大きい犬飼ってるんですね。",
+            "timestamp": "2022-10-08T22:36:26.929000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "はい、かわいいです。",
+            "timestamp": "2022-10-08T22:36:35.350000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HQ",
+            "text": "羨ましいです。私もペット飼いたいな",
+            "timestamp": "2022-10-08T22:36:47.154000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "何も飼ってないんですか？",
+            "timestamp": "2022-10-08T22:36:58.848000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HQ",
+            "text": "はい。家を留守にしがちなのでかわいそうかなと思って",
+            "timestamp": "2022-10-08T22:37:21.402000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "なるほど。ペット飼うとなかなか旅行にも行けなくなります",
+            "timestamp": "2022-10-08T22:37:45.433000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HQ",
+            "text": "そうですよね",
+            "timestamp": "2022-10-08T22:37:53.371000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "僕は実家なのであんまり気にしなくていいんですが、一人暮らしだと大変そうですね",
+            "timestamp": "2022-10-08T22:38:21.116000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HQ",
+            "text": "やっぱ誰かと住まないとペットは厳しそうですね",
+            "timestamp": "2022-10-08T22:38:44.992000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "そうですね。猫はともかく犬は置き去りにすると大変なことになりそうです",
+            "timestamp": "2022-10-08T22:39:46.795000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HQ",
+            "text": "トイレ問題がありますよね",
+            "timestamp": "2022-10-08T22:40:02.068000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "そうですね。猫だったら砂に埋めるからいいですけど犬がむき出しだし",
+            "timestamp": "2022-10-08T22:40:22.892000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HQ",
+            "text": "飼うなら猫かなぁ",
+            "timestamp": "2022-10-08T22:40:49.383000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "そうですね",
+            "timestamp": "2022-10-08T22:41:16.053000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HQ",
+            "text": "でも留守中に高いところから落ちて怪我したらやばいですよね",
+            "timestamp": "2022-10-08T22:41:33.215000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "ペットホテルに預けるのが一番いいんだと思います",
+            "timestamp": "2022-10-08T22:41:50.613000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HQ",
+            "text": "いくらくらいするんでしょう",
+            "timestamp": "2022-10-08T22:42:04.020000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "一泊一万円くらいでしょうか",
+            "timestamp": "2022-10-08T22:42:19.120000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HQ",
+            "text": "人間より高いですね",
+            "timestamp": "2022-10-08T22:42:28.800000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "ピンキリだとは思いますがそれくらいな気がします",
+            "timestamp": "2022-10-08T22:42:42.740000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HQ",
+            "text": "お金かかりますねぇ",
+            "timestamp": "2022-10-08T22:42:50.967000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

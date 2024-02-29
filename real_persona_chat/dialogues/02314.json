@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2314,
+    "interlocutors": [
+        "BS",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BS",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-21T10:38:59.724000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-21T10:39:10.907000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BS",
+            "text": "朝ご飯は食べられましたか？",
+            "timestamp": "2022-08-21T10:39:24.049000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "朝ご飯食べましたが、ヨーグルトを少しだけです、、",
+            "timestamp": "2022-08-21T10:39:53.241000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BS",
+            "text": "おお、ヘルシーですね。朝はあまり食べられないタイプですか？",
+            "timestamp": "2022-08-21T10:40:15.080000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "そうですね、そんなに食べられないです。あなたは、朝ご飯食べましたか？",
+            "timestamp": "2022-08-21T10:40:43.025000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。私はプロテインを飲みました。",
+            "timestamp": "2022-08-21T10:41:01.092000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "プロテイン飲まれているんですね！私もプロテイン飲んでます。筋トレされているんですか？",
+            "timestamp": "2022-08-21T10:41:29.643000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BS",
+            "text": "お仲間ですね！いえ、筋トレはあまりしてなくて、タンパク質補充用で飲んでいます。",
+            "timestamp": "2022-08-21T10:42:03.968000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "なるほど！タンパク質は意外に摂れていないので、プロテイン便利ですよね。",
+            "timestamp": "2022-08-21T10:42:40.197000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BS",
+            "text": "そうなんですよ！あなたは筋トレされていますか？",
+            "timestamp": "2022-08-21T10:42:51.572000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "週1回、パーソナルトレーニングには行っています。家ではあまり、、",
+            "timestamp": "2022-08-21T10:43:23.201000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！パーソナルトレーニングってどんな感じなのか気になってました。",
+            "timestamp": "2022-08-21T10:43:56.234000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "マシン使うのですが、教えてもらいながらで、結構楽しくやっていますよ。",
+            "timestamp": "2022-08-21T10:44:22.618000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BS",
+            "text": "へー！どういうキッカケで始められたのですか？",
+            "timestamp": "2022-08-21T10:44:43.765000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "去年の健康診断で、過去最大の体重になってしまっていて、ダイエットを決意しました、、",
+            "timestamp": "2022-08-21T10:45:20.227000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！そこでちゃんと対策を打っているから偉いですね。",
+            "timestamp": "2022-08-21T10:46:33.831000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "糖質制限を一緒にして、結構スッと体重減りました。行って良かったです！",
+            "timestamp": "2022-08-21T10:47:14.856000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BS",
+            "text": "結果も出てすごい！プロテインは何を飲まれていますか？",
+            "timestamp": "2022-08-21T10:47:51.329000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "ジムで売っているものを買っています。あなたは何を飲んでいますか？",
+            "timestamp": "2022-08-21T10:48:17.884000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね！私はザバスとウルトラプロテイン？というのを飲んでいます。",
+            "timestamp": "2022-08-21T10:49:29.691000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "ザバスは有名ですよね！私も使ったことあります。ジムのはレモンヨーグルト味があって珍しいですよね。",
+            "timestamp": "2022-08-21T10:50:25.019000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BS",
+            "text": "ですよね！へー確かに初めて聞きました！飲みやすいですか？",
+            "timestamp": "2022-08-21T10:50:48.368000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "さっぱりしてて飲みやすいです。最近いろいろな味があるので、もっと他のも試してみたいです。",
+            "timestamp": "2022-08-21T10:51:30.656000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。確かに飽きないためにも色々試したいですよね。",
+            "timestamp": "2022-08-21T10:51:49.937000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "そうですね！小分けにして売ってくれたら嬉しいかもです。プロテインバーとかも好きです。",
+            "timestamp": "2022-08-21T10:52:15.841000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BS",
+            "text": "バーは食べたことないです！美味しいですか？",
+            "timestamp": "2022-08-21T10:52:35.797000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "バーもおやつがわりに食べてますが、結構美味しいですよ！",
+            "timestamp": "2022-08-21T10:53:03.744000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BS",
+            "text": "いいですね。今度探してみます。",
+            "timestamp": "2022-08-21T10:53:16.095000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "ぜひぜひ！試してみてください！",
+            "timestamp": "2022-08-21T10:53:30.428000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

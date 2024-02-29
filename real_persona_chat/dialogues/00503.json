@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 503,
+    "interlocutors": [
+        "BN",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BN",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-08T22:00:54.329000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-08T22:00:59.256000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BN",
+            "text": "お盆休みは何か予定ありますか？",
+            "timestamp": "2022-08-08T22:01:12.546000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "丁度、明日から帰省する予定でした！",
+            "timestamp": "2022-08-08T22:01:26.545000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BN",
+            "text": "おお！明日からなんですね！",
+            "timestamp": "2022-08-08T22:01:36.388000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよ！荷造りまだしてませんが。",
+            "timestamp": "2022-08-08T22:01:49.938000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BN",
+            "text": "あらあら。もう寝る時間なのに。笑",
+            "timestamp": "2022-08-08T22:02:12.077000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "ですー。明日の朝に回します。あなたは何しますか？",
+            "timestamp": "2022-08-08T22:02:29.840000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BN",
+            "text": "8/12～8/14が休みなんですけど、3日間泊りがけでフェスに行きます！",
+            "timestamp": "2022-08-08T22:02:56.220000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "何のフェスですか？",
+            "timestamp": "2022-08-08T22:03:05.861000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BN",
+            "text": "アイドルですね～！滋賀県であるんです！",
+            "timestamp": "2022-08-08T22:03:16.742000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "偶然！帰省先、滋賀県です！",
+            "timestamp": "2022-08-08T22:03:29.401000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BN",
+            "text": "えー！偶然！笑",
+            "timestamp": "2022-08-08T22:03:37.551000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "滋賀県のどこであるんですか？",
+            "timestamp": "2022-08-08T22:03:47.942000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BN",
+            "text": "竜王のアウトレットの近くです！",
+            "timestamp": "2022-08-08T22:04:02.278000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。楽しみですね！",
+            "timestamp": "2022-08-08T22:04:14.333000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BN",
+            "text": "楽しみです！タイムテーブル発表されたので、どう回ろうか計画立てるところなんです！",
+            "timestamp": "2022-08-08T22:04:41.547000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "そんな広い会場なんですね！屋外ですか？",
+            "timestamp": "2022-08-08T22:04:57.425000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BN",
+            "text": "屋外です！いくつかステージがあるんですよ！",
+            "timestamp": "2022-08-08T22:05:13.614000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "行ってみたい！お目当ては誰ですか？",
+            "timestamp": "2022-08-08T22:05:47.001000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BN",
+            "text": "ЯiM:MiR（リムミル）っていうアイドルです！",
+            "timestamp": "2022-08-08T22:06:04.617000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "知らないなー。勉強します！久しぶりのフェスですか？",
+            "timestamp": "2022-08-08T22:06:27.439000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BN",
+            "text": "大阪の地下アイドルなんで知らなくて当然です！笑 フェスは今年3つ目かな。",
+            "timestamp": "2022-08-08T22:07:02.185000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "結構行ってますね。去年は中止とかでしたか？",
+            "timestamp": "2022-08-08T22:07:20.726000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BN",
+            "text": "そうですね～。オンラインで無観客とかでした。",
+            "timestamp": "2022-08-08T22:07:36.480000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "そうですよね。やっぱり生で見るのが一番ですよね！",
+            "timestamp": "2022-08-08T22:07:56.872000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BN",
+            "text": "ですね！コロナでも対策しながら開催してくれる運営さんに感謝です。",
+            "timestamp": "2022-08-08T22:08:22.558000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "安心ですね。ほんと、会場側の負担ってすごいと思います。",
+            "timestamp": "2022-08-08T22:08:38.571000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BN",
+            "text": "気をつけて楽しんできます！",
+            "timestamp": "2022-08-08T22:08:51.251000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "はい、是非！",
+            "timestamp": "2022-08-08T22:09:00.902000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

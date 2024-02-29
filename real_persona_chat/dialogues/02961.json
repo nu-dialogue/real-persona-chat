@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2961,
+    "interlocutors": [
+        "DA",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DA",
+            "text": "こんにちは！よろしくお願いします",
+            "timestamp": "2022-08-25T12:01:56.916000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは！よろしくお願いします",
+            "timestamp": "2022-08-25T12:02:09.407000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DA",
+            "text": "お昼ご飯は食べましたか？",
+            "timestamp": "2022-08-25T12:02:42.455000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "お昼はまだですが、パスタにする予定です",
+            "timestamp": "2022-08-25T12:02:36.448000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DA",
+            "text": "何パスタですか？？",
+            "timestamp": "2022-08-25T12:02:54.562000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "ペペロンチーノのようなささっとできるものにしたいです。もうお昼は食べましたか？",
+            "timestamp": "2022-08-25T12:03:25.005000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DA",
+            "text": "いいですね！私もまだです、決めてません、、",
+            "timestamp": "2022-08-25T12:03:45.483000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "好きな料理はありますか？",
+            "timestamp": "2022-08-25T12:03:59.753000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DA",
+            "text": "スパイスカレーに最近はまってます！",
+            "timestamp": "2022-08-25T12:04:21.922000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "作るんですか？",
+            "timestamp": "2022-08-25T12:04:32.815000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DA",
+            "text": "作りますよ！スパイスも家にたくさんあります！",
+            "timestamp": "2022-08-25T12:04:53.221000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "すごいです！凝ったカレーは作ったことも食べたこともあまりないので気になります",
+            "timestamp": "2022-08-25T12:05:29.870000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DA",
+            "text": "辛いものとかは食べれますか？",
+            "timestamp": "2022-08-25T12:05:57.640000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "食べれます！",
+            "timestamp": "2022-08-25T12:06:14.154000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DA",
+            "text": "ならカレー絶対好きだと思います！辛さも調節できますよ！",
+            "timestamp": "2022-08-25T12:06:45.524000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "スパイスはカレー以外にも使っているのですか？",
+            "timestamp": "2022-08-25T12:06:57.711000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DA",
+            "text": "たまに使ってます！風味付けとかに！",
+            "timestamp": "2022-08-25T12:07:30.841000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "おすすめのスパイスはありますか？",
+            "timestamp": "2022-08-25T12:07:38.152000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DA",
+            "text": "クミンおいしいです。鮭ご飯にかけるのおすすめです",
+            "timestamp": "2022-08-25T12:08:09.858000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "ご飯に合うんですか！",
+            "timestamp": "2022-08-25T12:08:33.195000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DA",
+            "text": "あいますよー！アレンジも豊富です！得意な料理はありますか？",
+            "timestamp": "2022-08-25T12:09:10.394000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "実家暮らしであまり自炊はしないです。自炊となるとパスタなどにしてしまいます。",
+            "timestamp": "2022-08-25T12:09:43.702000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DA",
+            "text": "パスタもアレンジできて楽しそうですね！",
+            "timestamp": "2022-08-25T12:10:11.060000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "スパイスほど味を少しずつ変えるのは難しいですが、アレンジがきくので重宝しています。",
+            "timestamp": "2022-08-25T12:10:57.147000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DA",
+            "text": "おすすめアレンジありますか？",
+            "timestamp": "2022-08-25T12:11:21.355000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "味ではなく入れる具材を変えるのがおすすめです",
+            "timestamp": "2022-08-25T12:11:46"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DA",
+            "text": "どんな具材をよく使ってますか？",
+            "timestamp": "2022-08-25T12:12:01.743000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "玉ねぎやベーコンはほとんどに合います",
+            "timestamp": "2022-08-25T12:12:26.279000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DA",
+            "text": "確実においしいやつですね、、、！！",
+            "timestamp": "2022-08-25T12:12:44.089000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "ぜひ試してみてください！",
+            "timestamp": "2022-08-25T12:12:50.008000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 2,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

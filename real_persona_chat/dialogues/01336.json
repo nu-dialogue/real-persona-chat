@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1336,
+    "interlocutors": [
+        "CP",
+        "BU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CP",
+            "text": "こんばんはー！　今日はちょっと涼しいですね。",
+            "timestamp": "2022-08-13T20:44:15.668000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BU",
+            "text": "こんばんは！涼しいですね。すずちゃん。",
+            "timestamp": "2022-08-13T20:44:39.499000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CP",
+            "text": "雨が降ったせいかな。そっちはどうでした？",
+            "timestamp": "2022-08-13T20:44:54.844000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BU",
+            "text": "こちらは雨降ってません。",
+            "timestamp": "2022-08-13T20:45:06.781000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CP",
+            "text": "そうなんですね。ずっと晴れですか？",
+            "timestamp": "2022-08-13T20:45:24.375000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BU",
+            "text": "晴れてもないですね。曇りって感じでした。雨大丈夫でした？",
+            "timestamp": "2022-08-13T20:45:35.530000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CP",
+            "text": "なるほど！　雨は大丈夫です。そんなには降らなかったので。",
+            "timestamp": "2022-08-13T20:45:57.245000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BU",
+            "text": "良かったです。ずっとお家にいました？",
+            "timestamp": "2022-08-13T20:46:16.712000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CP",
+            "text": "はい。今日は家でゴロゴロしてました。あなたは？",
+            "timestamp": "2022-08-13T20:46:26.787000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BU",
+            "text": "うちもお家にいましたよ。のんびりしてました。",
+            "timestamp": "2022-08-13T20:46:43.997000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CP",
+            "text": "最近、あんまり外出てないです。",
+            "timestamp": "2022-08-13T20:47:05.929000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BU",
+            "text": "最後いつ外出しましたか？",
+            "timestamp": "2022-08-13T20:47:19.527000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CP",
+            "text": "一昨日の夕方に、特売のお惣菜を買いに出たくらいかも。",
+            "timestamp": "2022-08-13T20:47:35.283000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BU",
+            "text": "一昨日からご飯食べてないんですか？",
+            "timestamp": "2022-08-13T20:47:49.486000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CP",
+            "text": "いえいえ。そうめんとか、冷蔵庫のものとか食べてますよ！",
+            "timestamp": "2022-08-13T20:48:09.325000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BU",
+            "text": "なるほど、うちの冷蔵庫は寂しいです。",
+            "timestamp": "2022-08-13T20:48:39.947000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CP",
+            "text": "最近暑いので、買いだめしてます。外出たくないー！",
+            "timestamp": "2022-08-13T20:48:54.519000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BU",
+            "text": "そんなにですか？？",
+            "timestamp": "2022-08-13T20:49:10.967000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CP",
+            "text": "はいー。昨日まで暑くて、豆腐とか、うどんとか買いだめしました。",
+            "timestamp": "2022-08-13T20:49:30.601000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BU",
+            "text": "夏には食べやすいのでいいですね。あと２ヶ月は暑いですよ。",
+            "timestamp": "2022-08-13T20:49:53.904000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CP",
+            "text": "うわー。二ヶ月冷蔵庫パンパンで過ごすかもしれません。",
+            "timestamp": "2022-08-13T20:50:09.847000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BU",
+            "text": "業務用冷蔵庫ですか？？",
+            "timestamp": "2022-08-13T20:50:26.513000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CP",
+            "text": "いえいえ。一人暮らし用なので、買いだめして、入らないってなることがあります。",
+            "timestamp": "2022-08-13T20:50:49.716000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BU",
+            "text": "え、入らなかったらどうされます？",
+            "timestamp": "2022-08-13T20:51:01.923000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CP",
+            "text": "入れなくてよさそうなのを出す感じですね。ペットボトルとか。",
+            "timestamp": "2022-08-13T20:51:16.284000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BU",
+            "text": "なるほど、夏だけ大きい冷蔵庫ほしくなりますね。",
+            "timestamp": "2022-08-13T20:51:35.823000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CP",
+            "text": "そうですね！　冷凍庫だけはめっちゃ考えて買います。出せない！",
+            "timestamp": "2022-08-13T20:51:52.666000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BU",
+            "text": "大事ですね。うちも冷凍庫にはいりたい。",
+            "timestamp": "2022-08-13T20:52:20.614000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CP",
+            "text": "ああ。確かに。自分が入りたいです。はやく涼しくならないかなー。",
+            "timestamp": "2022-08-13T20:52:37.643000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BU",
+            "text": "ほんまですねー。寒いギャグいいましょか？",
+            "timestamp": "2022-08-13T20:52:53.718000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

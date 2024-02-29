@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8724,
+    "interlocutors": [
+        "EY",
+        "AD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EY",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-23T13:52:00.509000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AD",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-23T13:52:10.127000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EY",
+            "text": "今日は何してましたか。",
+            "timestamp": "2022-08-23T13:52:43.070000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AD",
+            "text": "在宅勤務で仕事中です。あなたは？",
+            "timestamp": "2022-08-23T13:52:56.260000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EY",
+            "text": "今日は夕方から仕事で、昼間はトイレの工事をする人が来ていました。",
+            "timestamp": "2022-08-23T13:53:43.412000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AD",
+            "text": "トイレ工事、何かあったんですか？",
+            "timestamp": "2022-08-23T13:53:52.500000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EY",
+            "text": "水漏れが起きてしまってまずいなと思い工事してもらいました。",
+            "timestamp": "2022-08-23T13:54:43.139000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AD",
+            "text": "水漏れ。それは大変でしたね、直りましたか？",
+            "timestamp": "2022-08-23T13:54:50.405000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EY",
+            "text": "一応水漏れは工事して直してもらえました。水漏れが起きないかはこれから様子見が必要みたいです。",
+            "timestamp": "2022-08-23T13:55:50.260000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AD",
+            "text": "直って一安心ですね。夕方からお仕事は頑張ってくださいね。",
+            "timestamp": "2022-08-23T13:56:21.521000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EY",
+            "text": "直ってよかったです。頑張ります。あなたは在宅のお仕事は終わったんですか？",
+            "timestamp": "2022-08-23T13:57:58.614000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AD",
+            "text": "まだ仕事中です。定時は17時なので。",
+            "timestamp": "2022-08-23T13:58:13.800000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EY",
+            "text": "なるほど。休憩中ですか？",
+            "timestamp": "2022-08-23T13:58:33.490000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AD",
+            "text": "はい、そんなところです。",
+            "timestamp": "2022-08-23T13:58:48.086000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EY",
+            "text": "なるほどですね、午後のお仕事も頑張ってください。",
+            "timestamp": "2022-08-23T13:59:38.943000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AD",
+            "text": "ありがとうございます。頑張ります。あなたはお仕事何時までですか？",
+            "timestamp": "2022-08-23T13:59:54.646000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EY",
+            "text": "夜１０時までです。",
+            "timestamp": "2022-08-23T14:00:24.280000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AD",
+            "text": "遅くまで大変ですね。頑張ってください。",
+            "timestamp": "2022-08-23T14:00:41.591000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EY",
+            "text": "はい、始まりが遅いので大変ではないのですがありがとうございます。",
+            "timestamp": "2022-08-23T14:01:20.569000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AD",
+            "text": "お仕事は土日休みですか？",
+            "timestamp": "2022-08-23T14:01:45.269000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EY",
+            "text": "いえ、不定休です。土日休みだといいのですが。",
+            "timestamp": "2022-08-23T14:02:27.600000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AD",
+            "text": "不定休なんですね。でも平日休みだと外出しても空いていてお出かけしやすいのではないでしょうか。",
+            "timestamp": "2022-08-23T14:02:52.659000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EY",
+            "text": "そうですね、平日だとお昼を外食しても空いていたりでその点はいいですね。",
+            "timestamp": "2022-08-23T14:03:49.506000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AD",
+            "text": "土日だと外食も混みますからね。平日ランチだと安いですし、お得感ありますね。",
+            "timestamp": "2022-08-23T14:04:14.329000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EY",
+            "text": "平日でしかないランチメニューとかもあったりするので本当にお得です。",
+            "timestamp": "2022-08-23T14:05:07.098000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AD",
+            "text": "よく外食されるんですか？",
+            "timestamp": "2022-08-23T14:05:15.441000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EY",
+            "text": "最近は外食はほどほどですね、以前はよく食べに出かけていましたが。",
+            "timestamp": "2022-08-23T14:06:04.245000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね。どうして減ったんですか？",
+            "timestamp": "2022-08-23T14:06:20.873000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EY",
+            "text": "コロナのせいで外食が減ってしまいましたね。",
+            "timestamp": "2022-08-23T14:06:48.647000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AD",
+            "text": "コロナ怖いですもんね。今はたまにだと思いますが、外食する時は気を付けてくださいね。",
+            "timestamp": "2022-08-23T14:07:05.829000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

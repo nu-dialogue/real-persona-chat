@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10005,
+    "interlocutors": [
+        "ER",
+        "CE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "はじめまして。よろしくお願いします。",
+            "timestamp": "2022-08-10T16:07:22.255000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CE",
+            "text": "お願いしますー！",
+            "timestamp": "2022-08-10T16:07:43.431000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "ペットとか飼われています？飼っていなかったら飼いたい動物はいますか？",
+            "timestamp": "2022-08-10T16:08:10.004000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CE",
+            "text": "飼ってないんですが、ヘビかフクロウ飼いたいです。",
+            "timestamp": "2022-08-10T16:08:38.223000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "なかなか餌の管理が大変そうな動物ですね。",
+            "timestamp": "2022-08-10T16:09:12.638000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよね。冷凍マウスとかが多分ご飯ですよね。",
+            "timestamp": "2022-08-10T16:09:36.717000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "肉食ですからね。フクロウカフェとかは行ったことありますか？",
+            "timestamp": "2022-08-10T16:09:54.506000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CE",
+            "text": "行ったことないんですが、めちゃくちゃ行きたいです。都会にしかないのがつらいところです。",
+            "timestamp": "2022-08-10T16:10:31.488000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "そんなに全国区にはなさそうですね。猫カフェは結構ありそうですが。",
+            "timestamp": "2022-08-10T16:11:01.024000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CE",
+            "text": "ですよねぇ。何かペット飼われてますか？",
+            "timestamp": "2022-08-10T16:11:40.123000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "ウーパールーパーを飼っています。",
+            "timestamp": "2022-08-10T16:12:25.688000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CE",
+            "text": "ウーパールーパーってあのかわいい子ですね！うわぁ、癒されそう！",
+            "timestamp": "2022-08-10T16:13:03.344000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "癒やされますよ。飼育も結構簡単ですし。",
+            "timestamp": "2022-08-10T16:13:23.778000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CE",
+            "text": "ご飯は何を食べるんですか？",
+            "timestamp": "2022-08-10T16:13:39.892000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "赤虫とかエビですね。マウスをあげる人もいるみたいですが、管理が難しいので…",
+            "timestamp": "2022-08-10T16:14:09.816000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CE",
+            "text": "食べ残すと水汚れちゃいますもんね。赤虫とかエビ吸い込んでるウーパールーパーかわいいです。",
+            "timestamp": "2022-08-10T16:14:51.688000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "パクパクしてるの可愛いですよ。ずっと見ていられます。",
+            "timestamp": "2022-08-10T16:15:14.305000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CE",
+            "text": "めちゃくちゃ癒しですね。お名前とかあるんですか？",
+            "timestamp": "2022-08-10T16:15:38.273000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "名前はサクラです。桜色だったのでサクラにしました。",
+            "timestamp": "2022-08-10T16:16:05.220000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CE",
+            "text": "ピンクがかった体色なんですね。かわいいなぁ。写真フォルダはサクラちゃんだらけですか？",
+            "timestamp": "2022-08-10T16:16:40.343000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "そうですね、デジカメもサクラばかりで毎月たくさんの写真を整理してます。",
+            "timestamp": "2022-08-10T16:17:06.237000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CE",
+            "text": "愛ですねー！とてもいいです！",
+            "timestamp": "2022-08-10T16:17:33.425000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "顔の系統はヘビに近いので、ヘビが可愛いってのも結構わかります。",
+            "timestamp": "2022-08-10T16:18:09.172000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CE",
+            "text": "わかってくださって嬉しいです！家族からは「えっ」って言われます。",
+            "timestamp": "2022-08-10T16:18:35.839000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "爬虫類とか結構愛嬌ある顔してますよね。",
+            "timestamp": "2022-08-10T16:18:51.718000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよー！表情なさそうでしっかりある気がして。",
+            "timestamp": "2022-08-10T16:19:25.759000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "ヘビは舌があるのも可愛いですね。",
+            "timestamp": "2022-08-10T16:19:40.100000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CE",
+            "text": "チロチロしてるのかわいいですよね。ウーパールーパーはあんまり舌見えないんですか？",
+            "timestamp": "2022-08-10T16:20:15.166000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "ウーパールーパーは舌がそもそもないんですよね。",
+            "timestamp": "2022-08-10T16:20:31.883000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CE",
+            "text": "そうなんですね！お話ありがとうございました！",
+            "timestamp": "2022-08-10T16:20:42.944000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "ER",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-10T16:20:46.272000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

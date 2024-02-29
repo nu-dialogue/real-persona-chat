@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13246,
+    "interlocutors": [
+        "GI",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-19T10:22:29.560000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-19T10:22:33.508000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "天気はどんな感じですか？",
+            "timestamp": "2022-09-19T10:22:44.556000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "降ったりやんだりです。",
+            "timestamp": "2022-09-19T10:22:52.397000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "台風はどうなんですか？",
+            "timestamp": "2022-09-19T10:23:01.463000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "まだ来てはないですね",
+            "timestamp": "2022-09-19T10:23:06.926000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "怖いですよね。",
+            "timestamp": "2022-09-19T10:23:21.210000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "怖いですね。住んでるところは大丈夫ですが地元はこの後来るみたいです",
+            "timestamp": "2022-09-19T10:23:47.613000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "そうですよね。私は関西なのですが、もうすぐ来るみたいで震えています。",
+            "timestamp": "2022-09-19T10:24:19.949000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "関西ですか。確か今日くらいに通過する予報だったでしょうか？",
+            "timestamp": "2022-09-19T10:24:50.718000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "そうなんです。なので対策してました。",
+            "timestamp": "2022-09-19T10:25:17.379000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "窓の対策とかですか？",
+            "timestamp": "2022-09-19T10:25:34.208000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "あと、食料と充電です。",
+            "timestamp": "2022-09-19T10:25:53.042000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "充電大事ですね。停電したらニュースはスマホからになりますもんね",
+            "timestamp": "2022-09-19T10:27:29.710000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "そうなんですよね。スマホは必須です。",
+            "timestamp": "2022-09-19T10:27:40.850000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "バッテリーとかも準備されてますか？",
+            "timestamp": "2022-09-19T10:27:53.205000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "しようかなと思ったのですが、ノートパソコンの充電があればいいかなーと。",
+            "timestamp": "2022-09-19T10:27:36.007000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "確かに。ノートパソコンあればそこからスマホの充電もできますしね",
+            "timestamp": "2022-09-19T10:28:05.452000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうですね。それで乗り切りたいと思います。少し上にそれたみたいですけどね。",
+            "timestamp": "2022-09-19T10:27:56.420000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "直撃ではなくなったので少しだけ安心できますね",
+            "timestamp": "2022-09-19T10:28:18.356000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "そうなんです。よかったですねぇ。",
+            "timestamp": "2022-09-19T10:28:43.033000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "よかったです。ただ沖縄に住んでる友人は大変だと言ってました",
+            "timestamp": "2022-09-19T10:29:06.125000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "沖縄とかすごいんじゃないですか？もう通過したのかな？",
+            "timestamp": "2022-09-19T10:29:24.917000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "通過はしたみたいですね。この前の台風も遅かったので洗濯が一週間外に干せなかったと言ってました",
+            "timestamp": "2022-09-19T10:29:54.631000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "一週間！それはやばいですね。",
+            "timestamp": "2022-09-19T10:30:12.558000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "ずっと停滞してて風が強かったみたいです",
+            "timestamp": "2022-09-19T10:30:30.080000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "停滞するのやばいですよね。被害はなさそうでした？",
+            "timestamp": "2022-09-19T10:30:52.396000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "大きい被害はなさそうでしたが、風で少し海水が飛んできたみたいでベランダのハーブが枯れたそうです",
+            "timestamp": "2022-09-19T10:31:28.273000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "あらら。でもそれくらいで済んでよかったですね。",
+            "timestamp": "2022-09-19T10:31:48.120000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "そうですよね。大きな被害はなくて良かったです",
+            "timestamp": "2022-09-19T10:31:57.818000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

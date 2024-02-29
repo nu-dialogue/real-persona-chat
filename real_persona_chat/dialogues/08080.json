@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8080,
+    "interlocutors": [
+        "AO",
+        "AT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AO",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-04T15:07:26.456000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AT",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-04T15:07:34.550000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AO",
+            "text": "そろそろお盆ですね。",
+            "timestamp": "2022-08-04T15:07:42.554000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AT",
+            "text": "どこか行きますか？",
+            "timestamp": "2022-08-04T15:07:50.553000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AO",
+            "text": "親戚で集まって、酒盛りをするぐらいでしょうかね。",
+            "timestamp": "2022-08-04T15:08:02.812000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AT",
+            "text": "私はそれも無く、ずっと家にいる予定です。",
+            "timestamp": "2022-08-04T15:08:16.674000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AO",
+            "text": "そうなんですか。家での楽しみは何かありますか？",
+            "timestamp": "2022-08-04T15:08:37.425000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AT",
+            "text": "あまり無いんですよね、時間つぶしにテレビ見るくらいであとは寝てます。",
+            "timestamp": "2022-08-04T15:09:01.445000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AO",
+            "text": "テレビは、私はあまり最近見てないのですが、何系を見ることが多いんですか？",
+            "timestamp": "2022-08-04T15:09:20.974000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AT",
+            "text": "バラエティとスポーツをよく見ます。",
+            "timestamp": "2022-08-04T15:09:34.581000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AO",
+            "text": "バラエティはつい長々と見続けてしまいますよね。",
+            "timestamp": "2022-08-04T15:09:57.563000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AT",
+            "text": "そうなんですよ、結構垂れ流しで見ることが多いかもです。",
+            "timestamp": "2022-08-04T15:10:23.374000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AO",
+            "text": "垂れ流しって、表現が！つけっぱなしにしておくことが多いんですか？",
+            "timestamp": "2022-08-04T15:10:38.126000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AT",
+            "text": "それです、つけっぱなしです！つけっぱなしが多いです。",
+            "timestamp": "2022-08-04T15:11:09.256000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AO",
+            "text": "それじゃ、何かしながら見るという感じですかね？",
+            "timestamp": "2022-08-04T15:11:22.245000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AT",
+            "text": "ですね、どうしてもこれを見たい！っていうのは無いです。",
+            "timestamp": "2022-08-04T15:11:43.162000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AO",
+            "text": "分かります。その点、バラエティは良いですよね。",
+            "timestamp": "2022-08-04T15:11:55.320000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AT",
+            "text": "いつも違うゲストで違うストーリー展開なので飽きないです。",
+            "timestamp": "2022-08-04T15:12:18.388000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AO",
+            "text": "そうですね。じーっと見て無くても、ポイントポイントで笑えますしね。",
+            "timestamp": "2022-08-04T15:12:39.739000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AT",
+            "text": "お笑い芸人の方が出てるとそれだけで盛り上がったりします。",
+            "timestamp": "2022-08-04T15:12:59.607000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AO",
+            "text": "たしかに。お笑いの方は皆さん、話が上手ですよねー。",
+            "timestamp": "2022-08-04T15:13:17.592000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AT",
+            "text": "ですよね、自分もそうなれるように勉強してたりします。",
+            "timestamp": "2022-08-04T15:13:47.524000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AO",
+            "text": "向上心がありますね！私は雛壇芸人、ガヤ芸人止まりです、きっと。",
+            "timestamp": "2022-08-04T15:14:07.113000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AT",
+            "text": "結構飲み会に行く機会もあるので、どんな話すれば盛り上がるかな～って感じですね。",
+            "timestamp": "2022-08-04T15:14:33.235000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AO",
+            "text": "飲み会の話題のことまで考えていたとは！",
+            "timestamp": "2022-08-04T15:14:58.936000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AT",
+            "text": "せっかくなら楽しく好きなお酒が飲めればと！",
+            "timestamp": "2022-08-04T15:15:17.786000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AO",
+            "text": "いや、向上心の塊で頭が下がります！あなたと飲むと楽しそうです！",
+            "timestamp": "2022-08-04T15:15:41.505000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AT",
+            "text": "そう言われるように日々励みます。",
+            "timestamp": "2022-08-04T15:16:06.231000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AO",
+            "text": "私も爪の垢煎じて飲まさせていただきます！",
+            "timestamp": "2022-08-04T15:16:26.915000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AT",
+            "text": "私ので良ければ！それでは失礼します。",
+            "timestamp": "2022-08-04T15:16:48.530000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AO",
+            "text": "はい、ではー。",
+            "timestamp": "2022-08-04T15:16:55.016000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

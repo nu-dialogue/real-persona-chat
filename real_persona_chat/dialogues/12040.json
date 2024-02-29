@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12040,
+    "interlocutors": [
+        "FO",
+        "EQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FO",
+            "text": "こんにちは",
+            "timestamp": "2022-08-31T16:42:13.709000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-31T16:42:20.873000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FO",
+            "text": "そろそろ17時を回りますね。",
+            "timestamp": "2022-08-31T16:42:35.662000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EQ",
+            "text": "いや、まだ16時40分ですよ。",
+            "timestamp": "2022-08-31T16:43:04.043000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FO",
+            "text": "20分経てば17時ですよ。",
+            "timestamp": "2022-08-31T16:43:23.528000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EQ",
+            "text": "四捨五入すればそうですね。",
+            "timestamp": "2022-08-31T16:43:38.441000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FO",
+            "text": "時計で四捨五入って不思議ですね。",
+            "timestamp": "2022-08-31T16:44:02.127000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EQ",
+            "text": "すみません。言い方が違うかもしれません。感覚的に言ってしまいました。",
+            "timestamp": "2022-08-31T16:44:32.489000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FO",
+            "text": "四捨五入するのであれば60を100にしないとですかね。",
+            "timestamp": "2022-08-31T16:45:30.549000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EQ",
+            "text": "話がややこしくなるので、四捨五入は忘れてください。",
+            "timestamp": "2022-08-31T16:45:48.099000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FO",
+            "text": "最近新しいパソコンを買ったのですが、とても動きがスムーズになりました。",
+            "timestamp": "2022-08-31T16:46:49.232000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EQ",
+            "text": "それは良いですね。私も今新しいパソコンの購入を考えているところです。",
+            "timestamp": "2022-08-31T16:47:04.949000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FO",
+            "text": "いつ頃購入される予定なのですか？",
+            "timestamp": "2022-08-31T16:47:22.561000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EQ",
+            "text": "今日買おうかと思っていたのですが、4日から楽天セールが始まりそうなので、迷っています。",
+            "timestamp": "2022-08-31T16:48:04.901000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FO",
+            "text": "迷ったときは乱数に頼ったほうがいいかもしれませんね。",
+            "timestamp": "2022-08-31T16:48:43.374000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EQ",
+            "text": "どういう意味でしょうか？",
+            "timestamp": "2022-08-31T16:48:55.193000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FO",
+            "text": "サイコロとかです。",
+            "timestamp": "2022-08-31T16:49:04.846000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EQ",
+            "text": "ということは、１が出たら1日に購入する、という意味でしょうか？",
+            "timestamp": "2022-08-31T16:49:35.227000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FO",
+            "text": "0が出たら4日みたいな。",
+            "timestamp": "2022-08-31T16:49:51.629000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EQ",
+            "text": "うーん、よくわからないです。",
+            "timestamp": "2022-08-31T16:50:04.832000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FO",
+            "text": "奇数が出たら今日、偶数が出たら4日購入する、と決めてサイコロを振るだけです。",
+            "timestamp": "2022-08-31T16:50:51.279000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EQ",
+            "text": "そういうことですか。なるほど。",
+            "timestamp": "2022-08-31T16:51:05.722000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FO",
+            "text": "運に身をゆだねるという、ところでしょうか。",
+            "timestamp": "2022-08-31T16:51:31.908000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EQ",
+            "text": "あなたは、その方法で決めることが多いのですか？",
+            "timestamp": "2022-08-31T16:51:52.985000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FO",
+            "text": "ないですね。あんまり",
+            "timestamp": "2022-08-31T16:52:03.532000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EQ",
+            "text": "そうなのですか。私に勧めたので、多用しているのかと思いましたよ。",
+            "timestamp": "2022-08-31T16:52:45.618000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FO",
+            "text": "そういえば最近僕のパソコン急激に重くなることがあって、調べてみました。",
+            "timestamp": "2022-08-31T16:53:23.504000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EQ",
+            "text": "調べた結果は？",
+            "timestamp": "2022-08-31T16:53:44.885000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FO",
+            "text": "ニュース関連のものが動いてるみたいで落としても恐らく問題はないとのことだったので落としました。",
+            "timestamp": "2022-08-31T16:54:46.905000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EQ",
+            "text": "調子がよくなるとよいですね。",
+            "timestamp": "2022-08-31T16:55:23.186000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

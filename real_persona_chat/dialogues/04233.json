@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4233,
+    "interlocutors": [
+        "FF",
+        "EO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-09T13:48:01.867000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EO",
+            "text": "こんにちは",
+            "timestamp": "2022-09-09T13:48:09.131000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FF",
+            "text": "好きな飲み物ってありますか？",
+            "timestamp": "2022-09-09T13:48:28.454000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EO",
+            "text": "カフェオレはほぼ毎日飲んでます",
+            "timestamp": "2022-09-09T13:49:00.816000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FF",
+            "text": "いいですね。コーヒー派ですか？それともカフェオレだけ？",
+            "timestamp": "2022-09-09T13:49:16.917000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EO",
+            "text": "カフェオレだけですね",
+            "timestamp": "2022-09-09T13:49:27.694000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FF",
+            "text": "ミルクティーはどうですか？",
+            "timestamp": "2022-09-09T13:49:37.316000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EO",
+            "text": "ミルクティーは旦那が好きですね",
+            "timestamp": "2022-09-09T13:49:50.972000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FF",
+            "text": "こちらも妻が好きですね。私はコーヒー派です。",
+            "timestamp": "2022-09-09T13:50:09.174000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EO",
+            "text": "おお、そうなんですね。ブラックですか？",
+            "timestamp": "2022-09-09T13:50:35.240000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FF",
+            "text": "大体の場合はそうですね。甘いのも好きですが。",
+            "timestamp": "2022-09-09T13:50:51.708000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EO",
+            "text": "スイーツなんかは食べたり？",
+            "timestamp": "2022-09-09T13:51:05.583000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FF",
+            "text": "しますよ。甘いのも好きです。",
+            "timestamp": "2022-09-09T13:51:17.412000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EO",
+            "text": "何が好きですか？",
+            "timestamp": "2022-09-09T13:51:24.153000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FF",
+            "text": "シュークリームとかパイ系の物が好きですね。",
+            "timestamp": "2022-09-09T13:51:36.020000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EO",
+            "text": "いいですね、パイ私も好きです。",
+            "timestamp": "2022-09-09T13:51:52.748000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FF",
+            "text": "何パイが好きですか？",
+            "timestamp": "2022-09-09T13:52:01.795000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EO",
+            "text": "チョコが好きなので、そっち系ですかね",
+            "timestamp": "2022-09-09T13:52:22.295000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FF",
+            "text": "私はアップルパイが好きですね。",
+            "timestamp": "2022-09-09T13:52:33.819000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EO",
+            "text": "メジャーですね",
+            "timestamp": "2022-09-09T13:52:40.614000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FF",
+            "text": "シナモンを少し多く入れてもらっています。",
+            "timestamp": "2022-09-09T13:52:52.899000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EO",
+            "text": "シナモンいいですね！無理な人も多い印象ですが。",
+            "timestamp": "2022-09-09T13:53:12.223000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FF",
+            "text": "そうですね。癖のあるスパイスですよね。",
+            "timestamp": "2022-09-09T13:53:28.675000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EO",
+            "text": "私はイケるタイプです。豆乳に入れて飲んだりしてました",
+            "timestamp": "2022-09-09T13:53:49.727000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FF",
+            "text": "良かった。自分も好きなので。",
+            "timestamp": "2022-09-09T13:54:08.171000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EO",
+            "text": "奥さんはどうですか？",
+            "timestamp": "2022-09-09T13:54:19.556000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FF",
+            "text": "同じく好きですね。",
+            "timestamp": "2022-09-09T13:54:37.843000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EO",
+            "text": "いいですね。好みが合って",
+            "timestamp": "2022-09-09T13:54:55.193000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FF",
+            "text": "そう思います。食の好みは重要です。",
+            "timestamp": "2022-09-09T13:55:08.819000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EO",
+            "text": "たしかに",
+            "timestamp": "2022-09-09T13:55:19.714000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EO",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

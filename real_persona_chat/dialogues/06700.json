@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6700,
+    "interlocutors": [
+        "HL",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HL",
+            "text": "はじめまして。",
+            "timestamp": "2022-10-06T10:21:28.451000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "はじめまして。お願いします。",
+            "timestamp": "2022-10-06T10:21:41.482000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HL",
+            "text": "ペットはなにか飼っていますか？",
+            "timestamp": "2022-10-06T10:22:01.833000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "猫を一匹飼っています。",
+            "timestamp": "2022-10-06T10:22:17.320000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HL",
+            "text": "かわいいですね。どんな猫ですか？",
+            "timestamp": "2022-10-06T10:22:43.140000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "雑種なのですが、白にちょっとキジトラの模様が入っています。",
+            "timestamp": "2022-10-06T10:23:12.558000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HL",
+            "text": "飼われてから結構長いのですか？",
+            "timestamp": "2022-10-06T10:23:37.283000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "今の猫は5年になりました。ケガをした猫を子どもが拾ってきたのです。",
+            "timestamp": "2022-10-06T10:23:57.805000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HL",
+            "text": "そうですか。やさしいお子さんですね。保護をしてあげたあなたも素敵ですね。",
+            "timestamp": "2022-10-06T10:24:34.182000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "だいぶケガがひどかったのですが、奇跡的に回復して、今はとても元気です。",
+            "timestamp": "2022-10-06T10:24:55.430000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HL",
+            "text": "そうなんですね。それはいっそう可愛いでしょうね。",
+            "timestamp": "2022-10-06T10:25:32.625000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "ほんとかわいいです。猫って寝てても起きてもかわいいという、不思議な存在です。",
+            "timestamp": "2022-10-06T10:25:59.331000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HL",
+            "text": "私、猫は飼ったことないのですが、散歩とかってどうするのですか？",
+            "timestamp": "2022-10-06T10:26:31.633000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "散歩はしないです。うちは田舎なので、ちょっと外に出しています。",
+            "timestamp": "2022-10-06T10:27:03.649000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HL",
+            "text": "そうなんですね。食べ物はどんなものをあげるのですか？",
+            "timestamp": "2022-10-06T10:27:50.009000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "普通のキャットフードをあげてます。ただ、一番好きなのは、釜揚げシラスなんです。",
+            "timestamp": "2022-10-06T10:28:15.078000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HL",
+            "text": "そうなんですね。シラス、確かにおいしいですものね。",
+            "timestamp": "2022-10-06T10:28:48.724000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "人間用のシラスは塩分がきつすぎて良くないのですが、一度食べてしまったら味を覚えてしまって。。",
+            "timestamp": "2022-10-06T10:29:30.693000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HL",
+            "text": "なんだか子供の小さいときを思い出しました。確かに塩抜きとかしてました。",
+            "timestamp": "2022-10-06T10:30:12.230000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "そうですよね。以外に塩がキツイ。。あなたは何かペットを飼っていますか？",
+            "timestamp": "2022-10-06T10:30:37.563000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HL",
+            "text": "今はマンションでペットが飼えないです。実家にいたころは犬を飼ってました。",
+            "timestamp": "2022-10-06T10:31:14.328000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "マンションだと難しいですよね。どんな犬を飼っていたのですか？",
+            "timestamp": "2022-10-06T10:31:39.741000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HL",
+            "text": "普通の雑種です。動物園で定期的に保護された動物を貰えるので、そこで譲ってもらいました。",
+            "timestamp": "2022-10-06T10:32:26.604000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "なるほど。保護犬、私の住んでいる地域もたくさんいて、貰い手がなかなかいないみたいです。",
+            "timestamp": "2022-10-06T10:33:15.068000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HL",
+            "text": "かわいそうですよね。",
+            "timestamp": "2022-10-06T10:34:14.647000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "ほんとにかわいそうです。そういえば、私も子どもの頃に犬が家にいました。",
+            "timestamp": "2022-10-06T10:34:46.994000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HL",
+            "text": "散歩が大変じゃなかったですか？",
+            "timestamp": "2022-10-06T10:35:07.930000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "犬の方が力が強くて、、ぐいぐい引っ張られてましたよ。",
+            "timestamp": "2022-10-06T10:35:32.459000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HL",
+            "text": "そうですよね。私もです。それがとても嫌でした。",
+            "timestamp": "2022-10-06T10:36:11.211000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "かなり怖いですよね。。今日はありがとうございました！",
+            "timestamp": "2022-10-06T10:36:32.114000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11120,
+    "interlocutors": [
+        "IO",
+        "EI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T16:07:36.723000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T16:07:48.875000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IO",
+            "text": "普段は何されてますか？",
+            "timestamp": "2022-08-19T16:08:01.126000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EI",
+            "text": "学生なので、今は研究です！",
+            "timestamp": "2022-08-19T16:08:19.214000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IO",
+            "text": "研究！何の研究されているんですか？",
+            "timestamp": "2022-08-19T16:08:34.926000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EI",
+            "text": "ウェアラブルデバイスってわかりますか？",
+            "timestamp": "2022-08-19T16:08:51.085000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IO",
+            "text": "わからないです。何でしょうか？",
+            "timestamp": "2022-08-19T16:09:03.519000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EI",
+            "text": "極論スマホの万歩計とかアップルウォッチの脈波とかみたいなかんじです",
+            "timestamp": "2022-08-19T16:09:43.923000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IO",
+            "text": "ほぉ。その研究そされているんですね。ゼミとかですか？",
+            "timestamp": "2022-08-19T16:10:06.137000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EI",
+            "text": "はい、そういう分野なんです。センサ値から行動認識的な",
+            "timestamp": "2022-08-19T16:10:37.870000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IO",
+            "text": "難しい研究されているんですね。学校は楽しいですか？",
+            "timestamp": "2022-08-19T16:11:03.302000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EI",
+            "text": "楽しいです！大学では多様な人と交流できて、自分の甘さにいろいろ気づけました",
+            "timestamp": "2022-08-19T16:12:10.050000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IO",
+            "text": "いろんな人いますもんね。交流って大事ですよね。今は夏休みですか？",
+            "timestamp": "2022-08-19T16:13:21.589000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EI",
+            "text": "はい。今は夏休みですね！",
+            "timestamp": "2022-08-19T16:13:41.412000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IO",
+            "text": "いいですねー。羨ましい。",
+            "timestamp": "2022-08-19T16:13:55.795000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EI",
+            "text": "9月末ごろまで休みなんです",
+            "timestamp": "2022-08-19T16:14:13.014000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IO",
+            "text": "わー結構長いですね！",
+            "timestamp": "2022-08-19T16:14:36.566000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EI",
+            "text": "長すぎます！今年最後なんですけど、変わったこと何もせずに終わりそうです。",
+            "timestamp": "2022-08-19T16:15:34.903000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IO",
+            "text": "コロナで学生生活大変だったのでは？",
+            "timestamp": "2022-08-19T16:16:08.698000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EI",
+            "text": "意外と周りも自分もインドア派で勉強もリモートで何ら支障がない分野だったので、個人的には特に問題はなかったです！",
+            "timestamp": "2022-08-19T16:17:02.362000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IO",
+            "text": "そうなんですか！それはよかったですね。むしろ家での方が快適とか？",
+            "timestamp": "2022-08-19T16:17:35.868000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EI",
+            "text": "はい。私はダメダメなので！でもアクティブな方はかわいそうだと思います。",
+            "timestamp": "2022-08-19T16:18:27.513000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IO",
+            "text": "外に出たい人はなかなか辛いかもしれませんね。",
+            "timestamp": "2022-08-19T16:18:52.300000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EI",
+            "text": "中高生の修学旅行とかかわいそうですね。",
+            "timestamp": "2022-08-19T16:19:17.251000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IO",
+            "text": "それ思います。行事が全然ないってかわいそうすぎる。",
+            "timestamp": "2022-08-19T16:19:46.739000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EI",
+            "text": "はい。お仕事のほうは何か影響ありましたか？",
+            "timestamp": "2022-08-19T16:20:10.079000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IO",
+            "text": "コロナで働いてたお店が潰れてしまいましたね。",
+            "timestamp": "2022-08-19T16:20:47.752000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EI",
+            "text": "そうなんですね、飲食店もとても大変です",
+            "timestamp": "2022-08-19T16:21:27.707000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IO",
+            "text": "大変だと思います。潰れてるお店多いですね。",
+            "timestamp": "2022-08-19T16:21:59.903000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EI",
+            "text": "はい。いつか何も気にしない状況になってほしいです。",
+            "timestamp": "2022-08-19T16:22:35.496000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

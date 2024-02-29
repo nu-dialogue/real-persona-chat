@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2717,
+    "interlocutors": [
+        "ER",
+        "ES"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "こんにちは！よろしくお願いします！",
+            "timestamp": "2022-08-23T15:11:54.738000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ES",
+            "text": "こちらこそ、よろしくお願いします！",
+            "timestamp": "2022-08-23T15:12:10.200000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "ここ1年でどこか旅行に行ったりしましたか？",
+            "timestamp": "2022-08-23T15:12:35.054000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ES",
+            "text": "旅行と言えるかわからないのですが、地元に帰省しました。",
+            "timestamp": "2022-08-23T15:12:59.683000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "いいですね。何をして過ごしましたか？",
+            "timestamp": "2022-08-23T15:13:17.831000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ES",
+            "text": "近所でぶらぶらしたりしていました。あとはお酒を飲んでいました。",
+            "timestamp": "2022-08-23T15:13:43.063000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "お酒は何を飲まれたんですか？",
+            "timestamp": "2022-08-23T15:13:52.346000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ES",
+            "text": "ビールなんですけど、普段は高くて買わないので、実家にたくさんあったのでひたすら飲みました。",
+            "timestamp": "2022-08-23T15:14:28.277000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "確かにビール高いですよね。お酒強いんですか？",
+            "timestamp": "2022-08-23T15:14:47.938000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ES",
+            "text": "全然です。350mlでほどよく酔えます。お酒飲みますか？",
+            "timestamp": "2022-08-23T15:15:14.405000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "はい、私もビールや日本酒をたまに飲みます。",
+            "timestamp": "2022-08-23T15:15:31.771000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ES",
+            "text": "ビール好き一緒ですね！日本酒飲めるのすごいです。",
+            "timestamp": "2022-08-23T15:15:52.842000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "日本酒は結構度数高いですから、あまり飲みすぎないように気をつけてます。",
+            "timestamp": "2022-08-23T15:16:18.988000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ES",
+            "text": "度数高いですよね、私にはまだ美味しさがわからないんです。どの地方の日本酒が好きですか？",
+            "timestamp": "2022-08-23T15:16:43.687000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "秋田とか東北の日本酒が好きです。",
+            "timestamp": "2022-08-23T15:16:56.344000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ES",
+            "text": "そっちの日本酒は、旨味が強いイメージですが、どうなんでしょう？",
+            "timestamp": "2022-08-23T15:17:28.043000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "そうですね。旨味が強いですし、香りもしっかりしています。",
+            "timestamp": "2022-08-23T15:18:24.898000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ES",
+            "text": "わー、そう聞くとやっぱり飲んでみたくなりますね。昔よりは少しおいしく感じるようになったので。",
+            "timestamp": "2022-08-23T15:18:59.848000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "辛口かフルーティーなのか自分の好みに合うものが見つかると楽しくなりますよ。",
+            "timestamp": "2022-08-23T15:19:29.823000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ES",
+            "text": "日本酒と一口で言っても多種多様なんですね。毎日晩酌しますか？",
+            "timestamp": "2022-08-23T15:19:58.430000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "いえ、月に2、3回くらいです。",
+            "timestamp": "2022-08-23T15:20:17.127000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ES",
+            "text": "健康的にもいい回数ですね。今の時期は暑くて、どうしてもビールを欲してしまいます。",
+            "timestamp": "2022-08-23T15:21:02.068000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "確かにこの季節のビールは美味しいですよね！そちらは毎日飲まれますか？",
+            "timestamp": "2022-08-23T15:21:29.129000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ES",
+            "text": "普段はまったく飲まないようにしているんです。すごくハマってしまうので。",
+            "timestamp": "2022-08-23T15:21:58.272000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "その方が健康にもお財布にもいいですね。",
+            "timestamp": "2022-08-23T15:22:41.329000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ES",
+            "text": "そうですね、すごくメリットがあります。チャレンジしてみたいお酒はありますか？",
+            "timestamp": "2022-08-23T15:23:06.680000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "一通りの種類のお酒は飲んだことあるので、特にないですね。そちらはありますか？",
+            "timestamp": "2022-08-23T15:23:33.861000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ES",
+            "text": "私はいろいろ飲んでみている途中です。もしいいお酒があれば教えてください！",
+            "timestamp": "2022-08-23T15:24:10.880000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "カクテルとかいいかもしれませんね！",
+            "timestamp": "2022-08-23T15:24:21.760000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ES",
+            "text": "いいですね！またお話しましょうね！",
+            "timestamp": "2022-08-23T15:24:49.319000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ES",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

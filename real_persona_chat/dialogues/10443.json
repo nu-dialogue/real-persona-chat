@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10443,
+    "interlocutors": [
+        "DF",
+        "AZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DF",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-14T00:00:41.249000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AZ",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-14T00:00:46.203000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DF",
+            "text": "夜ご飯は何でしたか？",
+            "timestamp": "2022-08-14T00:01:19.086000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AZ",
+            "text": "今日は餃子でした。",
+            "timestamp": "2022-08-14T00:01:30.192000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DF",
+            "text": "餃子おいしいですよね！包むところから作られたんですか！",
+            "timestamp": "2022-08-14T00:01:58.331000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AZ",
+            "text": "いえ、義理の母が届けてくれて。楽しちゃいました。",
+            "timestamp": "2022-08-14T00:02:28.496000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DF",
+            "text": "義理のお母さんナイスですね！私、祖母の手作り餃子が好きでした。",
+            "timestamp": "2022-08-14T00:03:20.559000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですよ。時々作ってくれて。あなたは晩御飯なんでしたか？",
+            "timestamp": "2022-08-14T00:03:59.751000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DF",
+            "text": "カレー食べました。最近毎日カレー食べてます、、。",
+            "timestamp": "2022-08-14T00:04:23.499000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AZ",
+            "text": "毎日ですか！",
+            "timestamp": "2022-08-14T00:04:32.638000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DF",
+            "text": "はい、暑くて、食欲もあまりないので、、。カレーは食欲そそられて食べやすくて。",
+            "timestamp": "2022-08-14T00:05:29.688000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AZ",
+            "text": "わかります。カレーって食欲なくても食べられますよね。私も好きです。",
+            "timestamp": "2022-08-14T00:06:05.497000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DF",
+            "text": "レトルトも駆使して、いろんなの食べてます！美味しいですよね。",
+            "timestamp": "2022-08-14T00:06:28.714000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AZ",
+            "text": "どんなカレーがおすすめですか？",
+            "timestamp": "2022-08-14T00:06:46.911000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DF",
+            "text": "欧風とか、タイカレーとか、スリランカ系とか、何でも好きです！エスニックな方が好きですかね！",
+            "timestamp": "2022-08-14T00:07:32.719000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AZ",
+            "text": "スパイスとかから作ったことありますか？",
+            "timestamp": "2022-08-14T00:07:59.063000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DF",
+            "text": "そこまで凝ったことはしたことないです、、！",
+            "timestamp": "2022-08-14T00:08:22.811000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AZ",
+            "text": "私もないので一度挑戦してみたいのですが。",
+            "timestamp": "2022-08-14T00:08:43.363000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DF",
+            "text": "なんか、ちょっと実験みたいで楽しそうですよね！",
+            "timestamp": "2022-08-14T00:09:02.275000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですよ。胃もたれしないって聞くし。",
+            "timestamp": "2022-08-14T00:09:20.791000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DF",
+            "text": "確かに、油をあまり使わないからさらっとしているのかな？スパイスって体にも良いと言いますし。",
+            "timestamp": "2022-08-14T00:10:05.865000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AZ",
+            "text": "そうですよねー。ご飯派ですか？ナン派ですか？",
+            "timestamp": "2022-08-14T00:10:45.368000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DF",
+            "text": "やっぱりご飯ですねー！",
+            "timestamp": "2022-08-14T00:11:02.820000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AZ",
+            "text": "そうなんですね。私はお店のナンが好きです。",
+            "timestamp": "2022-08-14T00:11:29.212000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DF",
+            "text": "お店のナンってびっくりするくらい大きいですよね！",
+            "timestamp": "2022-08-14T00:11:51.001000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AZ",
+            "text": "ええ！でも窯？で焼いているのか、おいしいです。",
+            "timestamp": "2022-08-14T00:12:27.066000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DF",
+            "text": "美味しいですよね！大学の学食に、出張でナン焼きにきてくれてる時ありました。窯みたいなのでした",
+            "timestamp": "2022-08-14T00:13:14.510000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AZ",
+            "text": "いいなー！贅沢ですね！",
+            "timestamp": "2022-08-14T00:13:32.318000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DF",
+            "text": "期間限定のメニュー、贅沢でしたね！",
+            "timestamp": "2022-08-14T00:13:49.583000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AZ",
+            "text": "カレー、食べたくなってきました。",
+            "timestamp": "2022-08-14T00:14:05.694000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AZ",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

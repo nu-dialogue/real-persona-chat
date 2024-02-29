@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4432,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T18:00:11.068000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんばんは",
+            "timestamp": "2022-09-17T18:00:22.307000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-17T18:00:31.388000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "お願いします",
+            "timestamp": "2022-09-17T18:00:38.702000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんは文系ですか？理系ですか？",
+            "timestamp": "2022-09-17T18:00:52.780000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "自分は理系でした",
+            "timestamp": "2022-09-17T18:01:20.149000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "えーすごいですね！",
+            "timestamp": "2022-09-17T18:01:30.878000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "<CS>さんは文系ですか？",
+            "timestamp": "2022-09-17T18:01:42.898000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "私は文系です。数学がダメで・・・",
+            "timestamp": "2022-09-17T18:02:04.691000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "数学は教えるの下手な先生にあたると終わりなんですよね",
+            "timestamp": "2022-09-17T18:02:38.872000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "そうなんですか？",
+            "timestamp": "2022-09-17T18:02:47.485000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "数学だけじゃなくて物理化学もですが、まぁ変わった人が多いのでいい教師に当たるのが難しいです",
+            "timestamp": "2022-09-17T18:03:37.992000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。<FT>さんの先生はあたりだった感じですか？",
+            "timestamp": "2022-09-17T18:04:02.057000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "うちは塾の先生があたりでした。学校の授業は正直あんまり聞いてなかったです",
+            "timestamp": "2022-09-17T18:04:29.023000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね。私は中学あたりで早々に挫折したので高校時代はもうあきらめてました。",
+            "timestamp": "2022-09-17T18:05:16.266000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "まぁ普段数学使わないですもんね",
+            "timestamp": "2022-09-17T18:05:36.752000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "そうですね、物理化学もあんまり意識してないです",
+            "timestamp": "2022-09-17T18:05:53.767000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "自分は税金の話とか法律の話を義務教育でやってほしかったです",
+            "timestamp": "2022-09-17T18:06:17.118000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "あー、たしかに",
+            "timestamp": "2022-09-17T18:06:24.352000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "自発的に学ばない限り詳しいこと知れないのがつらいですよね",
+            "timestamp": "2022-09-17T18:07:18.998000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "確かに。なんでないんでしょうね。",
+            "timestamp": "2022-09-17T18:08:09.327000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "教えられる人がいないとかですかね。",
+            "timestamp": "2022-09-17T18:08:22.220000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "プログラミング教育とか導入するより大事な気がしますね",
+            "timestamp": "2022-09-17T18:08:46.792000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "ほんとにそう思います。",
+            "timestamp": "2022-09-17T18:08:55.973000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "プログラミングは向いてない子がやったら地獄を見そうです",
+            "timestamp": "2022-09-17T18:09:13.178000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "情報の先生とかが教えるんですかね、詳しいこと知らないですが",
+            "timestamp": "2022-09-17T18:09:40.604000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "エンジニアを外部から呼ぶとかですかね",
+            "timestamp": "2022-09-17T18:09:56.376000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "ですかねー、どうなんだろう",
+            "timestamp": "2022-09-17T18:10:06.454000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "謎ですよね",
+            "timestamp": "2022-09-17T18:10:18.490000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "そうですね",
+            "timestamp": "2022-09-17T18:10:26.691000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

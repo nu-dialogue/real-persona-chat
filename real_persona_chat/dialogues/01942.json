@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1942,
+    "interlocutors": [
+        "CI",
+        "BA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-17T12:06:52.702000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BA",
+            "text": "宜しくお願いします",
+            "timestamp": "2022-08-17T12:07:03.776000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "こちら雨から晴れてきましたが、そちらはいかがですか？",
+            "timestamp": "2022-08-17T12:07:23.847000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BA",
+            "text": "晴れてます!暑い",
+            "timestamp": "2022-08-17T12:07:37.372000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "暑くなってきましたよね！",
+            "timestamp": "2022-08-17T12:07:47.931000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BA",
+            "text": "どちらお住まいですか？",
+            "timestamp": "2022-08-17T12:08:02.980000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "私は東京です。どちらにお住まいですか？",
+            "timestamp": "2022-08-17T12:08:20.227000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BA",
+            "text": "同じです",
+            "timestamp": "2022-08-17T12:08:27.092000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "あ、でも、私は23区外です。",
+            "timestamp": "2022-08-17T12:08:37.155000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BA",
+            "text": "そうなんですね",
+            "timestamp": "2022-08-17T12:08:49.381000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "23区内と暑さの種類が違うかも知れないです。",
+            "timestamp": "2022-08-17T12:09:08.525000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BA",
+            "text": "そうなんですかね！？",
+            "timestamp": "2022-08-17T12:09:22.348000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "都心はビルや照り返しがキツいと思うことがあります。",
+            "timestamp": "2022-08-17T12:09:49.512000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BA",
+            "text": "あーアスファルトもね、",
+            "timestamp": "2022-08-17T12:09:59.776000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "結構予想外の所から暑い日差しが来るので。",
+            "timestamp": "2022-08-17T12:10:15.425000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BA",
+            "text": "たしかに、",
+            "timestamp": "2022-08-17T12:10:23.762000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "西の方は木陰に入ると涼しかったりします。多少は。",
+            "timestamp": "2022-08-17T12:10:45.051000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BA",
+            "text": "緑が多いイメージです、いいな",
+            "timestamp": "2022-08-17T12:10:53.888000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "良くも悪くもですね。",
+            "timestamp": "2022-08-17T12:11:03.761000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BA",
+            "text": "悪くないですよ！",
+            "timestamp": "2022-08-17T12:11:19.625000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "たまに手入れされてない所なんかは鬱蒼としててちょっと怖いです。",
+            "timestamp": "2022-08-17T12:11:37.364000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BA",
+            "text": "そうなんですね、高尾山ちかい？",
+            "timestamp": "2022-08-17T12:11:50.540000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "高尾山の手前くらいですね。電車だとあっという間です。",
+            "timestamp": "2022-08-17T12:12:13.815000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BA",
+            "text": "新宿から電車で一本？",
+            "timestamp": "2022-08-17T12:12:27.502000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "はい、新宿と高尾山の間くらいです。",
+            "timestamp": "2022-08-17T12:12:36.088000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BA",
+            "text": "去年高尾山登りましたよー紅葉の季節",
+            "timestamp": "2022-08-17T12:12:55.047000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "手軽に行けていいですよね！",
+            "timestamp": "2022-08-17T12:13:06.080000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BA",
+            "text": "はい！帰り変なところにたどり着いて駅までかなり歩きました笑",
+            "timestamp": "2022-08-17T12:13:31.942000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "それは大変！小学校の遠足もリフト禁止でした。",
+            "timestamp": "2022-08-17T12:13:48.478000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BA",
+            "text": "そうでしたよね！",
+            "timestamp": "2022-08-17T12:14:01.603000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

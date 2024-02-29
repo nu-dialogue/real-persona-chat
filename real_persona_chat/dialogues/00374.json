@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 374,
+    "interlocutors": [
+        "AB",
+        "BD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T10:46:56.653000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BD",
+            "text": "こんにちはー",
+            "timestamp": "2022-08-08T10:47:09.532000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "もうお盆ですね。",
+            "timestamp": "2022-08-08T10:47:21.347000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BD",
+            "text": "そうですね。どこか出かける予定はありますか？",
+            "timestamp": "2022-08-08T10:47:42.069000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "夫の実家へ帰省する予定です。あなたは？",
+            "timestamp": "2022-08-08T10:47:54.849000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BD",
+            "text": "私は大学生で一人暮らしなので帰省しようと思ってます。",
+            "timestamp": "2022-08-08T10:48:26.512000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "ご実家は遠いですか？",
+            "timestamp": "2022-08-08T10:48:37.029000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BD",
+            "text": "隣の県なので2時間くらいで行ける距離です",
+            "timestamp": "2022-08-08T10:49:04.657000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。こちらは滋賀県に行くので、1時間ちょいです。",
+            "timestamp": "2022-08-08T10:49:40.022000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BD",
+            "text": "滋賀県は行ったことがないのでいつか行ってみたいです",
+            "timestamp": "2022-08-08T10:50:28.994000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "滋賀県で思いつくことありますか？",
+            "timestamp": "2022-08-08T10:50:47.220000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BD",
+            "text": "やっぱり一番は琵琶湖が真ん中にあるっていうイメージですね",
+            "timestamp": "2022-08-08T10:51:19.535000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "ですよね。実家帰ってもやることなくて暇なんで困ります。",
+            "timestamp": "2022-08-08T10:51:45.523000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BD",
+            "text": "確かにそうですよね、私は久しぶりに兄弟に会えるのが楽しみです",
+            "timestamp": "2022-08-08T10:52:27.043000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "それは楽しみですね。まぁ、顔見せに帰ってるから、会えるだけでいいんですが。",
+            "timestamp": "2022-08-08T10:52:54.459000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BD",
+            "text": "はい、きっと両親はそれだけでうれしいですよね",
+            "timestamp": "2022-08-08T10:53:28.896000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "ですね。今、大学生だと授業はオンラインとかですか？",
+            "timestamp": "2022-08-08T10:53:44.381000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BD",
+            "text": "1年くらい前からもう普通に通学できてます！",
+            "timestamp": "2022-08-08T10:54:10.634000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "そうなんですね。オンラインより、大学で授業の方がやっぱりいいですか？",
+            "timestamp": "2022-08-08T10:54:30.684000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BD",
+            "text": "友達に会えるのが楽しいですね。授業はオンラインの方が楽でした",
+            "timestamp": "2022-08-08T10:55:00.502000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "通学しなくていいもんねー。",
+            "timestamp": "2022-08-08T10:55:10.272000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BD",
+            "text": "そうですね、テストもオンラインだったのでほんとに簡単でした",
+            "timestamp": "2022-08-08T10:55:35.992000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "テストも！監視がないといいですね。",
+            "timestamp": "2022-08-08T10:55:55.711000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BD",
+            "text": "はい、そうなんですよ！",
+            "timestamp": "2022-08-08T10:56:13.843000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "こっちは夫も在宅で、ちょっとは出勤して欲しい。",
+            "timestamp": "2022-08-08T10:56:37.842000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BD",
+            "text": "そうなんですね、今もまだ在宅なんですか？",
+            "timestamp": "2022-08-08T10:57:02.106000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "ずーっとです。今、第7波だし。去年は10日間だけ出勤してました。",
+            "timestamp": "2022-08-08T10:57:27.942000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BD",
+            "text": "今また増えてますもんね。10日だけ！想像できないです",
+            "timestamp": "2022-08-08T10:58:06.427000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "ですよね。早くコロナが終息する事を祈ります。",
+            "timestamp": "2022-08-08T10:58:20.631000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BD",
+            "text": "そうですね、お互い気を付けましょう",
+            "timestamp": "2022-08-08T10:58:43.050000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AB",
+            "text": "はい、ではまた。",
+            "timestamp": "2022-08-08T10:58:53.561000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

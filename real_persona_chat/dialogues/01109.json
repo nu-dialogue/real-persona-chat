@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1109,
+    "interlocutors": [
+        "CU",
+        "CA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T11:07:47.662000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-15T11:07:55.398000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "最近は変な天気が多くて怖いですね。",
+            "timestamp": "2022-08-15T11:08:14.569000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CA",
+            "text": "本当に。梅雨が明けたのに雨ばかりだったり、雨も土砂降りだったりしますよね。",
+            "timestamp": "2022-08-15T11:08:46.044000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "各地で被害も出てますしね。お住いのところは大丈夫でしたか？",
+            "timestamp": "2022-08-15T11:09:15.500000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CA",
+            "text": "私のところはおかげさまで何事もなかったです。<CU>さんのところは大丈夫でしたか？",
+            "timestamp": "2022-08-15T11:10:12.345000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "私のところも幸い大丈夫でした。でも、もしここに水が来たらと考えると怖いですね。",
+            "timestamp": "2022-08-15T11:10:57.218000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CA",
+            "text": "本当に。テレビを見ているとゾッとします。雨に限らず、何か災害対策って普段からされていたりしますか？",
+            "timestamp": "2022-08-15T11:12:05.715000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "避難用の持ち出し袋を用意しているくらいですねー。",
+            "timestamp": "2022-08-15T11:12:42.234000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CA",
+            "text": "用意されているんですね！",
+            "timestamp": "2022-08-15T11:12:51.424000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "はい、一応。でも中身を定期的に見直したりしてないので、だめですね。",
+            "timestamp": "2022-08-15T11:13:48.948000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CA",
+            "text": "あるだけでだいぶ違いますよ！うちも持ち出せるような何か準備しないといけないなあ。",
+            "timestamp": "2022-08-15T11:14:33.931000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "うちは普通のリュックに懐中電灯や簡易トイレ、水、保存食などを入れてる程度です。",
+            "timestamp": "2022-08-15T11:15:29.387000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CA",
+            "text": "簡易トイレ、必要になりますよね。水が流せないとなると。",
+            "timestamp": "2022-08-15T11:16:19.648000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "ですね。断水したら、色々不便でしょうね。想像したらほんとに怖いです。",
+            "timestamp": "2022-08-15T11:17:06.091000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CA",
+            "text": "何気なく使っていましたが、備えておきたいともいました",
+            "timestamp": "2022-08-15T11:18:21.852000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "そうですね。お風呂の浴槽にも水を常にためておいたほうがいいみたいですね。",
+            "timestamp": "2022-08-15T11:19:03.116000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CA",
+            "text": "いろいろ工夫できることがあるのだなあ、そういうことからはじめてみたいです",
+            "timestamp": "2022-08-15T11:19:39.765000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "私も色々見直してみようと思いました！",
+            "timestamp": "2022-08-15T11:20:09.039000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CA",
+            "text": "今やっている対策といえば缶詰ストックくらいなのですが、<CU>さんの好きな缶詰ってなんですか？",
+            "timestamp": "2022-08-15T11:21:17.339000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "使いやすいのは鯖缶ですかねー。",
+            "timestamp": "2022-08-15T11:21:39.040000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CA",
+            "text": "鯖缶！栄養ありますもんね！",
+            "timestamp": "2022-08-15T11:22:05.888000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "ですよね。あとはコーンとかツナとか定番のものですね。",
+            "timestamp": "2022-08-15T11:22:46.348000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CA",
+            "text": "うんうん。魚も野菜も缶詰で保存しておけるのはすごくありがたいです。",
+            "timestamp": "2022-08-15T11:23:52.281000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "そうですね。でも、避難用具は使う機会がないのが一番ありがたいですね！",
+            "timestamp": "2022-08-15T11:25:14.155000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CA",
+            "text": "本当に！備えあれば憂いなしで、おまじないとして持っていたいです",
+            "timestamp": "2022-08-15T11:25:38.035000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "そうですね。これからも異常気象は起こりそうですしね！",
+            "timestamp": "2022-08-15T11:26:25.442000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CA",
+            "text": "無事を祈って対策ですね",
+            "timestamp": "2022-08-15T11:27:07.700000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "そうですね。お互い備えを怠らないように頑張りましょう。",
+            "timestamp": "2022-08-15T11:27:29.064000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CA",
+            "text": "またお話ししましょう！",
+            "timestamp": "2022-08-15T11:27:48.576000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

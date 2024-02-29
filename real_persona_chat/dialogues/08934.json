@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8934,
+    "interlocutors": [
+        "CU",
+        "IH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CU",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-07T11:46:31.323000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IH",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-07T11:46:41.069000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CU",
+            "text": "お昼ごはんの予定は決まっていますか？",
+            "timestamp": "2022-08-07T11:47:01.045000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IH",
+            "text": "まだ決まっていません。決まってますか？",
+            "timestamp": "2022-08-07T11:47:26.838000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CU",
+            "text": "暑いので、冷たい麺類でも食べようかと。",
+            "timestamp": "2022-08-07T11:47:46.569000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IH",
+            "text": "いいですね！そうめんですか？",
+            "timestamp": "2022-08-07T11:48:01.027000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CU",
+            "text": "そうめんか、冷やしうどんか、そばか迷ってます。",
+            "timestamp": "2022-08-07T11:48:29.273000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IH",
+            "text": "意外と選択肢がありますね。夏にどれもいいですよね。",
+            "timestamp": "2022-08-07T11:48:56.652000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CU",
+            "text": "好きな食べ物はありますか？",
+            "timestamp": "2022-08-07T11:49:29.170000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IH",
+            "text": "私はさつまいもが好きです。",
+            "timestamp": "2022-08-07T11:49:45.667000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CU",
+            "text": "さつまいも、おいしいですよね！どうやって食べるのが好きですか？",
+            "timestamp": "2022-08-07T11:50:10.753000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IH",
+            "text": "全部好きなので迷いますが、きんぴらとかお味噌汁が好きですかね、、",
+            "timestamp": "2022-08-07T11:50:48.809000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CU",
+            "text": "あーおいしいですよね。私も好きです。",
+            "timestamp": "2022-08-07T11:51:31.801000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IH",
+            "text": "美味しいですよね！あとは天ぷらとかも好きですね。おそばの付け合わせにぴったりです。",
+            "timestamp": "2022-08-07T11:52:09.279000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CU",
+            "text": "いいですね！大学イモも美味しいですよね。",
+            "timestamp": "2022-08-07T11:52:58.809000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IH",
+            "text": "美味しいです！コンビニの自然解凍で食べられる大学芋がお気に入りです。",
+            "timestamp": "2022-08-07T11:53:31.148000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CU",
+            "text": "ありますね！買ったことなかったので今度買ってみます。",
+            "timestamp": "2022-08-07T11:53:57.168000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IH",
+            "text": "朝買って、お昼ご飯に食べられるのでいいですよ！30分ほどで自然解凍されるので。",
+            "timestamp": "2022-08-07T11:54:46.069000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CU",
+            "text": "自然解凍は便利ですね！",
+            "timestamp": "2022-08-07T11:55:16.543000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IH",
+            "text": "はい、便利だと思います。<CU>さんの好きな食べ物は何ですか？",
+            "timestamp": "2022-08-07T11:55:37.792000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CU",
+            "text": "またまた麺類ですが、パスタが大好きです。",
+            "timestamp": "2022-08-07T11:56:16.103000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IH",
+            "text": "いいですね！何パスタが特に好きですか？",
+            "timestamp": "2022-08-07T11:56:38.419000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CU",
+            "text": "お店に行くと色々迷うんですけど、結局トマトソース系を選びますね。",
+            "timestamp": "2022-08-07T11:57:12.416000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IH",
+            "text": "安心安全の、って感じですね。",
+            "timestamp": "2022-08-07T11:57:35.569000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CU",
+            "text": "そうなんです。あとカルボナーラも鉄板ですよね。",
+            "timestamp": "2022-08-07T11:57:49.676000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IH",
+            "text": "そうですね。半熟卵とクリームソースがいい感じですよね。",
+            "timestamp": "2022-08-07T11:58:24.004000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CU",
+            "text": "はい、カルボナーラを家でおいしく作る方法を探し中です。",
+            "timestamp": "2022-08-07T11:59:04.880000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IH",
+            "text": "それはたくさん試す甲斐がありそうですね！",
+            "timestamp": "2022-08-07T11:59:44.577000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CU",
+            "text": "なかなかうまくいかないので、がんばります。",
+            "timestamp": "2022-08-07T12:00:10.873000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IH",
+            "text": "美味しいパスタが家で作れるようになるといいですね！",
+            "timestamp": "2022-08-07T12:00:28.156000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

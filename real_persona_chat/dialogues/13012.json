@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13012,
+    "interlocutors": [
+        "IS",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-15T14:10:36.442000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T14:10:43.659000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IS",
+            "text": "好きな食べ物はなんですか？",
+            "timestamp": "2022-09-15T14:11:19.572000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "お寿司とかですかね。",
+            "timestamp": "2022-09-15T14:11:33.044000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IS",
+            "text": "お寿司いいですね！私も好きです。好きなネタは？",
+            "timestamp": "2022-09-15T14:11:46.813000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "ハマチです。",
+            "timestamp": "2022-09-15T14:11:57.989000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IS",
+            "text": "なかなか通ですね！私はエビです。",
+            "timestamp": "2022-09-15T14:12:18.258000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "エビというと、いろいろ種類ありますよね。",
+            "timestamp": "2022-09-15T14:12:32.529000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IS",
+            "text": "そうなんですよ、甘エビもボタンエビもいいけど実はボイルエビが一番好きです。",
+            "timestamp": "2022-09-15T14:12:59.205000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "ボイルですか。",
+            "timestamp": "2022-09-15T14:13:12.399000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IS",
+            "text": "一番安上がりというか…小さいときに食べた味なので。",
+            "timestamp": "2022-09-15T14:13:28.495000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。回転ずしとか行かれます？",
+            "timestamp": "2022-09-15T14:13:42.133000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IS",
+            "text": "行きます！お墓参りのたびに行くのが恒例で、今度のお彼岸も行く予定です。",
+            "timestamp": "2022-09-15T14:14:21.180000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "チェーン店ですか？",
+            "timestamp": "2022-09-15T14:14:32.199000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IS",
+            "text": "三崎港だったかな？よく行きます。",
+            "timestamp": "2022-09-15T14:15:26.521000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "初めて聞きました。おいしいですか？",
+            "timestamp": "2022-09-15T14:15:39.997000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IS",
+            "text": "あんまり店舗数はないですよね。おいしいですよ！",
+            "timestamp": "2022-09-15T14:16:03.386000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "全皿100円ではないですよねたぶん。",
+            "timestamp": "2022-09-15T14:16:20.075000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IS",
+            "text": "そうですね、100円台から500円くらいまで幅があります。",
+            "timestamp": "2022-09-15T14:16:54.070000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。結構幅ありますね。でもそういう店おいしい気がします。",
+            "timestamp": "2022-09-15T14:17:08.352000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IS",
+            "text": "最近全皿100円のお店も値上げだそうですよね。",
+            "timestamp": "2022-09-15T14:17:24.406000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "そうなんですよ。少し高くなっていて。",
+            "timestamp": "2022-09-15T14:17:51.001000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IS",
+            "text": "世の中見てたらそれも仕方ないかなって感じですね…。",
+            "timestamp": "2022-09-15T14:18:09.154000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "わかります。そもそも100円が安すぎますよね。",
+            "timestamp": "2022-09-15T14:18:22.848000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IS",
+            "text": "お値段払ってもいいから美味しいもの食べたいですね！",
+            "timestamp": "2022-09-15T14:18:38.537000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "わかります。おいしくなくなるくらいなら値上げでいいです。",
+            "timestamp": "2022-09-15T14:18:54.957000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IS",
+            "text": "そうそう、本当に無理しないでほしい…。",
+            "timestamp": "2022-09-15T14:19:11.139000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "いろいろ問題とかありましたよね。スシローとか。",
+            "timestamp": "2022-09-15T14:19:25.325000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IS",
+            "text": "ですね、美味しくて誠実なのが一番です。",
+            "timestamp": "2022-09-15T14:19:39.461000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "その通りです。",
+            "timestamp": "2022-09-15T14:19:46.420000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IS",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

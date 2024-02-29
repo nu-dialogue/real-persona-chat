@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6344,
+    "interlocutors": [
+        "HP",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HP",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-06T10:28:13"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "こんにちはー。",
+            "timestamp": "2022-10-06T10:28:16.602000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HP",
+            "text": "週末は何かご予定ありますか？",
+            "timestamp": "2022-10-06T10:28:52"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "今のところないです。旦那が仕事になるかもしれなくて予定が立てられないんです。多分ゲームしてます。",
+            "timestamp": "2022-10-06T10:29:30.055000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HP",
+            "text": "お忙しいんですね…！ゲーム！好きなゲームとかありますか？",
+            "timestamp": "2022-10-06T10:29:59"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "switchでマイクラしてます。あとトライアングルストラテジーにはまってます。",
+            "timestamp": "2022-10-06T10:30:19.155000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HP",
+            "text": "マイクラすごい人気ですよね！実況たまに見ます。",
+            "timestamp": "2022-10-06T10:30:56"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "Youtubeにいっぱい動画あがってますよね。建築動画みて作ったりします。",
+            "timestamp": "2022-10-06T10:31:12.555000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HP",
+            "text": "自分でやったことはないのですが、材料を集めて合成するゲームで合ってますか？",
+            "timestamp": "2022-10-06T10:32:06"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "そうですね。アイテム作るのに合成したりします。建築は集めた素材をレゴブロックみたいに積みます。",
+            "timestamp": "2022-10-06T10:32:31.894000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HP",
+            "text": "なるほど！建築だと、どんなもの作るんですか？",
+            "timestamp": "2022-10-06T10:33:08"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "家ですね。あと、素材が効率よく取れるような装置を作ります。",
+            "timestamp": "2022-10-06T10:33:32.276000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HP",
+            "text": "おお。一度にいっぱい素材とれるとかですかね？",
+            "timestamp": "2022-10-06T10:34:26"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "いえ、なんというか、自動でニワトリを焼いて、時間が経つと焼き鳥がいっぱい溜まってるようなやつです。",
+            "timestamp": "2022-10-06T10:35:12.318000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HP",
+            "text": "えええ！そんなこともできるんですね…！すごい。お家は、家具とかも置けるんですか？",
+            "timestamp": "2022-10-06T10:36:04"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "家具の素材はないので、素材のブロックを組み合わせて家具っぽくします。",
+            "timestamp": "2022-10-06T10:36:40.574000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HP",
+            "text": "なるほど！見た目それっぽくなるんですね",
+            "timestamp": "2022-10-06T10:37:12"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "座ったりはできないので見た目だけですが。やってると子供の頃のごっこ遊びを思い出します。",
+            "timestamp": "2022-10-06T10:37:39.567000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HP",
+            "text": "あー、食べられないのに食べられるふりしますよね…！",
+            "timestamp": "2022-10-06T10:38:15.152000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "そうですそうです。公園のベンチをベッドの設定にしたり。ここからここまでは部屋って決めたり。",
+            "timestamp": "2022-10-06T10:39:03.300000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HP",
+            "text": "確かに！結構似てるかもですね！",
+            "timestamp": "2022-10-06T10:39:34.777000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "その感覚で楽しんでいるので、終わりがないんですよ。",
+            "timestamp": "2022-10-06T10:39:57.178000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HP",
+            "text": "壮大なごっこ遊びみたいな感じですものね…！敵とかは出てくるんですか？",
+            "timestamp": "2022-10-06T10:40:48"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "います。夜になるとゾンビがでます。",
+            "timestamp": "2022-10-06T10:41:11.909000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HP",
+            "text": "ゾンビ…！じゃあ武器も作らなくちゃですか？",
+            "timestamp": "2022-10-06T10:41:38"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "そうなんです！簡単なのは木で作る武器ですが威力がないので、鉄を探しに冒険します。",
+            "timestamp": "2022-10-06T10:42:14.077000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HP",
+            "text": "冒険！あっ、それで食料が必要なんですね…！",
+            "timestamp": "2022-10-06T10:42:55"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "そうですね。空腹ゲージがあって走ると早く減ります。じっとしてても減りますが。なので食料がいるんです。",
+            "timestamp": "2022-10-06T10:43:30.815000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HP",
+            "text": "なるほど！色々配慮しなきゃいけなくて難しそうです",
+            "timestamp": "2022-10-06T10:44:08"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "ちょっとずつ分かるようになるので最初は簡単です。",
+            "timestamp": "2022-10-06T10:44:41.356000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

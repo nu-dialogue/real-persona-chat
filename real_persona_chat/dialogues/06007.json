@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6007,
+    "interlocutors": [
+        "HB",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HB",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T15:35:56.403000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T15:36:01.941000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HB",
+            "text": "晩御飯は決めていますか？",
+            "timestamp": "2022-10-02T15:36:08.558000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "まだ決まってないです。もしかしたら食材買わないといけないかもです",
+            "timestamp": "2022-10-02T15:36:33.468000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HB",
+            "text": "そうですね。私もどうしようかと。何食べたいですか？",
+            "timestamp": "2022-10-02T15:36:57.672000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "肉が食べたいです。",
+            "timestamp": "2022-10-02T15:37:05.425000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HB",
+            "text": "わかります。私昨日から鍋したいなと思ってて。",
+            "timestamp": "2022-10-02T15:37:30.109000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "いいですね！冷えてくるとホントにおいしくなります",
+            "timestamp": "2022-10-02T15:37:53.985000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HB",
+            "text": "そうですね。今年は食べました？",
+            "timestamp": "2022-10-02T15:38:04.235000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "年始から暫く食べてました",
+            "timestamp": "2022-10-02T15:38:19.087000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。何鍋が好きですか？",
+            "timestamp": "2022-10-02T15:38:33.710000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "もつ鍋とか、トマト鍋です",
+            "timestamp": "2022-10-02T15:38:45.828000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HB",
+            "text": "トマト鍋食べたことはないです。どうなんですか？",
+            "timestamp": "2022-10-02T15:39:01.568000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "トマト煮込みとはまた違う味わいで、とてもいいです",
+            "timestamp": "2022-10-02T15:39:29.373000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。トマト大好物ですか？",
+            "timestamp": "2022-10-02T15:39:40.587000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "大好きですね！小さいのも大きいのも好きです",
+            "timestamp": "2022-10-02T15:40:01.105000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。私も好きですが、鍋はちょっと冒険ですね。",
+            "timestamp": "2022-10-02T15:40:21.104000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "具材はちょっと考えないとですね",
+            "timestamp": "2022-10-02T15:40:58.939000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HB",
+            "text": "そうですよね！何入れるんですか？",
+            "timestamp": "2022-10-02T15:41:08.573000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "葉っぱ系とかねぎは良く合います。あと、肉は鶏肉が一番ですね",
+            "timestamp": "2022-10-02T15:41:41.031000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HB",
+            "text": "鶏肉なんですね。豚肉は微妙ですか？",
+            "timestamp": "2022-10-02T15:41:58.666000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "微妙というより、より良いのが鶏という感じです",
+            "timestamp": "2022-10-02T15:42:30.598000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。〆はできるんですか？",
+            "timestamp": "2022-10-02T15:42:45.930000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "チーズリゾットとかできます。大量に入れて水分飛ばしてドリアでもいいです",
+            "timestamp": "2022-10-02T15:43:11.073000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HB",
+            "text": "うわ！おいしそう。チーズ好きなんですよね。",
+            "timestamp": "2022-10-02T15:43:25.962000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "一袋の半分くらい、とろけるチーズ使いますね",
+            "timestamp": "2022-10-02T15:44:10.663000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HB",
+            "text": "最高ですね。私はキムチ鍋をすることが多くて。",
+            "timestamp": "2022-10-02T15:44:13.269000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "おいしいですよね～。体温まりますし",
+            "timestamp": "2022-10-02T15:44:32.596000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HB",
+            "text": "そうですね。〆にラーメンで最高です。",
+            "timestamp": "2022-10-02T15:44:43.091000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "何だかお腹空いてきます",
+            "timestamp": "2022-10-02T15:45:09.509000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

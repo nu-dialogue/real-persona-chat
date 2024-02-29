@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12080,
+    "interlocutors": [
+        "DV",
+        "EI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-01T20:37:49.534000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EI",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-01T20:37:54.669000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "普段どんな飲み物を飲みますか？",
+            "timestamp": "2022-09-01T20:38:17.568000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EI",
+            "text": "水しか飲まないです！どんなもの飲まれますか？",
+            "timestamp": "2022-09-01T20:38:27.210000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "アイスコーヒーとかお茶とか飲みます",
+            "timestamp": "2022-09-01T20:38:40.574000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EI",
+            "text": "いいですね、カフェイン好きですか？",
+            "timestamp": "2022-09-01T20:39:03.113000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "カフェインが入っているものも飲みますが、ノンカフェインのお茶も飲みますよ",
+            "timestamp": "2022-09-01T20:39:37.261000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EI",
+            "text": "そうなんですね。起きてすぐは何を飲まれるんですか？",
+            "timestamp": "2022-09-01T20:40:06.380000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "アイスコーヒーを飲むこともありますが、最近野菜ジュースにはまってます",
+            "timestamp": "2022-09-01T20:40:30.921000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EI",
+            "text": "健康的ですね！お作りになられるんですか？",
+            "timestamp": "2022-09-01T20:41:00.716000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "紙パックのものをまとめ買いしてます",
+            "timestamp": "2022-09-01T20:41:15.343000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EI",
+            "text": "なるほど、カゴメとかですか？",
+            "timestamp": "2022-09-01T20:41:28.845000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "そうですそうです！おいしいんですよー",
+            "timestamp": "2022-09-01T20:41:43.384000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EI",
+            "text": "美味しいですよね！なんか何種類かありましたよね",
+            "timestamp": "2022-09-01T20:41:59.306000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "ありますねー、どれもおいしいですよ！あとフルーツミックスのものもあります",
+            "timestamp": "2022-09-01T20:42:22.483000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EI",
+            "text": "オレンジのやつでしたっけ、飲んだことないです",
+            "timestamp": "2022-09-01T20:42:46.121000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "オレンジや桃やシークワーサーなど季節によって期間限定でいろいろ出てます",
+            "timestamp": "2022-09-01T20:43:17.918000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EI",
+            "text": "季節によってあるんですか！また飲んでみます",
+            "timestamp": "2022-09-01T20:44:00.310000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "期間限定でその時期に旬なフルーツとミックスになってるようです",
+            "timestamp": "2022-09-01T20:44:22.726000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EI",
+            "text": "今調べてパッケージ見ましたが、コンビニでも見たことありました！",
+            "timestamp": "2022-09-01T20:44:49.765000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "おいしくて野菜もとれてで一石二鳥ですよね",
+            "timestamp": "2022-09-01T20:45:08.332000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EI",
+            "text": "1人暮らしで野菜がとれてないので、とても有用だと思いました",
+            "timestamp": "2022-09-01T20:45:45.800000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "ほかにも一食分の野菜がとれるとか１日分の野菜がとれるジュースもありますよ",
+            "timestamp": "2022-09-01T20:46:09.496000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EI",
+            "text": "ほんとですか、美味しくて野菜とれるってすごいですね",
+            "timestamp": "2022-09-01T20:46:47.474000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "どうしても野菜不足になっちゃいますから手軽にとれるってありがたいです",
+            "timestamp": "2022-09-01T20:47:14.513000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EI",
+            "text": "野菜ジュースって作ったらコスト的にどうなんでしょうか",
+            "timestamp": "2022-09-01T20:47:43.762000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "野菜も今は高いから結構かかると思います",
+            "timestamp": "2022-09-01T20:48:01.496000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EI",
+            "text": "そうですよね、野菜ジュース買ってみます！",
+            "timestamp": "2022-09-01T20:48:25.349000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "ぜひ！毎日手軽に続けられるのでおすすめです！",
+            "timestamp": "2022-09-01T20:49:00.856000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EI",
+            "text": "良い情報ありがとうございました！",
+            "timestamp": "2022-09-01T20:49:09.648000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

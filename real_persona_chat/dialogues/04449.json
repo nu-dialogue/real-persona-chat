@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4449,
+    "interlocutors": [
+        "FT",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FT",
+            "text": "こんにちは",
+            "timestamp": "2022-09-23T13:33:40.395000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんにちは",
+            "timestamp": "2022-09-23T13:33:47.277000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FT",
+            "text": "最近読んだ本はありますか？",
+            "timestamp": "2022-09-23T13:34:02.460000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "最近読んだのは参考書くらいです",
+            "timestamp": "2022-09-23T13:34:17.787000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FT",
+            "text": "なんの参考書ですか？",
+            "timestamp": "2022-09-23T13:34:25.941000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "プログラミングの参考書です",
+            "timestamp": "2022-09-23T13:34:35.223000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FT",
+            "text": "プログラマー目指してるんですか？",
+            "timestamp": "2022-09-23T13:34:53.543000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "目指してます、今いろいろ勉強中です",
+            "timestamp": "2022-09-23T13:35:20.368000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FT",
+            "text": "かっこいいですね！",
+            "timestamp": "2022-09-23T13:35:29.997000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-09-23T13:35:37.081000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FT",
+            "text": "なんでプログラマー目指そうと思ったんですか？",
+            "timestamp": "2022-09-23T13:36:07.270000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "働き方に融通がきくからですね",
+            "timestamp": "2022-09-23T13:36:28.028000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FT",
+            "text": "場所選ばないですもんね",
+            "timestamp": "2022-09-23T13:36:37.471000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "パソコンがあればどこでも仕事できるのいいですよね",
+            "timestamp": "2022-09-23T13:36:54.428000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FT",
+            "text": "たしかに",
+            "timestamp": "2022-09-23T13:37:00.175000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "あとはそこそこ高収入目指せるのもポイントでした",
+            "timestamp": "2022-09-23T13:37:19.638000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FT",
+            "text": "プログラミングが好きってわけではないんですか？",
+            "timestamp": "2022-09-23T13:37:32.046000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "エラー頻発すると向いてないって思うときもあります",
+            "timestamp": "2022-09-23T13:37:57.192000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FT",
+            "text": "しんどくないですか？",
+            "timestamp": "2022-09-23T13:38:02.513000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "何をやってもそういう時はあると思うんですよね",
+            "timestamp": "2022-09-23T13:38:32.602000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FT",
+            "text": "まぁ仕事ですし嫌なことはありますよね",
+            "timestamp": "2022-09-23T13:38:45.718000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "なので、せめてなるべく理想に近い働き方をしたいです",
+            "timestamp": "2022-09-23T13:39:09.797000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FT",
+            "text": "いいと思います",
+            "timestamp": "2022-09-23T13:39:16.447000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "あなたは最近読んだ本はありますか？",
+            "timestamp": "2022-09-23T13:40:17.419000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FT",
+            "text": "本あんまり読まないんですよ。",
+            "timestamp": "2022-09-23T13:40:38.365000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "そうなんですか",
+            "timestamp": "2022-09-23T13:40:45.399000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FT",
+            "text": "なのでおすすめの本があればなと思って",
+            "timestamp": "2022-09-23T13:40:56.544000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "僕も小説とかはあんまり読まないです",
+            "timestamp": "2022-09-23T13:41:15.258000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FT",
+            "text": "そうなんですねー",
+            "timestamp": "2022-09-23T13:41:22.915000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "お役に立てずすみません",
+            "timestamp": "2022-09-23T13:41:33.723000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

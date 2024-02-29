@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9824,
+    "interlocutors": [
+        "CO",
+        "DG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-09T21:57:08.257000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DG",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-09T21:57:17.408000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "ペット飼ってますか？",
+            "timestamp": "2022-08-09T21:57:27.126000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DG",
+            "text": "昔犬を飼っていました！",
+            "timestamp": "2022-08-09T21:57:38.355000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "いいですね。何犬ですか？",
+            "timestamp": "2022-08-09T21:57:56.053000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DG",
+            "text": "ヨークシャーテリアという犬種です。ご存知でしょうか",
+            "timestamp": "2022-08-09T21:58:09.654000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "はい、クシャっとしたのですね？",
+            "timestamp": "2022-08-09T21:58:21.870000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DG",
+            "text": "名前からして！そうですオジサンっぽい子です",
+            "timestamp": "2022-08-09T21:58:38.219000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "はいはい、顔の長いのかな",
+            "timestamp": "2022-08-09T21:58:49.549000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DG",
+            "text": "です！結構性格が面白い子でした",
+            "timestamp": "2022-08-09T21:59:07.266000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "かわいいですね。犬飼いたいです",
+            "timestamp": "2022-08-09T21:59:20.101000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DG",
+            "text": "飼えるとしたらどんな子とかありますかー？",
+            "timestamp": "2022-08-09T21:59:32.731000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "パグとか柴犬とかかな",
+            "timestamp": "2022-08-09T21:59:50.702000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DG",
+            "text": "パグ！私も次はパグ！とおもってました",
+            "timestamp": "2022-08-09T22:00:03.631000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "パグの動画ずっと見てます",
+            "timestamp": "2022-08-09T22:00:14.477000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DG",
+            "text": "あはは、わかります。今までペットは飼ったことないですか？",
+            "timestamp": "2022-08-09T22:00:37.147000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "ないんです。マンションだったので。虫とかは家にいましたが",
+            "timestamp": "2022-08-09T22:01:00.344000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DG",
+            "text": "虫さんはノーカンで行きましょう！マンションだとダメなところありますよね",
+            "timestamp": "2022-08-09T22:01:24.009000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "そうですよね。でも隣の部屋からワンって聞こえるんです",
+            "timestamp": "2022-08-09T22:01:47.010000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DG",
+            "text": "それはもう飼えちゃうのでは。うちもそれでいいかって飼い始めたらどんどん広がりました",
+            "timestamp": "2022-08-09T22:02:10.444000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "そういうもんですか。世話とか大変ですか？",
+            "timestamp": "2022-08-09T22:02:27.544000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DG",
+            "text": "そうですねー、正直年取ってからが結構大変です。",
+            "timestamp": "2022-08-09T22:02:44.751000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "病気とかですか？",
+            "timestamp": "2022-08-09T22:02:57.338000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DG",
+            "text": "そうですね、白内障とかみんななっていくし、がんとかもあります",
+            "timestamp": "2022-08-09T22:03:14.761000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "それ聞くと辛くなりますね",
+            "timestamp": "2022-08-09T22:03:28.895000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DG",
+            "text": "そうなんですよね。飼いたいとは思ってもちょっと躊躇します",
+            "timestamp": "2022-08-09T22:03:44.389000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "責任もって飼わないとかわいそうなことになりますもんね",
+            "timestamp": "2022-08-09T22:04:16.826000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DG",
+            "text": "そうですね、結構かわいそうなことになってる子が多いですもんね！",
+            "timestamp": "2022-08-09T22:04:35.965000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "その話を聞くと、動画でいいかって思います。",
+            "timestamp": "2022-08-09T22:04:54.855000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DG",
+            "text": "その方が平和かもしれません！",
+            "timestamp": "2022-08-09T22:05:04.389000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

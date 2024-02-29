@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2004,
+    "interlocutors": [
+        "ED",
+        "CF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ED",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-22T06:55:23.478000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CF",
+            "text": "おはようございます！今日は忙しくなりそうです。",
+            "timestamp": "2022-08-22T06:55:51.278000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ED",
+            "text": "そうなんですか？お仕事ですか？",
+            "timestamp": "2022-08-22T06:56:03.026000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CF",
+            "text": "仕事も今日が締め切りのものが結構あるのと、子供が友達の家に泊まりに行くそうなのでその支度をしてきます",
+            "timestamp": "2022-08-22T06:56:50.075000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ED",
+            "text": "わー、やること一杯そうでハードですね！頑張ってください！",
+            "timestamp": "2022-08-22T06:57:23.896000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CF",
+            "text": "頑張ります！一番嫌なのが、合間にある自分の歯医者です。",
+            "timestamp": "2022-08-22T06:57:47.408000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ED",
+            "text": "歯医者！それは億劫ですね。痛むんですか？",
+            "timestamp": "2022-08-22T06:58:07.935000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CF",
+            "text": "６月にすごい痛みで観念して通いだして今に至ります。今も痛いところあるんですよね。",
+            "timestamp": "2022-08-22T06:58:45.086000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ED",
+            "text": "うわー、歯は痛むと辛いですよね。虫歯とかですか？",
+            "timestamp": "2022-08-22T06:59:14.895000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CF",
+            "text": "虫歯と親知らずですね。どっちも辛いです。",
+            "timestamp": "2022-08-22T06:59:35.056000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ED",
+            "text": "私も2年前に下の親不知を抜きました。",
+            "timestamp": "2022-08-22T07:00:04.871000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CF",
+            "text": "それは大変！暫く食事大変でしたよね。",
+            "timestamp": "2022-08-22T07:00:39.596000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ED",
+            "text": "はい、なので、お察しします。私の親不知は埋没してたので、すごく腫れました。",
+            "timestamp": "2022-08-22T07:00:59.015000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CF",
+            "text": "なるほど！私は４本のうち３本が横向きの親知らずで困ってます。",
+            "timestamp": "2022-08-22T07:01:46.635000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ED",
+            "text": "うわー、3本も横向いてるんですね！それは大変そうです。",
+            "timestamp": "2022-08-22T07:02:18.856000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CF",
+            "text": "大人になってはじめて知りました。早く抜きたいんですよね。",
+            "timestamp": "2022-08-22T07:02:53.063000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ED",
+            "text": "私も隣の歯に干渉してたので、早く抜いたほうがいいと言われ抜きました。でも、なかなか怖いですよね。",
+            "timestamp": "2022-08-22T07:03:31.978000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CF",
+            "text": "そうなんですよ！３本も横向きだと入院かもって言われてて怖いです。",
+            "timestamp": "2022-08-22T07:04:22.624000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ED",
+            "text": "全身麻酔になるんでしょうか。せめて上下分けて抜いてもらいたいですね。",
+            "timestamp": "2022-08-22T07:04:54.425000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CF",
+            "text": "ほんとです。入院自体もほとんどしたことがないので。けど早く抜きたい。",
+            "timestamp": "2022-08-22T07:05:22.513000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ED",
+            "text": "3本とも一気に抜かれると、お食事相当大変でしょうね。",
+            "timestamp": "2022-08-22T07:05:53.152000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CF",
+            "text": "ものすごい顔が腫れそうです。",
+            "timestamp": "2022-08-22T07:06:28.565000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ED",
+            "text": "怖がらせたくないですが、正直腫れます。真四角になりました。",
+            "timestamp": "2022-08-22T07:06:53.149000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CF",
+            "text": "真四角！衝撃的です。腫れが引くと小顔になるって聞いたので励みにしてますがどうなんでしょう。",
+            "timestamp": "2022-08-22T07:07:23.537000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ED",
+            "text": "確かに、骨が吸収されて、ちょっとエラがなくなったような気はします。",
+            "timestamp": "2022-08-22T07:07:56.958000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CF",
+            "text": "そうなんですか！それだけが救いです。",
+            "timestamp": "2022-08-22T07:08:17.389000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ED",
+            "text": "そうですよね、整形って言われますもんね。",
+            "timestamp": "2022-08-22T07:08:33.139000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CF",
+            "text": "ですよね！これで顔のシミとかもなくなってれば完璧かもですね。",
+            "timestamp": "2022-08-22T07:09:12.110000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ED",
+            "text": "それはいいですねー。とりあえず今日の診察頑張ってください！",
+            "timestamp": "2022-08-22T07:09:38.257000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CF",
+            "text": "頑張ります！ありがとうございました！",
+            "timestamp": "2022-08-22T07:09:50.982000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1290,
+    "interlocutors": [
+        "BA",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-13T15:21:58.308000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-13T15:22:17.946000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BA",
+            "text": "趣味ってあります？",
+            "timestamp": "2022-08-13T15:22:23.929000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "以前はいくつかあったのですが、子どもが生まれてから何もないんです。",
+            "timestamp": "2022-08-13T15:22:44.983000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BA",
+            "text": "以前の趣味は？",
+            "timestamp": "2022-08-13T15:22:53.835000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "よく山登りに行ってました！",
+            "timestamp": "2022-08-13T15:23:11.131000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BA",
+            "text": "そうなんですねー子供が生まれてもできそうだけど",
+            "timestamp": "2022-08-13T15:23:25.218000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "子どもが小さいうちは子ども優先になっちゃうんですよね",
+            "timestamp": "2022-08-13T15:23:50.575000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BA",
+            "text": "でも一緒に楽しめそうでもありますよ",
+            "timestamp": "2022-08-13T15:24:06.299000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "なんどか低い山に挑戦したことはありますよ。でもあんまり気が進まないみたい",
+            "timestamp": "2022-08-13T15:24:25.693000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BA",
+            "text": "なるほど、もしかして以前は富士山レベルに登ってたとか！？",
+            "timestamp": "2022-08-13T15:24:43.663000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "そこまではないけれど、八ヶ岳や、北アルプスの山に行ってました。",
+            "timestamp": "2022-08-13T15:25:11.166000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BA",
+            "text": "すごいですね！",
+            "timestamp": "2022-08-13T15:25:16.587000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "今はとても登れる気がしないです。すっかり運動不足です。",
+            "timestamp": "2022-08-13T15:25:34.230000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BA",
+            "text": "大変そうですもんね",
+            "timestamp": "2022-08-13T15:25:43.754000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "そうなんですよ。あと失敗すると帰ってこれないので",
+            "timestamp": "2022-08-13T15:26:07.647000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BA",
+            "text": "え！！",
+            "timestamp": "2022-08-13T15:26:15.411000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "夏山でも色々間違えると遭難する事もあるってことです。",
+            "timestamp": "2022-08-13T15:26:46.631000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BA",
+            "text": "なるほど",
+            "timestamp": "2022-08-13T15:26:52.333000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "ただ、子どももだいぶ大きくなってきたので、これから少しずつ再開したいと思っています。",
+            "timestamp": "2022-08-13T15:27:25.932000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BA",
+            "text": "いいですね！楽しそう",
+            "timestamp": "2022-08-13T15:27:32.108000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "一緒に登れたら楽しいですよね！",
+            "timestamp": "2022-08-13T15:27:48.368000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BA",
+            "text": "ですよね！",
+            "timestamp": "2022-08-13T15:27:53.517000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "あなたは趣味はなにかありますか？",
+            "timestamp": "2022-08-13T15:28:09.132000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BA",
+            "text": "旅行ですかね",
+            "timestamp": "2022-08-13T15:28:15.040000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "いいですね！思い出に残っている場所はどこでしょう？",
+            "timestamp": "2022-08-13T15:28:32.132000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BA",
+            "text": "イタリアスペインはまた行きたいです",
+            "timestamp": "2022-08-13T15:28:48.473000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "イタリア・スペイン！私も行ってみたい所です！",
+            "timestamp": "2022-08-13T15:29:13.070000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BA",
+            "text": "ごはんが美味しかったです",
+            "timestamp": "2022-08-13T15:29:24.853000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "ちゃんと予定を立てて実行したいなと思います。ありがとうございました。",
+            "timestamp": "2022-08-13T15:29:52.350000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

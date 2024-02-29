@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10002,
+    "interlocutors": [
+        "CE",
+        "ER"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T15:17:22.310000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ER",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T15:17:34.086000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "最近はまってるものって何かあったりしますか？",
+            "timestamp": "2022-08-10T15:17:58.962000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ER",
+            "text": "You Tubeで怪談を聞くのにハマってます",
+            "timestamp": "2022-08-10T15:18:19.750000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "YouTubeで怪談！面白そうです！おすすめの動画あったりしますか？",
+            "timestamp": "2022-08-10T15:19:14.690000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ER",
+            "text": "ヤガミって言う人の動画が面白いです。自分の語りを動画にしているんですよ",
+            "timestamp": "2022-08-10T15:19:55.178000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "ヤガミさん。自分で怪談を考えて、それを動画で話されてるんですか？",
+            "timestamp": "2022-08-10T15:20:34.209000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ER",
+            "text": "怪談の内容はネットで書かれてるやつですね。それをわかりやすく編集して語ってます",
+            "timestamp": "2022-08-10T15:21:15.967000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "なるほど！視聴しやすそうでいいですね。今夜チェックしてみます！",
+            "timestamp": "2022-08-10T15:21:54.919000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ER",
+            "text": "ぜひ！何か好きな動画やTV番組とかありますか？",
+            "timestamp": "2022-08-10T15:22:34.329000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "私はモンハン好きなので、モンハンの実況動画よくみますね。",
+            "timestamp": "2022-08-10T15:22:57.860000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ER",
+            "text": "モンハンいいですね。最近新作も出たので動画多そうですね",
+            "timestamp": "NaT"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよー！今日最新アプデも配信されたので、賑わってます。",
+            "timestamp": "2022-08-10T15:23:37.706000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ER",
+            "text": "それは夢中になりそうですね。私はプレイしたことないんですが、友達がやっているのをよく見てます",
+            "timestamp": "2022-08-10T15:24:11.972000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "プレイされたことないんですね。狩りゲーは苦手ですか？",
+            "timestamp": "2022-08-10T15:24:38.191000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ER",
+            "text": "新作が次々に出るんで、買うタイミング逃しちゃうんですよね。",
+            "timestamp": "2022-08-10T15:25:06.594000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "なるほど。確かに、結構やりこまないと次に進めないのに、どんどん出ますもんね。",
+            "timestamp": "2022-08-10T15:25:52.556000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ER",
+            "text": "そうなんですよね。他にもやりたいゲームたくさんあるので、時間がなかなかとれないです。",
+            "timestamp": "2022-08-10T15:26:20.425000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "普段はどんなゲームをプレイされるんですか？",
+            "timestamp": "2022-08-10T15:26:45.808000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ER",
+            "text": "RPGとかApexとかのPVPとかをやりますね",
+            "timestamp": "2022-08-10T15:27:34.247000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "あ！APEXプレイされるんですね！画面酔いとかってないんですか？",
+            "timestamp": "2022-08-10T15:28:22.567000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ER",
+            "text": "酔わないですね、その辺は大丈夫です。FPSは酔う人が多いですよね。",
+            "timestamp": "2022-08-10T15:29:01.255000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "酔わないなんてすごいですね。私は実況みてるだけで酔います。",
+            "timestamp": "2022-08-10T15:29:32.901000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ER",
+            "text": "人がプレイしているのだと、余計酔っちゃいそうですね",
+            "timestamp": "2022-08-10T15:29:48.335000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "集中力の差ですかねぇ。モンハンでも以前は酔ってたんですが、やり続けて慣れました。",
+            "timestamp": "2022-08-10T15:30:33.849000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ER",
+            "text": "慣れると画面の色んなところを見るから、酔いにくくなるのかもしれませんね",
+            "timestamp": "2022-08-10T15:31:12.107000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "なるほど。余裕をもって周囲を見れるようになればいいのかもしれませんね。",
+            "timestamp": "2022-08-10T15:31:51.702000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ER",
+            "text": "私も最初Apex結構酔ってましたよ。慣れると平気になるのかもしれません。",
+            "timestamp": "2022-08-10T15:32:15.750000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "やりたい気持ちを強くもって、慣れるまで頑張れってことですね！",
+            "timestamp": "2022-08-10T15:32:54.446000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ER",
+            "text": "楽しく色んなゲームできたらいいですね！ありがとうございました！",
+            "timestamp": "2022-08-10T15:33:16.663000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "CE",
+            "text": "では、また！",
+            "timestamp": "2022-08-10T15:33:29.011000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

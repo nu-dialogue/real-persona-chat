@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4516,
+    "interlocutors": [
+        "FR",
+        "FV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T10:00:49.037000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FV",
+            "text": "こんにちは。本日はよろしくお願いいたします。",
+            "timestamp": "2022-09-12T10:01:05.176000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FR",
+            "text": "朝ごはんは食べられました？",
+            "timestamp": "2022-09-12T10:01:26.953000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FV",
+            "text": "野菜類が主に、あとバナナとヨーグルトを食べました。",
+            "timestamp": "2022-09-12T10:01:41.881000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FR",
+            "text": "毎日食べられるんですか？",
+            "timestamp": "2022-09-12T10:01:53.058000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FV",
+            "text": "はい、毎日そんな感じです。",
+            "timestamp": "2022-09-12T10:02:11.079000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FR",
+            "text": "健康的ですね。朝からごはんやパンを食べることはありますか？",
+            "timestamp": "2022-09-12T10:02:41.504000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FV",
+            "text": "はい、以前ちょっと体調を崩したことがあり、健康に気を付けてはいます。パンもご飯も食べます。",
+            "timestamp": "2022-09-12T10:03:17.530000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。パンかごはんか一つ選べと言われたら、どっち選びます？",
+            "timestamp": "2022-09-12T10:03:59.259000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FV",
+            "text": "どちらかならば、ご飯派です。<FR>さんはどちらでしょうか？",
+            "timestamp": "2022-09-12T10:04:20.540000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FR",
+            "text": "ごはんです！",
+            "timestamp": "2022-09-12T10:04:28.094000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FV",
+            "text": "パンも美味しいのですが、日本人だとどうしてもそうなってしまいますよね。",
+            "timestamp": "2022-09-12T10:04:46.822000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FR",
+            "text": "そうですね。ごはんと納豆とかよく食べます。",
+            "timestamp": "2022-09-12T10:05:09.485000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FV",
+            "text": "納豆いいですね、大豆製品ですし、発酵食品なので健康的！",
+            "timestamp": "2022-09-12T10:05:37.266000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FR",
+            "text": "健康的ですよね。納豆はよく食べられます？",
+            "timestamp": "2022-09-12T10:05:54.904000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FV",
+            "text": "はい、ひきわりが好きです！",
+            "timestamp": "2022-09-12T10:06:11.363000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FR",
+            "text": "ひきわりってどういうものでしたっけ？",
+            "timestamp": "2022-09-12T10:06:22.986000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FV",
+            "text": "明確な定義は分かりませんが、豆が割れてつぶつぶになってるやつです。",
+            "timestamp": "2022-09-12T10:06:45.622000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。あまり食べたことないかもしれません。",
+            "timestamp": "2022-09-12T10:07:01.017000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FV",
+            "text": "スーパーとかで、たまに「ひきわり」と書いてあるのあるので、一度お試しください。",
+            "timestamp": "2022-09-12T10:07:30.645000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FR",
+            "text": "はい。私は今しそ納豆が家にあります。",
+            "timestamp": "2022-09-12T10:07:45.846000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FV",
+            "text": "梅しそいいですね、梅大好きです。",
+            "timestamp": "2022-09-12T10:07:59.003000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FR",
+            "text": "梅干しも食べますか？",
+            "timestamp": "2022-09-12T10:08:18.144000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FV",
+            "text": "はい、和歌山から取り寄せてます！",
+            "timestamp": "2022-09-12T10:09:37.421000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FR",
+            "text": "本格的ですね！やっぱり違いますか？",
+            "timestamp": "2022-09-12T10:09:56.915000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FV",
+            "text": "やっぱり、こだわってる感じがして、一味違います。塩分だけ気になりますが。",
+            "timestamp": "2022-09-12T10:10:17.034000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FR",
+            "text": "へぇそうなんですね。確かに塩分は気になりますね。",
+            "timestamp": "2022-09-12T10:10:41.004000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FV",
+            "text": "一日にとって良い塩分が6ｇなので、なかなかたまにしか食べれません。",
+            "timestamp": "2022-09-12T10:11:01.820000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FR",
+            "text": "そうなんですね。ちなみに梅干し一つで何グラムくらいなのでしょう？",
+            "timestamp": "2022-09-12T10:11:26.482000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FV",
+            "text": "明確には知りません！",
+            "timestamp": "2022-09-12T10:11:56.345000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 2
+        }
+    ]
+}

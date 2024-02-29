@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1337,
+    "interlocutors": [
+        "BU",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-13T20:53:29.132000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-13T20:53:36.215000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "明日何します？",
+            "timestamp": "2022-08-13T20:53:45.248000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "明日は実家に帰ります。家族が集まるんです！",
+            "timestamp": "2022-08-13T20:53:58.469000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "実家は今住んでるとこから遠いですか？",
+            "timestamp": "2022-08-13T20:54:17.941000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "車で30分くらいです！",
+            "timestamp": "2022-08-13T20:54:31.164000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "割と近い！いいですね！楽しみですか？",
+            "timestamp": "2022-08-13T20:54:43.912000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "はい。近いです！　おいしいごはんが楽しみですね。",
+            "timestamp": "2022-08-13T20:55:02.801000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "そういうのないんで、羨ましいです。いいですね、みんなでごはん。",
+            "timestamp": "2022-08-13T20:55:20.360000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "そうなんですね。実家田舎なので、すぐ人が集まるんですよ。",
+            "timestamp": "2022-08-13T20:55:37.397000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "大家族ですか？",
+            "timestamp": "2022-08-13T20:55:47.810000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "わりと。あと、親戚も近くに住んでるので。",
+            "timestamp": "2022-08-13T20:56:02.508000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "賑やかになりますね。",
+            "timestamp": "2022-08-13T20:56:15.885000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "ですね。今回も、総勢10人近く集まるはずです。",
+            "timestamp": "2022-08-13T20:56:34.969000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "すごい。お家もさぞ大きかろう。",
+            "timestamp": "2022-08-13T20:56:48.787000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "あー。どうですかね。田舎なのでどこも大きいっちゃ大きいです。",
+            "timestamp": "2022-08-13T20:57:06.654000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "東京ドーム何個分ですか？",
+            "timestamp": "2022-08-13T20:57:15.801000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "東京ドームと来ましたか！　10人には広い広い！",
+            "timestamp": "2022-08-13T20:57:35.313000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "広ければ広いほど良いじゃないですか？",
+            "timestamp": "2022-08-13T20:57:53.029000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "田舎だと、広いイコール雑草もたくさんってイメージです。",
+            "timestamp": "2022-08-13T20:58:11.413000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "ヤギ飼いましょう。",
+            "timestamp": "2022-08-13T20:58:22.661000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "それがギャグにならないんですよー！　ヤギ！",
+            "timestamp": "2022-08-13T20:58:42.664000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "ヤギ１００匹！",
+            "timestamp": "2022-08-13T20:59:11.209000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "隣の隣の家に、マジでヤギがいましたからね！　増えてるかも！",
+            "timestamp": "2022-08-13T20:59:27.035000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "すげー。放し飼いですか？？",
+            "timestamp": "2022-08-13T20:59:40.709000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "ときどき放されてて、土手とか歩いてるの見ました。",
+            "timestamp": "2022-08-13T21:00:01.234000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "可愛いですね。めぇーって鳴きますか？",
+            "timestamp": "2022-08-13T21:01:11.957000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "鳴き声は聞いたことないですけど、鈴みたいなんを付けてましたよ。",
+            "timestamp": "2022-08-13T21:00:37.606000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "うちも鈴つけよかな。似合いますかね？",
+            "timestamp": "2022-08-13T21:00:57.653000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "似合うかも。でも、カランコロンうるさいですよ。たぶん！",
+            "timestamp": "2022-08-13T21:01:15.601000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

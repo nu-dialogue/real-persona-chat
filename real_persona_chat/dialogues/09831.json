@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 9831,
+    "interlocutors": [
+        "BO",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-09T16:27:19.522000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "はじめまして。この度はよろしくお願いいたします。",
+            "timestamp": "2022-08-09T16:27:34.876000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-08-09T16:28:46.718000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "はい。でも、もう終わりました。",
+            "timestamp": "2022-08-09T16:29:11.015000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "お疲れ様です！私も先ほど終わりました。",
+            "timestamp": "2022-08-09T16:29:25.155000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "これからご自宅にお帰りになられるのですか？",
+            "timestamp": "2022-08-09T16:29:53.857000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "今日は在宅で仕事してました。",
+            "timestamp": "2022-08-09T16:30:04.790000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "私は帰宅前に夕食の買い物をいたします。",
+            "timestamp": "2022-08-09T16:30:37.233000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "私も後程買い物予定です！今日の献立は何にするんですか？",
+            "timestamp": "2022-08-09T16:31:01.742000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "いつもは、夕方の特売を見てからきめます。",
+            "timestamp": "2022-08-09T16:31:28.711000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "なるほど！うちは手巻きでもやろうかと！",
+            "timestamp": "2022-08-09T16:31:56.257000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "おいしそうですね！こちらは夕方18時30分以降にお刺身が特売になります",
+            "timestamp": "2022-08-09T16:32:33.137000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね！特売とかあまり気にしたことなかったので色々調べてみてもいいですね。",
+            "timestamp": "2022-08-09T16:33:20.842000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "いつも遅い時間に帰宅するので、お刺身が半額になるので、それを狙ってスーパーに行きます。",
+            "timestamp": "2022-08-09T16:33:48.670000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "あ！遅い時間だとお惣菜とかも安くなってますよね。",
+            "timestamp": "2022-08-09T16:34:07.407000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "はい！値段が安くなった直後をいつも狙います！",
+            "timestamp": "2022-08-09T16:34:30.925000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "お買い物上手ですね、見習わねば。",
+            "timestamp": "2022-08-09T16:34:44.198000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "私は愛知県に住んでいますが、周辺のスーパーは皆このような感じです。",
+            "timestamp": "2022-08-09T16:35:21.007000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "普段お料理もされるんですか？",
+            "timestamp": "2022-08-09T16:36:04.261000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "最近は暑くてあまり真剣にやっておりません。お料理お得意ですか？",
+            "timestamp": "2022-08-09T16:36:40.069000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "私はあまり得意ではありませんが、最近やり始めました。",
+            "timestamp": "2022-08-09T16:37:06.175000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "素晴らしいですね！一旦やめてしまうとなかなかきちんとお料理できなくなってしまいます。",
+            "timestamp": "2022-08-09T16:37:38.515000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "最近はそうめんばっかりです。",
+            "timestamp": "2022-08-09T16:38:00.717000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "暑いから、いいですね。手巻きの材料は何になさいますか？",
+            "timestamp": "2022-08-09T16:38:27.705000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "無難にお刺身とかツナ、納豆とかですかね！",
+            "timestamp": "2022-08-09T16:38:57.244000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "お刺身は今の時期、食べやすくていいですね。",
+            "timestamp": "2022-08-09T16:39:22.844000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "はい！簡単ですしよくやります。",
+            "timestamp": "2022-08-09T16:39:58.971000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "昨日はぶりと中トロを半額で購入してきました！",
+            "timestamp": "2022-08-09T16:40:12.212000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "いいですね、半額で買うとなんか優越感ありますよね。",
+            "timestamp": "2022-08-09T16:40:28.842000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "だからお料理ができなくなったのかな。",
+            "timestamp": "2022-08-09T16:40:43.707000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BO",
+            "text": "そうなんですかね。お話ありがとうございました！",
+            "timestamp": "2022-08-09T16:41:12.415000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1789,
+    "interlocutors": [
+        "CV",
+        "CZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CV",
+            "text": "よろしくお願いいたします！",
+            "timestamp": "2022-08-16T15:42:34.572000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CZ",
+            "text": "よろしくお願いいたします！",
+            "timestamp": "2022-08-16T15:42:43.710000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CV",
+            "text": "旅行とかはお好きですか？",
+            "timestamp": "2022-08-16T15:43:00.305000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CZ",
+            "text": "昔は行ってましたけどね、今は全くですよ。",
+            "timestamp": "2022-08-16T15:43:17.897000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CV",
+            "text": "海外行かれたことあります？",
+            "timestamp": "2022-08-16T15:43:34.562000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CZ",
+            "text": "海外ないのですよ。ありますか？",
+            "timestamp": "2022-08-16T15:43:46.918000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CV",
+            "text": "私も長時間飛行機乗るの怖くて。決死の思いで、ニューヨークとバリ島にだけ行ったことあります",
+            "timestamp": "2022-08-16T15:44:28.389000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CZ",
+            "text": "ニューヨークってどうですか？大きな街ですか？",
+            "timestamp": "2022-08-16T15:44:59.613000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CV",
+            "text": "街はそんなに大きくないです。都会ですね。",
+            "timestamp": "2022-08-16T15:45:52.957000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CZ",
+            "text": "東京より大きくない感じですか？",
+            "timestamp": "2022-08-16T15:46:02.965000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CV",
+            "text": "たぶん東京より狭いのでは。危険で行っちゃいけない地域もあったりするので",
+            "timestamp": "2022-08-16T15:46:15.068000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CZ",
+            "text": "それは超意外ですね。イメージ的にでっかいビルがボンボン建ってると思ってました。",
+            "timestamp": "2022-08-16T15:46:55.530000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CV",
+            "text": "ビルが立ってる地域は局所的という感じですかね",
+            "timestamp": "2022-08-16T15:56:19.540000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CZ",
+            "text": "へー、そうなのですね。観光旅行だったのですか？",
+            "timestamp": "2022-08-16T15:56:06.574000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CV",
+            "text": "実は、好きなアーティストのイベントの旅行でした",
+            "timestamp": "2022-08-16T15:50:30.173000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CZ",
+            "text": "コンサートですか？誰でした？",
+            "timestamp": "2022-08-16T15:50:38.599000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CV",
+            "text": "藤井フミヤさんです。ニューヨークで個展をされたので。",
+            "timestamp": "2022-08-16T15:51:04.965000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CZ",
+            "text": "藤井フミヤさんの個展だったのですね！藤井さんが好きなのですか？",
+            "timestamp": "2022-08-16T15:51:39.023000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CV",
+            "text": "最近はもう追ってないのですが、昔すごくファンでした！",
+            "timestamp": "2022-08-16T15:52:07.934000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CZ",
+            "text": "チェッカーズのベストアルバム持ってます。藤井さんも今でもたまにテレビで見ますよね。",
+            "timestamp": "2022-08-16T15:52:41.708000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CV",
+            "text": "もう40年近く？活躍されてる感じですね。すごいことです。",
+            "timestamp": "2022-08-16T15:53:18.591000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CZ",
+            "text": "個展はよかったですか？",
+            "timestamp": "2022-08-16T15:53:42.834000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CV",
+            "text": "美術センスがないので評価難しいのですが、オシャレでフミヤさんらしい感じでした",
+            "timestamp": "2022-08-16T15:54:20.529000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CZ",
+            "text": "ニューヨークって物価が高くて料理も高くなかったですか？",
+            "timestamp": "2022-08-16T15:54:50.045000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CV",
+            "text": "はい、めっちゃ高かったです。量も多いんですけど。",
+            "timestamp": "2022-08-16T15:55:18.028000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CZ",
+            "text": "定食でも２０００円以上する感じですかね？",
+            "timestamp": "2022-08-16T15:56:20.036000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CV",
+            "text": "たぶんそんな感じだったと思います。なので、ファストフードっぽい店ばかり入ってました",
+            "timestamp": "2022-08-16T15:56:15.137000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CZ",
+            "text": "でもニューヨークってワクワクする街なのですよね！",
+            "timestamp": "2022-08-16T15:56:37.284000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CV",
+            "text": "そうですね。抽象的ですが、生命力があって、ちょっと勇気をもらった気がしました！",
+            "timestamp": "2022-08-16T15:57:12.838000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CZ",
+            "text": "来年行こうかな。",
+            "timestamp": "2022-08-16T15:57:22.339000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

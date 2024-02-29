@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 857,
+    "interlocutors": [
+        "BQ",
+        "CF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-14T06:07:06.255000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CF",
+            "text": "おはようございます。朝ごはんは食べましたか？",
+            "timestamp": "2022-08-14T06:07:20.225000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "まだ食べてないですね。そちらは食べられましたか？",
+            "timestamp": "2022-08-14T06:07:35.069000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CF",
+            "text": "カレーパンが残っていたのでそれと、あとは麦茶です。",
+            "timestamp": "2022-08-14T06:07:58.409000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "カレーパン美味しそうですね。普段もパンですか？",
+            "timestamp": "2022-08-14T06:08:15.151000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CF",
+            "text": "朝は忙しいのでパンが多いです。",
+            "timestamp": "2022-08-14T06:08:28.859000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "そうなんですね。私はご飯派です。",
+            "timestamp": "2022-08-14T06:08:44.892000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CF",
+            "text": "ごはんだとやはり納豆とか卵かけごはんにしたりしますか？",
+            "timestamp": "2022-08-14T06:09:05.493000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "昨日の残り物とかたまに目玉焼きを焼いたりします。",
+            "timestamp": "2022-08-14T06:09:28.058000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CF",
+            "text": "目玉焼きいいですね。あなたは目玉焼きには何をかけますか？",
+            "timestamp": "2022-08-14T06:10:00.048000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "醤油をかけます。そちらは何をかけますか？",
+            "timestamp": "2022-08-14T06:10:11.065000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CF",
+            "text": "塩ですね。醤油も好きですよ。",
+            "timestamp": "2022-08-14T06:10:24.945000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "塩ですか。大人な感じですね。",
+            "timestamp": "2022-08-14T06:10:44.564000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CF",
+            "text": "カロリーが高いのは承知で醤油にマヨネーズもやります。",
+            "timestamp": "2022-08-14T06:11:06.548000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "なるほど。目玉焼きも人それぞれ食べ方がありますよね。ケチャップをかける人もいるとか。",
+            "timestamp": "2022-08-14T06:11:32.538000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CF",
+            "text": "ケチャップ派ですか、それもいいかも。",
+            "timestamp": "2022-08-14T06:11:55.444000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "どんなパンがお好きですか？",
+            "timestamp": "2022-08-14T06:12:18.664000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CF",
+            "text": "デニッシュパンが好きですがしばらく流行ってた高級食パンも好きです。",
+            "timestamp": "2022-08-14T06:12:47.850000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "私も高級食パン食べました。結構違いがあることに驚きました。",
+            "timestamp": "2022-08-14T06:13:13.268000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CF",
+            "text": "お店ごとに違いがあってまたそれが良いですよね。",
+            "timestamp": "2022-08-14T06:13:28.353000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "各店工夫されてますよね。結構閉店してしまうお店も多いみたいですね。",
+            "timestamp": "2022-08-14T06:14:05.301000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CF",
+            "text": "そうなのですね。こちらはまだ残っていて、しかも最近新しくお店が１軒できました。",
+            "timestamp": "2022-08-14T06:14:43.270000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "それはいいですね。こちらは1店舗しかないんですよ。",
+            "timestamp": "2022-08-14T06:15:26.760000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CF",
+            "text": "なるほど。ネット通販するところまではきっといきませんものね。",
+            "timestamp": "2022-08-14T06:16:23.205000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "そうですね。一時期通販で冷凍パンが流行ったことがありましたね。",
+            "timestamp": "2022-08-14T06:16:52.451000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CF",
+            "text": "ありましたね。冷凍パンって解凍が難しそうで。",
+            "timestamp": "2022-08-14T06:17:10.744000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "確かに難しいかもしれませんね。手軽かと思っていました。",
+            "timestamp": "2022-08-14T06:17:38.447000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CF",
+            "text": "けど気になってたんですよね。一回試してみます。",
+            "timestamp": "2022-08-14T06:18:00.201000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "ぜひ試されてみてください。私も検討します。",
+            "timestamp": "2022-08-14T06:18:29.910000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CF",
+            "text": "早速調べてみます。お話ありがとうございました。",
+            "timestamp": "2022-08-14T06:18:44.298000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

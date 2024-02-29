@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7475,
+    "interlocutors": [
+        "IF",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IF",
+            "text": "趣味とか特技は何かありますか？",
+            "timestamp": "2022-08-02T19:56:21.884000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "趣味は、海外ドラマとか映画を見ることです。",
+            "timestamp": "2022-08-02T19:56:36.484000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IF",
+            "text": "どんな映画がお好きですか？ヒューマンドラマ系とかアクションものとか？",
+            "timestamp": "2022-08-02T19:57:16.234000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "特に好きなのは、ミステリーとか、刑事モノですね。",
+            "timestamp": "2022-08-02T19:57:36.826000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IF",
+            "text": "ぱっと思いつくのがコロンボ刑事です。",
+            "timestamp": "2022-08-02T19:57:56.241000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "なるほど！　古畑任三郎のもとになったと言われているあれですね！",
+            "timestamp": "2022-08-02T19:58:24.994000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IF",
+            "text": "はい、なぜか記憶にあります。",
+            "timestamp": "2022-08-02T19:58:52.366000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "けっこう映画とか見ますか？あんまりですか？",
+            "timestamp": "2022-08-02T19:59:13.695000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IF",
+            "text": "最近は遠のいています、2時間も集中できなくなってしまいまして。",
+            "timestamp": "2022-08-02T20:00:03.639000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "あはは。確かに短い動画になれると、２時間つらい時ありますね。",
+            "timestamp": "2022-08-02T20:00:25.204000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IF",
+            "text": "そうですね、ちなみにインド映画などご覧になりますか？長時間ものが多い気がします。",
+            "timestamp": "2022-08-02T20:01:05.667000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "インド映画はほぼ見たことないです。昔、ムトゥ踊るマハラジャってはやってましたよね。",
+            "timestamp": "2022-08-02T20:01:34.185000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IF",
+            "text": "初めて聞きました、なんか一度は見てみたいかもです。",
+            "timestamp": "2022-08-02T20:02:24.919000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "インド映画好きなんですか？",
+            "timestamp": "2022-08-02T20:02:40.757000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IF",
+            "text": "ボリウッド映画とか言われてるんだなーくらいの意識で、見たことはないんです。",
+            "timestamp": "2022-08-02T20:03:05.167000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "なるほど。ド派手ミュージカルのイメージぐらいしかないです。インド映画。",
+            "timestamp": "2022-08-02T20:03:41.226000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IF",
+            "text": "いっそミュージカルを見たほうが、な気がしました。",
+            "timestamp": "2022-08-02T20:04:28.320000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "あはは。確かに。私ミュージカル映画は好きです。アメリカのものばっかりですけど。",
+            "timestamp": "2022-08-02T20:04:49.070000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IF",
+            "text": "なんか夢がありそう、ザ・アメリカンドリーム！みたいに",
+            "timestamp": "2022-08-02T20:05:39.375000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "なんか、楽しい気分になるので、好きですね。歌も好きだし。",
+            "timestamp": "2022-08-02T20:06:07.714000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IF",
+            "text": "ミュージカルの話してるだけで楽しい気分になってきました。",
+            "timestamp": "2022-08-02T20:07:00.352000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "舞台とか見たりします？",
+            "timestamp": "2022-08-02T20:07:14.845000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IF",
+            "text": "ミュージカルは無いのですが、オペラを2回ほど見ました。",
+            "timestamp": "2022-08-02T20:07:43.888000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "おお！　どんなオペラですか？？",
+            "timestamp": "2022-08-02T20:07:57.318000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IF",
+            "text": "椿姫とトスカです！初心者におすすめらしかったので。",
+            "timestamp": "2022-08-02T20:08:31.107000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "うわー！すてき！私はテレビで見るぐらいしか経験ないです。",
+            "timestamp": "2022-08-02T20:08:54.251000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IF",
+            "text": "生の舞台はよかったです、オーケストラがまた素晴らしいのなんの",
+            "timestamp": "2022-08-02T20:09:17.886000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "生オケですもんね、オペラって。すごいなあ。うらやましい！",
+            "timestamp": "2022-08-02T20:09:37.410000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IF",
+            "text": "いつかまた行きたいです。",
+            "timestamp": "2022-08-02T20:10:46.118000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "また観劇が気軽にできるようになるといいですよね。",
+            "timestamp": "2022-08-02T20:11:14.193000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

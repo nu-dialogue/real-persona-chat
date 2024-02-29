@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9550,
+    "interlocutors": [
+        "BW",
+        "ET"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BW",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T10:40:34.934000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ET",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-10T10:40:40.837000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BW",
+            "text": "何か新しい趣味でも始めたいのですが、何か普段やられてますか？",
+            "timestamp": "2022-08-10T10:41:02.857000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ET",
+            "text": "実はゲーム作りが趣味だったりします。",
+            "timestamp": "2022-08-10T10:41:21.176000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BW",
+            "text": "ゲーム！すごいですね、パソコンでですか？",
+            "timestamp": "2022-08-10T10:41:37.590000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ET",
+            "text": "今はパソコンで作ってますね。難しいプログラミングとかは組めないんですが。",
+            "timestamp": "2022-08-10T10:41:50.410000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BW",
+            "text": "へえ！私もゲーム好きなので作ってみたいですね。難しくないですか？",
+            "timestamp": "2022-08-10T10:42:17.336000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ET",
+            "text": "ゲームを作る専用のソフトがあるので、それを使えば誰でも作れると思います！",
+            "timestamp": "2022-08-10T10:42:39.725000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BW",
+            "text": "そうなんですね、プログラミングは簡単なところで挫折してましたが、そういうのがあるんですね。",
+            "timestamp": "2022-08-10T10:43:17.436000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ET",
+            "text": "ツクールで検索すれば出てくると思います。ゲームお好きなんですね。",
+            "timestamp": "2022-08-10T10:43:32.181000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BW",
+            "text": "ありがとうございます！調べてみますね。はい、スマホでやってます。",
+            "timestamp": "2022-08-10T10:44:00.875000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ET",
+            "text": "スマホゲームですね。私はスマホではやらないんですが、主人がドラクエウォークにハマってます。",
+            "timestamp": "2022-08-10T10:44:19.616000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BW",
+            "text": "ドラクエウォークは何年か前にちょっとやってましたね。",
+            "timestamp": "2022-08-10T10:44:46.924000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ET",
+            "text": "ポケモンGOみたいなゲームですよね。今は何をされてるんですか？",
+            "timestamp": "2022-08-10T10:45:10.956000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BW",
+            "text": "今はシムズってやつとかマフィアのシミュレーションゲームなどです。",
+            "timestamp": "2022-08-10T10:45:51.620000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ET",
+            "text": "シムズは聞いたことあります！プレステのゲームだと思ってました。",
+            "timestamp": "2022-08-10T10:46:18.787000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BW",
+            "text": "プレステの方が本当に全体的に楽しめますが、スマホのは簡易版ですね。",
+            "timestamp": "2022-08-10T10:46:48.130000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ET",
+            "text": "どんなゲームなんですか？",
+            "timestamp": "2022-08-10T10:46:52.576000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BW",
+            "text": "家建てて、いろんなシムを成長させていくゲームです。何かゲームされますか？",
+            "timestamp": "2022-08-10T10:47:28.863000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ET",
+            "text": "昔、シムシティにハマったことがあるんですが、似てそうですね。私はRPGをプレイすることが多いです。",
+            "timestamp": "2022-08-10T10:48:02.507000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BW",
+            "text": "RPGも楽しいですよね、プレステとかでですか？",
+            "timestamp": "2022-08-10T10:48:36.863000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ET",
+            "text": "最近はswitchが多いですね。",
+            "timestamp": "2022-08-10T10:48:54.164000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BW",
+            "text": "switchほしいですね、いつか買いたいですね。",
+            "timestamp": "2022-08-10T10:49:12.184000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ET",
+            "text": "switchは良いですよ。テレビでも出来るし、携帯機にもなるし。プレステも持ってます。",
+            "timestamp": "2022-08-10T10:49:32.751000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BW",
+            "text": "いいなあ、昔はプレステ持ってましたが、新しいのがほしいところですね。",
+            "timestamp": "2022-08-10T10:50:02.100000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ET",
+            "text": "でも最近はスマホでも面白いゲームが沢山ありますからね。",
+            "timestamp": "2022-08-10T10:50:32.172000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BW",
+            "text": "確かに、でも画面大きい方がやりやすいし、楽しめそうです。",
+            "timestamp": "2022-08-10T10:50:57.572000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ET",
+            "text": "私がスマホゲーム出来ないのは老眼が始まったからなんですよね。でもシムズ興味ある。調べてみます。",
+            "timestamp": "2022-08-10T10:51:28.967000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BW",
+            "text": "スマホは結構疲れるかもしれませんね、シムズとフリーゲームだったか、2種類ありますよ、ぜひ！",
+            "timestamp": "2022-08-10T10:52:10.987000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ET",
+            "text": "ありがとうございます！ゲーム楽しくて良いですよね。",
+            "timestamp": "2022-08-10T10:52:27.897000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ET",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

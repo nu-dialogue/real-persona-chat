@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11759,
+    "interlocutors": [
+        "DN",
+        "ES"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-26T14:51:21.857000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ES",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-26T14:51:29.975000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "お好きな飲み物とかありますか？",
+            "timestamp": "2022-08-26T14:51:38.669000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ES",
+            "text": "最近ラテにはまっています。",
+            "timestamp": "2022-08-26T14:51:59.262000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "スタバとかにおいてあるような感じのものですか？",
+            "timestamp": "2022-08-26T14:52:20.137000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ES",
+            "text": "そうですね！だいたいのカフェにありますが、場所によって全然味が違うんです。",
+            "timestamp": "2022-08-26T14:52:57.913000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "それはどのように違うのですか？",
+            "timestamp": "2022-08-26T14:53:10.333000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ES",
+            "text": "お店によって甘かったり、牛乳の割合が多かったりします。",
+            "timestamp": "2022-08-26T14:53:37.320000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "なるほど。ラテなので生クリームが乗っているものとは違うのですね？",
+            "timestamp": "2022-08-26T14:53:55.781000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ES",
+            "text": "そうですね、牛乳とコーヒー、お店によって甘味付けのみが通常です。",
+            "timestamp": "2022-08-26T14:54:47.121000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。コーヒーはよくいただくのですが、いまいろいろなアレンジがありますよね。",
+            "timestamp": "2022-08-26T14:55:17.578000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ES",
+            "text": "そうですよね。コーヒーはどのように飲むのがお好きですか？",
+            "timestamp": "2022-08-26T14:55:41.976000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "ブラックでいただきます。マシンで入れたり、ひいた豆のものを入れたりします。",
+            "timestamp": "2022-08-26T14:56:12.228000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ES",
+            "text": "すごい、憧れます。おうちにマシンがあるのですか？",
+            "timestamp": "2022-08-26T14:56:35.906000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "はい。3種類あります。",
+            "timestamp": "2022-08-26T14:56:46.327000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ES",
+            "text": "3種類も！どのマシンが一番おすすめですか？",
+            "timestamp": "2022-08-26T14:57:09.226000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "ネスプレッソの泡が多く出るマシンが便利です。",
+            "timestamp": "2022-08-26T14:57:30.065000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ES",
+            "text": "ネスプレッソうらやましいです。意外とコンパクトでしたよね？",
+            "timestamp": "2022-08-26T14:57:53.814000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "はい。小さめのものを選ぶと威圧感はないですよ。",
+            "timestamp": "2022-08-26T14:58:07.576000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ES",
+            "text": "キッチンあまりスペースがないのですが、小さいとうれしいですね。",
+            "timestamp": "2022-08-26T14:58:40.859000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "はい。私のところもスペース小さいです。ミルクを入れるオプションもあったように思います。",
+            "timestamp": "2022-08-26T14:59:15.464000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ES",
+            "text": "そんなこともできるんですね、他の2種類のマシンはまた違った特性なんですか？",
+            "timestamp": "2022-08-26T14:59:40.714000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "Nestleのドルチェグストはカプセルが決まっているのですがネスプレッソは自分でできます。",
+            "timestamp": "2022-08-26T15:00:10.003000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ES",
+            "text": "それも聞いたことがあります。味わいも違いますか？",
+            "timestamp": "2022-08-26T15:00:37.710000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "はい。やはりネスプレッソはおいしいし、レシピがいろいろあるようです。",
+            "timestamp": "2022-08-26T15:00:56.964000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ES",
+            "text": "そうなんですね。カフェに飲みに行くことはありますか？",
+            "timestamp": "2022-08-26T15:01:41.082000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "ほとんどないので、ちょっと贅沢にマシンを購入しました。",
+            "timestamp": "2022-08-26T15:01:58.800000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ES",
+            "text": "なるほど、その分おうち時間に有意義な投資ですね。",
+            "timestamp": "2022-08-26T15:02:23.099000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "はい。映画を見ながらコーヒーもいただけますし。",
+            "timestamp": "2022-08-26T15:02:40.709000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ES",
+            "text": "なんて贅沢な時間！",
+            "timestamp": "2022-08-26T15:02:55.867000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ES",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

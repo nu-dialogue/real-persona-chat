@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8809,
+    "interlocutors": [
+        "AQ",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-06T17:01:23.795000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-06T17:01:35.153000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AQ",
+            "text": "お仕事はどんなことをされているんですか？",
+            "timestamp": "2022-08-06T17:01:48.222000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "自営業で、オンラインショップを運営しています。",
+            "timestamp": "2022-08-06T17:02:03.683000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AQ",
+            "text": "おー！今時のお仕事ですね。",
+            "timestamp": "2022-08-06T17:02:15.069000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "そうですね！実店舗を持つ勇気がなかったのです。",
+            "timestamp": "2022-08-06T17:02:49.592000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AQ",
+            "text": "そうなんですね。どんなものを販売しているんですか？",
+            "timestamp": "2022-08-06T17:03:03.836000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "ちょっと専門的な部品を扱ってます。ほとんどのお客さんは企業の方ですね",
+            "timestamp": "2022-08-06T17:03:43.089000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AQ",
+            "text": "何だか難しそうなお仕事ですね。お忙しいでしょう。",
+            "timestamp": "2022-08-06T17:04:00.084000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "もうちょっと忙しければ良いのですが。なかなか難しいです。",
+            "timestamp": "2022-08-06T17:04:19.832000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AQ",
+            "text": "オンラインでも難しいのですね。",
+            "timestamp": "2022-08-06T17:04:34.460000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "けっこう、景気に左右されますよ。コロナになった時は、注文がなくなりました。",
+            "timestamp": "2022-08-06T17:05:02.155000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AQ",
+            "text": "コロナは本当に厄介です。",
+            "timestamp": "2022-08-06T17:05:15.841000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "<AQ>さんはどんな仕事をしているのですか？",
+            "timestamp": "2022-08-06T17:05:34.413000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AQ",
+            "text": "ネットショップの補佐をしていました。",
+            "timestamp": "2022-08-06T17:05:47.724000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "あれ？同業者さんでしたか。どんなものを売っていたんでしょう？",
+            "timestamp": "2022-08-06T17:06:13.126000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AQ",
+            "text": "主に文具関係なんですが、同じようにコロナで売上がいまいち伸び悩んでいました。",
+            "timestamp": "2022-08-06T17:06:46.206000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "ほんとコロナになって、いろいろな事が変わってしまいましたね",
+            "timestamp": "2022-08-06T17:07:07.437000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AQ",
+            "text": "そうなんですよ。業績悪化で私はクビになってしまいましたし。",
+            "timestamp": "2022-08-06T17:07:30.403000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "そうでしたか。それは残念です。",
+            "timestamp": "2022-08-06T17:07:59.105000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AQ",
+            "text": "そうなんです。4年勤めていたので名残惜しかったですね。",
+            "timestamp": "2022-08-06T17:08:18.924000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "4年勤めていた方が辞めなくてはいけないとしたら、かなり厳しい状況だったんですね",
+            "timestamp": "2022-08-06T17:08:50.008000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。送料も値上がりしますし、なかなか厳しい状況だったようです。",
+            "timestamp": "2022-08-06T17:09:16.204000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "そうですねよね。送料の値上がりってオンラインショップだともろに影響ありますね",
+            "timestamp": "2022-08-06T17:09:52.213000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AQ",
+            "text": "オンラインショップの運営は長いんですか？",
+            "timestamp": "2022-08-06T17:10:09.749000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "2012年からですので、今年で10年です。",
+            "timestamp": "2022-08-06T17:10:33.723000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AQ",
+            "text": "おー！素晴らしいです。",
+            "timestamp": "2022-08-06T17:10:45.529000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "10年残る店は珍しいって聞くので、その点は良くがんばったなあと思います。",
+            "timestamp": "2022-08-06T17:11:10.309000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AQ",
+            "text": "かなりすごいと思います。私も頑張らないとな。",
+            "timestamp": "2022-08-06T17:11:26.566000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "良い仕事が見つかるといいですね！ではまた",
+            "timestamp": "2022-08-06T17:11:50.856000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AQ",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-06T17:11:57.444000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

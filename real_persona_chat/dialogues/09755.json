@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9755,
+    "interlocutors": [
+        "BO",
+        "AM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BO",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-09T12:50:55.117000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AM",
+            "text": "こんにちは、よろしくお願いします。熱中症対策は何かなさっていますか？",
+            "timestamp": "2022-08-09T12:51:58.720000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BO",
+            "text": "特にありませんが、とりあえず水分をよく摂ることですかね。",
+            "timestamp": "2022-08-09T12:52:19.041000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AM",
+            "text": "iHerbでみつけたのですが、砂糖の入っていないスポーツドリンクがとても良かったです",
+            "timestamp": "2022-08-09T12:52:58.249000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BO",
+            "text": "なんと！いいですね。スポーツドリンクって糖分がどうしても気になってて。",
+            "timestamp": "2022-08-09T12:53:27.553000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AM",
+            "text": "そうなんですよね。粉を水に溶かすタイプなのですが、味もいろいろ選べました",
+            "timestamp": "2022-08-09T12:53:55.652000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BO",
+            "text": "どんな種類があるんですか？",
+            "timestamp": "2022-08-09T12:54:19.845000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AM",
+            "text": "レモンとかピンクグレープフルーツ、あとはスイカとか！",
+            "timestamp": "2022-08-09T12:54:40.053000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BO",
+            "text": "え！美味しそうですね。甘さはありますか？",
+            "timestamp": "2022-08-09T12:55:08.255000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AM",
+            "text": "甘さはないですが、おいしく飲めました。スイカは躊躇して買いませんでしたが。",
+            "timestamp": "2022-08-09T12:55:41.097000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BO",
+            "text": "なるほど、でも砂糖不要なら躊躇なく飲めますね。",
+            "timestamp": "2022-08-09T12:56:03.457000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AM",
+            "text": "はい、カリウム・マグネシウム・亜鉛が入っていて砂糖なしなので、運動のときに飲んでいます",
+            "timestamp": "2022-08-09T12:56:34.037000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BO",
+            "text": "いいですね。やっぱり運動では水だけではだめなんですね。",
+            "timestamp": "2022-08-09T12:57:18.009000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AM",
+            "text": "この暑さなので、ミネラルが要るかと思って。",
+            "timestamp": "2022-08-09T12:58:00.692000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BO",
+            "text": "あなたは何か対策してますか？",
+            "timestamp": "2022-08-09T12:58:24.512000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AM",
+            "text": "室内でも熱中症になることがあるらしいので、喉が渇く前に水やそのスポドリを飲んで、エアコンをつけています",
+            "timestamp": "2022-08-09T12:59:16.031000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BO",
+            "text": "あ、確か喉乾く前に飲み物飲んだ方がいいってどこかで書いてました！",
+            "timestamp": "2022-08-09T13:00:11.413000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AM",
+            "text": "そうみたいです。思ったよりも水分を必要とするんですね",
+            "timestamp": "2022-08-09T13:00:37.883000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BO",
+            "text": "私室内にいると涼しくて全然水分取らないんですよね。",
+            "timestamp": "2022-08-09T13:01:03.141000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AM",
+            "text": "お水だけでも良いので、摂った方が良いみたいですよ",
+            "timestamp": "2022-08-09T13:01:37.185000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BO",
+            "text": "そうみたいですね、気をつけます！",
+            "timestamp": "2022-08-09T13:01:51.556000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AM",
+            "text": "出かけるときは帽子をかぶったり、日傘を使います",
+            "timestamp": "2022-08-09T13:02:35.910000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BO",
+            "text": "日傘あるのとないのとでは全然違いますよね。",
+            "timestamp": "2022-08-09T13:02:53.553000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AM",
+            "text": "そうですよね。最近は男性も日傘を持っている方がいて安心します",
+            "timestamp": "2022-08-09T13:03:11.725000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BO",
+            "text": "そうなんですね！私は持ってないので母のを借りたりしてました。",
+            "timestamp": "2022-08-09T13:03:36.289000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AM",
+            "text": "男性用の、装飾の少ない日傘が最近は人気があるようですよ",
+            "timestamp": "2022-08-09T13:03:54.875000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BO",
+            "text": "なるほど、男性もしっかりしてるなら私もやらないと！",
+            "timestamp": "2022-08-09T13:04:28.060000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AM",
+            "text": "そうですね、是非ご自分用のを入手してください！",
+            "timestamp": "2022-08-09T13:04:47.037000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BO",
+            "text": "はい！今日はありがとうございました。",
+            "timestamp": "2022-08-09T13:04:59.515000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AM",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-09T13:05:04.172000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BO",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AM",
+            "informativeness": 1,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

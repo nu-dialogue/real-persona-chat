@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3092,
+    "interlocutors": [
+        "BJ",
+        "EW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BJ",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T18:12:29.650000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EW",
+            "text": "こんにちは",
+            "timestamp": "2022-08-25T18:12:32.403000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BJ",
+            "text": "カラオケって行きますか",
+            "timestamp": "2022-08-25T18:12:39.154000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EW",
+            "text": "最近は行ってないです",
+            "timestamp": "2022-08-25T18:12:50.509000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BJ",
+            "text": "飲み会とかで行かれることが多いんですか？",
+            "timestamp": "2022-08-25T18:13:00.965000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EW",
+            "text": "飲み会よりは友達との方が多いです",
+            "timestamp": "2022-08-25T18:13:15.500000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BJ",
+            "text": "なるほど。好きですか？",
+            "timestamp": "2022-08-25T18:13:24.455000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EW",
+            "text": "カラオケは好きですが、あまり歌わないです",
+            "timestamp": "2022-08-25T18:13:42.973000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BJ",
+            "text": "歌わないんですね、聞く専門ですか",
+            "timestamp": "2022-08-25T18:13:52.895000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EW",
+            "text": "多いです",
+            "timestamp": "2022-08-25T18:13:58.891000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BJ",
+            "text": "なぜ歌わないんですか",
+            "timestamp": "2022-08-25T18:14:07.801000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EW",
+            "text": "サビだけ知っている曲が多く、それ以外が歌えないです",
+            "timestamp": "2022-08-25T18:14:21.827000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BJ",
+            "text": "なるほど、日本語の曲をあまり聞かないんですね",
+            "timestamp": "2022-08-25T18:14:48.191000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EW",
+            "text": "そうですね、よく耳にするのは知ってる！ってなるけど歌えないです",
+            "timestamp": "2022-08-25T18:15:04.928000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BJ",
+            "text": "なるほど、歌えって言われませんか？",
+            "timestamp": "2022-08-25T18:15:16.197000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EW",
+            "text": "途中参戦します",
+            "timestamp": "2022-08-25T18:15:22.116000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BJ",
+            "text": "サビからとか？",
+            "timestamp": "2022-08-25T18:15:28.435000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EW",
+            "text": "そうです",
+            "timestamp": "2022-08-25T18:15:30.479000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BJ",
+            "text": "上手ですか？",
+            "timestamp": "2022-08-25T18:15:40.402000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EW",
+            "text": "上手じゃないと思います笑",
+            "timestamp": "2022-08-25T18:15:50.464000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BJ",
+            "text": "そうなんですね。でも楽しめるならいいですね",
+            "timestamp": "2022-08-25T18:16:09.965000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EW",
+            "text": "楽しいのでgoodです、カラオケによく行きますか",
+            "timestamp": "2022-08-25T18:16:24.180000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BJ",
+            "text": "まあまあですね、最近行ってないです。特にコロナ後",
+            "timestamp": "2022-08-25T18:16:38.418000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EW",
+            "text": "行ってた頃はどんな曲を歌うのですか",
+            "timestamp": "2022-08-25T18:16:51.209000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BJ",
+            "text": "うーん、無難にみんなが盛り上がるようなのとか、ミスチルとか",
+            "timestamp": "2022-08-25T18:17:10.761000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EW",
+            "text": "一人で行くことはないですか",
+            "timestamp": "2022-08-25T18:17:35.499000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BJ",
+            "text": "前はありましたよ！しょっちゅうストレス発散に",
+            "timestamp": "2022-08-25T18:17:48.426000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EW",
+            "text": "歌うのが好きですか？",
+            "timestamp": "2022-08-25T18:17:55.273000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BJ",
+            "text": "嫌いではないですね",
+            "timestamp": "2022-08-25T18:18:05.082000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EW",
+            "text": "そうなんですね",
+            "timestamp": "2022-08-25T18:18:17.762000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "EW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        }
+    ]
+}

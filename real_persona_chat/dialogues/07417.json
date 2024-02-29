@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7417,
+    "interlocutors": [
+        "DG",
+        "AH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-02T16:19:00.458000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AH",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-02T16:19:19.572000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "旅行とかどこか行かれましたか？",
+            "timestamp": "2022-08-02T16:20:13.275000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AH",
+            "text": "私は会社の保養所のようなところに行きました。",
+            "timestamp": "2022-08-02T16:20:33.492000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "保養所というと、どのような場所なのですか？",
+            "timestamp": "2022-08-02T16:21:02.520000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AH",
+            "text": "セルフでやることが多めのホテルみたいな感じですかね。",
+            "timestamp": "2022-08-02T16:21:55.620000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "なるほど、ご家族とかとの旅行みたいな感じですか？",
+            "timestamp": "2022-08-02T16:22:12.943000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AH",
+            "text": "そんな感じです。一般的なホテルよりも割安でした。",
+            "timestamp": "2022-08-02T16:22:51.314000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "お手軽なのは嬉しいですよね！",
+            "timestamp": "2022-08-02T16:23:29.771000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AH",
+            "text": "複数人で行くとやっぱり値段も気になってしまいます。",
+            "timestamp": "2022-08-02T16:23:57.722000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "そうですよね、一人では旅行とかされますか？",
+            "timestamp": "2022-08-02T16:24:26.298000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AH",
+            "text": "一人ではないですね。私はインドア派なので。",
+            "timestamp": "2022-08-02T16:24:48.810000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "そうなのですね！休日は何をされますか？",
+            "timestamp": "2022-08-02T16:25:17.417000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AH",
+            "text": "ゲームしたり、動画を見たり、横になっています。",
+            "timestamp": "2022-08-02T16:25:53.918000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "私もそういう日が一番好きです。ゲームはどんなのが好きですか？",
+            "timestamp": "2022-08-02T16:26:30.551000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AH",
+            "text": "手軽に始められるので、スマホのゲームをよくしています。",
+            "timestamp": "2022-08-02T16:26:58.134000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "私もスマホのパズル系をよくやります。あとは実況を見てしまいます。",
+            "timestamp": "2022-08-02T16:27:36.151000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AH",
+            "text": "私も高難易度のクエストなどは攻略動画みたいなのを見ます。",
+            "timestamp": "2022-08-02T16:28:09.427000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "昔はわざわざ本屋さんで攻略本を買っていたのに時代変わったなとおもいます。",
+            "timestamp": "2022-08-02T16:29:05.515000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AH",
+            "text": "最近は攻略本という言葉もあまり聞かなくなりましたからね。",
+            "timestamp": "2022-08-02T16:29:24.346000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "本当ですね、年齢がバレちゃいます笑",
+            "timestamp": "2022-08-02T16:29:54.236000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AH",
+            "text": "<DG>さんはゲーム以外で何かされてたりするのですか？",
+            "timestamp": "2022-08-02T16:30:33.438000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "映画が好きで、色々とみてはレビューを書いて自己満足しております。",
+            "timestamp": "2022-08-02T16:31:18.193000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AH",
+            "text": "映画いいですね。映画館で見るのですか？",
+            "timestamp": "2022-08-02T16:31:38.834000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "映画館も値上げがすごいので、最近はnetflixとプライムばかりですね。",
+            "timestamp": "2022-08-02T16:32:20.158000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AH",
+            "text": "最近色々なものが値上がりしていますからね。",
+            "timestamp": "2022-08-02T16:32:49.703000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "そうですね、食材も燃料も、暮らすのも大変ですよね。",
+            "timestamp": "2022-08-02T16:33:36.578000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AH",
+            "text": "最近開店寿司に行ったのですが、その時に値上がりを実感しました。",
+            "timestamp": "2022-08-02T16:34:36.348000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "なんでも１００円ではなくなりましたか？最近いってないです。",
+            "timestamp": "2022-08-02T16:35:39.597000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AH",
+            "text": "最近は200円のものなどが中心になってきました。",
+            "timestamp": "2022-08-02T16:35:59.362000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AH",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

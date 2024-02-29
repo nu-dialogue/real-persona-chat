@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10553,
+    "interlocutors": [
+        "AW",
+        "CS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "はじめまして",
+            "timestamp": "2022-08-14T10:11:41.392000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CS",
+            "text": "はじめまして！",
+            "timestamp": "2022-08-14T10:11:49.722000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "今年の夏は何か夏らしいことはしましたか？",
+            "timestamp": "2022-08-14T10:12:10.241000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CS",
+            "text": "この間バーベキューしましたよ",
+            "timestamp": "2022-08-14T10:12:33.746000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "いいですね。ご友人と？",
+            "timestamp": "2022-08-14T10:12:48.232000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CS",
+            "text": "家族で行きました。めっちゃ日焼けしました",
+            "timestamp": "2022-08-14T10:13:34.686000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "バーベキュー場みたいなところでやるんですか？",
+            "timestamp": "2022-08-14T10:14:07.329000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CS",
+            "text": "バーベキューができる海があって、そこでやりました",
+            "timestamp": "2022-08-14T10:14:31.638000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "いいですねー",
+            "timestamp": "2022-08-14T10:14:41.684000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CS",
+            "text": "準備は家族に任せて自分はひたすら食べてました",
+            "timestamp": "2022-08-14T10:15:06.876000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "私もバーベキュー行きたいなぁ",
+            "timestamp": "2022-08-14T10:15:17.414000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CS",
+            "text": "けいきさんは何か夏らしいことしましたか？",
+            "timestamp": "2022-08-14T10:15:37.362000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "私はまだ何もできていないですね。仕事が忙しくて、、",
+            "timestamp": "2022-08-14T10:16:04.162000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CS",
+            "text": "大変そうですね、もう8月中旬ですが夏らしいことできそうですか？",
+            "timestamp": "2022-08-14T10:16:39.718000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "お祭りにはいきたかったですが、もうどこも終わってるみたいですね",
+            "timestamp": "2022-08-14T10:16:58.795000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CS",
+            "text": "きっと探せばありますよ！",
+            "timestamp": "2022-08-14T10:17:23.764000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "ですかねー、隣県までいかないとないみたいで",
+            "timestamp": "2022-08-14T10:17:41.091000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね、コロナであまり開催されてなかったりするんでしょうか",
+            "timestamp": "2022-08-14T10:18:30.094000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "どうなんでしょうね、最近はもう関係なく開催されてるような気もします",
+            "timestamp": "2022-08-14T10:18:51.388000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CS",
+            "text": "ほかにはやりたいことないんですか？",
+            "timestamp": "2022-08-14T10:19:04.839000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "流しそうめんもしたいですね",
+            "timestamp": "2022-08-14T10:19:15.842000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CS",
+            "text": "いいですね！涼しそうで",
+            "timestamp": "2022-08-14T10:19:29.548000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "できるところ限られてるみたいで、これも隣県までいかないとないみたいです",
+            "timestamp": "2022-08-14T10:19:51.765000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CS",
+            "text": "そうなんですね、電車で行けない感じですか？",
+            "timestamp": "2022-08-14T10:20:31.906000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "車がないと厳しいみたいです。関東なんですけどね",
+            "timestamp": "2022-08-14T10:20:49.113000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CS",
+            "text": "じゃあ結構都心からは離れたところにあるんですね",
+            "timestamp": "2022-08-14T10:21:25.988000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "そうみたいですね。",
+            "timestamp": "2022-08-14T10:21:38.394000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CS",
+            "text": "8月中にお仕事がおちついたらいいですね",
+            "timestamp": "2022-08-14T10:22:14.455000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "はい、なんとかがんばります",
+            "timestamp": "2022-08-14T10:22:27.446000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CS",
+            "text": "がんばってください",
+            "timestamp": "2022-08-14T10:22:36.679000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

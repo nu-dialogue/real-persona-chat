@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4236,
+    "interlocutors": [
+        "DL",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんにちわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-09T14:18:04.601000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-09T14:18:12"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "今日はもう昼食は摂られましたか？",
+            "timestamp": "2022-09-09T14:18:25.240000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "今日はサンドイッチでした",
+            "timestamp": "2022-09-09T14:18:46"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "いいですね！手作りですか？",
+            "timestamp": "2022-09-09T14:18:54.095000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "カフェのランチです",
+            "timestamp": "2022-09-09T14:19:08"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "何だか凄く優雅な感じですね！カフェには良く行かれるんですか？",
+            "timestamp": "2022-09-09T14:19:30.566000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "休みの日はジムの後、安いカフェによります",
+            "timestamp": "2022-09-09T14:20:01"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "と言うことは、今日はお休みでしたか。",
+            "timestamp": "2022-09-09T14:20:12.932000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "はい、休みです",
+            "timestamp": "2022-09-09T14:20:35"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "私も今日はお休みでした。午前中にジムに行かれてたのですか？結構運動はされるのですか？",
+            "timestamp": "2022-09-09T14:21:13.311000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "休みの日はジムに行きます",
+            "timestamp": "2022-09-09T14:21:36"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "ジムでは泳いだりとかですか？それともエクササイズとか筋トレとかですか？",
+            "timestamp": "2022-09-09T14:22:04.924000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "1時間ほどの筋トレとランです",
+            "timestamp": "2022-09-09T14:22:24"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "お休みの日はと言うことは、毎週2回とかのペースで運動されている感じですかね？",
+            "timestamp": "2022-09-09T14:22:52.710000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "ですね。週二回は行きたいと思ってます。",
+            "timestamp": "2022-09-09T14:23:11"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "いいですね！健康的な感じです。結構体力は付きましたか？",
+            "timestamp": "2022-09-09T14:23:30.804000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "歳なので維持したい目的でやってます",
+            "timestamp": "2022-09-09T14:23:53"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "私も40に手が届く範囲なので、休みの日には筋トレしてますね。",
+            "timestamp": "2022-09-09T14:24:20.209000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "長い年、筋トレされていますか",
+            "timestamp": "2022-09-09T14:24:54"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "2年程ですね。私も1時間程を週２回って感じですね。",
+            "timestamp": "2022-09-09T14:25:21.278000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "2年続けばこの先もできそうですね",
+            "timestamp": "2022-09-09T14:25:45"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "体型が変わるのが面白くなってきましたね。そちらもそんな感じですか？",
+            "timestamp": "2022-09-09T14:26:02.425000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "体型維持が精一杯笑",
+            "timestamp": "2022-09-09T14:26:19"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "あはは。それでも充分だと思います。",
+            "timestamp": "2022-09-09T14:26:42.126000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "筋肉がなくならないようにと",
+            "timestamp": "2022-09-09T14:26:59"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "ですね。食生活にも気を付けたい所ですね。",
+            "timestamp": "2022-09-09T14:27:29.654000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "確かにカロリー注意かも",
+            "timestamp": "2022-09-09T14:28:31"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "ありますね！ついつい食べてしまうとか！",
+            "timestamp": "2022-09-09T14:28:41.703000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "いろいろ気を使いますね",
+            "timestamp": "2022-09-09T14:28:54"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

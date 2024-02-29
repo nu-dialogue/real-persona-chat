@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2712,
+    "interlocutors": [
+        "ER",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ER",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-23T17:56:48.269000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-23T17:56:54.664000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ER",
+            "text": "休日は何をして過ごされていますか？",
+            "timestamp": "2022-08-23T17:57:06.869000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "映画鑑賞か筋トレをしてます。",
+            "timestamp": "2022-08-23T17:57:19.712000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ER",
+            "text": "いいですね！どんな映画を見るんですか？",
+            "timestamp": "2022-08-23T17:57:42.764000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "何でもみますよ！最近はthe guiltyってやつ観ました。",
+            "timestamp": "2022-08-23T17:58:10.421000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ER",
+            "text": "もしかして電話の音だけで推理するやつですか？",
+            "timestamp": "2022-08-23T17:58:43.777000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "あ！そうです！観たことありますか？",
+            "timestamp": "2022-08-23T17:58:55.094000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ER",
+            "text": "はい、見たことあります。",
+            "timestamp": "2022-08-23T17:59:02.913000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "どうでしたか？",
+            "timestamp": "2022-08-23T17:59:11.276000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ER",
+            "text": "面白かったです。こちらの思い込みをうまく利用された感じでした！",
+            "timestamp": "2022-08-23T17:59:48.969000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "ですよね！まさか母親が犯人だったとはって感じですよね。",
+            "timestamp": "2022-08-23T18:00:07.997000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ER",
+            "text": "あれは驚きました！主人公の過去も良かったですね。",
+            "timestamp": "2022-08-23T18:00:44.525000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "ですね。あの仕事私には無理です。",
+            "timestamp": "2022-08-23T18:01:02.211000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ER",
+            "text": "ストレスがすごそうですね。",
+            "timestamp": "2022-08-23T18:01:13.678000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "はい。仕事終わっても考えちゃいそうですよね。",
+            "timestamp": "2022-08-23T18:01:28.426000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ER",
+            "text": "そうですよね、冷静に対処することもできないと思います。",
+            "timestamp": "2022-08-23T18:01:57.342000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "たしかに。あなたは休みの日何されます？",
+            "timestamp": "2022-08-23T18:02:33.645000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ER",
+            "text": "私も映画を見て過ごすことが多いです。",
+            "timestamp": "2022-08-23T18:02:57.096000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "最近何観ました？",
+            "timestamp": "2022-08-23T18:03:07.080000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ER",
+            "text": "プラットフォームという映画です。",
+            "timestamp": "2022-08-23T18:03:16.044000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "え！ブラピのやつでしたっけ？",
+            "timestamp": "2022-08-23T18:03:38.290000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ER",
+            "text": "いえ、Netflixオリジナルの最近の映画です。",
+            "timestamp": "2022-08-23T18:04:04.149000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "今調べましたが、全然違いました。面白かったですか？",
+            "timestamp": "2022-08-23T18:04:25.683000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ER",
+            "text": "はい、面白かったですよ。全体的に意味深な感じでした。",
+            "timestamp": "2022-08-23T18:04:44.871000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "閉じ込められる系ですか？",
+            "timestamp": "2022-08-23T18:04:58.261000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ER",
+            "text": "そうですね。閉じ込められて食事が上から降りてくるという話です。",
+            "timestamp": "2022-08-23T18:05:15.495000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "面白そうです。マイリストに追加します。",
+            "timestamp": "2022-08-23T18:05:28.684000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ER",
+            "text": "ぜひ見てみてください。",
+            "timestamp": "2022-08-23T18:05:35.763000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-08-23T18:05:38.677000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ER",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

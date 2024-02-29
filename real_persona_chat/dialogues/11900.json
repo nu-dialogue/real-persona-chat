@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11900,
+    "interlocutors": [
+        "CX",
+        "DE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-28T14:55:33.166000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DE",
+            "text": "こんにちは、お願いします！",
+            "timestamp": "2022-08-28T14:55:43.369000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "今日はこの後何をして過ごされますか？",
+            "timestamp": "2022-08-28T14:55:54.412000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DE",
+            "text": "１週間分の食材を買い出しに出ようと思ってます。",
+            "timestamp": "2022-08-28T14:56:14.001000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "スーパーとかに行って買い出しですか？",
+            "timestamp": "2022-08-28T14:56:39.126000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DE",
+            "text": "そうです。近所のスーパーに行きます。そちらはどんな予定ですか？",
+            "timestamp": "2022-08-28T14:57:06.392000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "私は知人とオンラインでお話します。",
+            "timestamp": "2022-08-28T14:57:26.724000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DE",
+            "text": "そうなんですね。お食事の準備はいつされる予定ですか？",
+            "timestamp": "2022-08-28T14:57:53.325000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "18時頃でしょうかね。",
+            "timestamp": "2022-08-28T14:58:06.974000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DE",
+            "text": "そうですか。何を召し上がるか決めていらっしゃいますか？",
+            "timestamp": "2022-08-28T14:58:23.897000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "晩御飯は味噌汁と魚の缶詰って決まっています。",
+            "timestamp": "2022-08-28T14:58:40.399000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DE",
+            "text": "魚の缶詰美味しいですよね。何の魚ですか？",
+            "timestamp": "2022-08-28T14:59:29.139000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "今日はイワシの蒲焼ですかね。",
+            "timestamp": "2022-08-28T14:59:47.784000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DE",
+            "text": "美味しそうです。たまに利用します。防災用品にも入れてます。いろんな種類をご用意されてるんですか？",
+            "timestamp": "2022-08-28T15:00:39.825000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "いえ、鯖の味噌煮とイワシの2種類です。",
+            "timestamp": "2022-08-28T15:01:01.125000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DE",
+            "text": "味噌煮もいいですね。ご飯に合いますよね。",
+            "timestamp": "2022-08-28T15:01:34.255000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "はい、でも最近太ってきて、ご飯は抜いています。",
+            "timestamp": "2022-08-28T15:01:55.185000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DE",
+            "text": "そうなんですか。私もコロナ太りして困りました。",
+            "timestamp": "2022-08-28T15:02:14.932000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "自宅にいたり、この夏の暑さで太ってしまいました。",
+            "timestamp": "2022-08-28T15:02:35.737000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DE",
+            "text": "ですよね。外に出たら色んな恐怖が待っているし。",
+            "timestamp": "2022-08-28T15:02:59.391000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "感染が落ち着いたら、少しジョギングとかしなきゃです。",
+            "timestamp": "2022-08-28T15:03:19.098000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DE",
+            "text": "お家の中でも出来る運動ってないでしょうかね？",
+            "timestamp": "2022-08-28T15:03:44.417000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "あると思います。Youtubeとかでそういう動画ありますね。",
+            "timestamp": "2022-08-28T15:04:00.816000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DE",
+            "text": "たしかに。コロナの時にエクササイズした覚えがあります。が続きませんでした。",
+            "timestamp": "2022-08-28T15:04:37"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "やっぱり1人で自宅でやってると今ひとつ続かないですよね。",
+            "timestamp": "2022-08-28T15:04:57.777000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DE",
+            "text": "ですよねえ。やっぱり外の空気を思いきり吸い込んで有酸素運動したいものですね。",
+            "timestamp": "2022-08-28T15:05:34.385000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "そうですね、公園とかで新鮮な空気を吸いながら運動したいです。",
+            "timestamp": "2022-08-28T15:05:53.401000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DE",
+            "text": "早くそんな日が来るといいですね！",
+            "timestamp": "2022-08-28T15:06:12.430000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "実際は来年くらいですかね。早くきて欲しいですね。",
+            "timestamp": "2022-08-28T15:06:37.356000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DE",
+            "text": "明けない夜はないですね！ありがとうございました。",
+            "timestamp": "2022-08-28T15:06:59.890000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

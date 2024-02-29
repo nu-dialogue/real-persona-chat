@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10667,
+    "interlocutors": [
+        "DN",
+        "FF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-02T12:13:20.190000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FF",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-02T12:13:23.842000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "ご一緒にお住まいのご家族についてお伺いしてもよろしいでしょうか",
+            "timestamp": "2022-09-02T12:13:41.684000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FF",
+            "text": "妻と小学生の息子ですね。大きくなりました。",
+            "timestamp": "2022-09-02T12:13:54.971000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "私は夫と2人ですが、2人大学生の息子が県外にいます。",
+            "timestamp": "2022-09-02T12:14:14.483000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FF",
+            "text": "それは、もう大先輩ですね！",
+            "timestamp": "2022-09-02T12:14:25.382000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "いえ、私は子育てに失敗した方なんです。",
+            "timestamp": "2022-09-02T12:14:42.216000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FF",
+            "text": "あら、それはいったいどういうことですか？",
+            "timestamp": "2022-09-02T12:14:56.709000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "上の息子とは折り合いが悪くて、中高校の頃は大変でした。",
+            "timestamp": "2022-09-02T12:15:19.277000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FF",
+            "text": "なるほど。確かに反抗期が来るのは恐ろしいですね。",
+            "timestamp": "2022-09-02T12:15:34.529000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "学校が忙しくて、子供の意向を十分に聞いてやれませんでした。",
+            "timestamp": "2022-09-02T12:16:00.517000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FF",
+            "text": "後悔してらっしゃるんですね。",
+            "timestamp": "2022-09-02T12:16:15.958000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "はい。その子は大学に入って不登校になってしまって、いまも苦労しています。",
+            "timestamp": "2022-09-02T12:16:34.963000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FF",
+            "text": "そうでしたか。昨今は不登校やニートはもう珍しくない感じがしますね。",
+            "timestamp": "2022-09-02T12:16:57.399000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "そうですね。子供の気持ちを無視した教育内容が多すぎると感じています。",
+            "timestamp": "2022-09-02T12:17:22.254000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FF",
+            "text": "特にこれが、と言うのはありますか？",
+            "timestamp": "2022-09-02T12:17:34.552000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "与える分量が全体的に多すぎると思うのです。",
+            "timestamp": "2022-09-02T12:17:51.310000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FF",
+            "text": "勉強とか、ノルマのようなものがと言う事ですか？それとも遊びやおもちゃ的な事ですか？",
+            "timestamp": "2022-09-02T12:18:30.112000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "勉強が非人間的な分量だと思います。",
+            "timestamp": "2022-09-02T12:18:44.247000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FF",
+            "text": "なるほど。私はあまり学がないものでちゃんとしてる方からするとそうなのかもしれませんね。",
+            "timestamp": "2022-09-02T12:19:18.886000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "いいえ。もう少し子供の希望を聞いて勉強の分量が選べるとよいのになと思います。",
+            "timestamp": "2022-09-02T12:19:48.855000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FF",
+            "text": "私はまともに勉強しなかったのでその意味では選んだのかもしれませんね。少し後悔してますが。",
+            "timestamp": "2022-09-02T12:20:13.428000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "いいえ、本当はその方がよいですよね。納得して進路を決めた方が。",
+            "timestamp": "2022-09-02T12:20:42.867000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FF",
+            "text": "そうですね。誰かに決められるのは避けたいですね。親としては良い道を示したいですが。",
+            "timestamp": "2022-09-02T12:21:12.515000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "お子さんとは毎日楽しい時間を過ごされていらっしゃいますか？",
+            "timestamp": "2022-09-02T12:21:32.778000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FF",
+            "text": "今は私の帰りを待ってくれて新しいゲームを一緒にやっています。",
+            "timestamp": "2022-09-02T12:21:54.857000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "それはお子さんにとっても素敵な時間ですよね。私もそうしてあげればよかったな。",
+            "timestamp": "2022-09-02T12:22:15.482000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FF",
+            "text": "悪さも多少はするので怒るのと一緒に遊ぶのとのバランスは難しいですよね。",
+            "timestamp": "2022-09-02T12:22:44.919000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "それはそうですが、きっと大きくなられたら理解してくれると思いますよ。",
+            "timestamp": "2022-09-02T12:23:10.493000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FF",
+            "text": "そうですね。頑張りたいと思います！",
+            "timestamp": "2022-09-02T12:23:22.829000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

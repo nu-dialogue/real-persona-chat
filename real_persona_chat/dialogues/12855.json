@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12855,
+    "interlocutors": [
+        "DA",
+        "FI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DA",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-13T16:23:04.171000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FI",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-13T16:23:09.144000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DA",
+            "text": "最近楽しかったことはありますか？",
+            "timestamp": "2022-09-13T16:23:29.959000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FI",
+            "text": "何だろう。パッと思いつくことがないですね。あなたは何かありました？",
+            "timestamp": "2022-09-13T16:23:56.195000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DA",
+            "text": "わたしは昨日三軒茶屋であそんだのが楽しかったです",
+            "timestamp": "2022-09-13T16:24:20.123000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FI",
+            "text": "おー！何かおいしいものとか食べたり散策したりとかですか？",
+            "timestamp": "2022-09-13T16:24:53.015000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DA",
+            "text": "おしゃカフェのあとに、おしゃ居酒屋に行きました！都会すごい！",
+            "timestamp": "2022-09-13T16:25:15.916000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FI",
+            "text": "いいなあ！最近あまり外飲みしてないです！お酒お好きですか？",
+            "timestamp": "2022-09-13T16:25:49.521000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DA",
+            "text": "あまり飲めないですが友人と行くのは楽しいので好きです！飲みますか？",
+            "timestamp": "2022-09-13T16:26:07.100000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FI",
+            "text": "私はぼちぼち飲みますかね！おしゃ居酒屋だったらおしゃ酒とかあったのでは？",
+            "timestamp": "2022-09-13T16:27:05.085000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DA",
+            "text": "ありました、、果物のサワーがド派手ですごかったです",
+            "timestamp": "2022-09-13T16:27:28.472000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FI",
+            "text": "ええ！何それ！想像つかないです！",
+            "timestamp": "2022-09-13T16:27:47.138000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DA",
+            "text": "桃、ドラゴンフルーツ、イチジクがそのまま出てくるんです！",
+            "timestamp": "2022-09-13T16:28:08.471000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FI",
+            "text": "インパクト！一緒に食べつつ飲むみたいな？？？",
+            "timestamp": "2022-09-13T16:28:32.029000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DA",
+            "text": "それを、絞る？？みたいなので果汁をお酒の中に入れました",
+            "timestamp": "2022-09-13T16:29:09.938000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FI",
+            "text": "す、すごい。しかもドラゴンフルーツとか食べたことないですよ人生で。",
+            "timestamp": "2022-09-13T16:29:18.351000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！確かにわたし沖縄以外で初めて見てびっくりしました。甘いお酒飲みますか？",
+            "timestamp": "2022-09-13T16:30:00.887000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FI",
+            "text": "沖縄にはたしかに普通にありそうですね。甘いのは時々です！基本ビールが多いかも。",
+            "timestamp": "2022-09-13T16:30:41.948000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！ビールの種類とかも詳しいですか？",
+            "timestamp": "2022-09-13T16:31:09.343000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FI",
+            "text": "イヤイヤ全然！おいしければオッケー！みたいなところがあります。",
+            "timestamp": "2022-09-13T16:31:50.017000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DA",
+            "text": "おいしいやつありますか？？あまり飲まないので気になります！",
+            "timestamp": "2022-09-13T16:32:06.616000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FI",
+            "text": "なんだろう。飲むならあっさり系がお好きですかね？",
+            "timestamp": "2022-09-13T16:32:39.459000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DA",
+            "text": "癖はない方が飲み始めやすいかもです！",
+            "timestamp": "2022-09-13T16:33:01.603000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FI",
+            "text": "メジャーだと、ヒューガルデンとかは飲みやすいかと。時々おしゃ居酒屋とかにもあります。",
+            "timestamp": "2022-09-13T16:33:32.006000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DA",
+            "text": "そうなのですね！！今度頼んでみます、、！！どんなビールなのですか？",
+            "timestamp": "2022-09-13T16:34:01.297000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FI",
+            "text": "ちょっとフルーティーで軽い感じです！スーパーの普通のビールと比べると飲みやすいかもです。",
+            "timestamp": "2022-09-13T16:35:00.524000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DA",
+            "text": "フルーティー？！！メチャ気になります！！",
+            "timestamp": "2022-09-13T16:35:17.941000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FI",
+            "text": "スーパーとかでも時々見かけますよ。",
+            "timestamp": "2022-09-13T16:35:52.190000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DA",
+            "text": "探してみます！教えてくれてありがとうございます！",
+            "timestamp": "2022-09-13T16:36:07.787000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FI",
+            "text": "いえいえこちらこそ、いろいろとありがとうございました！",
+            "timestamp": "2022-09-13T16:36:22.974000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

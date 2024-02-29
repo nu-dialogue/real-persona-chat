@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9191,
+    "interlocutors": [
+        "DQ",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DQ",
+            "text": "こんにちは、宜しくお願いします！",
+            "timestamp": "2022-08-18T13:56:39.239000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こちらこそ、よろしくお願いします！",
+            "timestamp": "2022-08-18T13:56:47.833000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DQ",
+            "text": "午前中は雨が降り、少し涼しくなりました。そちらはどうですか？",
+            "timestamp": "2022-08-18T13:57:05.099000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "こっちは昨日は大雨で、今朝から晴れてきました。少しだけ涼しくなってます！",
+            "timestamp": "2022-08-18T13:57:23.828000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DQ",
+            "text": "今年も猛暑でしたね！",
+            "timestamp": "2022-08-18T13:57:34.246000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "本当にそうですよね。例年よりも厳しい夏って気がします。",
+            "timestamp": "2022-08-18T13:57:55.494000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DQ",
+            "text": "ご家族の方も、熱中症とか大丈夫でしたか？",
+            "timestamp": "2022-08-18T13:58:14.664000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "ずっとクーラー付けっぱなしで、今のところ何とか大丈夫ですね。",
+            "timestamp": "2022-08-18T13:58:37.214000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DQ",
+            "text": "クーラー、今年は必需品でしたね。",
+            "timestamp": "2022-08-18T13:58:47.658000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "もう手放せませんね。停電とか故障とか思うと、ぞっとします。",
+            "timestamp": "2022-08-18T13:59:05.545000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DQ",
+            "text": "もう20年前に購入したので、いつ壊れるかひやひやですが。。",
+            "timestamp": "2022-08-18T13:59:21.820000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "20年ですか！物持ちがいい方なんですね！",
+            "timestamp": "2022-08-18T13:59:33.821000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DQ",
+            "text": "今年実家に帰ってきたので、使ってない時期が長かっただけなんです。",
+            "timestamp": "2022-08-18T13:59:54.748000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "なるほど。実家は何かと年季の入った家電多いですよね。電子レンジとか。",
+            "timestamp": "2022-08-18T14:00:19.314000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DQ",
+            "text": "そうなんです。とにかく燃費が悪そうで。。",
+            "timestamp": "2022-08-18T14:00:31.830000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "たしかに。家電も定期的に買い替えた方が、電気代とか節約になるらしいですね。",
+            "timestamp": "2022-08-18T14:00:53.184000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DQ",
+            "text": "特にクーラーは電力大きいみたいですし、最近の省エネはすごいみたいですね！",
+            "timestamp": "2022-08-18T14:01:15.464000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "もう20年ですし、この夏が終わったらそろそろ買い替えを検討してもいいかもですね。",
+            "timestamp": "2022-08-18T14:01:33.721000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DQ",
+            "text": "ほんと、その方が、安上がりかもしれません。",
+            "timestamp": "2022-08-18T14:01:50.106000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "こう言ってるうちのエアコンももう9年なので、ちょっと点検受けた方がいいかもですが。",
+            "timestamp": "2022-08-18T14:02:10.876000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DQ",
+            "text": "大体家電は10年とか言われますもんね。",
+            "timestamp": "2022-08-18T14:02:24.954000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "そうですね。急に壊れちゃったら怖いので。こまめに手入れしないとですね。",
+            "timestamp": "2022-08-18T14:02:43.990000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DQ",
+            "text": "今猫がパソコンのボタン押しそうで、焦りました！",
+            "timestamp": "2022-08-18T14:03:07.225000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "あら、猫ちゃんいるんですね！よく懐いてくるんですか？",
+            "timestamp": "2022-08-18T14:03:21.389000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DQ",
+            "text": "ほとんど寝てて、あまり抱っこさせてくれないのです。。",
+            "timestamp": "2022-08-18T14:03:30.613000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "ツンデレなのですね。何歳ですか？",
+            "timestamp": "2022-08-18T14:03:41.952000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DQ",
+            "text": "今年3歳です。",
+            "timestamp": "2022-08-18T14:04:24.689000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "まだ若くて、普通はもうちょっと活発なはずですよね。個体の性格にもよりますかね。",
+            "timestamp": "2022-08-18T14:04:47.884000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DQ",
+            "text": "そうかもしれないです、ちょっと太ってしまって。。",
+            "timestamp": "2022-08-18T14:05:06.762000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "猫ちゃんも太るんですね！飼ったことないので、初めて知りました！",
+            "timestamp": "2022-08-18T14:05:24.305000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12128,
+    "interlocutors": [
+        "DC",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DC",
+            "text": "こんばんはー！",
+            "timestamp": "2022-09-03T19:22:39.116000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T19:22:41.062000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DC",
+            "text": "今年の夏は、どこか旅行とか行かれましたか？",
+            "timestamp": "2022-09-03T19:22:55.448000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "まだ行ってないです！！",
+            "timestamp": "2022-09-03T19:23:13.057000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DC",
+            "text": "私もですー。なかなかこのご時世だといけないですよね。",
+            "timestamp": "2022-09-03T19:23:33.497000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "そうですよね．でも実は来週旅行を計画してるんです．",
+            "timestamp": "2022-09-03T19:24:02.929000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DC",
+            "text": "ええ！？気になります！どんなご旅行で？",
+            "timestamp": "2022-09-03T19:24:16.425000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "熱海にいきます．",
+            "timestamp": "2022-09-03T19:24:26.984000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DC",
+            "text": "わああ、すっごくいいですね。熱海かぁ。ちょっと憧れます。",
+            "timestamp": "2022-09-03T19:24:45.991000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "去年に行く予定だったんですけど，中止になってしまいまして",
+            "timestamp": "2022-09-03T19:25:11.763000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DC",
+            "text": "満を辞して！ですね。温泉旅館ですか？",
+            "timestamp": "2022-09-03T19:25:25.087000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "温泉も含めていろんな観光ですね！美味しいもの食べたり！",
+            "timestamp": "2022-09-03T19:25:51.771000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DC",
+            "text": "わーいいないいな！熱海の名物って何でしょう？",
+            "timestamp": "2022-09-03T19:26:10.293000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "海鮮を食べたいなと思っています！",
+            "timestamp": "2022-09-03T19:26:26.949000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DC",
+            "text": "ぐぬぬ、絶対美味しいやつ。他には、観光とかは？",
+            "timestamp": "2022-09-03T19:26:50.361000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "有名な美術館があるらしくて，初日はそこに行く予定です！",
+            "timestamp": "2022-09-03T19:27:05.913000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DC",
+            "text": "おお、文化的ですね。やっぱり海が見えたりするんでしょうか。きっとすてきですね！",
+            "timestamp": "2022-09-03T19:27:35.360000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "MOA美術館っていうんですけど，とても素敵なところですよ！",
+            "timestamp": "2022-09-03T19:27:51.161000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DC",
+            "text": "わぁ、それで、その後温泉、ですね！最高です！",
+            "timestamp": "2022-09-03T19:28:16.910000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "楽しみです！美術館行くのが結構好きで，旅行で近くにあったら必ず行っているかも",
+            "timestamp": "2022-09-03T19:28:47.094000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DC",
+            "text": "いいですね、美術館は地域性もあるし、その時しか見られない展示は特別感ありますよね。",
+            "timestamp": "2022-09-03T19:29:17.007000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "行った美術館でポストカードを買って帰るのが恒例なんです！",
+            "timestamp": "2022-09-03T19:29:46.596000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DC",
+            "text": "あああ、わかりますー！私も実は美術館結構好きで。ポストカードコレクションしてます。",
+            "timestamp": "2022-09-03T19:30:12.509000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "気が合いますね！私は家の壁とかに貼って楽しんでいます．",
+            "timestamp": "2022-09-03T19:30:40.966000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DC",
+            "text": "家に貼るのも同じです！ふふふ。熱海の美術館は知らなかったので、必ず私も行きますね！",
+            "timestamp": "2022-09-03T19:31:12.959000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "ぜひ！",
+            "timestamp": "2022-09-03T19:31:52.133000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DC",
+            "text": "ご旅行、晴れますように！",
+            "timestamp": "2022-09-03T19:32:08.412000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "ありがとうございます！おやすみが出来たらどこかに行ってリフレッシュしてくださいね！",
+            "timestamp": "2022-09-03T19:32:45.041000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DC",
+            "text": "お話を聞いて、私もいてもたってもいられなくなりました。ありがとうございます！",
+            "timestamp": "2022-09-03T19:33:07.452000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "ありがとうございました！またお話ししましょうー！！",
+            "timestamp": "2022-09-03T19:33:20.237000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

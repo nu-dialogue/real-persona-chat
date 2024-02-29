@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8721,
+    "interlocutors": [
+        "AD",
+        "EY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんばんは、よろしくお願いします！",
+            "timestamp": "2022-08-22T23:26:18.847000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EY",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-08-22T23:26:44.112000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日はお仕事でしたか？",
+            "timestamp": "2022-08-22T23:26:49.934000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EY",
+            "text": "はい、お仕事でたった今帰ってきました。",
+            "timestamp": "2022-08-22T23:27:13.840000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "遅くまでお疲れ様です。",
+            "timestamp": "2022-08-22T23:27:29.424000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EY",
+            "text": "ありがとうございます。でも仕事時間は短かったのでそれほど疲れてはいないんですよ。",
+            "timestamp": "2022-08-22T23:27:59.119000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "短かったんですね。午後からとかですか？",
+            "timestamp": "2022-08-22T23:28:06.673000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EY",
+            "text": "今日は夕方の５時から夜の１０時まででした。",
+            "timestamp": "2022-08-22T23:28:40.103000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "確かに、長時間ではないですね。でも夜遅くに帰ってくると、何もできなくないですか？",
+            "timestamp": "2022-08-22T23:29:04.681000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EY",
+            "text": "何かしてたらすぐ寝ないといけない時間になるのであまりしたいことができませんね。",
+            "timestamp": "2022-08-22T23:29:46.868000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "ですよね。私は早くに仕事して早くに終わらせたいタイプなので。",
+            "timestamp": "2022-08-22T23:30:15.501000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EY",
+            "text": "その方が早く帰ってからしたいことができるのでいいと思います。",
+            "timestamp": "2022-08-22T23:30:50.955000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "朝起きるの苦手な人は、ゆっくり始められる仕事の方が良いと思いますが、あなたはどっちのタイプですか？",
+            "timestamp": "2022-08-22T23:31:08.643000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EY",
+            "text": "出勤時間が短ければそこまで早起きしなくてもいいのでそれで９時から始業なら大丈夫かなといったところです",
+            "timestamp": "2022-08-22T23:33:12.854000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね。出勤時間が短いというのは通勤時間のことですか？",
+            "timestamp": "2022-08-22T23:33:53.133000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EY",
+            "text": "あ、そうです。間違えました。",
+            "timestamp": "2022-08-22T23:34:50.732000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "私は片道1時間45分かけていますが、あなたはどこまでなら許せますか？通勤時間",
+            "timestamp": "2022-08-22T23:35:16.936000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EY",
+            "text": "１時間が限度かもしれません。でないと朝早起きしないとなのでしんどいかもです。",
+            "timestamp": "2022-08-22T23:36:44.609000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "早起き苦手なんですね。",
+            "timestamp": "2022-08-22T23:36:54.700000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EY",
+            "text": "以前就いていた仕事は朝５時半から６時には起きていたのですがそれでもかなりしんどかったですね。",
+            "timestamp": "2022-08-22T23:37:38.551000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "早いですね。今はゆっくりで辛いってことはなさそうですか？",
+            "timestamp": "2022-08-22T23:38:13.861000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EY",
+            "text": "ゆっくりで辛いことはないですが今就いている仕事が拘束時間が長くて帰るのが遅くなるのがネックです。",
+            "timestamp": "2022-08-22T23:40:02.076000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "それは辛いですね。通勤時間は短いんですか？",
+            "timestamp": "2022-08-22T23:40:12.707000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EY",
+            "text": "普段は自転車なんですが、行きと帰りで時間が変わるんですよね。行きは２５分ですかね。",
+            "timestamp": "2022-08-22T23:41:20.925000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "行き早いですね。帰りは時間かかるんですか？",
+            "timestamp": "2022-08-22T23:41:30.089000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EY",
+            "text": "京都市はかなり地形が斜面になってまして北から南に下るのは斜面が下りなので早いんです。",
+            "timestamp": "2022-08-22T23:43:25.267000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "帰りが北から南に下がる感じですか？",
+            "timestamp": "2022-08-22T23:43:58.498000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EY",
+            "text": "帰りは北から南に上るようになるので時間がかかるということです。",
+            "timestamp": "2022-08-22T23:44:29.541000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね。どれくらいかかるんですか？",
+            "timestamp": "2022-08-22T23:44:42.490000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EY",
+            "text": "自分の足の疲れ具合にもよりますが、帰りが４０分から５０分くらいはかかります。",
+            "timestamp": "2022-08-22T23:45:42.201000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AD",
+            "text": "行きと倍かかって大変ですね。頑張ってくださいね。",
+            "timestamp": "2022-08-22T23:45:53.057000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

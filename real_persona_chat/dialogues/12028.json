@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12028,
+    "interlocutors": [
+        "BR",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-31T15:50:46.578000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-31T15:50:54.285000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "旅行はお好きですか？私は旅が趣味です。",
+            "timestamp": "2022-08-31T15:51:03.379000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "好きです。コロナでだいぶ行きづらくなりましたが。",
+            "timestamp": "2022-08-31T15:51:18.188000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。コロナ前は頻繁に行ってらっしゃいましたか？",
+            "timestamp": "2022-08-31T15:51:35.274000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "1年に2度ほどは行ってましたかね。",
+            "timestamp": "2022-08-31T15:51:53.917000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！国内ですか？海外ですか？",
+            "timestamp": "2022-08-31T15:52:05.076000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "国内です。そちらはどうですか？",
+            "timestamp": "2022-08-31T15:52:20.562000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "私はコロナの半年くらい前まで8年ほど海外をうろうろしていました。国内もよく行きます。",
+            "timestamp": "2022-08-31T15:52:38.650000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね、海外はどの国がお好きですか？",
+            "timestamp": "2022-08-31T15:53:02.406000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "基準にもよりますが、台湾やオーストラリア、ジョージアがよかったですね。",
+            "timestamp": "2022-08-31T15:53:23.753000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "なるほど。そのあたりはどういった点が気に入りましたか？",
+            "timestamp": "2022-08-31T15:53:48.275000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "台湾は食、人、昔の日本が感じられる。オーストラリアは大自然。ジョージアはワインでした。",
+            "timestamp": "2022-08-31T15:54:15.875000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "国それぞれに良さがあるのですね。",
+            "timestamp": "2022-08-31T15:54:40.662000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "そうですね！フィリピンやマレーシアも人がよかったですね。",
+            "timestamp": "2022-08-31T15:54:56.562000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "そのあたりは物価とか旅費とかが安いイメージですが、どうですか？",
+            "timestamp": "2022-08-31T15:55:17.486000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "東南アジアは比較的安めですね。ホテルも安価なところがたくさんあります。",
+            "timestamp": "2022-08-31T15:55:34.675000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "よく安価な旅行先っていうので、そのあたりは名前が挙がってるような気がしました。",
+            "timestamp": "2022-08-31T15:56:00.414000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "ですね。でもあまり安いと汚かったり危なかったりするので、中ぐらいを目安にしてます。",
+            "timestamp": "2022-08-31T15:56:25.894000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "確かに海外は治安の問題がありますよね。",
+            "timestamp": "2022-08-31T15:56:38.775000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。でもフィリピンは思ったよりも危なくなくて逆にびっくりしました。",
+            "timestamp": "2022-08-31T15:56:54.406000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "ほぉ、それならヨーロッパとかの方が悪いかもですね。",
+            "timestamp": "2022-08-31T15:57:21.067000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよ！ギリシャが一番雰囲気怖い国でした。",
+            "timestamp": "2022-08-31T15:57:35.666000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "へぇ、すごい平和そうな国なのに。",
+            "timestamp": "2022-08-31T15:57:49.631000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "表はいいんですが、裏路地には薬中みたいな人たちがいることが多かったです。",
+            "timestamp": "2022-08-31T15:58:10.322000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "あぁ、表面はいいけど裏は、ってやつですね。",
+            "timestamp": "2022-08-31T15:58:35.806000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "ですね。通る道は選ばないと危険を感じました。",
+            "timestamp": "2022-08-31T15:58:49.961000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "良い面だけでなく悪い面も気にして旅行先は選ばないとですね。",
+            "timestamp": "2022-08-31T15:59:12.087000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "ですね。両方見れてやっとその国が見えてくる気がします。",
+            "timestamp": "2022-08-31T15:59:27.283000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "私もいつか海外の国行きたいですが、気をつけなきゃですね。",
+            "timestamp": "2022-08-31T15:59:44.647000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

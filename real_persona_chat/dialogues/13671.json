@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13671,
+    "interlocutors": [
+        "AW",
+        "HQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T19:10:12.498000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HQ",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-10-01T19:10:18.300000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AW",
+            "text": "最近買った本は何かありますか？",
+            "timestamp": "2022-10-01T19:11:12.217000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HQ",
+            "text": "VBAの本を買いました",
+            "timestamp": "2022-10-01T19:11:25.575000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AW",
+            "text": "Excelですね。仕事で使うんですか？",
+            "timestamp": "2022-10-01T19:11:41.473000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HQ",
+            "text": "はい。業務効率化に使えるときいたのでやってみようかと",
+            "timestamp": "2022-10-01T19:12:36.149000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AW",
+            "text": "どう使うかが割と大事だったりしますね",
+            "timestamp": "2022-10-01T19:13:21.772000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HQ",
+            "text": "そうですね、何ができるかを把握しないとなっておもいます",
+            "timestamp": "2022-10-01T19:13:38.344000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AW",
+            "text": "あとバグとかエラーがあるかもしれないので、最初は最小規模で使うほうがいいですよ",
+            "timestamp": "2022-10-01T19:14:08.632000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HQ",
+            "text": "あなたはVBAがっつりつかってるんですか？",
+            "timestamp": "2022-10-01T19:14:26.002000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AW",
+            "text": "仕事がエンジニアなので、プログラミング系のことは大体わかります",
+            "timestamp": "2022-10-01T19:14:43.101000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HQ",
+            "text": "そうなんですね",
+            "timestamp": "2022-10-01T19:14:51.368000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AW",
+            "text": "VBA使いこなせるようになってそれが周りに知られるといろいろ頼まれるようになるかと",
+            "timestamp": "2022-10-01T19:15:33.358000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HQ",
+            "text": "ですよね",
+            "timestamp": "2022-10-01T19:15:45.792000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AW",
+            "text": "はい、それで余計仕事が増えた人を知ってます",
+            "timestamp": "2022-10-01T19:16:07.501000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HQ",
+            "text": "あまり知られないようにしないとですね",
+            "timestamp": "2022-10-01T19:16:21.244000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AW",
+            "text": "はい、でもやり方によってはかなり時間効率化できると思います。",
+            "timestamp": "2022-10-01T19:17:32.743000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HQ",
+            "text": "事務処理の手作業が多くて、決まり事も多いのでもう限界で。",
+            "timestamp": "2022-10-01T19:17:55.523000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AW",
+            "text": "事務処理ならVBAはかなり役立つんじゃないかなぁ",
+            "timestamp": "2022-10-01T19:18:18.590000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HQ",
+            "text": "ほんとはExcelじゃなくてスプレッドシート使うようにしてほしいんですけどね",
+            "timestamp": "2022-10-01T19:18:53.894000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AW",
+            "text": "なんでですか？",
+            "timestamp": "2022-10-01T19:19:01.308000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HQ",
+            "text": "Excel有料ですけど、スプレッドシートは無料なので勉強しやすいんですよね",
+            "timestamp": "2022-10-01T19:19:25.463000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AW",
+            "text": "あー、たしかにそうですね。",
+            "timestamp": "2022-10-01T19:19:33.941000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HQ",
+            "text": "ネットつながらなくなったら終わりですけどね",
+            "timestamp": "2022-10-01T19:20:23.281000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AW",
+            "text": "中小企業だとスプレッドシート使う会社増えてると思います",
+            "timestamp": "2022-10-01T19:20:38.969000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HQ",
+            "text": "そうですよね",
+            "timestamp": "2022-10-01T19:20:47.658000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AW",
+            "text": "タダで使えるし。個人的にはマイクロソフトよりGoogleのほうが好きです。",
+            "timestamp": "2022-10-01T19:21:30.865000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HQ",
+            "text": "私もです。",
+            "timestamp": "2022-10-01T19:21:39.619000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AW",
+            "text": "一緒ですね",
+            "timestamp": "2022-10-01T19:21:46.607000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HQ",
+            "text": "ブラウザもchrome派です。",
+            "timestamp": "2022-10-01T19:22:10.436000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "HQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

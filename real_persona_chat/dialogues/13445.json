@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13445,
+    "interlocutors": [
+        "FE",
+        "GS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "はじめまして！",
+            "timestamp": "2022-09-22T21:17:29.720000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T21:17:34.984000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "朝のルーティーンとかあります？",
+            "timestamp": "2022-09-22T21:17:43.004000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GS",
+            "text": "そうですね、大学への通学時間で暗算やってるってくらいですかね。",
+            "timestamp": "2022-09-22T21:18:17.086000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "え、すごい。暗算って何でするんですか？",
+            "timestamp": "2022-09-22T21:18:32.354000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GS",
+            "text": "スマホのアプリでやってますよ！世界ランキング出るので面白いです！",
+            "timestamp": "2022-09-22T21:18:50.329000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "へえ！そんなのあるんですね、知らなかった！",
+            "timestamp": "2022-09-22T21:18:59.717000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GS",
+            "text": "全体の参加者数が5万人いるので、そこそこ多いと思います！",
+            "timestamp": "2022-09-22T21:19:33.251000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "5万人もやってるんですね。ちなみにアプリの名前教えてもらってもいいですか？",
+            "timestamp": "2022-09-22T21:19:48.464000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GS",
+            "text": "Ninimathsとかだったと思います！",
+            "timestamp": "2022-09-22T21:20:03.825000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "なるほど！調べてみます！",
+            "timestamp": "2022-09-22T21:20:19.996000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GS",
+            "text": "はい！このアプリはおすすめですよ。桁数とか自由に調整できるので。",
+            "timestamp": "2022-09-22T21:20:44.127000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "それいいですね、自分の能力に合わせてできるんですね！",
+            "timestamp": "2022-09-22T21:20:58.052000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GS",
+            "text": "そうですね！私はわり算が得意なので4桁÷2桁をよくしてます！",
+            "timestamp": "2022-09-22T21:21:26.330000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "すごいですね！私は割り算苦手ですー。がんばりたい。",
+            "timestamp": "2022-09-22T21:21:47.568000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GS",
+            "text": "では、かけ算とかはどうですか？",
+            "timestamp": "2022-09-22T21:22:10.818000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "掛け算得意です！そろばんやってたので、頭の中でできますし。",
+            "timestamp": "2022-09-22T21:22:25.490000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GS",
+            "text": "おお！私は2ケタ×2ケタが楽しいのでそればっかりやってます！",
+            "timestamp": "2022-09-22T21:22:58.643000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "いいですね！ぜひ私もやってみたいと思います！",
+            "timestamp": "2022-09-22T21:23:08.597000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GS",
+            "text": "おすすめです！ぜひランキング登録もしてみてください！",
+            "timestamp": "2022-09-22T21:23:27.684000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "もちろんです！",
+            "timestamp": "2022-09-22T21:23:36.018000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GS",
+            "text": "暗算得意ということで、フラッシュ暗算とかやったことあります？",
+            "timestamp": "2022-09-22T21:23:49.488000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "それはやったことないんですよー。できます？",
+            "timestamp": "2022-09-22T21:24:13.111000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GS",
+            "text": "2ケタならそこそこできますよ。",
+            "timestamp": "2022-09-22T21:24:29.430000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "すごいですね！今から鍛えてもできるんでしょうか。",
+            "timestamp": "2022-09-22T21:24:41.269000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GS",
+            "text": "鍛えたらできると思います！これもおすすめのアプリありますよ！",
+            "timestamp": "2022-09-22T21:24:58.426000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "これはまた別にあるんですね！どんなのですか？",
+            "timestamp": "2022-09-22T21:25:10.603000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GS",
+            "text": "暗算DXというアプリです！フラッシュ暗算に特化したものです！",
+            "timestamp": "2022-09-22T21:25:30.120000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "ほおお！調べてインストールしてみます！ありがとうございます！",
+            "timestamp": "2022-09-22T21:25:44.838000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GS",
+            "text": "いえいえ！",
+            "timestamp": "2022-09-22T21:25:51.488000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

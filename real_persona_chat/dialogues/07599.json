@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7599,
+    "interlocutors": [
+        "IE",
+        "BP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IE",
+            "text": "こんにちは。お昼に近づき暑くなってきましたね。",
+            "timestamp": "2022-08-03T11:54:26.724000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BP",
+            "text": "そうですね、今日こちらは38℃になるようです！",
+            "timestamp": "2022-08-03T11:54:39.328000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IE",
+            "text": "38℃？！もう発熱じゃないですか。。",
+            "timestamp": "2022-08-03T11:55:00.982000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BP",
+            "text": "日陰の気温なので、実際４０℃越えで辛いです。",
+            "timestamp": "2022-08-03T11:55:28.747000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IE",
+            "text": "もしかして日本でも暑さの厳しいでお馴染みのあたりですか。。",
+            "timestamp": "2022-08-03T11:55:59.700000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BP",
+            "text": "そうですね、盆地に住んでるんですよ。湿度も高めです。",
+            "timestamp": "2022-08-03T11:56:29.638000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IE",
+            "text": "うわぁ。暑中お見舞い申し上げます。",
+            "timestamp": "2022-08-03T11:56:45.232000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BP",
+            "text": "ありがとうございます。でも湿度が低いのか屋内はまだ大丈夫です。",
+            "timestamp": "2022-08-03T11:57:04.130000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IE",
+            "text": "湿度はいらないですよね、暑い時に。サウナですよ。",
+            "timestamp": "2022-08-03T11:57:39.790000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BP",
+            "text": "エアコンつけなければ、日中はサウナ状態で良い汗かけますよー。",
+            "timestamp": "2022-08-03T11:58:18.252000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IE",
+            "text": "その汗はちょっとお断りしたいですね。。",
+            "timestamp": "2022-08-03T11:58:45.009000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BP",
+            "text": "はい。そちらは暑さはどうですか？",
+            "timestamp": "2022-08-03T11:58:59.510000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IE",
+            "text": "そろそろエアコンがある部屋に移動したいなと思えてきました。まだ風はあるんですが。",
+            "timestamp": "2022-08-03T11:59:30.442000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BP",
+            "text": "風があるといいですよねー。ただこちらは熱風が吹き荒れたりします。",
+            "timestamp": "2022-08-03T12:00:00.798000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IE",
+            "text": "風があっても熱風だとしんどいですよね。そんな中、うちの姪バーイーツがお昼ご飯を持って来てくれました。",
+            "timestamp": "2022-08-03T12:00:45.316000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BP",
+            "text": "姪っ子さん、優しいですね！こんな時はデリバリーが助かりますね。",
+            "timestamp": "2022-08-03T12:01:16.281000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IE",
+            "text": "そうなんですよ！助かります。お好み焼きですが。暑い！！",
+            "timestamp": "2022-08-03T12:01:44.342000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BP",
+            "text": "夏にお好み焼き、お祭り気分ですねー。",
+            "timestamp": "2022-08-03T12:01:57.850000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IE",
+            "text": "そういえばお祭りにお好み焼きってありますね、最近は。",
+            "timestamp": "2022-08-03T12:02:15.463000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BP",
+            "text": "お好み焼き、たこ焼き、定番ですね！",
+            "timestamp": "2022-08-03T12:02:28.874000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IE",
+            "text": "串で食べられるお好み焼きもあるんですよね、お祭りだと。面白いです。",
+            "timestamp": "2022-08-03T12:02:56.657000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BP",
+            "text": "夏はお祭りですよね！ただ、自宅で作れるものは大人になってから買わなくなりました。",
+            "timestamp": "2022-08-03T12:03:21.641000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IE",
+            "text": "そう言われてみればそうですね！焼きそばとか買わないかも。",
+            "timestamp": "2022-08-03T12:03:50.830000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BP",
+            "text": "自分で作ったらいくらかな？ってつい考えるようになっちゃいました。",
+            "timestamp": "2022-08-03T12:04:17.718000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IE",
+            "text": "わかります。ただ、祭りのチープ感もきらいじゃないんですよね。",
+            "timestamp": "2022-08-03T12:04:42.514000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BP",
+            "text": "そうですねー。何かしら、買いたくなっちゃいますよね。",
+            "timestamp": "2022-08-03T12:05:20.234000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IE",
+            "text": "ベビーカステラだけはこの先も買わないと思いますけどね。。",
+            "timestamp": "2022-08-03T12:05:45.195000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BP",
+            "text": "子どもの頃は買ったりしましたけど、今はいいかなって思います。",
+            "timestamp": "2022-08-03T12:06:15.634000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IE",
+            "text": "口の中の水分が全部失われるのつらいですよね、あれ。",
+            "timestamp": "2022-08-03T12:06:46.219000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BP",
+            "text": "確かに！水分が必要ですよねー。",
+            "timestamp": "2022-08-03T12:07:04.180000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "IE",
+            "text": "喉が乾くとかじゃないのは面白いんですけどね。ありがとうございました！",
+            "timestamp": "2022-08-03T12:07:51.431000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6797,
+    "interlocutors": [
+        "DB",
+        "HT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-09T22:04:30.581000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HT",
+            "text": "こんばんわ",
+            "timestamp": "2022-10-09T22:04:39.649000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "旅行とかで行ってみたい場所ってありますか？",
+            "timestamp": "2022-10-09T22:04:48.432000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HT",
+            "text": "海外だったらヨーロッパ各地を回りたいですね",
+            "timestamp": "2022-10-09T22:05:11.713000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "わかります！私もヨーロッパめちゃくちゃ憧れます。",
+            "timestamp": "2022-10-09T22:05:24.101000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HT",
+            "text": "ヨーロッパどこも行ったことないですか？",
+            "timestamp": "2022-10-09T22:06:09.645000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "ないです。海外はまだ行ったことないです。",
+            "timestamp": "2022-10-09T22:06:21.861000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HT",
+            "text": "そうなんですね！ヨーロッパは特にどこに行きたいとかあります？",
+            "timestamp": "2022-10-09T22:06:46.129000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "イギリス行きたいです！",
+            "timestamp": "2022-10-09T22:06:54.190000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HT",
+            "text": "イギリス1度だけ行きましたよ！",
+            "timestamp": "2022-10-09T22:07:08.013000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "え！羨ましい！どうでしたか？",
+            "timestamp": "2022-10-09T22:07:16.293000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HT",
+            "text": "建物はやはり壮観でした！",
+            "timestamp": "2022-10-09T22:07:34.799000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "建物とか町の雰囲気が良さそうですよね。食べ物は？",
+            "timestamp": "2022-10-09T22:07:54.514000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HT",
+            "text": "外食はめちゃめちゃ高いので、友達の家で自炊が多かったです。ただホテルのアフタヌーンが良かったです",
+            "timestamp": "2022-10-09T22:08:29.019000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "本場のアフタヌーンティーは一度は行ってみたいです。",
+            "timestamp": "2022-10-09T22:08:45.987000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HT",
+            "text": "硬水で入れるからか、紅茶がめちゃくちゃ美味しかったです",
+            "timestamp": "2022-10-09T22:09:12.691000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": "そうなんですか！イギリスにご友人が住んでるんですか？",
+            "timestamp": "2022-10-09T22:09:43.176000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HT",
+            "text": "ワーホリで友達が留学していてその間を狙って遊びにいきました",
+            "timestamp": "2022-10-09T22:10:03.842000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "なるほど！それはいいですね。観光とかも結構したんですか？",
+            "timestamp": "2022-10-09T22:10:59.969000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HT",
+            "text": "そうですね、都市部の主要な観光地は一通り案内してもらいました",
+            "timestamp": "2022-10-09T22:11:20.912000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "いいなあ！どこが印象に残ってますか？",
+            "timestamp": "2022-10-09T22:11:08.507000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HT",
+            "text": "やはりバッキンガム宮殿ですね！",
+            "timestamp": "2022-10-09T22:11:18.108000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "行ってみたい場所の一つです。あと好きなドラマの撮影地なので聖地巡礼もしたいです。",
+            "timestamp": "2022-10-09T22:11:50.719000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HT",
+            "text": "ホームズですか？",
+            "timestamp": "2022-10-09T22:12:01.858000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "シャーロックっていうBBCのドラマなんです。",
+            "timestamp": "2022-10-09T22:12:17.867000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HT",
+            "text": "主演どなたですか？",
+            "timestamp": "2022-10-09T22:12:43.798000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "ベネディクト・カンバーバッチとマーティン・フリーマンです。現代版シャーロックホームズです。",
+            "timestamp": "2022-10-09T22:13:04.601000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HT",
+            "text": "あ、私それ見ました！アパートの入り口も行きました",
+            "timestamp": "2022-10-09T22:13:25.447000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "ええ！羨ましいです。ベーカー街のアパートですよね。",
+            "timestamp": "2022-10-09T22:13:46.097000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HT",
+            "text": "ですです！めっちゃ細くて狭かったです",
+            "timestamp": "2022-10-09T22:14:04.049000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

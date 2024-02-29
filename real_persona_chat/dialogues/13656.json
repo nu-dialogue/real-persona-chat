@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13656,
+    "interlocutors": [
+        "GR",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T20:03:51.758000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "こんばんは",
+            "timestamp": "2022-10-03T20:03:57.818000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "夜ご飯は食べましたか？",
+            "timestamp": "2022-10-03T20:04:11.438000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "そばを食べました",
+            "timestamp": "2022-10-03T20:04:17.583000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "手軽でおいしくていいですよね",
+            "timestamp": "2022-10-03T20:04:39.454000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "そばとうどんは重宝してますね",
+            "timestamp": "2022-10-03T20:05:23.674000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "麺類がお好きなんですか？",
+            "timestamp": "2022-10-03T20:05:33.609000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "麺類好きです。食欲がなくても食べれるので重宝してます",
+            "timestamp": "2022-10-03T20:06:40.974000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "じゃあ普段お米とかパンはあまり食べないんですか？",
+            "timestamp": "2022-10-03T20:07:00.591000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "米は食べるんですけど、パンは昔に比べると全然食べなくなりました",
+            "timestamp": "2022-10-03T20:07:35.962000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "どうしてですか？",
+            "timestamp": "2022-10-03T20:07:44.536000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "オーブンレンジに買い替えたらうまくパンが焼けなくなって食べなくなっちゃいました",
+            "timestamp": "2022-10-03T20:08:25.331000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "トースト機能ないんですか？",
+            "timestamp": "2022-10-03T20:08:35.414000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "あるんですが、全然焼けないんですよね",
+            "timestamp": "2022-10-03T20:08:47.868000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "なんででしょうね",
+            "timestamp": "2022-10-03T20:08:56.780000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "<GR>さんは何か食べましたか？",
+            "timestamp": "2022-10-03T20:09:10.035000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "まだ食べてないんですよー、何食べるか悩んでます",
+            "timestamp": "2022-10-03T20:10:25.763000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "辛いものとか濃厚なものとか、系統は決まってますか？",
+            "timestamp": "2022-10-03T20:10:58.243000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "無性にお茶漬けが食べたいかな",
+            "timestamp": "2022-10-03T20:11:31.678000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "いいですね。前におせんべいが入ってる梅茶漬け食べたんですけど、おいしかったです",
+            "timestamp": "2022-10-03T20:11:59.002000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "おせんべいですか。たしかにおいしそう",
+            "timestamp": "2022-10-03T20:12:16.070000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "塩昆布も入ってました。だしも昆布かな？",
+            "timestamp": "2022-10-03T20:12:51.988000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "ちょうど家に全部あるので、作ってみようかな",
+            "timestamp": "2022-10-03T20:13:12.209000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "ぜひ！うちは昆布がないので断念しました",
+            "timestamp": "2022-10-03T20:13:37.969000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "お茶漬けだけだと物足りないのでおかずがほしいですね",
+            "timestamp": "2022-10-03T20:14:05.117000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "魚ですかね？",
+            "timestamp": "2022-10-03T20:14:11.952000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "魚かぁ、買いに行かないとないです",
+            "timestamp": "2022-10-03T20:14:29.335000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "あとなんだろう、漬物とかになっちゃいますよね",
+            "timestamp": "2022-10-03T20:14:43.994000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "漬物でいいかなー、今日は家からでたくないです",
+            "timestamp": "2022-10-03T20:15:00.928000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "そういう日ありますよね",
+            "timestamp": "2022-10-03T20:15:11.720000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

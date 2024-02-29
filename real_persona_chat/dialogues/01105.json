@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1105,
+    "interlocutors": [
+        "BU",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BU",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T15:28:19.168000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T15:28:25.133000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BU",
+            "text": "そちらは雨降ってますか？",
+            "timestamp": "2022-08-12T15:28:37.368000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "すみません、自室から出れないので、確認できないです。埼玉にいますが晴天だと思います。",
+            "timestamp": "2022-08-12T15:29:30.998000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BU",
+            "text": "いえいえ、晴れなんですね。こちらは雨が降ってます。埼玉のおすすめスポットはありますか？",
+            "timestamp": "2022-08-12T15:30:12.862000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "外出しないので、有名どころしりませんが、地元で良いところは、天覧山という山ですかね",
+            "timestamp": "2022-08-12T15:31:02.302000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BU",
+            "text": "その山には登れるんですか？",
+            "timestamp": "2022-08-12T15:31:14.962000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "登山できますよ、標高が低いのでおばあちゃんが良く登ってるのを見ます",
+            "timestamp": "2022-08-12T15:32:01.455000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BU",
+            "text": "いいですね！この時期に登ると涼しくて気持ちが良さそうですね。",
+            "timestamp": "2022-08-12T15:32:31.040000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、登頂は空気が澄んでいて気持ちがいいですよ。",
+            "timestamp": "2022-08-12T15:32:59.551000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BU",
+            "text": "その山には登ったことがありますか？",
+            "timestamp": "2022-08-12T15:33:30.768000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "３回ほど、のぼりました",
+            "timestamp": "2022-08-12T15:33:42.492000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BU",
+            "text": "登って降りてするとどれぐらい時間かかりますか？",
+            "timestamp": "2022-08-12T15:34:01.607000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "およそ、1時間程だと思います",
+            "timestamp": "2022-08-12T15:34:22.536000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BU",
+            "text": "いいですね。散歩するにはちょうど良さそうです。",
+            "timestamp": "2022-08-12T15:34:46.526000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "気楽に挑めるので、ちょうど良いですね",
+            "timestamp": "2022-08-12T15:35:33.954000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BU",
+            "text": "近くにあるんですか？",
+            "timestamp": "2022-08-12T15:35:49.081000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "埼玉県飯能市、飯能駅から徒歩20分程のところから登れます",
+            "timestamp": "2022-08-12T15:36:17.755000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BU",
+            "text": "あとで調べてみますね。埼玉県は気温が高いイメージです。",
+            "timestamp": "2022-08-12T15:36:49.398000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "飯能は自然豊かな場所なので、ぜひ遊びにいらしてください。",
+            "timestamp": "2022-08-12T15:38:25.500000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BU",
+            "text": "はい。興味があるので調べてみますね。どこか行ってみたいところが、ありますか？",
+            "timestamp": "2022-08-12T15:39:11.400000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "これといった所はありませんが、ゲームのモデルになった直島に行きたいですね",
+            "timestamp": "2022-08-12T15:39:52.018000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BU",
+            "text": "それは何県にあるんですか？",
+            "timestamp": "2022-08-12T15:40:06.058000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "名前だけ知ったので、場所はまだ分からないです",
+            "timestamp": "2022-08-12T15:40:46.490000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BU",
+            "text": "なんのゲームのモデルですか？",
+            "timestamp": "2022-08-12T15:41:04.232000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "SummerPocketsというゲームです。ご存じですか？",
+            "timestamp": "2022-08-12T15:41:25.033000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BU",
+            "text": "ちょっとわからないので調べてみます。そのゲームのモデルなんですね。",
+            "timestamp": "2022-08-12T15:41:46.315000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、離島をモチーフにされているみたいで、似ているスポットがあるみたいです。",
+            "timestamp": "2022-08-12T15:42:34.692000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BU",
+            "text": "いいですね。そういったところを観光するのも。ありがとうございました。",
+            "timestamp": "2022-08-12T15:42:58.537000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-12T15:43:08.312000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BU",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

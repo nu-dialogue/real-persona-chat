@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10012,
+    "interlocutors": [
+        "DN",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "よろしくお願いいたします。",
+            "timestamp": "2022-08-10T14:11:08.902000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-10T14:11:18.390000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "ご旅行はお好きですか？",
+            "timestamp": "2022-08-10T14:11:26.508000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "はい。大好きです！",
+            "timestamp": "2022-08-10T14:11:35.385000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "主にどちらにお出かけになられますか？",
+            "timestamp": "2022-08-10T14:11:47.774000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "いろんなところに行きますが、北海道とか、寒い地方へ行くことが多いです。",
+            "timestamp": "2022-08-10T14:12:12.589000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "すごいですね。寒いところはやはり夏にお出かけですか？",
+            "timestamp": "2022-08-10T14:12:35.604000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "夏も行きますが、スキーしに冬行くことのほうが多いかも。",
+            "timestamp": "2022-08-10T14:12:54.963000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "そうなんですね。スキーはお好きなんですか？",
+            "timestamp": "2022-08-10T14:13:14.433000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "うまくはないですけど、大好きです！　あなたはやったことありますか？",
+            "timestamp": "2022-08-10T14:13:32.698000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "はい。若いころはスキーが流行っていて、無理無理参加したことがあります。",
+            "timestamp": "2022-08-10T14:13:53.146000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "おおー。楽しかったですか？",
+            "timestamp": "2022-08-10T14:14:09.038000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "ボーゲンができるようになってからは楽しかった記憶があります。",
+            "timestamp": "2022-08-10T14:14:24.367000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "わかります。滑れるようになってからしか楽しくないですよねー。",
+            "timestamp": "2022-08-10T14:14:42.992000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "その通りです！滑れるようになるまでずっと泣いていました。",
+            "timestamp": "2022-08-10T14:14:58.803000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "そうそう。下が雪とはいえ、転ぶと痛いですし。",
+            "timestamp": "2022-08-10T14:15:12.166000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "そうなんです。部屋に入ると濡れて冷たいし。",
+            "timestamp": "2022-08-10T14:15:30.476000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "ですよね。汗も出るし、ぐっしょりなりますよね。",
+            "timestamp": "2022-08-10T14:15:50.204000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "はい。私は愛知県なのですが、山梨や長野にバスで出かけるツアーがたくさんありました。",
+            "timestamp": "2022-08-10T14:16:18.559000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "わー！　いいですね。山梨にはいったことないかも。",
+            "timestamp": "2022-08-10T14:16:38.177000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "夏の避暑地を冬にはスキー用にして、ペンションがたくさんあります。",
+            "timestamp": "2022-08-10T14:17:02.757000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "それはいいですね。行ってみたいな。",
+            "timestamp": "2022-08-10T14:17:14.927000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "私はスキーよりも、お土産探し専門でした。",
+            "timestamp": "2022-08-10T14:17:27.183000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "お土産！　旅行にいったら、楽しみの一つですよね。",
+            "timestamp": "2022-08-10T14:17:46.280000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "ほんとですね。さすがに北海道には面白いものがたくさんあるのではないでしょうか。",
+            "timestamp": "2022-08-10T14:18:01.103000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "北海道は、食べ物が！",
+            "timestamp": "2022-08-10T14:18:21.737000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "そうですね！冬場はカニなんかも楽しむことができますか？",
+            "timestamp": "2022-08-10T14:18:35.520000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "そうなんですよ。私は九州なので、たくさんお土産を買って帰ります。",
+            "timestamp": "2022-08-10T14:19:05.524000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "そうですね。他の土地のお土産はすごく楽しみですよね。",
+            "timestamp": "2022-08-10T14:19:25.668000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "はい。すごく楽しみです。",
+            "timestamp": "2022-08-10T14:19:37.222000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

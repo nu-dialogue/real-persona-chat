@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5815,
+    "interlocutors": [
+        "GX",
+        "GT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GX",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-30T12:17:54.239000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GT",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-30T12:17:56.428000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GX",
+            "text": "本とか読みます？",
+            "timestamp": "2022-09-30T12:18:02.593000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GT",
+            "text": "あまり読まなです。あなたは？",
+            "timestamp": "2022-09-30T12:18:11.270000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GX",
+            "text": "わたしもです。でも久しぶりに読もうかなと思って。",
+            "timestamp": "2022-09-30T12:18:25.939000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GT",
+            "text": "いいですね、どんなジャンルですか。",
+            "timestamp": "2022-09-30T12:18:31.910000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GX",
+            "text": "小説ですね！",
+            "timestamp": "2022-09-30T12:18:37.209000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GT",
+            "text": "好きな作家とかいますか？",
+            "timestamp": "2022-09-30T12:18:47.199000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GX",
+            "text": "えーどうでしょう。私の記憶は山田裕介でとまってて。",
+            "timestamp": "2022-09-30T12:19:07.930000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GT",
+            "text": "わたしもあまり詳しくないので、今って何が人気なんでしょうか。",
+            "timestamp": "2022-09-30T12:19:24.584000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GX",
+            "text": "えーどうなんでしょう。ミステリー系のひととかかな。",
+            "timestamp": "2022-09-30T12:19:40.356000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GT",
+            "text": "結構色々出てますよね。",
+            "timestamp": "2022-09-30T12:19:47.188000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GX",
+            "text": "映画やドラマ化してるやつを読みたいんですよね。",
+            "timestamp": "2022-09-30T12:20:03.194000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GT",
+            "text": "いいですね、人気のやつなら間違いないですよね。",
+            "timestamp": "2022-09-30T12:20:11.502000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GX",
+            "text": "そうです！で、映画も見に行って一石二鳥。",
+            "timestamp": "2022-09-30T12:20:29.594000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GT",
+            "text": "たしかに、どの時間帯に読むんですか？",
+            "timestamp": "2022-09-30T12:20:43.259000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GX",
+            "text": "夕方じゃないですかね。今涼しくていいかなと。",
+            "timestamp": "2022-09-30T12:20:57.835000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GT",
+            "text": "夕方いいですね、時間もちょっとあきますし。",
+            "timestamp": "2022-09-30T12:21:11.476000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GX",
+            "text": "そうです！でも一度読みだすと最後まで読みたくなるんですよね。",
+            "timestamp": "2022-09-30T12:21:23.101000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GT",
+            "text": "あーけっこう夜遅くまで読んじゃいますか？",
+            "timestamp": "2022-09-30T12:21:55.796000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GX",
+            "text": "読んじゃいます！あなたも？",
+            "timestamp": "2022-09-30T12:22:09.484000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GT",
+            "text": "ドラマとか全然止まらないです。",
+            "timestamp": "2022-09-30T12:22:28.149000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GX",
+            "text": "ですよね！続きが気になって。",
+            "timestamp": "2022-09-30T12:22:36.806000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GT",
+            "text": "でも、ちょうど金曜日なので夜更かしもありですね",
+            "timestamp": "2022-09-30T12:22:54.525000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GX",
+            "text": "確かに！もう金曜日か。",
+            "timestamp": "2022-09-30T12:23:01.868000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GT",
+            "text": "そうです、早いですよね。",
+            "timestamp": "2022-09-30T12:23:08.330000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GX",
+            "text": "時間がたつのが早いです。",
+            "timestamp": "2022-09-30T12:23:20.286000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GT",
+            "text": "1年もすぐに終わってしまいます",
+            "timestamp": "2022-09-30T12:23:32.103000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GX",
+            "text": "もうすぐ年末ですね。",
+            "timestamp": "2022-09-30T12:23:40.730000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GT",
+            "text": "もうそんな時期ですね。",
+            "timestamp": "2022-09-30T12:23:46.418000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

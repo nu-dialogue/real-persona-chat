@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10738,
+    "interlocutors": [
+        "AL",
+        "EZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AL",
+            "text": "よろしくおねがいしまーす！",
+            "timestamp": "2022-08-17T14:33:08.006000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EZ",
+            "text": "はじめまして！よろしくおねがいします。",
+            "timestamp": "2022-08-17T14:33:25.987000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AL",
+            "text": "突然ですが、揚力について教えていただけますか。",
+            "timestamp": "2022-08-17T14:33:42.010000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EZ",
+            "text": "揚力とは、流れる向きに垂直な方向の向きの力ってざっと理解していますね。",
+            "timestamp": "2022-08-17T14:34:30.640000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AL",
+            "text": "上ですか下ですか",
+            "timestamp": "2022-08-17T14:34:41.246000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EZ",
+            "text": "両方あると思います。",
+            "timestamp": "2022-08-17T14:35:05.816000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AL",
+            "text": "まじですか",
+            "timestamp": "2022-08-17T14:35:09.442000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EZ",
+            "text": "多分一般的に使われるのが飛行機の羽がーってやつですよね。",
+            "timestamp": "2022-08-17T14:35:42.601000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AL",
+            "text": "そうか、下からのほうが大きいから浮くのか",
+            "timestamp": "2022-08-17T14:35:51.402000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EZ",
+            "text": "そういうことだと思います。",
+            "timestamp": "2022-08-17T14:36:08.933000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AL",
+            "text": "水の中でも同じことが起きるのでしょうか",
+            "timestamp": "2022-08-17T14:36:20.271000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EZ",
+            "text": "水中でも流れがあると、そういう現象は見られますよ。",
+            "timestamp": "2022-08-17T14:36:44.194000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AL",
+            "text": "上に行ったり下に沈んだりですか",
+            "timestamp": "2022-08-17T14:36:54.449000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EZ",
+            "text": "基本的に水中にある物体には浮力が働いているので、上下より左右とかの方が多いですね。",
+            "timestamp": "2022-08-17T14:37:26.664000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AL",
+            "text": "浮力、もはや懐かしい言葉です。高校以来。",
+            "timestamp": "2022-08-17T14:37:47.078000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EZ",
+            "text": "浮力は流体の勉強をしていたらよく出てくるワードですよ。",
+            "timestamp": "2022-08-17T14:38:24.541000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AL",
+            "text": "気体には浮力はないのでしょうか",
+            "timestamp": "2022-08-17T14:38:38.715000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EZ",
+            "text": "ないですね。水中にある気体には働きますよ。",
+            "timestamp": "2022-08-17T14:39:42.732000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AL",
+            "text": "水中にある気体ときた",
+            "timestamp": "2022-08-17T14:39:59.706000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EZ",
+            "text": "気泡のことですね。マイクロバブルのお風呂とか最近有名ですね。",
+            "timestamp": "2022-08-17T14:40:31.845000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AL",
+            "text": "あー、なるほど。船が沈んだりするやつ",
+            "timestamp": "2022-08-17T14:40:51.376000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EZ",
+            "text": "船沈みましたっけ？",
+            "timestamp": "2022-08-17T14:41:21.552000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AL",
+            "text": "魔のトライアングル地帯で、なぜか舟が消える現象で",
+            "timestamp": "2022-08-17T14:41:36.345000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EZ",
+            "text": "初めて聞きました。それは現実の話ですか？",
+            "timestamp": "2022-08-17T14:42:09.176000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AL",
+            "text": "怪しいトンデモ論だったかもしれません。調べて出直してきます！",
+            "timestamp": "2022-08-17T14:42:42.321000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EZ",
+            "text": "いえいえ！私も気になったのでしらべときます。マイクロバブルは汚れとか落としてくれて、肌にいいみたいです。",
+            "timestamp": "2022-08-17T14:43:17.862000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AL",
+            "text": "お。落としたいものがたくさんあります、顔に。",
+            "timestamp": "2022-08-17T14:43:38.599000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EZ",
+            "text": "シャワーにつけて使えたりもするみたいですよ。",
+            "timestamp": "2022-08-17T14:44:03.751000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AL",
+            "text": "そっちのほうを優先して調べます！",
+            "timestamp": "2022-08-17T14:44:22.625000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EZ",
+            "text": "ぜひぜひ！私は魔のトライアングルしらべときます。",
+            "timestamp": "2022-08-17T14:44:58.809000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

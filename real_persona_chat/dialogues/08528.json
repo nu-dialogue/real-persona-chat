@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8528,
+    "interlocutors": [
+        "CC",
+        "AB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CC",
+            "text": "はじめまして",
+            "timestamp": "2022-08-05T22:02:27.757000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AB",
+            "text": "はじめまして、よろしくお願いします。",
+            "timestamp": "2022-08-05T22:02:35.657000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CC",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-08-05T22:02:41.900000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AB",
+            "text": "今年の夏は暑いですね。",
+            "timestamp": "2022-08-05T22:02:56.120000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CC",
+            "text": "暑いですね。でも昨日と今日はちょっと涼しいかもです。",
+            "timestamp": "2022-08-05T22:03:10.139000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AB",
+            "text": "雨降ったからかな？",
+            "timestamp": "2022-08-05T22:03:19.052000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CC",
+            "text": "ですね。昨日は雷鳴ってました。そちらは？",
+            "timestamp": "2022-08-05T22:03:32.081000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AB",
+            "text": "こちらは、今日夕方ごろ、雷と大雨でした。",
+            "timestamp": "2022-08-05T22:03:48.444000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CC",
+            "text": "最近の大雨こわいですね。量が。",
+            "timestamp": "2022-08-05T22:04:14.679000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AB",
+            "text": "久しぶりの雨は有難いんですけどね。",
+            "timestamp": "2022-08-05T22:04:24.241000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CC",
+            "text": "ですねー。近くに川はありますか？",
+            "timestamp": "2022-08-05T22:04:33.948000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AB",
+            "text": "川はないです。あるんですか？",
+            "timestamp": "2022-08-05T22:04:47.545000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CC",
+            "text": "ちょっと近くにあります。",
+            "timestamp": "2022-08-05T22:04:57.629000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AB",
+            "text": "氾濫しないか不安ですね。",
+            "timestamp": "2022-08-05T22:05:12.390000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CC",
+            "text": "氾濫してもうちまでは来ない。はず。。。",
+            "timestamp": "2022-08-05T22:05:25.490000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AB",
+            "text": "氾濫しない事を祈ります。",
+            "timestamp": "2022-08-05T22:05:42.377000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CC",
+            "text": "ですね。台風すごかったの3年くらい前でしたっけね。",
+            "timestamp": "2022-08-05T22:06:04.467000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AB",
+            "text": "ありましたね！関空へ繋く橋に船が衝突したこともあったような。",
+            "timestamp": "2022-08-05T22:06:44.545000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CC",
+            "text": "あの時は日本列島すべて水浸しになったような記憶があります。",
+            "timestamp": "2022-08-05T22:07:11.354000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AB",
+            "text": "ですね。大きな被害に巻き込まれたことが無いのでよかったですが。今も被害出てますね。",
+            "timestamp": "2022-08-05T22:07:42.330000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CC",
+            "text": "今は東北地方が大変なことになってますね。",
+            "timestamp": "2022-08-05T22:07:55.827000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AB",
+            "text": "ですね。そういうニュース見ると、備えないとって思います。",
+            "timestamp": "2022-08-05T22:08:28.557000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CC",
+            "text": "ですね。備えてますか？　私はあんまり。。。",
+            "timestamp": "2022-08-05T22:08:49.060000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AB",
+            "text": "私も防災キットありますが、賞味期限とか大丈夫か分かりません。",
+            "timestamp": "2022-08-05T22:09:14.092000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CC",
+            "text": "防災キットだいじですね。うちは水ならいっぱいあります。",
+            "timestamp": "2022-08-05T22:09:41.647000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AB",
+            "text": "水は絶対要りますね！",
+            "timestamp": "2022-08-05T22:09:56.371000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CC",
+            "text": "そうですよね！　非常食も置いとけばいいんですけどねー。",
+            "timestamp": "2022-08-05T22:10:15.793000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AB",
+            "text": "なかなか完璧にはできないですよね。",
+            "timestamp": "2022-08-05T22:10:35.294000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CC",
+            "text": "ですね。お話ありがとうございました！",
+            "timestamp": "2022-08-05T22:10:43.339000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AB",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-05T22:10:55.086000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

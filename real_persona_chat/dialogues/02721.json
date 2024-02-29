@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2721,
+    "interlocutors": [
+        "BL",
+        "AL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BL",
+            "text": "こんにちはー。よろしくお願いします。",
+            "timestamp": "2022-08-23T14:29:08.525000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AL",
+            "text": "よろしくお願いいたします！",
+            "timestamp": "2022-08-23T14:29:15.971000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BL",
+            "text": "お昼はもう食べましたか？",
+            "timestamp": "2022-08-23T14:29:38.511000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AL",
+            "text": "はい。11時ころに！そちらは？",
+            "timestamp": "2022-08-23T14:29:46.594000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BL",
+            "text": "私は今日は遅くて13時半に食べました。",
+            "timestamp": "2022-08-23T14:30:33.808000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AL",
+            "text": "そうだったんですね。私はモスバーガーでした。そちらは？",
+            "timestamp": "2022-08-23T14:30:45.249000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BL",
+            "text": "モス良いですね！私は焼きそばでした。",
+            "timestamp": "2022-08-23T14:31:05.727000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AL",
+            "text": "お、作ったのですか",
+            "timestamp": "2022-08-23T14:31:10.261000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BL",
+            "text": "はい、簡単にですけど。",
+            "timestamp": "2022-08-23T14:31:27.682000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AL",
+            "text": "お肉、入れました？いつも迷うんです",
+            "timestamp": "2022-08-23T14:31:37.140000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BL",
+            "text": "お肉はたまに入れます。野菜がメインですね。",
+            "timestamp": "2022-08-23T14:32:05.585000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AL",
+            "text": "そう、忘れることもあるんです、お肉",
+            "timestamp": "2022-08-23T14:32:12.207000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BL",
+            "text": "買い忘れはよくあります。",
+            "timestamp": "2022-08-23T14:32:40.118000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AL",
+            "text": "ソーセージやハムを苦し紛れに入れることもあります",
+            "timestamp": "2022-08-23T14:32:49.970000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BL",
+            "text": "ソーセージでも代用できますよね。私はシーフード入れることがあります。",
+            "timestamp": "2022-08-23T14:33:21.808000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AL",
+            "text": "冷凍、常備してます？",
+            "timestamp": "2022-08-23T14:33:30.846000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BL",
+            "text": "いえ、20％オフの時に買うので、常備まではしてないです。",
+            "timestamp": "2022-08-23T14:33:57.412000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AL",
+            "text": "あはは！でもいいですね、イカとかエビとかでしょうか",
+            "timestamp": "2022-08-23T14:34:12.221000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BL",
+            "text": "そうです、そうです！ミックスのものです。",
+            "timestamp": "2022-08-23T14:34:30.974000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AL",
+            "text": "えー、ちょっと真似してみよう。今日、買い物行こうと思ってたので",
+            "timestamp": "2022-08-23T14:34:43.332000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BL",
+            "text": "カレーにも使えて便利です。",
+            "timestamp": "2022-08-23T14:35:09.329000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AL",
+            "text": "シーフードカレー！",
+            "timestamp": "2022-08-23T14:35:10.728000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BL",
+            "text": "甘めが好きなら美味しいですよ。",
+            "timestamp": "2022-08-23T14:35:27.840000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AL",
+            "text": "甘口でーす！手に書いておこう、シーフードミックス",
+            "timestamp": "2022-08-23T14:35:43.664000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BL",
+            "text": "あはは。買い物行っても買い忘れることありますもんね。",
+            "timestamp": "2022-08-23T14:36:06.909000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AL",
+            "text": "そう、既にほかにも書いてあります、クイックルワイパー",
+            "timestamp": "2022-08-23T14:36:16.842000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BL",
+            "text": "クイックルワイパーも大事ですね！",
+            "timestamp": "2022-08-23T14:36:36.016000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AL",
+            "text": "ホコリ取るふわふわのやつ",
+            "timestamp": "2022-08-23T14:36:43.448000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BL",
+            "text": "私も愛用してますよ。",
+            "timestamp": "2022-08-23T14:36:57.595000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AL",
+            "text": "常備しとかないと。",
+            "timestamp": "2022-08-23T14:37:06.246000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

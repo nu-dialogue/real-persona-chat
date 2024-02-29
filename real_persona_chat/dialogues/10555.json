@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10555,
+    "interlocutors": [
+        "CS",
+        "AW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-08-14T10:36:20.834000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AW",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-14T10:36:53.643000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-08-14T10:36:57.486000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AW",
+            "text": "猫を飼い始めたので、猫が趣味になってますね",
+            "timestamp": "2022-08-14T10:37:19.327000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "いいですね！お名前は？",
+            "timestamp": "2022-08-14T10:38:20.090000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AW",
+            "text": "レグっていいます",
+            "timestamp": "2022-08-14T10:38:35.037000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "まだ子猫ですか？",
+            "timestamp": "2022-08-14T10:38:53.675000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AW",
+            "text": "3か月くらいです！",
+            "timestamp": "2022-08-14T10:39:04.492000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "じゃあまだやんちゃ盛りですね",
+            "timestamp": "2022-08-14T10:39:20.144000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AW",
+            "text": "本当に。大暴れしてますよ。",
+            "timestamp": "2022-08-14T10:39:37.418000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "なついてますか？",
+            "timestamp": "2022-08-14T10:40:02.192000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AW",
+            "text": "うーん、どうなんでしょう。手噛んだり顔に突撃してきたりするので獲物だと思われてそう",
+            "timestamp": "2022-08-14T10:40:43.915000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "遊びたいのかもしれないですね",
+            "timestamp": "2022-08-14T10:40:56.948000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AW",
+            "text": "動くものにはとびかかってますね",
+            "timestamp": "2022-08-14T10:41:12.457000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "好奇心旺盛なんですね",
+            "timestamp": "2022-08-14T10:41:25.854000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AW",
+            "text": "そうなんですよ。<CS>さんは趣味ありますか？",
+            "timestamp": "2022-08-14T10:41:51.388000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "私は最近だとアニメばっかり見てます",
+            "timestamp": "2022-08-14T10:42:08.932000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AW",
+            "text": "好きなアニメは何ですか？",
+            "timestamp": "2022-08-14T10:42:19.271000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "うーん、転スラとか異世界転生ものとか割と好きです",
+            "timestamp": "2022-08-14T10:43:02.524000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AW",
+            "text": "今度映画やりますよね",
+            "timestamp": "2022-08-14T10:43:33.993000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "みたいですねー。見に行かないと。",
+            "timestamp": "2022-08-14T10:43:48.760000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AW",
+            "text": "推しはいるんですか？",
+            "timestamp": "2022-08-14T10:43:59.514000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "そこまでじゃないかもです、作品自体が好きな感じです。",
+            "timestamp": "2022-08-14T10:44:47.844000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AW",
+            "text": "なるほど。私はランガが好きです",
+            "timestamp": "2022-08-14T10:45:07.636000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "かっこいいですよね",
+            "timestamp": "2022-08-14T10:45:20.309000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AW",
+            "text": "リゼロとかはみましたか？",
+            "timestamp": "2022-08-14T10:45:39.197000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "見ました。でもちょっと記憶があやふやです",
+            "timestamp": "2022-08-14T10:45:52.273000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AW",
+            "text": "アニメだと通しで見ないとわけわからなくなりますよね",
+            "timestamp": "2022-08-14T10:46:15.907000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "そうなんですよね。ではそろそろ失礼しますね",
+            "timestamp": "2022-08-14T10:46:32.792000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AW",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-14T10:46:40.443000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AW",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11040,
+    "interlocutors": [
+        "CD",
+        "BB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CD",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-18T21:06:07.184000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BB",
+            "text": "こんばんは！よろしくです！",
+            "timestamp": "2022-08-18T21:06:16.238000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CD",
+            "text": "あなたの趣味は何ですか？",
+            "timestamp": "2022-08-18T21:06:17.123000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BB",
+            "text": "子供のころから音楽が好きで、今も時々楽器を演奏してます。",
+            "timestamp": "2022-08-18T21:06:32.590000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CD",
+            "text": "演奏されてるんですね！何の楽器ですか？",
+            "timestamp": "2022-08-18T21:06:48.563000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BB",
+            "text": "ピアノと、あとはサックスですね。",
+            "timestamp": "2022-08-18T21:06:56.989000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CD",
+            "text": "サックス持ってるんですか？",
+            "timestamp": "2022-08-18T21:07:15.679000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BB",
+            "text": "はい、持ってます！音がでかいので、あまりお家ではできませんが。",
+            "timestamp": "2022-08-18T21:07:30.622000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CD",
+            "text": "じゃあ、どんな場所でやるんですか？",
+            "timestamp": "2022-08-18T21:07:49.496000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BB",
+            "text": "昼間の短い時間ならお家ですけど、あとはカラオケとか、スタジオを借りるときもありますね。",
+            "timestamp": "2022-08-18T21:08:16.597000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CD",
+            "text": "あーなるほど！カラオケでできるんですね！",
+            "timestamp": "2022-08-18T21:08:31.983000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BB",
+            "text": "みんな歌ってて基本うるさいから、楽器やってても自然と紛れ込めます。",
+            "timestamp": "2022-08-18T21:08:51.095000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CD",
+            "text": "サックスだと、ジャズのイメージありますが、どんな曲演奏するんですか？",
+            "timestamp": "2022-08-18T21:09:22.448000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BB",
+            "text": "まだそんなに難しい曲はできないんですが。カーペンターズのclose to youとか吹きますね。",
+            "timestamp": "2022-08-18T21:09:44.926000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CD",
+            "text": "かっこいい！私も小学生の時、トランペットやってました。",
+            "timestamp": "2022-08-18T21:10:27.299000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BB",
+            "text": "トランペット！同じ管楽器ですね！",
+            "timestamp": "2022-08-18T21:10:39.056000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CD",
+            "text": "たまにやりたくなります！",
+            "timestamp": "2022-08-18T21:10:53.427000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BB",
+            "text": "今も指とか覚えてますか？",
+            "timestamp": "2022-08-18T21:11:04.850000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CD",
+            "text": "指は全然覚えてますが、音は出るのかなあ。",
+            "timestamp": "2022-08-18T21:11:25.984000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BB",
+            "text": "トランペットって指で押さえるキーが少ないから、どうやって微調整するんだろうといつも思ってました。",
+            "timestamp": "2022-08-18T21:11:50.072000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CD",
+            "text": "吹く息も関係してるかもしれないですね。詳しいことはわかりませんが！",
+            "timestamp": "2022-08-18T21:12:34.704000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BB",
+            "text": "息の強さで音程を取ってるかんじでしょうかね。",
+            "timestamp": "2022-08-18T21:12:56.443000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CD",
+            "text": "はい。なので、唇いつも真っ赤でした！",
+            "timestamp": "2022-08-18T21:13:10.122000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BB",
+            "text": "めっちゃ難しそうですね。トランペットはリードは必要ないですよね？",
+            "timestamp": "2022-08-18T21:13:30.155000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CD",
+            "text": "リードってなんですか？",
+            "timestamp": "2022-08-18T21:13:43.696000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BB",
+            "text": "えっと、サックスとか、オーボエとかで使う、薄い木の板です！",
+            "timestamp": "2022-08-18T21:14:07.817000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CD",
+            "text": "要らないですね！",
+            "timestamp": "2022-08-18T21:14:20.430000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BB",
+            "text": "じゃ、楽器と口と息だけで音を出すんですね！難しそうだなー",
+            "timestamp": "2022-08-18T21:14:50.544000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CD",
+            "text": "高い音とかは頑張らないと出ませんでした！",
+            "timestamp": "2022-08-18T21:15:20.604000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BB",
+            "text": "ちょっと酸欠になりそうですね！",
+            "timestamp": "2022-08-18T21:15:30.316000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BB",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

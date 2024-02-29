@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 120,
+    "interlocutors": [
+        "AA",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いいたします",
+            "timestamp": "2022-08-08T23:31:29.245000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-08T23:31:35.901000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AA",
+            "text": "今日の夕飯は何でしたか？",
+            "timestamp": "2022-08-08T23:31:46.661000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "スープに挽肉の煮物",
+            "timestamp": "2022-08-08T23:31:59.915000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AA",
+            "text": "ほお、スープの味はトマトとかですか？",
+            "timestamp": "2022-08-08T23:32:16.672000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "はい、トマト系です。全体的になんとなくタイ風に仕上げました",
+            "timestamp": "2022-08-08T23:32:43.254000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AA",
+            "text": "ほうほう、仕上げたということは作られたんですか？",
+            "timestamp": "2022-08-08T23:32:54.897000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "妻がですよ",
+            "timestamp": "2022-08-08T23:33:05.040000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AA",
+            "text": "そうなんですね、タイは行かれたことがありますか？",
+            "timestamp": "2022-08-08T23:33:21.328000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "はい、いい国です",
+            "timestamp": "2022-08-08T23:33:29.714000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AA",
+            "text": "そうなんですね！行ってみたい国です",
+            "timestamp": "2022-08-08T23:33:39.440000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "そんな遠くないし、物価も安いし、是非",
+            "timestamp": "2022-08-08T23:33:55.700000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AA",
+            "text": "いいですね、コロナが落ち着いたら本当に行きたいです",
+            "timestamp": "2022-08-08T23:34:10.308000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "ほんとですよね、いつ海外旅行にいけるんだろう",
+            "timestamp": "2022-08-08T23:34:25.721000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AA",
+            "text": "本当に。一応行けることは行けますけど、もろもろの手続きとか帰国後とかが面倒で中々気が進みませんよね",
+            "timestamp": "2022-08-08T23:35:00.393000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "実は台湾にいきたいのですが",
+            "timestamp": "2022-08-08T23:35:12.076000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AA",
+            "text": "その心は？",
+            "timestamp": "2022-08-08T23:35:17.666000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "お茶マニアなのです、烏龍茶系",
+            "timestamp": "2022-08-08T23:35:32.854000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AA",
+            "text": "烏龍茶系！なるほど、それであれば確かに台湾",
+            "timestamp": "2022-08-08T23:35:56.474000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "コロナ前は毎年行ってたので",
+            "timestamp": "2022-08-08T23:36:08.661000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AA",
+            "text": "そうなのですね。台北とかですか？それとも完全にお茶名産のところに？",
+            "timestamp": "2022-08-08T23:36:29.618000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "台北にお気に入りの茶問屋があって、いつもそこにいってます",
+            "timestamp": "2022-08-08T23:36:51.537000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AA",
+            "text": "わあ、行きつけがあるんですね。素敵です。選ぶのが楽しそうです",
+            "timestamp": "2022-08-08T23:37:09.508000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "あとは茶館もお気に入りが",
+            "timestamp": "2022-08-08T23:37:26.872000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AA",
+            "text": "お名前って聞いてもいいですか？",
+            "timestamp": "2022-08-08T23:37:36.332000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "竹里館とかオススメです",
+            "timestamp": "2022-08-08T23:38:08.898000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AA",
+            "text": "ほうほう、今調べてみます",
+            "timestamp": "2022-08-08T23:38:16.775000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "あとは猫空にもいくつかあります",
+            "timestamp": "2022-08-08T23:39:25.147000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AA",
+            "text": "名前がかわいらしいですね！心惹かれます",
+            "timestamp": "2022-08-08T23:39:38.780000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "ほんと行きたくなってきた",
+            "timestamp": "2022-08-08T23:39:51.693000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

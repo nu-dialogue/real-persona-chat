@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5994,
+    "interlocutors": [
+        "EQ",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T14:31:52.868000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-10-02T14:31:59.772000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "いきなりですが、電動歯ブラシは使ったことがありますか？",
+            "timestamp": "2022-10-02T14:32:16.135000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "ないですね。自分で磨いています",
+            "timestamp": "2022-10-02T14:32:28.390000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "そうですか。先日歯医者さんに勧められたんです。",
+            "timestamp": "2022-10-02T14:32:45.271000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "磨き残しが減りそうですからね。",
+            "timestamp": "2022-10-02T14:33:02.237000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "磨こうとしなくても、きれいになるそうで、はぐきを傷めないって言われました。",
+            "timestamp": "2022-10-02T14:33:27.405000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "力加減が一定なので、手動よりは傷めないかもしれませんね",
+            "timestamp": "2022-10-02T14:33:56.763000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "日本人は、磨きすぎる傾向があるらしいです。",
+            "timestamp": "2022-10-02T14:34:15.240000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "なるほど、潔癖ってことですかね",
+            "timestamp": "2022-10-02T14:34:30.801000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "歯茎に歯ブラシをあてて、小刻みに動かす歯磨きの方法は、日本人にはできないそうです。",
+            "timestamp": "2022-10-02T14:35:08.032000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "ほうほう、それは知らなかったです",
+            "timestamp": "2022-10-02T14:35:21.272000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "そんなことを言われても、って感じですよね。",
+            "timestamp": "2022-10-02T14:35:32.028000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "ポスターとか見ても、ごしごしという効果音が使われていますね",
+            "timestamp": "2022-10-02T14:35:54.401000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "学校では、どのように教わりましたか？",
+            "timestamp": "2022-10-02T14:36:06.107000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "小刻みにとは言われましたね。ゴシゴシは良くないと",
+            "timestamp": "2022-10-02T14:36:31.314000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "そうなんですね。時代によって教わり方も違いますね。",
+            "timestamp": "2022-10-02T14:36:51.578000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "確かに衛生に対する考え方とか昔と違いそうです",
+            "timestamp": "2022-10-02T14:37:29.131000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "今は、皆さん矯正もされている人が多いですものね。",
+            "timestamp": "2022-10-02T14:37:43.850000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "そうですね。保険効きませんが多いですね",
+            "timestamp": "2022-10-02T14:38:01.640000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "うらやましいです。歯磨きが楽になりそう。",
+            "timestamp": "2022-10-02T14:38:21.974000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "理論上ガチャ歯だと磨きにくいですね",
+            "timestamp": "2022-10-02T14:38:49.633000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "私は、生まれながらにして1本歯が少ないんです。",
+            "timestamp": "2022-10-02T14:39:21.762000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "ほう、8本無いということですか？",
+            "timestamp": "2022-10-02T14:39:45.781000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "上下1本ずつ少ないみたいです。最近言われました。今頃ですよ。",
+            "timestamp": "2022-10-02T14:40:23.680000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "僕は親知らずが生えていないので7本です",
+            "timestamp": "2022-10-02T14:40:46.504000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "7本だけですか？もっとありますよね。",
+            "timestamp": "2022-10-02T14:41:15.058000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "あぁ、前歯から奥歯まで7本という意味です",
+            "timestamp": "2022-10-02T14:41:31.630000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "あ、やっぱり。ということは、私は6本でしょうか。親知らずは抜きました。",
+            "timestamp": "2022-10-02T14:41:55.781000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "そういうことですね。",
+            "timestamp": "2022-10-02T14:42:05.198000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

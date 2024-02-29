@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13388,
+    "interlocutors": [
+        "GG",
+        "GH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GG",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-21T15:52:14.073000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GH",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-21T15:52:17.663000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GG",
+            "text": "旅行とかされますか？",
+            "timestamp": "2022-09-21T15:52:24.036000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GH",
+            "text": "たまにします",
+            "timestamp": "2022-09-21T15:52:29.917000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GG",
+            "text": "おすすめはありますか？",
+            "timestamp": "2022-09-21T15:52:37.322000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GH",
+            "text": "おすすめは大阪です。といっても住んでいるんですけど",
+            "timestamp": "2022-09-21T15:52:58.511000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GG",
+            "text": "どこに行くとよいとかあります？",
+            "timestamp": "2022-09-21T15:53:15.972000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GH",
+            "text": "やっぱり梅田と難波はどっちも行ってほしいですね",
+            "timestamp": "2022-09-21T15:53:32.114000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GG",
+            "text": "食べ物もおいしいイメージです。",
+            "timestamp": "2022-09-21T15:53:52.909000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GH",
+            "text": "おいしいですね。たこ焼きとか有名ですよね",
+            "timestamp": "2022-09-21T15:54:02.662000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GG",
+            "text": "地元の方もよく食べられるのですか？",
+            "timestamp": "2022-09-21T15:54:25.659000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GH",
+            "text": "お店に行くより自宅で食べる方が多いですね",
+            "timestamp": "2022-09-21T15:54:38.746000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GG",
+            "text": "自分で作るのですか？",
+            "timestamp": "2022-09-21T15:54:48.635000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GH",
+            "text": "そうですね、タコ焼き機があるので",
+            "timestamp": "2022-09-21T15:54:58.439000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GG",
+            "text": "親から作り方とか習うものなのですか？",
+            "timestamp": "2022-09-21T15:55:19.241000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GH",
+            "text": "自然に覚えてるって感じですかね。週末の昼はだいたいたこ焼きをつくるので",
+            "timestamp": "2022-09-21T15:55:48.061000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GG",
+            "text": "家庭ごとに作り方違うなんてこともあるのですか？",
+            "timestamp": "2022-09-21T15:56:05.663000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GH",
+            "text": "あるかもしれません。私のところはキャベツ多めたこも複数いれます",
+            "timestamp": "2022-09-21T15:56:25.433000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GG",
+            "text": "たこ焼き一個にタコが複数ってことですか？",
+            "timestamp": "2022-09-21T15:56:47.785000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GH",
+            "text": "そうですね。家だからこそできる贅沢です",
+            "timestamp": "2022-09-21T15:56:57.735000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GG",
+            "text": "じゃあほかの人が作るたこ焼き食べるのも楽しそうですね。",
+            "timestamp": "2022-09-21T15:57:20.576000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GH",
+            "text": "そうです。旅行のおすすめありますか？",
+            "timestamp": "2022-09-21T15:57:34.957000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GG",
+            "text": "熊本がおすすめです！",
+            "timestamp": "2022-09-21T15:58:01.550000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GH",
+            "text": "いいですね！阿蘇山なら行ったことがあります",
+            "timestamp": "2022-09-21T15:58:20.704000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GG",
+            "text": "阿蘇の赤牛が絶品です！",
+            "timestamp": "2022-09-21T15:58:40.236000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GH",
+            "text": "へええ！おいしそうですね",
+            "timestamp": "2022-09-21T15:58:49.946000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GG",
+            "text": "馬刺しもいいんですが、赤牛のほうがおすすめです。",
+            "timestamp": "2022-09-21T15:59:05.236000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GH",
+            "text": "そうなんですね。どちらも食べてみたいですね",
+            "timestamp": "2022-09-21T15:59:16.937000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GG",
+            "text": "ふらっとスーパーに寄ったら馬刺しがいっぱい売られていたのにはびっくりしました。",
+            "timestamp": "2022-09-21T15:59:40.975000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GH",
+            "text": "すごいですね。また行きたいです",
+            "timestamp": "2022-09-21T15:59:51.140000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GH",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12060,
+    "interlocutors": [
+        "EP",
+        "FE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EP",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-01T13:41:09.417000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FE",
+            "text": "お願いします！",
+            "timestamp": "2022-09-01T13:41:17.957000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EP",
+            "text": "好きな食べ物、ありますか？",
+            "timestamp": "2022-09-01T13:41:20.599000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FE",
+            "text": "メロン味じゃないメロンパンが好きです！",
+            "timestamp": "2022-09-01T13:41:32.580000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EP",
+            "text": "面白い。パンが好きなんですね",
+            "timestamp": "2022-09-01T13:41:41.556000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FE",
+            "text": "パン大好きなんですよ。ほっとくと一日中パン食べてます。",
+            "timestamp": "2022-09-01T13:42:00.853000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EP",
+            "text": "すごい！私もパン大好きです。メロンパンだとセブン？ですかね？",
+            "timestamp": "2022-09-01T13:42:14.190000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FE",
+            "text": "そうです！セブンのメロンパンがコンビニ業界の中では一番おいしいと思ってます。",
+            "timestamp": "2022-09-01T13:42:38.911000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EP",
+            "text": "同感です！私も学生のころはまってました！",
+            "timestamp": "2022-09-01T13:42:56.389000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！私も高校生の時は毎日食べてた気がします。",
+            "timestamp": "2022-09-01T13:43:24.444000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EP",
+            "text": "すごい。高3のころ、セブンにあったブラックサンダーにはまってました。知ってますか？",
+            "timestamp": "2022-09-01T13:43:49.936000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FE",
+            "text": "通常のブラックサンダーと何か違うんですか？",
+            "timestamp": "2022-09-01T13:44:09.324000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EP",
+            "text": "多分通常のブラックサンダーです。",
+            "timestamp": "2022-09-01T13:44:21.926000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FE",
+            "text": "ブラックサンダー私も好きですよ！コストコに大袋のが売ってて、それを何か月か食べ続けてました。",
+            "timestamp": "2022-09-01T13:45:07.001000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EP",
+            "text": "そうなんですね！面白いですね！",
+            "timestamp": "2022-09-01T13:45:29.940000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FE",
+            "text": "他に好きな食べ物はありますか？",
+            "timestamp": "2022-09-01T13:45:41.101000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EP",
+            "text": "そうだなー。みかんですかね。あとはおもち",
+            "timestamp": "2022-09-01T13:45:52.485000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FE",
+            "text": "みかんは冬にずっと食べてますね。おもちは焼くのが一番おいしいです！",
+            "timestamp": "2022-09-01T13:46:18.400000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EP",
+            "text": "いいですよねー。逆に嫌いなものありますか？",
+            "timestamp": "2022-09-01T13:46:28.766000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FE",
+            "text": "豚肉が苦手です。でも鶏肉は好きです！",
+            "timestamp": "2022-09-01T13:46:49.750000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EP",
+            "text": "えー！そうなんだ！なぜ？",
+            "timestamp": "2022-09-01T13:46:56.407000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FE",
+            "text": "脂身がおいしいと感じないんですよね。豚肉好きですか？",
+            "timestamp": "2022-09-01T13:47:14.290000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EP",
+            "text": "そうなんだー！そしたら料理、どうされてるんですか？好きですよー！",
+            "timestamp": "2022-09-01T13:47:31.946000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FE",
+            "text": "料理は鶏肉だけで作ってますね。料理自体苦手ですが。",
+            "timestamp": "2022-09-01T13:48:03.289000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EP",
+            "text": "そうなんですね！一人暮らしですか？",
+            "timestamp": "2022-09-01T13:48:15.657000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FE",
+            "text": "実家暮らしなので、料理はそんなしないです。でも将来のためにしなきゃなと思ってます。",
+            "timestamp": "2022-09-01T13:48:47.356000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EP",
+            "text": "そうなんですね。学生の方ですか？",
+            "timestamp": "2022-09-01T13:48:56.562000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FE",
+            "text": "そうです！",
+            "timestamp": "2022-09-01T13:49:14.556000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EP",
+            "text": "なるほど。料理はしなければいけない時に、できるようになるものなので、今を楽しんでください！",
+            "timestamp": "2022-09-01T13:49:37.816000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FE",
+            "text": "そうですね！ありがとうございます！",
+            "timestamp": "2022-09-01T13:49:52.917000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

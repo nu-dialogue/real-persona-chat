@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6022,
+    "interlocutors": [
+        "GQ",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GQ",
+            "text": "おはようございます！",
+            "timestamp": "2022-10-02T09:16:17.696000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "おはようございますー。",
+            "timestamp": "2022-10-02T09:16:28.048000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GQ",
+            "text": "朝ごはん食べましたか？",
+            "timestamp": "2022-10-02T09:16:39.503000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "はい。トーストに目玉焼きのせました。",
+            "timestamp": "2022-10-02T09:17:00.816000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GQ",
+            "text": "しっかりと食べてますね。私は昨夜の鍋の残りで雑炊です。",
+            "timestamp": "2022-10-02T09:17:27.336000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "もうお鍋したんですか！",
+            "timestamp": "2022-10-02T09:18:01.720000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GQ",
+            "text": "うちは夏でもします。でも最近、週に一度ペースですね。",
+            "timestamp": "2022-10-02T09:18:35.793000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "高頻度ですね。夏だとどんな具をいれるんですか？",
+            "timestamp": "2022-10-02T09:18:56.101000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GQ",
+            "text": "あまり変わらないです。しゃぶしゃぶが多いかな。暑いのにね。",
+            "timestamp": "2022-10-02T09:19:26.864000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "身体の中から温めるの良いですよ。気づかないけど冷房で身体の中冷えてたりしますからね。",
+            "timestamp": "2022-10-02T09:20:40.588000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GQ",
+            "text": "そうそう、体に良いから、と言いたい所ですが、ただの手抜きですよ。",
+            "timestamp": "2022-10-02T09:21:14.488000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "つゆは市販のものですか？今たくさんありますよねー",
+            "timestamp": "2022-10-02T09:21:48.527000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GQ",
+            "text": "たまに使いますが、昆布で出汁を取る水炊きが一番多いです。",
+            "timestamp": "2022-10-02T09:22:33.828000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "おーシンプルですね。市販のものが便利でなかなかやらないです。ポン酢ですか？",
+            "timestamp": "2022-10-02T09:23:36.926000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GQ",
+            "text": "そうです、我が家はポン酢の消費量がすごいです。",
+            "timestamp": "2022-10-02T09:24:12.934000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "うちも減塩を意識してから何かとポン酢です。便利ですよね。つけたり煮たり。",
+            "timestamp": "2022-10-02T09:24:51.994000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GQ",
+            "text": "分かります。子どもたちにも人気なので、色々使います。",
+            "timestamp": "2022-10-02T09:25:16.508000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "ポン酢人気なんですか？子供はマヨネーズ一択だと思ってました。鍋つゆだとゴマだれのイメージです。",
+            "timestamp": "2022-10-02T09:26:07.273000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GQ",
+            "text": "我が家はポン酢ですね。何にでもかけてます。私の方がマヨ好きです。",
+            "timestamp": "2022-10-02T09:26:43.712000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "昔のマヨネーズって今より酸味ありませんでした？",
+            "timestamp": "2022-10-02T09:27:37.753000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GQ",
+            "text": "あー、なんとなく分かるかも。",
+            "timestamp": "2022-10-02T09:28:00.721000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "旦那がすっぱいからマヨ嫌いだったんですが、最近のは酸味ないのを知って食べられるようになりました。",
+            "timestamp": "2022-10-02T09:28:47.561000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GQ",
+            "text": "そんなに違うんですね。マヨも色々便利で助かりますよね。",
+            "timestamp": "2022-10-02T09:29:33.224000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "種類増えましたよね。使い勝手いいのでマヨ嫌いと言われた時は困りました。",
+            "timestamp": "2022-10-02T09:30:14.056000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GQ",
+            "text": "確かに！私はオムレツ作る時に卵と混ぜて使います。",
+            "timestamp": "2022-10-02T09:30:45.632000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "あー絶対おいしいやつ！私は温野菜に直乗せします。マヨは福山雅治のおかげでイメージ改善した気がします。",
+            "timestamp": "2022-10-02T09:32:27.859000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GQ",
+            "text": "あのCMはずるいですよね。オムレツのマヨは焼き易くなるんですよ。やってみて下さい！",
+            "timestamp": "2022-10-02T09:33:03.343000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "やってみます！CMでやってるマヨで野菜炒めるのおいしいですよね。コクがでて。",
+            "timestamp": "2022-10-02T09:33:47.867000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GQ",
+            "text": "それはやったことないので、やってみます！",
+            "timestamp": "2022-10-02T09:34:08.312000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "炒飯も鍋肌でマヨを少し焦がして一緒に炒めるとおいしいですよ。",
+            "timestamp": "2022-10-02T09:34:47.683000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

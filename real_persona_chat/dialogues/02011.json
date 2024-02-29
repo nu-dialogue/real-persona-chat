@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2011,
+    "interlocutors": [
+        "BX",
+        "BA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BX",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-18T09:25:53.737000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BA",
+            "text": "宜しくお願いします",
+            "timestamp": "2022-08-18T09:25:54.914000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BX",
+            "text": "コーヒーはお好きですか？",
+            "timestamp": "2022-08-18T09:26:07.933000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BA",
+            "text": "すきです！",
+            "timestamp": "2022-08-18T09:26:12.922000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BX",
+            "text": "インスタントですか？ドリップですか？",
+            "timestamp": "2022-08-18T09:26:25.082000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BA",
+            "text": "家で上手に入れれなくて今家では飲んでません",
+            "timestamp": "2022-08-18T09:26:38.487000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BX",
+            "text": "お店で買う感じですね？",
+            "timestamp": "2022-08-18T09:26:46.776000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BA",
+            "text": "そうなんです、あなたは？",
+            "timestamp": "2022-08-18T09:26:52.995000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BX",
+            "text": "今はキャンプをするので手で淹れる事があります！",
+            "timestamp": "2022-08-18T09:27:11.436000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BA",
+            "text": "どうやってやってます？",
+            "timestamp": "2022-08-18T09:27:31.448000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BX",
+            "text": "手でゴリゴリ豆をつぶして紙のフィルターでやってます。",
+            "timestamp": "2022-08-18T09:27:54.758000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BA",
+            "text": "手で！？",
+            "timestamp": "2022-08-18T09:28:06.900000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BX",
+            "text": "あ、手動での意味です！",
+            "timestamp": "2022-08-18T09:28:11.419000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BA",
+            "text": "あ。なるほど",
+            "timestamp": "2022-08-18T09:28:21.440000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BX",
+            "text": "自動の物も少し興味がありますが。",
+            "timestamp": "2022-08-18T09:28:33.820000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BA",
+            "text": "時間かかりますもんね",
+            "timestamp": "2022-08-18T09:28:47.701000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BX",
+            "text": "でも何だか風情がない気がします！",
+            "timestamp": "2022-08-18T09:28:50.573000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BA",
+            "text": "そっかぁ。私もキャンプしてた時は、プレス？で入れてました",
+            "timestamp": "2022-08-18T09:29:09.983000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BX",
+            "text": "プレスもいいですね！フィルターいらないですもんね！",
+            "timestamp": "2022-08-18T09:29:21.059000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BA",
+            "text": "仕上がりはどう違うんだろう？",
+            "timestamp": "2022-08-18T09:29:32.626000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BX",
+            "text": "あまり味にはうるさくないのではっきりわかりません。",
+            "timestamp": "2022-08-18T09:29:44.045000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BA",
+            "text": "私もわからないだろうな、飲み比べても",
+            "timestamp": "2022-08-18T09:30:00.620000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BX",
+            "text": "豆の好みくらいはわかるんですけどねー。",
+            "timestamp": "2022-08-18T09:30:12.141000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BA",
+            "text": "家ではどういれてます？",
+            "timestamp": "2022-08-18T09:30:27.018000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BX",
+            "text": "キャンプのと同じセットか、インスタントですね。",
+            "timestamp": "2022-08-18T09:30:34.851000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BA",
+            "text": "マシンか、ポット？欲しいなぁーと思ってます、ずっと",
+            "timestamp": "2022-08-18T09:31:03.256000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BX",
+            "text": "ちょっとほしくなりますが、私に必要なのかどうか。",
+            "timestamp": "2022-08-18T09:31:17.589000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BA",
+            "text": "いらなそう？",
+            "timestamp": "2022-08-18T09:31:27.698000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BX",
+            "text": "夫はうっすいアメリカンを主に飲むからと言うのもあります。",
+            "timestamp": "2022-08-18T09:31:39.733000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BA",
+            "text": "なるほど",
+            "timestamp": "2022-08-18T09:31:57.600000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

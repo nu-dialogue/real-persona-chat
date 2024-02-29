@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8583,
+    "interlocutors": [
+        "BY",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BY",
+            "text": "どうも、よろしくお願いします！",
+            "timestamp": "2022-08-16T22:18:39.321000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こちらこそ！",
+            "timestamp": "2022-08-16T22:18:46.431000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BY",
+            "text": "麺類はお好きですか？",
+            "timestamp": "2022-08-16T22:18:52.202000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "大好きですよ！和洋中どれも！",
+            "timestamp": "2022-08-16T22:19:04.073000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BY",
+            "text": "おおー、同じですね！どれが一番好きです？",
+            "timestamp": "2022-08-16T22:19:17.600000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "よく食べるのはラーメンかな～",
+            "timestamp": "2022-08-16T22:19:32.612000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BY",
+            "text": "ラーメン、麺の太さとかだしとかこだわりありますか？",
+            "timestamp": "2022-08-16T22:19:51.255000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "スープはどれも好きで、麺は細麺のカタが好みです",
+            "timestamp": "2022-08-16T22:20:22.692000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BY",
+            "text": "うんうん、すごく共感します。家でも作られます？",
+            "timestamp": "2022-08-16T22:20:39.025000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "家でウェイパーという調味料使ってスープ作ったりやってみたんですが、どーにも麺が納得いかなかったです",
+            "timestamp": "2022-08-16T22:21:25.078000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BY",
+            "text": "ウェイパーは美味しいと聞きますけど、やはり麺は家だと難しいですよねー。",
+            "timestamp": "2022-08-16T22:21:47.126000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "あれはすごい調味料です！中華なんでも作れる気がします。麵だけは買ってました",
+            "timestamp": "2022-08-16T22:22:33.029000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BY",
+            "text": "なんでもこい！な懐深い調味料なんですね！麺は買ってきてもゆで方とかやっぱり難しくないですか？",
+            "timestamp": "2022-08-16T22:22:59.101000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "難しいです。お店でどんな感じに茹でてるのか全く分からないので",
+            "timestamp": "2022-08-16T22:23:44.628000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BY",
+            "text": "そうなんですよねー。専門店があるものって家での再現は難しいですね。私はフォーが好きなんです。",
+            "timestamp": "2022-08-16T22:24:10.260000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "ベトナム料理でしたっけ？",
+            "timestamp": "2022-08-16T22:26:59.646000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BY",
+            "text": "はい、そうなんです。一時、前世はベトナム人か？というくらいフォーをせっせと食べてました。",
+            "timestamp": "2022-08-16T22:27:30.909000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "そんなに食していたんですね笑私は海外研修で使った空港以来かな",
+            "timestamp": "2022-08-16T22:27:40.514000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BY",
+            "text": "会社の近所に3軒ベトナム料理店があって、毎週通っていました。出汁がみんな違って興味深いですよ。",
+            "timestamp": "2022-08-16T22:28:00.812000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "それは面白そうですね！私の近くには、インドカレーくらいしか外国食のお店無いですね",
+            "timestamp": "2022-08-16T22:28:36.825000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BY",
+            "text": "インドカレーも奥深いですよね。ライスで食べますか？それともナン？",
+            "timestamp": "2022-08-16T22:28:55.573000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "ナンですね！本場に倣って！",
+            "timestamp": "2022-08-16T22:30:22.334000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BY",
+            "text": "やはりそうですよね！ナンを初めて食べた時は、おいしくて衝撃でした。",
+            "timestamp": "2022-08-16T22:30:42.727000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "思いのほか香りとか触感凄いんですよね～　何も載ってないピザ生地だと思ってました",
+            "timestamp": "2022-08-16T22:31:24.205000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BY",
+            "text": "そうなんですよね。バターたっぷりな感じですよね。そしてあの特徴的な釜。",
+            "timestamp": "2022-08-16T22:31:53.626000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "見えるところだったんですが、すごい特徴的で面白かったです！",
+            "timestamp": "2022-08-16T22:32:43.732000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BY",
+            "text": "ね！あれ面白いですよね！なんで落ちないんだろう、とずっと見ていました！",
+            "timestamp": "2022-08-16T22:33:08.922000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "不思議ですよね~",
+            "timestamp": "2022-08-16T22:33:16.830000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BY",
+            "text": "外国料理は調理器具も違って、面白いなーと思います。",
+            "timestamp": "2022-08-16T22:33:41.299000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "そういうところに着目するのもまた、楽しみ方ですよね！",
+            "timestamp": "2022-08-16T22:34:35.276000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BY",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

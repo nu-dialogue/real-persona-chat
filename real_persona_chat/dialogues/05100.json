@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5100,
+    "interlocutors": [
+        "CX",
+        "GI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-19T17:31:46.201000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GI",
+            "text": "こんにちはー。",
+            "timestamp": "2022-09-19T17:31:51.896000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "というか、そろそろ暗くなってきたのでこんばんはの時間ですね。",
+            "timestamp": "2022-09-19T17:32:05.602000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね！雨戸閉めちゃっててわからなかったです。",
+            "timestamp": "2022-09-19T17:32:20.165000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "だいぶ暗くなってきました。雨雲の影響もあるのでしょうが。",
+            "timestamp": "2022-09-19T17:32:35.029000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GI",
+            "text": "ありそうですね。私は関西なのですが、今日の夜がやばいみたいです。",
+            "timestamp": "2022-09-19T17:32:56.565000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "そうですか。そろそろ上陸しそうですね。",
+            "timestamp": "2022-09-19T17:33:10.973000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GI",
+            "text": "そうですね。寝てる間に過ぎ去ってくれればいいのですが。",
+            "timestamp": "2022-09-19T17:33:30.905000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "なんか警報がやかましくなりそうですね。",
+            "timestamp": "2022-09-19T17:33:43.540000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GI",
+            "text": "確かに。ケータイが鳴り響きそうですね。",
+            "timestamp": "2022-09-19T17:33:57.377000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "少し前に豪雨警報がひたすら鳴ってて辛かったです。",
+            "timestamp": "2022-09-19T17:34:19.055000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GI",
+            "text": "そういう時ありますよね。まぁまぁな音しますよね。",
+            "timestamp": "2022-09-19T17:34:42.794000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "音量もですし、音自体もなんかビクってしますよね。",
+            "timestamp": "2022-09-19T17:35:05.056000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GI",
+            "text": "そうですね。目覚ましのアラームよりも不快かもしれません。",
+            "timestamp": "2022-09-19T17:35:28.646000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "必要なんでしょうが、もう少し心臓に優しい音にしてほしいです。",
+            "timestamp": "2022-09-19T17:35:44.403000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GI",
+            "text": "そうですね。必要なのですがその気持ちは同感です。",
+            "timestamp": "2022-09-19T17:36:02.916000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "明日からはお仕事ですか？",
+            "timestamp": "2022-09-19T17:36:14.251000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GI",
+            "text": "いえ。でも明日は出かける予定でした。",
+            "timestamp": "2022-09-19T17:36:27.221000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "なるほど、無事出かけられるといいですね。",
+            "timestamp": "2022-09-19T17:36:39.527000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GI",
+            "text": "電車を使う予定ですが、動くかどうか。",
+            "timestamp": "2022-09-19T17:36:52.477000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "新幹線とかが止まってしまうみたいですね。",
+            "timestamp": "2022-09-19T17:37:06.054000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GI",
+            "text": "そうなんですよね。大変ですね。",
+            "timestamp": "2022-09-19T17:37:19.957000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "どんなご予定なんですか？",
+            "timestamp": "2022-09-19T17:37:32.837000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GI",
+            "text": "電車で出かけるだけですよ。",
+            "timestamp": "2022-09-19T17:37:45.136000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "そうですか、出かけられると良いですね。",
+            "timestamp": "2022-09-19T17:37:57.166000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GI",
+            "text": "そうですね。無理なら予定組みなおすので早く知りたいですが。",
+            "timestamp": "2022-09-19T17:38:15.338000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "確かに、ダメならダメで早く言ってほしいですね。",
+            "timestamp": "2022-09-19T17:38:31.293000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GI",
+            "text": "そうなんですよ。どうなることやら。",
+            "timestamp": "2022-09-19T17:38:45.139000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "とりあえず無事なことが何よりですが。",
+            "timestamp": "2022-09-19T17:39:01.605000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GI",
+            "text": "そうですね。無理せず行きます。",
+            "timestamp": "2022-09-19T17:39:11.787000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9981,
+    "interlocutors": [
+        "CV",
+        "EX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CV",
+            "text": "こんばんは！よろしくお願いいたします。",
+            "timestamp": "2022-08-19T21:55:23.332000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EX",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-19T21:55:28.974000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CV",
+            "text": "今日の夕飯は、何を食べられました？",
+            "timestamp": "2022-08-19T21:55:36.892000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EX",
+            "text": "今日は餃子でした！",
+            "timestamp": "2022-08-19T21:55:44.630000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CV",
+            "text": "餃子いいですね！手作り？",
+            "timestamp": "2022-08-19T21:55:55.337000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EX",
+            "text": "いえ！外で食べてきました。手作りは自分はできなそうです。",
+            "timestamp": "2022-08-19T21:56:20.826000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CV",
+            "text": "手作りだと結構手間がかかりますもんね。王将とかですか？",
+            "timestamp": "2022-08-19T21:56:39.403000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EX",
+            "text": "まさにです！今日は何を？",
+            "timestamp": "2022-08-19T21:56:48.249000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CV",
+            "text": "いいですね、王将！私は今日は、サーモンクリームパスタでした",
+            "timestamp": "2022-08-19T21:57:13.638000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EX",
+            "text": "おしゃれ！",
+            "timestamp": "2022-08-19T21:57:20.549000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CV",
+            "text": "いやいや、サーモンが余っていたので！",
+            "timestamp": "2022-08-19T21:57:35.957000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EX",
+            "text": "自分で作ったんですか？",
+            "timestamp": "2022-08-19T21:57:46.840000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CV",
+            "text": "そうですね、生クリームとしめじとサーモンをあえただけですけど、、",
+            "timestamp": "2022-08-19T21:58:08.966000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EX",
+            "text": "軽く作れちゃうの憧れます。",
+            "timestamp": "2022-08-19T21:58:27.152000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CV",
+            "text": "パスタはたいていなんでも合うので、まぜるだけでOKですよ",
+            "timestamp": "2022-08-19T21:58:48.886000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EX",
+            "text": "でも何と何があうのかは知識いりますよねー。",
+            "timestamp": "2022-08-19T21:59:23.834000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CV",
+            "text": "確かに、、悩んだらクックパッド先生です！",
+            "timestamp": "2022-08-19T21:59:38.687000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EX",
+            "text": "間違いないですね！",
+            "timestamp": "2022-08-19T21:59:50.366000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CV",
+            "text": "本当に有り難いですよー、クックパッド様々です",
+            "timestamp": "2022-08-19T22:00:03.663000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EX",
+            "text": "あれって工程とかも細かく教えてくれるんですよね？",
+            "timestamp": "2022-08-19T22:00:24.564000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CV",
+            "text": "書いてる人にもよりますが、大体は写真つきで工程書いてくれてますね！",
+            "timestamp": "2022-08-19T22:00:49.768000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EX",
+            "text": "素人からしたら塩少々でつまづきます",
+            "timestamp": "2022-08-19T22:01:09.239000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CV",
+            "text": "わかります！少々って？！どれくらい！！",
+            "timestamp": "2022-08-19T22:01:19.467000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EX",
+            "text": "結構大事なポイントじゃないの？って思っちゃいますね。",
+            "timestamp": "2022-08-19T22:01:49.177000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CV",
+            "text": "あんまり自炊はされないですか？",
+            "timestamp": "2022-08-19T22:01:56.182000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EX",
+            "text": "あまりしないんですよ。",
+            "timestamp": "2022-08-19T22:02:05.796000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CV",
+            "text": "そうなんですね。なんだかんだ、外食のほうが美味しいですしね、、",
+            "timestamp": "2022-08-19T22:02:33.374000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EX",
+            "text": "今度簡単なおすすめレシピ教えて下さい！",
+            "timestamp": "2022-08-19T22:02:48.126000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CV",
+            "text": "私もワンパターンのローテーションなので、教えられるほどではないですよー汗",
+            "timestamp": "2022-08-19T22:03:25.506000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EX",
+            "text": "それでもありがたいです！",
+            "timestamp": "2022-08-19T22:03:38.802000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EX",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

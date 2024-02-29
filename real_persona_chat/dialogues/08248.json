@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 8248,
+    "interlocutors": [
+        "BP",
+        "BL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BP",
+            "text": "こんばんは。宜しくお願いいたします。",
+            "timestamp": "2022-08-04T23:30:59.016000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BL",
+            "text": "こんばんは、よろしくお願いいたします。",
+            "timestamp": "2022-08-04T23:31:19.976000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BP",
+            "text": "毎日暑いですが、お元気ですか？",
+            "timestamp": "2022-08-04T23:31:31.964000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BL",
+            "text": "はい、一時期夏バテしかけましたが、復活しました。",
+            "timestamp": "2022-08-04T23:32:07.933000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BP",
+            "text": "それは良かったです。夏バテしやすい気候ですよね。",
+            "timestamp": "2022-08-04T23:32:21.642000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BL",
+            "text": "夏になると血圧が下がるので、余計にしんどいのです。",
+            "timestamp": "2022-08-04T23:32:54.997000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BP",
+            "text": "そうなんですか？普段血圧測らないのですが、夏は一般的に下がりやすいんでしょうか。",
+            "timestamp": "2022-08-04T23:33:21.860000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BL",
+            "text": "暑いと血管が広がるので、下がるみたいですよ。",
+            "timestamp": "2022-08-04T23:33:43.415000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BP",
+            "text": "なるほどー。それはわかりやすいです。冬は確かに上がりやすいって聞きました。",
+            "timestamp": "2022-08-04T23:34:09.635000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BL",
+            "text": "そうです、冬の逆パターンですね。",
+            "timestamp": "2022-08-04T23:34:30.140000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BP",
+            "text": "今まであまり気にしてませんでした。眠くなるのもそのせいでしょうか。",
+            "timestamp": "2022-08-04T23:34:53.154000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BL",
+            "text": "そういえば、夏はやたら眠いですね。そのせいかも？",
+            "timestamp": "2022-08-04T23:35:18.494000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BP",
+            "text": "春先もなんですけど、最近眠いんですよねー。",
+            "timestamp": "2022-08-04T23:35:31.670000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BL",
+            "text": "そして、冬もまた、布団から出にくいという。",
+            "timestamp": "2022-08-04T23:35:54.256000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BP",
+            "text": "確かにー。ちょうど良い気候の時期が、少ないですよね。",
+            "timestamp": "2022-08-04T23:36:09.865000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BL",
+            "text": "どの季節が好きですか？",
+            "timestamp": "2022-08-04T23:36:33.996000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BP",
+            "text": "私は、秋が好きです。夏もカラッとしてたらいいですね。",
+            "timestamp": "2022-08-04T23:36:50.068000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BL",
+            "text": "秋は過ごしやすいですよねー。私も秋が好きです。",
+            "timestamp": "2022-08-04T23:37:20.739000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BP",
+            "text": "果物とか、さんまも美味しいですし、いいですよね。",
+            "timestamp": "2022-08-04T23:37:36.187000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BL",
+            "text": "実りの秋、食欲の秋ですね。",
+            "timestamp": "2022-08-04T23:37:55.030000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BP",
+            "text": "この暑い夏を乗り切ったら、秋がやってきますねー。",
+            "timestamp": "2022-08-04T23:38:06.533000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BL",
+            "text": "秋の食べ物は何が好きですか？",
+            "timestamp": "2022-08-04T23:38:22.789000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BP",
+            "text": "秋ナスが一番好きです。あとはきのこ類ですね。",
+            "timestamp": "2022-08-04T23:38:39.933000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BL",
+            "text": "いいですねー！キノコ狩りなども楽しそうです",
+            "timestamp": "2022-08-04T23:39:20.500000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BP",
+            "text": "そうですね。まだきのこ狩りの経験はないですが、やってみたいです。",
+            "timestamp": "2022-08-04T23:39:36.932000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BL",
+            "text": "松茸狩りは行ったことありますが、楽しかったですよー。",
+            "timestamp": "2022-08-04T23:40:10.882000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BP",
+            "text": "松茸！いいですね。新鮮な松茸食べてみたいです！",
+            "timestamp": "2022-08-04T23:40:29.738000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BL",
+            "text": "その松茸で炊いた松茸ご飯が絶品でした！",
+            "timestamp": "2022-08-04T23:41:04.201000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BP",
+            "text": "それは美味しそうですねー。次の秋には、食べてみたいです。",
+            "timestamp": "2022-08-04T23:41:22.620000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BL",
+            "text": "ぜひぜひ。楽しい秋をお過ごしください。",
+            "timestamp": "2022-08-04T23:41:47.527000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "BP",
+            "text": "はい、今年の秋も楽しみにしています。",
+            "timestamp": "2022-08-04T23:41:59.520000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BP",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BL",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

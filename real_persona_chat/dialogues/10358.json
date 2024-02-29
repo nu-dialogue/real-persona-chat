@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10358,
+    "interlocutors": [
+        "CE",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-13T09:30:56.818000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます！よろしくお願いします！",
+            "timestamp": "2022-08-13T09:31:08.085000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "朝ご飯はもうお済みですか？",
+            "timestamp": "2022-08-13T09:31:23.301000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "はいもう食べました！<CE>さんは召し上がりましたか？",
+            "timestamp": "2022-08-13T09:31:45.064000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "私もついさっきパパっと食べました！メニューを伺っても？",
+            "timestamp": "2022-08-13T09:32:09.033000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "超手抜きでTKGです。あと味噌汁とかサラダとか。",
+            "timestamp": "2022-08-13T09:32:31.434000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "TKGは最強の朝ご飯なので大丈夫です！味噌汁とサラダまで！全然手抜きじゃないですよ。",
+            "timestamp": "2022-08-13T09:33:06.762000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "子どもが昔、便秘体質で苦労したので、サラダは欠かせなくなりましたね。",
+            "timestamp": "2022-08-13T09:34:02.491000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "なるほど、食物繊維多めの食事を心がけられてるんですね。",
+            "timestamp": "2022-08-13T09:34:29.033000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "頑張り過ぎない程度に気を付けてます。<CE>さんは何を召し上がりましたか？",
+            "timestamp": "2022-08-13T09:35:12.341000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "私は、オートミールと果物と野菜スムージーでした！",
+            "timestamp": "2022-08-13T09:35:49.352000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "オートミールとスムージーいいですね。スムージーは何を入れてますか？",
+            "timestamp": "2022-08-13T09:36:10.467000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "市販のスムージーなので詳しくはわからないのですが、ケールとか入ってますね！グリーンスムージーです。",
+            "timestamp": "2022-08-13T09:37:13.045000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "スムージーは、食材揃えるのが大変ですもんね！私も買っちゃいます。",
+            "timestamp": "2022-08-13T09:37:43.489000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "たまに自分で作ることもあるんですか？",
+            "timestamp": "2022-08-13T09:38:05.804000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "やろうと思って、挫折しました！美味しく飲むにはハードルが高いなと。",
+            "timestamp": "2022-08-13T09:38:33.362000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "しばらく物が噛めない状態なので、私も食物繊維のためにスムージー自作しようかと。",
+            "timestamp": "2022-08-13T09:39:40.014000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "それは大変ですね！！歯の治療中とかですか？",
+            "timestamp": "2022-08-13T09:39:59.425000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "そうなんです。歯の矯正で、最近手術しまして。",
+            "timestamp": "2022-08-13T09:40:20.803000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "おお、それはそれは。今も痛かったりしますか？",
+            "timestamp": "2022-08-13T09:40:38.893000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "痛みはほとんどないんですけどね、嚙み合わせが今までと変わってしまって、噛む動作が難しくて。",
+            "timestamp": "2022-08-13T09:41:31.280000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "なるほど！慣れてた噛み合わせが変わると難しそうですよね。",
+            "timestamp": "2022-08-13T09:42:01.281000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "そうなんですよ！今までどうやって噛んでたのか全然思い出せないくらい、ぎこちない動きです。",
+            "timestamp": "2022-08-13T09:42:38.467000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "噛む動作なんて物心つくまえから無意識でやってますもんね。新たに習得するのは大変そうです",
+            "timestamp": "2022-08-13T09:43:10.772000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "いつゴボウ噛めるようになるんだとそわそわしてます。ゴボウ好きなので。",
+            "timestamp": "2022-08-13T09:43:37.184000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "ごぼう！ラスボスっぽい感じしますね。",
+            "timestamp": "2022-08-13T09:44:00.194000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "ゴボウは強いですからね。レンコンも好きです。",
+            "timestamp": "2022-08-13T09:44:30.910000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "ごぼうも蓮根も好きです。あと、ごぼう茶とかごぼうチップスも好きです",
+            "timestamp": "2022-08-13T09:44:55.123000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "わかりますー！私も大好きです！",
+            "timestamp": "2022-08-13T09:45:21.636000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "最近のごぼう茶は炊き込みご飯つくれるくらい美味しいですよね。お話ありがとうございました！",
+            "timestamp": "2022-08-13T09:45:41.632000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5501,
+    "interlocutors": [
+        "EV",
+        "CN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、よろしくお願いします。",
+            "timestamp": "2022-09-24T19:59:58.892000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CN",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-24T20:00:21.243000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EV",
+            "text": "そちらのお天気はどうですか？",
+            "timestamp": "2022-09-24T20:00:27.266000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CN",
+            "text": "雨が降ってます",
+            "timestamp": "2022-09-24T20:00:32.658000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EV",
+            "text": "そうですか、こちらはどんよりした天気です。",
+            "timestamp": "2022-09-24T20:00:47.728000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CN",
+            "text": "台風はもう過ぎましたか？",
+            "timestamp": "2022-09-24T20:00:56.329000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EV",
+            "text": "過ぎたと思いますよ。",
+            "timestamp": "2022-09-24T20:01:06.058000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CN",
+            "text": "温帯低気圧に変わってますね",
+            "timestamp": "2022-09-24T20:01:19.239000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EV",
+            "text": "はい、もともと弱めでしたし",
+            "timestamp": "2022-09-24T20:01:30.302000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CN",
+            "text": "一時は雷雨がすごかったです",
+            "timestamp": "2022-09-24T20:01:47.248000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EV",
+            "text": "そうですね、気圧のわりに天気は悪かった気がします",
+            "timestamp": "2022-09-24T20:02:06.174000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CN",
+            "text": "気圧で判断されてるんですね",
+            "timestamp": "2022-09-24T20:02:19.640000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EV",
+            "text": "台風の強さはそうですね、中心気圧で大体判断します",
+            "timestamp": "2022-09-24T20:02:39.439000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CN",
+            "text": "1つか2つ前のが強力でしたね",
+            "timestamp": "2022-09-24T20:02:55.938000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EV",
+            "text": "１つ前ですね。凄く強かったです",
+            "timestamp": "2022-09-24T20:03:07.509000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CN",
+            "text": "一番低いときで915とかでしたっけ",
+            "timestamp": "2022-09-24T20:03:21.255000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EV",
+            "text": "そのくらいでした。驚きました",
+            "timestamp": "2022-09-24T20:03:31.056000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CN",
+            "text": "最低記録に近かったらしいですね",
+            "timestamp": "2022-09-24T20:03:40.634000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EV",
+            "text": "九州に直撃していましたね",
+            "timestamp": "2022-09-24T20:04:00.513000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CN",
+            "text": "スピードも遅かったので沖縄の友人は大変だったそうです",
+            "timestamp": "2022-09-24T20:04:24.869000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。停電が長引いたと聞きます",
+            "timestamp": "2022-09-24T20:04:37.204000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CN",
+            "text": "強風が続いていたので直すのも大変だったんでしょうね",
+            "timestamp": "2022-09-24T20:04:59.804000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EV",
+            "text": "そうでしょうね。感謝しかないです",
+            "timestamp": "2022-09-24T20:05:10.976000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CN",
+            "text": "工事してくださる方々には感謝しかないですね",
+            "timestamp": "2022-09-24T20:05:28.016000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EV",
+            "text": "はい、土砂降りの中大変だと思います",
+            "timestamp": "2022-09-24T20:05:43.245000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CN",
+            "text": "そうでしょうね。",
+            "timestamp": "2022-09-24T20:05:57.408000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EV",
+            "text": "事故の危険性もありますし。",
+            "timestamp": "2022-09-24T20:06:09.945000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CN",
+            "text": "高い場所での工事になるでしょうしね",
+            "timestamp": "2022-09-24T20:06:23.651000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EV",
+            "text": "はい、落ちたら大変です",
+            "timestamp": "2022-09-24T20:06:35.411000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CN",
+            "text": "注意はされてるとは思いますが大変ですね",
+            "timestamp": "2022-09-24T20:06:48.105000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

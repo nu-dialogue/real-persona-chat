@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11116,
+    "interlocutors": [
+        "IO",
+        "EI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IO",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-08-19T15:15:36.492000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EI",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T15:15:49.200000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IO",
+            "text": "そちらの天気はいかがですか？",
+            "timestamp": "2022-08-19T15:16:04.742000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EI",
+            "text": "快晴です！そちらはいかがですか？",
+            "timestamp": "2022-08-19T15:16:27.622000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IO",
+            "text": "こちらも今日は晴れてますね。最近雨が異常に多いんです。",
+            "timestamp": "2022-08-19T15:16:52.366000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EI",
+            "text": "2日前くらいまでこちらもずっと雨でした",
+            "timestamp": "2022-08-19T15:17:10.341000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IO",
+            "text": "なんかおかしいですね。梅雨が明けたのにずっと梅雨みたいな感じです。",
+            "timestamp": "2022-08-19T15:17:36.409000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EI",
+            "text": "そうですね、雨は気分が下がります",
+            "timestamp": "2022-08-19T15:17:53.842000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IO",
+            "text": "昨日は急に土砂降りになりまして。びっくりしました。",
+            "timestamp": "2022-08-19T15:18:13.704000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EI",
+            "text": "そうなんですか！こちらは関西ですが雨降らなかったです",
+            "timestamp": "2022-08-19T15:18:39.229000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IO",
+            "text": "私も関西圏です！私がいるのが山の方だからでしょうか。",
+            "timestamp": "2022-08-19T15:19:23.837000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EI",
+            "text": "どうなんでしょうか、急に降るのはほんと嫌ですよね",
+            "timestamp": "2022-08-19T15:19:55.911000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IO",
+            "text": "急なのは本当困りますね。災害も怖いですし。",
+            "timestamp": "2022-08-19T15:20:19.163000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EI",
+            "text": "山のほうでしたら、特に怖いですね",
+            "timestamp": "2022-08-19T15:20:42.030000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IO",
+            "text": "そうなんですよ、家の裏が山なんです。",
+            "timestamp": "2022-08-19T15:21:03.712000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EI",
+            "text": "大丈夫でしたか？",
+            "timestamp": "2022-08-19T15:21:22.859000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IO",
+            "text": "そうですね！今のところは。まだすぐにやんでくれているので。",
+            "timestamp": "2022-08-19T15:21:54.225000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EI",
+            "text": "今まで被害などはなかったでしょうか？",
+            "timestamp": "2022-08-19T15:22:16.435000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IO",
+            "text": "大きい被害などはなかったかと。たまに道路に落石ありますが。",
+            "timestamp": "2022-08-19T15:23:13.096000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EI",
+            "text": "それはよかったです、落石は怖いですね。でもとても空気が綺麗そうです",
+            "timestamp": "2022-08-19T15:23:40.535000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IO",
+            "text": "元々は違うところ出身なんですが、空気は違う気がしますね！",
+            "timestamp": "2022-08-19T15:24:08.573000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EI",
+            "text": "やっぱりそうなんですね！自分は目の前に工場があるのでつらいです",
+            "timestamp": "2022-08-19T15:24:33.940000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IO",
+            "text": "それは辛いですね。洗濯物とかにも影響ありそう。",
+            "timestamp": "2022-08-19T15:25:06.753000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EI",
+            "text": "もっぱら除湿器とサキュレーターで室内干しです",
+            "timestamp": "2022-08-19T15:25:35.377000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IO",
+            "text": "そうなんですか！やはり外干しはできないですか？",
+            "timestamp": "2022-08-19T15:26:09.463000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EI",
+            "text": "多分全然大丈夫なんですけど、虫がとても苦手なんです",
+            "timestamp": "2022-08-19T15:26:40.473000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IO",
+            "text": "そうなんですね。夏場は特に出ますからねー。",
+            "timestamp": "2022-08-19T15:27:11.268000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EI",
+            "text": "はい、虫はお好きですか？",
+            "timestamp": "2022-08-19T15:27:23.208000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IO",
+            "text": "特に好きではないですけど、山にはいっぱいいるので共存してます。",
+            "timestamp": "2022-08-19T15:28:01.588000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EI",
+            "text": "それは素敵ですね",
+            "timestamp": "2022-08-19T15:28:11.853000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EI",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

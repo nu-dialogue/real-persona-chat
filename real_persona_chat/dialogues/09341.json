@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9341,
+    "interlocutors": [
+        "BQ",
+        "DG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-07T22:57:20.005000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DG",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-07T22:57:23.943000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "突然ですが、宝くじが当たったら何に使いますか？",
+            "timestamp": "2022-08-07T22:57:36.463000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DG",
+            "text": "えー！結婚後の新居とかにあてたいです！",
+            "timestamp": "2022-08-07T22:57:57.006000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "新居いいですね。大豪邸ができそうです。",
+            "timestamp": "2022-08-07T22:58:12.254000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DG",
+            "text": "無難にマンションを買って残りは貯金とか。夢ないですねー",
+            "timestamp": "2022-08-07T22:58:35.368000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "当たっても中々使えそうにないですよね。",
+            "timestamp": "2022-08-07T22:59:04.064000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DG",
+            "text": "そうですね！なんか怖くなりそうです。<BQ>さんは使い道なんですか？",
+            "timestamp": "2022-08-07T22:59:22.255000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "かっこいい車がほしいですね。",
+            "timestamp": "2022-08-07T22:59:47.303000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DG",
+            "text": "おお！なんかいいです！その方が当たった感があります！",
+            "timestamp": "2022-08-07T23:00:01.514000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "案外<DG>さんの使い道の方が堅実でいいかもですね。",
+            "timestamp": "2022-08-07T23:00:40.713000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DG",
+            "text": "いえいえー、つい保守的になってしまいました！あとはヨーロッパとか旅行にいきたいです！",
+            "timestamp": "2022-08-07T23:01:08.258000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "旅行もいいですね。世界一周とか憧れます。",
+            "timestamp": "2022-08-07T23:01:23.824000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DG",
+            "text": "やる人すごいですよね！バックパッカーとか。",
+            "timestamp": "2022-08-07T23:01:37.998000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "資金があるならファーストクラスで一周とかもできちゃいますね。",
+            "timestamp": "2022-08-07T23:02:01.252000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DG",
+            "text": "夢が膨らみます。シャンパン飲みたい。",
+            "timestamp": "2022-08-07T23:02:14.753000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "実はまだ飛行機に乗ったことがないのですが、乗ったことはありますか？",
+            "timestamp": "2022-08-07T23:02:34.067000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DG",
+            "text": "そうなんですね！私はあります。長くて退屈ですが！",
+            "timestamp": "2022-08-07T23:02:52.968000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "飛行機って結構ゆれたりしますか？",
+            "timestamp": "2022-08-07T23:03:21.866000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DG",
+            "text": "私はビビリなので結構少しの揺れにも敏感かもです。",
+            "timestamp": "2022-08-07T23:03:43.869000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "私は酔いやすいっていうのもあって敬遠しちゃいますね。",
+            "timestamp": "2022-08-07T23:04:06.901000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DG",
+            "text": "バスとかよりは酔わないですが、結構荒れてると揺れるので驚かれるかもです。",
+            "timestamp": "2022-08-07T23:04:34.242000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "海外旅行には行かれたことはありますか？",
+            "timestamp": "2022-08-07T23:04:58.228000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DG",
+            "text": "もう１０年くらい前ですが、アメリカにいきました。",
+            "timestamp": "2022-08-07T23:05:15.332000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "アメリカいいですね。私はフロリダに行ってみたいです。",
+            "timestamp": "2022-08-07T23:05:32.550000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DG",
+            "text": "ディズニーランドがあるところですね！",
+            "timestamp": "2022-08-07T23:05:46.245000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "そうです。ビーチもきれいらしいのでいつか行きたいんです。",
+            "timestamp": "2022-08-07T23:06:10.920000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DG",
+            "text": "いいですね！早く平和な世の中になっていけたらいいですよね。",
+            "timestamp": "2022-08-07T23:06:28.582000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "本当ですね。今は英語を覚えることを頑張らないとです。",
+            "timestamp": "2022-08-07T23:06:48.047000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DG",
+            "text": "是非がんばってくださいね！ありがとうございました！",
+            "timestamp": "2022-08-07T23:06:59.731000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

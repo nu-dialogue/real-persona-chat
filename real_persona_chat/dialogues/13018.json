@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13018,
+    "interlocutors": [
+        "GG",
+        "FO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GG",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T16:20:04.448000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FO",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-15T16:20:06.285000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GG",
+            "text": "今日の晩御飯は何食べるか決めていますか？",
+            "timestamp": "2022-09-15T16:20:33.403000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FO",
+            "text": "いえ、味噌汁を作ってみたいなーとは思いますが有言実行できない性格でして。",
+            "timestamp": "2022-09-15T16:21:06.873000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GG",
+            "text": "味噌汁ですか！出汁とか取るのですか？",
+            "timestamp": "2022-09-15T16:21:35.716000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FO",
+            "text": "煮干しになるかと思います。家庭科ぐらいでしか経験がなくて。",
+            "timestamp": "2022-09-15T16:22:06.333000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GG",
+            "text": "とりあえず何かで出汁を取ればいけると思います！",
+            "timestamp": "2022-09-15T16:22:43.310000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FO",
+            "text": "母が作ってるのは見たことあるので難しくないかと。",
+            "timestamp": "2022-09-15T16:23:20.835000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GG",
+            "text": "得意料理とかありますか？",
+            "timestamp": "2022-09-15T16:23:44.565000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FO",
+            "text": "キノコスパゲッティでしょうか。",
+            "timestamp": "2022-09-15T16:23:52.711000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GG",
+            "text": "おしゃれな食べ物ですね！",
+            "timestamp": "2022-09-15T16:24:09.902000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FO",
+            "text": "おしゃれというか、普通のスパゲッティですよ。",
+            "timestamp": "2022-09-15T16:24:19.895000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GG",
+            "text": "私は焼きそばとかチャーハンしか作れないです。",
+            "timestamp": "2022-09-15T16:24:45.737000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FO",
+            "text": "中華系ですね。",
+            "timestamp": "2022-09-15T16:25:04.303000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GG",
+            "text": "とりあえず焼くことだけはできます。",
+            "timestamp": "2022-09-15T16:25:24.043000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FO",
+            "text": "あなたは一人暮らしですか？",
+            "timestamp": "2022-09-15T16:25:54.563000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GG",
+            "text": "はい！一人暮らし中です！",
+            "timestamp": "2022-09-15T16:26:10.772000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FO",
+            "text": "外食もたまにするんですか？",
+            "timestamp": "2022-09-15T16:26:37.697000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GG",
+            "text": "あまりしないです。弁当とかが多いです。",
+            "timestamp": "2022-09-15T16:27:06.057000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FO",
+            "text": "ご自分でおつくりになられるんですか？",
+            "timestamp": "2022-09-15T16:27:31.347000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GG",
+            "text": "チャーハンと焼きそばと焼き魚のローテーションです。",
+            "timestamp": "2022-09-15T16:28:01.834000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FO",
+            "text": "野菜とかは入れないんですか？",
+            "timestamp": "2022-09-15T16:28:27.827000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GG",
+            "text": "たまにもやしが入るくらいです。",
+            "timestamp": "2022-09-15T16:28:51.819000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FO",
+            "text": "安く済みそうですね、もやしだと。",
+            "timestamp": "2022-09-15T16:29:07.278000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GG",
+            "text": "もやしは家計の救世主です。",
+            "timestamp": "2022-09-15T16:29:28.584000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FO",
+            "text": "納豆とかどうですか？うちで食べる時とかに。",
+            "timestamp": "2022-09-15T16:30:15.323000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GG",
+            "text": "確かに！納豆はお得ですしね！",
+            "timestamp": "2022-09-15T16:30:41.872000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FO",
+            "text": "体にいいですからね。最近納豆とバナナは欠かさないようにしてます。",
+            "timestamp": "2022-09-15T16:31:07.213000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GG",
+            "text": "納豆とバナナ、後でスーパーで買ってきます！",
+            "timestamp": "2022-09-15T16:31:33.890000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FO",
+            "text": "いいですね。",
+            "timestamp": "2022-09-15T16:31:38.674000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

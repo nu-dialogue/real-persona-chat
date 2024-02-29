@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11756,
+    "interlocutors": [
+        "ES",
+        "DN"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "ES",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-26T13:55:57.915000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。よろしくお願いいたします。",
+            "timestamp": "2022-08-26T13:56:02.761000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "ES",
+            "text": "今日の晩御飯は決まりましたか？",
+            "timestamp": "2022-08-26T14:15:04.968000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DN",
+            "text": "いいえ、まだ決めていません。もう決められたのですか？",
+            "timestamp": "2022-08-26T14:15:29.779000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "ES",
+            "text": "今迷っています。昨日豚肉を買っていて。",
+            "timestamp": "2022-08-26T14:15:57.807000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DN",
+            "text": "なるほど。豚肉はバラ肉ですか？",
+            "timestamp": "2022-08-26T14:16:24.056000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "ES",
+            "text": "もも薄切り肉なんです。",
+            "timestamp": "2022-08-26T14:16:36.102000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DN",
+            "text": "それはなかなか献立が立てにくいでしょうか。",
+            "timestamp": "2022-08-26T14:17:01.727000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "ES",
+            "text": "毎日迷ってしまいますね。どうやって決めていますか？",
+            "timestamp": "2022-08-26T14:17:18.258000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DN",
+            "text": "私は夕方遅めの特売で購入したものをそのままいただくことが多いです。",
+            "timestamp": "2022-08-26T14:17:40.103000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "ES",
+            "text": "なるほど、私は午前中に行くことが多いのですが、夕方お安いですか？",
+            "timestamp": "2022-08-26T14:18:09.750000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DN",
+            "text": "はい。特におさかなやお刺身なんか半額以下のことがよくあります。",
+            "timestamp": "2022-08-26T14:18:29.217000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "ES",
+            "text": "すごいですね！買ってきてすぐ調理するという感じでしょうか？",
+            "timestamp": "2022-08-26T14:18:51.072000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DN",
+            "text": "調理というより、並べるだけが多いのですが。",
+            "timestamp": "2022-08-26T14:19:07.331000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "ES",
+            "text": "例えばお肉だったら、焼いて、ということですか？",
+            "timestamp": "2022-08-26T14:19:25.384000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DN",
+            "text": "はい。野菜と一緒に調理できるソースを買って料理する程度なんです。",
+            "timestamp": "2022-08-26T14:19:52.612000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "ES",
+            "text": "それは便利でおいしそうですね！調味料コーナーに売ってますか？",
+            "timestamp": "2022-08-26T14:20:14.925000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DN",
+            "text": "カレーや中華メニューのところにレトルトで置いてありますよ。",
+            "timestamp": "2022-08-26T14:20:35.848000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "ES",
+            "text": "知らなかったです、さっそく次行ったとき見てみます。",
+            "timestamp": "2022-08-26T14:20:55.887000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DN",
+            "text": "あとはパスタソースを使ってお肉を焼いて野菜を並べます。",
+            "timestamp": "2022-08-26T14:21:16.597000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "ES",
+            "text": "パスタソース、そんな使い方もできるんですね！主に何味を使いますか？",
+            "timestamp": "2022-08-26T14:21:43.303000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DN",
+            "text": "トマトソースならば鶏肉やミンチに野菜を加えます。",
+            "timestamp": "2022-08-26T14:22:05.046000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "ES",
+            "text": "ミンチ肉っていいですよね。火が通るの早いですし！",
+            "timestamp": "2022-08-26T14:22:23.118000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。あとはあさりボンゴレソースを水で薄めてジャガイモを入れてスープにします。",
+            "timestamp": "2022-08-26T14:22:44.911000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "ES",
+            "text": "おいしい洋風スープになりそうですね！",
+            "timestamp": "2022-08-26T14:23:12.571000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DN",
+            "text": "はい。特売の白身魚やアサリ、キノコを加えるととてもおいしいです。",
+            "timestamp": "2022-08-26T14:23:33.916000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "ES",
+            "text": "白身魚はそのまま入れてますか？下処理とかされていますか？",
+            "timestamp": "2022-08-26T14:23:53.149000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DN",
+            "text": "大体処理されていることが多いのでそのまま使うことが多いです。",
+            "timestamp": "2022-08-26T14:24:11.616000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "ES",
+            "text": "魚レシピ悩んでいたのでとても勉強になりました！",
+            "timestamp": "2022-08-26T14:24:25.686000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DN",
+            "text": "パスタソース、便利ですね！",
+            "timestamp": "2022-08-26T14:24:36.837000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "ES",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

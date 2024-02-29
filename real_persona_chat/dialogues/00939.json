@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 939,
+    "interlocutors": [
+        "AI",
+        "BI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "こんばんわ",
+            "timestamp": "2022-08-11T17:04:19.305000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BI",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T17:04:25.569000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "語学は得意ですか",
+            "timestamp": "2022-08-11T17:04:31.339000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BI",
+            "text": "とんでもありません！日本語で精一杯です。",
+            "timestamp": "2022-08-11T17:04:45.331000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "日本語より英語の方が楽じゃないですか",
+            "timestamp": "2022-08-11T17:04:56.953000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BI",
+            "text": "それはできる人だからです！まず聞き取れないですもん。",
+            "timestamp": "2022-08-11T17:05:16.021000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "いや、私もあれですよ、イギリス英語は全くわかりません",
+            "timestamp": "2022-08-11T17:05:29.194000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BI",
+            "text": "方言っぽいってことでしょうか？",
+            "timestamp": "2022-08-11T17:05:46.119000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "回りくどい、結論をいわない、とにかく長い、皮肉入り",
+            "timestamp": "2022-08-11T17:05:59.763000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BI",
+            "text": "アメリカ英語はバッチリ？",
+            "timestamp": "2022-08-11T17:06:11.904000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "いや、速いのはあれですが、意思の疎通はやりやすいと思います",
+            "timestamp": "2022-08-11T17:06:34.700000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BI",
+            "text": "すごいですね！国によって、癖もあるんですね！",
+            "timestamp": "2022-08-11T17:06:57.575000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "はい、しかもイギリス流はその回りくどいのが丁寧でノーブルだと思っている節があって",
+            "timestamp": "2022-08-11T17:07:16.802000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BI",
+            "text": "日本語も、ニュアンスが難しい時とかありますね。",
+            "timestamp": "2022-08-11T17:07:36.522000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "はい、イギリス人からみると、アメリカ英語は「風呂、飯、寝る」的に聞こえるらしい",
+            "timestamp": "2022-08-11T17:07:53.842000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BI",
+            "text": "あはは！だからイギリスは逆に回りくどく感じるんですね。",
+            "timestamp": "2022-08-11T17:08:16.435000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "今日はすさまじい暑さだったね、かなり汗かいたよ。窓をあけてもいいんだけど、余計に暑くなるかな",
+            "timestamp": "2022-08-11T17:08:39.955000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BI",
+            "text": "ちょっと、いやかなり、めんどくさそうですね。",
+            "timestamp": "2022-08-11T17:08:57.631000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "これはこれで、だるいでしょ",
+            "timestamp": "2022-08-11T17:09:05.503000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BI",
+            "text": "はい！ほんと、結論が遠い！",
+            "timestamp": "2022-08-11T17:09:16.615000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "しかもこれを、鼻にかけた癖の強いアクセントでやるから",
+            "timestamp": "2022-08-11T17:09:32.968000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BI",
+            "text": "聞き取りにくいのでしょうか。",
+            "timestamp": "2022-08-11T17:09:45.651000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "はい、なんていうか、お公家さんのアクセント風をイメージしてもらって",
+            "timestamp": "2022-08-11T17:10:02.859000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BI",
+            "text": "かなり癖が強そうな。",
+            "timestamp": "2022-08-11T17:10:17.336000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "今日は暑くておじゃる　的",
+            "timestamp": "2022-08-11T17:10:27.607000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BI",
+            "text": "それはすごい！英語分からないけど、めっちゃ面白いですね！",
+            "timestamp": "2022-08-11T17:10:49.182000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "確かに、どこか京都風っていうか、ぶぶ漬けどうどすか的なとこあるかも",
+            "timestamp": "2022-08-11T17:11:11.457000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BI",
+            "text": "地方による違いも、外国だと微妙ですね。",
+            "timestamp": "2022-08-11T17:11:34.657000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "はい、彼らのメールがまたやばいんです",
+            "timestamp": "2022-08-11T17:11:50.035000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BI",
+            "text": "読み書き全て、なんですね！",
+            "timestamp": "2022-08-11T17:12:08.528000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

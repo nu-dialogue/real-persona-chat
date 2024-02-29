@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5352,
+    "interlocutors": [
+        "FA",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FA",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T17:12:33.035000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T17:12:40.923000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FA",
+            "text": "今日の昼食は何を食べましたか？",
+            "timestamp": "2022-09-23T17:13:07.492000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "パスタ食べましたよ！",
+            "timestamp": "2022-09-23T17:13:17.272000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FA",
+            "text": "おー！いいですね！ちなみに何味のパスタだったのでしょう。",
+            "timestamp": "2022-09-23T17:13:39.414000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "トマトソースかけただけですが！100%豆でできてるパスタ食べてみました。",
+            "timestamp": "2022-09-23T17:14:09.931000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FA",
+            "text": "おいしそうです！100%豆パスタ気になってました。どうでしたか？",
+            "timestamp": "2022-09-23T17:14:55.842000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "ちょっと独特な感じですが、普通に美味しいです！",
+            "timestamp": "2022-09-23T17:15:21.446000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FA",
+            "text": "そうなんですね！",
+            "timestamp": "2022-09-23T17:15:50.267000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "はい、ちょっとざらざらしててパスタのツルツル感はないかも？って感じですよ。",
+            "timestamp": "2022-09-23T17:16:22.933000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FA",
+            "text": "それは独特です！",
+            "timestamp": "2022-09-23T17:16:37.526000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "でも糖質がかなり抑えられるので、とてもいいなと思ってます。",
+            "timestamp": "2022-09-23T17:16:59.279000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FA",
+            "text": "健康的ですね！",
+            "timestamp": "2022-09-23T17:17:08.565000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "自粛生活で太ってしまったので、糖質は摂りすぎないように注意してます！",
+            "timestamp": "2022-09-23T17:17:41.414000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FA",
+            "text": "そうでしたか！糖質のある食べ物っておいしいですもんね。",
+            "timestamp": "2022-09-23T17:18:28.090000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "美味しいものはすごい糖質量です、、成分表示を見る癖をつけたら、ゾッとしてしまうようになりました。",
+            "timestamp": "2022-09-23T17:19:01.616000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FA",
+            "text": "カロリーがめちゃくちゃ高い！っていう食べ物ありますよね。",
+            "timestamp": "2022-09-23T17:19:39.567000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "そうですね！だから美味しいんですけどね、、好きな食べ物はなんですか？",
+            "timestamp": "2022-09-23T17:20:07.883000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FA",
+            "text": "ここで言うのもあれですが、ごはんものが好きなんですよー！",
+            "timestamp": "2022-09-23T17:21:04.768000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "ご飯は美味しいです！自分でも作りますか？",
+            "timestamp": "2022-09-23T17:21:29.893000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FA",
+            "text": "作ります、作ります！",
+            "timestamp": "2022-09-23T17:21:41.680000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "おおー！得意料理は何ですか？",
+            "timestamp": "2022-09-23T17:21:59.183000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FA",
+            "text": "上手ではないんですけど、炊き込みご飯とかよく作りますよ。",
+            "timestamp": "2022-09-23T17:22:24.984000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "素敵ですねー！味が染みて美味しい！",
+            "timestamp": "2022-09-23T17:22:43.412000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FA",
+            "text": "ありがとうございます！おいしいんですよねー！",
+            "timestamp": "2022-09-23T17:23:15.138000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "ですね！もうすぐ夕食の時間なので、お腹空いてきました！",
+            "timestamp": "2022-09-23T17:23:34.068000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FA",
+            "text": "ですね！",
+            "timestamp": "2022-09-23T17:24:05"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "夕飯は何食べるか決めましたか？",
+            "timestamp": "2022-09-23T17:24:11"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FA",
+            "text": "まだ決めてないんですよー！",
+            "timestamp": "2022-09-23T17:24:35"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "そうなのですねー！私もどうしようかな、、",
+            "timestamp": "2022-09-23T17:24:42"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 2,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

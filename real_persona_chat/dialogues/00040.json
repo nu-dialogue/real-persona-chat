@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 40,
+    "interlocutors": [
+        "AB",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "お久しぶりです！",
+            "timestamp": "2022-08-07T10:40:35.693000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-08-07T10:40:53.658000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "こちらこそ！実は、昨日悲しいことがあったんです。",
+            "timestamp": "2022-08-07T10:41:06.792000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "どうされたんですか？",
+            "timestamp": "2022-08-07T10:41:18.708000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "今、東北とか北陸で水害が起こってるの知ってます？",
+            "timestamp": "2022-08-07T10:41:33.448000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "はい、ニュースで聞く範囲程度ですが。",
+            "timestamp": "2022-08-07T10:41:59.204000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "本当は、今日から福井県の芦原温泉に旅行に行く予定だったんです。",
+            "timestamp": "2022-08-07T10:42:21.548000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "中止になっちゃったんですね。",
+            "timestamp": "2022-08-07T10:42:40.922000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "そうなんですー。大阪からの列車が運休で。",
+            "timestamp": "2022-08-07T10:42:55.054000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "なるほど、電車が止まっちゃったら難しいですね。",
+            "timestamp": "2022-08-07T10:43:12.853000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "足が無くなるとどうしようもないですよね。全部キャンセルです。",
+            "timestamp": "2022-08-07T10:43:28.438000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "夏の予定がひとつ潰れちゃったんですね、お気の毒に。",
+            "timestamp": "2022-08-07T10:43:46.675000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "です。もう何もやる気しません。",
+            "timestamp": "2022-08-07T10:43:57.973000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "それはそうですよ！わたしも学生の頃、旅行がキャンセルになったことがあります。",
+            "timestamp": "2022-08-07T10:44:29.595000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "災害とかですか？",
+            "timestamp": "2022-08-07T10:44:43.598000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "行きの道中で、祖母が倒れたと知らせがあり家へ帰ることになりました。",
+            "timestamp": "2022-08-07T10:45:14.222000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "それは、おばあちゃんの元へ行かないとですね。唯一の救いは、キャンセル料がかからなかったことです。",
+            "timestamp": "2022-08-07T10:45:57.234000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "わたしも電話して事情を話したらキャンセル料はかかりませんでした。",
+            "timestamp": "2022-08-07T10:46:16.662000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "優しいですよね。",
+            "timestamp": "2022-08-07T10:46:23.950000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "わたしは薄情にも、そのまま旅行を続けたかったんですけどね。",
+            "timestamp": "2022-08-07T10:46:50.639000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "当日で、しかも向かってる最中だとなおさらですね。",
+            "timestamp": "2022-08-07T10:47:12.837000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "結局、祖母も大事には至らずでほっとはしました。",
+            "timestamp": "2022-08-07T10:47:30.159000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "それはよかったです。別の日に再度、行ったんですか？",
+            "timestamp": "2022-08-07T10:47:43.905000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "はい、でもそれからは身内が元気な時しか行かないように気を付けています。",
+            "timestamp": "2022-08-07T10:48:16.630000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "ですね。私も、また秋ぐらいに行こうかなと思ってます。",
+            "timestamp": "2022-08-07T10:48:40.638000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "仕切り直しですね！わたしも秋ごろの旅行で検討中です。",
+            "timestamp": "2022-08-07T10:49:05.031000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "台風とか突然、発生するので不安ではありますが。",
+            "timestamp": "2022-08-07T10:49:34.896000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "秋だとその心配がありますね。",
+            "timestamp": "2022-08-07T10:49:49.057000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "無事行ける事を祈って下さい！話聞いてくれて、ありがとうございました。",
+            "timestamp": "2022-08-07T10:50:28.775000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "はい！こちらこそ、ありがとうございました！",
+            "timestamp": "2022-08-07T10:50:44.076000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

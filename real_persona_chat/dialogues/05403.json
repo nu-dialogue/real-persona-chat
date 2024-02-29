@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5403,
+    "interlocutors": [
+        "DV",
+        "GL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DV",
+            "text": "こんにちはー",
+            "timestamp": "2022-09-23T13:38:55.737000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GL",
+            "text": "こんにちは、よろしくお願いいたします。！",
+            "timestamp": "2022-09-23T13:38:59.567000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DV",
+            "text": "３連休はどこか出かける予定はありますか？",
+            "timestamp": "2022-09-23T13:39:09.501000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GL",
+            "text": "いえ、家にこもろうかなと思います！",
+            "timestamp": "2022-09-23T13:39:22.460000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DV",
+            "text": "私もなんです。なんだか天気がずっと悪そうで",
+            "timestamp": "2022-09-23T13:39:33.671000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GL",
+            "text": "最近天気が悪いですよね。。。",
+            "timestamp": "2022-09-23T13:39:50.136000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DV",
+            "text": "この前の３連休もずっと雨でした",
+            "timestamp": "2022-09-23T13:40:00.215000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GL",
+            "text": "そうでした！台風の影響ありましたか？",
+            "timestamp": "2022-09-23T13:40:11.217000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DV",
+            "text": "こっちは台風の影響は直接はなかったんですが、雨だったんです",
+            "timestamp": "2022-09-23T13:40:28.654000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GL",
+            "text": "そうだったのですね！私も同じです！",
+            "timestamp": "2022-09-23T13:40:48.447000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DV",
+            "text": "雨だと出かけるのも面倒ですよね",
+            "timestamp": "2022-09-23T13:40:56.988000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GL",
+            "text": "わかります。お出かけしようとおもったときに雨みたいなこと多いです！",
+            "timestamp": "2022-09-23T13:41:12.730000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DV",
+            "text": "買い物でもなるべく天気がいい時に行きたいです",
+            "timestamp": "2022-09-23T13:41:23.567000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GL",
+            "text": "そうですよね。私はとにかく屋内駐車場のあるスーパーに行きます！",
+            "timestamp": "2022-09-23T13:41:47.660000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DV",
+            "text": "ですよね、屋外だと買ったものを車に運ぶ間にぬれちゃいますものね",
+            "timestamp": "2022-09-23T13:42:07.668000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GL",
+            "text": "はい、自宅に帰るときに雨がやめばぬれずに済むので！",
+            "timestamp": "2022-09-23T13:42:30.537000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DV",
+            "text": "来週からは私が住むところはしばらく晴れみたいです",
+            "timestamp": "2022-09-23T13:42:55.092000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GL",
+            "text": "そうでしたか！私のところは天気がぐずつくみたいで、お洗濯も室内干しです。。。",
+            "timestamp": "2022-09-23T13:43:20.064000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DV",
+            "text": "実はうち、衣類乾燥機を数年前に買いました",
+            "timestamp": "2022-09-23T13:43:38.807000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。どうですか？使いごこちは！",
+            "timestamp": "2022-09-23T13:43:51.302000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DV",
+            "text": "タオルがふかふかになります",
+            "timestamp": "2022-09-23T13:44:00.417000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。どれくらいで乾燥が完了しますか？",
+            "timestamp": "2022-09-23T13:44:25.615000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DV",
+            "text": "少ない量であれば２時間もかかりません",
+            "timestamp": "2022-09-23T13:44:37.125000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GL",
+            "text": "かなり便利ですね。どれくらい容量が入りますか？",
+            "timestamp": "2022-09-23T13:44:48.352000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DV",
+            "text": "６Kだったと思うんですが、容量以上に入れてることも結構あります",
+            "timestamp": "2022-09-23T13:45:13.488000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GL",
+            "text": "そうなのですね。乾燥機があれば憂うつな雨も乗り越えられそう！",
+            "timestamp": "2022-09-23T13:45:48.377000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DV",
+            "text": "そうなんです、天気を気にせず洗濯物が乾くので楽になりました",
+            "timestamp": "2022-09-23T13:46:04.312000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GL",
+            "text": "天気と洗濯物はきっても切り離せないものですよね。！",
+            "timestamp": "2022-09-23T13:46:19.935000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DV",
+            "text": "毎日のことですからね",
+            "timestamp": "2022-09-23T13:46:34.683000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GL",
+            "text": "はい！いろいろご教示ありがとうございます！",
+            "timestamp": "2022-09-23T13:46:45.539000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

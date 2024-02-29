@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8701,
+    "interlocutors": [
+        "AD",
+        "EY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AD",
+            "text": "こんにちは、よろしくお願いします",
+            "timestamp": "2022-08-13T17:40:16.707000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EY",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-08-13T17:40:33.813000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AD",
+            "text": "今日は、何をしていましたか？お仕事はお休みですか？",
+            "timestamp": "2022-08-13T17:40:48.892000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EY",
+            "text": "はい、今日は休みで、家でゆっくりゲームしていました。",
+            "timestamp": "2022-08-13T17:41:32.786000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AD",
+            "text": "ゲームいいですね！なんのゲームをされるんですか？",
+            "timestamp": "2022-08-13T17:41:38"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EY",
+            "text": "ＰＣでよくゲームをしています。そちらもゲームはされるんですか？",
+            "timestamp": "2022-08-13T17:41:52.830000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AD",
+            "text": "はい、私もよくＰＣでゲームします。デッドバイデイライトってご存知ですか？",
+            "timestamp": "2022-08-13T17:42:15.309000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EY",
+            "text": "はい！自分もやります。結構楽しいですよね。たまに怖いけど。",
+            "timestamp": "2022-08-13T17:42:34.845000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AD",
+            "text": "そうなんですね！私もよくやるんですけど、悲鳴上げちゃう時ありますよね。びっくりすること結構多いかな。",
+            "timestamp": "2022-08-13T17:42:57.221000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EY",
+            "text": "確かに心音しないキラーだと、驚くことありますよね。",
+            "timestamp": "2022-08-13T17:43:30.581000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AD",
+            "text": "サバイバーとキラーどっちをやることが多いですか？",
+            "timestamp": "2022-08-13T17:43:46.265000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EY",
+            "text": "私はキラーをやることが多いですね。そちらはどうですか？",
+            "timestamp": "2022-08-13T17:43:59.838000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AD",
+            "text": "前はよくサバイバーをやってましたが、今はキラーの方が多いですね。",
+            "timestamp": "2022-08-13T17:44:18.071000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EY",
+            "text": "今の環境だとキラーの方がやりやすいまでありますからね。",
+            "timestamp": "2022-08-13T17:44:29.662000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AD",
+            "text": "そうですね。サバイバーはちょっと大変で、今月もランク上げるの諦めました。",
+            "timestamp": "2022-08-13T17:44:52.669000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EY",
+            "text": "そうなんですね。今日がランクリセットの日でしたね。",
+            "timestamp": "2022-08-13T17:45:18.056000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AD",
+            "text": "あわてて頑張ってみたものの、結構上げづらくて。",
+            "timestamp": "2022-08-13T17:45:35.821000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EY",
+            "text": "大変でしたね、お疲れ様です。目標は達成できましたか？",
+            "timestamp": "2022-08-13T17:46:11.297000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AD",
+            "text": "実はpip3つ足りず諦めました。時間も足りなくて。",
+            "timestamp": "2022-08-13T17:46:30.207000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EY",
+            "text": "３つは惜しいですね。お疲れ様です。",
+            "timestamp": "2022-08-13T17:46:39.784000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AD",
+            "text": "はい、せっかく頑張ってみたのですが。強いキラーも多くて。",
+            "timestamp": "2022-08-13T17:47:05.920000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EY",
+            "text": "キラーはよく何を使うんですか？",
+            "timestamp": "2022-08-13T17:47:20.229000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AD",
+            "text": "私はよくリージョンを使います！そちらは？",
+            "timestamp": "2022-08-13T17:47:35.431000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EY",
+            "text": "リージョンいいですね。自分はいろいろ使います。",
+            "timestamp": "2022-08-13T17:47:45.145000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AD",
+            "text": "色々使えるのすごいですね！プロみたい。",
+            "timestamp": "2022-08-13T17:48:18.655000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EY",
+            "text": "プロではないですけど、まあ結構頑張りました。",
+            "timestamp": "2022-08-13T17:48:30.964000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AD",
+            "text": "サバイバーもよくやるんですか？",
+            "timestamp": "2022-08-13T17:49:37.430000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EY",
+            "text": "一緒にやる人がいればやりますね。一人だとあまりやる気にはならないです。",
+            "timestamp": "2022-08-13T17:49:10.249000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AD",
+            "text": "私もです。友達がいないとやる気にならいないですよね。",
+            "timestamp": "2022-08-13T17:49:50.340000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EY",
+            "text": "そうですね。ゲーム自体他の人とやる方が楽しいですしね。",
+            "timestamp": "2022-08-13T17:50:02.942000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10257,
+    "interlocutors": [
+        "CI",
+        "BX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "おはようございます。よろしくお願いします！",
+            "timestamp": "2022-08-12T08:33:42.825000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BX",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-12T08:33:51.520000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "今日はお仕事お休みですか？",
+            "timestamp": "2022-08-12T08:34:06.313000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BX",
+            "text": "自営業なのでお休みに近いです！",
+            "timestamp": "2022-08-12T08:34:21.453000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "私も自営というか、個人でやっている感じです！",
+            "timestamp": "2022-08-12T08:34:53.662000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BX",
+            "text": "こちらは夫婦でやっております。とはいえ、私はまだお手伝いですが。",
+            "timestamp": "2022-08-12T08:35:14.445000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "ご夫婦で！素敵ですね。交代でお休み取ったりされるんですか？",
+            "timestamp": "2022-08-12T08:35:53.325000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BX",
+            "text": "予定が入れば仕事を休みますし、特になければなんとなく仕事をしてる感じに見えますね！",
+            "timestamp": "2022-08-12T08:36:24.146000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "何となく仕事、生活に溶け込んでる感じがしますね。",
+            "timestamp": "2022-08-12T08:37:07.496000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BX",
+            "text": "趣味が高じた種類の仕事だから、と言うのが大きいと思います。",
+            "timestamp": "2022-08-12T08:37:27.033000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "なるほど！私もそんな感じです。好きな事をそのまま仕事にしちゃいました。",
+            "timestamp": "2022-08-12T08:38:00.531000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BX",
+            "text": "どんなことをされているのかお伺いしてもよろしいですか？",
+            "timestamp": "2022-08-12T08:38:12.057000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "ざっくりと音楽関係です。そんなに手広くやってませんけど。",
+            "timestamp": "2022-08-12T08:38:45.180000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BX",
+            "text": "素敵ですね！音楽は私も好きなので。かっこいいと思います。",
+            "timestamp": "2022-08-12T08:39:14.040000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "世間的なイメージほど現実は良いものではないと思いますけど、楽しくできるのはいいかなと思ってます。",
+            "timestamp": "2022-08-12T08:40:05.914000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BX",
+            "text": "そうなんですね。今はパソコンなんかでも音楽を作るのでしょうか？",
+            "timestamp": "2022-08-12T08:40:24.697000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "PCで作る方多いですね。私はサウンド作るまではいきませんが、楽譜書くソフトは手放せません。",
+            "timestamp": "2022-08-12T08:41:08.136000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BX",
+            "text": "聞いておいてすみません、私には少し難しそうですね。少し楽器を触る程度なもので。",
+            "timestamp": "2022-08-12T08:41:33.771000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "楽器は何を演奏されるんですか？",
+            "timestamp": "2022-08-12T08:41:50.204000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BX",
+            "text": "ピアノとギターを少し。",
+            "timestamp": "2022-08-12T08:42:02.790000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "ギターいいですね！やってみたいんです。ピアノは弾けるのですが。",
+            "timestamp": "2022-08-12T08:42:27.168000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BX",
+            "text": "とても難しい感じがします。けど、ギターは感覚で出来る部分もあるのでいいですね！",
+            "timestamp": "2022-08-12T08:42:53.466000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "私は手が小さいので、コードを抑えるのが大変でした！",
+            "timestamp": "2022-08-12T08:43:21.914000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BX",
+            "text": "私は女の割には大きいので比較的早くFを覚えました！",
+            "timestamp": "2022-08-12T08:43:42.801000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "わかります！Fで挫折するかしないか、第一のハードル、て言いますよね。",
+            "timestamp": "2022-08-12T08:44:02.514000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BX",
+            "text": "そう言われました！お世辞もあるかもしれませんが、早いって褒めてもらいましたね！",
+            "timestamp": "2022-08-12T08:44:27.445000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "ちょっと触らせてもらった時に、はなからFを使わないコード進行を教えられました。",
+            "timestamp": "2022-08-12T08:45:13.739000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BX",
+            "text": "どの程度触ってみるかによるかもしれませんね！",
+            "timestamp": "2022-08-12T08:45:29.575000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "本気でやるとなると避けては通れないですもんね。",
+            "timestamp": "2022-08-12T08:45:43.767000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BX",
+            "text": "はい。練習が必要です。",
+            "timestamp": "2022-08-12T08:45:54.932000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

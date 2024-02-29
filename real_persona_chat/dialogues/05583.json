@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5583,
+    "interlocutors": [
+        "BR",
+        "GI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんにちは！よろしくお願いいたします。",
+            "timestamp": "2022-09-26T16:23:23.692000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GI",
+            "text": "よろしくです。",
+            "timestamp": "2022-09-26T16:23:32.943000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "旅行はお好きですか？私は趣味が旅なんです。",
+            "timestamp": "2022-09-26T16:23:50.914000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。好きですがあまり行きません。最近どこか行かれました？",
+            "timestamp": "2022-09-26T16:24:12.592000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね。最近は7月末に北海道に。10月頭からは東北へ行ってきます。",
+            "timestamp": "2022-09-26T16:24:31.399000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GI",
+            "text": "良いですね。北海道は涼しかったですか？",
+            "timestamp": "2022-09-26T16:24:47.270000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "はい。ただ到着した日は東京並みに暑くてびっくりしました。",
+            "timestamp": "2022-09-26T16:25:01.770000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GI",
+            "text": "え！そうなんですね。意外です。",
+            "timestamp": "2022-09-26T16:25:12.885000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "北海道の方が、もう昔のような涼しい北海道ではなくなったと言っていました。",
+            "timestamp": "2022-09-26T16:25:25.686000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GI",
+            "text": "えーそうなんですね。どこに行かれました？",
+            "timestamp": "2022-09-26T16:25:44.083000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "今回は用事もあったので、千歳と札幌と小樽しか行けませんでした。",
+            "timestamp": "2022-09-26T16:25:56.089000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。おいしいものは食べれました？",
+            "timestamp": "2022-09-26T16:26:12.827000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "はい。ただ海鮮はスーパーで買おうと思って失敗しました。",
+            "timestamp": "2022-09-26T16:26:31.139000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GI",
+            "text": "え！おいしくなかったですか？",
+            "timestamp": "2022-09-26T16:26:44.762000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "おいしかったんですが、常温の時間が長かったのか、お腹壊しました。",
+            "timestamp": "2022-09-26T16:27:12.386000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GI",
+            "text": "わぁ！それは最悪ですね。",
+            "timestamp": "2022-09-26T16:27:30.315000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "そうなんです。でもまぁそれも旅のいい思い出です。",
+            "timestamp": "2022-09-26T16:27:44.273000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GI",
+            "text": "あはは。他には何食べました？",
+            "timestamp": "2022-09-26T16:27:56.399000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "他にはソフトクリームやジンギスカンも少しでしたが食べました。",
+            "timestamp": "2022-09-26T16:28:15.225000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GI",
+            "text": "いいですね。ジンギスカン食べたことがなくて。",
+            "timestamp": "2022-09-26T16:28:28.954000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね！北海道のものは格別ですよ！小樽のビールも飲みました。",
+            "timestamp": "2022-09-26T16:28:47.807000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね！ビールもおいしそう。",
+            "timestamp": "2022-09-26T16:29:07.839000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "はい。クラフト系でおいしかったです。今度はちゃんとしたジンギスカンも食べたいです。",
+            "timestamp": "2022-09-26T16:29:32.287000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GI",
+            "text": "いいですね。ビールとジンギスカンも合いそうです。",
+            "timestamp": "2022-09-26T16:29:47.333000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね！千歳においしいお店があって、今回はいっぱいだったのでリベンジします。",
+            "timestamp": "2022-09-26T16:30:05.777000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。混みこみでしたか。",
+            "timestamp": "2022-09-26T16:30:21.652000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "めちゃくちゃ混んでました！なので飲み屋のおつまみジンギスカンで我慢しました。",
+            "timestamp": "2022-09-26T16:30:40.906000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GI",
+            "text": "あはは。それでもおいしかったですか？",
+            "timestamp": "2022-09-26T16:30:50.816000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "はい。それはそれでおいしかったです。コーンの天ぷらもいけました。",
+            "timestamp": "2022-09-26T16:31:05.522000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GI",
+            "text": "うわーおいしそー。",
+            "timestamp": "2022-09-26T16:31:19.516000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

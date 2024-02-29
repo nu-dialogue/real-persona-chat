@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 966,
+    "interlocutors": [
+        "BM",
+        "CG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BM",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T10:31:10.778000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CG",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-11T10:50:26.462000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BM",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-08-11T10:31:26.859000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CG",
+            "text": "朝ごはん食べてないです！",
+            "timestamp": "2022-08-11T10:50:22.871000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BM",
+            "text": "そうなんですか！おなかすきませんか？",
+            "timestamp": "2022-08-11T10:31:47.442000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CG",
+            "text": "自分は前の日の夜にいっぱい食べる派です！",
+            "timestamp": "2022-08-11T10:49:32.838000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BM",
+            "text": "なるほど。昨晩は何を食べたのですか？",
+            "timestamp": "2022-08-11T10:32:22.575000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CG",
+            "text": "牛丼大盛を頂きました。",
+            "timestamp": "2022-08-11T10:49:28.001000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BM",
+            "text": "いいですね。おいしいですよね。",
+            "timestamp": "2022-08-11T10:33:05.213000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CG",
+            "text": "にんにく盛りのやつだったので臭いですが。",
+            "timestamp": "2022-08-11T10:48:16.430000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BM",
+            "text": "あらら。私はチーズのってるのが好きです。",
+            "timestamp": "2022-08-11T10:33:40.721000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CG",
+            "text": "いいですね、私も普段はチーズたっぷりで食べてます。",
+            "timestamp": "2022-08-11T10:34:08.322000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BM",
+            "text": "七味はかけますか？",
+            "timestamp": "2022-08-11T10:34:24.996000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CG",
+            "text": "辛いのが苦手なので七味はかけない派です！",
+            "timestamp": "2022-08-11T10:34:46.458000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BM",
+            "text": "私も元々かけない派だったのですが、最近かけてるんですよね。",
+            "timestamp": "2022-08-11T10:35:20.959000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CG",
+            "text": "大人ですね、そちらは朝何を食べましたか？",
+            "timestamp": "2022-08-11T10:36:23.340000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BM",
+            "text": "トーストとスープを食べました！",
+            "timestamp": "2022-08-11T10:37:02.734000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CG",
+            "text": "トーストいいですね、最近は私もきな粉ペースト塗って食べてます。",
+            "timestamp": "2022-08-11T10:37:08.937000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BM",
+            "text": "きな粉ペーストおいしいですよね！私もおやつによく食べます。",
+            "timestamp": "2022-08-11T10:37:32.199000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CG",
+            "text": "後から来る甘さがたまらないですよね！",
+            "timestamp": "2022-08-11T10:38:09.273000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BM",
+            "text": "わかります！後味いいですよね！！",
+            "timestamp": "2022-08-11T10:38:18.274000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CG",
+            "text": "一回6切れ全部食べたこともありました。",
+            "timestamp": "2022-08-11T10:38:52.455000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BM",
+            "text": "一度にですか！？",
+            "timestamp": "2022-08-11T10:39:11.140000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CG",
+            "text": "はい、止まらなくなるのであれはやばいですね。",
+            "timestamp": "2022-08-11T10:39:31.307000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BM",
+            "text": "大食いなんですね！",
+            "timestamp": "2022-08-11T10:39:55.296000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CG",
+            "text": "甘いものならいくらでも入る気がします。。",
+            "timestamp": "2022-08-11T10:50:46.583000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BM",
+            "text": "すごい。私なら美味しくても3枚くらいで満足してしまいますね。",
+            "timestamp": "2022-08-11T10:40:46.004000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CG",
+            "text": "健康的にもそれが理想ですね。",
+            "timestamp": "2022-08-11T10:50:51.263000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BM",
+            "text": "でも、おいしいものいっぱい食べれることはうらやましいです。",
+            "timestamp": "2022-08-11T10:41:36.783000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CG",
+            "text": "これから控えていきたいですねー。",
+            "timestamp": "2022-08-11T10:42:11.311000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

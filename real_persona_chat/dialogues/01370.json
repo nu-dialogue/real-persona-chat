@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1370,
+    "interlocutors": [
+        "AT",
+        "CP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AT",
+            "text": "こんにちはっ！",
+            "timestamp": "2022-08-14T10:45:43.172000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CP",
+            "text": "こんにちはですー！",
+            "timestamp": "2022-08-14T10:45:51.006000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AT",
+            "text": "お酒のお供に何を食べることが多いですか？",
+            "timestamp": "2022-08-14T10:46:12.630000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CP",
+            "text": "なんだろう。唐揚げは鉄板で、あとキムチとか。",
+            "timestamp": "2022-08-14T10:46:28.724000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AT",
+            "text": "いいですね、ポテトフライとかたこわさびとかも好きです。",
+            "timestamp": "2022-08-14T10:47:47.092000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CP",
+            "text": "いいですね。油ものとお酒の相性いいですよね。",
+            "timestamp": "2022-08-14T10:48:03.101000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AT",
+            "text": "ワインの時はチーズとかお肉とか魚を食べてます。",
+            "timestamp": "2022-08-14T10:48:57.829000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CP",
+            "text": "オシャレ―！　ワインのときも唐揚げ食べてるかも。",
+            "timestamp": "2022-08-14T10:49:10.465000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AT",
+            "text": "ハイボールと唐揚げの組み合わせも最高です。",
+            "timestamp": "2022-08-14T10:49:26.038000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CP",
+            "text": "唐揚げが好きなんです！　ほかになにがおいしいかなー？",
+            "timestamp": "2022-08-14T10:49:47.112000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AT",
+            "text": "枝豆とかも合いますよ！",
+            "timestamp": "2022-08-14T10:50:26.994000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CP",
+            "text": "枝豆もおいしいですね。冬は鍋とか？",
+            "timestamp": "2022-08-14T10:50:39.817000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AT",
+            "text": "鍋は間違いないですね、その時は日本酒を飲んだりもします。",
+            "timestamp": "2022-08-14T10:50:55.667000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CP",
+            "text": "日本酒！　合いますよねー。どんな鍋が好きですか？",
+            "timestamp": "2022-08-14T10:51:16.311000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AT",
+            "text": "キムチ鍋が好きです！",
+            "timestamp": "2022-08-14T10:51:30.074000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CP",
+            "text": "おいしいですよねー！　私は、名店の鍋シリーズにはまってます。",
+            "timestamp": "2022-08-14T10:51:48.488000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AT",
+            "text": "そんなのがあるんですね、やはり味が違いますか？",
+            "timestamp": "2022-08-14T10:52:30.389000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CP",
+            "text": "スーパーとかで、名店コラボの鍋のもとがあるんですよ。おいしいですよ！",
+            "timestamp": "2022-08-14T10:53:00.920000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AT",
+            "text": "一味違う感じがしていいですね、味の種類も豊富ですか？",
+            "timestamp": "2022-08-14T10:53:32.438000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CP",
+            "text": "はい。いろいろあります。豆乳とか、ホルモン鍋？",
+            "timestamp": "2022-08-14T10:53:57.715000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AT",
+            "text": "どちらもいいですね、しばらく先ですがこの冬は探してみます。",
+            "timestamp": "2022-08-14T10:54:16.645000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CP",
+            "text": "あ。もつ鍋だ！　ホルモン入れたもつ鍋。ぜひ探してみてください！",
+            "timestamp": "2022-08-14T10:54:33.050000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AT",
+            "text": "夏なら冷奴とかも美味しいですよ。",
+            "timestamp": "2022-08-14T10:55:22.579000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CP",
+            "text": "いいですね。冷ややっこにはなにをかけます？",
+            "timestamp": "2022-08-14T10:55:31.887000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AT",
+            "text": "醤油とネギがいいですね。ミョウガとかもアリです。",
+            "timestamp": "2022-08-14T10:55:56.791000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CP",
+            "text": "なるほどー！　私は最近めんつゆをかけてます。",
+            "timestamp": "2022-08-14T10:56:10.416000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AT",
+            "text": "めんつゆ合いますよね！まだ昼間なのに飲みたくなってきました。",
+            "timestamp": "2022-08-14T10:56:28.339000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CP",
+            "text": "合いますよねー！　味変したいときにいいです。",
+            "timestamp": "2022-08-14T10:56:36.721000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AT",
+            "text": "ですよね、本日は楽しいお話ありがとうございました！",
+            "timestamp": "2022-08-14T10:56:52.055000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CP",
+            "text": "こちらこそありがとうございました！",
+            "timestamp": "2022-08-14T10:57:00.272000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AT",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CP",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        }
+    ]
+}

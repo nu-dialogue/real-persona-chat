@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7046,
+    "interlocutors": [
+        "AK",
+        "AF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AK",
+            "text": "おはようございます！",
+            "timestamp": "2022-07-31T09:58:43.053000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AF",
+            "text": "おはようございます、よろしくお願いします。",
+            "timestamp": "2022-07-31T09:59:18.449000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AK",
+            "text": "朝はいつも強いですか？",
+            "timestamp": "2022-07-31T09:59:36.082000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AF",
+            "text": "どちらかというと、早起きは得意なほうかと。",
+            "timestamp": "2022-07-31T09:59:53.296000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AK",
+            "text": "すごいですねー！今日は何時起きですか？",
+            "timestamp": "2022-07-31T10:00:06.486000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AF",
+            "text": "今日は休日なので遅かったのですが、7時に起きましたよ。",
+            "timestamp": "2022-07-31T10:00:29.426000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AK",
+            "text": "休日でもそんなに早いんですね！",
+            "timestamp": "2022-07-31T10:00:41.128000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AF",
+            "text": "朝早く起きないと、1日が短くなる気がして。",
+            "timestamp": "2022-07-31T10:01:01.522000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AK",
+            "text": "確かにそうですね。朝は結構ダラダラしがちなのであっという間に夕方になることも。",
+            "timestamp": "2022-07-31T10:01:26.672000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AF",
+            "text": "ちなみに、あなたは今朝は何時に起きましたか？",
+            "timestamp": "2022-07-31T10:01:50.033000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AK",
+            "text": "今日は9時前くらいですねー。寝すぎました。",
+            "timestamp": "2022-07-31T10:02:08.744000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AF",
+            "text": "やっぱり眠る時間も遅いんでしょうか？",
+            "timestamp": "2022-07-31T10:02:22.216000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AK",
+            "text": "昨日はすごく早かったんです。22時にはベットに行きました。",
+            "timestamp": "2022-07-31T10:02:43.729000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AF",
+            "text": "じゃあ、かなりゆっくり眠れたんですね！",
+            "timestamp": "2022-07-31T10:03:01.995000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AK",
+            "text": "ただ、暑くて寝苦しかったので、全然眠れてない気がします。",
+            "timestamp": "2022-07-31T10:03:23.461000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AF",
+            "text": "なるほど、眠る時ってエアコン入れるほうですか？",
+            "timestamp": "2022-07-31T10:03:41.282000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AK",
+            "text": "入れたいんですが、寝室にエアコンがなくて。",
+            "timestamp": "2022-07-31T10:03:52.294000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AF",
+            "text": "大丈夫ですか？元々涼しい地方にお住まいなのでしょうか？",
+            "timestamp": "2022-07-31T10:04:19.944000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AK",
+            "text": "そうですね。わりと涼しいと思います。エアコン入れて寝てますか？",
+            "timestamp": "2022-07-31T10:04:41.315000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AF",
+            "text": "子どもと一緒に寝てるので、エアコンないと暑くって眠れません。",
+            "timestamp": "2022-07-31T10:05:01.212000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AK",
+            "text": "それは必須ですね。一緒に寝たら余計暑そうですし。",
+            "timestamp": "2022-07-31T10:05:17.888000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AF",
+            "text": "そうなんです、わたしは冷えるのでエアコンから一番遠いところで寝てます。",
+            "timestamp": "2022-07-31T10:05:36.147000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AK",
+            "text": "冷えますよね。ただタイマーが切れると一気に寝苦しくもなりません？",
+            "timestamp": "2022-07-31T10:05:54.181000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AF",
+            "text": "実はタイマーはかけず、一晩中つけてます！",
+            "timestamp": "2022-07-31T10:06:16.884000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AK",
+            "text": "それならいいですね！温度一定ですもんね。",
+            "timestamp": "2022-07-31T10:06:32.241000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AF",
+            "text": "夏休みなんかは、エアコンはほぼ24時間稼働することになっちゃいますね。",
+            "timestamp": "2022-07-31T10:07:11.712000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AK",
+            "text": "電気代すごいことになりません？案外エコとも聞きますが。",
+            "timestamp": "2022-07-31T10:07:34.890000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AF",
+            "text": "どうなんでしょうか。ソーラーパネルがあるのであまり気にしないようにしてます。",
+            "timestamp": "2022-07-31T10:07:57.471000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AK",
+            "text": "わーうらやましいです。快適に過ごせるっていいですね。",
+            "timestamp": "2022-07-31T10:08:20.827000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AF",
+            "text": "そうですね、それではまたお話しましょう。",
+            "timestamp": "2022-07-31T10:08:36.261000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AK",
+            "text": "はーい。",
+            "timestamp": "2022-07-31T10:08:43.366000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AK",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AF",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

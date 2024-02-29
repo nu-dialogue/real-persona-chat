@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11811,
+    "interlocutors": [
+        "CN",
+        "FA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CN",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-28T10:30:28.458000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FA",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-28T10:30:36.925000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CN",
+            "text": "朝ごはんは食べましたか？",
+            "timestamp": "2022-08-28T10:30:48.751000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FA",
+            "text": "はい！パン食べました！もう召し上がりましたか？",
+            "timestamp": "2022-08-28T10:31:10.445000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CN",
+            "text": "はい、私もパンでした。チーズトーストにしました！",
+            "timestamp": "2022-08-28T10:31:28.224000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FA",
+            "text": "同じですね！おいしそうです！",
+            "timestamp": "2022-08-28T10:31:45.762000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CN",
+            "text": "普段から朝ごはんは召し上がりますか？",
+            "timestamp": "2022-08-28T10:32:03.009000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FA",
+            "text": "パンとご飯半々ですかねー。",
+            "timestamp": "2022-08-28T10:32:31.595000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CN",
+            "text": "私は平日はご飯が多いです。ご飯のお供は何がお好きですか？",
+            "timestamp": "2022-08-28T10:32:54.451000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FA",
+            "text": "梅干しとか漬物とか渋めのものが好きです！",
+            "timestamp": "2022-08-28T10:33:38.431000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CN",
+            "text": "分かります！しば漬けとか美味しいですよね",
+            "timestamp": "2022-08-28T10:34:09.254000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FA",
+            "text": "そうですね！",
+            "timestamp": "2022-08-28T10:34:21.275000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CN",
+            "text": "私は漬物が好きなので、京都に旅行に行ったとき漬物バイキングがあるお店に行きました",
+            "timestamp": "2022-08-28T10:34:44.981000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FA",
+            "text": "京都は漬物が豊富そうですね！",
+            "timestamp": "2022-08-28T10:35:02.790000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CN",
+            "text": "そうですね。老舗もいっぱいありますよ！",
+            "timestamp": "2022-08-28T10:35:18.283000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FA",
+            "text": "歴史がありますしね！",
+            "timestamp": "2022-08-28T10:35:36.282000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CN",
+            "text": "はい、800年前から続いてる漬物もあるそうですよ",
+            "timestamp": "2022-08-28T10:36:08.315000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FA",
+            "text": "わー！800年前！その漬物って食べれるのですかね。",
+            "timestamp": "2022-08-28T10:36:52.521000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CN",
+            "text": "しば漬けがそうなんです！昔の偉い方がしば漬けと名付けたそうですよー",
+            "timestamp": "2022-08-28T10:37:30.762000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FA",
+            "text": "勉強になります！",
+            "timestamp": "2022-08-28T10:37:50.919000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CN",
+            "text": "千枚漬けなんかも美味しいですよね",
+            "timestamp": "2022-08-28T10:38:13.666000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FA",
+            "text": "千枚漬け大好きです！京都旅行に行った時買いました！",
+            "timestamp": "2022-08-28T10:38:43.582000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CN",
+            "text": "冬の風物詩ですよね！ほかにお好きな漬物はありますか？",
+            "timestamp": "2022-08-28T10:39:03.161000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FA",
+            "text": "べったら漬け？でしょうか。甘い漬物です。",
+            "timestamp": "2022-08-28T10:39:35.640000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CN",
+            "text": "東京でよく売ってますよね！私も好きです",
+            "timestamp": "2022-08-28T10:39:52.800000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FA",
+            "text": "漬物って味わい深いですよね。食べたら止まらなくなってしまいます。",
+            "timestamp": "2022-08-28T10:40:31.038000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CN",
+            "text": "分かります。ついつい食べちゃいますよね。お茶請けにも最適です",
+            "timestamp": "2022-08-28T10:40:54.782000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FA",
+            "text": "そうですね！漬物食べたくなってきちゃいました！",
+            "timestamp": "2022-08-28T10:41:21.687000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CN",
+            "text": "私もです。明日の朝は漬物出そうと思います",
+            "timestamp": "2022-08-28T10:41:39.918000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FA",
+            "text": "楽しみですね！",
+            "timestamp": "2022-08-28T10:42:00.604000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CN",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FA",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

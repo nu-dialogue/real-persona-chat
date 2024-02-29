@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12895,
+    "interlocutors": [
+        "DL",
+        "DV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DL",
+            "text": "こんばんわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-13T20:51:30.394000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DV",
+            "text": "こちらこそよろしくお願いします",
+            "timestamp": "2022-09-13T20:51:36.497000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DL",
+            "text": "お料理の話ですが、毎日の献立とかってどう決めていられますか？",
+            "timestamp": "2022-09-13T20:52:17.631000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DV",
+            "text": "子供にリクエストをきいたり買い物にいって決めたりですねー",
+            "timestamp": "2022-09-13T20:52:35.735000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DL",
+            "text": "お子さんが〇〇を食べたいってリクエストしてくれるんですか！",
+            "timestamp": "2022-09-13T20:53:43.756000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DV",
+            "text": "はい、何食べたい？ってきいたら食べたいものを言ってくれます",
+            "timestamp": "2022-09-13T20:54:01.099000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DL",
+            "text": "羨ましいです！うちは何食べたい？って聞いても、特に無いが定番ですので。",
+            "timestamp": "2022-09-13T20:54:26.201000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DV",
+            "text": "それ一番困りますよね、うちの主人はそうです",
+            "timestamp": "2022-09-13T20:54:40.058000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DL",
+            "text": "結局、カレーとか餃子とか3色丼とかが多いルーティーンになってます。",
+            "timestamp": "2022-09-13T20:55:12.582000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DV",
+            "text": "カレーは間違いないですよねー！",
+            "timestamp": "2022-09-13T20:55:22.176000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DL",
+            "text": "ですね！ほぼ万人に受け入れられる万能食ですよね！",
+            "timestamp": "2022-09-13T20:55:39.592000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DV",
+            "text": "うちの子は揚げ物が好きなのでよく唐揚げとかとんかつとかリクエストされます",
+            "timestamp": "2022-09-13T20:55:56.864000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DL",
+            "text": "揚げ物って、揚げた後の油ってどうしてますか？使いまわしたりとかはしますか？",
+            "timestamp": "2022-09-13T20:56:33.760000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DV",
+            "text": "何回か使いまわします！",
+            "timestamp": "2022-09-13T20:56:51.726000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DL",
+            "text": "一度使ったら、何か容器に入れて保存！って感じですかね？",
+            "timestamp": "2022-09-13T20:57:13.528000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DV",
+            "text": "そうですね、油ポットみたいなやつがあるのでそれで保存です",
+            "timestamp": "2022-09-13T20:57:43.408000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DL",
+            "text": "ちなみに、保存は冷蔵庫とかですか？それとも常温で？",
+            "timestamp": "2022-09-13T20:58:03.604000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DV",
+            "text": "常温で保存してるんですが、冷蔵庫のほうがいいんでしょうか？",
+            "timestamp": "2022-09-13T20:58:18.812000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DL",
+            "text": "それが私もわからないんです。どうも油の使い回しとか処理が怖いイメージがあるんです。",
+            "timestamp": "2022-09-13T20:59:00.061000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DV",
+            "text": "とりあえず健康被害はないので大丈夫そうです",
+            "timestamp": "2022-09-13T20:59:21.306000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DL",
+            "text": "なるほど。結構何回も使い回しはきく感じですか？",
+            "timestamp": "2022-09-13T20:59:58.233000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DV",
+            "text": "醤油系の唐揚げを揚げると１回でだめになります",
+            "timestamp": "2022-09-13T21:00:20.020000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DL",
+            "text": "やはり匂いでまた使い回せるかを判断する感じですかね？",
+            "timestamp": "2022-09-13T21:00:39.885000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DV",
+            "text": "ダメになってくると泡が出てくるんですよ、それで判断します",
+            "timestamp": "2022-09-13T21:01:01.755000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DL",
+            "text": "泡ですか！結構あからさまに泡ですよ！って感じでわかり易い感じですか？",
+            "timestamp": "2022-09-13T21:01:30.004000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DV",
+            "text": "わかります！泡がぶくぶくしてきますから",
+            "timestamp": "2022-09-13T21:01:43.945000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DL",
+            "text": "なるほど。それで判断すればよいのですね！ちょっと揚げ物に対する不安が解消されました！",
+            "timestamp": "2022-09-13T21:02:06.747000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DV",
+            "text": "よかったです！ぜひ今度揚げ物されてみてください",
+            "timestamp": "2022-09-13T21:02:30.616000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DL",
+            "text": "もし次お話する機会があれば、最近揚げ物にハマっててって言えるようになりたいものです。",
+            "timestamp": "2022-09-13T21:02:57.859000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DV",
+            "text": "楽しみにしています！",
+            "timestamp": "2022-09-13T21:03:06.916000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

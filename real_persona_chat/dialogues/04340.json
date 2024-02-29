@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4340,
+    "interlocutors": [
+        "EF",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EF",
+            "text": "こんばんは！よろしくお願いします",
+            "timestamp": "2022-09-10T22:31:32.878000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんばんは！よろしくお願いします。",
+            "timestamp": "2022-09-10T22:31:45.534000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EF",
+            "text": "動物を飼ったことはありますか？",
+            "timestamp": "2022-09-10T22:32:31.318000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "今、猫を飼っています。",
+            "timestamp": "2022-09-10T22:32:24.923000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EF",
+            "text": "猫ちゃんですか！可愛いですよねーよく動画とか見ます",
+            "timestamp": "2022-09-10T22:32:56.745000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "もう。ほんとかわいくて、いるだけで癒されますよ。",
+            "timestamp": "2022-09-10T22:33:19.535000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EF",
+            "text": "猫ちゃんの種類とかってお聞きしてもいいですか？",
+            "timestamp": "2022-09-10T22:33:43.722000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "うちは雑種なんです。公園でケガをしてた子猫を子どもが拾ってきました。",
+            "timestamp": "2022-09-10T22:34:14.617000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EF",
+            "text": "あらそうなんですね！とても素晴らしいことをなさったんですね。猫ちゃんが無事でよかったです",
+            "timestamp": "2022-09-10T22:35:14.034000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "もうだめかと思っていたのですが、奇跡的に元気になってくれて、ほんとありがたいです。",
+            "timestamp": "2022-09-10T22:35:50.999000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EF",
+            "text": "それは本当によかったです。お優しい気持ちがきっと通じたんですね。",
+            "timestamp": "2022-09-10T22:36:45.388000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "今では、家でゴロゴロしている猫になっちゃいましたが、とにかくかわいいです。",
+            "timestamp": "2022-09-10T22:37:27.474000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EF",
+            "text": "ゴロゴロしてる動物が一番かわいいんですよねー。元気に過ごせているようでなんだか私も嬉しいです",
+            "timestamp": "2022-09-10T22:38:16.335000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "あなたは動物を飼ったことがありますか？",
+            "timestamp": "2022-09-10T22:38:34.586000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EF",
+            "text": "今犬とインコを飼っています！猫ちゃんは飼ったことないんですよねー",
+            "timestamp": "2022-09-10T22:39:01.563000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "犬もかわいいですよね！どんな種類ですか？",
+            "timestamp": "2022-09-10T22:39:33.385000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EF",
+            "text": "柴犬です！",
+            "timestamp": "2022-09-10T22:39:52.751000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "柴犬いいですよね！私も飼いたいなあと思います。",
+            "timestamp": "2022-09-10T22:40:23.103000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EF",
+            "text": "柴犬は性格が猫っぽいので猫ちゃん派の方でも飼いやすいかと思います",
+            "timestamp": "2022-09-10T22:41:03.346000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！犬の種類によってけっこう性格がちがうのですか？",
+            "timestamp": "2022-09-10T22:41:30.794000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EF",
+            "text": "ざっくり言うと洋犬は懐っこくて犬らしい感じ、日本犬はちょっとツンデレで猫っぽいらしいです！",
+            "timestamp": "2022-09-10T22:42:18.722000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！日本の犬はツンデレなんだ！",
+            "timestamp": "2022-09-10T22:42:56.419000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EF",
+            "text": "その子によるとは思うんですがうちの子もツンデレなので割と合ってると思います！",
+            "timestamp": "2022-09-10T22:43:26.384000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "インコを飼っているのは珍しいですね！",
+            "timestamp": "2022-09-10T22:43:50.984000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EF",
+            "text": "あんまりいないですよね！でもとっても可愛いですよ",
+            "timestamp": "2022-09-10T22:44:46.276000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "インコは、人間に懐いたりするのでしょうか？",
+            "timestamp": "2022-09-10T22:45:19.362000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EF",
+            "text": "懐きます！コンパニオンバードと呼ばれる種類の子たちは本当にべったりになってくれます",
+            "timestamp": "2022-09-10T22:46:02.888000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！あまりイメージがなかったのですが、懐いてくれるのならいいなあ。",
+            "timestamp": "2022-09-10T22:46:38.773000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EF",
+            "text": "撫でてーって来てくれたり抱っこを要求してきて本当に可愛いですよ。",
+            "timestamp": "2022-09-10T22:48:02.272000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！今日は楽しいお話をありがとうございました！",
+            "timestamp": "2022-09-10T22:48:27.067000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

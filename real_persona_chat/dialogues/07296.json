@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7296,
+    "interlocutors": [
+        "CJ",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CJ",
+            "text": "はじめまして、よろしくお願いします。",
+            "timestamp": "2022-08-05T15:01:01.286000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "はじめまして、こちらこそです",
+            "timestamp": "2022-08-05T15:01:11.238000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CJ",
+            "text": "お昼ごはんは済まされましたか？",
+            "timestamp": "2022-08-05T15:01:31.516000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "はい、食べました",
+            "timestamp": "2022-08-05T15:01:41.417000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CJ",
+            "text": "私、今日はカップ麺で済ませてしまいました。",
+            "timestamp": "2022-08-05T15:01:59.705000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "私は塩やきそばにしました",
+            "timestamp": "2022-08-05T15:02:11.176000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CJ",
+            "text": "おいしそうですね。具は何を入れたんですか？",
+            "timestamp": "2022-08-05T15:02:42.872000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "鶏肉にニラ、キャベツ、タマネギ",
+            "timestamp": "2022-08-05T15:02:57.802000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CJ",
+            "text": "ニラがいい感じですね。焼きそばって、割と自分流がありますよね。",
+            "timestamp": "2022-08-05T15:03:26.485000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "はい、筋トレ派なので、タンパク質メインになるように作るのがポイントです",
+            "timestamp": "2022-08-05T15:03:48.498000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CJ",
+            "text": "なるほど、私はもやしを必ず入れる人です。",
+            "timestamp": "2022-08-05T15:04:07.163000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "もやしですか、なるほど、かさはましつつ体にいい",
+            "timestamp": "2022-08-05T15:04:26.598000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CJ",
+            "text": "そのうえ安いです。味付けは私も塩味が好みです。",
+            "timestamp": "2022-08-05T15:05:04.231000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "おお、塩派はマイナーだと思っていましたが",
+            "timestamp": "2022-08-05T15:05:20.992000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CJ",
+            "text": "いやいや、ソースはどうもしつこい感じがして苦手なんです。",
+            "timestamp": "2022-08-05T15:05:42.142000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "わかります、私もなんだか飽きちゃいました",
+            "timestamp": "2022-08-05T15:05:56.543000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CJ",
+            "text": "塩味のほうが素材の味は生きますしね。",
+            "timestamp": "2022-08-05T15:06:31.301000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "筋トレやりだしてからというもの、お好み焼きとかタコ焼きなんだか怖くなっちゃって",
+            "timestamp": "2022-08-05T15:06:57.345000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CJ",
+            "text": "ああ、糖質のかたまり的なイメージはありますね。",
+            "timestamp": "2022-08-05T15:07:23.528000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "そうなんです、糖質に脂質を加えて脂でコーティングみたいな",
+            "timestamp": "2022-08-05T15:07:41.217000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CJ",
+            "text": "ははは、たしかに太るための食べ物ですね。",
+            "timestamp": "2022-08-05T15:08:05.231000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "んで、ソースの味がどうしてもリマインドさせちゃうんですよ",
+            "timestamp": "2022-08-05T15:08:21.791000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CJ",
+            "text": "なるほど、たしかにお好み焼きとか、塩味はイメージないですね。",
+            "timestamp": "2022-08-05T15:08:57.523000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "んで脳が勝手にデンジャラス判定しちゃうという",
+            "timestamp": "2022-08-05T15:09:11.879000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CJ",
+            "text": "すでに条件反射ですね。それゆえの塩味というわけですか。",
+            "timestamp": "2022-08-05T15:09:42.306000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "そうなんです、色々考えて試行錯誤した結果この形に落ち着きました",
+            "timestamp": "2022-08-05T15:10:14.496000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CJ",
+            "text": "そういえば、鶏肉っていうのも焼きそばでは珍しいですものね。ビーフンとかはどうですか？",
+            "timestamp": "2022-08-05T15:10:47.283000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "ああ、全然ありですが、世間普通の人からみたら、鶏肉炒め（麺入り）って感じかもしれません",
+            "timestamp": "2022-08-05T15:11:26.753000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CJ",
+            "text": "そうか、比率もポイントなんだ。考えていらっしゃいますね。",
+            "timestamp": "2022-08-05T15:11:50.456000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "私からしたら鶏肉はいってるのは当たり前で、麺がポイントなのですが",
+            "timestamp": "2022-08-05T15:12:06.957000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CJ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

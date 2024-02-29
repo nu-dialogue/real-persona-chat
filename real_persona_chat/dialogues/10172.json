@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10172,
+    "interlocutors": [
+        "BR",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BR",
+            "text": "こんばんは！よろしくお願いします！",
+            "timestamp": "2022-08-11T20:09:41.277000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんばんは、体調の方はどうですか？",
+            "timestamp": "2022-08-11T20:09:56.798000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BR",
+            "text": "体調は可もなく不可もなくですね～。冷房の冷えが気になります。",
+            "timestamp": "2022-08-11T20:10:16.556000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "僕も冷え気味です、夏バテしつつありますが。",
+            "timestamp": "2022-08-11T20:10:39.316000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BR",
+            "text": "夏バテきますよね。私も3週間前くらいにありました！",
+            "timestamp": "2022-08-11T20:10:53.703000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "先週は涼しかったのですが、急に暑くなりだしてまたばててきました。",
+            "timestamp": "2022-08-11T20:11:21.089000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。温度差が急にあるのがこたえますね。どんな症状が出ますか？",
+            "timestamp": "2022-08-11T20:11:38.533000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "食欲ですかね。あと動きたくないです",
+            "timestamp": "2022-08-11T20:12:02.578000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BR",
+            "text": "食欲に出てしまうのは心配ですね。動きたくないのもわかります。体力温存してるようですね。",
+            "timestamp": "2022-08-11T20:12:24.895000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "何か対策があればいいんですけどね。",
+            "timestamp": "2022-08-11T20:12:42.530000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BR",
+            "text": "本当ですね。私は漢方薬をすすめられましたが、冷えにきくものではなかったです。",
+            "timestamp": "2022-08-11T20:13:01.464000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "冷えは筋トレするしかないんでしょうかね。どうなんだろう",
+            "timestamp": "2022-08-11T20:13:34.259000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BR",
+            "text": "それはいいかもですね。筋肉は体温を温存するって聞いたことがあります。",
+            "timestamp": "2022-08-11T20:13:54.917000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "そうなんですか、ただ汗をかきたくないので運動不足になりがちですよね。",
+            "timestamp": "2022-08-11T20:14:18.113000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BR",
+            "text": "汗かきたくないですよねー！ジムなどは行かれますか？",
+            "timestamp": "2022-08-11T20:14:31.256000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "先月は週一くらいで行っていましたね。最近はあまり",
+            "timestamp": "2022-08-11T20:14:53.119000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BR",
+            "text": "わ！そうなんですね。ジム行くと何をしますか？",
+            "timestamp": "2022-08-11T20:15:04.365000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "エアロバイクを黙々と漕いでいますね、マシーンは混んでいるので",
+            "timestamp": "2022-08-11T20:15:28.158000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BR",
+            "text": "そうなんですね。マシーン使う方多いんですね！？バイク気持ちよさそうです。",
+            "timestamp": "2022-08-11T20:15:45.985000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "外で自転車を漕ぐ気分にはならないので、有難いです。",
+            "timestamp": "2022-08-11T20:16:07.805000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BR",
+            "text": "たしかに。うちの父は先日自転車乗ってて熱中症で意識失ってケガしましたよ。",
+            "timestamp": "2022-08-11T20:16:25.139000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "あら、大丈夫でしたか？",
+            "timestamp": "2022-08-11T20:16:42.542000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BR",
+            "text": "頭打って脳もやられて入院しましたが、今はなんとか元気になって退院しました！",
+            "timestamp": "2022-08-11T20:17:02.953000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "よかったです。脳の出血とか心配になりますよね。",
+            "timestamp": "2022-08-11T20:17:25.844000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BR",
+            "text": "そうなんですよね。一時は覚悟しましたが、奇跡の復活をとげました！",
+            "timestamp": "2022-08-11T20:17:39.049000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "なかなか乗り物に乗る気分ではないです。",
+            "timestamp": "2022-08-11T20:18:13.669000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BR",
+            "text": "本当に。真昼間に外に出ることがはばかられます。",
+            "timestamp": "2022-08-11T20:18:28.957000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "かといって早起きでもないので、１日中家にいます。",
+            "timestamp": "2022-08-11T20:18:51.141000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BR",
+            "text": "そうなりますよね。運動不足、気を付けましょうね！",
+            "timestamp": "2022-08-11T20:19:09.488000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "はい、頑張ります！",
+            "timestamp": "2022-08-11T20:19:27.034000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BR",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

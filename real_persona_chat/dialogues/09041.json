@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9041,
+    "interlocutors": [
+        "CA",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CA",
+            "text": "こんにちは",
+            "timestamp": "2022-08-07T10:00:12.473000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-07T10:00:21.669000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CA",
+            "text": "よろしくお願いします。こちらは今日も暑くなってきました。<CT>さんのところはどんな天気ですか？",
+            "timestamp": "2022-08-07T10:00:47.578000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "こちらも暑くなってきました。昨日までちょっと涼しかったので残念です。",
+            "timestamp": "2022-08-07T10:01:13.312000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CA",
+            "text": "まだまだ夏ですね",
+            "timestamp": "2022-08-07T10:01:38.874000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "私は夏になるとビールを飲みます。<CA>さんはお酒は飲みますか？",
+            "timestamp": "2022-08-07T10:02:03.785000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CA",
+            "text": "ビールいいですね！私もお酒飲みますよ！ビールも大好きです！",
+            "timestamp": "2022-08-07T10:02:54.443000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "そうなんですね！、私は基本的には日本酒党です。夏だけはビールに浮気しちゃいますが",
+            "timestamp": "2022-08-07T10:03:37.103000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CA",
+            "text": "わあ！日本酒飲まれるんですね！実は私も好きで。オススメの日本酒ってありますか？",
+            "timestamp": "2022-08-07T10:04:02.725000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "お！珍しい。最近飲んでおいしかったのは、三重県のわかえびす「若戎」という銘柄です。",
+            "timestamp": "2022-08-07T10:04:49.671000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CA",
+            "text": "気になる！今ググってみます！！",
+            "timestamp": "2022-08-07T10:05:13.136000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "その酒造所の「ぎざえもん」というお酒が美味しかったですよ",
+            "timestamp": "2022-08-07T10:05:50.528000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CA",
+            "text": "ぎざえもん、たくさんある！夏だもんとか可愛いですね。ぎざえもんのどれを飲まれました？",
+            "timestamp": "2022-08-07T10:07:00.913000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "一番ベーシックな物だったと思います。夏は特別バージョンが出ているのかな？",
+            "timestamp": "2022-08-07T10:07:39.986000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CA",
+            "text": "純米吟醸の緑瓶で黒ラベルのですかね？四季それぞれあるみたいで今ポチりたくなってます！",
+            "timestamp": "2022-08-07T10:08:48.344000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "今調べました。私が飲んだのは<CA>さんが上で書いたものです。",
+            "timestamp": "2022-08-07T10:09:39.264000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CA",
+            "text": "はじめて知ったので飲んでみたいです！どんなことがきっかけでこのお酒を飲まれたんですか？",
+            "timestamp": "2022-08-07T10:10:29.831000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "偶然、地元の酒屋さんで見つけました。店主さんのお気に入りみたいです。",
+            "timestamp": "2022-08-07T10:11:06.392000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CA",
+            "text": "店主さんのお気に入りが置いてある酒屋さんいいですね！",
+            "timestamp": "2022-08-07T10:11:56.118000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "けっこうそのお店で買います。高知の司牡丹とか、新潟の〆張鶴とかをおすすめしてくれます",
+            "timestamp": "2022-08-07T10:12:39.067000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CA",
+            "text": "今メモりました！酒屋さんのオススメ、私もつい買っちゃいます",
+            "timestamp": "2022-08-07T10:13:24.022000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "<CA>さんの好きな銘柄はなんですか？",
+            "timestamp": "2022-08-07T10:13:51.076000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CA",
+            "text": "私は、八海山と久保田が好きです。この間も久保田の試飲会に行ってきちゃいました",
+            "timestamp": "2022-08-07T10:15:01.136000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "八海山と久保田おいしいですよね！私も好きですよ。試飲会って蔵元に行ったのですか？",
+            "timestamp": "2022-08-07T10:15:47.777000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CA",
+            "text": "近くの酒屋さんが試飲会をやっていて、そこで飲んできました。蔵元も行ったことないので行ってみたいです！",
+            "timestamp": "2022-08-07T10:17:02.269000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "それはすごい！久保田の試飲やってみたいなあ。地元のですが蔵元の見学行ったことありますがすごくおもしろかったですよ。",
+            "timestamp": "2022-08-07T10:18:07.700000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CA",
+            "text": "酒蔵見学行かれたんですね！試飲もやっぱりできますか？",
+            "timestamp": "2022-08-07T10:19:31.738000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "出来ました！しかも非売品の試飲があったりして楽しめましたよ",
+            "timestamp": "2022-08-07T10:19:36.372000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CA",
+            "text": "非売品があるんですか！原酒とかかな？",
+            "timestamp": "2022-08-07T10:19:54.873000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "試作品って言ってましたね。いろいろ新しいお酒を造っているみたいです。",
+            "timestamp": "2022-08-07T10:20:28.319000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

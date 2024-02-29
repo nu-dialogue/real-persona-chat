@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6612,
+    "interlocutors": [
+        "GT",
+        "HC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんばんは",
+            "timestamp": "2022-10-05T19:47:41.427000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HC",
+            "text": "こんばんは",
+            "timestamp": "2022-10-05T19:47:50.868000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "甘いもの好きですか？",
+            "timestamp": "2022-10-05T19:47:52.970000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HC",
+            "text": "はい　大好きです　あなたは？",
+            "timestamp": "2022-10-05T19:48:09.955000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "私も大好きです",
+            "timestamp": "2022-10-05T19:48:14.666000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HC",
+            "text": "私はプリンとか大好きですね",
+            "timestamp": "2022-10-05T19:48:41.330000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "プリンいいですね、ケーキも好きです。",
+            "timestamp": "2022-10-05T19:48:50.534000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HC",
+            "text": "パンケーキとかも大好きですよ",
+            "timestamp": "2022-10-05T19:49:06.633000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "つくったりもします？",
+            "timestamp": "2022-10-05T19:49:15.556000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HC",
+            "text": "ホットケーキも最近焼きませんね",
+            "timestamp": "2022-10-05T19:49:38.268000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "わたしはたまーにやります",
+            "timestamp": "2022-10-05T19:49:47.223000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HC",
+            "text": "そうなんですか　家でもおいしくできますもんね",
+            "timestamp": "2022-10-05T19:50:04.317000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "そうなんですよ、簡単で。",
+            "timestamp": "2022-10-05T19:50:12.264000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HC",
+            "text": "上にはバターとハチミツですか？",
+            "timestamp": "2022-10-05T19:50:29.759000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "バターだけですね、はちみつ切らしていて。",
+            "timestamp": "2022-10-05T19:50:40.442000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HC",
+            "text": "そうなんですね　ホイップクリームものせますよね？",
+            "timestamp": "2022-10-05T19:51:06.896000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "ホイップクリームって他のものに使えないので、大好きですが買わないです",
+            "timestamp": "2022-10-05T19:51:19.604000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HC",
+            "text": "あまり使えないですね　あれ",
+            "timestamp": "2022-10-05T19:51:36.635000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "ホイップクリームは大盛にしたいくらい好きです。",
+            "timestamp": "2022-10-05T19:51:52.145000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HC",
+            "text": "外食でならホイップいっぱいのがいいですが高いですしね",
+            "timestamp": "2022-10-05T19:52:29.542000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "スタバで多めとかならします。",
+            "timestamp": "2022-10-05T19:52:48.926000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HC",
+            "text": "スタバのホイップ多めもおいしいですよね",
+            "timestamp": "2022-10-05T19:53:08.085000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "無料ですし。",
+            "timestamp": "2022-10-05T19:53:20.787000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HC",
+            "text": "そうです　私もよくします",
+            "timestamp": "2022-10-05T19:53:33.556000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "スタバのメニューだと何が好きですか",
+            "timestamp": "2022-10-05T19:53:52.431000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HC",
+            "text": "フラペチーノが好きですね",
+            "timestamp": "2022-10-05T19:54:21.256000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "私もです、特に抹茶が。",
+            "timestamp": "2022-10-05T19:54:26.522000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HC",
+            "text": "抹茶もチョコもすきで困ります。",
+            "timestamp": "2022-10-05T19:54:49.388000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "どちらもおいしいですよね。",
+            "timestamp": "2022-10-05T19:54:58.042000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HC",
+            "text": "また飲みたくなってきました。",
+            "timestamp": "2022-10-05T19:55:11.130000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

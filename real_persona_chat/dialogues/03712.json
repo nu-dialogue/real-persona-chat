@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3712,
+    "interlocutors": [
+        "CL",
+        "FC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CL",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T11:37:16.109000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FC",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-01T11:37:22.431000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CL",
+            "text": "何か趣味はありますか？",
+            "timestamp": "2022-09-01T11:37:34.395000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FC",
+            "text": "スポーツ観戦が好きです！",
+            "timestamp": "2022-09-01T11:38:00.255000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CL",
+            "text": "スポーツ観戦ですか。どんなスポーツがお好きですか？",
+            "timestamp": "2022-09-01T11:38:14.325000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FC",
+            "text": "観るのは全部好きですね。でも特にサッカーと野球はよく観ます。",
+            "timestamp": "2022-09-01T11:38:45.769000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CL",
+            "text": "お好きなチームがあるんですか？",
+            "timestamp": "2022-09-01T11:39:03.186000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FC",
+            "text": "それが特にないんです。ただ観るのが好きなんです",
+            "timestamp": "2022-09-01T11:39:39.021000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CL",
+            "text": "じゃあ純粋にプレーが好きなんですね。",
+            "timestamp": "2022-09-01T11:39:49.158000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FC",
+            "text": "この間の高校野球も胸熱でした。",
+            "timestamp": "2022-09-01T11:40:10.433000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CL",
+            "text": "実際見に行ったりもされますか？",
+            "timestamp": "2022-09-01T11:40:25.331000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FC",
+            "text": "行くこともあります。近くであれば色々なスポーツ観に行きます。",
+            "timestamp": "2022-09-01T11:41:21.283000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CL",
+            "text": "えー。いいですね。より熱中して観戦できそうです。",
+            "timestamp": "2022-09-01T11:41:41.902000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FC",
+            "text": "ライブで観るとより盛り上がります。",
+            "timestamp": "2022-09-01T11:42:05.566000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CL",
+            "text": "近くでよく試合があるんですか？",
+            "timestamp": "2022-09-01T11:42:19.287000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FC",
+            "text": "住んでいる近くにスタジアムがあって、毎週のようにやっています。",
+            "timestamp": "2022-09-01T11:42:55.349000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CL",
+            "text": "それはいいところに住んでますねー！",
+            "timestamp": "2022-09-01T11:43:11.529000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FC",
+            "text": "なかなか楽しいです。",
+            "timestamp": "2022-09-01T11:43:41.785000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CL",
+            "text": "それはひいきのチームがなくても行っちゃいますね。",
+            "timestamp": "2022-09-01T11:43:53.091000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FC",
+            "text": "行っちゃいますね。注目の選手が来ると余計に。",
+            "timestamp": "2022-09-01T11:44:46.508000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CL",
+            "text": "最近は何を見に行かれました？",
+            "timestamp": "2022-09-01T11:44:51.518000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FC",
+            "text": "最近はアメフトを見に行きました",
+            "timestamp": "2022-09-01T11:45:01.852000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CL",
+            "text": "アメフト！迫力ありそうですね。",
+            "timestamp": "2022-09-01T11:45:10.658000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FC",
+            "text": "迫力あります。お客さんも熱狂的な人が多いのでより熱気がありますね。",
+            "timestamp": "2022-09-01T11:45:42.846000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CL",
+            "text": "それは熱そう！！",
+            "timestamp": "2022-09-01T11:45:51.034000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FC",
+            "text": "その分盛り上がって楽しいです！",
+            "timestamp": "2022-09-01T11:46:08.204000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CL",
+            "text": "楽しみがあっていいですよね。",
+            "timestamp": "2022-09-01T11:46:14.674000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FC",
+            "text": "楽しみが尽きなくてありがたいです。",
+            "timestamp": "2022-09-01T11:46:37.826000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CL",
+            "text": "私も行ってみたくなりました。ありがとうございました。",
+            "timestamp": "2022-09-01T11:46:48.275000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FC",
+            "text": "ありがとうございました！",
+            "timestamp": "2022-09-01T11:46:55.406000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FC",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2452,
+    "interlocutors": [
+        "CY",
+        "AX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CY",
+            "text": "こんばんは。よろしくお願いいたします。",
+            "timestamp": "2022-08-21T22:41:19.184000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AX",
+            "text": "こんばんは。宜しくお願いいたします。",
+            "timestamp": "2022-08-21T22:41:24.375000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CY",
+            "text": "大阪といえば、なんでしょう？",
+            "timestamp": "2022-08-21T22:41:39.996000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AX",
+            "text": "あー粉ものとかですかね。どんなイメージありますか？",
+            "timestamp": "2022-08-21T22:41:53.919000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CY",
+            "text": "私もタコ焼きとかお好み焼きです。一度行ったときにタコ焼き食べました。",
+            "timestamp": "2022-08-21T22:42:20.536000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AX",
+            "text": "おー流石。たこ焼きとお好み焼きのイメージありますよね。あと串カツとかでしょうかね。",
+            "timestamp": "2022-08-21T22:42:41.031000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CY",
+            "text": "あー！串カツもですね！全体的においしい食べ物がたくさんあるイメージです。",
+            "timestamp": "2022-08-21T22:43:13.792000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AX",
+            "text": "食い倒れイメージがありますよね。ただいずれも毎日はちょっと辛いなと個人的には思います。",
+            "timestamp": "2022-08-21T22:43:40.475000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CY",
+            "text": "そうなんですね。お好み焼きでごはんを食べるというのは本当にそうですか？",
+            "timestamp": "2022-08-21T22:44:11.526000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AX",
+            "text": "あーそういうランチとかありますよ。自分は無理ですけど。",
+            "timestamp": "2022-08-21T22:44:26.563000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CY",
+            "text": "ですよね。炭水化物をかぶせるのは重いなと思ってました。",
+            "timestamp": "2022-08-21T22:45:05.704000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AX",
+            "text": "あれ太りますよね。飲み屋とかいっても串カツとかの場所にはいきませんもの。",
+            "timestamp": "2022-08-21T22:45:31.590000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CY",
+            "text": "絶対太りそうです。あまりこってりしたものは得意ではない感じでしょうか。",
+            "timestamp": "2022-08-21T22:46:10.171000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AX",
+            "text": "あー。食べれますが毎日は無理ですね。お魚とかの方が好きかも。",
+            "timestamp": "2022-08-21T22:46:29.001000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CY",
+            "text": "なるほど。確かに毎日は無理ですよね。大阪はお魚もおいしいですか？",
+            "timestamp": "2022-08-21T22:47:03.044000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AX",
+            "text": "それがあんまりないんですよね。大分のカツオとかはスーパーに売ってましたけどそれ以外はあまり。",
+            "timestamp": "2022-08-21T22:47:27.083000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CY",
+            "text": "そういえばあまり聞きませんね。どちらかといえばとにかく粉もんのイメージでした",
+            "timestamp": "2022-08-21T22:48:05.725000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AX",
+            "text": "そうそう。隣の和歌山とかはお魚結構おいしいみたいですよ。",
+            "timestamp": "2022-08-21T22:48:22.274000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CY",
+            "text": "和歌山も行ってみたいです。私のイメージでは和歌山はラーメンですかね。",
+            "timestamp": "2022-08-21T22:48:55.651000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AX",
+            "text": "ラーメンも食べました。おいしかったですよ。",
+            "timestamp": "2022-08-21T22:49:09.184000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CY",
+            "text": "いいですね。ご当地のカップラーメンでしか食べたことないです。",
+            "timestamp": "2022-08-21T22:49:33.795000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AX",
+            "text": "はは。なかなか行かないですよね。あと香川のうどんも食べてみました。",
+            "timestamp": "2022-08-21T22:49:57.421000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CY",
+            "text": "おお！うどんといえば、ですね。他とはやはり違いますか？",
+            "timestamp": "2022-08-21T22:50:22.072000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AX",
+            "text": "うどんはね。どこも一緒だと思ってましたが違いましたね。",
+            "timestamp": "2022-08-21T22:50:41.717000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CY",
+            "text": "ちなみにどこらへんが違うと思いましたか？",
+            "timestamp": "2022-08-21T22:50:58.190000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AX",
+            "text": "あのね。うどんの上に乗ってる揚げたのあるじゃないですか。",
+            "timestamp": "2022-08-21T22:51:23.665000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CY",
+            "text": "はい！ありますね。",
+            "timestamp": "2022-08-21T22:51:34.229000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AX",
+            "text": "あれが顔ぐらいあるんですよ。しかもカリカリで美味しかった。",
+            "timestamp": "2022-08-21T22:51:51.894000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CY",
+            "text": "おおきいんですね！それは見てみたいです。",
+            "timestamp": "2022-08-21T22:52:11.701000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AX",
+            "text": "香川の人はうどんをはしごするらしいですよ。それも驚きました。",
+            "timestamp": "2022-08-21T22:52:28.060000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13977,
+    "interlocutors": [
+        "GR",
+        "FU"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GR",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T22:31:40.687000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FU",
+            "text": "こんばんは",
+            "timestamp": "2022-10-01T22:31:43.035000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GR",
+            "text": "健康について気を付けてることありますか？",
+            "timestamp": "2022-10-01T22:32:01.675000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FU",
+            "text": "うーん、特に何もしてないです。野菜をたべるようにしてるくらいかな。",
+            "timestamp": "2022-10-01T22:32:27.978000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GR",
+            "text": "運動とかはしてないですか？",
+            "timestamp": "2022-10-01T22:32:39.545000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FU",
+            "text": "全然してないです。",
+            "timestamp": "2022-10-01T22:32:48.980000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GR",
+            "text": "私も全然してないんですけど、健康診断で運動してって言われちゃいました",
+            "timestamp": "2022-10-01T22:34:30.902000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FU",
+            "text": "運動って難しいですよね、手軽なのは散歩なんでしょうけど",
+            "timestamp": "2022-10-01T22:34:53.077000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GR",
+            "text": "散歩の楽しさがわからないんですよね",
+            "timestamp": "2022-10-01T22:35:07.575000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FU",
+            "text": "あんまり運動って感じはしないですね",
+            "timestamp": "2022-10-01T22:35:20.147000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GR",
+            "text": "ジムもお金かかるし、どうしようかなって感じです",
+            "timestamp": "2022-10-01T22:35:40.934000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FU",
+            "text": "リングフィットとかどうですか？",
+            "timestamp": "2022-10-01T22:37:46.905000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GR",
+            "text": "リングフィットはずっと気になってました",
+            "timestamp": "2022-10-01T22:38:01.979000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FU",
+            "text": "一時期品切れでしたけど今は買えるんでしょうか",
+            "timestamp": "2022-10-01T22:38:25.580000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GR",
+            "text": "どうなんでしょうね、あんまり見かけないですけど",
+            "timestamp": "2022-10-01T22:38:40.167000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FU",
+            "text": "家で運動できるならそれに越したことはないですよね",
+            "timestamp": "2022-10-01T22:38:59.684000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GR",
+            "text": "そうですね。三日坊主にならないようにすればコスパよさそう",
+            "timestamp": "2022-10-01T22:39:15.205000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FU",
+            "text": "僕は三日坊主になりそうなので、運動するならジムかなって思ってます",
+            "timestamp": "2022-10-01T22:40:08.970000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GR",
+            "text": "ジム、気になるんですけど高いんですよね",
+            "timestamp": "2022-10-01T22:40:29.704000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FU",
+            "text": "綺麗なところは高いですね",
+            "timestamp": "2022-10-01T22:40:41.030000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GR",
+            "text": "そうですよね。",
+            "timestamp": "2022-10-01T22:40:48.260000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FU",
+            "text": "でも高いお金払ってるから行かなきゃ損じゃないですか",
+            "timestamp": "2022-10-01T22:41:19.927000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GR",
+            "text": "それはそうですね",
+            "timestamp": "2022-10-01T22:41:27.360000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FU",
+            "text": "だから必然的に三日坊主じゃなくせるきがします",
+            "timestamp": "2022-10-01T22:41:47.538000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GR",
+            "text": "たしかに。いい側面もありますね",
+            "timestamp": "2022-10-01T22:42:14.200000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FU",
+            "text": "でも今はいいかなって思います",
+            "timestamp": "2022-10-01T22:45:33.388000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GR",
+            "text": "運動する気力があったらですね",
+            "timestamp": "2022-10-01T22:45:47.331000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FU",
+            "text": "そうですね",
+            "timestamp": "2022-10-01T22:45:53.404000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GR",
+            "text": "あとは指導されてからでいいとおもいます",
+            "timestamp": "2022-10-01T22:46:13.005000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FU",
+            "text": "はい",
+            "timestamp": "2022-10-01T22:46:18.248000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GR",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

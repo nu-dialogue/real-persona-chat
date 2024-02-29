@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 123,
+    "interlocutors": [
+        "AI",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AI",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-08-09T00:02:02.879000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "よろしくお願いいたします",
+            "timestamp": "2022-08-09T00:02:06.240000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AI",
+            "text": "最近外食とか行かれましたか",
+            "timestamp": "2022-08-09T00:02:18.472000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "あれ、言われてみればないかもしれないです！先月家族と中華を食べたのが最後かもしれないです",
+            "timestamp": "2022-08-09T00:02:45.240000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AI",
+            "text": "中華ですか、中華っていっても色々バリエーションがありますよね",
+            "timestamp": "2022-08-09T00:03:09.067000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "そうですよね。一言に中国料理って言っても四川とか北京とかで違いますからね",
+            "timestamp": "2022-08-09T00:03:40.405000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AI",
+            "text": "街中華的ある意味日本食といって過言じゃないものまで",
+            "timestamp": "2022-08-09T00:04:02.313000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "たしかに。もはやアレンジもされていて日本食ですよねえ",
+            "timestamp": "2022-08-09T00:04:42.373000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AI",
+            "text": "というわけで、どういう系列の中華にいかれましたか",
+            "timestamp": "2022-08-09T00:04:59.529000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "あれはなんだったんでしょう。デパートのレストランだったんですが、結構本格的って感じがしたんですよね",
+            "timestamp": "2022-08-09T00:06:05.528000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AI",
+            "text": "ま、おいしけりゃいっか",
+            "timestamp": "2022-08-09T00:06:06.401000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "今ネットで探してたんですけど、名前が出てこなくて。よく行くのに！",
+            "timestamp": "2022-08-09T00:06:32.182000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AI",
+            "text": "最近は雲南料理ってのにはまってます",
+            "timestamp": "2022-08-09T00:06:51.030000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "ほう！どういった料理なんですか？",
+            "timestamp": "2022-08-09T00:07:15.752000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AI",
+            "text": "四川料理を、さらにマニアックにしたような感じ",
+            "timestamp": "2022-08-09T00:07:39.541000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "ほうほう！あ、すごい",
+            "timestamp": "2022-08-09T00:07:58.391000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AI",
+            "text": "麺とか薬膳とかもあって、結構意外にどこか日本っぽい",
+            "timestamp": "2022-08-09T00:08:17.624000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "さまざまな部族の料理がミックスされている感じなのですね",
+            "timestamp": "2022-08-09T00:08:40.407000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AI",
+            "text": "はい、三国志の南蛮とかこんなところだったのかなって",
+            "timestamp": "2022-08-09T00:09:11.722000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "料理を食べるとそういう想像が膨らみますよね",
+            "timestamp": "2022-08-09T00:09:26.205000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AI",
+            "text": "なかなか旅行では行けそうにもないし",
+            "timestamp": "2022-08-09T00:09:43.538000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "そうですね、料理を食べて気分を味わいたいですね",
+            "timestamp": "2022-08-09T00:10:11.967000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AI",
+            "text": "中華はいろいろバリエーションあるから、新しい店とか開拓しても面白いですよね",
+            "timestamp": "2022-08-09T00:10:43.112000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "たしかに！そうですよね。一人で外食ってされますか？",
+            "timestamp": "2022-08-09T00:11:03.500000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AI",
+            "text": "たまにするときもあります",
+            "timestamp": "2022-08-09T00:11:14.037000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "そうなんですね、どういった系統の料理を召し上がるんですか？",
+            "timestamp": "2022-08-09T00:11:52.177000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AI",
+            "text": "色々なケースがありますが、最近のお気に入りは麦飯の店とか",
+            "timestamp": "2022-08-09T00:12:14.079000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "麦飯の店！なんと、興味をそそられます",
+            "timestamp": "2022-08-09T00:12:26.233000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AI",
+            "text": "大病院の近くのせいか、ヘルシー系で人気です",
+            "timestamp": "2022-08-09T00:12:43.715000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "病院側の意図もあるんでしょうかねえ",
+            "timestamp": "2022-08-09T00:13:03.371000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

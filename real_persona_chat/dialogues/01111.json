@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1111,
+    "interlocutors": [
+        "BV",
+        "CT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BV",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-12T12:21:15.598000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CT",
+            "text": "こんにちは。こちらこそよろしくお願いします。",
+            "timestamp": "2022-08-12T12:21:44.447000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BV",
+            "text": "そちらの天気はいかがですか？",
+            "timestamp": "2022-08-12T12:21:53.334000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CT",
+            "text": "こちらは雨が降っています。台風が近づいてきていますね。",
+            "timestamp": "2022-08-12T12:22:12.757000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BV",
+            "text": "台風発生しましたね。こちらも雨で少し涼しくなりました。",
+            "timestamp": "2022-08-12T12:22:45.902000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CT",
+            "text": "ちょっと涼しくなったのは助かりました。",
+            "timestamp": "2022-08-12T12:23:03.504000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BV",
+            "text": "日差しがないだけで全然違いますよね。",
+            "timestamp": "2022-08-12T12:23:14.836000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CT",
+            "text": "ただ湿度が大変なことになっていて、洗濯物が乾きません",
+            "timestamp": "2022-08-12T12:23:32.940000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BV",
+            "text": "こちらも湿度高いです！蒸し蒸ししてます。",
+            "timestamp": "2022-08-12T12:24:04.774000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CT",
+            "text": "そうですよね。あきらめてコインランドリーに行こうかな",
+            "timestamp": "2022-08-12T12:24:25.250000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BV",
+            "text": "扇風機などで風送るだけでも乾きやすくなるかと思いますが厳しそうですか？",
+            "timestamp": "2022-08-12T12:24:50.413000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CT",
+            "text": "扇風機とエアコンで乾かしているのですが、ちょっと量が多いです。",
+            "timestamp": "2022-08-12T12:25:20.757000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BV",
+            "text": "あぁなるほど。それならランドリー行くのが無難かもしれませんね。",
+            "timestamp": "2022-08-12T12:25:41.413000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CT",
+            "text": "そうですよね。明日も雨が続くようですし",
+            "timestamp": "2022-08-12T12:26:04.234000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BV",
+            "text": "台風の影響でしょうかね。",
+            "timestamp": "2022-08-12T12:26:26.460000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CT",
+            "text": "そうだと思います。　しかし今年の夏は暑いですね！",
+            "timestamp": "2022-08-12T12:26:45.847000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BV",
+            "text": "急に暑くなりましたね。お体大丈夫ですか？",
+            "timestamp": "2022-08-12T12:27:11.907000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CT",
+            "text": "この前、38℃まで気温が上がった時は、調子が悪くなりましたよ。",
+            "timestamp": "2022-08-12T12:27:37.519000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BV",
+            "text": "おおそれは大変。38度はきついですね！",
+            "timestamp": "2022-08-12T12:28:02.025000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CT",
+            "text": "多分、初めてだったと思います。",
+            "timestamp": "2022-08-12T12:28:21.085000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BV",
+            "text": "体もびっくりしますね。熱中症になりそう。",
+            "timestamp": "2022-08-12T12:28:43.426000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CT",
+            "text": "なるべく冷房の中にいたのですが、ちょっと出かける用事があって大変でした。",
+            "timestamp": "2022-08-12T12:29:13.105000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BV",
+            "text": "外に出ると一瞬で汗吹き出ませんか。",
+            "timestamp": "2022-08-12T12:29:44.499000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CT",
+            "text": "これでもか！って言う感じで汗がでちゃいます。ほんと困ります。",
+            "timestamp": "2022-08-12T12:30:12.290000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BV",
+            "text": "困りますよねー！まだまだ暑さ続きますね。",
+            "timestamp": "2022-08-12T12:30:40.779000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CT",
+            "text": "そうですね。でも、ニュースによるとそろそろ暑さのピークは過ぎるみたいですよ！",
+            "timestamp": "2022-08-12T12:31:13.759000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BV",
+            "text": "お、そうなんですか！もう少し落ち着いてくれると嬉しい。",
+            "timestamp": "2022-08-12T12:31:31.965000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CT",
+            "text": "暑いのもいやですが、私は寒いのはもっと嫌いなので、夏が終わるのは複雑な感じです。",
+            "timestamp": "2022-08-12T12:32:05.446000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BV",
+            "text": "夏の終わりってなんか切なくなりますね。",
+            "timestamp": "2022-08-12T12:32:21.923000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CT",
+            "text": "そうなんです。ちょっと寂しい気持ちになりますよ！",
+            "timestamp": "2022-08-12T12:32:40.023000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

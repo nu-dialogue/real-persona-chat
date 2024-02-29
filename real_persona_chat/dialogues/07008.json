@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 7008,
+    "interlocutors": [
+        "AK",
+        "AC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AK",
+            "text": "こんにちは。",
+            "timestamp": "2022-07-30T10:17:01.568000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AC",
+            "text": "こんにちはー。ご機嫌いかがですか？",
+            "timestamp": "2022-07-30T10:17:10.834000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AK",
+            "text": "今日は元気いっぱいです！",
+            "timestamp": "2022-07-30T10:17:24.497000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AC",
+            "text": "いいですね！なにか良いことあったんですか？",
+            "timestamp": "2022-07-30T10:17:38.795000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AK",
+            "text": "朝から活動できたので、いい気分なんです。",
+            "timestamp": "2022-07-30T10:17:54.514000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AC",
+            "text": "朝から活動って、定番のアレですかね？",
+            "timestamp": "2022-07-30T10:18:07.167000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AK",
+            "text": "定番ってなんでしょう？",
+            "timestamp": "2022-07-30T10:18:20.855000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AC",
+            "text": "それはもう、朝の活動といえば、ラジオ体操です！",
+            "timestamp": "2022-07-30T10:18:34.684000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AK",
+            "text": "あーなるほど！ラジオ体操って気持ちいいですよね。",
+            "timestamp": "2022-07-30T10:18:50.127000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AC",
+            "text": "どうなんでしょう？私、小学校以来、やった記憶が。",
+            "timestamp": "2022-07-30T10:19:08.886000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AK",
+            "text": "結構疲れるんですが、全身動かせるので気持ちいいですよ。",
+            "timestamp": "2022-07-30T10:19:28.562000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AC",
+            "text": "筋肉痛になりそうなぐらい、運動不足ですよ。ラジオ体操じゃないとすると？",
+            "timestamp": "2022-07-30T10:19:57.776000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AK",
+            "text": "そうなんですね。朝から買い物に行っただけなんです。",
+            "timestamp": "2022-07-30T10:20:30.879000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AC",
+            "text": "買い物ですか。どういったお買い物だったんですか？",
+            "timestamp": "2022-07-30T10:20:45.730000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AK",
+            "text": "今日の食材を買いに行きました！",
+            "timestamp": "2022-07-30T10:20:57.835000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AC",
+            "text": "えらい。良いものはゲットできました？",
+            "timestamp": "2022-07-30T10:21:13.745000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AK",
+            "text": "玉ねぎをゲットしました！やっと安くなってきましたよね。",
+            "timestamp": "2022-07-30T10:21:37.015000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AC",
+            "text": "玉ねぎって高い時は高いですもんね。玉ねぎって今が旬？",
+            "timestamp": "2022-07-30T10:21:53.488000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AK",
+            "text": "どうなんでしょう。北海道産は今が旬らしいです。",
+            "timestamp": "2022-07-30T10:22:10.728000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AC",
+            "text": "北海道は涼しいから、すこし遅い感じでしょうかね。玉ねぎでなに作ります？",
+            "timestamp": "2022-07-30T10:22:33.562000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AK",
+            "text": "今日は揚げ物をする予定なので、玉ねぎも揚げちゃいます！",
+            "timestamp": "2022-07-30T10:22:51.921000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AC",
+            "text": "あー、それは美味しそう！よく揚げ物するんですか？",
+            "timestamp": "2022-07-30T10:23:03.510000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AK",
+            "text": "最近はまっています。天ぷら鍋が欲しいんですよね。",
+            "timestamp": "2022-07-30T10:23:25.993000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AC",
+            "text": "天ぷら、結構難しいですよね？",
+            "timestamp": "2022-07-30T10:23:37.908000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AK",
+            "text": "衣が難しいですよね。春によく作ったんですが、失敗も多かったです。",
+            "timestamp": "2022-07-30T10:24:02.370000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AC",
+            "text": "私もいつもベショベショに。今はどうですか？",
+            "timestamp": "2022-07-30T10:24:18.762000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AK",
+            "text": "分量適当なので、良いときもあれば、という感じですね。",
+            "timestamp": "2022-07-30T10:24:47.150000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AC",
+            "text": "そういうの、ちょっと良いですよねー。波がある方が上手くできた時の喜び倍増。",
+            "timestamp": "2022-07-30T10:25:10.368000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AK",
+            "text": "確かにそうですね！そう思うと作るの楽しめそうです！",
+            "timestamp": "2022-07-30T10:25:29.883000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AC",
+            "text": "いいですね！今日も上手に玉ねぎが揚がるといいですね。",
+            "timestamp": "2022-07-30T10:25:50.135000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AK",
+            "text": "ありがとうございます。頑張ってみます！",
+            "timestamp": "2022-07-30T10:26:09.469000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AK",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

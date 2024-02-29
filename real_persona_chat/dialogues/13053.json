@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13053,
+    "interlocutors": [
+        "GI",
+        "GD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "お願いします。",
+            "timestamp": "2022-09-16T10:16:37.730000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GD",
+            "text": "よろしくお願いします。",
+            "timestamp": "2022-09-16T10:16:48.219000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "好きな食べ物は何ですか？",
+            "timestamp": "2022-09-16T10:17:01.331000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GD",
+            "text": "最近はよく卵を食べますね。朝は目玉焼きトーストにするのが好きです。",
+            "timestamp": "2022-09-16T10:17:44.911000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "卵ですか。いろいろ料理できますもんね。",
+            "timestamp": "2022-09-16T10:18:12.011000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GD",
+            "text": "そうなんです。煮卵もおいしいですし、卵かけごはんもできますし。",
+            "timestamp": "2022-09-16T10:19:13.221000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "そうですね。味付け卵とか作ったことありますか？",
+            "timestamp": "2022-09-16T10:19:37.170000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GD",
+            "text": "初めて聞きました。どうやって作るんですか？",
+            "timestamp": "2022-09-16T10:20:12.192000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "めんつゆとかにつけて、冷蔵庫で時間置いとくだけでできますよ。",
+            "timestamp": "2022-09-16T10:20:33.067000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GD",
+            "text": "なるほど、漬けるやつですね。まだやったことないので今度やってみます。",
+            "timestamp": "2022-09-16T10:21:09.846000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "カップラーメンとかに入れると、満足度高まります。",
+            "timestamp": "2022-09-16T10:21:28.206000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GD",
+            "text": "それは美味しそうです。ラーメンお好きなんですか？",
+            "timestamp": "2022-09-16T10:21:42.583000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "好きですよ！",
+            "timestamp": "2022-09-16T10:21:52.152000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GD",
+            "text": "私、九州人なので豚骨ラーメンが一番なんですが、何ラーメンが好きですか？",
+            "timestamp": "2022-09-16T10:22:20.756000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "豚骨ラーメンも好きです。白湯ラーメンに最近はまってます。",
+            "timestamp": "2022-09-16T10:22:40.695000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GD",
+            "text": "鶏のスープですね。食べたことないんですが、あっさりしてますか？",
+            "timestamp": "2022-09-16T10:23:45.327000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "そうです。どっちかというとこってり系ですね。",
+            "timestamp": "2022-09-16T10:24:01.770000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GD",
+            "text": "へえ、こってりなんですね。",
+            "timestamp": "2022-09-16T10:24:49.397000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうですね。後チャーシューがレアで、おいしいんですよ。",
+            "timestamp": "2022-09-16T10:25:10.877000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GD",
+            "text": "チャーシューも鶏なんですか？",
+            "timestamp": "2022-09-16T10:25:30.133000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "そうですね。鶏だったり普通のだったりします。",
+            "timestamp": "2022-09-16T10:25:58.914000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GD",
+            "text": "レアのチャーシューおいしそうです。",
+            "timestamp": "2022-09-16T10:26:21.880000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "おいしいですよ。九州のとんこつといえば、博多ラーメンですか？",
+            "timestamp": "2022-09-16T10:26:49.203000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GD",
+            "text": "筑豊ですね。北九州よりなのであまり博多には行った事ないんです。",
+            "timestamp": "2022-09-16T10:27:32.750000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。何か変わった具がはいっていたりするんですか？",
+            "timestamp": "2022-09-16T10:27:54.129000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GD",
+            "text": "紅しょうがが入っていると言うと驚かれることが多いですね。",
+            "timestamp": "2022-09-16T10:28:18.987000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "え！それはびっくりです。",
+            "timestamp": "2022-09-16T10:28:39.820000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GD",
+            "text": "ちょっとだけですけど、アクセントになります。あと席に高菜が置いてあるのも珍しいかもしれないです。",
+            "timestamp": "2022-09-16T10:29:11.133000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "高菜も初めて聞きました。それはラーメンにいれるのですか？",
+            "timestamp": "2022-09-16T10:29:29.918000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GD",
+            "text": "そうですそうです。",
+            "timestamp": "2022-09-16T10:29:49.597000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

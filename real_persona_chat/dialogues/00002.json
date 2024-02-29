@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2,
+    "interlocutors": [
+        "AB",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AB",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-06T14:59:13.911000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-06T14:59:22.814000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AB",
+            "text": "もうお盆ですね！",
+            "timestamp": "2022-08-06T14:59:37.532000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "確かに。時間が過ぎるのが早いです",
+            "timestamp": "2022-08-06T14:59:48.260000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AB",
+            "text": "お盆のご予定は？",
+            "timestamp": "2022-08-06T14:59:57.773000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "お盆は友人に会う予定です。",
+            "timestamp": "2022-08-06T15:00:09.459000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AB",
+            "text": "いいですね！久しぶりに会うんですか？",
+            "timestamp": "2022-08-06T15:00:22.136000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "そうなんです。といっても6月にもあったんですけど",
+            "timestamp": "2022-08-06T15:00:33.637000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AB",
+            "text": "あっ、若干久しぶりですね。",
+            "timestamp": "2022-08-06T15:00:58.772000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "若干ですけど、でも積もる話もあるので楽しみです",
+            "timestamp": "2022-08-06T15:01:09.740000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AB",
+            "text": "2か月は色んなことありますよね！いいなー。",
+            "timestamp": "2022-08-06T15:01:26.875000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "<AB>さんはいかがですか？",
+            "timestamp": "2022-08-06T15:01:45.799000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AB",
+            "text": "私は、夫の実家に帰省する予定です。",
+            "timestamp": "2022-08-06T15:01:59.682000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "なんと！よいですね",
+            "timestamp": "2022-08-06T15:02:07.859000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AB",
+            "text": "電車で行ける距離なんですが、高齢なんで様子見も兼ねて。",
+            "timestamp": "2022-08-06T15:02:30.836000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "近いですね。お墓参りなどもされるんですか？",
+            "timestamp": "2022-08-06T15:02:47.332000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AB",
+            "text": "いや、お墓参りはちょっと遠いのでお任せしてます。",
+            "timestamp": "2022-08-06T15:03:08.323000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "そうなんですね！私もお墓は遠いところにあるのでいつも人任せです",
+            "timestamp": "2022-08-06T15:03:29.556000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AB",
+            "text": "お墓って、行きづらい山の中とかにあるんですよ。行くのが大変です。",
+            "timestamp": "2022-08-06T15:03:53.565000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "わかります。土地がないっていうんでしょうけど、アクセスが大変で。",
+            "timestamp": "2022-08-06T15:04:11.699000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AB",
+            "text": "考えものですよね。お墓移すとなるとそれも大変だし。",
+            "timestamp": "2022-08-06T15:04:33.102000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "本当にそうですよね。すごい正直に言うと、それをするとお金かかりますしね",
+            "timestamp": "2022-08-06T15:04:57.186000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AB",
+            "text": "そうなんですよね。夫が次男なので、お墓問題はいつかぶち当たります。",
+            "timestamp": "2022-08-06T15:05:23.346000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "ああ、なるほど。か並ぶぶち当たる問題とは言え、逃げたいですよね",
+            "timestamp": "2022-08-06T15:05:45.544000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AB",
+            "text": "もう散骨でいいんだけどな、とも思います。",
+            "timestamp": "2022-08-06T15:06:00.401000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "分かります。私死んだときは散骨か共同墓地でってお願いしてます。",
+            "timestamp": "2022-08-06T15:06:19.995000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AB",
+            "text": "いいですね。早めに決めとくのも！",
+            "timestamp": "2022-08-06T15:06:42.286000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "です！まだ健康のうちから入るお墓決めておくのも手です",
+            "timestamp": "2022-08-06T15:07:06.906000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AB",
+            "text": "なぜかお墓の話になってしまいましたね。ありがとうございました。",
+            "timestamp": "2022-08-06T15:07:31.831000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-08-06T15:07:42.483000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

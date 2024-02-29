@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10333,
+    "interlocutors": [
+        "CX",
+        "CY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。趣味や好きなことはなんですか？",
+            "timestamp": "2022-08-12T14:59:29.092000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CY",
+            "text": "こんにちは！趣味はお菓子作りです。",
+            "timestamp": "2022-08-12T14:59:50.339000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CX",
+            "text": "あ！いいですね！どんなお菓子がお得意ですか？",
+            "timestamp": "2022-08-12T15:00:11.612000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CY",
+            "text": "私はタルトが好きで、タルトをよく作ります。",
+            "timestamp": "2022-08-12T15:00:30.696000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CX",
+            "text": "タルトですか！じゃあかなり本格的ですね！",
+            "timestamp": "2022-08-12T15:00:58.272000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CY",
+            "text": "実はとても簡単なんですよ。台も市販のクッキー砕いて作れるんです。",
+            "timestamp": "2022-08-12T15:01:24.413000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CX",
+            "text": "へぇ。最近はお手軽レシピみたいなのもあるから、簡単なんですかね。",
+            "timestamp": "2022-08-12T15:02:11.323000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CY",
+            "text": "そうみたいですね。でも簡単レシピは案外失敗したりもします。",
+            "timestamp": "2022-08-12T15:02:28.227000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね、その辺の塩梅は難しいってことですかね。",
+            "timestamp": "2022-08-12T15:04:47.047000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CY",
+            "text": "簡単にしすぎると逆に大事な工程まで省かれちゃったりするのかもですね。",
+            "timestamp": "2022-08-12T15:06:08.251000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CX",
+            "text": "あぁ。なるほど。ちなみにタルトを作る際のポイントは？",
+            "timestamp": "2022-08-12T15:06:29.133000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CY",
+            "text": "生地や台を作ったらきちんと冷やし固めることです。",
+            "timestamp": "2022-08-12T15:07:01.936000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CX",
+            "text": "なるほど。そこを手抜くとあまりうまく行かなくなるんですかね？",
+            "timestamp": "2022-08-12T15:07:32.480000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CY",
+            "text": "一度いそいで冷やしきらないうちに次の工程に移ったらごちゃ混ぜになりました。",
+            "timestamp": "2022-08-12T15:08:18.033000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CX",
+            "text": "なるほど。やっぱりある程度時間や手間をかけないと失敗してしまうんですかね。",
+            "timestamp": "2022-08-12T15:08:47.660000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CY",
+            "text": "お菓子作りでは待つことが大事みたいです。",
+            "timestamp": "2022-08-12T15:09:08.838000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CX",
+            "text": "ほぅ。勉強になります！",
+            "timestamp": "2022-08-12T15:09:25.765000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CY",
+            "text": "何か料理されたりしますか？",
+            "timestamp": "2022-08-12T15:09:40.592000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CX",
+            "text": "簡単に焼いたり茹でたりくらいの料理なら。",
+            "timestamp": "2022-08-12T15:10:03.845000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CY",
+            "text": "私もお菓子以外は簡単なものしか作れないです。",
+            "timestamp": "2022-08-12T15:10:31.881000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CX",
+            "text": "お菓子が作れるだけすごいと思いますよ！",
+            "timestamp": "2022-08-12T15:10:50.019000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CY",
+            "text": "時々ものすごい失敗もしますよ。",
+            "timestamp": "2022-08-12T15:11:09.489000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CX",
+            "text": "そういうことはありますよ、誰でも。",
+            "timestamp": "2022-08-12T15:11:28.781000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CY",
+            "text": "その日の温度や湿度も結構関係しますもんね。",
+            "timestamp": "2022-08-12T15:11:58.271000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CX",
+            "text": "確かに。料理なら熱するだけですが、お菓子だと冷やしたりもしますからね。",
+            "timestamp": "2022-08-12T15:12:22.749000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CY",
+            "text": "最近温度計を買ったので少し失敗が減りました。",
+            "timestamp": "2022-08-12T15:12:48.243000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CX",
+            "text": "素晴らしい、細かなことまで気が回るのですね！",
+            "timestamp": "2022-08-12T15:13:13.488000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CY",
+            "text": "やっぱりきっちりやらないとだめだな、と思い直しました！",
+            "timestamp": "2022-08-12T15:13:41.800000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CX",
+            "text": "お菓子作りも奥が深そうですね！",
+            "timestamp": "2022-08-12T15:13:54.553000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CY",
+            "text": "はい！もっといろいろなものが作れるようになりたいです。",
+            "timestamp": "2022-08-12T15:14:11.225000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CY",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

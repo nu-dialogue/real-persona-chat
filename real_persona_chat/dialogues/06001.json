@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6001,
+    "interlocutors": [
+        "HB",
+        "AS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HB",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T14:39:46.854000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AS",
+            "text": "こんにちは。",
+            "timestamp": "2022-10-02T14:39:54.313000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HB",
+            "text": "昼ご飯は食べました？",
+            "timestamp": "2022-10-02T14:39:59.030000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AS",
+            "text": "つい先ほど食べました",
+            "timestamp": "2022-10-02T14:40:18.929000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HB",
+            "text": "何食べたんですか？",
+            "timestamp": "2022-10-02T14:40:26.471000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AS",
+            "text": "オムレツです",
+            "timestamp": "2022-10-02T14:40:34.148000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HB",
+            "text": "いいですね。自分でおつくりに？",
+            "timestamp": "2022-10-02T14:40:43.480000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AS",
+            "text": "そうです！アプリで調べて",
+            "timestamp": "2022-10-02T14:40:59.633000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HB",
+            "text": "おお。どんなアプリを使うんですか？",
+            "timestamp": "2022-10-02T14:41:10.268000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AS",
+            "text": "クラシルとかです",
+            "timestamp": "2022-10-02T14:41:23.910000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。動画で観れるやつですかね。",
+            "timestamp": "2022-10-02T14:41:38.048000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AS",
+            "text": "そうです。1分以内に収めた倍速動画が集まってて手軽なんです",
+            "timestamp": "2022-10-02T14:42:06.703000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HB",
+            "text": "そうなんですね。それでうまいこと作れました？",
+            "timestamp": "2022-10-02T14:42:23.490000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AS",
+            "text": "返しに失敗して真っ二つになりました",
+            "timestamp": "2022-10-02T14:42:38.973000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HB",
+            "text": "あら。でもおいしかったですか？",
+            "timestamp": "2022-10-02T14:42:50.351000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AS",
+            "text": "味はレシピ通りだったので問題なかったです",
+            "timestamp": "2022-10-02T14:43:04.732000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HB",
+            "text": "それはよかったです。自分で料理するとよりおいしく感じますね。",
+            "timestamp": "2022-10-02T14:43:20.315000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AS",
+            "text": "手間暇かけて作った甲斐があります",
+            "timestamp": "2022-10-02T14:43:42.262000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。おなか減ってきました。",
+            "timestamp": "2022-10-02T14:43:55.658000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AS",
+            "text": "そちらはまだですか？",
+            "timestamp": "2022-10-02T14:44:04.684000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HB",
+            "text": "まだなんですよ。さっき起きたばっかで。",
+            "timestamp": "2022-10-02T14:44:31.878000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AS",
+            "text": "夜勤されてるんですか？",
+            "timestamp": "2022-10-02T14:44:46.284000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HB",
+            "text": "いえ。やすみだから遅起きなだけです。",
+            "timestamp": "2022-10-02T14:44:57.660000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AS",
+            "text": "なるほど、ゆっくり過ごされるんですね",
+            "timestamp": "2022-10-02T14:45:08.633000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HB",
+            "text": "そうです。あなたは？",
+            "timestamp": "2022-10-02T14:45:18.887000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AS",
+            "text": "私は農業やってました",
+            "timestamp": "2022-10-02T14:45:40.380000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HB",
+            "text": "朝からお疲れ様です。それはおなかすくでしょう。",
+            "timestamp": "2022-10-02T14:45:53.846000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AS",
+            "text": "黒豆に虫から守るネットをかけてました。お腹空きました",
+            "timestamp": "2022-10-02T14:46:19.401000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HB",
+            "text": "そうですよね。もう涼しいですか？",
+            "timestamp": "2022-10-02T14:46:30.624000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AS",
+            "text": "ちょっとマシになりましたが、まだ暑いです",
+            "timestamp": "2022-10-02T14:46:41.354000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

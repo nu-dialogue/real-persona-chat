@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11554,
+    "interlocutors": [
+        "DN",
+        "EM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DN",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-23T13:53:50.482000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EM",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-23T13:53:53.169000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DN",
+            "text": "昨夜は何を召し上がりましたか？",
+            "timestamp": "2022-08-23T13:54:08.884000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EM",
+            "text": "あれ、何を食べたかな？ちょっと待ってくださいね。",
+            "timestamp": "2022-08-23T13:54:21.293000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DN",
+            "text": "すみません。急な質問で。私はお肉をいただきました。",
+            "timestamp": "2022-08-23T13:54:45.290000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EM",
+            "text": "いえいえ、塩サバとみそ汁とかでした。",
+            "timestamp": "2022-08-23T13:54:53.123000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DN",
+            "text": "おいしそうですね。塩サバはご自分で焼かれたのですか？",
+            "timestamp": "2022-08-23T13:55:15.747000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EM",
+            "text": "ええ、冷凍していたものがあったのでそれを。",
+            "timestamp": "2022-08-23T13:55:26.819000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DN",
+            "text": "冷凍しておくと便利ですよね。",
+            "timestamp": "2022-08-23T13:55:41.724000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EM",
+            "text": "はい。焼くだけで食べれればインスタントとそんなに変わらないので。",
+            "timestamp": "2022-08-23T13:55:56.696000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DN",
+            "text": "おさかなを焼くのは面倒ではないですか？",
+            "timestamp": "2022-08-23T13:56:22.661000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EM",
+            "text": "洗うのが面倒ですね。グリルにこびりつくので。",
+            "timestamp": "2022-08-23T13:56:44.551000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DN",
+            "text": "そうですよね。私はオーブンレンジなのでずいぶん楽なはずなのですが。",
+            "timestamp": "2022-08-23T13:57:07.945000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EM",
+            "text": "いいですね。うらやましいです。使いやすい機材があるかないかはやる気に直結しますね。",
+            "timestamp": "2022-08-23T13:57:31.472000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DN",
+            "text": "クッキングシートを鉄板の上に敷けば洗い物はすごく少ないですよ。",
+            "timestamp": "2022-08-23T13:58:01.277000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EM",
+            "text": "グリルの下にアルミホイルを敷いてます。",
+            "timestamp": "2022-08-23T13:58:38.959000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DN",
+            "text": "なるほど！それはいいですね。",
+            "timestamp": "2022-08-23T13:58:50.842000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EM",
+            "text": "クッキングシートは持っていないですね。お菓子とかに使う物ですかね？",
+            "timestamp": "2022-08-23T13:59:03.534000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DN",
+            "text": "そうです。すごく便利なのでいつも使います。",
+            "timestamp": "2022-08-23T13:59:21.067000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EM",
+            "text": "なるほど、持っていないのですが買ってみようかな。",
+            "timestamp": "2022-08-23T13:59:34.585000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DN",
+            "text": "是非！他には昨日は貝つきホタテを焼きました。",
+            "timestamp": "2022-08-23T13:59:55.244000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EM",
+            "text": "おお、いいですね。酒が進みそうです。",
+            "timestamp": "2022-08-23T14:00:11.360000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DN",
+            "text": "ちょうど半額になっていて、味もついていたので楽でした。",
+            "timestamp": "2022-08-23T14:00:33.668000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EM",
+            "text": "いい買い物ですね。私も隙があれば割引の物を買っています。",
+            "timestamp": "2022-08-23T14:00:57.258000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DN",
+            "text": "お魚は夕方遅めに行くと安くなっていますよね",
+            "timestamp": "2022-08-23T14:01:16.814000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EM",
+            "text": "そうですね。閉店前とかに行くと色々安いので助かってます。",
+            "timestamp": "2022-08-23T14:01:39.324000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DN",
+            "text": "私は仕事の後行くとちょうどセールなので、半額のお刺身や貝を買い占めて帰ります。",
+            "timestamp": "2022-08-23T14:02:04.842000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EM",
+            "text": "私も真似してみようかと思います！",
+            "timestamp": "2022-08-23T14:02:19.446000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DN",
+            "text": "シールが貼られる頃が重要ですね！",
+            "timestamp": "2022-08-23T14:02:55.165000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EM",
+            "text": "張り込んでみます！",
+            "timestamp": "2022-08-23T14:03:03.576000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DN",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

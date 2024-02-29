@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5841,
+    "interlocutors": [
+        "HH",
+        "AD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HH",
+            "text": "こんにちは",
+            "timestamp": "2022-10-11T21:24:38.671000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AD",
+            "text": "こんにちは",
+            "timestamp": "2022-10-11T21:24:42.451000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HH",
+            "text": "夕飯は食べましたか？",
+            "timestamp": "2022-10-11T21:25:43.117000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AD",
+            "text": "はい、食べました。",
+            "timestamp": "2022-10-11T21:25:54.658000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HH",
+            "text": "何をたべましたか？",
+            "timestamp": "2022-10-11T21:26:05.544000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AD",
+            "text": "豚汁とから揚げです。",
+            "timestamp": "2022-10-11T21:26:12.611000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HH",
+            "text": "美味しそうですね。",
+            "timestamp": "2022-10-11T21:26:24.023000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AD",
+            "text": "美味しかったです。野菜が多くて体にもいいですし。",
+            "timestamp": "2022-10-11T21:26:33.117000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HH",
+            "text": "うちはさつま汁でした。",
+            "timestamp": "2022-10-11T21:26:56.733000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AD",
+            "text": "良いですね。サツマイモの時期ですし。",
+            "timestamp": "2022-10-11T21:27:11.336000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HH",
+            "text": "そうですね。キノコもはいってました。",
+            "timestamp": "2022-10-11T21:27:30.130000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AD",
+            "text": "美味しそうです。キノコは何の種類ですか？",
+            "timestamp": "2022-10-11T21:27:39.635000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HH",
+            "text": "しめじです。",
+            "timestamp": "2022-10-11T21:27:50.747000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AD",
+            "text": "しめじ良いですね。私はキノコの中だとエリンギが好きです。",
+            "timestamp": "2022-10-11T21:28:07.500000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HH",
+            "text": "エリンギもおいしいですよね。食感がいいですね。",
+            "timestamp": "2022-10-11T21:28:31.038000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AD",
+            "text": "こりこりした食感が好きですね。",
+            "timestamp": "2022-10-11T21:28:37.599000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HH",
+            "text": "松茸に似てますよね。松茸がたべたいです",
+            "timestamp": "2022-10-11T21:28:58.218000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AD",
+            "text": "松茸狩りされたことありますか？",
+            "timestamp": "2022-10-11T21:29:05.366000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HH",
+            "text": "あります。山の上の方までいき、途中で滑り落ちました。",
+            "timestamp": "2022-10-11T21:29:34.672000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AD",
+            "text": "滑り落ちたんですか？大丈夫でしたか？",
+            "timestamp": "2022-10-11T21:29:53.003000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HH",
+            "text": "幸い無傷でした。松茸もとれませんでした・・・",
+            "timestamp": "2022-10-11T21:30:17.137000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AD",
+            "text": "松茸取れなかったんですね。残念です。",
+            "timestamp": "2022-10-11T21:30:35.293000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HH",
+            "text": "数千円払ってやるんですけど、採れないなら買った方が安いです",
+            "timestamp": "2022-10-11T21:31:07.566000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AD",
+            "text": "ほかの人は取れていたんですか？",
+            "timestamp": "2022-10-11T21:31:16.185000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HH",
+            "text": "同行者も誰も採れませんでした",
+            "timestamp": "2022-10-11T21:31:35.583000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AD",
+            "text": "それなら本当に買った方が良いですね。",
+            "timestamp": "2022-10-11T21:31:53.657000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HH",
+            "text": "ほんとそうですね。危ないですし",
+            "timestamp": "2022-10-11T21:32:21.041000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AD",
+            "text": "また機会があればやりたいと思いますか？",
+            "timestamp": "2022-10-11T21:32:41.079000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HH",
+            "text": "いいえ。買うかお店で食べます",
+            "timestamp": "2022-10-11T21:33:02.600000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AD",
+            "text": "コスパ考えたらそっちの方がよさそうですね。",
+            "timestamp": "2022-10-11T21:33:16.172000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

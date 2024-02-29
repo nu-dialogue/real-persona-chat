@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 11016,
+    "interlocutors": [
+        "DW",
+        "BW"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DW",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-19T13:27:13.014000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BW",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-19T13:27:24.970000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DW",
+            "text": "毎日暑いですけど、食欲ありますか？",
+            "timestamp": "2022-08-19T13:27:39.206000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BW",
+            "text": "はい、食欲は変わりないです、あなたは？",
+            "timestamp": "2022-08-19T13:27:58.236000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DW",
+            "text": "ちょっと食欲なかったんですけど、復活してきました！",
+            "timestamp": "2022-08-19T13:28:15.211000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BW",
+            "text": "そうだったんですね、食べれないと体力なくなりますからね。",
+            "timestamp": "2022-08-19T13:28:33.045000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DW",
+            "text": "そうなんですよ、疲れますしね。",
+            "timestamp": "2022-08-19T13:28:57.573000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BW",
+            "text": "はい、何かしたことで復活したのですかね？",
+            "timestamp": "2022-08-19T13:29:17.143000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DW",
+            "text": "なるべくサッパリした口当たりのいいもの食べてました。麺系とか。",
+            "timestamp": "2022-08-19T13:29:42.238000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BW",
+            "text": "なるほど、冷たい物を飲むこと多いので、胃腸から弱りそうですしね。",
+            "timestamp": "2022-08-19T13:30:10.797000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DW",
+            "text": "そうですねー。トロロとかネバネバ系はお好きですか？",
+            "timestamp": "2022-08-19T13:30:33.927000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BW",
+            "text": "美味しいですよね！オクラを刻んで、かけてよく食べています。",
+            "timestamp": "2022-08-19T13:30:54.940000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DW",
+            "text": "私も、よく食べます。あと、薬味も最近よく使うようになりました！",
+            "timestamp": "2022-08-19T13:31:25.158000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BW",
+            "text": "薬味も好きですね、みょうがとか何にでも入れてますね。",
+            "timestamp": "2022-08-19T13:31:49.461000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DW",
+            "text": "冷ややっことかに乗せても美味しいですよね。",
+            "timestamp": "2022-08-19T13:32:11.678000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BW",
+            "text": "そうですね、暑い国の人が薬味をたくさん使うのって、理にかなってるんですかね。",
+            "timestamp": "2022-08-19T13:32:42.263000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DW",
+            "text": "きっとそうですよね！スパイスとかも！",
+            "timestamp": "2022-08-19T13:32:57.990000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、胃腸を回復しそうな気がします。",
+            "timestamp": "2022-08-19T13:33:16.841000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DW",
+            "text": "辛いものはお好きですか？",
+            "timestamp": "2022-08-19T13:33:27.723000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BW",
+            "text": "辛いのも好きですね、辛いも適度なら健康に良さそうです。",
+            "timestamp": "2022-08-19T13:33:47.866000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DW",
+            "text": "カレーとか、暑いけど食べたくなりますー。",
+            "timestamp": "2022-08-19T13:34:09.412000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BW",
+            "text": "そうですよね、カレーは毎日でもいけますね。",
+            "timestamp": "2022-08-19T13:34:25.359000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DW",
+            "text": "あはは、毎日ですか。でもバリエーション多いですもんね。",
+            "timestamp": "2022-08-19T13:34:48.387000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BW",
+            "text": "いろんな味にできそうですし、カレーうどんを昨日食べましたね。",
+            "timestamp": "2022-08-19T13:35:12.285000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DW",
+            "text": "私も昨日のお昼カレーうどんでした！",
+            "timestamp": "2022-08-19T13:35:34.763000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BW",
+            "text": "なんと！すごい奇遇ですね、昨日は少し寒かったですからね。",
+            "timestamp": "2022-08-19T13:35:54.447000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DW",
+            "text": "そうですね、無印のカレーとか、たくさん種類ありますけど食べたことありますか？",
+            "timestamp": "2022-08-19T13:36:28.472000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BW",
+            "text": "無印のはないですね、美味しいんでしょうか？",
+            "timestamp": "2022-08-19T13:36:46.064000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DW",
+            "text": "美味しいですー。辛いけど、牛バラ肉の大盛カレー、おすすめです。",
+            "timestamp": "2022-08-19T13:37:11.351000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BW",
+            "text": "そうなんですね、今度チェックしてみます！",
+            "timestamp": "2022-08-19T13:37:26.221000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DW",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BW",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13455,
+    "interlocutors": [
+        "FE",
+        "GT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-22T19:41:05.539000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-22T19:41:11.331000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FE",
+            "text": "最近運動してますか？",
+            "timestamp": "2022-09-22T19:41:16.666000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GT",
+            "text": "たまに家でYouTube見てやってます。",
+            "timestamp": "2022-09-22T19:41:33.206000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FE",
+            "text": "おお！一緒ですね！どういうのやってます？",
+            "timestamp": "2022-09-22T19:41:43.107000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GT",
+            "text": "なんかエクササイズ的なのです。",
+            "timestamp": "2022-09-22T19:41:51.022000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FE",
+            "text": "ほおお、お金とかかかりませんか？",
+            "timestamp": "2022-09-22T19:42:07.892000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GT",
+            "text": "無料のでやってますよ",
+            "timestamp": "2022-09-22T19:42:28.762000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FE",
+            "text": "いいですね！私は筋トレよくします。",
+            "timestamp": "2022-09-22T19:42:37.399000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GT",
+            "text": "筋トレはすぐ疲れてしまいます。",
+            "timestamp": "2022-09-22T19:42:48.509000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FE",
+            "text": "疲れちゃうんですけど、なんかそれがいいというか。",
+            "timestamp": "2022-09-22T19:43:11.856000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GT",
+            "text": "元々運動が好きですか",
+            "timestamp": "2022-09-22T19:43:17.451000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FE",
+            "text": "あまり好きではないです。",
+            "timestamp": "2022-09-22T19:43:42.510000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GT",
+            "text": "ダイエットとかですか？",
+            "timestamp": "2022-09-22T19:43:50.853000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FE",
+            "text": "そうですね、あとは単純に腹筋鍛えたいなと。",
+            "timestamp": "2022-09-22T19:44:13.344000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GT",
+            "text": "私もダイエット目的です。",
+            "timestamp": "2022-09-22T19:44:21.416000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FE",
+            "text": "そうでしたか！一緒ですねー。",
+            "timestamp": "2022-09-22T19:44:36.456000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GT",
+            "text": "コロナになってからすごく太ってしまって。",
+            "timestamp": "2022-09-22T19:44:50.613000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FE",
+            "text": "動く時間が減りますからね。",
+            "timestamp": "2022-09-22T19:45:03.944000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GT",
+            "text": "危機感を覚えています。",
+            "timestamp": "2022-09-22T19:45:18.779000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FE",
+            "text": "お互い頑張りましょう。",
+            "timestamp": "2022-09-22T19:45:29.397000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GT",
+            "text": "そうですね、走ったりもしますか？",
+            "timestamp": "2022-09-22T19:45:37.397000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FE",
+            "text": "走ることはないですが、自転車をこいでいます。",
+            "timestamp": "2022-09-22T19:45:48.154000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GT",
+            "text": "気持ちよさそうですね。",
+            "timestamp": "2022-09-22T19:46:01.359000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FE",
+            "text": "毎朝通学で片道1時間ほどこぐので、辛い方が勝ちますね。",
+            "timestamp": "2022-09-22T19:46:15.551000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GT",
+            "text": "すごいですね。夏とかしんどいですね。",
+            "timestamp": "2022-09-22T19:46:26.697000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FE",
+            "text": "夏はとても暑くて熱中症に何度もなりました。",
+            "timestamp": "2022-09-22T19:46:38.508000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GT",
+            "text": "坂道もありますか。",
+            "timestamp": "2022-09-22T19:46:51.389000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FE",
+            "text": "あります！ものすごいやつが。",
+            "timestamp": "2022-09-22T19:46:57.987000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GT",
+            "text": "それは大変ですね。",
+            "timestamp": "2022-09-22T19:47:02.923000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

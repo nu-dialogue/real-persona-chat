@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12666,
+    "interlocutors": [
+        "CS",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CS",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T12:19:45.758000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "こんにちは",
+            "timestamp": "2022-09-17T12:19:53.661000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CS",
+            "text": "<FT>さんはどのあたりにお住まいなんですか？",
+            "timestamp": "2022-09-17T12:20:15.194000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "関東に住んでいます。",
+            "timestamp": "2022-09-17T12:20:29.123000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CS",
+            "text": "私も関東に住んでます。親戚もみんな関東なんです",
+            "timestamp": "2022-09-17T12:21:25.408000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "じゃあ関東以外の地域はあまりなじみがないんですね",
+            "timestamp": "2022-09-17T12:21:54.732000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CS",
+            "text": "そうですね、旅行で行くかいかないかくらいのレベルです",
+            "timestamp": "2022-09-17T12:22:41.283000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "自分は親戚が九州にいるので、年始とかは行きますがそれくらいですね",
+            "timestamp": "2022-09-17T12:23:16.237000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CS",
+            "text": "九州か、行ったことないです。",
+            "timestamp": "2022-09-17T12:23:33.836000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "そうなんですね。ご飯は割とおいしいと思いますよ",
+            "timestamp": "2022-09-17T12:24:04.001000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CS",
+            "text": "九州はごはんとお酒がおいしいイメージあります",
+            "timestamp": "2022-09-17T12:24:18.331000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "ですね、なのでお酒とかがお好きであればおすすめです",
+            "timestamp": "2022-09-17T12:24:44.291000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CS",
+            "text": "お酒はまぁまぁ好きです。弱いですが・・・。<FT>さんはお酒のめますか？",
+            "timestamp": "2022-09-17T12:25:19.328000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "自分はのめないんですよね。ほろよいとかでも顔が真っ赤になるので",
+            "timestamp": "2022-09-17T12:25:42.445000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CS",
+            "text": "顔に出る感じなんですね",
+            "timestamp": "2022-09-17T12:26:01.550000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "酔っ払い感丸出しで恥ずかしいんですよね",
+            "timestamp": "2022-09-17T12:26:16.836000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CS",
+            "text": "アレルギーみたいなものはないんですか？",
+            "timestamp": "2022-09-17T12:26:31"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "それは大丈夫です。めちゃめちゃ弱いってだけですね",
+            "timestamp": "2022-09-17T12:26:51.968000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CS",
+            "text": "九州って強いお酒が有名そうですが、飲まされたりしないんですか？",
+            "timestamp": "2022-09-17T12:27:41.224000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "さすがに無理やり飲まされることはないですね",
+            "timestamp": "2022-09-17T12:28:00.754000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CS",
+            "text": "それならよかったです。",
+            "timestamp": "2022-09-17T12:28:09.673000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "焼酎とかが有名なので、弱い人はジュースとかで割って飲むといいと思います",
+            "timestamp": "2022-09-17T12:28:44.105000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CS",
+            "text": "なるほど。参考にしますね。",
+            "timestamp": "2022-09-17T12:29:05.042000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "旅行の予定とかは直近であるんですか？",
+            "timestamp": "2022-09-17T12:29:32.400000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CS",
+            "text": "いや、ないですね。行けるとしたら10月以降の連休とかになりそうです",
+            "timestamp": "2022-09-17T12:30:14.569000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "そうなんですね。機会があればぜひ。",
+            "timestamp": "2022-09-17T12:30:29.543000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CS",
+            "text": "ありがとうございます。",
+            "timestamp": "2022-09-17T12:30:37.404000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "いえいえ、では失礼します",
+            "timestamp": "2022-09-17T12:30:50.749000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CS",
+            "text": "失礼いたします。",
+            "timestamp": "2022-09-17T12:30:59.228000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "ありがとうございました。",
+            "timestamp": "2022-09-17T12:31:06.271000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CS",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

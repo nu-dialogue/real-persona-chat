@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 379,
+    "interlocutors": [
+        "BE",
+        "AQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-08T12:49:29.671000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-08T12:49:39.949000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BE",
+            "text": "<AQ>さんの趣味はなんですか?",
+            "timestamp": "2022-08-08T12:49:45.027000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AQ",
+            "text": "独学ピアノですね。",
+            "timestamp": "2022-08-08T12:49:54.317000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BE",
+            "text": "すごい！しかも独学ですか",
+            "timestamp": "2022-08-08T12:50:08.717000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AQ",
+            "text": "たいしたことないですよー。",
+            "timestamp": "2022-08-08T12:50:16.320000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BE",
+            "text": "ピアノの授業があったんですが、私は全然だめでした",
+            "timestamp": "2022-08-08T12:50:39.137000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AQ",
+            "text": "習っていないと難しいですよね。",
+            "timestamp": "2022-08-08T12:50:48.848000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BE",
+            "text": "まず音符が瞬時に読めないです",
+            "timestamp": "2022-08-08T12:51:01.008000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AQ",
+            "text": "私でも即座に読めないかもです。",
+            "timestamp": "2022-08-08T12:51:13.530000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BE",
+            "text": "いっこずつ数えて読み方書いていってました",
+            "timestamp": "2022-08-08T12:51:31.762000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AQ",
+            "text": "うんうん、それでじゅうぶんです。何か趣味ありますか？",
+            "timestamp": "2022-08-08T12:51:46.827000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BE",
+            "text": "読書ですかね",
+            "timestamp": "2022-08-08T12:52:00.779000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AQ",
+            "text": "知的だ！",
+            "timestamp": "2022-08-08T12:52:08.417000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BE",
+            "text": "漫画と同じような感じですよ！",
+            "timestamp": "2022-08-08T12:52:22.229000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AQ",
+            "text": "いえいえ！私なんてジッとしていられない性格なので。",
+            "timestamp": "2022-08-08T12:52:35.585000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BE",
+            "text": "ピアノはじっとしてないんですか？",
+            "timestamp": "2022-08-08T12:52:58.929000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AQ",
+            "text": "あ、ほんとだ！",
+            "timestamp": "2022-08-08T12:53:05.934000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BE",
+            "text": "動きながら弾いてるのかと笑",
+            "timestamp": "2022-08-08T12:53:18.012000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AQ",
+            "text": "するどい突っ込みでしたね！",
+            "timestamp": "2022-08-08T12:53:27.239000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BE",
+            "text": "一番じっとしてることだと思いました笑",
+            "timestamp": "2022-08-08T12:53:42.721000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AQ",
+            "text": "本当だー！<BE>さん頭いい！",
+            "timestamp": "2022-08-08T12:53:54.445000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BE",
+            "text": "そんなことないです、、！",
+            "timestamp": "2022-08-08T12:54:16.680000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AQ",
+            "text": "文化系ですか？",
+            "timestamp": "2022-08-08T12:54:23.160000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BE",
+            "text": "そうですね、そう自負してます",
+            "timestamp": "2022-08-08T12:54:38.168000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AQ",
+            "text": "そういう印象を受けました。",
+            "timestamp": "2022-08-08T12:54:50.221000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BE",
+            "text": "アクティブな方ではないかな",
+            "timestamp": "2022-08-08T12:55:06.376000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AQ",
+            "text": "インドア派ってことかな？",
+            "timestamp": "2022-08-08T12:55:14.936000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BE",
+            "text": "生粋のインドアです",
+            "timestamp": "2022-08-08T12:55:25.208000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AQ",
+            "text": "なるほど。またお話しましょう。",
+            "timestamp": "2022-08-08T12:55:32.318000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

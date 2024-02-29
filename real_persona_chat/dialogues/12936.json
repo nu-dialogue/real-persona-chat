@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12936,
+    "interlocutors": [
+        "IR",
+        "GC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "IR",
+            "text": "初めまして！よろしくお願いします！",
+            "timestamp": "2022-09-14T14:01:00.369000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GC",
+            "text": "初めまして！こちらこそよろしくお願いします！",
+            "timestamp": "2022-09-14T14:01:10.395000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "IR",
+            "text": "今日はかなり暑かったですね",
+            "timestamp": "2022-09-14T14:02:20.901000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GC",
+            "text": "暑いですよね！何処にお住まいですか？",
+            "timestamp": "2022-09-14T14:01:56.587000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "IR",
+            "text": "鹿児島に住んでます！そちらはどちらにお住まいですか？",
+            "timestamp": "2022-09-14T14:02:46.183000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GC",
+            "text": "鹿児島！うらやましいです！僕は滋賀県です！ご存知ですか？",
+            "timestamp": "2022-09-14T14:02:58.034000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "IR",
+            "text": "もちろんです！つい先月まで、京都に住んでたんですよ、お世話になっておりました！お水！",
+            "timestamp": "2022-09-14T14:03:42.100000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GC",
+            "text": "そうなんですね！よく滋賀って名前しか知らないと言われるので。。。鹿児島は凄く暑そうですね",
+            "timestamp": "2022-09-14T14:04:21.078000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "IR",
+            "text": "琵琶湖、と言ってもあまりピンとこないんでしょうかね？私も行ったことはありませんが…",
+            "timestamp": "2022-09-14T14:05:01.601000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GC",
+            "text": "恐らく琵琶湖しかイメージがないようですね皆さん。京都はどちらのほうでしたか？",
+            "timestamp": "2022-09-14T14:05:46.432000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "IR",
+            "text": "伏見稲荷のあたりに住んでました！鹿児島では、伏見稲荷もあまり認知されていないようです…",
+            "timestamp": "2022-09-14T14:06:17.702000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GC",
+            "text": "伏見稲荷！何度か行きました！あの鳥居怖いですよね！鹿児島は遠すぎるんで流石に認知度低そう。。。",
+            "timestamp": "2022-09-14T14:07:02.453000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "IR",
+            "text": "逆に、鹿児島の詳しい観光地も知らなかったりしますし、やはり遠いとそうなりますよね。",
+            "timestamp": "2022-09-14T14:07:52.033000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GC",
+            "text": "遠すぎると旅行行く位しか、調べませんもんね！この前沖縄には行きましたよ！",
+            "timestamp": "2022-09-14T14:08:25.800000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "IR",
+            "text": "沖縄！いいですね、行ってみたいです！どんなことをされましたか？",
+            "timestamp": "2022-09-14T14:08:49.264000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GC",
+            "text": "海行って、ご飯食べて、海行ってって感じです！",
+            "timestamp": "2022-09-14T14:09:10.527000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "IR",
+            "text": "最高ですね！海が近いと魚が美味しくて、毎日幸せです",
+            "timestamp": "2022-09-14T14:10:07.620000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GC",
+            "text": "凄く羨ましいです。海の近くに住むのは少し夢だったりもします。",
+            "timestamp": "2022-09-14T14:10:16.771000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "IR",
+            "text": "琵琶湖の魚を釣って食べたりはしないんですか？",
+            "timestamp": "2022-09-14T14:10:41.892000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GC",
+            "text": "琵琶湖はバスしか居ませんよ。。。",
+            "timestamp": "2022-09-14T14:10:55.301000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "IR",
+            "text": "YouTubeでバスも食べているのを見たので、一度食べてみたいなとは思っています",
+            "timestamp": "2022-09-14T14:11:29.843000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GC",
+            "text": "知り合いにバス釣りの人居るんですがめっちゃくちゃ臭いらしいです。",
+            "timestamp": "2022-09-14T14:11:54.412000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "IR",
+            "text": "処理をきちんとしないと難しそうですね…残念だ…",
+            "timestamp": "2022-09-14T14:12:26.330000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GC",
+            "text": "みたいですね...あゆ位しか美味しいの居ないと思いますよ。",
+            "timestamp": "2022-09-14T14:12:54.822000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "IR",
+            "text": "あゆ！いいじゃないですか！！でも、外来種に追いやられているイメージですね…",
+            "timestamp": "2022-09-14T14:13:28.865000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GC",
+            "text": "そうなんですよね、それこそ、バスやらブルーギルの餌食です。",
+            "timestamp": "2022-09-14T14:13:51.803000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "IR",
+            "text": "外来種ってどれもやけに凶暴で、その上美味しく食べられないの何故なんでしょうかね…",
+            "timestamp": "2022-09-14T14:14:21.455000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GC",
+            "text": "人の性格みたいですね、嫌な人って話してたりしててもとことん嫌ですし。",
+            "timestamp": "2022-09-14T14:14:54.576000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "IR",
+            "text": "一つ嫌いなところがあると、他のどの部分も悪く見えたりしますよね。",
+            "timestamp": "2022-09-14T14:15:28.650000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GC",
+            "text": "そうですよね...",
+            "timestamp": "2022-09-14T14:15:42.958000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "IR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9865,
+    "interlocutors": [
+        "BQ",
+        "AJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BQ",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-10T14:45:40.822000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AJ",
+            "text": "こんんちは。",
+            "timestamp": "2022-08-10T14:45:47.110000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BQ",
+            "text": "最近キャッシュレス決済が流行っていますが、何かされていますか？",
+            "timestamp": "2022-08-10T14:46:04.717000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AJ",
+            "text": "ペイペイ、auペイをよく使います。使ってますか？",
+            "timestamp": "2022-08-10T14:46:30.956000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BQ",
+            "text": "私は専らクレジットカードを使ってます。アプリを出すのがめんどくさくて。",
+            "timestamp": "2022-08-10T14:46:51.541000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AJ",
+            "text": "それはあります。クレジットカードも使いますね。知らぬうちに結構な金額言ってるときありますが。",
+            "timestamp": "2022-08-10T14:47:17.671000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BQ",
+            "text": "不正利用かと思ったら、全部自分なんですよね。びっくりします。",
+            "timestamp": "2022-08-10T14:47:35.611000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AJ",
+            "text": "相当使ってますね。なかなか管理するの難しいですよね？！",
+            "timestamp": "2022-08-10T14:48:07.923000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BQ",
+            "text": "その点デビットカードの方がいいのかなと思ったりするんですが、ポイントが渋いですよね。",
+            "timestamp": "2022-08-10T14:48:31.728000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AJ",
+            "text": "デビット使ったこと無いです。口座から引き落としになるのでしたっけ？",
+            "timestamp": "2022-08-10T14:48:55.128000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BQ",
+            "text": "そうです。即時引き落としになるので、管理がしやすいのがメリットですね。",
+            "timestamp": "2022-08-10T14:49:11.770000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AJ",
+            "text": "なるほど。チャージしたりする手間がない分楽ですね。口座に預金がないときは、どうなるのですか？",
+            "timestamp": "2022-08-10T14:49:35.688000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BQ",
+            "text": "カードが決済できなくなったと思います。",
+            "timestamp": "2022-08-10T14:49:57.102000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AJ",
+            "text": "なるほど。ポイント付帯が良ければ、デビットが便利かもですね。",
+            "timestamp": "2022-08-10T14:50:24.590000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BQ",
+            "text": "最近スマホ保険が付帯しているデビットカードがあるらしいですね。",
+            "timestamp": "2022-08-10T14:50:41.428000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AJ",
+            "text": "そんなのあるんですか？なんでもありですね。",
+            "timestamp": "2022-08-10T14:50:56.529000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BQ",
+            "text": "特典が充実しているみたいですね。かっこいいクレジットカードを持ってみたいです。",
+            "timestamp": "2022-08-10T14:51:33.461000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AJ",
+            "text": "なるほど。もう現金を持ち歩くのは、時代錯誤かもですね。",
+            "timestamp": "2022-08-10T14:52:09.277000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BQ",
+            "text": "一時期そう思っていましたが、災害大国の日本では現金はかかせないと思います。",
+            "timestamp": "2022-08-10T14:52:27.774000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AJ",
+            "text": "確かに、電子系が使えなければ、全てアウトですものね",
+            "timestamp": "2022-08-10T14:53:00.652000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BQ",
+            "text": "地震の時とかはまるでだめですからね。現金払いのみのお店も多いですし。",
+            "timestamp": "2022-08-10T14:53:35.220000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AJ",
+            "text": "そうなりますよね。やっぱり現金か。現金ほしいです！",
+            "timestamp": "2022-08-10T14:54:29.606000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BQ",
+            "text": "現金はいくらあっても困りませんもんね。",
+            "timestamp": "2022-08-10T14:54:41.568000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AJ",
+            "text": "まさに。でもなかなか手に入らないですよね。",
+            "timestamp": "2022-08-10T14:55:04.073000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BQ",
+            "text": "ですね。宝くじとか当てたいです。",
+            "timestamp": "2022-08-10T14:55:23.797000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AJ",
+            "text": "億、当ててみたいです。あたったらどうしますか？",
+            "timestamp": "2022-08-10T14:55:44.653000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BQ",
+            "text": "迷いますね。お風呂に札束とかやってみたいです。",
+            "timestamp": "2022-08-10T14:56:22.739000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AJ",
+            "text": "面白いですね。迷いますが、私はまず家買いますかね。",
+            "timestamp": "2022-08-10T14:56:44.118000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BQ",
+            "text": "家いいですね。一切妥協しない家ができそうです。",
+            "timestamp": "2022-08-10T14:56:58.005000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AJ",
+            "text": "こだわり尽くした家、かっこよいですね。",
+            "timestamp": "2022-08-10T14:57:15.371000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AJ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

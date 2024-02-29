@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1120,
+    "interlocutors": [
+        "CR",
+        "BV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-12T15:40:30.727000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BV",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T15:40:32.750000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CR",
+            "text": "コーヒーや紅茶はお好きですか？",
+            "timestamp": "2022-08-12T15:40:54.046000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BV",
+            "text": "紅茶が好きです。コーヒーはあまり。",
+            "timestamp": "2022-08-12T15:41:03.871000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CR",
+            "text": "ミルクかレモン付きですか",
+            "timestamp": "2022-08-12T15:41:23.238000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BV",
+            "text": "どれも好きですね。気分によって変えてます。",
+            "timestamp": "2022-08-12T15:41:36.147000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CR",
+            "text": "紅茶に合うのはクッキーのイメージがありますが？",
+            "timestamp": "2022-08-12T15:41:57.680000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BV",
+            "text": "たしかに。焼き菓子があいますよね！",
+            "timestamp": "2022-08-12T15:42:11.593000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CR",
+            "text": "英国風にクロワッサンとか？",
+            "timestamp": "2022-08-12T15:42:37.197000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BV",
+            "text": "あー食べたい。サクサクのやつ。",
+            "timestamp": "2022-08-12T15:42:49.943000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CR",
+            "text": "私もコーヒーが苦手で以前はミルクティー派でした",
+            "timestamp": "2022-08-12T15:43:13.969000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BV",
+            "text": "そうなんですか。ミルクティーもいいですね。ロイヤルが好きです。",
+            "timestamp": "2022-08-12T15:43:31.956000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CR",
+            "text": "カフェで飲むとティーバックの処理がややこしいやつですね",
+            "timestamp": "2022-08-12T15:43:57.788000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BV",
+            "text": "はは。でも濃くて美味しくないですか。",
+            "timestamp": "2022-08-12T15:44:14.491000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CR",
+            "text": "確かに私も好きです。ちょっと贅沢な感じも好き",
+            "timestamp": "2022-08-12T15:44:36.756000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BV",
+            "text": "たしかにちょっと贅沢ですね。今は何派ですか？",
+            "timestamp": "2022-08-12T15:44:55.018000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CR",
+            "text": "コーヒーをミルク砂糖入りで。",
+            "timestamp": "2022-08-12T15:45:29.796000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BV",
+            "text": "お、今はコーヒーなんですね！",
+            "timestamp": "2022-08-12T15:45:42.020000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CR",
+            "text": "でもブラック飲める大人にはなれてないです",
+            "timestamp": "2022-08-12T15:46:09.884000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BV",
+            "text": "私もブラック飲めない大人です。",
+            "timestamp": "2022-08-12T15:46:21.046000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CR",
+            "text": "あれ、どこが美味しいのでしょう？",
+            "timestamp": "2022-08-12T15:46:41.508000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BV",
+            "text": "苦いですよね。",
+            "timestamp": "2022-08-12T15:46:48.504000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CR",
+            "text": "そうそう。ビールもそう言われてますが。",
+            "timestamp": "2022-08-12T15:47:11.265000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BV",
+            "text": "でもビールはお好きで？",
+            "timestamp": "2022-08-12T15:47:19.851000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CR",
+            "text": "そうなんですよね。",
+            "timestamp": "2022-08-12T15:47:36.208000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BV",
+            "text": "ビールは飲める大人なんですね。",
+            "timestamp": "2022-08-12T15:47:47.033000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CR",
+            "text": "ブラックが飲める大人に憧れます",
+            "timestamp": "2022-08-12T15:48:14.314000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BV",
+            "text": "なんかカッコよさありますよね。",
+            "timestamp": "2022-08-12T15:48:26.430000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CR",
+            "text": "カッコつけてるだけかも。",
+            "timestamp": "2022-08-12T15:48:44.367000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BV",
+            "text": "でもカッコつけたいじゃないですか！私もチャレンジしよっと。",
+            "timestamp": "2022-08-12T15:49:12.626000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BV",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

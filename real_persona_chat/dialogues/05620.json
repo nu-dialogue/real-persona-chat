@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5620,
+    "interlocutors": [
+        "GI",
+        "DT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GI",
+            "text": "こんばんはー。",
+            "timestamp": "2022-09-26T22:27:24.855000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DT",
+            "text": "こんばんは。",
+            "timestamp": "2022-09-26T22:27:39.325000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GI",
+            "text": "趣味はありますか？",
+            "timestamp": "2022-09-26T22:27:46.058000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DT",
+            "text": "趣味というほどではないですが、ネットで子供服探しが好きです。",
+            "timestamp": "2022-09-26T22:28:15.324000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GI",
+            "text": "ほう。アマゾンとかですか？",
+            "timestamp": "2022-09-26T22:28:30.146000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DT",
+            "text": "いえゾゾタウンをよく見ます。",
+            "timestamp": "2022-09-26T22:28:48.043000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GI",
+            "text": "へぇー。今流行りのですね。",
+            "timestamp": "2022-09-26T22:28:59.115000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DT",
+            "text": "送料が２５０円なのでまだいいかなーと思って。",
+            "timestamp": "2022-09-26T22:29:19.792000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GI",
+            "text": "そうなんですね。合わなかったら送り返したりできますよね。",
+            "timestamp": "2022-09-26T22:29:36.749000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DT",
+            "text": "そうですね。一度糸がほつれてるのがあって交換してもらいました。",
+            "timestamp": "2022-09-26T22:30:08.107000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GI",
+            "text": "いいですね！そういうサービス！",
+            "timestamp": "2022-09-26T22:30:20.091000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DT",
+            "text": "返信のメールが早くて感動しました。",
+            "timestamp": "2022-09-26T22:30:49.147000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GI",
+            "text": "そんなことされたら、ついつい買っちゃいそうです。",
+            "timestamp": "2022-09-26T22:31:01.902000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DT",
+            "text": "そうですね。対応がいいと買いたくなりますね。ネットで買い物よくしますか？",
+            "timestamp": "2022-09-26T22:31:34.705000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GI",
+            "text": "アマゾンとか、メルカリとかよく使います。",
+            "timestamp": "2022-09-26T22:31:50.920000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DT",
+            "text": "メルカリどうですか？",
+            "timestamp": "2022-09-26T22:32:02.257000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GI",
+            "text": "いいですよ！服とかは買わないですが。",
+            "timestamp": "2022-09-26T22:32:13.455000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DT",
+            "text": "服は抵抗ありますよね。",
+            "timestamp": "2022-09-26T22:32:31.504000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GI",
+            "text": "そうですね。ゲームとか漫画とかは買ったりするかな。",
+            "timestamp": "2022-09-26T22:32:44.063000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DT",
+            "text": "ああ、そこでゲームを買う手もありましたね。",
+            "timestamp": "2022-09-26T22:33:18.951000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GI",
+            "text": "きれいですし、安いです。",
+            "timestamp": "2022-09-26T22:33:35.150000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DT",
+            "text": "きれいなのはいいですね。当たり外れあるのかな。",
+            "timestamp": "2022-09-26T22:34:05.694000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GI",
+            "text": "んーだいだいきれいですけど、評価が高い人のほうがいいかな。",
+            "timestamp": "2022-09-26T22:34:29.142000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DT",
+            "text": "そうですよね。スプラ探してみようかな。",
+            "timestamp": "2022-09-26T22:34:52.092000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GI",
+            "text": "いいですね！でも人気なのはあまり新品と変わらないかもしれません。",
+            "timestamp": "2022-09-26T22:35:07.861000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DT",
+            "text": "値段が高めだということですか？",
+            "timestamp": "2022-09-26T22:35:29.010000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GI",
+            "text": "そうですね。高めでも売れるので。",
+            "timestamp": "2022-09-26T22:35:43.241000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DT",
+            "text": "それなら新品買ったほういいですね。売ったりもしてますか？",
+            "timestamp": "2022-09-26T22:36:23.886000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GI",
+            "text": "たまにしますよ。普通に店に持っていくより高く売れるので。",
+            "timestamp": "2022-09-26T22:36:47.690000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DT",
+            "text": "そうですよね。お店はいくらにもならないですよね。",
+            "timestamp": "2022-09-26T22:37:17.959000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

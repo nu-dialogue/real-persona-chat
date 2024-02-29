@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4041,
+    "interlocutors": [
+        "DT",
+        "CX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DT",
+            "text": "こんにちは。よろしくお願いします！",
+            "timestamp": "2022-09-06T11:30:37.406000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CX",
+            "text": "こんにちは。よろしくお願いします！",
+            "timestamp": "2022-09-06T11:30:47.824000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DT",
+            "text": "今日も暑いですねー。",
+            "timestamp": "2022-09-06T11:30:55.932000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CX",
+            "text": "そうなんですね、自分が住んでるところはだいぶ涼しくなりましたが。",
+            "timestamp": "2022-09-06T11:31:12.937000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DT",
+            "text": "それはよかったです。この夏はどこか旅行など行きましたか？",
+            "timestamp": "2022-09-06T11:31:36.467000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CX",
+            "text": "東京に旅行へ行きました。",
+            "timestamp": "2022-09-06T11:31:53.759000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DT",
+            "text": "おおー！東京のどちらへ？",
+            "timestamp": "2022-09-06T11:32:22.992000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CX",
+            "text": "浅草とかスカイツリーのあたりを観光に。",
+            "timestamp": "2022-09-06T11:32:42.548000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DT",
+            "text": "いいですね。スカイツリー展望台は行きましたか？",
+            "timestamp": "2022-09-06T11:33:13.404000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CX",
+            "text": "以前登ったことがあったので、今回は行きませんでした。",
+            "timestamp": "2022-09-06T11:33:27.877000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DT",
+            "text": "そうなんですね、確かに一度登れば充分ですよね。",
+            "timestamp": "2022-09-06T11:33:48.369000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CX",
+            "text": "そんなに景色も綺麗ではないですし。",
+            "timestamp": "2022-09-06T11:34:06.344000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DT",
+            "text": "何かお土産とか買いましたか？",
+            "timestamp": "2022-09-06T11:35:07.161000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CX",
+            "text": "友人がポケモン好きで、ポケモンショップでお土産買いました。",
+            "timestamp": "2022-09-06T11:35:32.603000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DT",
+            "text": "ポケモンショップあるんですね。私も行ってみたい！",
+            "timestamp": "2022-09-06T11:36:01.735000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CX",
+            "text": "私はあまり存じ上げないのですが、ファンからしたら面白いところみたいですね。",
+            "timestamp": "2022-09-06T11:36:19.544000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DT",
+            "text": "私は子供がいるのでちょっと気になります。浅草など観光客はいっぱいでしたか？",
+            "timestamp": "2022-09-06T11:37:21.796000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CX",
+            "text": "お子様はとても楽しめると思います。まぁまぁいましたね、人が。",
+            "timestamp": "2022-09-06T11:37:53.207000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DT",
+            "text": "混んでる時じゃなくてよかったですね。",
+            "timestamp": "2022-09-06T11:38:26.939000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CX",
+            "text": "でも新宿駅とかはすごい人でした。",
+            "timestamp": "2022-09-06T11:38:37.417000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DT",
+            "text": "あー、まあ働いてる人も多いですしね。",
+            "timestamp": "2022-09-06T11:39:27.404000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CX",
+            "text": "交通の便も多いところですし。",
+            "timestamp": "2022-09-06T11:39:52.151000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DT",
+            "text": "ですね。人混みは大丈夫なほうですか？",
+            "timestamp": "2022-09-06T11:40:22.807000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CX",
+            "text": "普段はそんなに気になりませんが、コロナの状況がひどいと気になります。",
+            "timestamp": "2022-09-06T11:40:46.319000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DT",
+            "text": "確かにそうですね。私はコロナ以前から人混みは疲れます。",
+            "timestamp": "2022-09-06T11:41:22.420000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CX",
+            "text": "私も元々得意ではないですが、さらに辛くなりました。",
+            "timestamp": "2022-09-06T11:41:38.789000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DT",
+            "text": "気になっちゃいますよね。マスク中途半端につけてる人とか見ると。",
+            "timestamp": "2022-09-06T11:42:05.901000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CX",
+            "text": "そうですね、でも日本はやっぱり外国に比べてよくやってると思いますよ。",
+            "timestamp": "2022-09-06T11:42:33.482000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DT",
+            "text": "ほんとそうですね。でも感染者多いっていう。意味わかんないですね。",
+            "timestamp": "2022-09-06T11:43:16.611000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CX",
+            "text": "ちゃんと対策してても感染してしまうのが今のコロナですからね。",
+            "timestamp": "2022-09-06T11:43:37.759000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DT",
+            "informativeness": 3,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "CX",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

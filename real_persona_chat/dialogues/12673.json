@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12673,
+    "interlocutors": [
+        "FU",
+        "FT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FU",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-21T10:29:40.144000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FT",
+            "text": "よろしくお願いします",
+            "timestamp": "2022-09-21T10:29:45.561000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FU",
+            "text": "マイナンバーカードって作りました？",
+            "timestamp": "2022-09-21T10:30:02.192000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FT",
+            "text": "作りましたよ。マイナポイントも貰いました。",
+            "timestamp": "2022-09-21T10:30:16.819000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FU",
+            "text": "なんか健康保険証と連携させるのもありますよね",
+            "timestamp": "2022-09-21T10:30:35.558000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FT",
+            "text": "ありますね。それはまだ連携してないです。",
+            "timestamp": "2022-09-21T10:30:53.352000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FU",
+            "text": "手数料かかるとかって騒がれてた印象ありますね",
+            "timestamp": "2022-09-21T10:31:11.659000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FT",
+            "text": "自分もそれが気になってて、デメリット調べてから連携させようかなと思ってます",
+            "timestamp": "2022-09-21T10:31:44.427000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FU",
+            "text": "マイナポイントは何に使うんですか？",
+            "timestamp": "2022-09-21T10:32:12.489000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FT",
+            "text": "ほしいスニーカーがあるのでそれに使う予定です",
+            "timestamp": "2022-09-21T10:32:31.271000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FU",
+            "text": "なんのスニーカーですか？",
+            "timestamp": "2022-09-21T10:32:48.333000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FT",
+            "text": "アディダスです。マイナポイントで賄えるので実質タダですね",
+            "timestamp": "2022-09-21T10:33:07.082000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FU",
+            "text": "買い物上手ですね！",
+            "timestamp": "2022-09-21T10:33:21.578000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FT",
+            "text": "金欠だったのでちょうどよかったです。",
+            "timestamp": "2022-09-21T10:34:01.605000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FU",
+            "text": "僕はカードだけ発行してそれきりです。",
+            "timestamp": "2022-09-21T10:34:38.978000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FT",
+            "text": "使ったりもしてないんですか？",
+            "timestamp": "2022-09-21T10:34:50.724000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FU",
+            "text": "店でマイナンバーカードは身分証として使えないって言われたことがあって",
+            "timestamp": "2022-09-21T10:35:35.783000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FT",
+            "text": "え、そうなんですか",
+            "timestamp": "2022-09-21T10:35:47.013000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FU",
+            "text": "身分証として使えると思ってたんですけど違うみたいです",
+            "timestamp": "2022-09-21T10:36:06.546000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FT",
+            "text": "個人番号が書いてあるからですかね？",
+            "timestamp": "2022-09-21T10:36:39.433000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FU",
+            "text": "見せちゃいけないらしいですよね",
+            "timestamp": "2022-09-21T10:36:50.578000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FT",
+            "text": "でも結局職場なり手続きする人には見せてるし、微妙ですよね",
+            "timestamp": "2022-09-21T10:37:22.896000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FU",
+            "text": "窓口の人は悪用しようと思えばできますね",
+            "timestamp": "2022-09-21T10:37:39.035000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FT",
+            "text": "ですよね。マイナンバーカードは住民票の発行が楽になるので、自分はそれで使ってますね",
+            "timestamp": "2022-09-21T10:38:26.295000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FU",
+            "text": "住民票の発行か、あんまり機会がないですね",
+            "timestamp": "2022-09-21T10:38:46.440000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FT",
+            "text": "たしかに頻度は低いですね",
+            "timestamp": "2022-09-21T10:38:55.615000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FU",
+            "text": "マイナポイントはもらいたいので、手続きしてみようと思います",
+            "timestamp": "2022-09-21T10:39:24.267000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FT",
+            "text": "はい、ぜひ。連携するサイトもいろいろあるので調べてみてください。",
+            "timestamp": "2022-09-21T10:39:45.159000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FU",
+            "text": "わかりました。ありがとうございます。",
+            "timestamp": "2022-09-21T10:39:54.879000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FT",
+            "text": "いえいえー",
+            "timestamp": "2022-09-21T10:40:00.879000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FU",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

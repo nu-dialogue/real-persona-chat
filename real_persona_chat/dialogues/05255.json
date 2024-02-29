@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5255,
+    "interlocutors": [
+        "FZ",
+        "BE"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FZ",
+            "text": "こんにちは",
+            "timestamp": "2022-09-21T16:26:25.826000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BE",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-21T16:26:30.363000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FZ",
+            "text": "お昼は何食べましたか？",
+            "timestamp": "2022-09-21T16:26:40.167000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BE",
+            "text": "蕎麦を食べました！",
+            "timestamp": "2022-09-21T16:26:49.413000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FZ",
+            "text": "お蕎麦いいですね、夜ご飯はもう決めてますか？",
+            "timestamp": "2022-09-21T16:27:03.072000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BE",
+            "text": "今日はほっけを焼く予定です。",
+            "timestamp": "2022-09-21T16:27:19.693000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、毎日料理はしますか？",
+            "timestamp": "2022-09-21T16:27:35.578000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BE",
+            "text": "週末は外食になりがちです。",
+            "timestamp": "2022-09-21T16:27:51.279000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FZ",
+            "text": "そうですよね、私も料理は時間がある時しかしないです",
+            "timestamp": "2022-09-21T16:28:10.722000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BE",
+            "text": "献立はどうやって決めてますか？",
+            "timestamp": "2022-09-21T16:28:26.739000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FZ",
+            "text": "冷蔵庫にあるものをネットで検索してレシピ探すって感じです",
+            "timestamp": "2022-09-21T16:29:00.263000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BE",
+            "text": "私も冷蔵庫にあるもの基準で作ります！",
+            "timestamp": "2022-09-21T16:29:21.419000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FZ",
+            "text": "でもレパートリーは少なくて、手抜きばかりです",
+            "timestamp": "2022-09-21T16:29:40.357000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BE",
+            "text": "毎回違うものなんて作れないですよね",
+            "timestamp": "2022-09-21T16:29:58.816000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、品数も少なくて全然だめですー",
+            "timestamp": "2022-09-21T16:30:22.958000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BE",
+            "text": "私は困ったらすべて丼にして解決しちゃいます。",
+            "timestamp": "2022-09-21T16:30:58.633000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FZ",
+            "text": "丼だと楽ですよね、お腹いっぱいになりますし",
+            "timestamp": "2022-09-21T16:31:20.846000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BE",
+            "text": "そうですよね！食べやすいですし。",
+            "timestamp": "2022-09-21T16:31:32.291000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FZ",
+            "text": "洗い物も少なくて済みますしね！",
+            "timestamp": "2022-09-21T16:31:44.995000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BE",
+            "text": "それが大事です！",
+            "timestamp": "2022-09-21T16:31:54.890000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FZ",
+            "text": "そうですよね、あっという間に夜がきていつも夜ごはんどうしようって感じです",
+            "timestamp": "2022-09-21T16:32:27.515000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BE",
+            "text": "とりあえずごはんさえ炊いておけばどうにでもなりますよね",
+            "timestamp": "2022-09-21T16:32:58.572000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FZ",
+            "text": "そうですねー、そのごはんを炊くのですら面倒な時がありますー",
+            "timestamp": "2022-09-21T16:33:27.786000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BE",
+            "text": "そんなときの為にうちは冷凍ご飯を常備してます！",
+            "timestamp": "2022-09-21T16:33:55.361000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FZ",
+            "text": "ちゃんと常備してるんですね、うちは気づくと無くなってて。常備しないとですね",
+            "timestamp": "2022-09-21T16:35:04.375000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BE",
+            "text": "うちは二人しかいないので、割と余るんです。",
+            "timestamp": "2022-09-21T16:35:41.586000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、うちも二人なんですが小腹が空くと冷凍ご飯食べたりしちゃってます",
+            "timestamp": "2022-09-21T16:36:32.536000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BE",
+            "text": "それだとストックをたくさん持たないとですね！",
+            "timestamp": "2022-09-21T16:37:03.008000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、あと冷凍の焼きおにぎりとか丁度よくてストックしてます",
+            "timestamp": "2022-09-21T16:37:35.011000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BE",
+            "text": "それは便利そう！",
+            "timestamp": "2022-09-21T16:37:48.378000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BE",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

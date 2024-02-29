@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9266,
+    "interlocutors": [
+        "CO",
+        "BJ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-07T20:00:09.214000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BJ",
+            "text": "こんばんは、はじめましてー！",
+            "timestamp": "2022-08-07T23:01:35.165000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "ご飯食べましたか？",
+            "timestamp": "2022-08-07T20:00:57.568000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BJ",
+            "text": "まだ食べてないです。夏バテで食欲が全然なくて。食べました？",
+            "timestamp": "2022-08-07T23:01:43.649000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "はい、今食べました。酢豚です",
+            "timestamp": "2022-08-07T20:01:57.174000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BJ",
+            "text": "えー！酢豚大好きです。作ったんですか？",
+            "timestamp": "2022-08-07T20:02:28.531000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "いえ、今日は買ってきました。",
+            "timestamp": "2022-08-07T20:02:45.675000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BJ",
+            "text": "最高ですね。普段は料理はされるんですか？",
+            "timestamp": "2022-08-07T20:03:11.444000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "はい、時々作ります",
+            "timestamp": "2022-08-07T20:03:24.356000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BJ",
+            "text": "すごいですね。得意料理は？",
+            "timestamp": "2022-08-07T20:03:55.852000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "カレーと唐揚げですね。",
+            "timestamp": "2022-08-07T20:04:14.602000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BJ",
+            "text": "めっちゃ男飯って感じでいいですね",
+            "timestamp": "2022-08-07T20:04:49.781000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "そうですか、作りますか？",
+            "timestamp": "2022-08-07T20:05:07.343000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BJ",
+            "text": "結構作りますね。節約のために",
+            "timestamp": "2022-08-07T20:05:35.525000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "得意料理は何ですか？",
+            "timestamp": "2022-08-07T20:05:54.254000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BJ",
+            "text": "カルボナーラですかね",
+            "timestamp": "2022-08-07T20:06:12.125000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "パスタですかいいですね。",
+            "timestamp": "2022-08-07T20:06:27.274000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BJ",
+            "text": "逆に、嫌いな食べ物ってあります？",
+            "timestamp": "2022-08-07T20:06:49.044000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "あんこ、豆類ですね",
+            "timestamp": "2022-08-07T20:07:00.135000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BJ",
+            "text": "あんこ苦手な方多いですよね",
+            "timestamp": "2022-08-07T20:07:33.743000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "そうですか。甘いの好きだけど、あんこはだめなんです。",
+            "timestamp": "2022-08-07T20:07:56.740000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BJ",
+            "text": "僕はエビが苦手です。",
+            "timestamp": "2022-08-07T20:08:38.859000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "アレルギーですか？",
+            "timestamp": "2022-08-07T20:08:53.294000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BJ",
+            "text": "全然アレルギーではないんですけど、見た目が虫っぽくて。",
+            "timestamp": "2022-08-07T20:09:18.956000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "虫！なるほど。蟹は？",
+            "timestamp": "2022-08-07T20:09:28.891000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BJ",
+            "text": "蟹は足だけなら。。。全体が見えなければ",
+            "timestamp": "2022-08-07T20:09:54.578000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "へえ。どちらもおいしいですよ。でも苦手なら仕方ないですね",
+            "timestamp": "2022-08-07T20:10:23.531000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BJ",
+            "text": "味は好きなんですよ！ただ一度虫に見えてしまうともう戻れなかったです",
+            "timestamp": "2022-08-07T20:10:44.343000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "食べれたころがあったんですね。面白いもんですね",
+            "timestamp": "2022-08-07T20:11:15.403000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BJ",
+            "text": "いつか食べれるようになりたいと思ってます",
+            "timestamp": "2022-08-07T20:11:40.158000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BJ",
+            "informativeness": 2,
+            "comprehension": 4,
+            "familiarity": 2,
+            "interest": 2,
+            "proactiveness": 4,
+            "satisfaction": 2
+        }
+    ]
+}

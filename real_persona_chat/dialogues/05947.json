@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5947,
+    "interlocutors": [
+        "GD",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GD",
+            "text": "こんにちは。宜しくおねがいします。",
+            "timestamp": "2022-10-01T14:13:38.583000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-10-01T14:13:43.111000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GD",
+            "text": "お昼は食べました？",
+            "timestamp": "2022-10-01T14:14:00.134000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "はい、食べました",
+            "timestamp": "2022-10-01T14:14:05.860000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GD",
+            "text": "手作りですか？",
+            "timestamp": "2022-10-01T14:14:17.145000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "いいえ、親戚が遊びに来たので作ってもらいました",
+            "timestamp": "2022-10-01T14:14:30.715000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GD",
+            "text": "そうなんですか。うちは親戚で集まるのは法事くらいなんですが、仲がいいんですか？",
+            "timestamp": "2022-10-01T14:15:32.591000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "家が近いので、たまに来ます",
+            "timestamp": "2022-10-01T14:15:48.929000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GD",
+            "text": "何を作ってもらったんですか？",
+            "timestamp": "2022-10-01T14:16:20.926000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "親子丼ですね",
+            "timestamp": "2022-10-01T14:16:27.337000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GD",
+            "text": "おいしそうですね！私は最近消化に良いものを食べてたんですが今日解禁になったのでラーメンを作りました。",
+            "timestamp": "2022-10-01T14:17:11.631000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "あら、体調が悪かったのですか？",
+            "timestamp": "2022-10-01T14:17:19.040000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GD",
+            "text": "健康診断に引っかかって大腸検査をしたんです。ポリープを取ったのでうどんとか雑炊を食べてました。",
+            "timestamp": "2022-10-01T14:17:54.758000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "なるほど、それは大変でしたね",
+            "timestamp": "2022-10-01T14:17:59.900000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GD",
+            "text": "消化の良いものってすぐお腹すくんですね。",
+            "timestamp": "2022-10-01T14:18:19.034000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "まあすぐ消化されてしまいますからね",
+            "timestamp": "2022-10-01T14:18:29.877000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GD",
+            "text": "検査のために一度腸を空っぽにしたので、しばらくは何となく元気が出ませんでした。食べるって大事ですね。",
+            "timestamp": "2022-10-01T14:18:59.168000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "点滴だと凄く痩せてしまって元気が出ないと聞きますね",
+            "timestamp": "2022-10-01T14:19:17.291000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GD",
+            "text": "最低限の栄養なんでしょうね。",
+            "timestamp": "2022-10-01T14:20:02.774000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "経験がないのでわかりませんが、確かに生きた感じがしませんね",
+            "timestamp": "2022-10-01T14:20:38.642000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GD",
+            "text": "不思議とお腹は空かないらしいですね。",
+            "timestamp": "2022-10-01T14:21:00.305000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "満腹感は無いにせよ、栄養だけは貰っていることになりますからね",
+            "timestamp": "2022-10-01T14:21:32.614000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GD",
+            "text": "やはりご飯はちゃんと食べたいですね。コーヒーを控えていたので飲みたくて仕方なかったです。",
+            "timestamp": "2022-10-01T14:22:45.056000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "結構飲まれるタイプですか？",
+            "timestamp": "2022-10-01T14:23:05.945000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GD",
+            "text": "朝一杯くらいなんですが、禁止と言われると気になってしまって。",
+            "timestamp": "2022-10-01T14:23:25.657000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "カフェインは依存性ありそうですからね",
+            "timestamp": "2022-10-01T14:23:41.153000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GD",
+            "text": "飲まないといまいち目が覚めない感じです。断ってみてわかることもありますね。",
+            "timestamp": "2022-10-01T14:24:40.360000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "なるほど、僕はカフェインがあまり効かないタイプなのでわざわざ飲まないです。",
+            "timestamp": "2022-10-01T14:25:09.080000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GD",
+            "text": "そうなんですか。私は飲み過ぎると頭痛になったり夜眠れなくなったりします。",
+            "timestamp": "2022-10-01T14:25:45.170000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "体質でしょうかね",
+            "timestamp": "2022-10-01T14:25:51.785000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

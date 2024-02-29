@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 20,
+    "interlocutors": [
+        "AC",
+        "AA"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-06T17:33:58.680000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AA",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-06T17:34:00.953000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "あ、もうそんな時間？",
+            "timestamp": "2022-08-06T17:34:11.945000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AA",
+            "text": "かなって思いました",
+            "timestamp": "2022-08-06T17:34:19.101000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "たしかに、最近、日が短くなりましたしね。",
+            "timestamp": "2022-08-06T17:34:31.722000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AA",
+            "text": "ですよねえ。いつも思うんですけど、どのタイミングであいさつを切り替えればいいんでしょう",
+            "timestamp": "2022-08-06T17:34:53.038000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "夕方のチャイムが鳴ったらですかね？",
+            "timestamp": "2022-08-06T17:35:05.451000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AA",
+            "text": "なるほど。となると5時？",
+            "timestamp": "2022-08-06T17:35:16.260000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "ですね。チャイム、なります？",
+            "timestamp": "2022-08-06T17:35:24.270000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AA",
+            "text": "私のところ鳴らないんですよ",
+            "timestamp": "2022-08-06T17:35:43.041000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "あら、そうなんですねー。畑とかがあるから鳴るんですかね？",
+            "timestamp": "2022-08-06T17:35:58.350000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AA",
+            "text": "なるほど！でも私の友達の住んでる場所はなるんですよね、なんなんでしょう？",
+            "timestamp": "2022-08-06T17:36:34.976000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "なんなんでしょう？子どもの頃はあれを聞いて、焦って帰宅した気がします。",
+            "timestamp": "2022-08-06T17:36:58.438000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AA",
+            "text": "門限があったんですね",
+            "timestamp": "2022-08-06T17:37:10.085000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "そうですね。外で遊んでると時間、わからないですから。",
+            "timestamp": "2022-08-06T17:37:30.750000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AA",
+            "text": "たしかに。あの時はどうやって時間を見てたんでしょう。懐かしいなあ",
+            "timestamp": "2022-08-06T17:37:51.256000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "今思い出したんですけど、子供のとき、時計がないときは知らない大人に聞いたりしてました。",
+            "timestamp": "2022-08-06T17:38:12.643000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AA",
+            "text": "あー、ありましたね。そしたら不通に教えてくれてました。今じゃできないですね",
+            "timestamp": "2022-08-06T17:38:34.150000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "ですねー！不審者とかにも、今じゃ、かなりピリピリしてますよね！",
+            "timestamp": "2022-08-06T17:38:53.933000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AA",
+            "text": "してますね。純粋見なんてことなく見てるだけでも、不審者扱いされるのかと思うと怖いです",
+            "timestamp": "2022-08-06T17:39:19.747000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "分かります。子どものことジロジロ見ないように気をつけてます。",
+            "timestamp": "2022-08-06T17:39:35.562000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AA",
+            "text": "ですね。なんだかそういう意味だと、不便になりましたね",
+            "timestamp": "2022-08-06T17:39:53.467000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "ですねー。昔は、知らないおじさんに怒られたーとか普通にあった！",
+            "timestamp": "2022-08-06T17:40:06.983000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AA",
+            "text": "あったあった！普通にしゃべったりしてました",
+            "timestamp": "2022-08-06T17:40:21.153000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "してました！懐かしいー。",
+            "timestamp": "2022-08-06T17:40:43.104000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AA",
+            "text": "便利な世の中になりましたけど同じくらい不自由ですねえ",
+            "timestamp": "2022-08-06T17:41:03.123000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "ですねー。知らないオバサンが飴とかミカンをくれた時代が懐かしいです。",
+            "timestamp": "2022-08-06T17:41:25.408000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AA",
+            "text": "ありましたね！変な意味なく、おうちに遊びに行ったりしてました",
+            "timestamp": "2022-08-06T17:41:40.568000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "ありましたね。昭和だー、完全に昭和だー！",
+            "timestamp": "2022-08-06T17:41:56.887000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AA",
+            "text": "懐かしい戻りたい！",
+            "timestamp": "2022-08-06T17:42:01.949000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "AC",
+            "text": "ですね！では！",
+            "timestamp": "2022-08-06T17:42:08.645000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10127,
+    "interlocutors": [
+        "CI",
+        "EB"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CI",
+            "text": "こんにちは！よろしくお願いします。",
+            "timestamp": "2022-08-11T13:10:59.375000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EB",
+            "text": "こちらこそよろしくですー！",
+            "timestamp": "2022-08-11T13:11:10.449000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CI",
+            "text": "「譱」の漢字、初めて見ました！思わずググりました！",
+            "timestamp": "2022-08-11T13:11:44.483000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EB",
+            "text": "あはは、わかりにくくてすみません、仕事柄言葉をつかうのでいい漢字だなと思いました",
+            "timestamp": "2022-08-11T13:12:25.817000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CI",
+            "text": "難読漢字を扱うお仕事なんですか？",
+            "timestamp": "2022-08-11T13:12:42.031000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EB",
+            "text": "難読ってわけでもないですが、通訳をしているんです、それでいろいろな漢字を見る機会があって",
+            "timestamp": "2022-08-11T13:13:11.498000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CI",
+            "text": "通訳されてるんですね！譱、て良い意味がいっぱい出てきて素敵な漢字だと思いました。",
+            "timestamp": "2022-08-11T13:13:49.156000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EB",
+            "text": "日本でこの文字を使ってるお店が一件だけあるんですよ！",
+            "timestamp": "2022-08-11T13:14:18.255000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CI",
+            "text": "何のお店ですか？気になります！",
+            "timestamp": "2022-08-11T13:14:32.477000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EB",
+            "text": "北海道の札幌に譱ラーメンってのがあるんですよ！笑",
+            "timestamp": "2022-08-11T13:14:51.252000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CI",
+            "text": "あ！言われてみれば、ラーメンっぽい気がしてきました！",
+            "timestamp": "2022-08-11T13:15:14.007000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EB",
+            "text": "あはは、１０月に北海道車の旅を計画してるので行ってみるつもりです",
+            "timestamp": "2022-08-11T13:15:37.441000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CI",
+            "text": "それは気になりますね。美味しいラーメン屋さんだといいですね。",
+            "timestamp": "2022-08-11T13:15:57.324000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EB",
+            "text": "ですねー！北海道だからみそ系かな",
+            "timestamp": "2022-08-11T13:16:21.871000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CI",
+            "text": "今スーパーでも北海道のラーメン売ってますけど、お店の方が美味しいですよね。",
+            "timestamp": "2022-08-11T13:16:40.932000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EB",
+            "text": "ラーメンはねぇやっぱお店が一番だと思う！",
+            "timestamp": "2022-08-11T13:17:05.124000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CI",
+            "text": "ラーメン屋さんはよく行かれますか？",
+            "timestamp": "2022-08-11T13:17:13.022000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EB",
+            "text": "最近は暑くて行ってないですけど、冬とかは結構家族で気に入ったとこに行ってますよー",
+            "timestamp": "2022-08-11T13:17:48.929000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CI",
+            "text": "ラーメンて家族でもだいたい満場一致になるメニューで助かりますよね。",
+            "timestamp": "2022-08-11T13:18:11.782000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EB",
+            "text": "うちは全員醤油とんこつがすきなので、ほぼ同じですね笑",
+            "timestamp": "2022-08-11T13:18:37.652000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CI",
+            "text": "好きな味も一緒なんてすごいですね！",
+            "timestamp": "2022-08-11T13:18:49.696000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EB",
+            "text": "家で作ってみたいけど、これは設備的に厳しかったです",
+            "timestamp": "2022-08-11T13:19:13.786000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CI",
+            "text": "おおきい鍋でスープ煮込むのが大変そうなイメージです。",
+            "timestamp": "2022-08-11T13:20:03.529000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EB",
+            "text": "そうなんですよね、今のコンロだとすぐセンサーが働いて止められそう笑あ、でも餃子は皮から作ります！",
+            "timestamp": "2022-08-11T13:20:37.174000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CI",
+            "text": "ええ！皮からですか！手作りの皮だと美味しいですか？",
+            "timestamp": "2022-08-11T13:21:10.349000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EB",
+            "text": "もうぜんぜんおいしいですよ、うちの家族は外で餃子食べなくなりましたね！",
+            "timestamp": "2022-08-11T13:21:41.033000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CI",
+            "text": "餃子、って美味しく作れるようになると買わなくなる、て話よく聞きます。それ私に売って欲しいです！",
+            "timestamp": "2022-08-11T13:22:14.556000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EB",
+            "text": "あはは、結構量を作るので、友達とかにあげると喜んでました",
+            "timestamp": "2022-08-11T13:22:44.998000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CI",
+            "text": "私も餃子作りにハマったお家から冷凍までした状態でお裾分けもらいます。助かりますよー",
+            "timestamp": "2022-08-11T13:23:13.005000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EB",
+            "text": "そうですそうです！まさにその状態！よかったらチャレンジしてみてください！お話ありがとうございました",
+            "timestamp": "2022-08-11T13:23:53.782000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "EB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

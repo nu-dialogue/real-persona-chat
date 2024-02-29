@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5432,
+    "interlocutors": [
+        "DA",
+        "AR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DA",
+            "text": "こんばんはー",
+            "timestamp": "2022-09-23T21:54:38.088000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AR",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-23T21:54:41.910000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DA",
+            "text": "季節はいつが一番好きですか？",
+            "timestamp": "2022-09-23T21:54:55.654000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AR",
+            "text": "夏！",
+            "timestamp": "2022-09-23T21:55:05.810000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DA",
+            "text": "終わっちゃいましたね、、",
+            "timestamp": "2022-09-23T21:55:14.639000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AR",
+            "text": "でも最近の夏は暑すぎなんですよねー",
+            "timestamp": "2022-09-23T21:55:30.210000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DA",
+            "text": "危険な暑さですよね、何かしましたか？",
+            "timestamp": "2022-09-23T21:55:45.935000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AR",
+            "text": "海とキャンプと祭りと、あとダンス！１１年ダンスしてるんです",
+            "timestamp": "2022-09-23T21:56:05.097000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DA",
+            "text": "活動的ですね！ダンス暦ながい！",
+            "timestamp": "2022-09-23T21:56:25.397000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AR",
+            "text": "大人になってから見つけた趣味です。",
+            "timestamp": "2022-09-23T21:57:11.555000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DA",
+            "text": "大人になってから新しく始めるの良さそう！なんのジャンルですか？",
+            "timestamp": "2022-09-23T21:57:35.798000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AR",
+            "text": "タヒチアンダンスです。",
+            "timestamp": "2022-09-23T21:57:51.315000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DA",
+            "text": "なんですかそれ！",
+            "timestamp": "2022-09-23T21:57:57.929000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AR",
+            "text": "ハワイアンズの太鼓だけで踊る激しいやつわかります？",
+            "timestamp": "2022-09-23T21:58:26.473000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DA",
+            "text": "見たことないです、、ハードなやつですか？",
+            "timestamp": "2022-09-23T21:58:41.839000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AR",
+            "text": "結構ハードですね。蒼井優ちゃんのフラガールよかったら見てみてください",
+            "timestamp": "2022-09-23T21:59:10.142000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DA",
+            "text": "映画でしょうか！気になります",
+            "timestamp": "2022-09-23T21:59:19.312000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AR",
+            "text": "面白いですよ！ぜひ！ハワイアンズにもぜひ！",
+            "timestamp": "2022-09-23T21:59:49.657000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DA",
+            "text": "ハワイって、フラダンスもあっていろんなダンスあるんですね！",
+            "timestamp": "2022-09-23T22:00:09.940000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AR",
+            "text": "フラがハワイで、タヒチアンダンスはタヒチって国なんですよ。",
+            "timestamp": "2022-09-23T22:00:36.279000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！！！発表会とかもあるんですか？",
+            "timestamp": "2022-09-23T22:00:52.951000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AR",
+            "text": "私も習ってみて初めて知りました。発表会もやったことありますが、イベントの方が多いかな。",
+            "timestamp": "2022-09-23T22:01:26.749000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DA",
+            "text": "イベント出るの楽しそうー！いろんなところ行くのですか？",
+            "timestamp": "2022-09-23T22:01:41.601000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AR",
+            "text": "いえいえ、どちらかというと地元を盛り上げようですね。",
+            "timestamp": "2022-09-23T22:02:11.477000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DA",
+            "text": "そうなんですね！やってる人も多いのですか？",
+            "timestamp": "2022-09-23T22:02:26.529000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AR",
+            "text": "うちのスクールは３０人くらいです。",
+            "timestamp": "2022-09-23T22:02:41.895000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DA",
+            "text": "多い！気になるので後で調べてみます。",
+            "timestamp": "2022-09-23T22:02:55.426000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AR",
+            "text": "きっと東京などの都市はスクールもたくさんあると思います。",
+            "timestamp": "2022-09-23T22:03:33.498000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DA",
+            "text": "結構有名なダンスのジャンルなのでしょうか？",
+            "timestamp": "2022-09-23T22:03:50.431000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AR",
+            "text": "映画フラガールの影響は大きいかと",
+            "timestamp": "2022-09-23T22:04:19.792000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DA",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "AR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

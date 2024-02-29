@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 5455,
+    "interlocutors": [
+        "DF",
+        "FS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-24T14:11:50.419000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FS",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-24T14:11:56.328000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DF",
+            "text": "最近どこか出かけたりしましたか？",
+            "timestamp": "2022-09-24T14:12:15.353000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FS",
+            "text": "おととい友達と久々に飲みに行きました！",
+            "timestamp": "2022-09-24T14:12:45.376000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DF",
+            "text": "いいですねー！何食べたんですか？",
+            "timestamp": "2022-09-24T14:13:07.102000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FS",
+            "text": "食べ物はエイヒレとかのおつまみです。最後にサイゼでチョコレートケーキ食べて帰りました。",
+            "timestamp": "2022-09-24T14:14:15.684000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DF",
+            "text": "おつまみいいですね！私もおとといサイゼ行きました。",
+            "timestamp": "2022-09-24T14:14:44.862000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FS",
+            "text": "サイゼ安いのにおいしいですよね。お酒は飲みますか？",
+            "timestamp": "2022-09-24T14:15:17.285000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DF",
+            "text": "お酒は弱くてあまり飲めないんです、、。お酒よく飲みますか？",
+            "timestamp": "2022-09-24T14:15:49.237000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FS",
+            "text": "あまり量は飲めないんですが料理しながらビールを飲みます。",
+            "timestamp": "2022-09-24T14:16:27.456000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DF",
+            "text": "私はしたことないのですが、料理しながらっていいですよね！今度やってみようかな。",
+            "timestamp": "2022-09-24T14:17:01.726000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FS",
+            "text": "料理好きじゃないので少しでも楽しく！って感じです。酔わない程度だと楽しくなってきます。",
+            "timestamp": "2022-09-24T14:18:01.860000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DF",
+            "text": "はい！作業が捗りそうです！ビールが好きなんですか？",
+            "timestamp": "2022-09-24T14:18:23.914000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FS",
+            "text": "ビールが好きです！あとは日本酒が好きですが酔いすぎてしまうのでたまにしか飲みません。",
+            "timestamp": "2022-09-24T14:18:58.297000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DF",
+            "text": "日本酒好きな友達とご飯行った時は、ちょびちょび私も飲ましてもらいます。美味しいですよね。",
+            "timestamp": "2022-09-24T14:19:48.070000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FS",
+            "text": "飲みやすいですしね！あなたはどこか出かけましたか？",
+            "timestamp": "2022-09-24T14:20:31.272000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DF",
+            "text": "先週、実家に帰省したくらいですかね。あまり出かけられていません、、",
+            "timestamp": "2022-09-24T14:20:54.636000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FS",
+            "text": "そうなんですね。ご実家は遠いのですか？",
+            "timestamp": "2022-09-24T14:21:34.348000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DF",
+            "text": "新幹線と電車乗りついで、3時間くらいかかりますね。",
+            "timestamp": "2022-09-24T14:22:00.951000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FS",
+            "text": "けっこうかかりますね。新幹線乗るとわくわくします。いつも何泊されるんですか？",
+            "timestamp": "2022-09-24T14:23:02.530000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DF",
+            "text": "週末帰る感じなので、1泊か2泊くらいが多いです！",
+            "timestamp": "2022-09-24T14:23:44.931000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FS",
+            "text": "小旅行な感じで良いですね！駅弁食べたくなりそうです。",
+            "timestamp": "2022-09-24T14:24:40.627000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DF",
+            "text": "結構帰ってるので、旅行気分も味わえなくなってしまったのですが、、今度は駅弁も見てみようかな。",
+            "timestamp": "2022-09-24T14:25:25.552000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FS",
+            "text": "わたしも月2回くらい帰ってます。やっぱり実家って落ち着きますよね。",
+            "timestamp": "2022-09-24T14:26:28.720000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DF",
+            "text": "はい、本当に。すぐにご飯が出てくるのでありがたいです！！",
+            "timestamp": "2022-09-24T14:28:20.071000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FS",
+            "text": "いつも電車や新幹線では何されてますか？",
+            "timestamp": "2022-09-24T14:29:03.761000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DF",
+            "text": "寝ちゃうことが多いですが、動画見たりゲームもしますよ！",
+            "timestamp": "2022-09-24T14:29:32.210000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FS",
+            "text": "電車の揺れって眠くなりますよね。動画見ていたらあっという間ですね。",
+            "timestamp": "2022-09-24T14:30:02.225000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DF",
+            "text": "そうですね！気づいたら着いてることも多いですね！",
+            "timestamp": "2022-09-24T14:30:37.415000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FS",
+            "text": "電車乗ってて起きてるのに動画見てると乗り過ごしたりします。",
+            "timestamp": "2022-09-24T14:31:14.291000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "DF",
+            "text": "分かります！",
+            "timestamp": "2022-09-24T14:31:34.230000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "FS",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

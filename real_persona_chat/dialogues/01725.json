@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 1725,
+    "interlocutors": [
+        "AS",
+        "CD"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AS",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-16T11:59:13.470000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CD",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-16T11:59:22.924000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AS",
+            "text": "お昼ご飯の予定はありますか？",
+            "timestamp": "2022-08-16T12:00:15.330000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CD",
+            "text": "んー、まだお腹すいてないです。あなたは？",
+            "timestamp": "2022-08-16T12:00:17.636000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AS",
+            "text": "私は昨日の夕飯の残りを食べる予定です",
+            "timestamp": "2022-08-16T12:00:37.541000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CD",
+            "text": "昨日はなに食べたんですか？",
+            "timestamp": "2022-08-16T12:00:52.357000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AS",
+            "text": "チンジャオロースです",
+            "timestamp": "2022-08-16T12:00:59.935000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CD",
+            "text": "美味しそう！中華ですね。",
+            "timestamp": "2022-08-16T12:01:16.672000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AS",
+            "text": "そうです！ピーマンが大量だったので",
+            "timestamp": "2022-08-16T12:01:36.767000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CD",
+            "text": "自分で作ったんですか？",
+            "timestamp": "2022-08-16T12:01:45.731000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AS",
+            "text": "学校で畑借りて作ったやつです",
+            "timestamp": "2022-08-16T12:02:07.563000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CD",
+            "text": "すごいですね！ピーマン以外にも作ったりしてるんですか？",
+            "timestamp": "2022-08-16T12:02:37.694000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AS",
+            "text": "ナスとかしし唐とかプチトマトとか作ってます！",
+            "timestamp": "2022-08-16T12:02:54.640000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CD",
+            "text": "羨ましいな。今野菜高いから、家庭栽培やりたいんですよ。",
+            "timestamp": "2022-08-16T12:03:17.545000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AS",
+            "text": "例えばどれですか？",
+            "timestamp": "2022-08-16T12:03:38.131000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CD",
+            "text": "サニーレタスは必須ですね。",
+            "timestamp": "2022-08-16T12:03:52.796000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AS",
+            "text": "てことは、お弁当作られてます？",
+            "timestamp": "2022-08-16T12:04:08.109000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CD",
+            "text": "はい。ほぼほぼお弁当です。",
+            "timestamp": "2022-08-16T12:04:19.691000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AS",
+            "text": "サニーレタスは勝手に大きくなりますからね～虫だけ気を付けないと",
+            "timestamp": "2022-08-16T12:04:53.055000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CD",
+            "text": "虫は苦手なんで、それだけは嫌ですね。",
+            "timestamp": "2022-08-16T12:05:18.872000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AS",
+            "text": "アブラムシとか、芋虫がたくさん来ちゃいますね、対策しないと",
+            "timestamp": "2022-08-16T12:05:44.714000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CD",
+            "text": "昆虫じゃなくて、動物とかの心配は大丈夫ですか？",
+            "timestamp": "2022-08-16T12:06:15.655000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AS",
+            "text": "動物は、サニーレタスは大丈夫ですよ～",
+            "timestamp": "2022-08-16T12:06:36.501000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CD",
+            "text": "そうなんですね。詳しいですね。結構勉強しましたか？",
+            "timestamp": "2022-08-16T12:06:57.512000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AS",
+            "text": "色々教えてくれるんです。",
+            "timestamp": "2022-08-16T12:07:07.693000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CD",
+            "text": "誰がですか？",
+            "timestamp": "2022-08-16T12:07:12.116000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AS",
+            "text": "先生たちです。育てる野菜以外の話もしてくれるんです",
+            "timestamp": "2022-08-16T12:08:01.918000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CD",
+            "text": "農業学校とかなんですか？珍しいですよね。",
+            "timestamp": "2022-08-16T12:08:25.708000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AS",
+            "text": "生物系の学校です。そのつながりで農業の授業が一部あるんです",
+            "timestamp": "2022-08-16T12:08:50.873000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CD",
+            "text": "なるほど！お話ありがとうございました。",
+            "timestamp": "2022-08-16T12:09:07.327000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CD",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

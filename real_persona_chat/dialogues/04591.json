@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4591,
+    "interlocutors": [
+        "CB",
+        "FR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T17:39:53.889000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FR",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-12T17:39:57.996000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "今年の夏はどこか行きましたか",
+            "timestamp": "2022-09-12T17:40:16.833000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FR",
+            "text": "特にですね。バーベキューに行ったくらいです。",
+            "timestamp": "2022-09-12T17:40:35.526000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "バーベキューいいですね。今年は暑くて結構出不精になりました",
+            "timestamp": "2022-09-12T17:40:52.283000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FR",
+            "text": "すごいわかります。バーベキューも汗かきながらしました。",
+            "timestamp": "2022-09-12T17:41:10.977000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "炭起こしてですか？",
+            "timestamp": "2022-09-12T17:41:24.149000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FR",
+            "text": "そうです。",
+            "timestamp": "2022-09-12T17:41:29.682000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "炭の準備と後片付けが大変ですよね。炭でやくとおいしいんですけど",
+            "timestamp": "2022-09-12T17:41:51.940000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FR",
+            "text": "わかります。でも借りていたので、完全に片づけはしなくてよかったんですよ。",
+            "timestamp": "2022-09-12T17:42:12.975000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "それは便利ですね！今便利な場所？増えましたよね",
+            "timestamp": "2022-09-12T17:42:34.030000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FR",
+            "text": "はい。炭の用意とか片付けが楽になるのはいいです。お金とられますが。",
+            "timestamp": "2022-09-12T17:43:13.550000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "そうですね。便利な分コストはかかりますね。",
+            "timestamp": "2022-09-12T17:43:30.937000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FR",
+            "text": "あなたはなにかしました？",
+            "timestamp": "2022-09-12T17:43:43.271000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "海水浴にいったり、近場で科学館にはよく行きました",
+            "timestamp": "2022-09-12T17:44:08.875000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FR",
+            "text": "いいですね。海水浴はどうでした？",
+            "timestamp": "2022-09-12T17:44:21.858000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "嵐の後にいったときは、波がすごくて面白かったです",
+            "timestamp": "2022-09-12T17:44:35.310000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FR",
+            "text": "波が強いと楽しいですよね。浮き輪で浮かんだりして。",
+            "timestamp": "2022-09-12T17:44:52.736000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "そうなんです。かなり海は汚かったですけど",
+            "timestamp": "2022-09-12T17:45:04.369000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FR",
+            "text": "海汚かったんですか！",
+            "timestamp": "2022-09-12T17:45:15.226000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "嵐の後だったんで、よどんでました",
+            "timestamp": "2022-09-12T17:45:28.063000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FR",
+            "text": "なるほど。ごみは浮かんでませんでした？",
+            "timestamp": "2022-09-12T17:45:39.962000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "ゴミは草木が多かったですね。綺麗なときにも行きましたよ",
+            "timestamp": "2022-09-12T17:45:55.284000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FR",
+            "text": "なるほど。科学館はどいういうものが置いてあるのですか？",
+            "timestamp": "2022-09-12T17:46:12.937000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "科学実験のパフォーマンスしていたり、いろんな展示があります。プラネタリウムとかも。",
+            "timestamp": "2022-09-12T17:46:42.510000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FR",
+            "text": "プラネタリウム良いですよね。癒されます。",
+            "timestamp": "2022-09-12T17:46:59.624000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "最近かなりの確率で寝てしまって",
+            "timestamp": "2022-09-12T17:47:13.748000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FR",
+            "text": "わかります。上向けるような椅子ですもんね。",
+            "timestamp": "2022-09-12T17:47:36.906000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "まだ寝たいと思うくらいです",
+            "timestamp": "2022-09-12T17:47:56.829000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FR",
+            "text": "それも良い楽しみ方だと思います。",
+            "timestamp": "2022-09-12T17:48:10.586000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

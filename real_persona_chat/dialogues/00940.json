@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 940,
+    "interlocutors": [
+        "BI",
+        "AI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BI",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-11T17:12:50.001000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AI",
+            "text": "こんばんわ",
+            "timestamp": "2022-08-11T17:12:56.273000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BI",
+            "text": "これまで、何か国くらい行ったことがありますか？",
+            "timestamp": "2022-08-11T17:13:11.615000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AI",
+            "text": "３４か国だったと記憶",
+            "timestamp": "2022-08-11T17:13:23.718000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BI",
+            "text": "すごすぎませんか！お仕事でしょうか。",
+            "timestamp": "2022-08-11T17:13:38.459000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AI",
+            "text": "仕事でいき、プライベートでは行ってないところに行くから",
+            "timestamp": "2022-08-11T17:13:53.598000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BI",
+            "text": "出張とかですか？",
+            "timestamp": "2022-08-11T17:14:13.267000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AI",
+            "text": "出張もありますが、ひどいときはできるまで帰ってくるな的な場合も",
+            "timestamp": "2022-08-11T17:14:36.454000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BI",
+            "text": "けっこう長期間の滞在も？",
+            "timestamp": "2022-08-11T17:14:49.382000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AI",
+            "text": "数か国まわって世界半周３か月とか普通に",
+            "timestamp": "2022-08-11T17:15:11.788000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BI",
+            "text": "それでは、海外生活の方が長くなりそうですね！",
+            "timestamp": "2022-08-11T17:15:30.652000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AI",
+            "text": "最近はその部署じゃなくなったので、落ち着いてますが",
+            "timestamp": "2022-08-11T17:15:44.756000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BI",
+            "text": "その頃ご家族はどうされていたんですか？",
+            "timestamp": "2022-08-11T17:16:01.086000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AI",
+            "text": "長い出張＋夏休みのときは日本に戻ってたりとか",
+            "timestamp": "2022-08-11T17:16:25.296000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BI",
+            "text": "一緒に？",
+            "timestamp": "2022-08-11T17:16:37.578000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AI",
+            "text": "妻と子だけです、私は世界半周中",
+            "timestamp": "2022-08-11T17:16:50.551000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BI",
+            "text": "単身赴任状態ですか！",
+            "timestamp": "2022-08-11T17:17:01.942000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AI",
+            "text": "んで日本に立ち寄った時にちょいとレストランで会話とか",
+            "timestamp": "2022-08-11T17:17:16.150000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BI",
+            "text": "日本が立ち寄る、の側なんですね！",
+            "timestamp": "2022-08-11T17:17:32.523000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AI",
+            "text": "はい、次に会うのはヨーロッパでみたいな",
+            "timestamp": "2022-08-11T17:17:43.882000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BI",
+            "text": "えー！じゃあ、ご一緒に世界に出てもいたんですか？",
+            "timestamp": "2022-08-11T17:18:03.053000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AI",
+            "text": "はい、一応家というか、拠点はヨーロッパでしたので",
+            "timestamp": "2022-08-11T17:18:24.854000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BI",
+            "text": "そうなんですね！お子様はヨーロッパの学校へ？",
+            "timestamp": "2022-08-11T17:18:45.146000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AI",
+            "text": "現地校はフランス語なので、いわゆるアメリカンスクールに行ってました",
+            "timestamp": "2022-08-11T17:19:04.096000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BI",
+            "text": "まさか、お子様は英語とフランス語が堪能ですか！",
+            "timestamp": "2022-08-11T17:19:21.669000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AI",
+            "text": "英語はそこそこいけます、フランス語はどうなんだろう",
+            "timestamp": "2022-08-11T17:19:41.537000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BI",
+            "text": "いや、すごいです！うらやましい！",
+            "timestamp": "2022-08-11T17:19:54.823000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AI",
+            "text": "私よりは英語できますね",
+            "timestamp": "2022-08-11T17:20:05.121000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BI",
+            "text": "子どもの方が言語覚えやすいって言いますもんね！",
+            "timestamp": "2022-08-11T17:20:21.663000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AI",
+            "text": "はい、かなり修羅場だったみたいなので、最初はね",
+            "timestamp": "2022-08-11T17:20:41.555000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AI",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

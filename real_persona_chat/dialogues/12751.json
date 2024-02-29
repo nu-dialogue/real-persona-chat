@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12751,
+    "interlocutors": [
+        "FK",
+        "GP"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FK",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T01:01:27.383000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GP",
+            "text": "こんにちは",
+            "timestamp": "2022-09-12T01:01:43.665000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FK",
+            "text": "最近の趣味はなんですか",
+            "timestamp": "2022-09-12T01:01:46.750000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GP",
+            "text": "もんはんです",
+            "timestamp": "2022-09-12T01:01:59.338000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FK",
+            "text": "モンハン！おもしろいですよね",
+            "timestamp": "2022-09-12T01:02:02.949000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GP",
+            "text": "もんはんやったことはありますか",
+            "timestamp": "2022-09-12T01:02:19.115000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FK",
+            "text": "モンハン最近やってないですけど、すきです！",
+            "timestamp": "2022-09-12T01:02:28.690000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GP",
+            "text": "何か他に好きなゲームはありますか",
+            "timestamp": "2022-09-12T01:03:11.857000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FK",
+            "text": "Apexすきです！",
+            "timestamp": "2022-09-12T01:03:14.940000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GP",
+            "text": "私も好きです",
+            "timestamp": "2022-09-12T01:03:31.169000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FK",
+            "text": "まじですか、結構やってはりますか？",
+            "timestamp": "2022-09-12T01:03:37.231000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GP",
+            "text": "シーズンの初期からやってます",
+            "timestamp": "2022-09-12T01:03:54.314000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FK",
+            "text": "すごいですね、強そうです",
+            "timestamp": "2022-09-12T01:03:57.137000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GP",
+            "text": "使用キャラは何ですか",
+            "timestamp": "2022-09-12T01:04:29.163000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FK",
+            "text": "ヴァルキリー使ってます！",
+            "timestamp": "2022-09-12T01:04:33.662000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GP",
+            "text": "いいですね",
+            "timestamp": "2022-09-12T01:05:11.181000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FK",
+            "text": "なんのキャラ使ってますか？",
+            "timestamp": "2022-09-12T01:05:14.971000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GP",
+            "text": "ブラッドハウンドです",
+            "timestamp": "2022-09-12T01:05:26.419000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FK",
+            "text": "スキャンが強いキャラですねーー",
+            "timestamp": "2022-09-12T01:05:34.205000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GP",
+            "text": "次のシーズンどうなると思いますか？",
+            "timestamp": "2022-09-12T01:05:59.189000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FK",
+            "text": "どうなるでしょうね？",
+            "timestamp": "2022-09-12T01:06:01.850000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GP",
+            "text": "わからないですよね",
+            "timestamp": "2022-09-12T01:06:33.095000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FK",
+            "text": "なんか、ややこしくなりそうです",
+            "timestamp": "2022-09-12T01:06:37.924000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GP",
+            "text": "マップによってメタ変わるので大変ですよね",
+            "timestamp": "2022-09-12T01:07:07.525000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FK",
+            "text": "ほんとにそうですよね、しんどいです",
+            "timestamp": "2022-09-12T01:07:14.350000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GP",
+            "text": "そうですね",
+            "timestamp": "2022-09-12T01:08:00.857000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FK",
+            "text": "ゲームしたくなってきたなぁ",
+            "timestamp": "2022-09-12T01:08:02.818000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GP",
+            "text": "僕もやりたくなってきました",
+            "timestamp": "2022-09-12T01:08:38.793000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FK",
+            "text": "楽しいですよね、ほんと",
+            "timestamp": "2022-09-12T01:08:43.195000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GP",
+            "text": "いいゲームですよね",
+            "timestamp": "2022-09-12T01:09:04.350000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FK",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GP",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

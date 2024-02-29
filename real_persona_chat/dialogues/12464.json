@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12464,
+    "interlocutors": [
+        "DS",
+        "DL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DS",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-09T21:28:59"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DL",
+            "text": "こんばんわ。よろしくお願いしますね。",
+            "timestamp": "2022-09-09T21:29:06.166000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DS",
+            "text": "おすすめの疲れた時の回復方法とかありますか？",
+            "timestamp": "2022-09-09T21:29:30"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DL",
+            "text": "そうですね。やはり睡眠ですかね？毎日どのくらい寝られていますか？",
+            "timestamp": "2022-09-09T21:30:05.123000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DS",
+            "text": "毎日7時間くらいですかねー最近疲れ取れないんですよね",
+            "timestamp": "2022-09-09T21:30:23"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DL",
+            "text": "理想的な睡眠時間だと思います。姿勢が悪いとかですかね？",
+            "timestamp": "2022-09-09T21:30:50.095000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DS",
+            "text": "姿勢が悪いと疲れが取れないんですか？",
+            "timestamp": "2022-09-09T21:30:59"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DL",
+            "text": "何だか、仰向けとかだと良くないって聞きますね。横になって寝るのが良いって聞きます。",
+            "timestamp": "2022-09-09T21:31:27.755000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DS",
+            "text": "そうなんですね！仰向けの方が良さそうです",
+            "timestamp": "2022-09-09T21:31:45"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DL",
+            "text": "後は、運動不足とか、食事が偏っているとかも考えられますが、どうでしょう？",
+            "timestamp": "2022-09-09T21:32:08.764000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DS",
+            "text": "全部当てはまりそうですね。",
+            "timestamp": "2022-09-09T21:32:20"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DL",
+            "text": "全部ですか。運動とかはされないのですか？",
+            "timestamp": "2022-09-09T21:32:32.297000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DS",
+            "text": "運動はしないです！本当はしたいんですけどね",
+            "timestamp": "2022-09-09T21:32:45"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DL",
+            "text": "あらら、運動全般が苦手な感じですか？",
+            "timestamp": "2022-09-09T21:33:10.608000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DS",
+            "text": "運動はわりかし得意ですね！でもする機会に恵まれないというか",
+            "timestamp": "2022-09-09T21:33:33"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DL",
+            "text": "なるほど。得意なスポーツとかはありますか？",
+            "timestamp": "2022-09-09T21:33:46.419000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DS",
+            "text": "体操競技とか得意ですね！野球をやってましたが",
+            "timestamp": "2022-09-09T21:33:59"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DL",
+            "text": "体操競技が得意ですか！どんな種目をやっていましたか？",
+            "timestamp": "2022-09-09T21:34:37.791000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DS",
+            "text": "床とか得意です！体育コースのある高校行ってたんで特殊なことやってました",
+            "timestamp": "2022-09-09T21:35:00"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DL",
+            "text": "おぉ！結構本格的にやっていたんですか！大会とかにも出場とかされたりしたのですか？",
+            "timestamp": "2022-09-09T21:35:31.301000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DS",
+            "text": "授業の一環なんでそこまではやってないですね！",
+            "timestamp": "2022-09-09T21:35:50"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DL",
+            "text": "得意な技とかはあるんですか？",
+            "timestamp": "2022-09-09T21:35:59.688000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DS",
+            "text": "技名はよく覚えてないですがクルクル回ってました！",
+            "timestamp": "2022-09-09T21:36:12"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DL",
+            "text": "あはは、確かにマット運動はクルクル回りますよね！",
+            "timestamp": "2022-09-09T21:36:32.569000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DS",
+            "text": "です！バク転とかバク宙は普通にできましたね！",
+            "timestamp": "2022-09-09T21:36:50"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DL",
+            "text": "それ大技じゃないですか！その２つ出来るだけでも自慢になりますって！",
+            "timestamp": "2022-09-09T21:37:14.375000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DS",
+            "text": "今やったら全身千切れる自信があります！",
+            "timestamp": "2022-09-09T21:37:26"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DL",
+            "text": "千切れるんですか！体系が結構変わってしまわれたとかですか？",
+            "timestamp": "2022-09-09T21:37:49.318000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DS",
+            "text": "体型はそんなですがシンプルに運動不足ですね",
+            "timestamp": "2022-09-09T21:38:12"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DL",
+            "text": "なるほど。適度な運動は大事ですよね。",
+            "timestamp": "2022-09-09T21:38:27.001000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DS",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DL",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

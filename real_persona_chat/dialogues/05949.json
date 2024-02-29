@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5949,
+    "interlocutors": [
+        "GD",
+        "EV"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GD",
+            "text": "こんにちは。よろしくお願いします。",
+            "timestamp": "2022-10-01T14:38:45.418000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "EV",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-10-01T14:38:51.030000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GD",
+            "text": "ペットは飼ってますか？",
+            "timestamp": "2022-10-01T14:38:58.333000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "EV",
+            "text": "飼っていません。",
+            "timestamp": "2022-10-01T14:39:04.823000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GD",
+            "text": "そうでしたか。では、最近行きたいと思っている場所があれば伺いたいです。",
+            "timestamp": "2022-10-01T14:39:46.397000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "EV",
+            "text": "具体的な場所は無いですが、海鮮が食べたいです",
+            "timestamp": "2022-10-01T14:40:15.811000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GD",
+            "text": "海鮮いいですね！魚はなんだか高くて手が出しにくいので、なかなか食卓にあがりません。",
+            "timestamp": "2022-10-01T14:41:01.978000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "EV",
+            "text": "そうですよね。外食くらいでしかお目にかかれません",
+            "timestamp": "2022-10-01T14:41:24.290000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GD",
+            "text": "肉の方が使いやすいんですよね。",
+            "timestamp": "2022-10-01T14:41:56.141000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "EV",
+            "text": "同意です。肉を炒めてばっかりです",
+            "timestamp": "2022-10-01T14:42:15.976000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GD",
+            "text": "冷凍庫には肉ばっかりです。魚は冷凍すると味が落ちる気がします。",
+            "timestamp": "2022-10-01T14:42:39.228000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "EV",
+            "text": "どうなのでしょうね。実際のところ",
+            "timestamp": "2022-10-01T14:42:57.494000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GD",
+            "text": "早く食べた方がおいしいと思います。好きなお魚は何ですか？",
+            "timestamp": "2022-10-01T14:43:40.234000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "EV",
+            "text": "マグロですね。",
+            "timestamp": "2022-10-01T14:43:50.389000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GD",
+            "text": "高級ですね。お寿司とかお刺身で？",
+            "timestamp": "2022-10-01T14:44:29.777000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "EV",
+            "text": "どちらも好きですね。頻度は刺身の方が多い気がします",
+            "timestamp": "2022-10-01T14:45:00.246000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GD",
+            "text": "お刺身おいしいですよね。スーパーでもっと安く売ってほしいです。",
+            "timestamp": "2022-10-01T14:45:25.592000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "EV",
+            "text": "月末でしか手を出せませんね。",
+            "timestamp": "2022-10-01T14:45:47.035000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GD",
+            "text": "ほんと高いですよねー。旅行に行った時じゃないとふんぎりがつきません。",
+            "timestamp": "2022-10-01T14:47:24.911000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "EV",
+            "text": "安いお肉を大量に焼いて食べて満足する生活です",
+            "timestamp": "2022-10-01T14:47:47.108000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GD",
+            "text": "塩コショウですか？",
+            "timestamp": "2022-10-01T14:48:02.843000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "EV",
+            "text": "基本はそうですね。アレンジすることもあります",
+            "timestamp": "2022-10-01T14:48:35.913000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GD",
+            "text": "シンプルですねー。うちは鶏モモが多いです。色々できるので。",
+            "timestamp": "2022-10-01T14:49:46.715000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "EV",
+            "text": "僕も鶏肉が一番好きですね。食べやすいし",
+            "timestamp": "2022-10-01T14:50:08.369000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GD",
+            "text": "昔は牛肉が一番美味しいと思ってたんですが、今は鶏ですね。脂がおいしい気がします。",
+            "timestamp": "2022-10-01T14:50:48.745000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "EV",
+            "text": "牛肉はすぐに飽きてしまうので、印象があまりよくないです",
+            "timestamp": "2022-10-01T14:51:10.734000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GD",
+            "text": "焼肉でたまに食べるくらいがちょうどいいですね。",
+            "timestamp": "2022-10-01T14:51:28.680000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "EV",
+            "text": "そうですね。健康のためにもお財布のためにも",
+            "timestamp": "2022-10-01T14:51:55.357000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GD",
+            "text": "ほんとに。なんでこう色々高いんだろう。鶏はおいしくて安くて本当ありがたいです。",
+            "timestamp": "2022-10-01T14:52:27.079000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "EV",
+            "text": "庶民の味方です",
+            "timestamp": "2022-10-01T14:52:35.822000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GD",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "EV",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

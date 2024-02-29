@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10356,
+    "interlocutors": [
+        "CE",
+        "CI"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-13T08:58:26.471000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CI",
+            "text": "おはようございます。よろしくお願いします！",
+            "timestamp": "2022-08-13T08:58:39.930000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "今日は休日なのに雨です。そちらはどうですか？",
+            "timestamp": "2022-08-13T08:58:57.206000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CI",
+            "text": "こちらもどんよりして今にも降りそうです。",
+            "timestamp": "2022-08-13T08:59:15.184000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "雨久しぶりですよね。最近ずっと快晴で暑かったです。",
+            "timestamp": "2022-08-13T08:59:37.925000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CI",
+            "text": "ここ数日の暑さはしんどいですね。",
+            "timestamp": "2022-08-13T08:59:52.123000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "しんどいですねー。何か暑さ対策ってされてますか？",
+            "timestamp": "2022-08-13T09:00:11.671000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CI",
+            "text": "とりあえず、何か飲み物を持って外に出るとかですかね。",
+            "timestamp": "2022-08-13T09:00:30.419000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "水分補給大事ですよね！お水ですか？お茶ですか？",
+            "timestamp": "2022-08-13T09:00:57.705000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CI",
+            "text": "水が多いです。何で水分補給されてますか？",
+            "timestamp": "2022-08-13T09:01:18.794000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "私も水がメインで、ジャスミン茶・緑茶・牛乳・豆乳をちょこちょこ摂取します。",
+            "timestamp": "2022-08-13T09:01:59.048000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CI",
+            "text": "ジャスミン茶好きです！豆乳も！",
+            "timestamp": "2022-08-13T09:02:19.949000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "ジャスミン茶美味しいですよねー！香りが大好きです！昔はその香りが苦手だったんですけどね。",
+            "timestamp": "2022-08-13T09:02:49.809000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CI",
+            "text": "私もあの香りがとっても好きで。いいですよねー",
+            "timestamp": "2022-08-13T09:03:10.764000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "最近コンビニでもほうじ茶をよく見かけるようになったんですが、まだ苦手で、克服しようと頑張ってます。",
+            "timestamp": "2022-08-13T09:03:46.026000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CI",
+            "text": "ほうじ茶好みが分かれますよね。最近どのお茶もフレーバーものが増えてきて気になってます。",
+            "timestamp": "2022-08-13T09:04:19.937000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "色んなお茶がありますよね！ほかにお好きなお茶ありますか？",
+            "timestamp": "2022-08-13T09:04:44.551000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CI",
+            "text": "お茶は、だいたい何でも好きなんですけど、最近チャイにハマりそうです。",
+            "timestamp": "2022-08-13T09:05:12.352000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "チャイ！いいですね！スパイシーさが日本のお茶にはないので、斬新ですよねぇ。",
+            "timestamp": "2022-08-13T09:05:49.610000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CI",
+            "text": "スパイスの勉強をしている友人がいて、作り方や茶葉を教えてもらいました。",
+            "timestamp": "2022-08-13T09:06:35.096000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "すごい！本格的にやられてるご友人がいらっしゃるんですね。チャイのスパイスって何種類ですか？",
+            "timestamp": "2022-08-13T09:07:17.792000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CI",
+            "text": "カレーに入れるような種類に近いと思うんですけど、多分10種類くらい入ってます！",
+            "timestamp": "2022-08-13T09:08:10.890000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "予想以上に多い！5種類くらいかと思ってました。色々なスパイスの配合量があるんでしょうね。",
+            "timestamp": "2022-08-13T09:08:42.551000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CI",
+            "text": "チャイ用に挽いたり調合したスパイスMIXを友人から買わされる、カモになってます。",
+            "timestamp": "2022-08-13T09:09:33.348000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "でもスパイスは色んなお料理に使えますし、買う側にも利点ありますからね！",
+            "timestamp": "2022-08-13T09:10:27.565000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CI",
+            "text": "そうなんです、私ズボラなので、このスパイスかけるだけでサマになる、とか言われると買っちゃうんです。",
+            "timestamp": "2022-08-13T09:10:59.823000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "それは確かに、いいカモかもしれない。せめてもの抵抗で「もうちょっと辛めで」とか文句言っていきましょ。",
+            "timestamp": "2022-08-13T09:11:47"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CI",
+            "text": "あはは、ですね！もうちょっと自力で頑張れるようにします。",
+            "timestamp": "2022-08-13T09:12:21.177000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "気になるとこは主張していきましょ！お話ありがとうございました！",
+            "timestamp": "2022-08-13T09:12:53.980000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CI",
+            "text": "こちらこそありがとうございます！",
+            "timestamp": "2022-08-13T09:13:08.050000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CI",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

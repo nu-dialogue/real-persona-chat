@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6147,
+    "interlocutors": [
+        "GF",
+        "HC"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GF",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-03T20:42:10.215000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HC",
+            "text": "こんばんは！！",
+            "timestamp": "2022-10-03T20:42:17.853000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GF",
+            "text": "私は朝ドラを見ているのですが、見ていますか？",
+            "timestamp": "2022-10-03T20:42:37.587000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HC",
+            "text": "朝ドラですか？実はほとんど見たことがありません。",
+            "timestamp": "2022-10-03T20:43:23.237000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GF",
+            "text": "やっぱり。私もここ３年くらいなのですが、周りに見ている人があまりいません！",
+            "timestamp": "2022-10-03T20:43:46.779000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HC",
+            "text": "でもなんか有名になってるものも、ほぼ見たことないんですよ",
+            "timestamp": "2022-10-03T20:44:28.324000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GF",
+            "text": "でも視聴率というものを考えたら、そんなものなのでしょうね。",
+            "timestamp": "2022-10-03T20:44:52.880000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HC",
+            "text": "まぁ一つの原因としては、その時間仕事に出かけてるがほとんどですからね",
+            "timestamp": "2022-10-03T20:46:03.833000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GF",
+            "text": "ああ、確かに。老人が多そうです。",
+            "timestamp": "2022-10-03T20:46:32.433000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HC",
+            "text": "老人って。朝バタバタから少し解消された主婦様も多いと思います",
+            "timestamp": "2022-10-03T20:47:29.620000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GF",
+            "text": "それ、私がそんな感じです。子どもを送り出した後の休息タイムです！",
+            "timestamp": "2022-10-03T20:48:08.347000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HC",
+            "text": "一番大事で貴重なお時間だと思いますよ！",
+            "timestamp": "2022-10-03T20:48:36.243000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GF",
+            "text": "ありがとうございます！それでも３年前コロナがきっかけで見始めたものです。今は定着しました。",
+            "timestamp": "2022-10-03T20:49:36.699000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HC",
+            "text": "そうなんですね。コロナって悪いものしか思い浮かばないですが、よい環境にもしてくれるものなんですね",
+            "timestamp": "2022-10-03T20:50:39.071000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GF",
+            "text": "そうなんですよね、何事もそうかもしれないですね。表裏一体で。",
+            "timestamp": "2022-10-03T20:51:00.837000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HC",
+            "text": "ちなみに今どういった朝ドラをしてるのですか？",
+            "timestamp": "2022-10-03T20:51:26.061000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GF",
+            "text": "実は今日が新たにスタートの日で、舞い上がれというドラマです。",
+            "timestamp": "2022-10-03T20:51:51.206000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HC",
+            "text": "そうなんですね。どんどん深みにはまってしまいそうですね",
+            "timestamp": "2022-10-03T20:52:31.395000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GF",
+            "text": "はまっていますね。前回作がちょっと微妙だったのに見続けてしまいました。中毒性もあるのでしょうかね。",
+            "timestamp": "2022-10-03T20:53:12.633000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HC",
+            "text": "ＮＨＫの策略にはまっていますね。でも朝から高揚感上がりますよね。",
+            "timestamp": "2022-10-03T20:53:55.870000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GF",
+            "text": "はまっていますね。そのあとの情報番組あさイチまでいってしまいます。",
+            "timestamp": "2022-10-03T20:54:49.827000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HC",
+            "text": "完全ループ状態ですね",
+            "timestamp": "2022-10-03T20:55:07.381000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GF",
+            "text": "まさに老人や主婦に向けた情報が盛りだくさんで。",
+            "timestamp": "2022-10-03T20:55:34.305000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HC",
+            "text": "そうなんですね。情報ももりだくさんで頭に入ってくるんですね",
+            "timestamp": "2022-10-03T20:56:22.642000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GF",
+            "text": "断捨離も頑張りたいし、ＮＨＫの罠から抜け出すために朝ドラが終わったらすぐにテレビを消したいものです。",
+            "timestamp": "2022-10-03T20:57:06.599000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HC",
+            "text": "いやいや。朝の大事なひと時なんですから有効利用した方がよいと思いますよ",
+            "timestamp": "2022-10-03T20:57:56.013000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GF",
+            "text": "よく考えたら、別につけながら断捨離もできますよね！",
+            "timestamp": "2022-10-03T20:58:42.021000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HC",
+            "text": "そうですね。でもＴＶに集中しちゃいますよ？きっと",
+            "timestamp": "2022-10-03T20:59:30.517000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GF",
+            "text": "また進まない断捨離に！！",
+            "timestamp": "2022-10-03T20:59:41.511000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HC",
+            "text": "徐々に行きましょう。まだまだ今年は残っています！！",
+            "timestamp": "2022-10-03T21:00:13.410000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        }
+    ]
+}

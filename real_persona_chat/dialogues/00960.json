@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 960,
+    "interlocutors": [
+        "CO",
+        "CQ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CO",
+            "text": "おはようございます",
+            "timestamp": "2022-08-11T10:46:24.490000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CQ",
+            "text": "おはようございます。",
+            "timestamp": "2022-08-11T10:46:30.405000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CO",
+            "text": "スポーツはお好きですか？",
+            "timestamp": "2022-08-11T10:46:37.549000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CQ",
+            "text": "あまり得意でないです",
+            "timestamp": "2022-08-11T10:47:25.050000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CO",
+            "text": "学生時代クラブ活動はされてましたか？",
+            "timestamp": "2022-08-11T10:47:35.630000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CQ",
+            "text": "卓球やってました。",
+            "timestamp": "2022-08-11T10:47:53.168000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CO",
+            "text": "いいですね。オリンピックとか卓球見ますか？",
+            "timestamp": "2022-08-11T10:48:11.609000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CQ",
+            "text": "オリンピックは見ないです",
+            "timestamp": "2022-08-11T10:48:24.157000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CO",
+            "text": "なるほど。みないですか",
+            "timestamp": "2022-08-11T10:48:39.283000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、恰好よさそうなので見てみたいですね",
+            "timestamp": "2022-08-11T10:49:01.323000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CO",
+            "text": "卓球も反射神経いりますね",
+            "timestamp": "2022-08-11T10:49:35.739000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、オリンピック選手は動きが俊敏です",
+            "timestamp": "2022-08-11T10:49:56.878000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CO",
+            "text": "あなたはどうですか？",
+            "timestamp": "2022-08-11T10:50:18.814000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CQ",
+            "text": "あまり上手でないです",
+            "timestamp": "2022-08-11T10:50:29.085000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CO",
+            "text": "そうなんですね。なぜ卓球部に入ったんですか？",
+            "timestamp": "2022-08-11T10:50:55.128000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CQ",
+            "text": "他に興味のあるスポーツがありませんで、惰性です",
+            "timestamp": "2022-08-11T10:51:25.777000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CO",
+            "text": "惰性で。文化部の選択肢はなかったですか？",
+            "timestamp": "2022-08-11T10:51:46.826000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CQ",
+            "text": "文化部は女性ばかり、入部されていたので、入りづらかったです",
+            "timestamp": "2022-08-11T10:52:15.592000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CO",
+            "text": "なるほど。それだとそうなりますね",
+            "timestamp": "2022-08-11T10:52:34.572000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CQ",
+            "text": "あなたは、スポーツお好きなんですか？",
+            "timestamp": "2022-08-11T10:52:53.141000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CO",
+            "text": "はい、先ほども走ってきました",
+            "timestamp": "2022-08-11T10:53:05.960000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CQ",
+            "text": "アグレッシブですね、習慣なんですか？",
+            "timestamp": "2022-08-11T10:53:22.980000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CO",
+            "text": "習慣にしたいなと思ってます。",
+            "timestamp": "2022-08-11T10:53:37.064000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CQ",
+            "text": "毎日は走ってないんですね、得意なスポーツはありますか？",
+            "timestamp": "2022-08-11T10:54:03.596000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CO",
+            "text": "毎日ではないです。週２日ぐらい。サッカーが好きですね",
+            "timestamp": "2022-08-11T10:54:27.164000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CQ",
+            "text": "なるほど、周囲の方もスポーツ好きな方が多いですか？",
+            "timestamp": "2022-08-11T10:54:56.987000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CO",
+            "text": "以前の会社に多くいて、チームに入らせてもらってました",
+            "timestamp": "2022-08-11T10:55:19.463000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CQ",
+            "text": "そうなんですね、自分の周りとは真逆ですね",
+            "timestamp": "2022-08-11T10:55:51.246000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CO",
+            "text": "そうでしたか、時々運動も体のためにいいですよ。ぜひ",
+            "timestamp": "2022-08-11T10:56:10.828000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CQ",
+            "text": "そうですね、試してみます",
+            "timestamp": "2022-08-11T10:56:56.229000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 3,
+            "comprehension": 3,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

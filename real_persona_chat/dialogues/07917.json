@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 7917,
+    "interlocutors": [
+        "CC",
+        "BS"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CC",
+            "text": "おはようございますー",
+            "timestamp": "2022-08-05T11:13:37.326000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BS",
+            "text": "おはようございます！",
+            "timestamp": "2022-08-05T11:13:47.876000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CC",
+            "text": "今日はもう起きてましたか？",
+            "timestamp": "2022-08-05T11:13:54.203000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BS",
+            "text": "はい。でもいつもより少し寝坊してしまいました。",
+            "timestamp": "2022-08-05T11:14:19.552000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CC",
+            "text": "私は10時くらいに起きました。",
+            "timestamp": "2022-08-05T11:14:33.119000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。いつもそのぐらいの時間に起きるんですか？",
+            "timestamp": "2022-08-05T11:14:52.236000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CC",
+            "text": "そうですね。最近お寝坊です。",
+            "timestamp": "2022-08-05T11:15:00.559000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BS",
+            "text": "朝起きるの辛いですもんね。",
+            "timestamp": "2022-08-05T11:15:26.587000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CC",
+            "text": "ですね。仕事していた時はちゃんと起きてましたが、今は退職して転職活動中なんです。",
+            "timestamp": "2022-08-05T11:15:48.798000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BS",
+            "text": "そうなんですね。ご希望の業界や職種があるのですか？",
+            "timestamp": "2022-08-05T11:16:39.624000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CC",
+            "text": "そうですねー。業界はわりと何でもいいかな。",
+            "timestamp": "2022-08-05T11:16:57.284000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BS",
+            "text": "なるほど。",
+            "timestamp": "2022-08-05T11:17:23.809000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CC",
+            "text": "今までの経験的にカスタマーサポートとかカスタマーサクセスとかになると思います。職種は。",
+            "timestamp": "2022-08-05T11:17:43.305000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BS",
+            "text": "おー！すごいですね。相手に寄り添う職種ですね。",
+            "timestamp": "2022-08-05T11:18:22.709000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CC",
+            "text": "ですね！得意かどうかと聞かれるとよく分かりませんが。",
+            "timestamp": "2022-08-05T11:18:41.255000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BS",
+            "text": "確かに、できる、のと得意、は別ですもんね。",
+            "timestamp": "2022-08-05T11:19:09.817000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CC",
+            "text": "そうそう。あなたは今お仕事されてますか？",
+            "timestamp": "2022-08-05T11:19:21.349000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BS",
+            "text": "はい、リモートでしてますよ！",
+            "timestamp": "2022-08-05T11:19:58.221000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CC",
+            "text": "おっじゃあ家が仕事場ですね！",
+            "timestamp": "2022-08-05T11:20:57.957000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BS",
+            "text": "そうなんです。通勤時間0です！",
+            "timestamp": "2022-08-05T11:21:35.333000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CC",
+            "text": "リモート歴は長いんですか？",
+            "timestamp": "2022-08-05T11:21:51.025000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BS",
+            "text": "そうですね、1年半ぐらいでしょうか。",
+            "timestamp": "2022-08-05T11:22:13.413000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CC",
+            "text": "あ、私も同じくらいかもです。",
+            "timestamp": "2022-08-05T11:22:20.148000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BS",
+            "text": "前職もリモートだったのですか？",
+            "timestamp": "2022-08-05T11:23:02.190000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CC",
+            "text": "コロナきっかけでリモートになりましたね。",
+            "timestamp": "2022-08-05T11:23:11.953000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BS",
+            "text": "あーそうですよね。私のところもそうです。",
+            "timestamp": "2022-08-05T11:23:48.924000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CC",
+            "text": "みんな同じ",
+            "timestamp": "2022-08-05T11:23:56.650000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BS",
+            "text": "もう通勤時代には戻れないです。",
+            "timestamp": "2022-08-05T11:24:11.430000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CC",
+            "text": "たしかに。でも週１くらいは出社してもいいかなと思います。",
+            "timestamp": "2022-08-05T11:24:28.284000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BS",
+            "text": "気分転換にいいかもですね！",
+            "timestamp": "2022-08-05T11:24:45.447000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CC",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "BS",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

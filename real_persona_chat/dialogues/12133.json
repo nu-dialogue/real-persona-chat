@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12133,
+    "interlocutors": [
+        "DC",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DC",
+            "text": "こんばんはー！",
+            "timestamp": "2022-09-03T20:26:30.948000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんばんは！",
+            "timestamp": "2022-09-03T20:26:33.036000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DC",
+            "text": "お酒とかって、飲まれますか？",
+            "timestamp": "2022-09-03T20:26:42.268000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "飲みます！好きです！",
+            "timestamp": "2022-09-03T20:26:55.561000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DC",
+            "text": "お！いいですね！居酒屋さんに行く派ですか？",
+            "timestamp": "2022-09-03T20:27:10.291000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "私はどちらかというと宅飲み派です！",
+            "timestamp": "2022-09-03T20:27:29.375000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DC",
+            "text": "おおお、では、お家ではどんなおつまみを？気になります！",
+            "timestamp": "2022-09-03T20:27:47.181000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "割と食事と一緒に飲むのですが，食後はナッツとかお菓子を食べてます！",
+            "timestamp": "2022-09-03T20:28:43.525000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DC",
+            "text": "お、お菓子も！お酒に合うお菓子ってどんなのがあるんでしょう。コンビニで買える変わったのご存知ですか？",
+            "timestamp": "2022-09-03T20:29:21.268000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "変わり種かはわかりませんが，チョコ食べます！",
+            "timestamp": "2022-09-03T20:30:22.539000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DC",
+            "text": "え！？チョコ、甘いのに、合うんですか？",
+            "timestamp": "2022-09-03T20:30:38.278000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "ハイボールが好きなんですけど，チョコが意外といけるんですよ！！",
+            "timestamp": "2022-09-03T20:31:05.390000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DC",
+            "text": "へえええ、私もハイボール結構好きなんですが、あまりおうちだと飲まなくて、チョコ、いいかも！",
+            "timestamp": "2022-09-03T20:31:29.056000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "<DC>さんは居酒屋で飲むことが多いですか？",
+            "timestamp": "2022-09-03T20:31:58.663000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DC",
+            "text": "そうなんです、お家ではビールとかが多くて。おうちおつまみの知識が乏しすぎて。",
+            "timestamp": "2022-09-03T20:32:22.855000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "ビールもいいですね！おつまみでは何が好きなんですか？？",
+            "timestamp": "2022-09-03T20:32:46.677000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DC",
+            "text": "タコワサとか、チーズとか！でもコンビニで買うとちょっと高いし不味いし、お菓子があればなぁと！",
+            "timestamp": "2022-09-03T20:33:22.966000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "合いますね！！コンビニおつまみ難しいですね．",
+            "timestamp": "2022-09-03T20:34:05.765000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DC",
+            "text": "いやぁ、チョコは驚きでした。しかもハイボール、お家で飲む時ちょっとご飯にも合わない気がして避けてて。",
+            "timestamp": "2022-09-03T20:34:47.459000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "ハイボールは缶のやつを飲んでますか？",
+            "timestamp": "2022-09-03T20:35:16.920000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DC",
+            "text": "はい、コンビニで買っちゃいます。",
+            "timestamp": "2022-09-03T20:35:38.618000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "めんどうなんですけど，自分で好きなウイスキーを買って作ると合うように調整できますよ！",
+            "timestamp": "2022-09-03T20:36:25.431000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DC",
+            "text": "あ、そうか！なるほどー、それなら確かに色々合うように調整できますね。ふむ。",
+            "timestamp": "2022-09-03T20:36:50.416000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "デュワーズというウイスキーがすっきりしていて食事におすすめです！",
+            "timestamp": "2022-09-03T20:37:21.990000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DC",
+            "text": "デュワーズですね！今度お酒コーナーで探してみます！楽しみだなぁ！",
+            "timestamp": "2022-09-03T20:37:50.574000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "ビールはどこのを飲むことが多いですか？",
+            "timestamp": "2022-09-03T20:38:03.408000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DC",
+            "text": "実はビールより発泡酒の方が好きで、軽い感じがするので。",
+            "timestamp": "2022-09-03T20:38:29.515000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "発泡酒のほうが飲みやすい感じですかね？",
+            "timestamp": "2022-09-03T20:39:06.383000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DC",
+            "text": "そう、だから、ハイボールも自分で割りを調整した方がきっと飲みやすいでしょうね！ぜひ試してみます！",
+            "timestamp": "2022-09-03T20:39:44.114000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "是非とも楽しんでくださいー！",
+            "timestamp": "2022-09-03T20:39:56.586000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DC",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

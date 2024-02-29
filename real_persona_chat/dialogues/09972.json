@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 9972,
+    "interlocutors": [
+        "EQ",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EQ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-10T14:49:38.162000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-08-10T14:50:35.394000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EQ",
+            "text": "今日は何時頃に起きましたか？",
+            "timestamp": "2022-08-10T14:50:41.730000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "仕事があって6時に起きました",
+            "timestamp": "2022-08-10T14:50:45.014000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EQ",
+            "text": "近頃朝早く起きられなくて困っているのです。",
+            "timestamp": "2022-08-10T14:51:08.716000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "よく眠れるのは良いことだと思います",
+            "timestamp": "2022-08-10T14:51:36.045000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EQ",
+            "text": "早起きするといろいろできそうなのでいつまでも寝ているともったいないですよね。",
+            "timestamp": "2022-08-10T14:52:08.915000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "確かに早起きは三文のとくと言いますよね",
+            "timestamp": "2022-08-10T14:53:07.343000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EQ",
+            "text": "お休みの日も早く起きるのですか？",
+            "timestamp": "2022-08-10T14:53:24.720000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "癖になっているのでいつも同じ時間に目が覚めます",
+            "timestamp": "2022-08-10T14:53:45.276000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EQ",
+            "text": "それは素晴らしいです！早く起きる秘訣はありますか？",
+            "timestamp": "2022-08-10T14:54:08.230000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "不安な夢を見れるようになることです笑。",
+            "timestamp": "2022-08-10T14:54:32.026000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EQ",
+            "text": "私、ほとんど夢を見たことがないのです。",
+            "timestamp": "2022-08-10T14:54:50.209000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "熟睡できているのですね。良いですね。",
+            "timestamp": "2022-08-10T14:55:18.305000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EQ",
+            "text": "爆睡かもしれません。お恥ずかしいですね。",
+            "timestamp": "2022-08-10T14:55:36.258000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "爆睡ですかー。朝はスッキリ目覚めますか？",
+            "timestamp": "2022-08-10T14:56:05.573000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EQ",
+            "text": "すっきりでないかもしれないですが、ぱっと目覚めます。",
+            "timestamp": "2022-08-10T14:56:49.967000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "8時間以上寝れてますか？",
+            "timestamp": "2022-08-10T14:57:15.441000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EQ",
+            "text": "いえ、たいてい6時間ほどです。",
+            "timestamp": "2022-08-10T14:57:31.088000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "6時間が良いサイクルになっているのですかね。",
+            "timestamp": "2022-08-10T14:57:58.948000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EQ",
+            "text": "そうかもしれませんね。",
+            "timestamp": "2022-08-10T14:58:17.345000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "そのサイクルがあれば早起きより良いことに思えます",
+            "timestamp": "2022-08-10T14:58:52.049000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EQ",
+            "text": "今気が付きました。夜寝るのが遅いのでした。",
+            "timestamp": "2022-08-10T14:59:12.236000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "笑　早く寝る癖をつけるのは早起きより難しそうです。",
+            "timestamp": "2022-08-10T14:59:42.983000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EQ",
+            "text": "人は25時間のサイクルっていいますものね。",
+            "timestamp": "2022-08-10T15:00:01.358000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "そうなんですか。1時間づつずれていくのですね。",
+            "timestamp": "2022-08-10T15:00:30.898000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EQ",
+            "text": "気がつけば、遅くなってしまうという感じでしょうか。",
+            "timestamp": "2022-08-10T15:01:03.014000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "やることもなくなんとなく遅くなってしまうとか",
+            "timestamp": "2022-08-10T15:01:27.575000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EQ",
+            "text": "同じ時間だと眠くならないということですね。",
+            "timestamp": "2022-08-10T15:01:50.288000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "今日は早く布団に入ってみましょう",
+            "timestamp": "2022-08-10T15:02:14.100000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "EQ",
+            "text": "そうします。",
+            "timestamp": "2022-08-10T15:02:30.325000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

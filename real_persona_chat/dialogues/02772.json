@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 2772,
+    "interlocutors": [
+        "CE",
+        "ED"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CE",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-23T19:04:22.142000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "ED",
+            "text": "こんにちはー！",
+            "timestamp": "2022-08-23T19:04:28.113000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CE",
+            "text": "あっという間に8月が終わりそうですね。",
+            "timestamp": "2022-08-23T19:04:57.884000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "ED",
+            "text": "ほんと、早いですよねー！この夏の思い出とかってありますか？",
+            "timestamp": "2022-08-23T19:05:18.745000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CE",
+            "text": "夏の思い出は、入院したことですかねー。",
+            "timestamp": "2022-08-23T19:05:39.503000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "ED",
+            "text": "えええ、それはまたどうされたんですか？",
+            "timestamp": "2022-08-23T19:05:50.491000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CE",
+            "text": "歯の矯正をしているので、それの関係で、顎の手術をしました。",
+            "timestamp": "2022-08-23T19:06:21.639000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "ED",
+            "text": "そうなんですねー！顎、痛みがあったんですか？",
+            "timestamp": "2022-08-23T19:06:37.009000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CE",
+            "text": "下顎が少し出てて、それを下げる手術だったんですよー。術後からずっと顔が腫れてます。",
+            "timestamp": "2022-08-23T19:07:16.937000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "ED",
+            "text": "それはお辛いでしょうに。術後の食事も大変だったりされたんですか？",
+            "timestamp": "2022-08-23T19:07:49.777000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CE",
+            "text": "食事はもう！口が開かないので、しばらく液体のみでした！",
+            "timestamp": "2022-08-23T19:08:05.671000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "ED",
+            "text": "ひええ。私も去年下の親不知抜いて顔が腫れましたが、それどころじゃないですね。",
+            "timestamp": "2022-08-23T19:08:41.651000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CE",
+            "text": "親知らずでもかなり腫れますよね。あれが左右両方で一か月以上継続する感じです。",
+            "timestamp": "2022-08-23T19:09:22.469000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "ED",
+            "text": "それは、大変でしたね。少しはマシになっていってるんですか？",
+            "timestamp": "2022-08-23T19:09:42.115000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CE",
+            "text": "徐々に腫れは引いてますよ。痛みは最初からそんなになくて、先生に驚かれました。",
+            "timestamp": "2022-08-23T19:10:08.463000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "ED",
+            "text": "それはまだ良かったですね！顎って不具合があると辛いですもんね。",
+            "timestamp": "2022-08-23T19:10:54.687000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CE",
+            "text": "ですね、幸いでした！食べ物食べられないって大変だなとつくづく実感しました。",
+            "timestamp": "2022-08-23T19:11:24.324000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "ED",
+            "text": "お口って、ほんとうにケアしないと食べれなくなるから大事ですよね。歯医者は嫌ですが。",
+            "timestamp": "2022-08-23T19:11:56.186000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CE",
+            "text": "私も歯医者大嫌いです。あの音が苦手です。でも行かないとですよね。",
+            "timestamp": "2022-08-23T19:12:24.002000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "ED",
+            "text": "私も嫌いです。キュイイーンっていうのがどうもダメで。",
+            "timestamp": "2022-08-23T19:12:48.918000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CE",
+            "text": "もうちょっと静かでマイルドな音にならないんでしょうかね。あの音トラウマになりますよね。",
+            "timestamp": "2022-08-23T19:13:18.058000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "ED",
+            "text": "そうですよね、技術が進化してるのに、あの音だけは変わらないですもんね。",
+            "timestamp": "2022-08-23T19:13:59.875000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CE",
+            "text": "不思議ですね。そろそろ改善されてもよさそうなのに。",
+            "timestamp": "2022-08-23T19:14:20.924000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "ED",
+            "text": "今度知り合いの歯医者さんに聞いてみます。あれ改善されたら歯医者さん行く人増えるでしょうに。",
+            "timestamp": "2022-08-23T19:14:50.768000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CE",
+            "text": "ぜひ聞いてみてください！そこが改善されたら私ももっと行くと思います。",
+            "timestamp": "2022-08-23T19:15:22.248000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "ED",
+            "text": "そうします！お口だけは年取るごとにちゃんとケアしないとですもんねー",
+            "timestamp": "2022-08-23T19:15:53.324000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CE",
+            "text": "目指せ80歳のときに20本！ですね。",
+            "timestamp": "2022-08-23T19:16:19.413000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "ED",
+            "text": "ですよね！パカって歯全体取れる入れ歯は避けたいです。",
+            "timestamp": "2022-08-23T19:17:03.649000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CE",
+            "text": "笑ってるときに入れ歯が飛び出すのとか、笑っちゃうけど嫌ですよねぇ。",
+            "timestamp": "2022-08-23T19:17:32.502000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "ED",
+            "text": "自分がなるのは避けたいです。ありがとうございました！",
+            "timestamp": "2022-08-23T19:17:49.406000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CE",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "ED",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

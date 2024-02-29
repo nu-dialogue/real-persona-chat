@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 8868,
+    "interlocutors": [
+        "BA",
+        "DM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "BA",
+            "text": "こんばんは",
+            "timestamp": "2022-08-06T19:16:50.314000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DM",
+            "text": "こんばんは",
+            "timestamp": "2022-08-06T19:16:55.470000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "BA",
+            "text": "今日何しました？",
+            "timestamp": "2022-08-06T19:21:45.363000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DM",
+            "text": "今日は学校の課題をしていました．",
+            "timestamp": "2022-08-06T19:21:58.976000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "BA",
+            "text": "どんな課題ですか？",
+            "timestamp": "2022-08-06T19:22:09.215000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DM",
+            "text": "数学ですかね．",
+            "timestamp": "2022-08-06T19:22:21.505000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "BA",
+            "text": "すごい、理数系の大学生ですか？",
+            "timestamp": "2022-08-06T19:22:30.637000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DM",
+            "text": "理系の大学院生です．",
+            "timestamp": "2022-08-06T19:22:41.818000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "BA",
+            "text": "すごい！研究とかですか？",
+            "timestamp": "2022-08-06T19:23:00.630000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DM",
+            "text": "研究頑張ってますよ！",
+            "timestamp": "2022-08-06T19:23:18.339000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "BA",
+            "text": "何の研究？",
+            "timestamp": "2022-08-06T19:23:24.770000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DM",
+            "text": "医療系の研究ですね，医学部ではないですけど笑",
+            "timestamp": "2022-08-06T19:23:40.794000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "BA",
+            "text": "すごいー！新薬とか？",
+            "timestamp": "2022-08-06T19:23:52.787000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DM",
+            "text": "診断を補助するような研究です！",
+            "timestamp": "2022-08-06T19:24:13.524000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "BA",
+            "text": "すごい！昔から算数得意ですか？",
+            "timestamp": "2022-08-06T19:24:26.390000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DM",
+            "text": "いっぱい勉強してましたよ！",
+            "timestamp": "2022-08-06T19:24:46.546000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "BA",
+            "text": "すごい！小4の息子が算数苦手で！なにかアドバイスは？",
+            "timestamp": "2022-08-06T19:25:18.615000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DM",
+            "text": "親に褒めて欲しいみたいなのが大きかったんですけどね笑",
+            "timestamp": "2022-08-06T19:25:25.208000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "BA",
+            "text": "お母さんがほめ上手！？",
+            "timestamp": "2022-08-06T19:25:37.789000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DM",
+            "text": "かもしれないです笑　算数だったらとにかく手を動かすだけだと思います！！",
+            "timestamp": "2022-08-06T19:26:20.438000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "BA",
+            "text": "もう簡単な問題もわからなくて、私もいらいら",
+            "timestamp": "2022-08-06T19:26:39.402000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DM",
+            "text": "教えるのって難しいですよね．　わかります．",
+            "timestamp": "2022-08-06T19:26:54.039000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "BA",
+            "text": "そしてイライラ伝わり子供も算数避けるように",
+            "timestamp": "2022-08-06T19:27:08.825000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DM",
+            "text": "お母さん頑張ってください！　具体例があるとわかりやすいかもですね",
+            "timestamp": "2022-08-06T19:27:30.093000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "BA",
+            "text": "でも算数ってホント得意な人は得意ですよね",
+            "timestamp": "2022-08-06T19:28:26.926000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DM",
+            "text": "遺伝だったりするんですかね",
+            "timestamp": "2022-08-06T19:28:38.212000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "BA",
+            "text": "なんなんでしょうね！",
+            "timestamp": "2022-08-06T19:28:49.756000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DM",
+            "text": "<BA>さんは得意でした？",
+            "timestamp": "2022-08-06T19:28:59.313000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "BA",
+            "text": "不得意です",
+            "timestamp": "2022-08-06T19:29:11.718000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DM",
+            "text": "そうなんですね笑　優しく教えてあげてくださいね．",
+            "timestamp": "2022-08-06T19:29:26.895000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "BA",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

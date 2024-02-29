@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6365,
+    "interlocutors": [
+        "HC",
+        "GG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "HC",
+            "text": "こんばんは",
+            "timestamp": "2022-10-04T21:31:52.209000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GG",
+            "text": "こんばんは。",
+            "timestamp": "2022-10-04T21:32:14.041000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "HC",
+            "text": "ご趣味を教えてください",
+            "timestamp": "2022-10-04T21:32:16.011000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GG",
+            "text": "趣味は旅行です。",
+            "timestamp": "2022-10-04T21:32:34.320000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "HC",
+            "text": "いいですね　今年はいかれました？",
+            "timestamp": "2022-10-04T21:32:50.163000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GG",
+            "text": "熊本に行きました！",
+            "timestamp": "2022-10-04T21:33:01.050000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "HC",
+            "text": "熊本いいなぁ　熊本城とかいかれたんですか？",
+            "timestamp": "2022-10-04T21:33:35.582000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GG",
+            "text": "はい、行きました！",
+            "timestamp": "2022-10-04T21:33:42.298000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "HC",
+            "text": "復旧作業は終わっていました？",
+            "timestamp": "2022-10-04T21:34:00.430000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GG",
+            "text": "だいぶ終わってましたが、まだ一部被災の跡を感じました。",
+            "timestamp": "2022-10-04T21:34:24.880000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "HC",
+            "text": "すごい地震でしたからね",
+            "timestamp": "2022-10-04T21:34:50.449000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GG",
+            "text": "大変だったと現地の人も言ってました。",
+            "timestamp": "2022-10-04T21:35:01.786000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "HC",
+            "text": "そうでしょうね　でもよく戻りましたよね",
+            "timestamp": "2022-10-04T21:35:19.980000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GG",
+            "text": "あなたは旅行とかしますか？",
+            "timestamp": "2022-10-04T21:35:32.388000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "HC",
+            "text": "ここ最近はいけてませんが、昔はいっていましたね",
+            "timestamp": "2022-10-04T21:35:57.506000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GG",
+            "text": "昔はどこ行きましたか？",
+            "timestamp": "2022-10-04T21:36:07.894000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "HC",
+            "text": "よく行っていたのは神戸ですね",
+            "timestamp": "2022-10-04T21:36:41.041000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GG",
+            "text": "神戸は何があるのですか？",
+            "timestamp": "2022-10-04T21:36:56.121000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "HC",
+            "text": "神戸の中華街に親戚がいるのでそのついでに行ってました",
+            "timestamp": "2022-10-04T21:37:30.243000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GG",
+            "text": "美味しかったですか？",
+            "timestamp": "2022-10-04T21:37:50.185000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "HC",
+            "text": "しょっちゅう食べてたので、でもやっぱりおいしいなと思ってましたよ",
+            "timestamp": "2022-10-04T21:38:15.009000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GG",
+            "text": "いくらくらいするのですか？",
+            "timestamp": "2022-10-04T21:38:25.134000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "HC",
+            "text": "ぴんからきりですね　安ければ100円から高ければ１万超えちゃいます",
+            "timestamp": "2022-10-04T21:38:52.019000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GG",
+            "text": "大衆的なお店もあるのですね！",
+            "timestamp": "2022-10-04T21:39:06.648000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "HC",
+            "text": "ありますよ　露店みたいなところもたくさんありますよ",
+            "timestamp": "2022-10-04T21:39:28.259000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GG",
+            "text": "神戸はとてもおしゃれな街のイメージです。",
+            "timestamp": "2022-10-04T21:39:53.817000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "HC",
+            "text": "南京町はあまりそのイメージはないですが風情はあります",
+            "timestamp": "2022-10-04T21:40:18.128000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GG",
+            "text": "他にオススメの旅行先はありますか？",
+            "timestamp": "2022-10-04T21:40:32.240000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "HC",
+            "text": "そうですね　姫路城とかとてもよいかもです　一度行ってみてほしいです",
+            "timestamp": "2022-10-04T21:41:00.112000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GG",
+            "text": "行ったことないので行ってみたいです！",
+            "timestamp": "2022-10-04T21:41:20.702000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "HC",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 3
+        },
+        {
+            "interlocutor_id": "GG",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

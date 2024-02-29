@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10993,
+    "interlocutors": [
+        "CV",
+        "CL"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CV",
+            "text": "こんにちは！よろしくお願いいたします。",
+            "timestamp": "2022-08-18T14:19:10.557000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CL",
+            "text": "こちらこそ、よろしくお願いいたします",
+            "timestamp": "2022-08-18T14:19:18.948000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CV",
+            "text": "旅行はお好きですか？",
+            "timestamp": "2022-08-18T14:19:37.244000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CL",
+            "text": "はい、大好きです！",
+            "timestamp": "2022-08-18T14:19:57.591000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CV",
+            "text": "どこかおすすめの旅行先あったら教えてください！",
+            "timestamp": "2022-08-18T14:20:16.717000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CL",
+            "text": "ハワイですかね。べたですが",
+            "timestamp": "2022-08-18T14:20:49.125000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CV",
+            "text": "あー。ベタでも、みんなハワイいいって言うから、きっといいんでしょうね！",
+            "timestamp": "2022-08-18T14:21:12.416000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CL",
+            "text": "だと思います。でも最近知ったんですが物価上がってるそうです",
+            "timestamp": "2022-08-18T14:21:29.468000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CV",
+            "text": "えー。もともと、ハワイは高そうなイメージあるのに、さらにですか",
+            "timestamp": "2022-08-18T14:21:57.614000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CL",
+            "text": "はい、朝ごはんでも１０００円で食べれるかなって",
+            "timestamp": "2022-08-18T14:22:16.906000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CV",
+            "text": "うわ！それはキツイですね。。旅行先で美味しいもの食べるのも楽しみなのに、、",
+            "timestamp": "2022-08-18T14:22:43.451000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CL",
+            "text": "最近見た動画がそんな感じでした",
+            "timestamp": "2022-08-18T14:23:02.320000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CV",
+            "text": "私は実は飛行機がちょっと苦手で、海外は２回くらいしか行ったことがないです",
+            "timestamp": "2022-08-18T14:23:36.531000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CL",
+            "text": "そうでしたか。飛行機の飛行する感じ私も慣れません",
+            "timestamp": "2022-08-18T14:24:04.681000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CV",
+            "text": "離着陸時は、本当に緊張してしまいます、、",
+            "timestamp": "2022-08-18T14:24:25.044000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CL",
+            "text": "ですよね。たまに落ちないかなって変なこと考えます",
+            "timestamp": "2022-08-18T14:24:41.550000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CV",
+            "text": "わかります、、！　国内ではおすすめありますか？",
+            "timestamp": "2022-08-18T14:24:59.796000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CL",
+            "text": "沖縄はどうですか？海がきれいです",
+            "timestamp": "2022-08-18T14:25:11.588000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CV",
+            "text": "沖縄いいですね！一度だけですが、行ったことあります！",
+            "timestamp": "2022-08-18T14:25:27.309000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CL",
+            "text": "あるんですね。世界の中でも沖縄の海はきれいだそうです。",
+            "timestamp": "2022-08-18T14:25:58.786000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CV",
+            "text": "海に潜りはしなかったのですが、石垣島で船底が透明な船にのりました。きれいでした！",
+            "timestamp": "2022-08-18T14:26:50.416000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CL",
+            "text": "私も乗りました！",
+            "timestamp": "2022-08-18T14:26:59.950000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CV",
+            "text": "きれいでしたよね！クマノミとかチラチラみえたりして",
+            "timestamp": "2022-08-18T14:27:24.549000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CL",
+            "text": "はい、またいきたいです。次は宮古島とか",
+            "timestamp": "2022-08-18T14:28:01.261000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CV",
+            "text": "私も宮古島はいかなかったので、行ってみたいですー！",
+            "timestamp": "2022-08-18T14:28:19.359000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CL",
+            "text": "予定はないですか？",
+            "timestamp": "2022-08-18T14:28:28.526000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CV",
+            "text": "今の所予定ないですね、、。無理に予定を立てればいいのですが",
+            "timestamp": "2022-08-18T14:28:56.359000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CL",
+            "text": "なるほど。コロナのこともあるし気兼ねなくいきたいです",
+            "timestamp": "2022-08-18T14:29:28.920000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CV",
+            "text": "そうですよね。まだちょっと、気が引けてしまう感じがありますね。",
+            "timestamp": "2022-08-18T14:29:53.436000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CL",
+            "text": "早くいけるようになりたいですね",
+            "timestamp": "2022-08-18T14:30:10.790000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CL",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 5,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

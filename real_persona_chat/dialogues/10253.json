@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 10253,
+    "interlocutors": [
+        "EA",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EA",
+            "text": "こんにちは。",
+            "timestamp": "2022-08-12T01:40:55.185000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-12T01:41:03.218000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EA",
+            "text": "すきなスポーツってありますか？",
+            "timestamp": "2022-08-12T01:41:17.785000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "陸上が好きです！学生時代は陸上部でした。",
+            "timestamp": "2022-08-12T01:41:31.251000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EA",
+            "text": "陸上ですか。長距離とかですか？",
+            "timestamp": "2022-08-12T01:41:51.004000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "いや、ガッツリ短距離でした。",
+            "timestamp": "2022-08-12T01:42:02.197000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EA",
+            "text": "短距離だったんですね。５０ｍとかを走るんですか？",
+            "timestamp": "2022-08-12T01:42:27.042000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "50mは学校の体力テストです！私は混成競技というのをしてました。知ってますか？",
+            "timestamp": "2022-08-12T01:42:54.856000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EA",
+            "text": "混成競技はしらないですね。どういったものなんですか？",
+            "timestamp": "2022-08-12T01:43:21.083000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "複数の競技をプレイして、それぞれの結果を点数化して、その合計点で競うという競技です。",
+            "timestamp": "2022-08-12T01:43:46.639000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EA",
+            "text": "合計得点ですか、タイムなどが点数化されるんですか？",
+            "timestamp": "2022-08-12T01:44:21.618000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "そうです。〇秒だったら、〇点というのが決まってるんですよね。",
+            "timestamp": "2022-08-12T01:44:46.932000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EA",
+            "text": "〇秒から〇秒までが何点みたいな感じですか？",
+            "timestamp": "2022-08-12T01:45:31.342000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "そんな感じなんですが、かなり細かく決まってた覚えがあります。",
+            "timestamp": "2022-08-12T01:46:10.808000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EA",
+            "text": "なるほど。細かい時間で変わってくるとなると1種1種に気合が入りそうです。",
+            "timestamp": "2022-08-12T01:47:08.916000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "7種目で競ってたんですが、1つ失敗するとかなり影響するので、ずっと緊張してましたね。",
+            "timestamp": "2022-08-12T01:47:43.159000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EA",
+            "text": "7種もあるんですね。走る以外にもあったりしますか？細かく聞いちゃってすみません。",
+            "timestamp": "2022-08-12T01:48:25.017000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "いえいえ！走るのが３つ、跳ぶのが２つ、投げるのが２つです。当ててみてください！",
+            "timestamp": "2022-08-12T01:48:54.542000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EA",
+            "text": "走るのは距離が変わるんですかね？飛ぶのはハードルくらいしか思い浮かびません。",
+            "timestamp": "2022-08-12T01:49:45.520000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "あ、ハードルは走る方に分類してました！",
+            "timestamp": "2022-08-12T01:50:05"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EA",
+            "text": "そうなんですか？だったら幅跳びとかですかね？投げるのは円盤となんだろう。",
+            "timestamp": "2022-08-12T01:50:38.087000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "幅跳びあってます！あとは跳ぶのは高跳びです。円盤はないんですよね。",
+            "timestamp": "2022-08-12T01:51:08.141000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EA",
+            "text": "高跳びでしたか。円盤じゃなければ、砲丸投げとかもありましたっけ？",
+            "timestamp": "2022-08-12T01:51:45.665000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "砲丸投げ当たりです！あと投げるのは槍投げです。",
+            "timestamp": "2022-08-12T01:52:10.001000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EA",
+            "text": "なるほど。槍投げも聞いたことあるかもです。どれくらい飛ぶものなんですか？",
+            "timestamp": "2022-08-12T01:52:40.028000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "すごい人は50m以上投げますね。私は20mくらいしかできなかったですが。",
+            "timestamp": "2022-08-12T01:53:10.294000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EA",
+            "text": "すごい飛びますね。ハンドボールよりも重いですよね？",
+            "timestamp": "2022-08-12T01:54:01.214000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "重いのもそうですが、それより長いので、比べにくい気もします。",
+            "timestamp": "2022-08-12T01:54:28.001000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EA",
+            "text": "確かに。槍なんて一般人は投げませんもんね。",
+            "timestamp": "2022-08-12T01:54:57.405000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "そうなんですよね。",
+            "timestamp": "2022-08-12T01:55:09.101000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EA",
+            "informativeness": 5,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 3,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 4
+        }
+    ]
+}

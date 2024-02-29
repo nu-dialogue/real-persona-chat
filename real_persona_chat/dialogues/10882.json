@@ -1,0 +1,215 @@
+{
+    "dialogue_id": 10882,
+    "interlocutors": [
+        "DQ",
+        "BM"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DQ",
+            "text": "おはようございます、宜しくお願いします。",
+            "timestamp": "2022-08-19T09:17:31.518000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BM",
+            "text": "おはようございます。よろしくお願いいたします。",
+            "timestamp": "2022-08-19T09:17:44.531000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DQ",
+            "text": "お盆過ぎたからでしょうか、今朝は少し涼しくなりましたが、そちらはどうですか？",
+            "timestamp": "2022-08-19T09:17:57.582000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BM",
+            "text": "そういえば、私の方も暑苦しさがだいぶなくなってる気がします。",
+            "timestamp": "2022-08-19T09:18:23.493000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DQ",
+            "text": "毎朝5時に犬の散歩をしているのですが、すごく涼しかったです。",
+            "timestamp": "2022-08-19T09:18:39.451000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BM",
+            "text": "朝早いのですね！５時はもうそろそろ薄暗い時期でしょうか？",
+            "timestamp": "2022-08-19T09:19:35.407000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DQ",
+            "text": "まだそれほど感じませんが、だんだん日が短くなってき始めるころですね！",
+            "timestamp": "2022-08-19T09:20:09.472000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BM",
+            "text": "朝起きても暗いと、季節を感じますね。",
+            "timestamp": "2022-08-19T09:20:30.775000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DQ",
+            "text": "3月までタイに住んでいたのですが、1年中夏なので、やはり日本は四季があっていいですね。",
+            "timestamp": "2022-08-19T09:21:00.729000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BM",
+            "text": "なんと！タイですか！海外に住んでみたいのでちょっと羨ましいです。どのくらいいたのですか？",
+            "timestamp": "2022-08-19T09:21:36.191000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DQ",
+            "text": "タイは、1年半ほどです。コロナであまり観光とかできなかったですが。",
+            "timestamp": "2022-08-19T09:22:02.106000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BM",
+            "text": "コロナになってからなのですね。向こうでもコロナはかなり広がってましたか？",
+            "timestamp": "2022-08-19T09:22:33.206000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DQ",
+            "text": "始め渡航規制があって、かなり出国が遅れたのですが、向こうでは感染者が増えてロックダウンでした。",
+            "timestamp": "2022-08-19T09:23:21.832000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BM",
+            "text": "あらら、海外のロックダウンは日本の行動制限よりかなり厳しいイメージあります。",
+            "timestamp": "2022-08-19T09:23:58.767000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DQ",
+            "text": "特にタイは軍が強い国なので、問答無用みたいな感じでした。",
+            "timestamp": "2022-08-19T09:24:18.867000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BM",
+            "text": "買い物も制限されていたのですか？",
+            "timestamp": "2022-08-19T09:24:36.462000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DQ",
+            "text": "買い物は大丈夫だったのですが、レストランは一時期閉まって、持ち帰りのみでした。",
+            "timestamp": "2022-08-19T09:24:56.963000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BM",
+            "text": "確かに食事処は危険ですものね。持ち帰りでも、現地の食べれるのはいいですね。",
+            "timestamp": "2022-08-19T09:25:39.556000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DQ",
+            "text": "折角ですから、現地のものも食べたいですしね。",
+            "timestamp": "2022-08-19T09:26:02.530000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BM",
+            "text": "現地の食べ物で、特に美味しかったものなどありましたか？",
+            "timestamp": "2022-08-19T09:26:29.984000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DQ",
+            "text": "パッタイとか、麺とか、結局庶民のものが美味しかったような気がします。",
+            "timestamp": "2022-08-19T09:27:08.251000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BM",
+            "text": "タイの料理って辛そうなイメージあるんですが、辛いもの多かったですかね？",
+            "timestamp": "2022-08-19T09:27:36.854000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DQ",
+            "text": "すごく多かったです！子供たちははじめ食べられなくて。",
+            "timestamp": "2022-08-19T09:27:55.864000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BM",
+            "text": "そんなに辛いのですね！辛いのは得意ではないので、私も食べるのは躊躇しそうです。",
+            "timestamp": "2022-08-19T09:28:40.710000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DQ",
+            "text": "不思議なもので、最後の方はおいしいと言って食べていました。<BM>さんはどこか行きたい国はありますか？",
+            "timestamp": "2022-08-19T09:29:10.246000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BM",
+            "text": "インドネシアでいろいろな島を巡ってみたいです。",
+            "timestamp": "2022-08-19T09:29:35.001000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DQ",
+            "text": "たくさん離島がある国でしたっけ？？",
+            "timestamp": "2022-08-19T09:29:59.499000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BM",
+            "text": "そうです。有名なところだと、ボルネオ島とかスマトラ島ですかね。",
+            "timestamp": "2022-08-19T09:30:24.939000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DQ",
+            "text": "海がきれいなところですね！",
+            "timestamp": "2022-08-19T09:30:53.793000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BM",
+            "text": "そうです！色々タイについて教えていただきありがとうございました！",
+            "timestamp": "2022-08-19T09:31:28.416000"
+        },
+        {
+            "utterance_id": 30,
+            "interlocutor_id": "DQ",
+            "text": "こちらこそ、色々ききいていただいてありがとうございました！",
+            "timestamp": "2022-08-19T09:31:44.655000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

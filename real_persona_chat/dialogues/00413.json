@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 413,
+    "interlocutors": [
+        "AC",
+        "AG"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AC",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-08T23:41:07.012000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AG",
+            "text": "こんばんはー。お邪魔しますー。",
+            "timestamp": "2022-08-08T23:41:18.802000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AC",
+            "text": "どうですか、最近はアベノミクスも過ぎ去りましたが、財テクしてますか？",
+            "timestamp": "2022-08-08T23:41:36.001000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AG",
+            "text": "財テク、全然できてないです。そちらは何かされてますか？",
+            "timestamp": "2022-08-08T23:42:00.621000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AC",
+            "text": "一応、イデコは始めました。",
+            "timestamp": "2022-08-08T23:42:15.691000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AG",
+            "text": "えらいですね！やっぱり将来のこと考えたら、始めておいた方が良いですよね。",
+            "timestamp": "2022-08-08T23:42:43.477000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AC",
+            "text": "そう思って始めたものの、正直、不安が増えましたよ。",
+            "timestamp": "2022-08-08T23:42:55.967000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AG",
+            "text": "ええ？そうなんですか？それは何故でしょう？",
+            "timestamp": "2022-08-08T23:43:10.935000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AC",
+            "text": "今までは貯金メインだったのが、元本保証なしのハイリスク投資ですから！",
+            "timestamp": "2022-08-08T23:43:31.595000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AG",
+            "text": "確かに、リスクは伴いますよね。でも、そんなにハイリスクなんですか？",
+            "timestamp": "2022-08-08T23:44:01.684000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AC",
+            "text": "商品としては普通の金融商品なので、ハイリスクですね。",
+            "timestamp": "2022-08-08T23:44:18.164000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AG",
+            "text": "そうなんですね。ハイリスクだと、元の資産、半分に減ったりとかもあるんでしょうか？",
+            "timestamp": "2022-08-08T23:45:01.448000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AC",
+            "text": "はい！あり得ます。利益が出ているうちに利確しないといけなかったり。",
+            "timestamp": "2022-08-08T23:45:18.149000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AG",
+            "text": "そんなにリスクあるんですかー！？それは、日々チェックしておかないとですね。",
+            "timestamp": "2022-08-08T23:45:41.149000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AC",
+            "text": "そう、そこなんですよ！頭の片隅に日々、イデコが引っかかってる感じ。",
+            "timestamp": "2022-08-08T23:46:00.296000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AG",
+            "text": "うわぁ、それは大変だ。気苦労が多くなりますね。",
+            "timestamp": "2022-08-08T23:46:23.120000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AC",
+            "text": "そうなんです。しかも、イデコって、始めてしまうと、辞めることができないという。",
+            "timestamp": "2022-08-08T23:46:50.691000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AG",
+            "text": "え？辞めることできないんですか？全て引き出すとかはダメなんでしょうか？",
+            "timestamp": "2022-08-08T23:47:21.740000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AC",
+            "text": "ダメなんですー！年金もらう年まで引き出せない！",
+            "timestamp": "2022-08-08T23:47:40.225000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AG",
+            "text": "ああ！そういう仕組みなんですね！って、恐ろしいですね。",
+            "timestamp": "2022-08-08T23:48:00.570000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AC",
+            "text": "そうなんですよね、なんか政府に嵌められた感がいっぱい。",
+            "timestamp": "2022-08-08T23:48:18.172000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AG",
+            "text": "本当ですね。政府、個人の投資政策方針ですもんね。もっとリスクについて説明してほしいです。",
+            "timestamp": "2022-08-08T23:48:54.355000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AC",
+            "text": "ねー！あなたは投資は？",
+            "timestamp": "2022-08-08T23:49:08.369000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AG",
+            "text": "全くです。ポイント投資で慣らしてますが、センスのなさにがっかりしています。",
+            "timestamp": "2022-08-08T23:49:40.071000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AC",
+            "text": "あ、楽天ポイントとかありますね！",
+            "timestamp": "2022-08-08T23:49:49.280000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AG",
+            "text": "はい。色んなポイントのがあるので、挑戦してるんですが、今は下がるばかりで。",
+            "timestamp": "2022-08-08T23:50:13.678000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AC",
+            "text": "下がるときが買い時です！",
+            "timestamp": "2022-08-08T23:50:27.297000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AG",
+            "text": "そうなんですよね！それで、買ってみているのですが、まだ下がり続けるという。。早く上がってほしいです。",
+            "timestamp": "2022-08-08T23:50:58.127000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AC",
+            "text": "そうですねー。早く好景気、来い来い！",
+            "timestamp": "2022-08-08T23:51:19.900000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AG",
+            "text": "こいこい！私もそれを願っています！",
+            "timestamp": "2022-08-08T23:51:36.321000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AC",
+            "informativeness": 5,
+            "comprehension": 3,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AG",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

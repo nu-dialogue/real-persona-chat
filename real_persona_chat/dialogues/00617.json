@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 617,
+    "interlocutors": [
+        "AQ",
+        "BT"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AQ",
+            "text": "こんばんは。",
+            "timestamp": "2022-08-09T21:10:19.098000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BT",
+            "text": "こんばんはー。",
+            "timestamp": "2022-08-09T21:10:27.058000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AQ",
+            "text": "最近どこか外食行きましたか？",
+            "timestamp": "2022-08-09T21:10:34.145000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BT",
+            "text": "ご近所のカレー屋さんに行きました。",
+            "timestamp": "2022-08-09T21:10:47.052000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AQ",
+            "text": "カレーいいですね！",
+            "timestamp": "2022-08-09T21:10:51.948000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BT",
+            "text": "はい。そこは欧風カレーなので、気に入ってます。",
+            "timestamp": "2022-08-09T21:11:05.880000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AQ",
+            "text": "おう！好きですね。私も。",
+            "timestamp": "2022-08-09T21:11:13.758000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BT",
+            "text": "カレー、けっこう食べますか？",
+            "timestamp": "2022-08-09T21:11:26.882000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AQ",
+            "text": "昨日トマトカレー食べました。",
+            "timestamp": "2022-08-09T21:11:34.105000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BT",
+            "text": "おぉ。ご自宅で作ったのですか？",
+            "timestamp": "2022-08-09T21:11:46.129000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。トマトが大量にあるので。",
+            "timestamp": "2022-08-09T21:11:51.790000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BT",
+            "text": "大量消費レシピ。いいですね！",
+            "timestamp": "2022-08-09T21:12:01.769000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AQ",
+            "text": "両親が農家してるのでＢ級品をもってくるんですよ。",
+            "timestamp": "2022-08-09T21:12:12.689000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BT",
+            "text": "なるほど。主にどんなものを作っているんですか？",
+            "timestamp": "2022-08-09T21:12:30.810000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AQ",
+            "text": "野菜全般です。なんでもありますよ。",
+            "timestamp": "2022-08-09T21:12:39.979000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BT",
+            "text": "へえ。じゃあ野菜は買わないんですか？",
+            "timestamp": "2022-08-09T21:12:51.494000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AQ",
+            "text": "夏は買わないですね。冬は野菜ができないので。",
+            "timestamp": "2022-08-09T21:13:05.607000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BT",
+            "text": "ふむふむ。冬は畑はお休みなんですか？",
+            "timestamp": "2022-08-09T21:13:20.062000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AQ",
+            "text": "雪が降りますので育ちませんね。",
+            "timestamp": "2022-08-09T21:13:31.121000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BT",
+            "text": "なるほど。私、農家のことがわからないので、変な質問だったらごめんなさい。",
+            "timestamp": "2022-08-09T21:13:50.378000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AQ",
+            "text": "全然大丈夫ですよ！私も分からないので",
+            "timestamp": "2022-08-09T21:14:00.935000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BT",
+            "text": "あはは。今年はトマトが大量なんですね。",
+            "timestamp": "2022-08-09T21:14:26.877000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AQ",
+            "text": "そうですね。Ｂ級品が多かったみたいです。",
+            "timestamp": "2022-08-09T21:14:40.360000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BT",
+            "text": "なるほど。お好きな野菜ってありますか？",
+            "timestamp": "2022-08-09T21:14:58.571000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AQ",
+            "text": "好きな野菜なんだろう？",
+            "timestamp": "2022-08-09T21:15:04.536000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BT",
+            "text": "苦手なものでもいいですよ。",
+            "timestamp": "2022-08-09T21:15:24.852000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AQ",
+            "text": "肉のほうが好きですね。",
+            "timestamp": "2022-08-09T21:15:30.829000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BT",
+            "text": "なるほど。じゃあ、納得です。あはは。",
+            "timestamp": "2022-08-09T21:15:41.848000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AQ",
+            "text": "農家の娘なのにって感じですね。ではまた！",
+            "timestamp": "2022-08-09T21:15:51.263000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BT",
+            "text": "はーい！またです！",
+            "timestamp": "2022-08-09T21:16:01.295000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AQ",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "BT",
+            "informativeness": 2,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 2,
+            "proactiveness": 2,
+            "satisfaction": 4
+        }
+    ]
+}

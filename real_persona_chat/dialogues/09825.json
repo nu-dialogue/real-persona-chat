@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 9825,
+    "interlocutors": [
+        "DG",
+        "CO"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DG",
+            "text": "こんばんはー！",
+            "timestamp": "2022-08-09T22:05:47.623000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CO",
+            "text": "こんばんは！",
+            "timestamp": "2022-08-09T22:05:55.477000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DG",
+            "text": "ご兄弟っていらっしゃいますか？",
+            "timestamp": "2022-08-09T22:06:04.632000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CO",
+            "text": "弟がいます",
+            "timestamp": "2022-08-09T22:06:11.690000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DG",
+            "text": "そうなのですね。うちは一人っ子なのですが最近妙に羨ましくて",
+            "timestamp": "2022-08-09T22:06:29.864000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CO",
+            "text": "最近ですか？なぜですか？",
+            "timestamp": "2022-08-09T22:06:42.928000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DG",
+            "text": "親が終活ノートをはじめまして、なんか孤独感です！",
+            "timestamp": "2022-08-09T22:07:01.664000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CO",
+            "text": "ああ、親が年取ると兄弟いたらいいかもしれませんね。",
+            "timestamp": "2022-08-09T22:07:29.765000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DG",
+            "text": "そうなんですよね、周りにあまり一人っ子がいないものですから",
+            "timestamp": "2022-08-09T22:07:49.389000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CO",
+            "text": "ご両親は高齢ですか？",
+            "timestamp": "2022-08-09T22:08:02.594000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DG",
+            "text": "うちは母だけですが、もうすぐ70です",
+            "timestamp": "2022-08-09T22:08:16.270000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CO",
+            "text": "なるほど。住まいはお近くですか？",
+            "timestamp": "2022-08-09T22:08:34.029000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DG",
+            "text": "今はワケあって実家に住んでます。近くにいると安心します",
+            "timestamp": "2022-08-09T22:09:00.839000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CO",
+            "text": "そうですね。私は離れてるので心配な時あります",
+            "timestamp": "2022-08-09T22:09:17.250000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DG",
+            "text": "結構ご実家までかかるんですかー？",
+            "timestamp": "2022-08-09T22:09:28.674000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CO",
+            "text": "車で４時間ぐらいです",
+            "timestamp": "2022-08-09T22:09:45.653000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DG",
+            "text": "それはなかなか遠いですね！お盆は帰省ですか？",
+            "timestamp": "2022-08-09T22:10:04.124000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CO",
+            "text": "いえ、帰ってくるなと言われてます",
+            "timestamp": "2022-08-09T22:10:14.390000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DG",
+            "text": "コロナですかね？",
+            "timestamp": "2022-08-09T22:10:24.423000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CO",
+            "text": "はい、実家は田舎でまだ都会より感染者少なくて",
+            "timestamp": "2022-08-09T22:10:41.870000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DG",
+            "text": "そういう話を最近よく聞きます。ちょっと寂しいですよね",
+            "timestamp": "2022-08-09T22:10:56.865000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CO",
+            "text": "そうですね。今はテレビ電話だけですね",
+            "timestamp": "2022-08-09T22:11:14.288000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DG",
+            "text": "なるほど、実家が近い身としては帰省って響きに憧れます",
+            "timestamp": "2022-08-09T22:11:37.878000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CO",
+            "text": "そうですか？いざというときは困るのかなって思ってます",
+            "timestamp": "2022-08-09T22:11:57.088000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DG",
+            "text": "そうですね、最近また考え方も変わりましたが。久々に会う方が色々話せそうで",
+            "timestamp": "2022-08-09T22:12:28.985000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CO",
+            "text": "確かに。今年の秋は帰ろうと思ってます",
+            "timestamp": "2022-08-09T22:12:47.304000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DG",
+            "text": "いいですね！落ち着いていると良いのですが、周りの目もありますもんね",
+            "timestamp": "2022-08-09T22:13:08.916000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CO",
+            "text": "こそこそ帰らないといけないですね",
+            "timestamp": "2022-08-09T22:13:26.435000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DG",
+            "text": "でも秋は帰れますように！",
+            "timestamp": "2022-08-09T22:13:37.501000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CO",
+            "text": "はい、第８波が来るまでかえります！",
+            "timestamp": "2022-08-09T22:14:34.090000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DG",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 3,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        },
+        {
+            "interlocutor_id": "CO",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 5
+        }
+    ]
+}

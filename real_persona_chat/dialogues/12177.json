@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 12177,
+    "interlocutors": [
+        "FM",
+        "CR"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FM",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T15:06:34.602000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "CR",
+            "text": "こんにちは",
+            "timestamp": "2022-09-05T15:06:39.046000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FM",
+            "text": "どこかお勧めの旅行先とか知りませんかね？",
+            "timestamp": "2022-09-05T15:07:21.910000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "CR",
+            "text": "国内と海外どちらが好みですか",
+            "timestamp": "2022-09-05T15:07:39.603000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FM",
+            "text": "国内ですね海外は値段が",
+            "timestamp": "2022-09-05T15:07:50.601000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "CR",
+            "text": "では、十和田湖とか鹿児島県もよかったですよ",
+            "timestamp": "2022-09-05T15:08:10.905000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FM",
+            "text": "鹿児島県ですか確かに友人もいるので気になります",
+            "timestamp": "2022-09-05T15:08:42.229000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "CR",
+            "text": "海、山、温泉と豊富でした",
+            "timestamp": "2022-09-05T15:09:02.318000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FM",
+            "text": "確かにそれは素晴らしい",
+            "timestamp": "2022-09-05T15:09:19.393000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "CR",
+            "text": "車で動いた方が良いとは思います",
+            "timestamp": "2022-09-05T15:09:33.488000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FM",
+            "text": "車ですか免許を一つも持ってないもので",
+            "timestamp": "2022-09-05T15:09:46.146000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "CR",
+            "text": "では、バスの旅って感じも面白いかもですね",
+            "timestamp": "2022-09-05T15:10:10.017000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FM",
+            "text": "バスの旅ですか確かにそれならゆったりと行けそうですね",
+            "timestamp": "2022-09-05T15:10:25.756000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "CR",
+            "text": "あとは、都市型ですかね。札幌とか。",
+            "timestamp": "2022-09-05T15:10:52.148000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FM",
+            "text": "札幌ですかなんとなくネギが美味しいイメージあります",
+            "timestamp": "2022-09-05T15:11:08.473000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "CR",
+            "text": "美味しいものありますよ",
+            "timestamp": "2022-09-05T15:11:22.928000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FM",
+            "text": "例えばどういうのですかね",
+            "timestamp": "2022-09-05T15:11:34.922000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "CR",
+            "text": "寿司、かに、ラーメンなどなど",
+            "timestamp": "2022-09-05T15:12:02.223000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FM",
+            "text": "お寿司大好きなんですよね",
+            "timestamp": "2022-09-05T15:12:05.089000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "CR",
+            "text": "ネタは何が好きですか",
+            "timestamp": "2022-09-05T15:12:18.711000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FM",
+            "text": "定番のマグロとかですね",
+            "timestamp": "2022-09-05T15:12:31.863000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "CR",
+            "text": "お刺身も好きですか",
+            "timestamp": "2022-09-05T15:12:43.544000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FM",
+            "text": "大好きです",
+            "timestamp": "2022-09-05T15:12:50.894000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "CR",
+            "text": "なら、札幌や福岡もいいかもしれません",
+            "timestamp": "2022-09-05T15:13:06.214000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FM",
+            "text": "福岡ですか粉物が有名でしたっけ",
+            "timestamp": "2022-09-05T15:13:34.425000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "CR",
+            "text": "粉物は大阪かも。食べ物旅行がいいかもですね",
+            "timestamp": "2022-09-05T15:13:57.502000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FM",
+            "text": "食べ物旅行確かに楽しそうです",
+            "timestamp": "2022-09-05T15:14:10.906000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "CR",
+            "text": "車使わずに楽しめますし",
+            "timestamp": "2022-09-05T15:14:29.214000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FM",
+            "text": "車使わないのはうれしい",
+            "timestamp": "2022-09-05T15:14:42.687000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "CR",
+            "text": "どこかに出かけてみてください",
+            "timestamp": "2022-09-05T15:14:52.383000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FM",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 4,
+            "interest": 5,
+            "proactiveness": 3,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "CR",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

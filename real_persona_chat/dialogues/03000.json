@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 3000,
+    "interlocutors": [
+        "CB",
+        "AZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんにちは",
+            "timestamp": "2022-08-26T08:42:49.964000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "AZ",
+            "text": "こんにちは！",
+            "timestamp": "2022-08-26T08:43:15.573000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "今週末は予定ありますか",
+            "timestamp": "2022-08-26T08:43:26.307000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "AZ",
+            "text": "子供のサッカーの付き添いです。",
+            "timestamp": "2022-08-26T08:43:44.866000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "サッカーですね！夏休み関係なくありますもんね",
+            "timestamp": "2022-08-26T08:43:53.115000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "AZ",
+            "text": "そうなのですよ。炎天下はきついです。",
+            "timestamp": "2022-08-26T08:44:15.650000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "帽子に日焼け止め必須でしょうか、、",
+            "timestamp": "2022-08-26T08:44:21.984000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "AZ",
+            "text": "命の危険を感じます。親が。",
+            "timestamp": "2022-08-26T08:44:37.914000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "今日はこちらは涼しいのですが、そちらはどうですか",
+            "timestamp": "2022-08-26T08:44:53.711000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "AZ",
+            "text": "今日はどんよりですねー。",
+            "timestamp": "2022-08-26T08:45:06.006000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "確かにこちらも曇ってはいます。その分涼しいです",
+            "timestamp": "2022-08-26T08:45:30.574000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "AZ",
+            "text": "そろそろ少しずつ涼しくなっていきますかね。",
+            "timestamp": "2022-08-26T08:45:58.016000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "そうですね。９月はじめも結構暑くなるので油断ならないですが",
+            "timestamp": "2022-08-26T08:46:12.439000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "AZ",
+            "text": "残暑も長いですよね",
+            "timestamp": "2022-08-26T08:46:41.945000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "そうですね。今日は久しぶりにクーラーつけてません",
+            "timestamp": "2022-08-26T08:47:03.095000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "AZ",
+            "text": "そうなのですね！うちはもうずっとつけっぱなしです。",
+            "timestamp": "2022-08-26T08:47:31.179000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "いつも暑くてつけちゃうんですけどね",
+            "timestamp": "2022-08-26T08:47:49.009000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "AZ",
+            "text": "電気代が怖いですが、湿気がすごくて。",
+            "timestamp": "2022-08-26T08:48:19.564000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "そうなんですよ。先月の電気代まだ見てなかった",
+            "timestamp": "2022-08-26T08:48:29.298000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "AZ",
+            "text": "夏はいつもすごいことになってしまいます。",
+            "timestamp": "2022-08-26T08:48:49.183000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "ドライですか？冷房ですか",
+            "timestamp": "2022-08-26T08:48:50.881000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "AZ",
+            "text": "日によってですが、冷房が多いですね。",
+            "timestamp": "2022-08-26T08:49:21.456000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "そうですか。うちも冷房が多いです",
+            "timestamp": "2022-08-26T08:49:37.414000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "AZ",
+            "text": "背に腹はかえられないですね。多少電気代が高くても。",
+            "timestamp": "2022-08-26T08:50:09.073000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "そうですよね。今年は自宅にいる時間も多かったので",
+            "timestamp": "2022-08-26T08:50:23.892000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "AZ",
+            "text": "そうなんです。うちは主人が在宅勤務なので、なおさらです。",
+            "timestamp": "2022-08-26T08:50:56.779000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "子どもたちがずっといるのでなんだかんだつけちゃいます",
+            "timestamp": "2022-08-26T08:51:05.495000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "AZ",
+            "text": "エアコンの掃除もしなきゃなんですけど",
+            "timestamp": "2022-08-26T08:51:33.131000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "業者に頼んでみたいです",
+            "timestamp": "2022-08-26T08:51:38.136000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "AZ",
+            "text": "私も頼んだことないです",
+            "timestamp": "2022-08-26T08:51:51.880000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "AZ",
+            "informativeness": 2,
+            "comprehension": 2,
+            "familiarity": 2,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 2
+        }
+    ]
+}

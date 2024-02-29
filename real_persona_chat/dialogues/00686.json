@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 686,
+    "interlocutors": [
+        "AV",
+        "BX"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "AV",
+            "text": "はじめまして、よろしくお願いします。",
+            "timestamp": "2022-08-11T16:58:23.823000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "BX",
+            "text": "よろしくお願いします！",
+            "timestamp": "2022-08-11T16:58:31.473000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "AV",
+            "text": "今、外は夕立で雨が降り出しました。",
+            "timestamp": "2022-08-11T16:58:57.919000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "BX",
+            "text": "そうでしたか、こちら天気が良かったです。どちらにお住まいですか？",
+            "timestamp": "2022-08-11T16:59:12.966000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "AV",
+            "text": "関西なんですよー。山の中なのでこの季節天候がいつも怪しいです。",
+            "timestamp": "2022-08-11T16:59:38.802000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "BX",
+            "text": "なるほど。天気のかわりが速いと困りますね！",
+            "timestamp": "2022-08-11T16:59:58.370000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "AV",
+            "text": "そうなんです。あなたはどちらにお住まいですか？",
+            "timestamp": "2022-08-11T17:00:13.419000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "BX",
+            "text": "関東です。",
+            "timestamp": "2022-08-11T17:00:24.476000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "AV",
+            "text": "では、今日は猛暑だったんじゃないですか？",
+            "timestamp": "2022-08-11T17:00:44.267000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "BX",
+            "text": "割と暑かったですね！最近毎日暑いのですけども。",
+            "timestamp": "2022-08-11T17:01:02.927000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "AV",
+            "text": "今日の日中は特別暑く感じました。",
+            "timestamp": "2022-08-11T17:01:21.882000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "BX",
+            "text": "湿気とか日差しの都合もあるんですかね？",
+            "timestamp": "2022-08-11T17:01:36.310000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "AV",
+            "text": "そうかもしれません。クーラーつけていたのですが冷えにくくかんじました。",
+            "timestamp": "2022-08-11T17:02:05.818000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "BX",
+            "text": "クーラーはもう中々切れないですね。",
+            "timestamp": "2022-08-11T17:02:18.801000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "AV",
+            "text": "うちは基本２４時間フル稼働です。",
+            "timestamp": "2022-08-11T17:02:34.968000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "BX",
+            "text": "ですよね。たまに空気の入れ替えをするかな？くらいですね。",
+            "timestamp": "2022-08-11T17:02:55.153000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "AV",
+            "text": "うちなんて１日１回朝しか空気の入れ替えしていないです。",
+            "timestamp": "2022-08-11T17:03:18.214000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "BX",
+            "text": "しない日もありますので十分だと思います！",
+            "timestamp": "2022-08-11T17:03:35.202000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "AV",
+            "text": "家族誰かがコロナに感染したら我が家は全滅になるだろうなぁ。",
+            "timestamp": "2022-08-11T17:03:58.776000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "BX",
+            "text": "それは想像すると怖いですね。",
+            "timestamp": "2022-08-11T17:04:06.674000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "AV",
+            "text": "ほんと怖いです。連日の感染者数を見てはビクビクしていますもの。",
+            "timestamp": "2022-08-11T17:04:30.714000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "BX",
+            "text": "自分の周りでは感染者が出てしまっていますか？",
+            "timestamp": "2022-08-11T17:04:45.029000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "AV",
+            "text": "学校でも何度学級閉鎖になったかわからないくらい多いですね。",
+            "timestamp": "2022-08-11T17:05:18.015000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "BX",
+            "text": "そんなにですか！まだ学校に行く年齢ではないから実感がないのかもしれませんが。",
+            "timestamp": "2022-08-11T17:05:45.648000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "AV",
+            "text": "あ、でも保育園や幼稚園も相当数閉鎖になったりしていますよ。",
+            "timestamp": "2022-08-11T17:06:11.958000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "BX",
+            "text": "まだ乳児なので現在は世界が狭いもので回りも平和な感じなんです。",
+            "timestamp": "2022-08-11T17:06:35.019000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "AV",
+            "text": "かわいい盛りですね。家に赤ちゃんいると癒されます。",
+            "timestamp": "2022-08-11T17:06:56.164000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "BX",
+            "text": "はい。できることが増えてきていてとても可愛いです。",
+            "timestamp": "2022-08-11T17:07:07.642000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "AV",
+            "text": "コロナ禍の中、楽しみがあって幸せですね。",
+            "timestamp": "2022-08-11T17:07:41.048000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "BX",
+            "text": "かもしれませんね！",
+            "timestamp": "2022-08-11T17:07:49.129000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "AV",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "BX",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

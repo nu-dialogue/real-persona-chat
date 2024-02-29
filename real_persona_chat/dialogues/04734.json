@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4734,
+    "interlocutors": [
+        "CB",
+        "FZ"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "CB",
+            "text": "こんばんは",
+            "timestamp": "2022-09-13T23:55:06.877000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "FZ",
+            "text": "こんばんはー",
+            "timestamp": "2022-09-13T23:55:12.512000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "CB",
+            "text": "明日の予定は何かありますか？",
+            "timestamp": "2022-09-13T23:55:28.569000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "FZ",
+            "text": "明日は、鍼に行く予定です",
+            "timestamp": "2022-09-13T23:55:45.583000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "CB",
+            "text": "鍼ですか。奇遇ですが、私も先週いきました",
+            "timestamp": "2022-09-13T23:56:13.587000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですねー、どこか悪いわけではないのですが、メンテナンスとして毎月行ってます",
+            "timestamp": "2022-09-13T23:56:34.522000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "CB",
+            "text": "いいですよね。私は蕁麻疹がでて、急性の症状をおさめるためにいきました。",
+            "timestamp": "2022-09-13T23:57:08.815000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "FZ",
+            "text": "そうだったんですね、原因はなにかあったんですか？",
+            "timestamp": "2022-09-13T23:57:34.986000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "CB",
+            "text": "サプリをのんだら副反応で。かゆみがすごかったのですが、鍼治療でよくなりました",
+            "timestamp": "2022-09-13T23:58:05.096000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "FZ",
+            "text": "えー、それは大変でしたね。アレルギーが出ちゃったんですかね",
+            "timestamp": "2022-09-13T23:58:32.477000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "CB",
+            "text": "肝臓の処理が追い付かなかった感じです。",
+            "timestamp": "2022-09-13T23:58:51.864000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、サプリって薬ではないので副反応でるイメージなかったです",
+            "timestamp": "2022-09-13T23:59:21.113000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "CB",
+            "text": "自分がのんだものは、ネットで検索しても同じ反応が出ている人がいました",
+            "timestamp": "2022-09-13T23:59:44.505000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、結構調べてから飲んだ方が良いんですね",
+            "timestamp": "2022-09-14T00:00:10.926000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "CB",
+            "text": "コロナにかかって肝機能が弱っていたところに飲んだので反応が強くでたんじゃないかと鍼の先生に言われました",
+            "timestamp": "2022-09-14T00:00:46.683000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "FZ",
+            "text": "そうだったんですね、それは大変でしたね。治ってよかったです",
+            "timestamp": "2022-09-14T00:01:18.364000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "CB",
+            "text": "そうですね。急性症状だし、皮膚症状だしって思ったのですが、効果てきめんでやっぱり鍼すごいって思いました",
+            "timestamp": "2022-09-14T00:01:50.028000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "FZ",
+            "text": "ほんとですね。そういう場合でも鍼って効くんですねー",
+            "timestamp": "2022-09-14T00:02:09.404000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "CB",
+            "text": "かゆみが鍼をするたびにおさまるのでびっくりしました",
+            "timestamp": "2022-09-14T00:02:40.763000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "FZ",
+            "text": "えー、すごいですね、鍼って場所によっては痛くないですか？",
+            "timestamp": "2022-09-14T00:03:00.689000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "CB",
+            "text": "私がいっているところは、鍼のついたシールをはっていくだけなので、ぜんぜん痛くないです",
+            "timestamp": "2022-09-14T00:03:41.946000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "FZ",
+            "text": "そうなんですね、そういう鍼もあるんですね",
+            "timestamp": "2022-09-14T00:03:57.142000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "CB",
+            "text": "そうですね。以前別のところにも行ったことがありますが、そこは昔ながらの長い鍼でした",
+            "timestamp": "2022-09-14T00:04:25.595000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "FZ",
+            "text": "すごく長い鍼とかありますよね、私はそこまで長いのはやったことないですが",
+            "timestamp": "2022-09-14T00:04:51.760000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "CB",
+            "text": "同じ鍼治療でもいろいろですよね。私もメンテで継続して通いたいです。",
+            "timestamp": "2022-09-14T00:05:26.699000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "FZ",
+            "text": "そうですね、もう毎月行くのが決まりのようになってます",
+            "timestamp": "2022-09-14T00:06:05.700000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "CB",
+            "text": "私がいっているところは２週間以内であれば、半額なので、月２回いければ理想的かもしれません",
+            "timestamp": "2022-09-14T00:06:38.074000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "FZ",
+            "text": "半額！めちゃくちゃお得ですね！",
+            "timestamp": "2022-09-14T00:06:55.251000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "CB",
+            "text": "そうですね。友だちは鍼灸の学校併設のところで結構安く通っているみたいです",
+            "timestamp": "2022-09-14T00:07:32.142000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "FZ",
+            "text": "そういうところもあるんですね、知らなかったです",
+            "timestamp": "2022-09-14T00:07:50.092000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "CB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "FZ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

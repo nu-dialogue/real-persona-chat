@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 5334,
+    "interlocutors": [
+        "GT",
+        "DF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "GT",
+            "text": "こんにちは。",
+            "timestamp": "2022-09-23T09:21:59.848000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "DF",
+            "text": "こんにちは！",
+            "timestamp": "2022-09-23T09:22:20.210000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "GT",
+            "text": "好きな食べ物ありますか？",
+            "timestamp": "2022-09-23T09:22:24.336000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "DF",
+            "text": "最近職場の近くにきてるキッチンカーのチキンオーバーライスが好きです。",
+            "timestamp": "2022-09-23T09:23:04.497000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "GT",
+            "text": "おしゃれなものがくるんですね、うらやましい",
+            "timestamp": "2022-09-23T09:23:16.945000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "DF",
+            "text": "手作り感があって、すごくおいしんですよ。月曜だけなので、毎週の楽しみです。",
+            "timestamp": "2022-09-23T09:23:50.429000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "GT",
+            "text": "そういうのあるといいですね。",
+            "timestamp": "2022-09-23T09:23:57.917000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "DF",
+            "text": "はい！あなたは食べ物何が好きですか？",
+            "timestamp": "2022-09-23T09:24:33.354000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "GT",
+            "text": "お寿司が好きです。",
+            "timestamp": "2022-09-23T09:24:37.717000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "DF",
+            "text": "お寿司、おいしいですよねー！",
+            "timestamp": "2022-09-23T09:24:54.235000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "GT",
+            "text": "ネタは何が好きですか。",
+            "timestamp": "2022-09-23T09:25:01.848000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "DF",
+            "text": "塩で穴子を食べたことがあって、それがすごく美味しかったです！回るやつだと、必ず玉子とかコーンとか食べます。",
+            "timestamp": "2022-09-23T09:26:16.474000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "GT",
+            "text": "回らないお寿司も行ったりするんですか？",
+            "timestamp": "2022-09-23T09:26:27.676000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "DF",
+            "text": "ごくごくたまーにですが。",
+            "timestamp": "2022-09-23T09:26:45.210000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "GT",
+            "text": "いいですね、あまり行ったことないです。",
+            "timestamp": "2022-09-23T09:26:51.208000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "DF",
+            "text": "なかなか行けないですよね。",
+            "timestamp": "2022-09-23T09:27:22.106000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "GT",
+            "text": "そうなんですよ、スシローが多いです。",
+            "timestamp": "2022-09-23T09:27:28.123000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "DF",
+            "text": "スシローも美味しいですよね！メニュー豊富ですし。",
+            "timestamp": "2022-09-23T09:27:50.058000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "GT",
+            "text": "期間限定も多くて楽しめます。",
+            "timestamp": "2022-09-23T09:28:01.529000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "DF",
+            "text": "期間限定、ついつい食べちゃいますね。",
+            "timestamp": "2022-09-23T09:28:17.768000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "GT",
+            "text": "いつもどれくらい食べますか。",
+            "timestamp": "2022-09-23T09:28:25.563000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "DF",
+            "text": "たぶん10皿くらいですかね。",
+            "timestamp": "2022-09-23T09:28:40.645000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "GT",
+            "text": "同じくらいです。それでお腹いっぱいですよね。",
+            "timestamp": "2022-09-23T09:28:46.347000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "DF",
+            "text": "そうですねー！いろいろ食べたい時は迷っちゃいます。",
+            "timestamp": "2022-09-23T09:29:19.686000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "GT",
+            "text": "デザートもつけるとかつけないとか。",
+            "timestamp": "2022-09-23T09:29:26.546000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "DF",
+            "text": "デザート必ず食べます！別腹です！",
+            "timestamp": "2022-09-23T09:29:43.915000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "GT",
+            "text": "パフェとかけっこうおいしいですよね。",
+            "timestamp": "2022-09-23T09:29:50.589000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "DF",
+            "text": "ですね！そのあとまたお寿司いけちゃったりしますね。",
+            "timestamp": "2022-09-23T09:30:27.200000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "GT",
+            "text": "わかります、途中休憩的な。",
+            "timestamp": "2022-09-23T09:30:34.238000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "DF",
+            "text": "そうですそうです！",
+            "timestamp": "2022-09-23T09:30:45.133000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "GT",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "DF",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 3,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}

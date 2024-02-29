@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 4877,
+    "interlocutors": [
+        "FQ",
+        "GF"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "FQ",
+            "text": "こんにちは、よろしくお願いします。",
+            "timestamp": "2022-09-16T10:13:48.952000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "GF",
+            "text": "こんにちは、よろしくお願いします！",
+            "timestamp": "2022-09-16T10:14:07.583000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "FQ",
+            "text": "そちらには郷土料理ってありますか？",
+            "timestamp": "2022-09-16T10:14:27.908000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "GF",
+            "text": "いももちというのがありますが、北海道なんでしょうか？",
+            "timestamp": "2022-09-16T10:14:47.122000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "FQ",
+            "text": "いももち、名前は聞いたことがあります。どんなものですか？",
+            "timestamp": "2022-09-16T10:15:10.986000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "GF",
+            "text": "ジャガイモをゆでたり蒸したりしてつぶして、片栗粉を混ぜて焼いたものです。",
+            "timestamp": "2022-09-16T10:15:36.165000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "FQ",
+            "text": "じゃがいも料理なんですね。味は塩味系ですか？",
+            "timestamp": "2022-09-16T10:15:59.611000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "GF",
+            "text": "それが割と自由な感じで、みたらし団子のような甘辛たれにからめるのが定番です。",
+            "timestamp": "2022-09-16T10:16:28.149000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "FQ",
+            "text": "なるほど、それぞれの味があるって感じでしょうか。",
+            "timestamp": "2022-09-16T10:16:45.306000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "GF",
+            "text": "同じく郷土料理の石狩鍋というものがありますが、これに一緒に煮込むこともあります。",
+            "timestamp": "2022-09-16T10:17:10.598000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "FQ",
+            "text": "石狩鍋、鮭が入った鍋ですね。具として使われるんですね、美味しそう！",
+            "timestamp": "2022-09-16T10:17:51.602000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "GF",
+            "text": "本当にそれぞれの味という感じですね！うちは焼いて甘辛、煮てから汁物、が定番です。",
+            "timestamp": "2022-09-16T10:18:32.330000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "FQ",
+            "text": "鍋食べたくなりました！こちらはもつ鍋が有名ですが、実は苦手なんです。",
+            "timestamp": "2022-09-16T10:19:05.366000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "GF",
+            "text": "ホルモンが苦手なんですよね、同じです！！",
+            "timestamp": "2022-09-16T10:19:17.471000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "FQ",
+            "text": "そうなんです、ホルモンが苦手でして。",
+            "timestamp": "2022-09-16T10:19:31.532000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "GF",
+            "text": "あれはいつ飲み込めばよいのでしょうかね？",
+            "timestamp": "2022-09-16T10:19:46.463000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "FQ",
+            "text": "タイミング難しいですよね、大きいのだとつかえそうで怖いです。",
+            "timestamp": "2022-09-16T10:20:11.542000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "GF",
+            "text": "あとまず、口にしたときの風味も独特ですしね。",
+            "timestamp": "2022-09-16T10:20:32.489000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "FQ",
+            "text": "ですです、どうも好きになれないです。",
+            "timestamp": "2022-09-16T10:20:47.346000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "GF",
+            "text": "好き嫌いが分かれますね。",
+            "timestamp": "2022-09-16T10:21:00.633000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "FQ",
+            "text": "ニンニクもすごいですしね、家族が食べたりすると、翌日はもう異臭レベルなんです。",
+            "timestamp": "2022-09-16T10:21:32.048000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "GF",
+            "text": "もつ鍋にはニンニクを入れるんですか？",
+            "timestamp": "2022-09-16T10:21:45.177000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "FQ",
+            "text": "はい、ニンニクとニラは絶対入りますねー。",
+            "timestamp": "2022-09-16T10:22:05.097000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "GF",
+            "text": "そ、それはニオイしかしないですね！！",
+            "timestamp": "2022-09-16T10:22:17.886000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "FQ",
+            "text": "ホルモンが入るとさらにひどくて。なので家ではやらないようにしました。",
+            "timestamp": "2022-09-16T10:22:48.475000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "GF",
+            "text": "本当ですね！すごい、いももちのシンプルさが際立ちました！",
+            "timestamp": "2022-09-16T10:23:23.474000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "FQ",
+            "text": "主人は大好きみたいなので、どうしても食べたいときは実家に帰って食べてきてもらいます。",
+            "timestamp": "2022-09-16T10:23:43.996000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "GF",
+            "text": "それは助かりますね！",
+            "timestamp": "2022-09-16T10:24:00.645000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "FQ",
+            "text": "はい、私もカンタンに夕飯済ませられますしね！",
+            "timestamp": "2022-09-16T10:24:33.188000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "GF",
+            "text": "まさに一石二鳥です！",
+            "timestamp": "2022-09-16T10:24:43.155000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "FQ",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "GF",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        }
+    ]
+}

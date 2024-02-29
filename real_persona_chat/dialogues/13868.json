@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 13868,
+    "interlocutors": [
+        "DB",
+        "IY"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "DB",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-04T21:23:49.861000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "IY",
+            "text": "こんばんは！",
+            "timestamp": "2022-10-04T21:24:15.754000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "DB",
+            "text": "趣味とか最近ハマってることとかありますか？",
+            "timestamp": "2022-10-04T21:24:29.450000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "IY",
+            "text": "最近は読書にはまってます！",
+            "timestamp": "2022-10-04T21:25:22.935000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "DB",
+            "text": "いいですね！どんなの読まれるんですか？",
+            "timestamp": "2022-10-04T21:25:35.391000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "IY",
+            "text": "小説だとライトノベルとか、あとは技術書とかですね",
+            "timestamp": "2022-10-04T21:25:35.733000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "DB",
+            "text": "技術書！難しそうです。",
+            "timestamp": "2022-10-04T21:26:04.070000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "IY",
+            "text": "自分も難しくてよくわからないです",
+            "timestamp": "2022-10-04T21:26:45.140000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "DB",
+            "text": "どんな感じの内容なんですか？",
+            "timestamp": "2022-10-04T21:26:56.206000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "IY",
+            "text": "プログラミング系とかですね！",
+            "timestamp": "2022-10-04T21:27:24.988000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "DB",
+            "text": "おお！私もプログラミング系の勉強してます。",
+            "timestamp": "2022-10-04T21:27:37.852000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "IY",
+            "text": "言語は何を勉強されてるんですかー？",
+            "timestamp": "2022-10-04T21:28:25.419000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "DB",
+            "text": "CとかKotlinとかPythonとか色々さわってます。",
+            "timestamp": "2022-10-04T21:28:47.454000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "IY",
+            "text": "自分もそこらへん触ってます！最近はC#にも手を出したいです",
+            "timestamp": "2022-10-04T21:29:11.538000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "DB",
+            "text": "私も一番最近やってるのはC#です。",
+            "timestamp": "2022-10-04T21:29:24.535000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "IY",
+            "text": "C#でデスクトップアプリのＧＵＩ作りたいんですよね",
+            "timestamp": "2022-10-04T21:29:47.430000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "DB",
+            "text": ".NET Frameworkとか使ってやるやつですね。",
+            "timestamp": "2022-10-04T21:30:15.739000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "IY",
+            "text": "そうですそうです！",
+            "timestamp": "2022-10-04T21:30:34.217000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "DB",
+            "text": "ウィンドウのレイアウトの扱いとかなれるまでがちょっと難しいですよね。",
+            "timestamp": "2022-10-04T21:31:01.639000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "IY",
+            "text": "難しいです。。。",
+            "timestamp": "2022-10-04T21:31:22.061000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "DB",
+            "text": "個人的なお勉強なんですか？お仕事のためにとか？",
+            "timestamp": "2022-10-04T21:31:32.752000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "IY",
+            "text": "個人的にですね！",
+            "timestamp": "2022-10-04T21:32:17.257000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "DB",
+            "text": "一人で勉強するの難しいですよね！ネットとか見ても人によってやり方違ったりもするし。",
+            "timestamp": "2022-10-04T21:32:37.762000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "IY",
+            "text": "やっぱり公式リファレンスが一番わかりやすかったりしますよね",
+            "timestamp": "2022-10-04T21:33:07.182000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "DB",
+            "text": "わかります。最後は公式に戻ってきますよね。",
+            "timestamp": "2022-10-04T21:33:25.283000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "IY",
+            "text": "公式ドキュメントが理解できるくらいまで勉強できるとそこからは楽しいですよね",
+            "timestamp": "2022-10-04T21:34:22.756000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "DB",
+            "text": "段々わかると楽しいですよね。アプリは完成できそうですか？",
+            "timestamp": "2022-10-04T21:34:39.964000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "IY",
+            "text": "デスクトップアプリはまだ完成までは遠そうです。。。\nもともとサーバーサイドしかやったことがなくて",
+            "timestamp": "2022-10-04T21:35:52.716000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "DB",
+            "text": "サーバーサイドとはまた全然違いますからね。頑張ってください！",
+            "timestamp": "2022-10-04T21:36:09.492000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "IY",
+            "text": "頑張ります！",
+            "timestamp": "NaT"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "DB",
+            "informativeness": 5,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "IY",
+            "informativeness": 4,
+            "comprehension": 3,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 4,
+            "satisfaction": 4
+        }
+    ]
+}

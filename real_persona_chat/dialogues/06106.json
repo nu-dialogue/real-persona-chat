@@ -1,0 +1,209 @@
+{
+    "dialogue_id": 6106,
+    "interlocutors": [
+        "EY",
+        "HH"
+    ],
+    "utterances": [
+        {
+            "utterance_id": 0,
+            "interlocutor_id": "EY",
+            "text": "こんにちは！",
+            "timestamp": "2022-10-05T11:59:46.444000"
+        },
+        {
+            "utterance_id": 1,
+            "interlocutor_id": "HH",
+            "text": "こんにちは",
+            "timestamp": "2022-10-05T11:59:51.281000"
+        },
+        {
+            "utterance_id": 2,
+            "interlocutor_id": "EY",
+            "text": "最近よかったことはありますか？",
+            "timestamp": "2022-10-05T12:00:12.971000"
+        },
+        {
+            "utterance_id": 3,
+            "interlocutor_id": "HH",
+            "text": "すぐには思いつかないですね。あなたはありますか？",
+            "timestamp": "2022-10-05T12:00:22.695000"
+        },
+        {
+            "utterance_id": 4,
+            "interlocutor_id": "EY",
+            "text": "最近仕事ばかりで自分はありません。。",
+            "timestamp": "2022-10-05T12:00:50.902000"
+        },
+        {
+            "utterance_id": 5,
+            "interlocutor_id": "HH",
+            "text": "休みの日とかは何しているんですか？",
+            "timestamp": "2022-10-05T12:01:02.221000"
+        },
+        {
+            "utterance_id": 6,
+            "interlocutor_id": "EY",
+            "text": "昨日は休みだったんですが勉強や買い物をしていました。",
+            "timestamp": "2022-10-05T12:01:40.281000"
+        },
+        {
+            "utterance_id": 7,
+            "interlocutor_id": "HH",
+            "text": "勉強偉いですね。なんの勉強をしているんですか？",
+            "timestamp": "2022-10-05T12:01:52.366000"
+        },
+        {
+            "utterance_id": 8,
+            "interlocutor_id": "EY",
+            "text": "ITパスポートという資格のための勉強ですね。",
+            "timestamp": "2022-10-05T12:02:22.677000"
+        },
+        {
+            "utterance_id": 9,
+            "interlocutor_id": "HH",
+            "text": "ITパスポート最近よく聞きますね。どういうことを学んでいるんですか？",
+            "timestamp": "2022-10-05T12:02:35.479000"
+        },
+        {
+            "utterance_id": 10,
+            "interlocutor_id": "EY",
+            "text": "おもにインターネットやそれにまつわる法律や取り決めを学んでいます。",
+            "timestamp": "2022-10-05T12:03:42.279000"
+        },
+        {
+            "utterance_id": 11,
+            "interlocutor_id": "HH",
+            "text": "難しそうですね。",
+            "timestamp": "2022-10-05T12:04:00.943000"
+        },
+        {
+            "utterance_id": 12,
+            "interlocutor_id": "EY",
+            "text": "意外とインターネットをよく使っていれば聞きなれた言葉がよく出てきますよ。",
+            "timestamp": "2022-10-05T12:04:29.334000"
+        },
+        {
+            "utterance_id": 13,
+            "interlocutor_id": "HH",
+            "text": "そうなんですね。そしたらすぐ合格できそうですか？",
+            "timestamp": "2022-10-05T12:04:48.923000"
+        },
+        {
+            "utterance_id": 14,
+            "interlocutor_id": "EY",
+            "text": "すぐ合格できるかはわかりませんが今月の２２日に試験を受けますのでそれまでには何とかなりそうです。",
+            "timestamp": "2022-10-05T12:05:35.125000"
+        },
+        {
+            "utterance_id": 15,
+            "interlocutor_id": "HH",
+            "text": "あと2週間と少しですね。",
+            "timestamp": "2022-10-05T12:05:48.427000"
+        },
+        {
+            "utterance_id": 16,
+            "interlocutor_id": "EY",
+            "text": "そうです。もうすぐなんですよね。",
+            "timestamp": "2022-10-05T12:06:07.814000"
+        },
+        {
+            "utterance_id": 17,
+            "interlocutor_id": "HH",
+            "text": "順調に勉強が進んでいるんですね。",
+            "timestamp": "2022-10-05T12:06:35.685000"
+        },
+        {
+            "utterance_id": 18,
+            "interlocutor_id": "EY",
+            "text": "なかなか仕事で勉強が進まないんですが隙間時間見つけて何とかやってます。",
+            "timestamp": "2022-10-05T12:07:09.416000"
+        },
+        {
+            "utterance_id": 19,
+            "interlocutor_id": "HH",
+            "text": "試験前は仕事を休んででもちゃんとした勉強時間が欲しいですね。",
+            "timestamp": "2022-10-05T12:07:23.600000"
+        },
+        {
+            "utterance_id": 20,
+            "interlocutor_id": "EY",
+            "text": "できたらそうしたいんですがさせてくれるかはわかんないところです。",
+            "timestamp": "2022-10-05T12:07:58.076000"
+        },
+        {
+            "utterance_id": 21,
+            "interlocutor_id": "HH",
+            "text": "仕事のために資格を取るのではないのですか？",
+            "timestamp": "2022-10-05T12:08:10.388000"
+        },
+        {
+            "utterance_id": 22,
+            "interlocutor_id": "EY",
+            "text": "今の職場とは関係ないものなので休ませてくれるかはわからないです。",
+            "timestamp": "2022-10-05T12:09:11.151000"
+        },
+        {
+            "utterance_id": 23,
+            "interlocutor_id": "HH",
+            "text": "なるほど、それは確かに休ませてくれるかは難しそうですね。有給とかはないのですか？",
+            "timestamp": "2022-10-05T12:09:42.019000"
+        },
+        {
+            "utterance_id": 24,
+            "interlocutor_id": "EY",
+            "text": "アルバイトなので有給とかはないんですがいかんせん人が少なくて。",
+            "timestamp": "2022-10-05T12:10:20.492000"
+        },
+        {
+            "utterance_id": 25,
+            "interlocutor_id": "HH",
+            "text": "人手不足は大変ですね。バイトは雇わないんですか？",
+            "timestamp": "2022-10-05T12:10:33.800000"
+        },
+        {
+            "utterance_id": 26,
+            "interlocutor_id": "EY",
+            "text": "バイト募集はしているんですが応募してくる人がいませんね。",
+            "timestamp": "2022-10-05T12:11:02.880000"
+        },
+        {
+            "utterance_id": 27,
+            "interlocutor_id": "HH",
+            "text": "それは大変ですね、早く人が来てくれるといいですね。",
+            "timestamp": "2022-10-05T12:11:13.334000"
+        },
+        {
+            "utterance_id": 28,
+            "interlocutor_id": "EY",
+            "text": "そうですね、それだとありがたいです。",
+            "timestamp": "2022-10-05T12:11:39.082000"
+        },
+        {
+            "utterance_id": 29,
+            "interlocutor_id": "HH",
+            "text": "資格試験も頑張ってください。合格すると良いですね。",
+            "timestamp": "2022-10-05T12:11:46.149000"
+        }
+    ],
+    "evaluations": [
+        {
+            "interlocutor_id": "EY",
+            "informativeness": 4,
+            "comprehension": 5,
+            "familiarity": 5,
+            "interest": 5,
+            "proactiveness": 5,
+            "satisfaction": 5
+        },
+        {
+            "interlocutor_id": "HH",
+            "informativeness": 4,
+            "comprehension": 4,
+            "familiarity": 4,
+            "interest": 4,
+            "proactiveness": 3,
+            "satisfaction": 3
+        }
+    ]
+}
