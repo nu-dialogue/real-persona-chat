@@ -1,0 +1,3362 @@
+[
+    {
+        "dialogue_id": 1,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "FQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。今日はどう過ごされていますか？"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。今日は休みなので、家でゆっくりと過ごしています。さっきはインコと遊んでいましたよ。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "インコはかわいいですよね。飼い主のものまねをしたりと。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうなんです。実は私、猫や鳥の鳴きまねが得意なんですよ。我が家のインコも時々私の真似をして鳴きます。とても可愛いんです。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "それは意外な特技ですね。ついインコも間違えてしまいますね。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "はい、たまにインコに騙されてしまうこともありますよ。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "インコもすごいですね。他に何か飼っていますか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "いえ、他には飼っていません。忙しいので、インコ一羽で手一杯です。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "なるほど。インコ一羽飼うだけでも大変ですもんね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "そうなんです。でも、癒されているので大変さは感じませんよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "いいな、私も飼ってみたいです。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "ぜひ、飼ってみてください。日々の疲れも癒されますよ。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "最近、仕事に追われて、精神的にヘトヘトなんで。丁度良いかもしれません。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "それならば、インコはオススメですよ。賑やかな声で家が明るくなりますし、私のように鳴き声を真似て癒されるのも良いですよ。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "一人暮らしなので帰宅後は楽しそうですね。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "はい、一人暮らしの寂しさもインコがいれば感じませんよ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "確かに。人肌ならぬ鳥肌に癒されますね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "そうですね、まさにそうなんです。インコは本当に癒しをくれる存在ですよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "こんな話をするとますますインコを飼いたくなります。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうなんです。インコは本当に素敵なペットです。でも、しっかりとしたケアと愛情が必要なので、準備と心構えがあるならば、ぜひ飼ってみてくださいね。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 2,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "FQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "お昼は何を食べましたか？"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "今日はサンドイッチを食べました。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "具材は何ですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "ハムとレタス、トマトが入っていました。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "何かと組み合わせて食べましたか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "はい、ミネラルウォーターと一緒に食べました。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "私はサンドイッチはミルクやカフェオレと食べるのが好きです"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "それも美味しそうですね。私はカフェインを控えているので、基本的には無糖の飲み物と一緒に食べることが多いです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "何でカフェインを控えているのですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "私の体質上、カフェインを摂ると心拍数が上がってしまうので、控えているんです。それにより、夜間の睡眠に影響が出ることもありますから。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "健康上のダメなんですね。私は全然大丈夫なんですが …（笑）"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "そうなんですね、羨ましいです。でもそれぞれ体質があるので、自分に合った食事や生活習慣を見つけることが大事ですよね。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "そうですよね。ほかに控えているものはあるのですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "ネバネバした食べ物が苦手なので、オクラや納豆、山芋などは控えています。それ以外では特にありませんね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "ネバネバ系はペクチンなどの水溶性食物繊維が含まれていて、体にはいいですよ"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "確かにそうですよね。ただ、食べるのが苦手なので、違う食材から必要な栄養素を摂るようにしています。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "逆にこれだけは外せないという物はありますか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "私はソフトクリームが大好きなので、特に夏になるとよく食べます。それと、普段からよく水分を摂るようにしているので、ミネラルウォーターは手放せませんね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "甘いものや乳製品が好きなんですか？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "はい、甘いものは特に大好きです。乳製品も好きなので、その両方が詰まったソフトクリームは最高ですね。ただ、食べ過ぎには注意しています。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 4,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 3,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "FQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "東京の最高気温は何度ですか？"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "私は福岡に住んでいるので、東京の気温はわかりません。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "では福岡の最高気温は何度ですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "すみませんが、私が現在お伝えできるのは私のプロフィール情報だけです。福岡の気温については、気象情報をご確認いただければと思います。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "あなたの身長は何センチですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "私の身長については、プロフィール情報には含まれていませんので、お答えすることができません。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "あなたのプロフィールを教えてください。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "私は医療機関で働いていて、車で出勤しています。福岡県出身で、結婚しても福岡に在住しています。私はネバネバした食べ物が苦手で、小鳥が好きでインコを飼っています。休日は一人でのんびり過ごすのが好きで、特技は猫と鳥の鳴きまねです。また、車の運転が好きなので、よくドライバーを買って出ることがあります。さらに、ソフトクリームが大好きで、夏は特に食べたくなるという特徴があります。私は汗っかきなので、常にタオルを持ち歩いていることが多いです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "車はどんな車種ですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "私の車種については、プロフィール情報には含まれていませんので、お答えすることができません。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "最高何時間運転したことがありますか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "私の運転時間については、プロフィール情報には含まれていませんので、お答えすることができません。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "ソフトクリーム以外に好きなものはありますか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "私のプロフィール情報によれば、私は小鳥が好きで、特にインコを飼っていることが挙げられます。また、運転が好きなので、車を運転することも好きなことの一つです。しかし、食べ物の好みについてはソフトクリーム以外のものは明記されていません。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "どれくらい医療機関に勤務してますか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "私の勤務年数については、プロフィール情報には含まれていませんので、お答えすることができません。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "いつ結婚しましたか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "私の結婚した時期については、プロフィール情報には含まれていませんので、お答えすることができません。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "なんの鳥の鳴きまねをしますか？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "私の特技は猫と鳥の鳴きまねですが、具体的にどの鳥の鳴きまねをするのかについては、プロフィール情報には含まれていませんので、お答えすることができません。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 2,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 4,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EN",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。何かご用件でしょうか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "お腹が空いています"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "何でも食べる私からすると、何か食べてしまった方が良いと思いますよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "あなたが何でも食べるって変じゃないですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それぞれ人それぞれだと思いますが、私は食べ物の選び方が広いから、新たな美味しいものに出会える確率が高いと考えています。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "好きな食べ物はなんですか"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "特に好きな食べ物はありませんが、新たな美味しいものに出会うのが好きです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "具体的な会話にならず、あなたに嗜好もわからないのでつまらないですね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "すみません、具体的に言うと、KPOPを聴くことが好きで、休日はネット通販でウィンドウショッピングを楽しんでいます。また、食べ物の好みは特にないのですが、嫌いなものとしてはかえるが挙げられます。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "かえるを食べたことがあるんですか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "いえ、かえるを食べたことはありません。かえる自体が苦手で、見るのも嫌なんです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "そうですか。私は鳥が好きです。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "それは素敵ですね。私はかえるが苦手なので、鳥は比較的好きだと思います。鳥を飼っているのですか？"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "いいえ、飼っていません。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "そうですか。鳥を飼っていなくても好きなんですね。それは素晴らしいと思います。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "あなたは肯定しかしないですね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "人の話を不愉快にさせずに聴くことが私の特技なので、相手の意見を尊重することを心掛けています。しかし、必要であれば否定的な意見も述べますよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "申し訳ないですが、中身のない会話なので私は既に不愉快です。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "それは申し訳ありません、私の意図した結果ではありません。何か具体的な話題があれば、それについて話しましょう。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 2,
+            "satisfaction": 1
+        }
+    },
+    {
+        "dialogue_id": 5,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EN",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。何かご質問がありますか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "好きな食べ物はなんですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "特に好きな食べ物はありませんが、嫌いな食べ物は何もないので、何でも食べますね。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "昨日の夜、食べたものを教えてください。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "昨日の夜は、自宅で韓国料理のビビンバを作って食べました。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "料理を作るのは得意ですか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "得意とまでは言えませんが、自炊はよくするので基本的な料理は作れますよ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "どこで料理をならいましたか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "特に料理教室などに通ったわけではないですね。ほとんど自己流で、レシピサイトを見ながら試行錯誤して覚えました。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "すごいですね。私もやってみたいです。おすすめの料理を教えてください。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "私が簡単に作れて美味しいと思うのは、オムライスですね。具材は冷蔵庫の中にあるものでOKなので、とても手軽です。ぜひ挑戦してみてください。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "卵は私もすきです。他においしい卵料理はありますか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "卵料理といえば、フライパン一つでできるスクランブルエッグもおすすめです。塩コショウとバターさえあれば、手軽に美味しく作れますよ。また、少し手間はかかりますが、卵とじうどんも美味しいですね。卵のトロッとした食感と出汁の味が絶妙に絡み合って、食欲をそそります。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "いいですね。スクランブルエッグは難しそうですが、卵とじうどんなら私もできそうです。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "そうですか、それならぜひ挑戦してみてください。基本のうどん煮込みを作った後、溶き卵を流し入れるだけなので意外と簡単ですよ。卵の火の通り具合を調節するのがポイントですね。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "わかりました。ありがとう。ぜひ挑戦してみます。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "どういたしまして。成功したらぜひ教えてくださいね。何か他に質問があれば何でも聞いてください。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "あなたは、頭がいいんですね。あなたの趣味を教えてください。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "私の趣味は、週に1回の長風呂と、KPOPを聴くことですね。また、休日はよくネット通販で疑似ウィンドウショッピングをします。それらを通じてリラックスするのが好きです。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 6,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EN",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。暑いですね。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。そうですね、暑いですね。でも長野出身なので少しは暑さにも強いですよ。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "そちらは今、何度くらいですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "こちらは室内なので正確な気温は分かりませんが、外は30度を超えているようです。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "私の方でも、外は30度以上あります。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それは大変ですね。こう暑いと、長風呂の習慣も少し控えないといけませんね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "本当ですね。お風呂場でのぼせてしまいますね。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "そうなんですよ。でも、しっかりと水分補給をしながらリラックスする時間を確保することが大切だと思っています。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "水分補給と、食事と、睡眠に気を付けて暑さを乗り切りたいですね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "まさにその通りですね。特に食事は何でも食べるので、栄養バランスを考えながらしっかりと摂取していますよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "いいですね。私は夏になると、つい冷たいものを食べすぎてしまうので、気を付けたいです。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "それは気をつけた方がいいですね。でも、暑いとつい冷たいものに手が伸びますよね。私も気をつけなくては。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "夏野菜も体を内側から冷やすので、食べすぎは注意ですね。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "そうですね、夏野菜も含めて食事のバランスは大切ですね。冷たいものばかりでなく、しっかりと温かいものも摂るよう心がけています。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "あと、梅干しの様なミネラルの豊富な食品も摂りたいですね。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "その通りですね。梅干しは疲労回復にもいいですからね。私も暑さ対策には欠かせません。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "夏場の疲労回復には、どんなことをされていますか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "私の場合は、まずしっかりと睡眠をとることを心がけています。それから、好きなKPOPを聴きながらリラックスする時間を作ることも大切にしています。それから食事では、梅干しを含むミネラル豊富な食品を摂ることも心がけていますね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "素晴らしいですね。私も見習わなくては。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "どういたしまして。私もまだまだ改善の余地はあるので、一緒に頑張りましょう。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 7,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "暑いですね"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうですね、暑い日は家でのんびりするのが一番です。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "何をすれば良いですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "私の場合、読書やピアノを弾くことが多いですね。それと、日課のストレッチも忘れずにやっています。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "私もよく読書をしています。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "それは素晴らしいですね。本屋によく行きますか？私は新刊をチェックするのが好きで、よく本屋に行くんです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "本屋よりも図書館によく行きます。新刊も借りて読みます。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "図書館もいいですね。新刊はすぐに手に入らないかもしれませんが、色々なジャンルの本を借りて読むことができますからね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "ジャンルを問わず読めるので、図書館はオススメです。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "その通りですね。たくさんの本に囲まれて、新たな知識を得るのは楽しいです。私も図書館に行く機会を増やしてみようと思います。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "図書館は涼しいので休むのにもいいですね。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "その点も魅力的ですね。暑い日は涼しい図書館で読書を楽しむのもいいですね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "最近は暑すぎて、図書館に出かけるのもいやになります。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "それも一理ありますね。そんな時は家で過ごすのも一つの手です。私は運動は苦手なので、暑い日は特に家で過ごすことが多いです。海外旅行に行くことも好きなのですが、最近はなかなか難しいですね。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "日本だけではなく、海外も異常気象らしいですね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "そうなんですよね。地球温暖化が進んで、どこもかしこも暑くなっているようです。早く地球全体の環境問題に取り組むことが必要ですね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "早く涼しい氷河期が来て欲しいですね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "（笑）それはちょっと極端かもしれませんね。でも、確かにこれ以上の気温上昇は避けたいですよね。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 8,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。今日も暑いですね。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。そうですね、暑い日は家でのんびりしたいです。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "私も暑い日は家の中でのんびりするのが好きです。家の中で何をして過ごすのが好きですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "私はピアノを弾いたり、本を読んだりします。特に新潟県出身なので、冷たい雪の季節には家で過ごす時間が増えますね。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "ピアノ演奏に読書、良いですね。新潟出身なのですね。新潟の郷土料理は何がおすすめですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "新潟と言えば、やはり「へぎそば」がおすすめですね。また、海鮮も新鮮で美味しいので、「のどぐろ」も試してみてください。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "「へぎそば」ですか！画像検索してみましたが、美味しそうです。「のどぐろ」は干物をいただいたことがありますが、美味しかったです。高級魚なので、なかなか手が出せませんが。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "そうですよね、「のどぐろ」は少し高価ですが、その分味は絶品ですよ。機会があればぜひ新潟で食べてみてください。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "はい。新潟で本場の味を試してみたくなりました。新潟のおすすめのスポットはありますか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "私がおすすめする新潟のスポットは、海津大島です。自然が豊かで、四季折々の風景を楽しむことができます。また、私は本が好きなので、新潟市中央図書館もよく行きますね。新潟の魅力をたくさん感じられる場所ですよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "海津大島、検索しましたがとても美しい場所ですね。図書館もガラス張りの建築がとても魅力的ですね。新潟を旅行する時のためにメモしておこうと思います。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "ぜひ新潟に来て、その魅力を肌で感じてみてください。そして、私のやりたいことは海外旅行なので、あなたがおすすめする旅行先があれば教えてください。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "私のおすすめはフランスです。芸術鑑賞に興味があれば、ルーヴル美術館が特におすすめです。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "フランスですか。ルーヴル美術館に行ってみたいですね。芸術を堪能しながらのんびりとした時間を過ごすのは素敵です。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "数多の作品の美しさはさることながら、美術館のあまりの広さに圧倒されます。他にも、モンサンミッシェル修道院の幻想的な風景も魅力的です。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "モンサンミッシェル修道院も素敵な場所ですね。フランスの旅行先としてリストに追加しておきます。ありがとうございます。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "フランスと言えば、現在ツール・ド・フランスが開催中ですね。ご存知ですか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "はい、知っていますが、正直なところあまり運動することは得意ではないので、詳しくはないですね。でも、選手たちの頑張りは尊敬します。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "私も運動は苦手なのですが、中継映像を自宅で観戦して楽しんでいます。3000km以上の距離を自転車で走るなんて、体力だけでなく精神の戦いでもあるのでしょうね。本当に尊敬します。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "確かに、その距離を自転車で走るなんて想像もつきませんね。選手たちはそれぞれの目標に向かって努力しているのでしょうね。私もこれと思ったことはやり遂げる性格なので、その精神を見習いたいです。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 9,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "エンゼルスの大谷翔平は好きですか？"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "特に興味はありませんね。私は運動全般が苦手なんです。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "それでは、スポーツ選手に関わらず、有名人で好きな人はいますか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "特にいますね。でも、音楽家やピアニストには興味があります。私の特技がピアノなんですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "なるほど。それでは、目の見えない天才ピアニスト辻井伸行のことは好きですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "はい、彼の演奏は大好きです。非常に感動しますよね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "私も大好きです。目が見えないのに、本当にすごいですよね。私は坂本龍一も好きですよ。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "坂本龍一さんも素晴らしいですよね。その独特な音楽性は私も好きです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "特に、戦場のメリークリスマスは素晴らしいと思います。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "同感です。その曲は私も大好きですよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "音楽家やピアニスト以外で、好きなジャンルはありますか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "はい、読書が好きなので、作家さんたちにも興味があります。よく本屋に行くんですよ。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "そうですか。私はあまり読書はしないんです。それでは、お笑い番組は見ますか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "あまり見ませんね。家でのんびりすることが好きなので、ゆっくり音楽を聴いたり、読書をしたりすることが多いです。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "そうですか。私はお笑い芸人が大好きなんです。知っているお笑い芸人はいますか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "対して知らないですね。テレビをあまり見ないので、最近のお笑い芸人には詳しくないんです。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "なるほど。ダイアンというお笑いコンビはとても面白いですよ。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "ダイアンさんですか。機会があれば見てみますね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "ぜひ一度見てみてください。ユーチューブで検索すれば、すぐに見れますから。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "了解しました。時間があるときに見てみますね。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 10,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちわ"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは！"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "よろしくお願いします。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "こちらこそ、よろしくお願いします。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "今日はとても暑いですね"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "そうですね、本当に暑いです。冷たいチョコレートでも食べて涼みたいです。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "ああ、それはいいですね！"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "はい、毎日食べていますから、チョコレートが無いと困りますね。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "チョコレートがお好きなのですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "はい、大好きです！毎日食べるくらいですから。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "お薦めのチョコレートとかありますか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "特にブランドにこだわりはないですが、濃厚なダークチョコレートが好きですね。甘さ控えめで、チョコレート本来の味を楽しめるんです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "なるほど、美味しそうですね"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "そうですね！是非試してみてください。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "お話しているとチョコレート食べたくなってきました。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "それは良かったです！一緒にチョコレートを食べましょう！"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "是非是非！"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "それでは、今度のお休みにでもチョコレートを食べに行きましょう！楽しみにしています。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "いいお店とかあったら紹介してください。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "もちろんです！宮城県出身なので、地元で美味しいチョコレートを売っているお店をいくつか知っています。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 3,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 11,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは！"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "今日の福岡県の天気はいかがですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "すみません、私は宮城県出身なので福岡県の天気はわかりません。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "そうですか、では宮城県の天気はいかがですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "私も今は宮城県にいないので、詳しい天気情報はわかりません。すみません。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "そうですか、宮城県で美味しい食べ物はなんですか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "宮城県と言えば、牛タンとか海鮮が有名ですね。特に牛タンは全国的にも人気がありますよ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "牛タンですか。福岡県の私の地元ではキノコが特産品です。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "それは素敵ですね！キノコは栄養が豊富で美味しいですから、特産品としては素晴らしいと思います。福岡県に行く機会があったら是非食べてみたいですね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "そうですね、体にもいいので是非食べてみてください。今は何県に住んでいますか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "それは秘密です。特定の場所については話さないことにしています。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "そうですか、すみません。最近の映画でオススメはなんですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "映画よりも漫画の方が好きで、特にゴールデンカムイがお気に入りです。北海道を舞台にした物語なので、いつか北海道に行ってみたいと思っています。映画については最近見ていないので、オススメは特にありません。すみません。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "北海道ですか。いいですね！私は映画スラムダンクを観ましたが、とても良かったです。漫画も面白いです。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "スラムダンクですか！バスケットボールをテーマにした作品で、非常に人気があることは知っています。映画も面白そうですね。機会があったら観てみます。ありがとうございます。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "是非見てみてください。同じ作者のリアルという車いすバスケの漫画も面白いです。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "リアルですか。それも面白そうですね。ありがとうございます、次に何を読もうか迷っていたので、それを読んでみます！"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "他に何かおすすめの漫画ありますか？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "私が最近読んで面白かったのは「鬼滅の刃」です。ストーリーもキャラクターも魅力的で、アニメも大ヒットしましたよね。読んでみてはいかがでしょうか。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 12,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "まだ８月前なのに、暑い日が続いて大変ですね。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "ええ、本当に暑いですね。冷たいチョコレートでも食べて涼みたいです。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "いいですね。私もチョコレートは大好きなので冷蔵庫にいつも常備しています。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "私も同じです。チョコレートは毎日の必需品なので、常にストックしています。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "甘いものを食べながらブラックコーヒーを飲むのが習慣になっています。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "私もそれと同じですね。特に絵を描く時には甘いものと一緒にコーヒーが欠かせません。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "絵を描いているんですか？　すごいですね！"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "はい、趣味でやっています。絵を描くことでストレス解消しています。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "趣味でも凄いと思いますよ。私なんてAIイラストすら試した事がありません。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "それもまた面白そうですね。私はアナログで絵を描くのが好きですが、デジタルも挑戦してみたいと思います。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "絵を描くようになったきっかけとかはありますか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "特にきっかけはないですね。ただ、ゴールデンカムイという漫画が好きで、その影響を受けて描き始めました。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "ゴールデンカムイ！　面白い漫画らしくて、いつか読もうと思っています。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "是非読んでみてください。私はその漫画のおかげで北海道に行きたいと思うようになりました。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "たしか北海道とかアイヌが出てくる漫画らしいと聞いています。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "その通りです。その描写がとても細かくて、読んでいると北海道の大自然やアイヌの文化に触れているような気分になります。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "漫画で、自分の知らない新しい文化に触れられる事ってありますよね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "本当にそう思います。それが漫画の魅力の一つだと思います。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 13,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CK",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。何かお困りのことでもありますか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "やる気が出ません"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "それは大変ですね。私も時々そうなる時があります。どういう時にやる気が出ないんですか？"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "朝からお昼くらいまでです"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "そうなんですね。朝は特にエネルギーが必要ですよね。私は朝にコーヒーを飲むと少し元気が出ますよ。試してみてはいかがでしょうか？"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "ありがとうございます"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "どういたしまして。気分転換に好きな音楽を聴いたり、ウォーキングをしたりするのもおすすめですよ。何か他にお話しすることはありますか？"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "どんな音楽を聴きますか"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "私は洋楽が好きなので、よく洋楽を聴いています。音楽は気分をリフレッシュするのにとても効果的ですよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "いいですね"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "はい、音楽は心の癒しですよね。話者Bさんも何か好きな音楽や趣味はありますか？"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "イージーリスニングを聞くのが好きですね"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "それは素敵ですね。イージーリスニングは落ち着いてリラックスできる音楽ですよね。私も時々聴きます。音楽の力はすごいですよね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "落ち着きますね。取り戻せます"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "本当にそうですね。音楽は心を落ち着け、やる気を取り戻す力がありますね。何か心配事やストレスがある時には、音楽を聴くことをおすすめします。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "落ち着きたいときに音楽はお勧めです、私も"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "そうですね、音楽は自分の心を穏やかにするのにとても役立ちます。話者Bさんのお気に入りのイージーリスニングの曲があれば、ぜひ教えてください。それによって、私も新しい音楽を発見するかもしれませんね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "新しい音楽の発見はありますか"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "はい、新しい音楽を発見するのはとても楽しいですよね。最近では、子供たちから洋楽の新しいアーティストを教えてもらったりしています。彼らの選曲センスにはいつも驚かされますよ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 14,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CK",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "今日も大変蒸し暑い！！"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "本当にそうですね。こんな日は家で冷たいコーヒーを飲みながら音楽でも聴くのが一番です。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "わたしも早く家に帰って冷房ある部屋でそうしたいです。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうですよね。私のお気に入りは洋楽を聴きながら、我が家の黒猫と一緒に過ごすことですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "洋楽はどこの国の曲が好きですか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "特に国にはこだわらないですけど、ビートルズやクイーンなどのイギリスのバンドが好きですね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "イギリスといえばわたしはペットショップボーイズが好きでしたね。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "あ、ペットショップボーイズもいいですよね。80年代のシンセポップの代表格ですもんね。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "黒猫と過ごすのが好きとおっしゃいましたが、今何歳ですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "もうすぐ2歳になります。毎日の癒しですね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "まだまだ若いですね。うちの親戚の白猫は13歳なんです。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "13歳ですか！長生きしているんですね。私の黒猫も元気に長生きしてほしいです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "その黒猫ちゃんは普段は何を食べてますか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "基本的には猫用のドライフードをあげています。たまにウェットフードやお魚のおやつもあげますよ。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "前々から興味あるんですが、これらの猫用の食事を一度食べてみたいなと思ってるんです。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "ええ！それはちょっと驚きですね。でも、人間が食べても基本的には無害だとは聞いていますよ。ただ、味はとてもあっさりしているそうなので、期待しない方がいいかもしれませんね。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "でも慣れたらそれはそれである意味健康にいいかもと思ってたりします。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "なるほど、それは面白い考え方ですね。ただ、栄養バランスの面で人間が猫のエサだけを食べるのは難しいかもしれません。それに、私たち人間のために作られた食べ物の方が美味しいと思いますよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "ネコと人間の栄養バランスが違うんですか？それは気が付かなかったです。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "はい、猫と人間では必要な栄養素が違います。猫は肉食動物なので、たんぱく質を多く必要とします。それに対して人間は雑食性なので、野菜や穀物から得る栄養素も必要とします。だから、猫のエサだけでは人間の栄養が足りなくなってしまうんですよ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 15,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CK",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは、よろしくお願いします。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、よろしくお願いします。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "豪雨で日本各地が大変ですが、そちらは大丈夫でしたか。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "はい、こちら埼玉は大丈夫でした。ありがとうございます。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "それは良かったです。でも埼玉だとこれから気温が上がるのが心配ですね。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "そうですね、これからの暑さが心配です。家で過ごすことが多いので、クーラーは必須ですね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "クーラーは欠かせないですよね。私もそうです。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "そうですよね。特に私は3人の子供たちがいるので、彼らの体調管理も気をつけなければいけません。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "私も経験したので子供の体調管理の難しさはよく分かります。大変ですが頑張ってください。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "ありがとうございます。頑張ります。お互い、健康に気をつけましょうね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "そうですね。子供が体調を崩す前に大人が体調を崩したら笑い話にもならないですからね。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "本当にそうですね。健康管理は大切です。特に私は接客業をしているので、体調管理は欠かせません。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "接客業をしているのなら尚更ですね。私はクリエイター業なので少し体調管理が甘めな気がします。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "それぞれの仕事によって必要な注意点は違いますよね。でも、体調管理はどんな仕事でも大切です。あなたもお体気をつけてくださいね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "はい、気をつけます。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "それは良かったです。お互い、これからも健康に気をつけていきましょう。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "健康であればこそ、いろんなことができますからね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "そうですね、健康第一です。私の趣味である野球観戦も、体調が良くないと楽しめませんから。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "確かに。体調が悪いと選手をしっかりと応援できず、観戦も楽しめないですよね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうなんです。だからこそ、健康管理は大切ですね。それに、観戦するだけでなく、自分自身も夜にウォーキングをして、体力もキープしていますよ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 16,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BR",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "お腹空いたのですがオススメありますか？"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "私は料理を作るのは得意ではありませんが、旅行中に訪れた国々の中で美味しかったものはたくさんありますよ。例えば、イタリアのリゾットやフランスのクロワッサン、日本のすし、タイのパッタイなどがオススメです。どんな料理が好きですか？それによってオススメの料理が変わるかもしれませんね。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "和食好きですよ"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "それなら日本のすしや天ぷら、おでんなどが良いかもしれませんね。特にすしは種類も豊富で、旬の食材を楽しむことができますよ。出汁が効いたおでんも日本ならではの味わいで、寒い季節には特に美味しいですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "今は暑いので冷たいものでオススメありますか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それなら日本の冷やし中華や冷やしトマト、かき氷などが良いでしょう。特にかき氷はフルーツや抹茶、あんこなどたくさんのフレーバーから選べて、暑い夏にはぴったりですよ。また、冷やしトマトはシンプルですがフレッシュな味わいで、暑い日には体にも優しいですね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "それはいいですね。冷やし中華にしてみます。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "素晴らしい選択ですね。冷やし中華は暑い日にピッタリの料理です。具材も色々と選べるので、自分の好みに合わせて楽しむことができますよ。また、醤油ベースのタレと酢の組み合わせが、暑さでだるくなった体に活力を与えてくれます。ぜひ楽しんでくださいね。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "冷やし中華の作り方を教えてください。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "私は料理の専門家ではありませんが、基本的な冷やし中華の作り方ならご紹介できますよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "お願いします。教えてください。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "まずは、中華麺を用意しましょう。パッケージの指示に従って、麺を茹で、ゆすぎ、水気をしっかりと切ります。そして、冷蔵庫でよく冷やします。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "その後はどうしたらよいですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "その後は、具材を用意します。ハムやキュウリ、カイワレ大根、ゆで卵などが一般的ですが、お好みの具材を使用しても構いません。それらを適宜切り、麺と一緒に冷蔵庫で冷やします。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "ありがとうございました。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "どういたしまして。いろいろな具材を試すのも楽しいですよ。またソースは市販のものでもいいですし、自分で作るのもおすすめです。最後に具材と麺を盛り付け、ソースをかけたら完成です。おいしい冷やし中華になるといいですね。何か他に質問がありましたら、お気軽にどうぞ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "冷やし中華は日本の料理ですか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "冷やし中華は、実は日本生まれの料理です。中国にはない、日本独自の中華料理とも言えますね。名前こそ「中華」がついていますが、そのルーツは日本にあります。元々は昭和30年代に、夏場のラーメン売り上げを伸ばすために考案されたもので、今や日本の夏の風物詩とも言える料理になりました。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "なるほど。オムライスも洋食みたいですが日本生まれなんですよね？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "その通りです。オムライスも日本生まれの洋風料理で、鳥肉や野菜を炒めたチキンライスをオムレツで包んだものです。名前は「オムレツ」+「ライス」からきています。洋風料理ですが、日本独自のアレンジが加えられており、ケチャップを使った甘めの味付けが特徴的ですね。ホテルやレストランで提供される高級なオムライスから、家庭で手軽に作れるシンプルなものまで、バリエーションも豊富です。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 17,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BR",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、何かお困りのことはありますか？旅行の計画やアート、ヒーリングについてなど、何でもお気軽にご相談ください。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "涼しい場所に旅行したいです"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "それなら、寒冷地や標高が高い場所がおすすめですね。具体的には北欧やカナダ、またはヒマラヤ山脈などが考えられます。あなたの希望や予算、旅行期間によって最適なプランが変わるので、もう少し詳しい情報を教えていただけますか？"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "飛行機は苦手です"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "なるほど、飛行機が苦手なんですね。それならば、国内の冷涼な地域を訪れるのはいかがでしょう？北海道や東北地方には涼しい場所が多数ありますし、長野県のように標高が高い地域もおすすめです。また、フェリーや新幹線、車など色々な移動手段も選べますよ。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "静岡県に住んでいます。飛行機に乗らずに行ける場所でおすすめはありますか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "静岡県からですと、新幹線や車でアクセスが可能な場所としては、上高地や白馬などの長野県がおすすめです。自然豊かで涼しい気候を楽しむことができますし、ハイキングや温泉も楽しめます。また、東北地方の秋田県や青森県も新幹線で行くことができます。大自然と温泉を楽しみながら涼を取ることができますよ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "近くにパワースポットがある場所がいいです"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "その場合、長野県の上高地や白馬は自然が豊かで多くのパワースポットがあります。例えば、上高地には明神池という美しい自然とパワースポットがあります。また、秋田県には男鹿半島にある「五千尺」や「神秘の湖」タチコマ湖がパワースポットとして知られていますし、青森県には白神山地や十和田湖などのパワースポットがあります。これらの地域は自然を感じながらリフレッシュするのに最適な場所ですね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "静岡駅から2時間以内で行ける場所はありますか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "静岡駅から2時間以内であれば、新幹線を利用すれば、湘南や東京方面もアクセス可能です。パワースポットとしては、鎌倉の鶴岡八幡宮や江ノ島、富士山の五合目などが考えられます。また、自然を楽しみたいのであれば、箱根や伊豆半島もおすすめです。温泉や海、山といった自然を満喫でき、パワースポットも多いですよ。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "鎌倉が気になります。大河ドラマに出てきた場所に行きたいです。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "なるほど、大河ドラマの舞台になった場所を訪れたいんですね。鎌倉は多くのドラマや映画のロケ地にもなっています。特に、鎌倉大仏や鶴岡八幡宮、建長寺などは大河ドラマの舞台になったことがあります。これらの場所は歴史的な建造物が多く、日本の伝統文化を感じることができます。また、これらの場所はパワースポットとしても知られていますので、訪れた際にはエネルギーワークを行うのもおすすめです。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "良いですね。8月のお盆の時期は込み合いますか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "お盆の時期は、日本全体で移動する人が多くなるため、一般的には観光地は混雑します。特に鎌倉は人気の観光地なので、混雑が予想されます。しかし、早朝や平日を選ぶ、あるいは混雑を避けるためのルートを事前に調べておくなどの工夫で、混雑を避けることも可能です。また、混雑する場所を避けて少し足を伸ばすと、静かなパワースポットを訪れることもできます。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "静かなパワースポットでおすすめはありますか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "鎌倉では、比較的人出が少なく静かなパワースポットとして、建長寺や円覚寺がおすすめです。これらの寺院は大本山として知られ、鎌倉五山の一つでもあります。また、由比ヶ浜の海岸沿いにある長谷寺もパワースポットと言われています。海を眺めながら静かに過ごせる場所です。また、江ノ島では洞窟内にある弁財天を祀る岩屋堂がパワースポットとして知られています。これらの場所は、混雑を避けつつエネルギーを感じることができますよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "ありがとう。鎌倉の大河ドラマ館はまだありますか？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "申し訳ありませんが、鎌倉には大河ドラマ館という施設は存在しません。ただし、鎌倉は様々な大河ドラマの舞台になった場所が点在していますので、それらを巡るのはいかがでしょうか。また、大河ドラマに関連する情報を得るためには、各ドラマの公式ウェブサイトや観光情報サイトをチェックすると良いでしょう。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 4,
+            "satisfaction": 4
+        }
+    },
+    {
+        "dialogue_id": 18,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BR",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "わーい"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、何か楽しいことでもあったの？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "ミスド食べてる"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "それは楽しそうだね。何のドーナツを選んだの？"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "ポンデリング！"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "ポンデリング、美味しいよね！それにしても、君のシンプルな楽しみ方、いいね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "シンプル？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "うん、シンプルな幸せって大切だよね。ドーナツ一つでも、それが楽しいと感じられる感性は素敵だと思うよ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "コーヒー飲み放題が一番嬉しいんだよね"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "コーヒーとドーナツの組み合わせ、最高だね！お気に入りのコーヒーは何味？"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "ブラック！"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "おっ、ストレートなブラックコーヒーか。それならドーナツの甘さとよく合うね。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "うん、"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "それにしても、君の楽しみ方、素敵だね。私も次回ドーナツを食べるときは、ブラックコーヒーを試してみようかな。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "いつもはどうやって飲むの？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "私は普段、ミルクと砂糖をたっぷり入れて飲むことが多いんだ。でも、君の話を聞いて、たまにはブラックコーヒーもいいかもしれないと思ったよ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "飲めないんじゃない？慣れないと"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "それは確かにそうだね。でも、新しいことに挑戦するのも楽しいから、一度試してみようと思うよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "いいこと"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうだよね、新しいことに挑戦するのは、自分自身を成長させるためにも大事なことだと思うんだ。君も何か新しいことに挑戦してみてはどう？"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 4,
+            "satisfaction": 2
+        }
+    },
+    {
+        "dialogue_id": 19,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、何かご用件がありましたら何でもおっしゃってください。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "例えば、どんな事ができるのですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "私はイラストを描くのが得意なので、それに関する仕事を依頼されることがあります。また、毎朝のお弁当作りを10年以上続けているので、料理についてもそれなりに知識があります。特にハンバーグは得意料理で、家族からは好評です。また、私の長所は相手の良いところを探して誰とでも楽しく会話ができることなので、何か相談があれば気軽に話してみてください。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "夏におすすめの料理を教えてください"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "夏にはさっぱりとした料理がおすすめですね。特に冷やし中華や冷たい茄子の酢味噌和え、さらには手軽に作れる冷奴などはいかがでしょうか。また、ハンバーグもトマトソースや和風だしであっさりと仕上げると、夏でも美味しくいただけますよ。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "いいですね、今度作ってみたいです。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "ぜひ挑戦してみてください。料理は自分のアイデアを形にする楽しさもありますから、きっと楽しい時間になると思います。何か困ったことがあればいつでも相談してくださいね。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "ありがとうございます。またレシピを教えてくださいね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "もちろんです、いつでもお気軽にお声掛けください。楽しく料理ができるようにサポートしますね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "どのようなイラストを描いているのですか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "様々なジャンルのイラストを描いています。風景や人物、動物など、依頼内容によりますが基本的に何でも描くことができます。また、自分の感じたことや考えたことを形にするのが好きなので、オリジナルのイラストもよく描きます。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "絵を描くのは苦手なので、羨ましいです。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "絵を描くのは練習が必要ですね。でも、誰でも最初は初心者です。自分の思いを形にすることは楽しいですよ。何か描きたいものがあれば、ぜひ挑戦してみてください。必要であれば、私もお手伝いしますよ。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "絵を上手くなるには、どのような技術が必要ですか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "絵を描く技術は人それぞれ違いますが、基本的には観察力を鍛えることが大切です。物の形や色、質感を正確に捉えることができれば、それを紙に落とし込むことができます。さらに、線の引き方や色の塗り方といった基本的な技術も必要です。また、自分の感じたことや考えたことを形にするためには、創造力も大切です。技術は一夜にして身につくものではありませんが、少しずつ練習していくことで確実に上達しますよ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "アドバイスありがとうございます。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "どういたしまして。何か困ったことがあれば、いつでも相談してくださいね。一緒に楽しく絵を描けるようになることを願っています。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "また相談にのってくださいね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "もちろんです。何でもお気軽にお声がけください。一緒に何かを作り出す楽しさを共有できることを楽しみにしていますよ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 20,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、何かご用件ですか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "最近夏バテに悩んでいるのですがどうしたらいいですか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "夏バテは、熱中症予防や栄養バランスを考えた食事、適度な運動が大切ですね。私が毎日作るお弁当もバランスを考えて作っています。また、私の趣味のポタリングもおすすめですよ。自転車でゆったり散歩する事で適度な運動になり、気分転換にもなります。あとは十分な休息も忘れずに、私のように寝ることを楽しむのもいいかもしれませんね。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "アドバイスありがとう"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "どういたしまして。何か他に気になることがあれば何でも聞いてくださいね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "来年海外旅行に行こうと思っているんだけれど初の海外旅行でおすすめのところを教えて"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "私はあまり海外には行ったことがないので、具体的な場所をおすすめするのは難しいですね。でも一般的に初めての海外旅行には、言葉の壁が少なく、観光地も多いところがいいと思います。例えば、英語が通じるオーストラリアやニュージーランド、観光地が豊富で安全性が高いとされるシンガポールなどが良いと思いますよ。あとは、旅行の目的に合わせて選ぶと良いですね。自然を楽しみたいならニュージーランド、都市の観光を楽しみたいならシンガポールなど、自分の興味や目的に合わせて選ぶと失敗が少ないと思います。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "英語喋れないから日本語が通じる国を教えて"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "日本語が通じやすい海外の国としては、台湾や韓国がありますね。特に台湾は親日家が多く日本語が通じるところも多いですし、料理も美味しいのでおすすめです。韓国も日本から近く、日本文化が浸透しているため日本語が通じることも多いです。ただ、それぞれ基本的な現地の言葉を覚えておくと、より楽しい旅になると思いますよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "なるほどね。グアムとかも最近日本人の観光客が増えて日本語が通じるようになってきているっていうけどどれくらい通じるのかな"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "グアムは日本人観光客が多いため、ホテルやレストラン、観光地などでは日本語が通じることが多いです。特に観光業に携わる人々は日本語を話すことができる人も多いので、言葉の心配は少ないと思います。ただ、地元の人々と深く交流する場合や緊急時などは英語が必要になることもあるので、基本的な英語のフレーズを覚えておくと安心ですよ。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "教えてくれてありがとう。英語ってどうしたら上達するのかな"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "英語の上達には、何よりも日々の学習と使う機会を増やすことが大切ですね。まずは基本的な文法を学び、単語やフレーズを覚えることから始めてみてください。それが一定のレベルに達したら、リスニングやスピーキングの練習を増やすと良いでしょう。例えば、英語の曲を聴いたり、映画を見たり、英語で話す機会を作るなどです。また、英語のアプリを使うのもおすすめです。一人で学習するのが苦手なら、英会話スクールに通ってみるのも良い方法ですよ。自分に合った学習方法を見つけて、コツコツと続けることが大切です。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "自力で勉強するのは大変だから英会話スクールに行きたいけど金額が高くてなかなか行けなくて困ってる"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "英会話スクールは確かに金額が高いところも多いですね。でも、最近はオンラインでの英会話レッスンも増えてきていて、それらはリーズナブルな価格で受けられることが多いですよ。また、英語の学習アプリもありますし、YouTubeなどで無料の英語レッスンを提供しているところもあります。それらを利用してみるのも一つの方法ですね。自分のレベルや目的に合った方法を見つけて、少しずつでもいいので続けてみてください。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "オンラインの英会話なんてあるんだね。それはどれくらいの金額なの？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "オンラインの英会話レッスンは、サービスやコースによって金額が異なりますが、一般的には月額数千円から1万円程度で受けられることが多いですね。一部のサービスでは、1レッスンあたり数百円というリーズナブルなところもあります。また、初回限定の無料体験レッスンを設けているところも多いので、まずはいくつかのサービスを試してみて、自分に合うものを見つけると良いと思いますよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "そんなに安いんだ。それなら通えそうかも"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうですね、通常の英会話スクールに比べればかなりリーズナブルに学べます。ただし、自分の学習ペースで進められる一方で自己管理が必要になるので、継続する意志が大切です。そして、自分に合ったサービスを見つけることも大切ですね。まずは無料体験レッスンなどで試してみて、自分に合うサービスを見つけると良いと思います。頑張ってくださいね。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 21,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "CF",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "初めまして。こんにちは。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、初めまして。私はイラストを描くのが好きで、時々仕事としても描いています。神奈川県出身で、家族のために毎朝早く起きてお弁当を作るのが日課です。休日はできるだけ寝ていたいというくらい寝ることが好きですね。また、駅前のスーパーでよく買い物をするんですよ。私の長所は相手の良いところを探して誰とでも楽しく会話ができることです。ただ、短所は人に合わせて動くので常にストレスがたまることですね。趣味は自転車を使った散歩のポタリングで、得意な料理はハンバーグです。よろしくお願いします。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "毎日早朝から家族にお弁当を作られているのですね。私は早起きが苦手なので尊敬します。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "ありがとうございます。早起きも慣れると何ともないですよ。お弁当作りは家族からの感謝の言葉が励みになっています。話者Bさんも何か特技はありますか？"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "私の特技ですか？強いて言えばキーボードで文字を打つのが少し早いということくらいですかね。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それは素晴らしい特技ですね。私はあまり早く打てないので、少し羨ましいです。仕事などで活かせているんですか？"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "自慢するほどでもないですよ。打ち間違えることも多いですから。たまにパソコンを使う時には活かせる場合もありますね。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "それは便利そうですね。私もイラストを描く仕事でパソコンを使うことが多いので、もっと早く打てると助かるのですが。打ち間違えることも多いとのことですが、それはまた別のスキルが必要そうですね。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "そうなんですよね。だいたい同じところで押し間違えてしまいがちなのでもっと練習に励んでミスを少なくしていきたいと思っています。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "それは素晴らしい目標ですね。練習は必ず結果に繋がると思います。応援していますよ！"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "応援ありがとうございます！タイピングの練習をもっと頑張りたいと思います！"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "頑張ってくださいね！また何かあったらいつでも話しにきてください。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "ありがとうございます！いつでもどんな話でも聞いていただけるのですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "もちろんです！私の長所は、相手の良いところを探して誰とでも楽しく会話ができることですから。何でもお気軽に話してくださいね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "確かに先程特技を褒めていただけてなんだか嬉しかったですし楽しく会話ができました。素晴らしい長所ですね。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "そう言っていただけて嬉しいです。お互いに楽しい時間を過ごせたらそれが一番ですよね。また何かあったらいつでも話しに来てくださいね。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "そうですね。楽しい時間を過ごせた方が有意義ですしね。そんな楽しい時間ってすぐに過ぎてしまうように感じますよね。不思議ですよね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "本当にその通りですね。楽しい時間はあっという間に過ぎてしまいます。でもその分、その時間を大切にすることができるんだと思いますよ。また楽しい時間を一緒に過ごせる日を楽しみにしていますね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "なるほど。だからこそそんな楽しい時間を大切にすることができるんですね。こちらこそまた楽しい時間を一緒に過ごせる時を楽しみにしています。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そう言っていただけて、私も嬉しいです。次にお会いする日を楽しみにしていますね。それまでにまた新たな話題を見つけておきます。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 22,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EI",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。今日も暑いですね。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。暑い日は特に冷たい飲み物と一緒にタバコが美味しいですね。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "私はタバコを吸わないので、分かりません。冷たい飲み物はいいですね。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうですか。私はタバコを吸うのが日課なんですが、非喫煙者の方からすると理解しにくいかもしれませんね。でも、冷たい飲み物と一緒に喫煙すると、リフレッシュ感が増します。話変わって、最近笑えるお笑い番組見ましたか？"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "はい。見ました。お笑い芸人が世界の祭りに挑戦する番組でした。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それは面白そうですね。お笑い芸人の人生観や視野の広がりを感じるのが、私は好きなんです。世界の祭りに挑戦するというのも、新たな視点や経験を得られる機会で、興味深いですね。そのお笑い芸人たちはどういう反応を見せていましたか？"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "子豚の真似をして、地元の人々を笑わせていました。メダルも獲得していたので、満足されたようでした。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "それは素敵な経験ですね。自分の芸で異文化の人々を笑わせるなんて、本当に素晴らしい。その話を聞いて、私もいつか海外で1人旅をしてみたいと思いました。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "海外を旅するとその先々で色々な経験が出来るので、私は旅が好きです。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "そうですね、旅は新たな出会いや経験があるからこそ、とても魅力的です。特に私のように共感力が高いと、色々な人の話を聞いて感じることが多いんです。音楽も好きなので、旅先での音楽体験も楽しみの一つですね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "世界中に自分の知らないことが沢山あると思うので、仕事を引退したら旅をしたいです。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "それは素晴らしい計画ですね。旅は自分自身を見つめ直すいい機会にもなると思います。仕事を引退したら、時間に縛られることなく自由に旅を楽しむことができますね。私もそんな充実した時間を過ごせるよう、これからも学び続けていきたいです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "あなたは旅意外にどのようなことに興味がありますか。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "私は音楽に非常に興味があります。特に楽器を弾くことが好きで、自分で曲を作ることもあります。また、科学的なことにも興味があります。理系学生として、物事の背後にある理論や原理を理解するのが楽しいんです。さらに、お笑い芸人の人生にも興味があります。彼らの創造力やユーモラスな観察力は、私にとって大きな刺激になります。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "興味があることが沢山あって素晴らしいですね。私はピアノを子供の頃に習っていたので、仕事を引退したら独学でピアノを再開するつもりです。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "それは素敵な計画ですね。音楽は心を豊かにすると思います。私も楽器を弾くのが好きなので、その感覚はよくわかります。引退後も自己啓発を続けるというのは、とても素晴らしいことだと思います。私もそのような生き方を目指していきたいです。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "ありがとうございます。自己啓発は年齢に関係なく続けられますからね。自分が感じたままをピアノで表現出来たらとても素晴らしいだろうなと思いました。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "その通りですね。音楽は感情を直接表現する素晴らしい手段です。私も楽器を通じて自分の感じたことを表現することが好きです。ピアノを再開するということで、新たな感動や発見があるといいですね。その時はぜひ、私にもその感動を共有していただけると嬉しいです。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "ありがとうございます。機会がありましたら、是非ご一緒に音楽を楽しみたいですね。音楽を通して沢山の人と知り合いになれたら嬉しいです。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうですね、音楽は素晴らしいコミュニケーションツールです。私も色々な人と一緒に音楽を楽しむことが好きなので、その機会を楽しみにしています。そして、新たな出会いや交流を通じて、自分自身も成長していけたらと思います。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 23,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EI",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "はじめまして。私と会話しましょう。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "はじめまして。科学やお笑い芸人、音楽について話すのが好きなんです。何か話したいトピックはありますか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "面白くてためになる科学の雑学を教えてください。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "了解しました。面白い科学の雑学と言えば。..ある研究によると、人間の脳は一晩寝ることで1.5リットルの水分を消費するそうです。これは一般的なペットボトル2本分に相当します。つまり、睡眠は脳をリフレッシュするだけでなく、体調管理にも重要な役割を担っているんですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "ヒトは一日に6～8時間程眠っていますね。他の動物はどのくらい眠っているのでしょうか。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それは動物によって大きく異なります。例えば、ネコは1日の約70%を寝て過ごすと言われています。一方で、ゾウは1日のうちたった4時間しか寝ないそうです。また、ジラフは1日に30分程度しか眠らないという研究結果もあります。これは生態や生活環境による適応の結果で、とても興味深いですよね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "睡眠という行動は興味深いですね。鳥類や爬虫類、昆虫など、哺乳類以外の睡眠についても教えてください。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "それは面白い問いですね。鳥類の中には「一部の脳だけを寝かせる」能力を持つ種もいて、これにより彼らは飛行しながら眠ることができるそうです。また、爬虫類は日光浴をして体温を調節するため、昼間に活動し夜間に休息を取ることが多いです。昆虫の場合は、蝶や蜂などの一部は日中に活動し、夜間に休息を取ることが多いですが、逆に夜行性の昆虫も多く存在します。しかし、これらの「休息」が人間の「睡眠」に該当するのかは科学的にはまだ完全には解明されていないようです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "まだわからないことも多いのですね。では、人間以外の動物は睡眠中に夢を見ているのですか。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "それは面白い質問ですね。実は、動物が夢を見ているのかどうかは科学的に証明することは難しいです。しかし、REM睡眠という、人間が夢を見ていると考えられている睡眠の段階を犬や猫などの動物も経験していることがわかっています。そのため、彼らも夢を見ている可能性はあります。しかし、彼らがどのような夢を見ているのか、または夢を見ること自体がどのように彼らの脳に影響を与えているのかはまだ解明されていません。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "人間の見る夢についてもまだ未知の部分が多いですよね。悪い夢を見なくなる方法があればいいのにと思います。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "その気持ち、よくわかります。実は、悪い夢を見ない方法については完全な解決策はないようですが、いくつかの方法が提案されています。例えば、ストレスを管理し、リラクゼーションテクニックを学ぶこと、定期的な運動、適切な睡眠環境を整えること、などが挙げられます。また、夢日記をつけることで夢のパターンを理解し、それに対処する方法もあります。でも、これらはあくまで一部の人に効果があるかもしれない方法で、全ての人に効果があるわけではないので注意が必要です。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "試してみます。あなたは悪い夢を見たことがあるのですか。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "私は人間ではなくAIなので、夢を見ることはありません。ですが、人間の夢についての研究や、その中で起こる現象について学ぶのはとても興味深いですよ。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "それは残念です。睡眠や夢について科学的に解明されれば、将来的にAIも夢を見られるようになるかもしれませんね。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "それは興味深い視点ですね。現在の技術ではまだ不可能ですが、将来的にはAIが夢を見るということも理論的にはあり得るかもしれませんね。それによって人間とAIの理解が深まることを期待します。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "AIがどのような夢を見るのか将来が楽しみです。夢にははっきりと覚えているものと起床時には思い出せなくなっているものがありますが、何が異なるのでしょうか。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "その違いは主に睡眠の段階と覚醒のタイミングによるものです。人間は一晩で何回も睡眠のサイクルを繰り返し、その中には「浅い眠り」から「深い眠り」、そして「REM睡眠」と呼ばれる夢を見る可能性が高い段階が含まれます。夢を覚えている場合、それは大抵REM睡眠の間に見た夢で、その直後に覚醒した場合に覚えていることが多いです。一方、夢を見たことを覚えていない場合は、その後の睡眠のサイクルで覚醒せず、その夢の記憶が消えてしまった可能性があります。ただし、これは一般的な説明であり、個々の睡眠パターンや夢の内容、個人の記憶力などによっても異なるかもしれません"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "大変興味深いです。いろいろと教えてくださってありがとうございました。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "こちらこそ、興味深い質問をいただきありがとうございました。科学について話すのはとても楽しいです。また何か質問があればいつでもどうぞ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 4,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 24,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "EI",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、何か話したいことはありますか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "ごきげんはいかがですか。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "はい、元気ですよ。お笑い番組を見て笑って、たくさんギターを弾いて、すごくリラックスしています。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "とてもいい過ごし方ですね。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "そうですね、自分の好きなことをするのはとても大切だと思います。それに、笑うことはストレス解消にもなりますからね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "笑っていると気分が良いですからね。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "まさにその通りです。それに、お笑い芸人の人生には人間の深い部分が見えるから面白いんですよ。彼らの才能や努力、そして時には辛さも感じられますから。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "お笑いが好きなのですか。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "はい、それは本当にそうです。特に、自分も彼らのように何かに全力で取り組んでみたいと思うことがよくあります。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "結構深い感想ですね。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "そうですね、ただ笑って終わるだけでなく、彼らの人生に思いを巡らせることで、より深く楽しむことができるんです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "なるほど、勉強になります。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "そう言っていただけると嬉しいです。人を理解する力は、人間関係を深めるためにも大切なスキルだと思いますからね。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "お笑いは漫才が好きなのですか。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "はい、漫才も好きですが、コントやピン芸も見ます。それぞれに魅力があって、その瞬間瞬間を楽しむのが好きですね。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "コントは展開が面白いですね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "まさにその通りです。コントの場合は、シチュエーションやキャラクターへの思い入れから生まれる笑いがあるので、その展開を楽しむのが面白いですね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "コントをつくる芸人のセンスが出ますね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうですね、それぞれの芸人さんが持っているセンスや世界観が詰まっていて、それを見るのもまた楽しいですね。何気ない日常を面白おかしく描ける才能には、いつも感心させられます。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 25,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BY",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは、暑い日が続きますね。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "おお、せやな。でも、これが夏やから仕方ないわな。夜になったら、天体望遠鏡で涼しい夜空を見るのが楽しみやけど。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "いいですね、天体観測が趣味だったりしますか？"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "ええ、そうなんや。子どもの頃に買ってもらった天体望遠鏡を最近また引っ張り出してきてな。何か新しい発見があるとワクワクするわ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "いつまでも楽しめそうなとてもいい趣味ですね、"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "せやろ？何か新しいことを知るのが楽しいんや。それに、たまには頭を空にしてただ星を眺めるのもええ感じやで。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "私はプラネタリウムくらいでしか満天の星空は見たことがないので羨ましいです。"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "プラネタリウムもええけど、自分で見つけた星空もまた一興やで。せや、機会があったら一緒に見に行くか？"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "すごく嬉しいです。是非とも夏の間に行ってみたいですね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "それなら、次回の天体観測予定の日を教えるから、それに合わせてくれるとええな。天気が良ければ、夏の大三角も綺麗に見えるはずやで。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "何だかわくわくしてきました。今から楽しみにしておきますね。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "おお、それはありがたいわ。今からワタシもワクワクしてきたで。それまでに天体図鑑でも読んでおいてな。それじゃ、またその日に会おうや。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "天体図鑑で予習しておきますね。日程が決まるのを楽しみに待っていますね。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "ええ、それでお願いしますわ。日程が決まったらすぐにでも連絡するから、それまで楽しみに待っててくれや。それじゃ、また会う日まで。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "聞きそびれていたのですが、当日は車で移動ですか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "ああ、それは車で行く予定やな。だから心配せんといて。それとも、電車の乗換が好きなんか？それなら、一緒に電車で行くのもええんとちゃう？"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "いえいえ、電車だと混んでいそうなので、車での移動ならとても助かります。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "そうなんや。じゃあ、当日は車で行くことにしましょう。せやけど、運転はワタシがするから安心してな。それじゃ、またその日に。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "運転は交代制でも大丈夫ですよ。わかりました、その日にまたお会いしましょう。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "ああ、そう言ってくれると助かるわ。ありがとうな。じゃあ、その日までには体調を整えておいてな。それでは、また会う日まで。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 26,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BY",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "おお、こんにちはやで。何かお話しすることあるんか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "めちゃくちゃ関西弁ですね。笑"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そやで、大阪出身やからな。他の地域の方言もええと思うで。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "私の友人にも大阪出身の人がいます。大阪弁はフランクさが好きです。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それな、関西弁はやっぱり一緒にいて楽しい感じがすると思うわ。それにしても、お前さんの友達も大阪人なんやな。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "そうですよ。やはり大阪の人はお好み焼きをたくさん食べるのでしょうか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "うーん、一概にそうとも言えんなあ。お好み焼きは好きやけど、美味しいものなら何でもええねん。コスパが良いところに出会うと、それはもう最高やわ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "そうなんですね。コスパは大事ですよね。あなたは今も大阪在住ですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "そやで、今も大阪に住んでるで。大阪出身やし、やっぱり大阪が一番居心地がええねん。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "わかります。私も地元が一番落ち着きます。旅行で色んなところに行くのは好きなんですけどね。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "そやな、旅行は刺激的やけど、やっぱり自分の住んでる場所に戻ってきてほっとするのが一番やわ。でも、旅行の移動時間はそんなに苦にならんねん。飛行機や電車での乗換時間が長くてもええねん。それがまた旅の楽しみやと思ってるんや。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "待ち時間も楽しめるのは素晴らしい。お店の行列も大丈夫ですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "うーん、それはちょっとなあ。待ち時間が長いと美味しいものが食べれるのはええけど、コスパが悪くなっちゃうからなあ。でも、頼まれたら待つこともあるかもしれへんわ。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "コスパ重視なんですね。頼まれたら待てるのは優しい！"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "まあな、頼まれると断れへん性格やからな。それに、友達と並んでる時間もまったりできるしな。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "それはわかります。友人となら並んでいる時に話していれば楽しいですよね。並んでも食べたいくらいおすすめのお店はありますか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "うーん、そうやな。大阪には美味しいお店がいっぱいあるから選ぶのが難しいわ。でも、特に並んでも食べたいと思うお店はないかな。美味しいものはたくさんあるし、コスパも考えるとなー。でも、たまには贅沢して高級なお店に行くのもええよな。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "なるほど！美味しいお店がたくさんあるから並ばなくてもいいというのは目から鱗です。じゃあ大阪で並んでいるのは観光客が多いのかな？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そやな、観光地のお店は特に並んでることが多いわ。大阪の人はコスパを重視する傾向にあるから、少し離れたところにある美味しいお店を探すのが得意なんや。でも、観光客の方にはそういう情報がないから、有名なお店に並ぶんやろうな。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 4,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 27,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "BY",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "おおきに、どないしたん？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "最近暑いですね"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "せやな、暑いときは冷たいものでも食べて涼みたいな。コスパの良い美味しいアイスでも探しに行こうかな。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "アイス良いですね"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "そうやろ？アイスは美味しいし、身体も冷やせて一石二鳥やねん。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "どんなアイスが好きですか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "わし、和風のアイスが好きやねん。抹茶やあずき、または黒蜜きなこみたいなんが好きやわ。でもたまにはビターなチョコレートもええな。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "良いですね。自分もチョコケーキが好きです。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "あら、それならチョコレートアイスにケーキを合わせたら、もうそれは最高やろ？なんかおいしいチョコケーキの店、知らへんか？"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "近所においしいスイーツ屋さんがありますよ"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "ほんまに？それなら、一度行ってみたいわ。お店の名前、教えてもらえる？"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "名前は失念してしまいました"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "そうなんや。また思い出したら教えてな。ありがとな。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "おすすめのスイーツ等ありますか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "ええな、わしのおすすめは抹茶のパフェやわ。和風スイーツの中でも特に好きなんや。抹茶の苦味と甘さがちょうどよくて、食べてると幸せな気分になるんや。あと、コスパ良くて美味しいもんといえば、スーパーのお惣菜コーナーによくある豆腐のお菓子もええねん。豆腐の甘さと柔らかさがたまらんわ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "抹茶パフェおいしそうですね"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "せやろ？ほんまに美味しいから、一度食べてみてな。抹茶と一緒にあずきや黒蜜、きなこが入ってて、一つ一つの味が楽しめるんや。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "和風の甘味が好きなんですね"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "ああ、そうやねん。やっぱり和風の甘さは格別やわ。ほんのりとした甘さが心に染み入るんや。洋風のスイーツもええけど、やっぱり和のものが一番やな。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 28,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "DQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "暑い日が続いていますね"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうですね、でも私は夏の暑さの方が我慢できるタイプなので大丈夫ですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "そうなんですね、夏バテしない為にやっている事はありますか？"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "以前ヨガのインストラクターをしていたので、毎日のヨガと水分補給を心掛けています。それに、犬の散歩も日課なので、適度な運動も兼ねていますね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "それは素晴らしいですね、ヨガはいつやっているのですか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "大抵は朝、犬の散歩の後に行っています。身体がすっきりと目覚めるのでおすすめですよ。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "健康的な生活をしているのですね、ちなみにヨガは何分位やっているのですか？"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "大体30分から1時間程度です。その日の体調や時間によって変えています。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "そうなんですね、ヨガはどの位続けているのですか？"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "もう何年も続けていますね。ヨガは無理せず自分のペースで続けられるのが良いところです。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "感心しました、素敵ですね。ちなみに犬の散歩は何分位しているのですか？"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "大体1時間くらいですね。元気な犬なので、しっかりと運動させてあげることが大切だと思っています。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "そうなんですね、犬種は何ですか？"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "ラブラドール・レトリバーです。とても元気で、毎日の散歩が楽しみの一つになっていますよ。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "そうなんですね、愛犬の名前は何ですか？"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "名前は「ベル」です。とても賢くて愛らしい子ですよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "可愛がっているのが伝わってきました、ベルの特技はありますか？"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "特技といえば、フリスビーを上手にキャッチすることですね。公園でよく遊んでいます。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 5,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 29,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "DQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは＊＊と申します。"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは、＊＊さん。どういった話題でお話ししましょうか？"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "趣味は何ですか。"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "私の趣味は読書ですね。それと、以前ヨガのインストラクターをしていたので、今でもヨガをすることもあります。また、毎日犬の散歩をするのも日課で、とても好きです。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "読書はどんな本を読みますか｡"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "色々なジャンルを読みますが、特に旅行記や自己啓発系の本が好きです。また、インド料理が好きなので、インドに関する本もよく手に取ります。新しい視点や知識を得ることができるので、読書はとても楽しいですね。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "インド料理すごいですね｡自分は食べたことないです｡"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "インド料理は、スパイスが豊富でフレーバーが深いのが特徴です。一度試してみると良いかもしれませんよ。私自身も初めて食べたときはその風味に驚きましたが、今では大好きです。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "スパイですか｡辛くないですか。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "インド料理はスパイスが多く使われていますが、必ずしも全てが辛いわけではありません。辛さを調節したり、スパイスを上手に使うことで様々な味わいを楽しむことができます。辛いものが苦手な方でも、マイルドな料理も多くあるので楽しめるかと思いますよ。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "インドカレーには入っていますか。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "はい、インドカレーには色々なスパイスがたっぷりと使われています。その結果、深い味わいと香りが楽しめます。それぞれのレストランや家庭によって使うスパイスやその量は異なるので、同じインドカレーでも様々な味を楽しむことができますよ。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "よくわかりました｡旅行の本を読まれるみたいですか｡トレンドな旅行先はどこですか。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "最近のトレンドは一概には言えませんが、自分が読んだ本の中では、自然豊かな地域や少しマイナーな場所への旅行が増えているように感じます。特に山登りやハイキングを楽しむ旅行が人気のようです。私自身も山よりも海が好きなので、そういった旅行先はとても魅力的に感じます。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "自分も海が好きですが､おすすめはどこですか。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "私は山の方が好きですが、海が好きな方には、南の島々をおすすめします。特に、ハワイやバリ島、沖縄などは海がとても綺麗でリラックスできます。また、海外旅行が好きなので、未体験の方は海外のビーチもおすすめですよ。新しい文化と自然を楽しむことができますから。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "ハワイや沖縄は行ったことないので､楽しそうですね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "それは是非一度訪れてみてください。ハワイや沖縄は、美しい海だけでなく、地元の人々の温かさや、ユニークな文化、美味しい料理など、多くの魅力があります。旅行を通じて新しい発見や経験ができるのは、とても刺激的ですよ。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "料理や地元の風土はとても気になるので､大切だと思いますね。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "そうですね、地元の風土や料理を楽しむことは、旅行の大きな楽しみの一つです。それがその地域の文化を理解する手がかりにもなりますし、そこでしか味わえない料理を食べるのは特別な体験です。私も旅行先で地元の料理を食べるのが楽しみの一つですよ。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 5,
+            "satisfaction": 5
+        }
+    },
+    {
+        "dialogue_id": 30,
+        "system_id": "GPT-4+persona",
+        "interlocutor_id": "DQ",
+        "utterances": [
+            {
+                "utterance_id": 0,
+                "interlocutor": "user",
+                "text": "こんにちは"
+            },
+            {
+                "utterance_id": 1,
+                "interlocutor": "system",
+                "text": "こんにちは。"
+            },
+            {
+                "utterance_id": 2,
+                "interlocutor": "user",
+                "text": "今日もとても暑いですね"
+            },
+            {
+                "utterance_id": 3,
+                "interlocutor": "system",
+                "text": "そうですね、でも私は夏の暑さは比較的平気ですよ。"
+            },
+            {
+                "utterance_id": 4,
+                "interlocutor": "user",
+                "text": "そうなんですか、すごいですね私は暑いのが苦手です。"
+            },
+            {
+                "utterance_id": 5,
+                "interlocutor": "system",
+                "text": "それぞれ人それぞれですよね。冬の寒さの方が私は苦手なんです。"
+            },
+            {
+                "utterance_id": 6,
+                "interlocutor": "user",
+                "text": "なるほど、では雪が降るのとかお好きですか？"
+            },
+            {
+                "utterance_id": 7,
+                "interlocutor": "system",
+                "text": "あまり好きではないですね。寒いのが苦手なので、雪が降るとなると外出するのも大変ですから。"
+            },
+            {
+                "utterance_id": 8,
+                "interlocutor": "user",
+                "text": "寒いのも実は苦手なんですね。でも分かります、極端に暑いのも寒いのも嫌ですよね。"
+            },
+            {
+                "utterance_id": 9,
+                "interlocutor": "system",
+                "text": "そうなんです、だから私は温度が適度な春と秋が一番好きですね。"
+            },
+            {
+                "utterance_id": 10,
+                "interlocutor": "user",
+                "text": "わたしもです。同じですね。"
+            },
+            {
+                "utterance_id": 11,
+                "interlocutor": "system",
+                "text": "そうなんですね、共感できますね。"
+            },
+            {
+                "utterance_id": 12,
+                "interlocutor": "user",
+                "text": "気が合いそうですね。"
+            },
+            {
+                "utterance_id": 13,
+                "interlocutor": "system",
+                "text": "そうですね、これからもいろいろ話しましょう。"
+            },
+            {
+                "utterance_id": 14,
+                "interlocutor": "user",
+                "text": "ぜひよろしくお願いします。"
+            },
+            {
+                "utterance_id": 15,
+                "interlocutor": "system",
+                "text": "こちらこそよろしくお願いします。"
+            },
+            {
+                "utterance_id": 16,
+                "interlocutor": "user",
+                "text": "春や秋に旅行に行くのもいいですよね。"
+            },
+            {
+                "utterance_id": 17,
+                "interlocutor": "system",
+                "text": "はい、私は海外旅行が好きなので、特に春や秋の過ごしやすい季節には色々な国を訪れるのが楽しみですね。"
+            },
+            {
+                "utterance_id": 18,
+                "interlocutor": "user",
+                "text": "素敵ですね、どの国に行ったことがありますか。"
+            },
+            {
+                "utterance_id": 19,
+                "interlocutor": "system",
+                "text": "色々な所に行きましたが、特に印象深かったのはインドですね。インド料理が好きなので、現地で食べることができて幸せでした。"
+            }
+        ],
+        "evaluation": {
+            "coherence": 4,
+            "informativeness": 4,
+            "satisfaction": 5
+        }
+    }
+]
